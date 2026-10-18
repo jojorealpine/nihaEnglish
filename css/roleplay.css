@@ -408,6 +408,7 @@ button:disabled {
   border-radius: 8px;
   background: var(--light);
   margin: 6px 0;
+  overflow-wrap: anywhere;
 }
 .script-me {
   background: #faf9f5;
@@ -415,6 +416,42 @@ button:disabled {
 .script-partner p[lang="en"],.script-me p[lang="en"] {
   font: 16px/1.5 Georgia,serif;
   margin: 4px 0;
+}
+.script-translation {
+  font-size: 12px;
+  line-height: 1.7;
+  color: #65716a;
+  margin: 6px 0 0;
+}
+.script-study {
+  border-top: 1px solid #dde4da;
+  padding-top: 8px;
+  margin-top: 8px;
+  font-size: 12px;
+  line-height: 1.75;
+  color: #65716a;
+}
+.script-explanation {
+  margin: 0 0 6px;
+}
+.script-terms {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 16px;
+  margin: 0;
+}
+.script-terms > div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px 6px;
+  min-width: 0;
+}
+.script-terms dt {
+  color: var(--accent);
+  font-weight: 600;
+}
+.script-terms dd {
+  margin: 0;
 }
 .essentials-section,.speaking-tips {
   margin-top: 46px;

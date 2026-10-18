@@ -149,12 +149,24 @@ function renderStage() {
       <button type="button" class="advance-button" data-action="advance">대답했어요 · ${turnIndex + 1 === total ? '연습 마치기' : '다음 대화'} →</button></div>${renderLog()}`;
 }
 
+function renderScriptLine(line, label, className) {
+  const study = line.study;
+  return `<div class="${className}"><b>${escapeHTML(label)}</b>
+    <p lang="en">${escapeHTML(line.english)}</p>
+    <p class="script-translation">${escapeHTML(line.korean)}</p>
+    ${study ? `<div class="script-study">
+      ${study.explanation ? `<p class="script-explanation">${escapeHTML(study.explanation)}</p>` : ''}
+      ${study.terms?.length ? `<dl class="script-terms" aria-label="단어와 표현">${study.terms.map(term => `<div><dt lang="en">${escapeHTML(term.english)}</dt><dd>${escapeHTML(term.korean)}</dd></div>`).join('')}</dl>` : ''}
+    </div>` : ''}
+  </div>`;
+}
+
 function renderScript() {
   $('practice-script').innerHTML = `<details class="practice-script"><summary>전체 대본 보기</summary>
     <p class="example-note">내 차례의 문장은 답변 예시예요. 내 상황에 맞게 바꿔 말해보세요.</p>
     <ol>${selectedCase.turns.map(turn => `<li>
-      <div class="script-partner"><b>상대</b><p lang="en">${escapeHTML(turn.partner.english)}</p><p class="dialogue-ko">${escapeHTML(turn.partner.korean)}</p></div>
-      <div class="script-me"><b>나 · 답변 예시</b><p lang="en">${escapeHTML(turn.responses[0].english)}</p><p class="dialogue-ko">${escapeHTML(turn.responses[0].korean)}</p></div>
+      ${renderScriptLine(turn.partner, '상대', 'script-partner')}
+      ${renderScriptLine(turn.responses[0], '나 · 답변 예시', 'script-me')}
     </li>`).join('')}</ol></details>`;
 }
 

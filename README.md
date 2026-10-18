@@ -148,10 +148,27 @@ python3 scripts/generate_audio.py --lesson data/lesson02.json
 - `expressions[]`: 상황별 핵심 표현의 `english`, `korean`, 선택 사항인 사용법 설명(`note`).
 - `cases[]`: 각 대화의 `id`, `title`, 상황 설명(`context`), 상대 역할(`partnerRole`), 대화 차례(`turns`), 마무리 복습 포인트(`review`).
 - `turns[]`: 상대 문장(`partner.english`, `partner.korean`), 내 미션(`mission`), 표현 힌트(`hints`), 가능한 답변들(`responses`의 `english`, `korean`).
+- `partner.study`, `responses[].study`: 전체 대본에서 보여 줄 문장 해설(`explanation`)과 단어·표현 목록(`terms[]`의 `english`, `korean`). 각 문장 바로 옆에서 내용을 관리합니다.
 - `essentials[]`: 암기 체크리스트의 `id`, `english`, `korean`.
 - `speakingTips[]`: 말하기 팁의 `title`, `text`.
 
 상황과 케이스를 배열에 추가하면 선택 버튼이 자동으로 생깁니다. 케이스의 `id`는 같은 상황 안에서 중복되지 않게 작성합니다. 모든 케이스는 각 차례의 상대 질문에 소리 내어 답하거나 답을 입력하고 **대답했어요**를 눌러 진행합니다. 입력한 답은 대화 기록에서 확인하고, 전체 대본과 답변 예시도 볼 수 있습니다.
+
+**전체 대본 보기**를 펼치면 상대와 답변 예시의 각 영어 문장 아래에 한글 뜻, 짧은 문장 해설, 핵심 단어·표현이 작은 글씨로 표시됩니다. 대본의 한글 뜻은 항상 표시합니다. 현재 39개 케이스의 대화 문장 236개에 해설과 표현 설명이 들어 있습니다. 새 문장에는 아래처럼 `study`를 추가합니다. 이 필드는 선택 사항이며 생략하면 영어와 한글 뜻만 표시합니다.
+
+```json
+{
+  "english": "I found myself crying during meditation.",
+  "korean": "명상하다 보니 나도 모르게 울고 있었어.",
+  "study": {
+    "explanation": "found myself + -ing는 의도하지 않았는데 어느새 그런 행동을 하고 있었음을 뜻해요.",
+    "terms": [
+      { "english": "found myself crying", "korean": "나도 모르게 울고 있었다" },
+      { "english": "during meditation", "korean": "명상하는 동안" }
+    ]
+  }
+}
+```
 
 선택한 상황과 케이스는 `roleplay.html?scenario=greetings&case=first-hello`처럼 URL에 저장됩니다. 완료한 케이스와 암기 체크는 브라우저 `localStorage`의 `nihaEnglish.roleplay.v1`에 저장되며, **학습 기록 초기화**로 지울 수 있습니다. 듣기는 브라우저 TTS를 사용하고 기본 속도는 1.0×입니다.
 
