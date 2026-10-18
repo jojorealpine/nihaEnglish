@@ -1,17 +1,103 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Osho Letters · 1962 / 1 — English Study</title>
-<style>
-:root{--ink:#28312d;--muted:#77817b;--paper:#faf9f5;--card:#fff;--line:#e6e8e1;--accent:#557363;--light:#edf3ed;--gold:#ba8b4e}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:system-ui,-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;line-height:1.75}.wrap{max-width:1180px;margin:auto;padding:0 24px}header{padding:70px 0 42px;border-bottom:1px solid var(--line)}.eyebrow{letter-spacing:.22em;text-transform:uppercase;font-size:12px;color:var(--accent);font-weight:700}.hero-title{font-size:clamp(36px,5vw,68px);font-weight:500;line-height:1.2;letter-spacing:-.035em;margin:12px 0 18px;font-family:Georgia,serif}.subtitle{color:var(--muted);max-width:700px;margin:0}.section{padding:52px 0;border-bottom:1px solid var(--line)}h2{font-size:24px;letter-spacing:-.035em;margin:0 0 10px}h3{font-size:16px;margin:0 0 8px}.hint{color:var(--muted);font-size:14px;margin:0 0 24px}.vocab-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}.vocab{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:19px;min-height:135px}.vocab strong{display:block;font-family:Georgia,serif;font-size:19px;margin-bottom:2px}.vocab .ko{font-weight:650;font-size:14px}.vocab small{display:block;color:var(--muted);font-size:12px;margin-top:8px;line-height:1.5}.video-placeholder{border:1px dashed #b8c8b9;border-radius:18px;padding:30px;background:var(--light)}.video-placeholder p{margin:4px 0 14px;color:var(--muted)}input{font:inherit;border:1px solid #ccd6cc;border-radius:9px;padding:10px 12px;width:min(550px,100%);background:white}button,a.btn{font:inherit;cursor:pointer;border:1px solid var(--accent);background:var(--accent);color:white;border-radius:9px;padding:9px 15px;text-decoration:none;display:inline-flex;align-items:center;justify-content:center;gap:6px}button:hover,a.btn:hover{filter:brightness(.94)}button.secondary{background:white;color:var(--accent)}button:focus-visible,input:focus-visible,.sentence:focus-visible{outline:3px solid #b4d1b9;outline-offset:3px}.video-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}.study-layout{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(280px,.85fr);gap:24px;align-items:start}.reading,.detail,.translation{border:1px solid var(--line);background:white;border-radius:18px;padding:30px}.reading{font-family:Georgia,serif;font-size:18px;line-height:2}.reading .paragraph{margin-bottom:28px}.reading .paragraph:last-child{margin-bottom:0}.sentence{display:block;cursor:pointer;border-radius:4px;padding:5px 7px;transition:background .15s;box-decoration-break:clone;-webkit-box-decoration-break:clone}.sentence:hover{background:#f1f4ef}.sentence.active{background:#dceadf;color:#1b4830}.detail{position:sticky;top:20px;min-height:300px}.number{font-size:11px;font-weight:bold;color:var(--accent);letter-spacing:.12em}.selected-en{font-family:Georgia,serif;font-size:24px;line-height:1.5;margin:10px 0}.selected-ko{font-weight:650;line-height:1.8;margin:8px 0 18px}.explain{border-top:1px solid var(--line);padding-top:14px;font-size:14px}.grammar{margin-top:14px;padding:13px 14px;background:var(--light);border-radius:10px;font-size:14px}.grammar strong{display:block;font-size:12px;color:var(--accent);margin-bottom:4px}.speech-controls{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin:12px 0 16px}.speech-controls select{border:1px solid var(--line);border-radius:8px;background:white;padding:9px}.speech-controls label{font-size:12px;color:var(--muted)}.translation{font-size:16px;line-height:2}.translation p{margin:0 0 22px}.translation p:last-child{margin:0}.foot{font-size:12px;color:var(--muted);padding:24px 0 50px}.notice{font-size:12px;color:var(--muted);margin:8px 0 0}.video-frame{position:relative;width:100%;aspect-ratio:16/9;margin-top:16px}.video-frame iframe{position:absolute;width:100%;height:100%;border:0;border-radius:12px}.hide{display:none}@media(max-width:860px){.vocab-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.study-layout{grid-template-columns:1fr}.detail{position:static}.reading,.detail,.translation{padding:22px}}@media(max-width:510px){header{padding:45px 0 28px}.wrap{padding:0 16px}.section{padding:36px 0}.vocab-grid{grid-template-columns:1fr 1fr;gap:8px}.vocab{padding:13px;min-height:145px}.vocab strong{font-size:16px}.reading{font-size:17px}}
- .hero-player{display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin-top:23px}.hero-player span{font-size:13px;color:var(--muted)}.sentence-num{font:600 12px system-ui,sans-serif;color:var(--accent);margin-right:6px}.toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:18px}.toolbar label{font-size:13px;color:var(--muted)}.toolbar select{font:inherit;padding:9px;border-radius:9px;border:1px solid var(--line)}.mode-note{font-size:12px;color:var(--muted)}.sentence.playing{box-shadow:inset 0 -3px 0 #ba8b4e} </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Osho Letters — English Study</title>
+  <link rel="stylesheet" href="css/styles.css">
 </head>
-<body><header><div class="wrap"><div class="eyebrow">Meditation · English Reading Journal</div><h1 class="hero-title">Osho Letters<br>1962 / 1</h1><p class="subtitle">읽고, 듣고, 문장을 깊이 이해하는 영어 명상 스터디. 문장을 누르면 오른쪽에서 뜻과 문법을 확인하고 준비된 문장별 MP3 음성으로 바로 들어볼 수 있어요.</p><div class="hero-player"><button id="hero-play-all" type="button">▶ 전체 듣기</button><button id="hero-stop" type="button" class="secondary">■ 정지</button><span id="hero-audio-status" aria-live="polite">전체 음원: script_all.mp3</span></div></div></header>
-<main class="wrap"><section class="section"><div class="eyebrow">01 / Words & expressions</div><h2>핵심 단어와 표현</h2><p class="hint">본문을 읽기 전에 의미와 뉘앙스를 먼저 익혀보세요.</p><div class="vocab-grid" id="vocab"></div></section>
-<section class="section"><div class="eyebrow">02 / Video</div><h2>영상으로 듣기</h2><p class="hint">아직 유튜브 링크가 없어도 괜찮아요. 아래 본문에서 원하는 문장을 클릭해 바로 읽어줄 수 있어요.</p><div class="video-placeholder"><h3>유튜브 영상 링크 · 선택 사항</h3><p>나중에 영상이 생기면 주소를 붙여 넣어 재생할 수 있어요. 이 입력값은 현재 열린 페이지에만 적용됩니다.</p><input type="url" id="youtube-url" placeholder="https://www.youtube.com/watch?v=..." aria-label="유튜브 영상 주소"><div class="video-actions"><button id="load-video">영상 불러오기</button><button id="clear-video" class="secondary">비우기</button></div><p id="video-status" class="notice" aria-live="polite"></p><div id="video-frame" class="video-frame hide"></div></div></section>
-<section class="section"><div class="eyebrow">03 / Read & listen</div><h2>영어 본문</h2><p class="hint">문장을 클릭하면 오른쪽에 해석과 상세 설명이 나옵니다. 모바일에서는 본문 아래에 나타나요.</p><div class="toolbar"><button id="play-all">▶ 전체 듣기 (MP3)</button><button id="stop-all" class="secondary">■ 정지</button><label for="global-rate">속도</label><select id="global-rate"><option value="0.75">0.75×</option><option value="0.9" selected>0.9×</option><option value="1">1.0×</option><option value="1.15">1.15×</option></select><label><input type="checkbox" id="loop-single" style="width:auto"> 문장 반복</label><label><input type="checkbox" id="auto-fallback" checked style="width:auto"> MP3 없으면 브라우저 음성</label></div><p class="mode-note" id="player-status" aria-live="polite">문장을 누르면 01.mp3~20.mp3를 재생합니다. 전체 듣기는 script_all.mp3를 재생합니다.</p><div class="study-layout"><article class="reading" id="reading" aria-label="영어 본문"></article><aside class="detail" id="detail" aria-live="polite"><div class="number">SENTENCE GUIDE</div><p>왼쪽 문장을 선택하면 문장별 설명이 나와요.</p></aside></div></section>
-<section class="section"><div class="eyebrow">04 / Korean translation</div><h2>한국어 전체 해석</h2><p class="hint">시적인 표현은 문맥을 고려해 자연스럽게 의역했습니다.</p><div class="translation" id="translation"></div></section></main><footer class="wrap foot">English study companion · AI 생성 음성은 합성된 음성입니다. MP3가 없으면 기기의 브라우저 음성을 이용합니다. 원문은 사용자가 제공한 텍스트를 기준으로 하며, 일부 구절은 문법적으로 특이합니다.</footer>
-<script src="js/app.js" defer></script>
+<body>
+  <header>
+    <div class="wrap">
+      <div class="eyebrow">Meditation · English Reading Journal</div>
+      <h1 class="hero-title">Osho Letters <span id="letter-heading">Letter 1</span></h1>
+      <p class="letter-date" id="letter-date">1962 / 1</p>
+      <p class="subtitle">읽고, 듣고, 문장을 깊이 이해하는 영어 명상 스터디. 문장을 누르면 뜻과 문법을 확인하고 준비된 문장별 MP3 음성으로 바로 들어볼 수 있어요.</p>
+
+      <nav class="letter-nav" aria-label="편지 선택">
+        <div class="eyebrow">Choose a letter</div>
+        <div class="letter-list" id="letter-list"></div>
+      </nav>
+      <p class="letter-status" id="letter-status" role="status">편지 목록을 불러오는 중…</p>
+
+      <div class="hero-player" id="hero-player" hidden>
+        <button id="hero-play-all" type="button">▶ 전체 듣기</button>
+        <button id="hero-stop" type="button" class="secondary">■ 정지</button>
+        <span id="hero-audio-status" aria-live="polite"></span>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap" id="study-main">
+    <section class="letter-message" id="letter-message" aria-labelledby="letter-message-title" hidden>
+      <h2 id="letter-message-title"></h2>
+      <p id="letter-message-text"></p>
+    </section>
+
+    <div id="lesson-content" hidden>
+      <section class="section">
+        <div class="eyebrow">01 / Words & expressions</div>
+        <h2>핵심 단어와 표현</h2>
+        <p class="hint">본문을 읽기 전에 의미와 뉘앙스를 먼저 익혀보세요.</p>
+        <div class="vocab-grid" id="vocab"></div>
+      </section>
+
+      <!-- 영상 영역은 현재 숨겨 둡니다. 사용할 때 이 주석을 해제하세요.
+      <section class="section">
+        <div class="eyebrow">Video</div>
+        <h2>영상으로 듣기</h2>
+        <div class="video-placeholder">
+          <h3>유튜브 영상 링크 · 선택 사항</h3>
+          <p>영상 주소를 붙여 넣어 재생할 수 있어요.</p>
+          <input type="url" id="youtube-url" placeholder="https://www.youtube.com/watch?v=..." aria-label="유튜브 영상 주소">
+          <div class="video-actions">
+            <button id="load-video" type="button">영상 불러오기</button>
+            <button id="clear-video" type="button" class="secondary">비우기</button>
+          </div>
+          <p id="video-status" class="notice" aria-live="polite"></p>
+          <div id="video-frame" class="video-frame hide"></div>
+        </div>
+      </section>
+      -->
+
+      <section class="section">
+        <div class="eyebrow">02 / Read & listen</div>
+        <h2>영어 본문</h2>
+        <p class="hint">문장을 클릭하면 오른쪽에 해석과 상세 설명이 나옵니다. 모바일에서는 본문 아래에 나타나요.</p>
+        <div class="toolbar">
+          <button id="play-all" type="button">▶ 전체 듣기 (MP3)</button>
+          <button id="stop-all" type="button" class="secondary">■ 정지</button>
+          <label for="global-rate">속도</label>
+          <select id="global-rate">
+            <option value="0.75">0.75×</option>
+            <option value="0.9" selected>0.9×</option>
+            <option value="1">1.0×</option>
+            <option value="1.15">1.15×</option>
+          </select>
+          <label><input type="checkbox" id="loop-single"> 문장 반복</label>
+          <label><input type="checkbox" id="auto-fallback" checked> MP3 없으면 브라우저 음성</label>
+        </div>
+        <p class="mode-note" id="player-status" aria-live="polite"></p>
+        <div class="study-layout">
+          <article class="reading" id="reading" aria-label="영어 본문"></article>
+          <aside class="detail" id="detail" aria-live="polite">
+            <div class="number">SENTENCE GUIDE</div>
+            <p>왼쪽 문장을 선택하면 문장별 설명이 나와요.</p>
+          </aside>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="eyebrow">03 / Korean translation</div>
+        <h2>한국어 전체 해석</h2>
+        <p class="hint">시적인 표현은 문맥을 고려해 자연스럽게 의역했습니다.</p>
+        <div class="translation" id="translation"></div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="wrap foot">English study companion · AI 생성 음성은 합성된 음성입니다. MP3가 없으면 기기의 브라우저 음성을 이용합니다. 원문은 사용자가 제공한 텍스트를 기준으로 하며, 일부 구절은 문법적으로 특이합니다.</footer>
+  <noscript><p class="wrap">편지를 보려면 브라우저에서 JavaScript를 허용해 주세요.</p></noscript>
+  <script src="js/app.js" type="module"></script>
 </body>
 </html>

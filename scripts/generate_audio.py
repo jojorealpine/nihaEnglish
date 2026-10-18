@@ -12,11 +12,12 @@ def main():
     p.add_argument('--force', action='store_true', help='Regenerate existing files')
     p.add_argument('--voice', default='coral', help='OpenAI TTS voice')
     p.add_argument('--speed', type=float, default=0.9)
+    p.add_argument('--lesson', default='data/lesson01.json', help='Lesson JSON path relative to the repository root')
     args = p.parse_args()
     if not os.getenv('OPENAI_API_KEY'):
         raise SystemExit('OPENAI_API_KEY environment variable is missing.')
     client = OpenAI()
-    data = json.loads((ROOT / 'data/lesson01.json').read_text(encoding='utf-8'))
+    data = json.loads((ROOT / args.lesson).read_text(encoding='utf-8'))
     for item in [*data['sentences'], {'english':'\n'.join(s['english'] for s in data['sentences']), 'audio':data['fullAudio']}]:
         output = ROOT / item['audio']
         output.parent.mkdir(parents=True, exist_ok=True)

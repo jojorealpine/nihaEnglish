@@ -1,26 +1,137 @@
 "use strict";
-const $=id=>document.getElementById(id);
-let lesson,active=1,playingAll=false,serial=0;
-const player=new Audio();player.preload='none';
-const path=id=>lesson.sentences[id].audio;
-const status=t=>{ $('player-status').textContent=t; $('hero-audio-status').textContent=t; };
-const escapeHTML=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-function stop(){serial++;playingAll=false;player.pause();player.removeAttribute('src');player.load();if('speechSynthesis'in window)speechSynthesis.cancel();status('재생 정지');}
-function choose(i){active=i;const d=lesson.sentences[i];document.querySelectorAll('.sentence').forEach(e=>{let current=Number(e.dataset.i)===i;e.classList.toggle('active',current);e.setAttribute('aria-pressed',String(current));});$('detail').innerHTML=`<div class="number">SENTENCE ${String(i+1).padStart(2,'0')} / ${lesson.sentences.length}</div><p class="selected-en">${escapeHTML(d.english)}</p><div class="selected-ko">${escapeHTML(d.korean)}</div><div class="speech-controls"><button id="speak-one">▶ 문장 듣기</button><button id="stop-one" class="secondary">■ 멈춤</button></div><p class="explain">${escapeHTML(d.explanation)}</p><div class="grammar"><strong>영어 표현 · 문법 포인트</strong>${escapeHTML(d.grammar)}</div>`;$('speak-one').onclick=()=>start(i,false);$('stop-one').onclick=stop;}
-function browserSpeech(text,token){return new Promise(resolve=>{if(!('speechSynthesis'in window)){resolve(false);return;}let u=new SpeechSynthesisUtterance(text);u.lang='en-US';u.rate=Number($('global-rate').value);u.onend=()=>resolve(token===serial);u.onerror=()=>resolve(false);speechSynthesis.cancel();speechSynthesis.speak(u);});}
-function mp3Speech(src,token){return new Promise(resolve=>{let finished=false;const done=(ok)=>{if(finished)return;finished=true;player.onended=null;player.onerror=null;resolve(ok&&token===serial)};player.pause();player.src=src;player.playbackRate=Number($('global-rate').value);player.onended=()=>done(true);player.onerror=()=>done(false);player.play().catch(()=>done(false));});}
-async function speak(i,token){const d=lesson.sentences[i];status(`문장 ${i+1} 재생 중…`);const ok=await mp3Speech(path(i),token);if(token!==serial)return false;if(ok)return true;if($('auto-fallback').checked){status(`MP3 없음 · 문장 ${i+1} 브라우저 음성으로 재생`);return await browserSpeech(d.english,token);}status('MP3 파일이 없습니다. scripts/generate_audio.py를 실행해 주세요.');return false;}
-async function start(i,all){stop();const token=serial;playingAll=all;do{for(let j=i;j<lesson.sentences.length;j++){if(token!==serial)return;choose(j);const ok=await speak(j,token);if(token!==serial)return;if(!ok){playingAll=false;return;}if(!all){if(!$('loop-single').checked){status('재생 완료');return;}j--;}}if(!all)break;status('전체 재생 완료');return;}while(token===serial);}
 
-async function playFull(){
-  stop();
-  const token=serial;
-  status('전체 음성 재생 중…');
-  const ok=await mp3Speech(lesson.fullAudio || 'audio/1962-01/script_all.mp3',token);
-  if(token!==serial)return;
-  status(ok?'전체 듣기 완료':'script_all.mp3 파일을 찾을 수 없거나 재생할 수 없습니다.');
+import { createAudioPlayer } from './audio-player.js';
+import { createLessonView } from './lesson-view.js';
+
+const $ = id => document.getElementById(id);
+let catalog;
+let selection = 0;
+let view;
+
+const player = createAudioPlayer({
+  onSelect: index => view.selectSentence(index),
+  onPlaying: index => view.markPlaying(index),
+  onStatus: text => {
+    $('player-status').textContent = text;
+    $('hero-audio-status').textContent = text;
+  },
+  getRate: () => Number($('global-rate').value),
+  shouldLoop: () => $('loop-single').checked,
+  shouldFallback: () => $('auto-fallback').checked
+});
+
+view = createLessonView({
+  onPlaySentence: index => player.playSentence(index),
+  onStop: () => player.stop()
+});
+
+$('play-all').onclick = () => player.playFull();
+$('hero-play-all').onclick = () => player.playFull();
+$('hero-stop').onclick = () => player.stop();
+$('stop-all').onclick = () => player.stop();
+$('global-rate').onchange = () => player.setRate(Number($('global-rate').value));
+
+async function readJSON(path) {
+  const response = await fetch(path);
+  if (!response.ok) throw new Error(`HTTP ${response.status}: ${path}`);
+  return response.json();
 }
 
-function videoId(url){try{const u=new URL(url),host=u.hostname.replace(/^www\./,'');if(host==='youtu.be')return /^[\w-]{11}$/.test(u.pathname.slice(1))?u.pathname.slice(1):null;if(['youtube.com','m.youtube.com','youtube-nocookie.com'].includes(host)){const id=u.searchParams.get('v')||u.pathname.match(/^\/(?:shorts|embed|live)\/([\w-]{11})/)?.[1];return /^[\w-]{11}$/.test(id||'')?id:null;}}catch{}return null;}
-async function init(){try{const resp=await fetch('data/lesson01.json');if(!resp.ok)throw Error('HTTP '+resp.status);lesson=await resp.json();$('vocab').innerHTML=lesson.vocabulary.map(v=>`<div class="vocab"><strong>${escapeHTML(v.word)}</strong><div class="ko">${escapeHTML(v.meaning)}</div><small>${escapeHTML(v.note)}</small></div>`).join('');$('reading').innerHTML=lesson.paragraphs.map(ids=>`<div class="paragraph">${ids.map(i=>`<span class="sentence" role="button" tabindex="0" data-i="${i}" aria-label="문장 ${i+1} 듣기와 해설"><span class="sentence-num">${String(i+1).padStart(2,'0')}</span>${escapeHTML(lesson.sentences[i].english)}</span>`).join(' ')}</div>`).join('');$('translation').innerHTML=lesson.translations.map(t=>`<p>${escapeHTML(t)}</p>`).join('');$('reading').onclick=e=>{const el=e.target.closest('.sentence');if(el)start(Number(el.dataset.i),false);};$('reading').onkeydown=e=>{const el=e.target.closest('.sentence');if(el&&['Enter',' '].includes(e.key)){e.preventDefault();start(Number(el.dataset.i),false);}};$('play-all').onclick=playFull;$('hero-play-all').onclick=playFull;$('hero-stop').onclick=stop;$('stop-all').onclick=stop;$('global-rate').onchange=()=>player.playbackRate=Number($('global-rate').value);$('load-video').onclick=()=>{const id=videoId($('youtube-url').value.trim()),box=$('video-frame');if(!id){$('video-status').textContent='올바른 유튜브 주소를 입력하세요.';return;}box.innerHTML=`<iframe src="https://www.youtube-nocookie.com/embed/${id}" title="YouTube" loading="lazy" allowfullscreen></iframe>`;box.classList.remove('hide');};$('clear-video').onclick=()=>{$('youtube-url').value='';$('video-frame').replaceChildren();$('video-frame').classList.add('hide');$('video-status').textContent='';};if(lesson.youtubeUrl)$('youtube-url').value=lesson.youtubeUrl;choose(0);}catch(e){status('학습 데이터를 불러올 수 없습니다. 로컬 서버 또는 GitHub Pages로 실행하세요. '+e.message);}}
+function renderNavigation() {
+  const buttons = catalog.letters.map(letter => {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'letter-button secondary';
+    button.dataset.letter = letter.id;
+    button.textContent = `Letter ${letter.number}`;
+    if (!letter.file) {
+      const badge = document.createElement('small');
+      badge.textContent = '준비 중';
+      button.append(badge);
+    }
+    button.onclick = () => selectLetter(letter.id, 'push');
+    return button;
+  });
+  $('letter-list').replaceChildren(...buttons);
+}
+
+function showMessage(title, text) {
+  $('letter-message-title').textContent = title;
+  $('letter-message-text').textContent = text;
+  $('letter-message').hidden = false;
+}
+
+async function selectLetter(id, historyMode = 'replace') {
+  const letter = catalog.letters.find(item => item.id === id)
+    || catalog.letters.find(item => item.id === catalog.defaultLetter)
+    || catalog.letters[0];
+  const token = ++selection;
+
+  player.setLesson(null);
+  view.clearVideo();
+  $('lesson-content').hidden = true;
+  $('hero-player').hidden = true;
+  $('letter-message').hidden = true;
+  $('study-main').removeAttribute('aria-busy');
+  $('letter-heading').textContent = `Letter ${letter.number}`;
+  $('letter-date').textContent = letter.title;
+  document.title = `Osho Letters · Letter ${letter.number} (${letter.title}) — English Study`;
+  document.querySelectorAll('.letter-button').forEach(button => {
+    const selected = button.dataset.letter === letter.id;
+    button.classList.toggle('selected', selected);
+    if (selected) button.setAttribute('aria-current', 'page');
+    else button.removeAttribute('aria-current');
+  });
+
+  const url = new URL(window.location.href);
+  if (url.searchParams.get('letter') !== letter.id) {
+    url.searchParams.set('letter', letter.id);
+    if (historyMode === 'push') window.history.pushState(null, '', url);
+    else window.history.replaceState(null, '', url);
+  }
+
+  if (!letter.file) {
+    $('letter-status').textContent = '아직 등록되지 않은 편지입니다.';
+    showMessage(`Letter ${letter.number} · 준비 중`, '새로운 편지를 준비하고 있어요. Letter 1부터 읽고 들어보세요.');
+    return;
+  }
+
+  $('letter-status').textContent = '편지를 불러오는 중…';
+  $('study-main').setAttribute('aria-busy', 'true');
+  try {
+    const lesson = await readJSON(letter.file);
+    if (token !== selection) return;
+    view.render(lesson);
+    player.setLesson(lesson);
+    $('lesson-content').hidden = false;
+    $('hero-player').hidden = false;
+    $('letter-status').textContent = `Letter ${letter.number} · ${lesson.sentences.length}개 문장`;
+    $('player-status').textContent = '문장을 누르면 해당 MP3를 재생합니다. 전체 듣기는 편지 전체 음원을 재생합니다.';
+    $('hero-audio-status').textContent = '전체 편지 듣기';
+  } catch (error) {
+    if (token !== selection) return;
+    $('letter-status').textContent = '편지를 불러오지 못했습니다.';
+    showMessage('본문을 불러올 수 없어요', '잠시 후 편지 버튼을 다시 눌러주세요. 로컬에서는 HTTP 서버로 실행해 주세요.');
+    console.error(error);
+  } finally {
+    if (token === selection) $('study-main').removeAttribute('aria-busy');
+  }
+}
+
+async function init() {
+  try {
+    catalog = await readJSON('data/letters.json');
+    if (!Array.isArray(catalog.letters) || !catalog.letters.length) throw new Error('편지 목록이 비어 있습니다.');
+    renderNavigation();
+    await selectLetter(new URL(window.location.href).searchParams.get('letter'));
+    window.addEventListener('popstate', () => {
+      selectLetter(new URL(window.location.href).searchParams.get('letter'));
+    });
+  } catch (error) {
+    $('letter-status').textContent = '편지 목록을 불러오지 못했습니다.';
+    showMessage('편지 목록을 불러올 수 없어요', '새로고침해 주세요. 로컬에서는 python3 -m http.server 8000으로 실행한 뒤 localhost:8000을 열어주세요.');
+    console.error(error);
+  }
+}
+
 init();
