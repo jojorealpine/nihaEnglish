@@ -72,6 +72,8 @@ async function selectLetter(id, historyMode = 'replace') {
   $('lesson-content').hidden = true;
   $('hero-player').hidden = true;
   $('letter-message').hidden = true;
+  $('letter-lesson').textContent = '';
+  $('letter-lesson').hidden = true;
   $('study-main').removeAttribute('aria-busy');
   $('letter-heading').textContent = `Letter ${letter.number}`;
   $('letter-date').textContent = letter.title;
@@ -103,6 +105,8 @@ async function selectLetter(id, historyMode = 'replace') {
     if (token !== selection) return;
     view.render(lesson);
     player.setLesson(lesson);
+    $('letter-lesson').textContent = typeof lesson.lesson === 'string' ? lesson.lesson.trim() : '';
+    $('letter-lesson').hidden = !$('letter-lesson').textContent;
     $('lesson-content').hidden = false;
     $('hero-player').hidden = false;
     $('letter-status').textContent = `Letter ${letter.number} · ${lesson.sentences.length}개 문장`;

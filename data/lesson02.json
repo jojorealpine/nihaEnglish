@@ -1,0 +1,194 @@
+{
+  "id": "1962-02",
+  "title": "1962 / 2",
+  "lesson": "The golden lid that hides truth is nothing but our mind.",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "bliss",
+      "meaning": "더없는 행복, 지복",
+      "note": "be in bliss: 더없는 행복 속에 있다"
+    },
+    {
+      "word": "mean to",
+      "meaning": "~할 생각이다, ~하려고 하다",
+      "note": "have been meaning to: 전부터 ~하려고 생각해 왔다"
+    },
+    {
+      "word": "engagement",
+      "meaning": "약속, 예정된 일정",
+      "note": "여기서는 약혼이 아니라 시간을 내야 하는 약속·일정"
+    },
+    {
+      "word": "blessing",
+      "meaning": "축복, 행복을 비는 마음",
+      "note": "send one's blessings: 축복을 보내다"
+    },
+    {
+      "word": "sadhana",
+      "meaning": "수행, 영적 수련",
+      "note": "삶 자체를 수행의 과정으로 바라보는 표현"
+    },
+    {
+      "word": "involve oneself in",
+      "meaning": "~에 참여하다, ~에 몰두하다",
+      "note": "involve + 재귀대명사 + in + 명사"
+    },
+    {
+      "word": "divine",
+      "meaning": "신성한, 성스러운",
+      "note": "become more divine: 더욱 신성해지다"
+    },
+    {
+      "word": "rishi",
+      "meaning": "성자, 현자",
+      "note": "인도의 영적 전통에서 성자나 현자를 가리키는 말"
+    },
+    {
+      "word": "smother",
+      "meaning": "숨 막히게 하다, 억누르다",
+      "note": "여기서는 마음에 짓눌린 상태를 나타내는 비유"
+    },
+    {
+      "word": "identify with",
+      "meaning": "~과 자신을 동일시하다",
+      "note": "본문에서는 마음을 곧 자기 자신이라고 여긴다는 뜻"
+    },
+    {
+      "word": "bondage",
+      "meaning": "속박, 얽매임",
+      "note": "자유롭지 못하고 무언가에 매여 있는 상태"
+    },
+    {
+      "word": "rebirth",
+      "meaning": "다시 태어남, 윤회",
+      "note": "the chain of rebirths: 거듭 태어남의 사슬"
+    }
+  ],
+  "paragraphs": [
+    [0, 1, 2, 3],
+    [4, 5, 6, 7],
+    [8, 9, 10, 11, 12, 13]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love, I am in bliss.",
+      "korean": "사랑하는 이여, 나는 더없는 행복 속에 있습니다.",
+      "explanation": "Love는 편지를 받는 이를 다정하게 부르는 호칭입니다. bliss는 깊고 충만한 행복을 나타내며, 이 편지에서는 내면의 평온과 기쁨을 전하는 말로 읽을 수 있습니다.",
+      "grammar": "Love 뒤의 쉼표는 호칭과 본문을 구분합니다. be in + 상태를 나타내는 명사: ‘~한 상태에 있다’. in bliss는 ‘더없는 행복 속에’라는 뜻입니다.",
+      "audio": "audio/1962-02/01.mp3"
+    },
+    {
+      "id": 2,
+      "english": "I have been meaning to write for a long time",
+      "korean": "나는 오래전부터 편지를 쓰려고 생각해 왔습니다.",
+      "explanation": "편지를 쓰려는 마음은 오래전부터 있었지만 아직 실행하지 못했다는 뉘앙스입니다. 문장은 다음 구절의 but과 이어져 편지가 늦어진 이유를 설명합니다.",
+      "grammar": "have been meaning to + 동사원형은 현재완료진행형으로, ‘전부터 ~하려고 생각해 왔다’는 뜻입니다. 실제로 계속 글을 썼다는 의미는 아닙니다. for a long time은 그 마음이 이어진 기간을 나타냅니다.",
+      "audio": "audio/1962-02/02.mp3"
+    },
+    {
+      "id": 3,
+      "english": "but many engagements prevented me.",
+      "korean": "하지만 여러 약속과 일정 때문에 편지를 쓰지 못했습니다.",
+      "explanation": "앞 구절의 ‘쓰려고 했다’와 대비되어, 바쁜 일정이 편지를 쓰는 데 걸림돌이 되었다고 말합니다. engagements는 여기서 약혼이 아니라 여러 약속이나 해야 할 일을 뜻합니다.",
+      "grammar": "but은 앞 내용과 대조되는 이유를 잇습니다. prevent + 사람 + from + -ing: ‘누군가가 ~하지 못하게 하다’. 여기서는 문맥상 분명한 from writing이 me 뒤에 생략된 것으로 이해할 수 있습니다.",
+      "audio": "audio/1962-02/03.mp3"
+    },
+    {
+      "id": 4,
+      "english": "My blessings, however, I send every day.",
+      "korean": "하지만 나의 축복은 날마다 당신에게 보내고 있습니다.",
+      "explanation": "편지는 자주 보내지 못해도 상대를 향한 축복과 따뜻한 마음은 매일 보내고 있다는 뜻입니다. My blessings를 문장 맨 앞에 놓아 축복 자체를 강조합니다.",
+      "grammar": "기본 어순은 ‘I send my blessings every day.’입니다. 목적어 My blessings를 앞으로 옮겼고, however는 쉼표 사이에 삽입된 전환 표현입니다. every day는 ‘매일’이라는 부사구로, 형용사 everyday와 구분합니다.",
+      "audio": "audio/1962-02/04.mp3"
+    },
+    {
+      "id": 5,
+      "english": "Life is a sadhana,",
+      "korean": "삶은 하나의 수행입니다.",
+      "explanation": "삶 전체를 영적인 수련의 과정으로 바라보는 문장입니다. 여기서 sadhana는 수행이나 영적 수련을 가리키며, 다음 구절은 삶에 참여하는 태도를 이야기합니다.",
+      "grammar": "Life는 주어, is는 연결동사, a sadhana는 주어를 설명하는 보어입니다. 원문의 쉼표 뒤로 삶의 수행에 관한 설명이 이어집니다.",
+      "audio": "audio/1962-02/05.mp3"
+    },
+    {
+      "id": 6,
+      "english": "the more you involve yourself in it the more divine it becomes.",
+      "korean": "삶에 깊이 참여할수록 삶은 더욱 신성해집니다.",
+      "explanation": "삶을 멀리서 바라보기만 하는 대신 그 안에 깊이 참여할 때 삶의 신성함을 더 느끼게 된다는 맥락입니다. 두 번 나오는 it은 모두 앞 구절의 Life를 가리킵니다.",
+      "grammar": "the + 비교급 ..., the + 비교급 ...: ‘~하면 할수록 더욱 …하다’. involve yourself in + 명사: ‘스스로 ~에 참여하다’. become + 형용사는 상태의 변화를 나타냅니다.",
+      "audio": "audio/1962-02/06.mp3"
+    },
+    {
+      "id": 7,
+      "english": "The light is hidden in the darkness, truth is hidden,",
+      "korean": "빛은 어둠 속에 숨어 있고, 진리도 감추어져 있습니다.",
+      "explanation": "빛과 어둠을 대비시켜, 소중한 것이 당장 눈에 드러나지 않는 모습을 표현합니다. 진리 역시 감추어져 있다는 말은 다음 구절의 ‘찾는 기쁨’으로 이어집니다.",
+      "grammar": "be hidden은 hide의 과거분사 hidden을 사용해 ‘감추어져 있다’는 상태를 나타냅니다. 두 절이 원문에서는 쉼표로 연결되어 있습니다. 일반적인 작문에서는 접속사를 넣거나 문장을 나눌 수 있습니다.",
+      "audio": "audio/1962-02/07.mp3"
+    },
+    {
+      "id": 8,
+      "english": "and from this comes the joy of searching.",
+      "korean": "그리고 바로 여기에서 찾아 나서는 기쁨이 생겨납니다.",
+      "explanation": "진리가 감추어져 있기 때문에 그것을 찾아가는 기쁨도 생겨난다는 뜻입니다. this는 앞 구절에서 말한, 빛과 진리가 숨어 있는 상황을 가리킵니다.",
+      "grammar": "기본 어순은 ‘The joy of searching comes from this.’입니다. from this를 앞으로 옮기면서 동사 comes가 주어 the joy of searching 앞에 오는 도치가 일어났습니다. of 뒤의 searching은 동명사입니다.",
+      "audio": "audio/1962-02/08.mp3"
+    },
+    {
+      "id": 9,
+      "english": "I remember the words of a rishi.",
+      "korean": "나는 한 현자의 말을 떠올립니다.",
+      "explanation": "자신의 생각을 뒷받침하는 현자의 말을 소개합니다. rishi는 인도의 영적 전통에서 성자나 현자를 가리키며, 뒤에 나오는 황금 뚜껑의 비유를 이끌어 줍니다.",
+      "grammar": "remember + 명사: ‘~을 기억하다, 떠올리다’. the words of + 사람은 ‘~의 말’을 뜻합니다. words는 여기서 개별 단어들이 아니라 누군가가 한 말을 가리킵니다.",
+      "audio": "audio/1962-02/09.mp3"
+    },
+    {
+      "id": 10,
+      "english": "Truth is hidden under a golden lid.",
+      "korean": "진리는 황금 뚜껑 아래에 감추어져 있습니다.",
+      "explanation": "진리가 무언가에 덮여 드러나지 않는다는 비유입니다. 다음 구절은 이 황금 뚜껑이 우리의 마음을 뜻한다고 설명합니다.",
+      "grammar": "is hidden은 ‘감추어져 있다’는 상태를 나타냅니다. under + 명사는 ‘~아래에’를 뜻하는 전치사구입니다. golden은 lid를 꾸미는 형용사이며, lid는 그릇이나 상자 등을 덮는 뚜껑입니다.",
+      "audio": "audio/1962-02/10.mp3"
+    },
+    {
+      "id": 11,
+      "english": "The golden lid that hides truth is nothing but our mind.",
+      "korean": "진리를 가리고 있는 그 황금 뚜껑은 바로 우리의 마음입니다.",
+      "explanation": "앞 구절의 비유를 풀어, 진리를 가리는 것이 바로 우리의 마음이라고 말합니다. 이 문맥의 mind는 생각하고 판단하는 마음으로 이해할 수 있습니다.",
+      "grammar": "that hides truth는 The golden lid를 꾸미는 관계절이며, that은 관계절의 주어입니다. 문장 전체의 주어는 The golden lid that hides truth, 동사는 is입니다. nothing but + 명사: ‘다름 아닌 ~, 오직 ~일 뿐’.",
+      "audio": "audio/1962-02/11.mp3"
+    },
+    {
+      "id": 12,
+      "english": "The mind has smothered us:",
+      "korean": "마음은 우리를 숨 막히게 만들어 놓았습니다.",
+      "explanation": "마음이 우리를 덮고 억눌러 자유롭지 못하게 한다는 비유입니다. 뒤의 콜론은 마음에 짓눌린 상태가 어떤 것인지 구체적인 설명을 이어 줍니다.",
+      "grammar": "has + 과거분사 smothered는 현재완료입니다. 마음이 우리를 억눌렀고 그 영향이 지금도 이어진다는 뉘앙스입니다. smother + 목적어는 ‘~을 숨 막히게 하다, 억누르다’라는 뜻입니다.",
+      "audio": "audio/1962-02/12.mp3"
+    },
+    {
+      "id": 13,
+      "english": "we are in it, we identify with it,",
+      "korean": "우리는 그 안에 있으며, 그 마음을 곧 나 자신이라고 여깁니다.",
+      "explanation": "두 번 나오는 it은 모두 마음을 가리킵니다. 마음속 생각에 머물면서 그 생각과 자신을 구분하지 못하는 상태를 설명합니다.",
+      "grammar": "be in + 명사: ‘~안에 있다’. identify with + 대상은 문맥에 따라 ‘~에 공감하다’ 또는 ‘~과 자신을 동일시하다’를 뜻합니다. 여기서는 뒤의 의미이며, 원문은 두 절을 쉼표로 연결합니다.",
+      "audio": "audio/1962-02/13.mp3"
+    },
+    {
+      "id": 14,
+      "english": "therefore the suffering comes, the bondage and the chain of rebirths.",
+      "korean": "그 때문에 괴로움과 속박, 그리고 거듭 태어나는 윤회의 사슬이 생겨납니다.",
+      "explanation": "마음과 자신을 동일시하는 데서 괴로움과 속박이 생겨난다는 편지의 결론입니다. chain은 반복되는 얽매임을 나타내는 비유이며, rebirths는 이 문맥에서 거듭 태어남, 윤회를 가리킵니다.",
+      "grammar": "therefore는 ‘그러므로, 그 결과’라는 연결부사입니다. suffering은 ‘괴로움’, bondage는 ‘속박’이며, 원문은 이를 the chain of rebirths와 함께 나열합니다. a chain of + 명사는 ‘~의 사슬, 연속’을 뜻합니다.",
+      "audio": "audio/1962-02/14.mp3"
+    }
+  ],
+  "translations": [
+    "사랑하는 이여,",
+    "나는 더없는 행복 속에 있습니다. 오래전부터 편지를 쓰려고 생각해 왔지만 여러 약속과 일정 때문에 그러지 못했습니다. 하지만 나의 축복은 날마다 당신에게 보내고 있습니다.",
+    "삶은 하나의 수행입니다. 삶에 깊이 참여할수록 삶은 더욱 신성해집니다. 빛은 어둠 속에 숨어 있고, 진리도 감추어져 있습니다. 그리고 바로 여기에서 찾아 나서는 기쁨이 생겨납니다.",
+    "나는 한 현자의 말을 떠올립니다. 진리는 황금 뚜껑 아래에 감추어져 있습니다. 진리를 가리고 있는 그 황금 뚜껑은 바로 우리의 마음입니다. 마음은 우리를 숨 막히게 만들어 놓았습니다. 우리는 그 안에 있으며, 그 마음을 곧 나 자신이라고 여깁니다. 그 때문에 괴로움과 속박, 그리고 거듭 태어나는 윤회의 사슬이 생겨납니다."
+  ],
+  "fullAudio": "audio/1962-02/script_all.mp3"
+}

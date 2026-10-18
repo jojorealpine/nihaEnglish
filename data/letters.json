@@ -2,7 +2,7 @@
   "defaultLetter": "1962-01",
   "letters": [
     { "id": "1962-01", "number": 1, "title": "1962 / 1", "file": "data/lesson01.json" },
-    { "id": "1962-02", "number": 2, "title": "1962 / 2", "file": null },
+    { "id": "1962-02", "number": 2, "title": "1962 / 2", "file": "data/lesson02.json" },
     { "id": "1962-03", "number": 3, "title": "1962 / 3", "file": null }
   ]
 }

@@ -46,7 +46,7 @@ export function createLessonView({ onPlaySentence, onStop }) {
       <div class="paragraph">${indices.map(index => `
         <span class="sentence" role="button" tabindex="0" data-index="${index}"
           aria-label="문장 ${index + 1} 듣기와 해설" aria-pressed="false">
-          <span class="sentence-num">${String(index + 1).padStart(2, '0')}</span>${escapeHTML(lesson.sentences[index].english)}
+          ${escapeHTML(lesson.sentences[index].english)}
         </span>`).join(' ')}</div>`).join('');
     $('translation').innerHTML = lesson.translations.map(text => `<p>${escapeHTML(text)}</p>`).join('');
     selectSentence(0);
