@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Osho English Study — 1962 / 1
 
 GitHub Pages 정적 웹사이트. 사용자 제공 영어 원문을 **20개 문장/구절**로 분리하고 문장 클릭 즉시 MP3를 재생합니다. 상단 **전체 듣기** 버튼은 하나의 `script_all.mp3` 파일을 재생합니다.
@@ -55,3 +56,7 @@ python3 scripts/generate_audio.py
 ## 5. 유지보수
 
 본문과 문장 해설은 `data/lesson01.json`에서 관리합니다. 음성 파일 경로는 `sentences[].audio`, 전체 듣기 경로는 `fullAudio`입니다. 유튜브 URL도 JSON의 `youtubeUrl`에 미리 설정할 수 있습니다. 음성은 공개 게시할 권리가 있는 파일만 업로드하세요.
+=======
+# nihaEnglish
+Ensligh Study with Niharika
+>>>>>>> 0221618cf531e2184be02cb75310905397d0cb55
