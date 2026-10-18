@@ -1,0 +1,264 @@
+{
+  "id": "1962-01",
+  "title": "1962 / 1",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "insist on",
+      "meaning": "~을 강하게 요청하다",
+      "note": "insist on + -ing"
+    },
+    {
+      "word": "drown in",
+      "meaning": "~에 깊이 잠기다",
+      "note": "감정·경험에도 쓰는 비유"
+    },
+    {
+      "word": "steeped in",
+      "meaning": "~에 푹 배어 있는",
+      "note": "be steeped in history"
+    },
+    {
+      "word": "emptiness",
+      "meaning": "비어 있음, 공허",
+      "note": "문맥에 따라 명상적 고요"
+    },
+    {
+      "word": "stillness",
+      "meaning": "고요, 정적",
+      "note": "still(고요한)의 명사형"
+    },
+    {
+      "word": "inaction",
+      "meaning": "행동하지 않음, 무위",
+      "note": "action의 반대말"
+    },
+    {
+      "word": "eternity",
+      "meaning": "영원, 영원함",
+      "note": "eternal(영원한)의 명사형"
+    },
+    {
+      "word": "awareness",
+      "meaning": "알아차림, 자각",
+      "note": "be aware of ~"
+    },
+    {
+      "word": "open the door to",
+      "meaning": "~의 길을 열다",
+      "note": "to 뒤에 명사·동명사"
+    },
+    {
+      "word": "lie in",
+      "meaning": "~에 있다",
+      "note": "Real life lies in ..."
+    },
+    {
+      "word": "take place",
+      "meaning": "일어나다, 발생하다",
+      "note": "A shift takes place."
+    },
+    {
+      "word": "for oneself",
+      "meaning": "스스로, 직접",
+      "note": "know it for oneself"
+    }
+  ],
+  "paragraphs": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love, I received your letter.",
+      "korean": "사랑하는 이여, 당신의 편지를 받았습니다.",
+      "explanation": "편지의 첫 호칭입니다. 단어 자체는 ‘사랑’이지만 여기서는 애정 어린 부름입니다. 상대의 편지를 받았다는 간단한 과거 사실입니다.",
+      "grammar": "편지 시작의 호칭. 현대 영어 편지에서는 Dear ... 또는 My dear ...도 자주 씁니다. receive + 명사: ‘~을 받다’. received는 과거형.",
+      "audio": "audio/1962-01/01.mp3"
+    },
+    {
+      "id": 2,
+      "english": "How lovingly you insist on my writing something, and here I am I, I drowned in a deep silence!",
+      "korean": "무언가 써 달라고 당신은 얼마나 다정하게 청하는지요. 그런데 나는 깊은 침묵 속에 잠겨 있습니다!",
+      "explanation": "다정한 재촉에 놀라거나 감탄하는 어조입니다. 제공된 원문의 반복 ‘I am I, I’와 ‘I drowned’를 그대로 보존했습니다. 이 부분은 표준적인 영어 문장으로는 어색하지만, 말하는 이의 멈칫함 또는 필사 과정의 오류일 가능성이 있습니다.",
+      "grammar": "How + 부사 + 주어 + 동사: 감탄문 형태. insist on + 소유격(my) + 동명사(writing)는 격식 있는 구성입니다. here I am은 ‘여기 내가 있다’. drowned in은 ‘~에 잠긴’이라는 뜻으로 읽을 수 있으나, 여기의 I drowned는 시제·구조상 비표준적입니다. 자연스러운 영어라면 ‘Here I am, drowned in a deep silence.’",
+      "audio": "audio/1962-01/02.mp3"
+    },
+    {
+      "id": 3,
+      "english": "I speak, I work, but I am steeped in emptiness within.",
+      "korean": "나는 말하고 일하지만 내면에서는 공(空)에 깊이 잠겨 있습니다.",
+      "explanation": "겉으로는 일상의 행동을 계속하는 모습입니다. steeped in은 어떤 분위기나 감각 속에 완전히 배어 있다는 비유입니다. 여기서 emptiness는 반드시 우울이나 결핍만을 뜻하지는 않습니다.",
+      "grammar": "I speak와 I work를 쉼표로 병렬 나열해 리듬감을 줍니다. be steeped in + 명사: ~에 깊이 잠겨 있다. within은 ‘내면에, 안쪽에’라는 문어적 표현.",
+      "audio": "audio/1962-01/03.mp3"
+    },
+    {
+      "id": 4,
+      "english": "There, there is no movement.",
+      "korean": "그곳에는 아무런 움직임도 없습니다.",
+      "explanation": "겉의 활동과 대비되는 내면의 정적을 설명합니다.",
+      "grammar": "첫 번째 There는 ‘그곳에는’, 두 번째 there는 there is 존재구문입니다.",
+      "audio": "audio/1962-01/04.mp3"
+    },
+    {
+      "id": 5,
+      "english": "Thus I seem to be living two lives at one time.",
+      "korean": "그래서 나는 동시에 두 삶을 사는 것 같습니다.",
+      "explanation": "외적으로는 말하고 일하지만, 안으로는 침묵하는 이중의 감각입니다.",
+      "grammar": "seem to be + -ing: ‘~하고 있는 것 같다’. at one time은 여기서 ‘동시에’라는 맥락으로 사용했습니다.",
+      "audio": "audio/1962-01/05.mp3"
+    },
+    {
+      "id": 6,
+      "english": "What a drama!",
+      "korean": "이 얼마나 극적인 일인가요!",
+      "explanation": "이 두 가지 삶을 극적인 장면처럼 바라봅니다.",
+      "grammar": "What a + 명사!: 감탄문. What a surprise!와 같은 구조.",
+      "audio": "audio/1962-01/06.mp3"
+    },
+    {
+      "id": 7,
+      "english": "But perhaps all of life is a drama and becoming aware of this opens the door to a unique freedom.",
+      "korean": "어쩌면 삶 전체가 하나의 연극이고, 이를 알아차리는 순간 특별한 자유의 문이 열리는지도 모릅니다.",
+      "explanation": "자신이 맡은 역할과 그 역할을 알아차리는 의식 사이에 거리를 둘 때 생기는 자유를 이야기합니다.",
+      "grammar": "perhaps: 어쩌면. becoming aware of ...는 동명사구 주어. open the door to + 명사: ‘~로 가는 길을 열다’.",
+      "audio": "audio/1962-01/07.mp3"
+    },
+    {
+      "id": 8,
+      "english": "That which is inaction in action, stillness in motion, eternity in change —",
+      "korean": "행동 속의 무위, 움직임 속의 고요, 변화 속의 영원 —",
+      "explanation": "반대되는 개념을 겹쳐 놓아, 변화하는 삶 속에서도 변치 않는 고요를 가리킵니다.",
+      "grammar": "that which는 ‘~하는 것’이라는 문어적 관계절 표현. inaction/action, stillness/motion, eternity/change는 의도적인 역설입니다.",
+      "audio": "audio/1962-01/08.mp3"
+    },
+    {
+      "id": 9,
+      "english": "that is truth and that is existence. Real life lies in this eternity —",
+      "korean": "그것이 진리이며 존재입니다. 참된 삶은 이 영원 속에 있습니다 —",
+      "explanation": "반대되는 개념을 겹쳐 놓아, 변화하는 삶 속에서도 변치 않는 고요를 가리킵니다. 삶의 본질이 변화 바깥이 아니라 변화 속에 있는 ‘영원함’에 있다고 말합니다.",
+      "grammar": "that which는 ‘~하는 것’이라는 문어적 관계절 표현. inaction/action, stillness/motion, eternity/change는 의도적인 역설입니다. lie in + 명사: ‘~에 있다, ~에 달려 있다’. 여기서 lies는 ‘거짓말하다’가 아닙니다.",
+      "audio": "audio/1962-01/09.mp3"
+    },
+    {
+      "id": 10,
+      "english": "everything else is just the stream of dreams.",
+      "korean": "그 밖의 모든 것은 그저 꿈의 흐름일 뿐입니다.",
+      "explanation": "흘러가고 변하는 경험들을 꿈의 흐름에 비유합니다.",
+      "grammar": "everything else: 그 밖의 모든 것. a stream of ~: ~의 흐름.",
+      "audio": "audio/1962-01/10.mp3"
+    },
+    {
+      "id": 11,
+      "english": "In truth, the world is just a dream and the question is not whether to leave these dreams or not,",
+      "korean": "실로 세상은 하나의 꿈이며, 문제는 이 꿈들을 떠나야 하느냐가 아니라",
+      "explanation": "세상을 버리거나 회피하는 것이 아니라 알아차리는 태도를 강조합니다. 원문은 쉼표로 이어진 긴 문장이어서 현대 작문에서는 분리하는 편이 명료합니다.",
+      "grammar": "whether to + 동사: ‘~할지 여부’. be aware of + 명사: ‘~을 알아차리다’. these dreams는 복수형.",
+      "audio": "audio/1962-01/11.mp3"
+    },
+    {
+      "id": 12,
+      "english": "one just has to be aware of them.",
+      "korean": "그저 그것들을 알아차리면 된다는 것입니다.",
+      "explanation": "세상을 버리거나 회피하는 것이 아니라 알아차리는 태도를 강조합니다. 원문은 쉼표로 이어진 긴 문장이어서 현대 작문에서는 분리하는 편이 명료합니다.",
+      "grammar": "whether to + 동사: ‘~할지 여부’. be aware of + 명사: ‘~을 알아차리다’. these dreams는 복수형.",
+      "audio": "audio/1962-01/12.mp3"
+    },
+    {
+      "id": 13,
+      "english": "With this awareness, everything changes.",
+      "korean": "이러한 알아차림과 함께 모든 것이 변합니다.",
+      "explanation": "외적 사건보다 사건을 바라보는 관점의 변화에 가깝습니다.",
+      "grammar": "with + 명사: ‘~와 함께, ~을 통해’. everything은 단수 취급하므로 changes.",
+      "audio": "audio/1962-01/13.mp3"
+    },
+    {
+      "id": 14,
+      "english": "The center moves.",
+      "korean": "중심이 이동합니다.",
+      "explanation": "무엇을 중심으로 자신을 경험하는지가 달라진다는 은유입니다.",
+      "grammar": "center는 여기서 물리적 가운데보다는 경험의 중심을 뜻하는 비유로 읽힙니다.",
+      "audio": "audio/1962-01/14.mp3"
+    },
+    {
+      "id": 15,
+      "english": "A shift takes place from the body to the soul.",
+      "korean": "몸에서 영혼으로 전환이 일어납니다.",
+      "explanation": "자기 인식의 중심이 몸에서 더 깊은 내면으로 이동한다는 철학적 표현입니다.",
+      "grammar": "take place: 발생하다. a shift: 전환, 변화. from A to B: A에서 B로.",
+      "audio": "audio/1962-01/15.mp3"
+    },
+    {
+      "id": 16,
+      "english": "And what is there, it cannot be told.",
+      "korean": "그리고 거기에 무엇이 있는지는 말로 전할 수 없습니다.",
+      "explanation": "완결된 평서문이라기보다 뒤의 ‘말로 할 수 없다’와 연결되는 시적 중단처럼 읽힙니다. 언어로 온전히 설명할 수 없는 경험을 가리킵니다.",
+      "grammar": "표준 문법상 질문이라면 ‘And what is there?’가 자연스럽습니다. 여기서는 원문의 마침표를 유지했습니다. cannot be + 과거분사: 수동태. be told: 말해지다, 전해지다.",
+      "audio": "audio/1962-01/16.mp3"
+    },
+    {
+      "id": 17,
+      "english": "It has never been told and it never will be.",
+      "korean": "그것은 한 번도 말로 전해진 적 없고 앞으로도 그럴 것입니다.",
+      "explanation": "말로 전달하는 데에는 본질적인 한계가 있다는 강조입니다.",
+      "grammar": "has never been told: 현재완료 수동태. will be 뒤에는 told가 생략되어 있습니다.",
+      "audio": "audio/1962-01/17.mp3"
+    },
+    {
+      "id": 18,
+      "english": "There is no other way but to know it for oneself.",
+      "korean": "스스로 직접 아는 것 외에는 다른 방법이 없습니다.",
+      "explanation": "체험적 깨달음은 대신 설명해 줄 수 없다는 메시지입니다.",
+      "grammar": "no other way but to + 동사: ‘~하는 것 외에 방법이 없다’. for oneself: 스스로, 직접.",
+      "audio": "audio/1962-01/18.mp3"
+    },
+    {
+      "id": 19,
+      "english": "Death is known only through diving deep within oneself.",
+      "korean": "죽음은 자기 내면으로 깊이 들어가야만 알 수 있습니다.",
+      "explanation": "사용자가 적은 Death를 그대로 보존했습니다. 내면을 깊이 탐구하는 방식으로 죽음을 이해한다는 철학적 구절입니다.",
+      "grammar": "through + 동명사(-ing): ‘~함으로써’. diving deep within oneself: 자기 내면 깊이 들어가는 것.",
+      "audio": "audio/1962-01/19.mp3"
+    },
+    {
+      "id": 20,
+      "english": "May God drown you in this truth.",
+      "korean": "신께서 당신을 이 진리 속에 깊이 잠기게 하시기를.",
+      "explanation": "편지의 마지막 축원입니다. drown은 실제 익사가 아닌 진리에 완전히 잠긴다는 시적인 비유입니다.",
+      "grammar": "May + 주어 + 동사원형: ‘~하기를’이라는 기원문. drown someone in ~: ~에 푹 잠기게 하다.",
+      "audio": "audio/1962-01/20.mp3"
+    }
+  ],
+  "translations": [
+    "사랑하는 이에게,",
+    "당신의 편지를 받았습니다. 당신은 내가 무언가 쓰기를 얼마나 다정하게도 청하는지요. 그런데 여기 나는, 나는 깊은 침묵 속에 잠겨 있습니다! 나는 말하고, 일합니다. 그러나 내면에서는 텅 빈 고요에 깊이 잠겨 있습니다. 그 내면에는 아무런 움직임이 없습니다. 그래서 나는 동시에 두 삶을 살고 있는 것 같습니다. 참으로 한 편의 연극 같습니다! 하지만 어쩌면 인생 전체가 한 편의 연극이며, 그것을 알아차리는 순간 특별한 자유로 향하는 문이 열리는지도 모릅니다.",
+    "행동 속의 무위, 움직임 속의 고요, 변화 속의 영원 — 그것이 진리이며 존재입니다. 참된 삶은 바로 이 영원함 속에 있습니다. 그 밖의 모든 것은 그저 꿈의 흐름일 뿐입니다. 실로 세상은 한낱 꿈입니다. 중요한 것은 이 꿈들을 떠날 것인가 아닌가가 아니라, 그저 그것들을 알아차리는 것입니다.",
+    "이러한 알아차림과 함께 모든 것이 변합니다. 중심이 이동합니다. 몸에서 영혼으로 하나의 전환이 일어납니다. 그리고 그곳에 있는 것은… 그것은 말로 전할 수 없습니다. 그것은 지금까지 말로 전해진 적도 없고, 앞으로도 그럴 수 없을 것입니다. 스스로 직접 아는 것 외에는 다른 길이 없습니다. 죽음은 오직 자기 내면 깊이 들어감으로써만 알려집니다. 신께서 당신을 이 진리 속에 온전히 잠기게 하시기를."
+  ],
+  "fullAudio": "audio/1962-01/script_all.mp3"
+}
