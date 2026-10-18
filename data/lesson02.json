@@ -65,6 +65,179 @@
       "note": "the chain of rebirths: 거듭 태어남의 사슬"
     }
   ],
+  "expressions": [
+    {
+      "expression": "Be in bliss",
+      "meaning": "지복의 상태에 있다",
+      "usage": "문학·영성",
+      "title": "Be in bliss",
+      "detailMeaning": "지극한 행복과 평온의 상태에 있다.",
+      "original": "I am in bliss.",
+      "notes": [
+        "Bliss는 일반적인 happiness보다 깊고 완전한 행복을 의미함.",
+        "명상, 종교, 영성 분야에서 자주 등장하는 단어.",
+        "일상 영어에서는 be blissful, be in a state of bliss가 더 자연스러울 수 있음."
+      ],
+      "examples": [
+        { "english": "I felt a sense of bliss after meditation.", "korean": "명상을 마친 후 깊은 행복감을 느꼈다." },
+        { "english": "She was in a state of bliss as she watched the sunset.", "korean": "그녀는 일몰을 바라보며 지극한 행복감을 느꼈다." }
+      ]
+    },
+    {
+      "expression": "Have been meaning to",
+      "meaning": "계속 ~하려고 했었다",
+      "usage": "일상 매우 높음",
+      "title": "Have been meaning to + 동사원형",
+      "detailMeaning": "계속 ~하려고 생각해 왔다.",
+      "original": "I have been meaning to write for a long time.",
+      "notes": [
+        "현재완료진행형을 사용하여 과거부터 지금까지 의도가 지속되었음을 표현.",
+        "실제로 행동에 옮기지 못했다는 뉘앙스가 있음.",
+        "오랫동안 연락하지 못한 사람에게 연락할 때 특히 유용함."
+      ],
+      "examples": [
+        { "english": "I've been meaning to call you, but work has been hectic.", "korean": "계속 전화하려고 했는데 일이 너무 바빴어." },
+        { "english": "I've been meaning to start learning Spanish.", "korean": "계속 스페인어 공부를 시작하려고 생각해 왔어." }
+      ]
+    },
+    {
+      "expression": "Prevent A from -ing",
+      "meaning": "A가 ~하지 못하게 막다",
+      "usage": "일상 매우 높음",
+      "title": "Prevent A from -ing",
+      "detailMeaning": "A가 ~하는 것을 막다, 방해하다.",
+      "original": "Many engagements prevented me.",
+      "notes": [
+        "일반적인 구조는 prevent + 목적어 + from + 동명사.",
+        "Prevent는 어떤 일이 일어나지 못하도록 막는다는 의미.",
+        "원문에서는 앞 문장의 writing이 생략되어 있음."
+      ],
+      "examples": [
+        { "english": "Fear prevented me from making a decision.", "korean": "두려움 때문에 결정을 내리지 못했다." },
+        { "english": "The heavy rain prevented us from going outside.", "korean": "폭우 때문에 밖에 나가지 못했다." }
+      ]
+    },
+    {
+      "expression": "The more ~, the more ...",
+      "meaning": "~할수록 더욱 ...하다",
+      "usage": "일상 매우 높음",
+      "title": "The more ~, the more ...",
+      "detailMeaning": "~할수록 더욱 ...하다.",
+      "original": "The more you involve yourself in it, the more divine it becomes.",
+      "notes": [
+        "두 가지 변화가 비례하는 관계를 나타내는 비교급 구문.",
+        "The + 비교급, the + 비교급 구조.",
+        "여기서 the는 일반적인 정관사와 달리 비교급 구문의 일부임."
+      ],
+      "examples": [
+        { "english": "The more you practice, the more confident you become.", "korean": "연습할수록 자신감이 생긴다." },
+        { "english": "The more I meditate, the more peaceful I feel.", "korean": "명상할수록 마음이 더 평온해진다." }
+      ]
+    },
+    {
+      "expression": "Involve yourself in",
+      "meaning": "~에 몰입하다",
+      "usage": "일상 높음",
+      "title": "Involve yourself in ~",
+      "detailMeaning": "~에 적극적으로 참여하다, 몰입하다.",
+      "original": "The more you involve yourself in it...",
+      "notes": [
+        "Involve oneself in은 단순한 참여보다 적극적인 관여를 강조함.",
+        "Be involved in은 어떤 활동이나 상황에 관여하고 있는 상태를 표현.",
+        "Get involved in은 참여하기 시작하는 행위에 초점을 둠."
+      ],
+      "examples": [
+        { "english": "Try to involve yourself in activities that bring you joy.", "korean": "너에게 기쁨을 주는 활동에 적극적으로 참여해 봐." },
+        { "english": "She involved herself deeply in the local community.", "korean": "그녀는 지역 공동체 활동에 깊이 참여했다." }
+      ]
+    },
+    {
+      "expression": "Be hidden in",
+      "meaning": "~안에 숨겨져 있다",
+      "usage": "일상 높음",
+      "title": "Be hidden in / under ~",
+      "detailMeaning": "~안에 / ~아래에 숨겨져 있다.",
+      "original": "The light is hidden in the darkness.",
+      "notes": [
+        "Be hidden은 숨겨져 있는 상태를 표현.",
+        "Hidden in은 공간이나 상황의 내부에 숨겨져 있음을 의미.",
+        "Hidden under는 무언가에 덮이거나 가려져 있음을 의미."
+      ],
+      "examples": [
+        { "english": "Sometimes, opportunities are hidden in difficulties.", "korean": "때로는 어려움 속에 기회가 숨겨져 있다." },
+        { "english": "The answer may be hidden within yourself.", "korean": "답은 네 내면에 숨겨져 있을지도 모른다." }
+      ]
+    },
+    {
+      "expression": "Nothing but",
+      "meaning": "단지 ~일 뿐",
+      "usage": "일상 높음",
+      "title": "Nothing but ~",
+      "detailMeaning": "단지 ~일 뿐이다, ~에 지나지 않는다.",
+      "original": "The golden lid that hides truth is nothing but our mind.",
+      "notes": [
+        "Nothing but은 only, merely와 비슷한 의미.",
+        "어떤 것의 본질이 결국 무엇인지 강조할 때 사용.",
+        "문맥에 따라 부정적 의미뿐 아니라 긍정적 의미로도 사용할 수 있음."
+      ],
+      "examples": [
+        { "english": "What you are afraid of is nothing but an illusion.", "korean": "네가 두려워하는 것은 단지 환상일 뿐이다." },
+        { "english": "He showed me nothing but kindness.", "korean": "그는 나에게 오직 친절만을 베풀었다." }
+      ]
+    },
+    {
+      "expression": "Smother",
+      "meaning": "억누르다, 숨 막히게 하다",
+      "usage": "일상·문학",
+      "title": "Smother",
+      "detailMeaning": "질식시키다, 억누르다, 숨 막히게 하다.",
+      "original": "The mind has smothered us.",
+      "notes": [
+        "본래는 공기를 차단하여 질식시키는 물리적 행위를 의미함.",
+        "감정, 자유, 창의성 등을 억압한다는 비유적 표현으로도 사용.",
+        "Feel smothered는 관심이나 간섭이 지나쳐 답답함을 느낀다는 뜻으로도 사용됨."
+      ],
+      "examples": [
+        { "english": "Too much pressure can smother creativity.", "korean": "지나친 압박은 창의성을 억누를 수 있다." },
+        { "english": "I sometimes feel smothered by other people's expectations.", "korean": "나는 가끔 다른 사람들의 기대 때문에 숨이 막히는 것 같다." }
+      ]
+    },
+    {
+      "expression": "Identify with",
+      "meaning": "동일시하다, 공감하다",
+      "usage": "일상 매우 높음",
+      "title": "Identify with ~",
+      "detailMeaning": "~와 자신을 동일시하다, ~에 공감하다.",
+      "original": "We identify with it.",
+      "notes": [
+        "다른 사람의 감정이나 경험에 공감한다는 의미로 자주 사용.",
+        "심리학이나 영성에서는 특정 생각, 감정, 역할을 자기 자신과 동일시한다는 의미로 사용.",
+        "Identify A as B (~를 ...라고 식별하다)와 구별해야 함."
+      ],
+      "examples": [
+        { "english": "I often identify with the main character in this book.", "korean": "나는 이 책의 주인공에게 자주 공감한다." },
+        { "english": "We tend to identify with our thoughts and emotions.", "korean": "우리는 자신의 생각과 감정을 자기 자신과 동일시하는 경향이 있다." }
+      ]
+    },
+    {
+      "expression": "Bondage / Rebirth",
+      "meaning": "속박 / 윤회",
+      "usage": "철학·영성",
+      "title": "Bondage / The chain of rebirths",
+      "detailMeaning": "속박 / 반복되는 윤회의 사슬",
+      "original": "Therefore the suffering comes, the bondage and the chain of rebirths.",
+      "notes": [
+        "Bondage는 자유를 빼앗긴 상태나 정신적 속박을 의미.",
+        "Rebirth는 다시 태어남, 재생을 뜻함.",
+        "The chain of rebirths는 불교·힌두교 철학에서 반복되는 윤회를 가리키는 문학적 표현.",
+        "현대 영어에서는 the cycle of rebirth도 자주 사용됨."
+      ],
+      "examples": [
+        { "english": "He wanted to free himself from the bondage of fear.", "korean": "그는 두려움의 속박에서 벗어나고 싶었다." },
+        { "english": "In Buddhist philosophy, liberation means freedom from the cycle of rebirth.", "korean": "불교 철학에서 해탈은 윤회의 순환으로부터 벗어나는 것을 의미한다." }
+      ]
+    }
+  ],
   "paragraphs": [
     [0, 1, 2, 3],
     [4, 5, 6, 7],

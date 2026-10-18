@@ -77,6 +77,26 @@ python3 scripts/generate_audio.py
 "lesson": "이 편지의 핵심 문장을 입력하세요."
 ```
 
+‘핵심 단어와 표현’ 영역에는 **핵심 단어 / 표현** 탭이 있습니다. `vocabulary`는 핵심 단어 탭, `expressions`는 표현 탭에 표시됩니다. Letter 1은 **핵심 표현·의미·핵심 문법**, Letter 2는 **핵심 표현·뜻·활용도** 목록입니다. `usage`가 있는 편지는 활용도 열을, 그 외에는 `grammar`가 있으면 핵심 문법 열을 표시합니다. 항목을 누르면 자세한 설명과 예문이 펼쳐집니다. `title`과 `detailMeaning`은 펼친 영역의 제목과 자세한 의미, `original`은 원문, `explanation`은 문단형 특이사항, `notes`는 목록형 특이사항, `examples`는 영어·한국어 예문입니다. 설명 안의 백틱으로 감싼 부분은 코드 서식으로 표시합니다.
+
+아래 추가 필드는 모두 선택 사항입니다. `expression`과 `meaning`만 있는 항목은 간단한 목록으로 표시됩니다. 기존 `note`도 설명으로 사용할 수 있습니다. `expressions`가 없거나 빈 배열이면 표현 탭에 ‘아직 등록된 표현이 없습니다.’가 표시됩니다. 편지를 바꾸면 핵심 단어 탭으로 돌아갑니다.
+
+```json
+"expressions": [
+  {
+    "expression": "insist on + -ing",
+    "meaning": "~을 고집하다",
+    "grammar": "전치사 on + 동명사",
+    "title": "insist on + 명사 / -ing",
+    "detailMeaning": "~을 강하게 요구하다, ~을 고집하다",
+    "explanation": "`on`은 전치사이므로 뒤에 동사가 오면 `-ing`를 사용합니다.",
+    "examples": [
+      { "english": "She insisted on paying for dinner.", "korean": "그녀는 저녁값을 자기가 내겠다고 고집했다." }
+    ]
+  }
+]
+```
+
 1. 기존 편지 JSON을 복사해 `data/lesson03.json`을 만듭니다.
 2. 새 파일의 `id`를 `1962-03`, `title`을 `1962 / 3`로 바꾸고 `lesson`의 핵심 문구와 단어·본문·해설·번역을 Letter 3 내용으로 교체합니다. `english`에는 앞의 문장 번호를 넣지 않습니다.
 3. `paragraphs`는 `sentences` 배열의 **0부터 시작하는 인덱스**입니다. 새 편지의 문장 수에 맞게 수정합니다. 각 문장의 `audio`와 `fullAudio`도 `audio/1962-03/` 경로로 바꾸고 MP3 파일을 배치합니다.

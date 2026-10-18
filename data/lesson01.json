@@ -65,6 +65,128 @@
       "note": "know it for oneself"
     }
   ],
+  "expressions": [
+    {
+      "expression": "insist on + -ing",
+      "meaning": "~을 고집하다",
+      "grammar": "전치사 on + 동명사",
+      "title": "insist on + 명사 / -ing",
+      "detailMeaning": "~을 강하게 요구하다, ~을 고집하다",
+      "explanation": "`on`은 전치사이므로 뒤에 동사가 오면 반드시 `-ing` 형태를 사용해. `insist on my writing`처럼 동명사의 의미상 주어를 소유격으로 표현할 수도 있어.",
+      "examples": [
+        { "english": "She insisted on paying for dinner.", "korean": "그녀는 저녁값을 자기가 내겠다고 고집했다." },
+        { "english": "He insisted on doing it his own way.", "korean": "그는 자기 방식대로 하겠다고 고집했다." }
+      ]
+    },
+    {
+      "expression": "be steeped in",
+      "meaning": "~에 깊이 잠겨 있다",
+      "grammar": "be + 과거분사 + in",
+      "title": "be steeped in + 명사",
+      "detailMeaning": "~에 깊이 잠겨 있다, ~이 깊이 배어 있다",
+      "explanation": "`steep`은 원래 차를 물에 우려낸다는 뜻이야. 감정, 문화, 역사 등에 깊이 잠겨 있거나 영향을 받은 상태를 비유적으로 표현해. 다소 문학적인 표현이야.",
+      "examples": [
+        { "english": "I was steeped in sadness.", "korean": "나는 슬픔에 깊이 잠겨 있었다." },
+        { "english": "This town is steeped in history.", "korean": "이 마을에는 역사가 깊이 배어 있다." }
+      ]
+    },
+    {
+      "expression": "seem to be -ing",
+      "meaning": "~하고 있는 것 같다",
+      "grammar": "seem + 진행형 부정사",
+      "title": "seem to be -ing",
+      "detailMeaning": "~하고 있는 것 같다",
+      "explanation": "`seem to + 동사원형`은 일반적인 상태나 인상을, `seem to be -ing`는 진행 중인 행동이나 변화를 표현할 때 사용해.",
+      "examples": [
+        { "english": "I seem to be changing little by little.", "korean": "내가 조금씩 변하고 있는 것 같다." },
+        { "english": "She seems to be enjoying the meditation.", "korean": "그녀는 명상을 즐기고 있는 것 같다." }
+      ]
+    },
+    {
+      "expression": "become aware of",
+      "meaning": "~을 알아차리다",
+      "grammar": "become + 형용사 + of",
+      "title": "become aware of + 명사 / -ing",
+      "detailMeaning": "~을 알아차리다, ~을 자각하게 되다",
+      "explanation": "`be aware of`는 이미 인식하고 있는 상태이고, `become aware of`는 새롭게 알아차리는 변화의 과정에 초점을 둬. `of`는 전치사이므로 뒤에 동사가 오면 `-ing`를 사용해.",
+      "examples": [
+        { "english": "I'm becoming more aware of my emotions.", "korean": "나는 내 감정을 점점 더 알아차리고 있다." },
+        { "english": "I became aware of how much stress I was carrying.", "korean": "내가 얼마나 많은 스트레스를 안고 있었는지 깨달았다." }
+      ]
+    },
+    {
+      "expression": "open the door to",
+      "meaning": "~의 가능성을 열다",
+      "grammar": "전치사 to + 명사/-ing",
+      "title": "open the door to + 명사 / -ing",
+      "detailMeaning": "~의 가능성을 열다, ~할 기회를 만들다",
+      "explanation": "여기서 `to`는 전치사이므로 뒤에 명사나 동명사(`-ing`)가 와야 해. 새로운 가능성이나 기회가 생긴다는 의미로 사용해.",
+      "examples": [
+        { "english": "Meditation opens the door to inner peace.", "korean": "명상은 내면의 평화로 가는 길을 열어준다." },
+        { "english": "This experience opened the door to understanding myself better.", "korean": "이 경험은 나 자신을 더 깊이 이해할 수 있는 계기가 되었다." }
+      ]
+    },
+    {
+      "expression": "lie in",
+      "meaning": "~에 있다",
+      "grammar": "lie + 전치사 in",
+      "title": "lie in + 명사 / -ing",
+      "detailMeaning": "~에 있다, ~에 존재하다",
+      "explanation": "여기서 `lie`는 '거짓말하다'가 아니라 '존재하다, ~에 있다'라는 의미야. 변화형은 `lie – lay – lain`이야. 어떤 것의 본질이나 원인을 설명할 때 자주 사용해.",
+      "examples": [
+        { "english": "True happiness lies in accepting yourself.", "korean": "진정한 행복은 자신을 받아들이는 데 있다." },
+        { "english": "The problem lies in how we see things.", "korean": "문제는 우리가 사물을 바라보는 방식에 있다." }
+      ]
+    },
+    {
+      "expression": "take place",
+      "meaning": "발생하다, 개최되다",
+      "grammar": "자동사구",
+      "title": "take place",
+      "detailMeaning": "일어나다, 발생하다, 개최되다",
+      "explanation": "`happen`과 비슷하지만, 계획된 행사나 어떤 변화가 발생하는 상황에서 많이 사용해. `take place`는 자동사구이므로 수동태로 사용하지 않아.",
+      "examples": [
+        { "english": "A big change took place in my life.", "korean": "내 삶에 큰 변화가 일어났다." },
+        { "english": "The meditation session takes place every morning.", "korean": "명상 세션은 매일 아침 진행된다." }
+      ]
+    },
+    {
+      "expression": "shift from A to B",
+      "meaning": "A에서 B로 전환되다",
+      "grammar": "from A to B",
+      "title": "shift from A to B",
+      "detailMeaning": "A에서 B로 전환되다, 이동하다",
+      "explanation": "`shift`는 물리적인 이동뿐 아니라 생각, 관심, 관점, 감정의 변화에도 사용해. `shift`는 자동사와 타동사로 모두 사용할 수 있어.",
+      "examples": [
+        { "english": "My focus shifted from others to myself.", "korean": "내 관심이 타인에서 나 자신으로 옮겨갔다." },
+        { "english": "I'm trying to shift my mindset from fear to love.", "korean": "두려움에서 사랑으로 사고방식을 바꾸려고 노력하고 있다." }
+      ]
+    },
+    {
+      "expression": "there is no other way but to",
+      "meaning": "~외에는 방법이 없다",
+      "grammar": "but + to부정사",
+      "title": "there is no other way but to + 동사원형",
+      "detailMeaning": "~하는 것 외에는 다른 방법이 없다",
+      "explanation": "`but to`는 '~하는 것 외에는'이라는 뜻이야. `have no choice but to + 동사원형`과 비슷한 구조로, 다른 선택지가 없음을 강조해.",
+      "examples": [
+        { "english": "There is no other way but to face your fears.", "korean": "두려움에 직면하는 것 외에는 다른 방법이 없다." },
+        { "english": "There is no other way but to experience it yourself.", "korean": "직접 경험하는 것 외에는 다른 방법이 없다." }
+      ]
+    },
+    {
+      "expression": "for oneself",
+      "meaning": "스스로, 직접",
+      "grammar": "재귀대명사",
+      "title": "for oneself",
+      "detailMeaning": "스스로, 직접, 자기 자신을 위해",
+      "explanation": "`oneself`는 주어에 따라 `myself`, `yourself`, `herself`, `himself` 등으로 바뀌어. `for yourself`는 문맥에 따라 '직접' 또는 '자기 자신을 위해'라는 의미가 될 수 있어.",
+      "examples": [
+        { "english": "You have to experience it for yourself.", "korean": "그것은 스스로 직접 경험해야 한다." },
+        { "english": "I want to find the truth for myself.", "korean": "나는 스스로 진리를 발견하고 싶다." }
+      ]
+    }
+  ],
   "paragraphs": [
     [
       0,

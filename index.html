@@ -39,7 +39,16 @@
         <div class="eyebrow">01 / Words & expressions</div>
         <h2>핵심 단어와 표현</h2>
         <p class="hint">본문을 읽기 전에 의미와 뉘앙스를 먼저 익혀보세요.</p>
-        <div class="vocab-grid" id="vocab"></div>
+        <div class="study-tabs" id="study-tabs" role="tablist" aria-label="단어와 표현 선택">
+          <button class="study-tab" id="vocab-tab" type="button" role="tab" aria-selected="true" aria-controls="vocab-panel">핵심 단어</button>
+          <button class="study-tab" id="expressions-tab" type="button" role="tab" aria-selected="false" aria-controls="expressions-panel" tabindex="-1">표현</button>
+        </div>
+        <div id="vocab-panel" role="tabpanel" aria-labelledby="vocab-tab" tabindex="0">
+          <div class="vocab-grid" id="vocab"></div>
+        </div>
+        <div id="expressions-panel" role="tabpanel" aria-labelledby="expressions-tab" tabindex="0" hidden>
+          <div id="expressions"></div>
+        </div>
       </section>
 
       <!-- 영상 영역은 현재 숨겨 둡니다. 사용할 때 이 주석을 해제하세요.
