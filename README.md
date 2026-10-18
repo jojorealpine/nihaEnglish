@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Osho English Study — 1962 / 1
 
 GitHub Pages 정적 웹사이트. 사용자 제공 영어 원문을 **20개 문장/구절**로 분리하고 문장 클릭 즉시 MP3를 재생합니다. 상단 **전체 듣기** 버튼은 하나의 `script_all.mp3` 파일을 재생합니다.
@@ -8,7 +7,7 @@ GitHub Pages 정적 웹사이트. 사용자 제공 영어 원문을 **20개 문�
 본 프로젝트에는 MP3 원본 파일이 포함되지 않았습니다. 보유한 음성 파일을 아래 경로에 복사하세요.
 
 ```text
-osho-english-study/
+nihaEnglish/
   index.html
   data/lesson01.json
   js/app.js
@@ -37,11 +36,11 @@ git init
 git add .
 git commit -m "Add Osho study with 20 audio passages"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/osho-english-study.git
+git remote add origin https://github.com/jojorealpine/nihaEnglish.git
 git push -u origin main
 ```
 
-GitHub 저장소 `Settings → Pages → Build and deployment → Deploy from a branch`에서 `main` 및 `/(root)`를 선택하세요. 주소는 `https://YOUR_USERNAME.github.io/osho-english-study/`입니다.
+GitHub 저장소 `Settings → Pages → Build and deployment → Deploy from a branch`에서 `main` 및 `/(root)`를 선택하세요. 주소는 `https://jojorealpine.github.io/nihaEnglish/`입니다.
 
 ## 4. MP3를 새로 생성하고 싶은 경우에만
 
@@ -59,4 +58,3 @@ python3 scripts/generate_audio.py
 =======
 # nihaEnglish
 Ensligh Study with Niharika
->>>>>>> 0221618cf531e2184be02cb75310905397d0cb55
