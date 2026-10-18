@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Osho Letters — English Study</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+  <nav class="site-nav wrap" aria-label="메인 메뉴">
+    <a class="site-brand" href="./">Niha English<span>명상과 일상 사이의 영어</span></a>
+    <div class="site-links">
+      <a href="roleplay.html">Role Playing</a>
+      <a href="letters.html" aria-current="page">Osho’s Letters</a>
+      <a href="emotions.html">Emotion Cards</a>
+    </div>
+  </nav>
+
+  <header>
+    <div class="wrap">
+      <div class="eyebrow">Meditation · English Reading Journal</div>
+      <h1 class="hero-title">Osho Letters <span id="letter-heading">Letter 1</span></h1>
+      <p class="letter-date" id="letter-date">1962 / 1</p>
+      <p class="subtitle" id="letter-lesson" hidden></p>
+
+      <nav class="letter-nav" aria-label="편지 선택">
+        <div class="eyebrow">Choose a letter</div>
+        <div class="letter-list" id="letter-list"></div>
+      </nav>
+      <p class="letter-status" id="letter-status" role="status">편지 목록을 불러오는 중…</p>
+
+      <div class="hero-player" id="hero-player" hidden>
+        <button id="hero-play-all" type="button">▶ 전체 듣기</button>
+        <button id="hero-stop" type="button" class="secondary">■ 정지</button>
+        <span id="hero-audio-status" aria-live="polite"></span>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap" id="study-main">
+    <section class="letter-message" id="letter-message" aria-labelledby="letter-message-title" hidden>
+      <h2 id="letter-message-title"></h2>
+      <p id="letter-message-text"></p>
+    </section>
+
+    <div id="lesson-content" hidden>
+      <section class="section">
+        <div class="eyebrow">01 / Words & expressions</div>
+        <h2>핵심 단어와 표현</h2>
+        <p class="hint">본문을 읽기 전에 의미와 뉘앙스를 먼저 익혀보세요.</p>
+        <div class="study-tabs" id="study-tabs" role="tablist" aria-label="단어와 표현 선택">
+          <button class="study-tab" id="vocab-tab" type="button" role="tab" aria-selected="true" aria-controls="vocab-panel">핵심 단어</button>
+          <button class="study-tab" id="expressions-tab" type="button" role="tab" aria-selected="false" aria-controls="expressions-panel" tabindex="-1">표현</button>
+        </div>
+        <div id="vocab-panel" role="tabpanel" aria-labelledby="vocab-tab" tabindex="0">
+          <div class="vocab-grid" id="vocab"></div>
+        </div>
+        <div id="expressions-panel" role="tabpanel" aria-labelledby="expressions-tab" tabindex="0" hidden>
+          <div id="expressions"></div>
+        </div>
+      </section>
+
+      <!-- 영상 영역은 현재 숨겨 둡니다. 사용할 때 이 주석을 해제하세요.
+      <section class="section">
+        <div class="eyebrow">Video</div>
+        <h2>영상으로 듣기</h2>
+        <div class="video-placeholder">
+          <h3>유튜브 영상 링크 · 선택 사항</h3>
+          <p>영상 주소를 붙여 넣어 재생할 수 있어요.</p>
+          <input type="url" id="youtube-url" placeholder="https://www.youtube.com/watch?v=..." aria-label="유튜브 영상 주소">
+          <div class="video-actions">
+            <button id="load-video" type="button">영상 불러오기</button>
+            <button id="clear-video" type="button" class="secondary">비우기</button>
+          </div>
+          <p id="video-status" class="notice" aria-live="polite"></p>
+          <div id="video-frame" class="video-frame hide"></div>
+        </div>
+      </section>
+      -->
+
+      <section class="section">
+        <div class="eyebrow">02 / Read & listen</div>
+        <h2>영어 본문</h2>
+        <p class="hint">문장을 클릭하면 오른쪽에 해석과 상세 설명이 나옵니다. 모바일에서는 본문 아래에 나타나요.</p>
+        <div class="toolbar">
+          <button id="play-all" type="button">▶ 전체 듣기 (MP3)</button>
+          <button id="stop-all" type="button" class="secondary">■ 정지</button>
+          <label for="global-rate">속도</label>
+          <select id="global-rate">
+            <option value="0.75">0.75×</option>
+            <option value="0.9">0.9×</option>
+            <option value="1" selected>1.0×</option>
+            <option value="1.15">1.15×</option>
+          </select>
+          <label><input type="checkbox" id="loop-single"> 문장 반복</label>
+          <label><input type="checkbox" id="auto-fallback" checked> MP3 없으면 브라우저 음성</label>
+        </div>
+        <p class="mode-note" id="player-status" aria-live="polite"></p>
+        <div class="study-layout">
+          <article class="reading" id="reading" aria-label="영어 본문"></article>
+          <aside class="detail" id="detail" aria-live="polite">
+            <div class="number">SENTENCE GUIDE</div>
+            <p>왼쪽 문장을 선택하면 문장별 설명이 나와요.</p>
+          </aside>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="eyebrow">03 / Korean translation</div>
+        <h2>한국어 전체 해석</h2>
+        <p class="hint">시적인 표현은 문맥을 고려해 자연스럽게 의역했습니다.</p>
+        <div class="translation" id="translation"></div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="wrap foot">English study companion · AI 생성 음성은 합성된 음성입니다. MP3가 없으면 기기의 브라우저 음성을 이용합니다. 원문은 사용자가 제공한 텍스트를 기준으로 하며, 일부 구절은 문법적으로 특이합니다.</footer>
+  <noscript><p class="wrap">편지를 보려면 브라우저에서 JavaScript를 허용해 주세요.</p></noscript>
+  <script src="js/app.js" type="module"></script>
+</body>
+</html>

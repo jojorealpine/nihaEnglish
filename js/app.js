@@ -30,6 +30,7 @@ $('hero-play-all').onclick = () => player.playFull();
 $('hero-stop').onclick = () => player.stop();
 $('stop-all').onclick = () => player.stop();
 $('global-rate').onchange = () => player.setRate(Number($('global-rate').value));
+window.addEventListener('pagehide', () => player.stop());
 
 async function readJSON(path) {
   const response = await fetch(path);

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="30가지 감정 형용사와 12가지 내면 표현. 명상 후 대화 예시와 5단계 스피킹으로 내 경험을 영어로 나눠보세요.">
+  <title>Emotion Cards — Niha English</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/site.css">
+  <link rel="stylesheet" href="css/emotions.css">
+</head>
+<body class="emotion-page">
+  <nav class="site-nav wrap" aria-label="메인 메뉴">
+    <a class="site-brand" href="./">Niha English<span>명상과 일상 사이의 영어</span></a>
+    <div class="site-links">
+      <a href="roleplay.html">Role Playing</a>
+      <a href="letters.html">Osho’s Letters</a>
+      <a href="emotions.html" aria-current="page">Emotion Cards</a>
+    </div>
+  </nav>
+
+  <header>
+    <div class="wrap">
+      <div class="eyebrow">Name it · Notice it · Understand it</div>
+      <h1 class="hero-title">Emotion Cards</h1>
+      <p class="subtitle">감정에 이름을 붙이는 것에서, 내 경험을 나누는 대화까지.<br>명상 중 느낀 감정과 내면의 변화를 한 문장씩 이어 말해보세요.</p>
+    </div>
+  </header>
+
+  <main class="wrap emotion-main">
+    <section class="emotion-section" id="emotions" aria-label="감정과 내면 표현 학습" aria-busy="true">
+      <p class="emotion-status" id="emotion-status" role="status">감정카드를 불러오는 중…</p>
+      <button type="button" class="secondary" id="emotion-retry" data-emotion-action="retry" hidden>다시 불러오기</button>
+      <div id="emotion-content" hidden>
+        <div class="emotion-sharing-intro">
+          <div class="eyebrow">From feeling to change</div>
+          <h2>내 경험을 하나의 이야기로</h2>
+          <p class="emotion-intro">감정 → 신체 감각 → 생각 → 깨달음 → 변화의 흐름을 따라 말해보세요. 모든 단계를 채울 필요는 없어요. 지금 나누고 싶은 경험부터 시작해도 좋아요.</p>
+          <ol class="emotion-flow" id="emotion-flow" aria-label="명상 경험을 나누는 다섯 단계"></ol>
+        </div>
+        <div class="emotion-study-tabs" id="emotion-study-tabs" role="tablist" aria-label="학습 방법 선택">
+          <button type="button" id="emotion-tab-cards" role="tab" aria-selected="true" aria-controls="emotion-panel-cards" data-emotion-tab="cards">감정카드</button>
+          <button type="button" id="emotion-tab-patterns" role="tab" aria-selected="false" aria-controls="emotion-panel-patterns" data-emotion-tab="patterns" tabindex="-1">핵심 패턴 12개</button>
+          <button type="button" id="emotion-tab-dialogue" role="tab" aria-selected="false" aria-controls="emotion-panel-dialogue" data-emotion-tab="dialogue" tabindex="-1">대화 예시</button>
+          <button type="button" id="emotion-tab-speaking" role="tab" aria-selected="false" aria-controls="emotion-panel-speaking" data-emotion-tab="speaking" tabindex="-1">스피킹 연습</button>
+        </div>
+        <section class="emotion-panel" id="emotion-panel-cards" role="tabpanel" aria-labelledby="emotion-tab-cards" tabindex="0">
+          <h2>오늘의 감정, 영어로 말해볼까요?</h2>
+          <p class="emotion-intro">기본 말하기 세 가지부터 시작해보세요. 감정카드를 고르면 그 감정에 맞는 예문을 볼 수 있어요.</p>
+          <div class="emotion-guides" id="emotion-guides"></div>
+          <p class="emotion-language-note">지난 감정은 <span lang="en">I felt + 형용사</span>로 말해요. <span lang="en">I felt calm after meditation.</span> — 명상 후 마음이 차분했어요.</p>
+          <div class="emotion-picker-heading"><h3>지금 내 마음에 가까운 감정은?</h3><span id="emotion-total"></span></div>
+          <div class="emotion-filters" id="emotion-filters" role="group" aria-label="감정 모음 선택"></div>
+          <p class="emotion-status" id="emotion-selection-status" role="status"></p>
+          <div class="emotion-explorer">
+            <div class="emotion-library"><p id="emotion-category-description"></p><div class="emotion-grid" id="emotion-cards" role="group" aria-label="감정카드 선택"></div></div>
+            <div class="emotion-detail" id="emotion-detail" role="region" aria-labelledby="emotion-word"></div>
+          </div>
+        </section>
+        <section class="emotion-panel" id="emotion-panel-patterns" role="tabpanel" aria-labelledby="emotion-tab-patterns" tabindex="0" hidden>
+          <h2>감정과 내면을 표현하는 핵심 패턴</h2>
+          <p class="emotion-intro">표현을 누르면 연결 방법과 예문을 확인할 수 있어요. 처음에는 추천하는 다섯 표현부터 내 말로 사용해보세요.</p>
+          <div class="emotion-starters" id="emotion-starters"></div>
+          <div class="emotion-pattern-filters" role="group" aria-label="학습할 표현 선택">
+            <button type="button" class="secondary" data-study-action="pattern-filter" data-filter="all" aria-pressed="true">전체 12개</button>
+            <button type="button" class="secondary" data-study-action="pattern-filter" data-filter="starters" aria-pressed="false">먼저 익힐 5개</button>
+          </div>
+          <div id="emotion-patterns"></div>
+        </section>
+        <section class="emotion-panel" id="emotion-panel-dialogue" role="tabpanel" aria-labelledby="emotion-tab-dialogue" tabindex="0" hidden>
+          <h2>명상 후 경험을 나누는 대화</h2>
+          <p class="emotion-intro">A와 B 역할을 번갈아 읽어보세요. 문장별로 듣고, Role Playing에서 내 차례에 직접 답해볼 수도 있어요.</p>
+          <div id="emotion-dialogue" aria-busy="true"><p class="emotion-status">대화 예시를 불러오는 중…</p></div>
+        </section>
+        <section class="emotion-panel" id="emotion-panel-speaking" role="tabpanel" aria-labelledby="emotion-tab-speaking" tabindex="0" hidden>
+          <h2>다섯 문장으로 나의 경험 말하기</h2>
+          <p class="emotion-intro">질문을 보고 소리 내어 답해보세요. 답을 적으면 마지막에 한 편의 이야기로 모아볼 수 있어요.</p>
+          <div class="emotion-speaking" id="emotion-speaking"></div>
+        </section>
+        <div class="emotion-audio-toolbar"><button type="button" class="secondary emotion-listen" data-emotion-action="stop">■ 듣기 정지</button><p class="emotion-audio-status" id="emotion-audio-status" role="status"></p></div>
+      </div>
+    </section>
+  </main>
+  <footer class="wrap foot">Niha English · A small daily practice.</footer>
+  <noscript><p class="wrap">감정카드를 보려면 브라우저에서 JavaScript를 허용해 주세요.</p></noscript>
+  <script src="js/emotions.js" type="module"></script>
+</body>
+</html>

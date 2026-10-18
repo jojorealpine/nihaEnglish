@@ -1,0 +1,3169 @@
+{
+  "title": "Meditation, in conversation.",
+  "description": "명상 센터에서 나누는 짧고 솔직한 영어. 상황별 표현을 익히고, 내 말로 대화를 이어가 보세요.",
+  "scenarios": [
+    {
+      "id": "greetings",
+      "title": "첫인사와 스몰토크",
+      "englishTitle": "Greetings",
+      "description": "처음 만난 참가자에게 인사하고, 하루와 다음 만남에 대해 가볍게 이야기해요.",
+      "pattern": "Is this your first time here? / How long are you staying?",
+      "tip": "짧게 대답한 뒤 How about you?로 질문을 돌려주면 대화를 이어가기 쉬워요.",
+      "expressions": [
+        {
+          "english": "Hi, how are you?",
+          "korean": "안녕, 어떻게 지내?"
+        },
+        {
+          "english": "How's your day going?",
+          "korean": "오늘 하루 어때?"
+        },
+        {
+          "english": "How are you feeling today?",
+          "korean": "오늘 기분은 어때?"
+        },
+        {
+          "english": "Nice to meet you!",
+          "korean": "만나서 반가워!"
+        },
+        {
+          "english": "Is this your first time here?",
+          "korean": "여기 처음이야?"
+        },
+        {
+          "english": "How long have you been here?",
+          "korean": "여기 온 지 얼마나 됐어?"
+        },
+        {
+          "english": "How long are you staying?",
+          "korean": "얼마나 머물 예정이야?"
+        },
+        {
+          "english": "Where are you from?",
+          "korean": "어디서 왔어?"
+        },
+        {
+          "english": "See you around!",
+          "korean": "또 보자!"
+        },
+        {
+          "english": "Have a good meditation!",
+          "korean": "명상 잘해!"
+        },
+        {
+          "english": "How was your meditation?",
+          "korean": "명상 어땠어?"
+        },
+        {
+          "english": "Did you enjoy the session?",
+          "korean": "세션 좋았어?"
+        },
+        {
+          "english": "Which meditation did you do?",
+          "korean": "어떤 명상 했어?"
+        },
+        {
+          "english": "Are you joining the next session?",
+          "korean": "다음 세션도 참여해?"
+        },
+        {
+          "english": "Do you want to grab some tea?",
+          "korean": "차 한잔할래?"
+        }
+      ],
+      "cases": [
+        {
+          "id": "first-hello",
+          "title": "처음 만난 참가자",
+          "context": "명상 전 기다리는 공간에서 옆 사람과 처음 인사합니다.",
+          "partnerRole": "다른 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Hey! Is this your first time here?",
+                "korean": "안녕! 여기 처음이야?"
+              },
+              "mission": "처음 왔다고 말하고 상대도 처음인지 물어보세요.",
+              "hints": [
+                "Yes, it is.",
+                "How about you?"
+              ],
+              "responses": [
+                {
+                  "english": "Yes, it is! How about you?",
+                  "korean": "응, 처음이야! 너는?"
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "I've been here for two weeks. Where are you from?",
+                "korean": "여기 온 지 2주 됐어. 어디서 왔어?"
+              },
+              "mission": "한국에서 왔다고 말하고 반갑다고 인사하세요.",
+              "hints": [
+                "I'm from…",
+                "Nice to meet you."
+              ],
+              "responses": [
+                {
+                  "english": "I'm from Korea. Nice to meet you!",
+                  "korean": "한국에서 왔어. 만나서 반가워!"
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Nice to meet you too! How long are you staying?",
+                "korean": "나도 반가워! 얼마나 머물 거야?"
+              },
+              "mission": "2주 머물 예정이라고 말해보세요.",
+              "hints": [
+                "I'm here for…"
+              ],
+              "responses": [
+                {
+                  "english": "I'm here for two weeks. See you around!",
+                  "korean": "여기 2주 동안 있을 거야. 또 보자!"
+                }
+              ]
+            }
+          ],
+          "review": [
+            "처음인지 묻고 답하기",
+            "출신과 머무는 기간 말하기"
+          ]
+        },
+        {
+          "id": "tea-chat",
+          "title": "차 한잔하며 스몰토크",
+          "context": "쉬는 시간에 만난 참가자가 차를 마시자고 제안합니다.",
+          "partnerRole": "쉬는 중인 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Hi! How's your day going?",
+                "korean": "안녕! 오늘 하루 어때?"
+              },
+              "mission": "잘 지내고 있다고 답하고 상대에게도 물어보세요.",
+              "hints": [
+                "Going well, thanks.",
+                "How about you?"
+              ],
+              "responses": [
+                {
+                  "english": "It's going well, thanks. How about you?",
+                  "korean": "잘 지내고 있어, 고마워. 너는?"
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Pretty good. Do you want to grab some tea?",
+                "korean": "나도 좋아. 차 한잔할래?"
+              },
+              "mission": "차를 마시자는 제안을 받아보세요.",
+              "hints": [
+                "I'd love to."
+              ],
+              "responses": [
+                {
+                  "english": "Sure, I'd love to!",
+                  "korean": "좋아, 그러고 싶어!"
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Great! Shall we meet after the session?",
+                "korean": "좋아! 세션 후에 만날까?"
+              },
+              "mission": "좋다고 답하고 나중에 보자고 말하세요.",
+              "hints": [
+                "Sounds good.",
+                "See you…"
+              ],
+              "responses": [
+                {
+                  "english": "Sounds good. See you after the session!",
+                  "korean": "좋아. 세션 후에 보자!"
+                }
+              ]
+            }
+          ],
+          "review": [
+            "하루에 대해 가볍게 말하기",
+            "초대에 짧고 자연스럽게 답하기"
+          ]
+        },
+        {
+          "id": "next-session",
+          "title": "다음 세션에서 다시 만나기",
+          "context": "세션이 끝난 뒤 인사를 나누고 다음 참여 여부를 이야기합니다.",
+          "partnerRole": "함께 세션을 마친 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Did you enjoy the session?",
+                "korean": "세션 좋았어?"
+              },
+              "mission": "즐거웠다고 짧게 답하고 상대의 생각을 물어보세요.",
+              "hints": [
+                "I enjoyed it.",
+                "How about you?"
+              ],
+              "responses": [
+                {
+                  "english": "Yes, I really enjoyed it. How about you?",
+                  "korean": "응, 정말 좋았어. 너는?"
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Me too! Are you joining the next session?",
+                "korean": "나도! 다음 세션에도 참여해?"
+              },
+              "mission": "다음 세션에 참여할 예정이라고 말하세요.",
+              "hints": [
+                "I'm joining…"
+              ],
+              "responses": [
+                {
+                  "english": "Yes, I'm joining the next session too.",
+                  "korean": "응, 나도 다음 세션에 참여할 거야."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Nice! See you there.",
+                "korean": "좋아! 거기서 보자."
+              },
+              "mission": "다시 만나자고 하고 명상을 잘하라고 인사하세요.",
+              "hints": [
+                "See you there.",
+                "Have a good meditation."
+              ],
+              "responses": [
+                {
+                  "english": "See you there! Have a good meditation!",
+                  "korean": "거기서 보자! 명상 잘해!"
+                }
+              ]
+            }
+          ],
+          "review": [
+            "세션에 대한 간단한 인상 말하기",
+            "다음 만남을 자연스럽게 마무리하기"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "introductions",
+      "title": "자기소개와 온 이유",
+      "englishTitle": "Self-introduction",
+      "description": "이름, 사는 곳, 하는 일과 이곳을 찾은 이유를 편하게 소개해요.",
+      "pattern": "I'm from… / I'm here to… / I wanted to…",
+      "tip": "Jin, Seoul, IT, two weeks는 예시예요. 내 이름과 도시, 일, 체류 기간으로 바꿔 말해보세요.",
+      "expressions": [
+        {
+          "english": "Hi, I'm Jin.",
+          "korean": "안녕, 나는 진이야."
+        },
+        {
+          "english": "I'm from South Korea.",
+          "korean": "한국에서 왔어."
+        },
+        {
+          "english": "I live in Seoul.",
+          "korean": "서울에 살고 있어."
+        },
+        {
+          "english": "I work in IT.",
+          "korean": "IT 분야에서 일하고 있어."
+        },
+        {
+          "english": "I'm here for meditation.",
+          "korean": "명상하러 왔어."
+        },
+        {
+          "english": "I'm here for two weeks.",
+          "korean": "여기 2주 동안 있을 거야."
+        },
+        {
+          "english": "It's my first time in Pune.",
+          "korean": "푸네는 처음이야."
+        },
+        {
+          "english": "I've been practicing meditation for a while.",
+          "korean": "명상한 지 좀 됐어."
+        },
+        {
+          "english": "I wanted to try something new.",
+          "korean": "새로운 걸 경험해 보고 싶었어."
+        },
+        {
+          "english": "I want to learn more about myself.",
+          "korean": "나 자신에 대해 더 알고 싶어."
+        },
+        {
+          "english": "I want to connect with myself.",
+          "korean": "나 자신과 더 깊이 연결되고 싶어."
+        },
+        {
+          "english": "I needed a break from work.",
+          "korean": "일에서 좀 벗어나 쉬고 싶었어."
+        },
+        {
+          "english": "I've been feeling stressed lately.",
+          "korean": "요즘 스트레스를 많이 받았어."
+        },
+        {
+          "english": "I want to let go of stress.",
+          "korean": "스트레스를 내려놓고 싶어."
+        },
+        {
+          "english": "I'm curious about Osho's meditation.",
+          "korean": "오쇼 명상이 궁금했어."
+        },
+        {
+          "english": "I'm just here to explore.",
+          "korean": "그냥 이것저것 경험해 보려고 왔어."
+        }
+      ],
+      "cases": [
+        {
+          "id": "short-intro",
+          "title": "30초 자기소개",
+          "context": "처음 만난 사람에게 기본적인 자기소개를 합니다.",
+          "partnerRole": "처음 만난 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Hi, I'm Maya. What's your name?",
+                "korean": "안녕, 나는 마야야. 이름이 뭐야?"
+              },
+              "mission": "이름을 말하고 만나서 반갑다고 인사하세요.",
+              "hints": [
+                "Hi, I'm…",
+                "Nice to meet you."
+              ],
+              "responses": [
+                {
+                  "english": "Hi, I'm Jin. Nice to meet you!",
+                  "korean": "안녕, 나는 진이야. 만나서 반가워!"
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Where are you from? What do you do?",
+                "korean": "어디서 왔어? 무슨 일 해?"
+              },
+              "mission": "한국에서 왔고 서울에서 IT 일을 한다고 소개해보세요.",
+              "hints": [
+                "I'm from…",
+                "I live in…",
+                "I work in…"
+              ],
+              "responses": [
+                {
+                  "english": "I'm from South Korea. I live in Seoul, and I work in IT.",
+                  "korean": "한국에서 왔어. 서울에 살고, IT 분야에서 일해."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "What brought you here?",
+                "korean": "어쩌다 여기 오게 됐어?"
+              },
+              "mission": "명상을 경험하고 자신을 더 알아가려고 왔다고 말하세요.",
+              "hints": [
+                "I came here to…",
+                "learn more about myself"
+              ],
+              "responses": [
+                {
+                  "english": "I came here to try meditation and learn more about myself.",
+                  "korean": "명상을 해보고 나 자신을 더 알아가려고 왔어."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "세 문장 이상으로 자기소개하기",
+            "내 정보로 바꿔 말하기"
+          ]
+        },
+        {
+          "id": "break-from-work",
+          "title": "일에서 잠시 벗어나기",
+          "context": "참가자가 이곳에 온 이유를 묻습니다.",
+          "partnerRole": "차를 함께 마시는 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "What brought you here?",
+                "korean": "어쩌다 여기 오게 됐어?"
+              },
+              "mission": "요즘 스트레스를 받아 잠시 쉬고 싶었다고 말하세요.",
+              "hints": [
+                "I've been feeling…",
+                "I wanted to take a break."
+              ],
+              "responses": [
+                {
+                  "english": "I've been feeling stressed lately. I wanted to take a break.",
+                  "korean": "요즘 스트레스를 많이 받아서 좀 쉬고 싶었어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "I see. Are you enjoying it so far?",
+                "korean": "그렇구나. 지금까지는 좋아?"
+              },
+              "mission": "새로운 경험이고 이곳에 와서 기쁘다고 답하세요.",
+              "hints": [
+                "It's a new experience…",
+                "I'm glad…"
+              ],
+              "responses": [
+                {
+                  "english": "Yeah! It's a new experience for me. I'm glad I came.",
+                  "korean": "응! 나한테는 새로운 경험이야. 오길 잘한 것 같아."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "What would you like to get out of your time here?",
+                "korean": "여기서 지내며 어떤 걸 얻고 싶어?"
+              },
+              "mission": "긴장을 풀고 자신과 더 연결되고 싶다고 말하세요.",
+              "hints": [
+                "I want to relax.",
+                "connect with myself"
+              ],
+              "responses": [
+                {
+                  "english": "I want to relax and connect with myself.",
+                  "korean": "편안히 쉬면서 나 자신과 더 깊이 연결되고 싶어."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "온 이유를 부담 없이 설명하기",
+            "내가 원하는 경험 말하기"
+          ]
+        },
+        {
+          "id": "curious-explorer",
+          "title": "호기심으로 시작한 방문",
+          "context": "경험이 많지 않아도 솔직하게 소개하는 연습입니다.",
+          "partnerRole": "새로 만난 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Have you been practicing meditation for a long time?",
+                "korean": "명상한 지 오래됐어?"
+              },
+              "mission": "아직 새로 배우는 중이라고 말하세요.",
+              "hints": [
+                "I'm still new to…"
+              ],
+              "responses": [
+                {
+                  "english": "Not really. I'm still new to meditation.",
+                  "korean": "아니, 아직 명상을 새로 배우는 중이야."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "What made you want to try it?",
+                "korean": "어떤 이유로 해보고 싶었어?"
+              },
+              "mission": "새로운 경험을 원했고 오쇼 명상이 궁금했다고 말하세요.",
+              "hints": [
+                "I wanted to…",
+                "I'm curious about…"
+              ],
+              "responses": [
+                {
+                  "english": "I wanted to try something new. I'm curious about Osho's meditation.",
+                  "korean": "새로운 걸 경험해 보고 싶었어. 오쇼 명상이 궁금했어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Is it your first time in Pune too?",
+                "korean": "푸네도 처음이야?"
+              },
+              "mission": "푸네는 처음이며 이것저것 경험해 보려고 한다고 답하세요.",
+              "hints": [
+                "It's my first time…",
+                "I'm here to explore."
+              ],
+              "responses": [
+                {
+                  "english": "Yes, it's my first time in Pune. I'm just here to explore.",
+                  "korean": "응, 푸네도 처음이야. 그냥 이것저것 경험해 보려고 왔어."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "경험이 많지 않음을 솔직하게 말하기",
+            "호기심과 기대 표현하기"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feelings",
+      "title": "오늘의 감정 이야기",
+      "englishTitle": "How do you feel?",
+      "description": "평온함, 불안함, 슬픔, 홀가분함, 복잡한 감정을 두세 문장으로 말해요.",
+      "pattern": "I feel… / I'm feeling… / I have mixed feelings.",
+      "tip": "감정을 정확히 설명하기 어렵다면 I’m not sure how I feel.이라고 말해도 괜찮아요.",
+      "expressions": [
+        {
+          "english": "I feel good today.",
+          "korean": "오늘 기분이 좋아."
+        },
+        {
+          "english": "I feel calm.",
+          "korean": "마음이 차분해."
+        },
+        {
+          "english": "I feel peaceful.",
+          "korean": "평온해."
+        },
+        {
+          "english": "I feel relaxed.",
+          "korean": "편안해."
+        },
+        {
+          "english": "I feel happy and grateful.",
+          "korean": "행복하고 감사해."
+        },
+        {
+          "english": "I feel a little sad.",
+          "korean": "조금 슬퍼."
+        },
+        {
+          "english": "I feel anxious.",
+          "korean": "불안해."
+        },
+        {
+          "english": "I feel overwhelmed.",
+          "korean": "감정이 벅차고 버거워."
+        },
+        {
+          "english": "I feel a bit tired.",
+          "korean": "조금 피곤해."
+        },
+        {
+          "english": "I feel a little off today.",
+          "korean": "오늘은 컨디션이 좀 별로야."
+        },
+        {
+          "english": "I have mixed feelings.",
+          "korean": "여러 감정이 섞여 있어."
+        },
+        {
+          "english": "I'm not sure how I feel.",
+          "korean": "내 감정이 뭔지 잘 모르겠어."
+        }
+      ],
+      "cases": [
+        {
+          "id": "calm",
+          "title": "평온한 아침",
+          "context": "아침에 만난 참가자와 지금의 기분을 나눕니다.",
+          "partnerRole": "아침에 만난 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Good morning! How are you feeling today?",
+                "korean": "좋은 아침! 오늘 기분 어때?"
+              },
+              "mission": "‘평온한 아침’ 상황에 맞게 지금의 감정을 말하세요.",
+              "hints": [
+                "I'm feeling…",
+                "I feel…"
+              ],
+              "responses": [
+                {
+                  "english": "I'm feeling calm and peaceful today.",
+                  "korean": "오늘은 마음이 차분하고 평온해."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Would you like to tell me a little more?",
+                "korean": "조금 더 이야기해 줄래?"
+              },
+              "mission": "감정에 대해 한 문장을 더 말하세요. 설명하기 어렵다고 해도 좋아요.",
+              "hints": [
+                "I feel…",
+                "I’m not sure…"
+              ],
+              "responses": [
+                {
+                  "english": "I slept well, and I'm happy to be here.",
+                  "korean": "잠도 잘 잤고, 여기 있어서 기뻐."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "What would you like to do now?",
+                "korean": "지금은 뭘 하고 싶어?"
+              },
+              "mission": "지금 자신에게 필요한 것을 말해보세요.",
+              "hints": [
+                "I'd like…",
+                "I just need…"
+              ],
+              "responses": [
+                {
+                  "english": "I'd like to sit quietly for a while.",
+                  "korean": "잠시 조용히 앉아 있고 싶어."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "지금의 감정을 짧게 말하기",
+            "지금 필요한 것을 한 문장으로 표현하기"
+          ]
+        },
+        {
+          "id": "anxious",
+          "title": "조금 불안한 아침",
+          "context": "아침에 만난 참가자와 지금의 기분을 나눕니다.",
+          "partnerRole": "아침에 만난 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Good morning! How are you feeling today?",
+                "korean": "좋은 아침! 오늘 기분 어때?"
+              },
+              "mission": "‘조금 불안한 아침’ 상황에 맞게 지금의 감정을 말하세요.",
+              "hints": [
+                "I'm feeling…",
+                "I feel…"
+              ],
+              "responses": [
+                {
+                  "english": "I'm feeling a little anxious today.",
+                  "korean": "오늘은 조금 불안해."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Would you like to tell me a little more?",
+                "korean": "조금 더 이야기해 줄래?"
+              },
+              "mission": "감정에 대해 한 문장을 더 말하세요. 설명하기 어렵다고 해도 좋아요.",
+              "hints": [
+                "I feel…",
+                "I’m not sure…"
+              ],
+              "responses": [
+                {
+                  "english": "I'm not sure why. I have a lot on my mind.",
+                  "korean": "이유는 잘 모르겠어. 생각이 많아."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "What would you like to do now?",
+                "korean": "지금은 뭘 하고 싶어?"
+              },
+              "mission": "지금 자신에게 필요한 것을 말해보세요.",
+              "hints": [
+                "I'd like…",
+                "I just need…"
+              ],
+              "responses": [
+                {
+                  "english": "I'd like a little quiet time.",
+                  "korean": "조용한 시간을 조금 갖고 싶어."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "지금의 감정을 짧게 말하기",
+            "지금 필요한 것을 한 문장으로 표현하기"
+          ]
+        },
+        {
+          "id": "sad",
+          "title": "슬픔을 솔직하게 말하기",
+          "context": "아침에 만난 참가자와 지금의 기분을 나눕니다.",
+          "partnerRole": "아침에 만난 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Good morning! How are you feeling today?",
+                "korean": "좋은 아침! 오늘 기분 어때?"
+              },
+              "mission": "‘슬픔을 솔직하게 말하기’ 상황에 맞게 지금의 감정을 말하세요.",
+              "hints": [
+                "I'm feeling…",
+                "I feel…"
+              ],
+              "responses": [
+                {
+                  "english": "I'm feeling a little sad today.",
+                  "korean": "오늘은 조금 슬퍼."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Would you like to tell me a little more?",
+                "korean": "조금 더 이야기해 줄래?"
+              },
+              "mission": "감정에 대해 한 문장을 더 말하세요. 설명하기 어렵다고 해도 좋아요.",
+              "hints": [
+                "I feel…",
+                "I’m not sure…"
+              ],
+              "responses": [
+                {
+                  "english": "I don't really know how to explain it yet.",
+                  "korean": "아직 어떻게 설명해야 할지 잘 모르겠어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "What would you like to do now?",
+                "korean": "지금은 뭘 하고 싶어?"
+              },
+              "mission": "지금 자신에게 필요한 것을 말해보세요.",
+              "hints": [
+                "I'd like…",
+                "I just need…"
+              ],
+              "responses": [
+                {
+                  "english": "I'd like to sit with this feeling for a bit.",
+                  "korean": "이 감정을 잠시 그대로 느끼고 싶어."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "지금의 감정을 짧게 말하기",
+            "지금 필요한 것을 한 문장으로 표현하기"
+          ]
+        },
+        {
+          "id": "lighter",
+          "title": "홀가분한 기분 나누기",
+          "context": "아침에 만난 참가자와 지금의 기분을 나눕니다.",
+          "partnerRole": "아침에 만난 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Good morning! How are you feeling today?",
+                "korean": "좋은 아침! 오늘 기분 어때?"
+              },
+              "mission": "‘홀가분한 기분 나누기’ 상황에 맞게 지금의 감정을 말하세요.",
+              "hints": [
+                "I'm feeling…",
+                "I feel…"
+              ],
+              "responses": [
+                {
+                  "english": "I'm feeling much lighter today.",
+                  "korean": "오늘은 마음이 훨씬 홀가분해."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Would you like to tell me a little more?",
+                "korean": "조금 더 이야기해 줄래?"
+              },
+              "mission": "감정에 대해 한 문장을 더 말하세요. 설명하기 어렵다고 해도 좋아요.",
+              "hints": [
+                "I feel…",
+                "I’m not sure…"
+              ],
+              "responses": [
+                {
+                  "english": "I felt like I could let go during meditation.",
+                  "korean": "명상하면서 내려놓을 수 있을 것 같았어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "What would you like to do now?",
+                "korean": "지금은 뭘 하고 싶어?"
+              },
+              "mission": "지금 자신에게 필요한 것을 말해보세요.",
+              "hints": [
+                "I'd like…",
+                "I just need…"
+              ],
+              "responses": [
+                {
+                  "english": "I'd love to go for a walk.",
+                  "korean": "산책하고 싶어."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "지금의 감정을 짧게 말하기",
+            "지금 필요한 것을 한 문장으로 표현하기"
+          ]
+        },
+        {
+          "id": "mixed",
+          "title": "복잡한 감정 말하기",
+          "context": "아침에 만난 참가자와 지금의 기분을 나눕니다.",
+          "partnerRole": "아침에 만난 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Good morning! How are you feeling today?",
+                "korean": "좋은 아침! 오늘 기분 어때?"
+              },
+              "mission": "‘복잡한 감정 말하기’ 상황에 맞게 지금의 감정을 말하세요.",
+              "hints": [
+                "I'm feeling…",
+                "I feel…"
+              ],
+              "responses": [
+                {
+                  "english": "I have mixed feelings today.",
+                  "korean": "오늘은 여러 감정이 섞여 있어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Would you like to tell me a little more?",
+                "korean": "조금 더 이야기해 줄래?"
+              },
+              "mission": "감정에 대해 한 문장을 더 말하세요. 설명하기 어렵다고 해도 좋아요.",
+              "hints": [
+                "I feel…",
+                "I’m not sure…"
+              ],
+              "responses": [
+                {
+                  "english": "I feel grateful, but also a little tired.",
+                  "korean": "감사한 마음도 있지만 조금 피곤해."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "What would you like to do now?",
+                "korean": "지금은 뭘 하고 싶어?"
+              },
+              "mission": "지금 자신에게 필요한 것을 말해보세요.",
+              "hints": [
+                "I'd like…",
+                "I just need…"
+              ],
+              "responses": [
+                {
+                  "english": "I just need some time to recharge.",
+                  "korean": "에너지를 충전할 시간이 조금 필요해."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "지금의 감정을 짧게 말하기",
+            "지금 필요한 것을 한 문장으로 표현하기"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "after-meditation",
+      "title": "명상 후 경험 나누기",
+      "englishTitle": "After meditation",
+      "description": "감정과 신체 감각에서 생각, 깨달음, 변화까지 내 경험을 한 문장씩 이어 말해요.",
+      "pattern": "I felt… / I noticed… / I found myself -ing… / I realized… / I let go of…",
+      "tip": "경험을 서둘러 정리하지 않아도 돼요. I’m still processing it.으로 아직 소화하는 중임을 전할 수 있어요.",
+      "expressions": [
+        {
+          "english": "I felt a lot of emotions.",
+          "korean": "여러 감정이 올라왔어."
+        },
+        {
+          "english": "I felt a lot of anger.",
+          "korean": "분노가 많이 느껴졌어."
+        },
+        {
+          "english": "I felt sad for some reason.",
+          "korean": "이유는 모르겠지만 슬펐어."
+        },
+        {
+          "english": "I felt like crying.",
+          "korean": "울고 싶었어."
+        },
+        {
+          "english": "I started crying.",
+          "korean": "눈물이 나기 시작했어."
+        },
+        {
+          "english": "I felt lighter afterward.",
+          "korean": "끝나고 나니 마음이 홀가분해졌어."
+        },
+        {
+          "english": "I felt a sense of freedom.",
+          "korean": "자유로움을 느꼈어."
+        },
+        {
+          "english": "I felt connected to my body.",
+          "korean": "내 몸과 연결된 느낌이었어."
+        },
+        {
+          "english": "I felt uncomfortable at first.",
+          "korean": "처음에는 불편했어."
+        },
+        {
+          "english": "I felt a little shy while dancing.",
+          "korean": "춤출 때 조금 부끄러웠어."
+        },
+        {
+          "english": "It was really intense.",
+          "korean": "정말 강렬했어."
+        },
+        {
+          "english": "It was a powerful experience.",
+          "korean": "강렬하고 인상 깊은 경험이었어."
+        },
+        {
+          "english": "A lot of emotions came up.",
+          "korean": "많은 감정이 올라왔어."
+        },
+        {
+          "english": "I noticed some tension in my body.",
+          "korean": "몸에 긴장이 있다는 걸 느꼈어."
+        },
+        {
+          "english": "I had a lot of thoughts.",
+          "korean": "생각이 정말 많았어."
+        },
+        {
+          "english": "I couldn't stop thinking.",
+          "korean": "생각이 멈추지 않았어."
+        },
+        {
+          "english": "I realized I've been holding on to a lot.",
+          "korean": "내가 많은 걸 붙잡고 있었다는 걸 깨달았어."
+        },
+        {
+          "english": "I felt like I could let go.",
+          "korean": "내려놓을 수 있을 것 같았어."
+        },
+        {
+          "english": "I don't know how to explain it.",
+          "korean": "어떻게 설명해야 할지 모르겠어."
+        },
+        {
+          "english": "I'm still processing it.",
+          "korean": "아직 그 경험을 소화하는 중이야."
+        },
+        {
+          "english": "I just want to sit with this feeling.",
+          "korean": "이 감정을 잠시 그대로 느끼고 싶어."
+        },
+        {
+          "english": "I found myself crying during meditation.",
+          "korean": "명상하다 보니 나도 모르게 울고 있었어."
+        },
+        {
+          "english": "I became aware of my thoughts.",
+          "korean": "내 생각들을 자각하게 됐어."
+        },
+        {
+          "english": "I let go of some of my fears.",
+          "korean": "두려움을 조금 내려놓았어."
+        },
+        {
+          "english": "I struggled with staying focused.",
+          "korean": "집중을 유지하는 게 힘들었어."
+        }
+      ],
+      "cases": [
+        {
+          "id": "intense-emotions",
+          "title": "강렬한 감정과 눈물",
+          "context": "액티브 명상을 마친 뒤 느낀 변화를 이야기합니다.",
+          "partnerRole": "함께 명상을 마친 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "How was the meditation for you?",
+                "korean": "명상 어땠어?"
+              },
+              "mission": "강렬했고 많은 감정이 올라왔다고 말하세요.",
+              "hints": [
+                "It was really intense.",
+                "A lot of emotions came up."
+              ],
+              "responses": [
+                {
+                  "english": "It was really intense. A lot of emotions came up.",
+                  "korean": "정말 강렬했어. 많은 감정이 올라왔어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "What did you feel?",
+                "korean": "어떤 감정을 느꼈어?"
+              },
+              "mission": "처음에는 슬펐고 눈물이 나기 시작했다고 말하세요.",
+              "hints": [
+                "I felt… at first.",
+                "I started crying."
+              ],
+              "responses": [
+                {
+                  "english": "I felt sad at first, and then I started crying.",
+                  "korean": "처음엔 슬펐고, 그러다가 울기 시작했어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "How do you feel now?",
+                "korean": "지금은 기분이 어때?"
+              },
+              "mission": "지금은 훨씬 홀가분하다고 말하세요.",
+              "hints": [
+                "I feel much lighter."
+              ],
+              "responses": [
+                {
+                  "english": "I feel much lighter now. It was a good experience.",
+                  "korean": "지금은 훨씬 홀가분해. 좋은 경험이었어."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "현재와 과거의 감정을 구분하기",
+            "명상 전후의 변화 말하기"
+          ]
+        },
+        {
+          "id": "body-and-dance",
+          "title": "몸의 긴장과 춤",
+          "context": "춤을 포함한 명상 후 몸의 느낌을 나눕니다.",
+          "partnerRole": "명상 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "How did you feel while dancing?",
+                "korean": "춤출 때 어땠어?"
+              },
+              "mission": "처음엔 부끄럽고 불편했다고 말하세요.",
+              "hints": [
+                "I felt… at first."
+              ],
+              "responses": [
+                {
+                  "english": "I felt a little shy and uncomfortable at first.",
+                  "korean": "처음엔 조금 부끄럽고 불편했어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Did you notice anything in your body?",
+                "korean": "몸에서 느껴진 게 있었어?"
+              },
+              "mission": "몸에 긴장이 있다는 것을 알아차렸다고 말하세요.",
+              "hints": [
+                "I noticed…"
+              ],
+              "responses": [
+                {
+                  "english": "I noticed some tension in my body.",
+                  "korean": "몸에 긴장이 있다는 걸 느꼈어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "And how do you feel afterward?",
+                "korean": "끝나고 나서는 어때?"
+              },
+              "mission": "몸과 연결된 느낌이었고 지금은 편안하다고 말하세요.",
+              "hints": [
+                "I felt connected to…",
+                "I feel relaxed."
+              ],
+              "responses": [
+                {
+                  "english": "I felt connected to my body. I feel relaxed now.",
+                  "korean": "내 몸과 연결된 느낌이었어. 지금은 편안해."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "몸에서 알아차린 느낌 표현하기",
+            "I noticed와 I felt 사용하기"
+          ]
+        },
+        {
+          "id": "still-processing",
+          "title": "생각이 많았던 명상",
+          "context": "경험을 아직 정리하지 못했을 때 솔직하게 답합니다.",
+          "partnerRole": "쉬는 공간에서 만난 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "How was the session?",
+                "korean": "세션 어땠어?"
+              },
+              "mission": "생각이 많았고 생각을 멈추기 어려웠다고 말하세요.",
+              "hints": [
+                "I had a lot of thoughts."
+              ],
+              "responses": [
+                {
+                  "english": "I had a lot of thoughts. I couldn't stop thinking.",
+                  "korean": "생각이 정말 많았어. 생각이 멈추지 않았어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Was there anything you realized?",
+                "korean": "깨달은 게 있었어?"
+              },
+              "mission": "많은 것을 붙잡고 있었다는 걸 깨달았다고 말하세요.",
+              "hints": [
+                "I realized…",
+                "holding on to…"
+              ],
+              "responses": [
+                {
+                  "english": "I realized I've been holding on to a lot.",
+                  "korean": "내가 많은 걸 붙잡고 있었다는 걸 깨달았어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Would you like to talk about it?",
+                "korean": "그 이야기를 해볼래?"
+              },
+              "mission": "아직 소화하는 중이라 이 감정을 잠시 느끼고 싶다고 말하세요.",
+              "hints": [
+                "I'm still processing it.",
+                "sit with this feeling"
+              ],
+              "responses": [
+                {
+                  "english": "I'm still processing it. I just want to sit with this feeling.",
+                  "korean": "아직 그 경험을 소화하는 중이야. 이 감정을 잠시 그대로 느끼고 싶어."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "경험을 정리하는 중이라고 말하기",
+            "말하고 싶은 만큼만 나누기"
+          ]
+        },
+        {
+          "id": "active-meditation",
+          "title": "액티브 명상 후 내면의 변화",
+          "context": "명상을 마친 뒤 강렬했던 감정, 몸의 긴장과 눈물, 깨달음, 홀가분해진 마음을 차례로 나눕니다.",
+          "partnerRole": "함께 액티브 명상을 마친 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "How was the meditation for you?",
+                "korean": "명상 어땠어?"
+              },
+              "mission": "강렬했고 여러 감정을 느꼈다고 말하세요.",
+              "hints": [
+                "It was really intense.",
+                "I felt a lot of emotions."
+              ],
+              "responses": [
+                {
+                  "english": "It was really intense. I felt a lot of emotions.",
+                  "korean": "정말 강렬했어. 여러 감정이 느껴졌어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "What did you notice?",
+                "korean": "어떤 걸 알아차렸어?"
+              },
+              "mission": "몸의 긴장을 알아차렸고 나도 모르게 울고 있었다고 말하세요.",
+              "hints": [
+                "I noticed…",
+                "I found myself crying."
+              ],
+              "responses": [
+                {
+                  "english": "I noticed a lot of tension in my body. And I found myself crying.",
+                  "korean": "몸에 긴장이 많다는 걸 알아차렸어. 그리고 나도 모르게 울고 있었어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Did you realize anything?",
+                "korean": "뭔가 깨달은 게 있었어?"
+              },
+              "mission": "많은 스트레스를 붙잡고 있었다는 것을 깨달았다고 말하세요.",
+              "hints": [
+                "I realized that…",
+                "I've been holding on to…"
+              ],
+              "responses": [
+                {
+                  "english": "I realized that I've been holding on to a lot of stress.",
+                  "korean": "내가 많은 스트레스를 붙잡고 있었다는 걸 깨달았어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "How do you feel now?",
+                "korean": "지금은 어때?"
+              },
+              "mission": "지금은 홀가분하고 뭔가를 내려놓을 수 있었던 것 같다고 말하세요.",
+              "hints": [
+                "I feel much lighter now.",
+                "I think I was able to let go of…"
+              ],
+              "responses": [
+                {
+                  "english": "I feel much lighter now. I think I was able to let go of something.",
+                  "korean": "지금은 훨씬 홀가분해. 뭔가를 내려놓을 수 있었던 것 같아."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "I felt로 과거의 감정을 말했나요?",
+            "I noticed와 I found myself -ing로 관찰한 경험을 나눴나요?",
+            "깨달은 사실과 명상 후의 변화를 이어 말했나요?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "empathy",
+      "title": "상대의 감정에 공감하기",
+      "englishTitle": "Listening with care",
+      "description": "조언을 서두르지 않고 상대의 이야기를 듣고 따뜻하게 반응해요.",
+      "pattern": "That sounds… / Thanks for sharing. / Take your time.",
+      "tip": "상대가 한 말을 짧게 받아주고, 더 말하고 싶은지 물어보세요.",
+      "expressions": [
+        {
+          "english": "I see.",
+          "korean": "그렇구나."
+        },
+        {
+          "english": "I understand.",
+          "korean": "이해해."
+        },
+        {
+          "english": "That sounds intense.",
+          "korean": "강렬한 경험이었겠다."
+        },
+        {
+          "english": "That sounds beautiful.",
+          "korean": "정말 아름다운 경험이었겠다."
+        },
+        {
+          "english": "Thanks for sharing.",
+          "korean": "이야기해 줘서 고마워."
+        },
+        {
+          "english": "I can relate to that.",
+          "korean": "나도 그런 느낌 알아."
+        },
+        {
+          "english": "Take your time.",
+          "korean": "천천히 해도 돼."
+        },
+        {
+          "english": "It's okay to feel that way.",
+          "korean": "그렇게 느껴도 괜찮아."
+        }
+      ],
+      "cases": [
+        {
+          "id": "listen-to-sadness",
+          "title": "슬픔을 나누는 사람",
+          "context": "상대가 명상 중 울었던 이야기를 꺼냅니다.",
+          "partnerRole": "경험을 나누는 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "A lot of emotions came up. I started crying.",
+                "korean": "많은 감정이 올라왔어. 울기 시작했어."
+              },
+              "mission": "강렬한 경험이었겠다고 공감하세요.",
+              "hints": [
+                "That sounds…"
+              ],
+              "responses": [
+                {
+                  "english": "That sounds intense. Thanks for sharing.",
+                  "korean": "강렬한 경험이었겠다. 이야기해 줘서 고마워."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "I'm not sure why I felt so sad.",
+                "korean": "왜 그렇게 슬펐는지 잘 모르겠어."
+              },
+              "mission": "그렇게 느껴도 괜찮고 천천히 해도 된다고 답하세요.",
+              "hints": [
+                "It's okay to…",
+                "Take your time."
+              ],
+              "responses": [
+                {
+                  "english": "It's okay to feel that way. Take your time.",
+                  "korean": "그렇게 느껴도 괜찮아. 천천히 해도 돼."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Thank you for listening.",
+                "korean": "들어줘서 고마워."
+              },
+              "mission": "이야기를 들어줄 수 있어 기쁘다고 말하세요.",
+              "hints": [
+                "I'm glad…"
+              ],
+              "responses": [
+                {
+                  "english": "Of course. I'm glad you told me.",
+                  "korean": "물론이지. 이야기해 줘서 고마워."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "해결책보다 공감으로 반응하기",
+            "상대의 속도를 존중하기"
+          ]
+        },
+        {
+          "id": "share-joy",
+          "title": "기쁜 경험에 반응하기",
+          "context": "상대가 자유로움을 느꼈다고 이야기합니다.",
+          "partnerRole": "기쁜 경험을 나누는 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "I felt a sense of freedom today.",
+                "korean": "오늘 자유로움을 느꼈어."
+              },
+              "mission": "아름다운 경험이었겠다고 말하세요.",
+              "hints": [
+                "That sounds beautiful."
+              ],
+              "responses": [
+                {
+                  "english": "That sounds beautiful. I'm happy for you.",
+                  "korean": "정말 아름다운 경험이었겠다. 나도 기뻐."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "I felt like I could finally let go.",
+                "korean": "드디어 내려놓을 수 있을 것 같았어."
+              },
+              "mission": "비슷한 느낌을 안다고 공감해보세요.",
+              "hints": [
+                "I can relate to that."
+              ],
+              "responses": [
+                {
+                  "english": "I can relate to that. I felt lighter afterward too.",
+                  "korean": "나도 그런 느낌 알아. 나도 끝나고 나니 홀가분했어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "It's hard to put into words.",
+                "korean": "말로 표현하기 어려워."
+              },
+              "mission": "이해한다고 말하고 나눠줘서 고맙다고 하세요.",
+              "hints": [
+                "I understand.",
+                "Thanks for sharing."
+              ],
+              "responses": [
+                {
+                  "english": "I understand. Thanks for sharing that with me.",
+                  "korean": "이해해. 나에게 이야기해 줘서 고마워."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "긍정적인 감정에도 공감하기",
+            "내 경험을 짧게 연결하기"
+          ]
+        },
+        {
+          "id": "give-time",
+          "title": "말할 시간이 필요한 사람",
+          "context": "상대가 말을 고르며 잠시 멈춥니다.",
+          "partnerRole": "경험을 정리 중인 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "I don't know how to explain it.",
+                "korean": "어떻게 설명해야 할지 모르겠어."
+              },
+              "mission": "서두르지 않아도 된다고 말하세요.",
+              "hints": [
+                "Take your time."
+              ],
+              "responses": [
+                {
+                  "english": "Take your time. There's no rush.",
+                  "korean": "천천히 해도 돼. 서두를 필요 없어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "I'm still processing what happened.",
+                "korean": "아직 무슨 일이 있었는지 소화하는 중이야."
+              },
+              "mission": "이해한다고 답하고 지금 말하지 않아도 된다고 하세요.",
+              "hints": [
+                "I understand.",
+                "You don't have to…"
+              ],
+              "responses": [
+                {
+                  "english": "I understand. You don't have to explain it right now.",
+                  "korean": "이해해. 지금 바로 설명하지 않아도 돼."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Maybe we can talk later.",
+                "korean": "나중에 이야기해도 될까?"
+              },
+              "mission": "좋다고 답하고 상대에게 시간을 주세요.",
+              "hints": [
+                "Of course.",
+                "Take your time."
+              ],
+              "responses": [
+                {
+                  "english": "Of course. Take your time. See you later.",
+                  "korean": "물론이지. 천천히 해. 나중에 봐."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "잠시 멈출 수 있는 여유 주기",
+            "나중에 이야기하자는 뜻 존중하기"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alone-time",
+      "title": "혼자만의 시간 부탁하기",
+      "englishTitle": "Time to yourself",
+      "description": "고마움을 전하면서 지금 필요한 휴식과 개인적인 공간을 말해요.",
+      "pattern": "Thanks, but I'd like… / I need a little space.",
+      "tip": "거절의 이유를 길게 설명할 필요는 없어요. 감사와 지금의 바람을 한 문장씩 말해보세요.",
+      "expressions": [
+        {
+          "english": "I need some time alone.",
+          "korean": "혼자만의 시간이 필요해."
+        },
+        {
+          "english": "I'd like some time to myself.",
+          "korean": "나만의 시간을 좀 갖고 싶어."
+        },
+        {
+          "english": "I just want to be alone for a bit.",
+          "korean": "잠깐 혼자 있고 싶어."
+        },
+        {
+          "english": "I need a little space right now.",
+          "korean": "지금은 혼자만의 공간이 좀 필요해."
+        },
+        {
+          "english": "I'd like to sit by myself.",
+          "korean": "혼자 앉아 있고 싶어."
+        },
+        {
+          "english": "I want some quiet time.",
+          "korean": "조용한 시간을 갖고 싶어."
+        },
+        {
+          "english": "I just need to recharge.",
+          "korean": "에너지를 좀 충전하고 싶어."
+        },
+        {
+          "english": "Maybe we can talk later.",
+          "korean": "나중에 얘기해도 될까?"
+        }
+      ],
+      "cases": [
+        {
+          "id": "decline-tea",
+          "title": "차 제안 부드럽게 거절하기",
+          "context": "명상 후 혼자 있고 싶은데 차를 마시자는 제안을 받습니다.",
+          "partnerRole": "차를 권하는 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Hey, do you want to grab some tea?",
+                "korean": "차 한잔할래?"
+              },
+              "mission": "고맙지만 혼자만의 시간이 필요하다고 말하세요.",
+              "hints": [
+                "Thanks, but I'd like…"
+              ],
+              "responses": [
+                {
+                  "english": "Thanks, but I'd like some time to myself.",
+                  "korean": "고마워, 근데 혼자만의 시간을 좀 갖고 싶어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Sure! No problem.",
+                "korean": "물론이지! 괜찮아."
+              },
+              "mission": "이해해 줘서 고맙다고 말하세요.",
+              "hints": [
+                "Thanks for understanding."
+              ],
+              "responses": [
+                {
+                  "english": "Thanks for understanding.",
+                  "korean": "이해해 줘서 고마워."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Maybe another time?",
+                "korean": "다음에 같이 마실까?"
+              },
+              "mission": "나중에 이야기하자고 하고 인사하세요.",
+              "hints": [
+                "Maybe we can…",
+                "See you later."
+              ],
+              "responses": [
+                {
+                  "english": "Yes, maybe we can talk later. See you later!",
+                  "korean": "응, 나중에 이야기하자. 나중에 봐!"
+                }
+              ]
+            }
+          ],
+          "review": [
+            "감사와 거절을 함께 전하기",
+            "나중의 만남은 원하는 경우에만 제안하기"
+          ]
+        },
+        {
+          "id": "quiet-seat",
+          "title": "혼자 앉고 싶을 때",
+          "context": "조용히 앉아 쉬던 중 누군가 옆에 앉아도 되는지 묻습니다.",
+          "partnerRole": "옆자리에 온 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Would you like some company?",
+                "korean": "같이 있어 줄까?"
+              },
+              "mission": "지금은 혼자 앉아 있고 싶다고 답하세요.",
+              "hints": [
+                "I'd like to sit by myself."
+              ],
+              "responses": [
+                {
+                  "english": "Thanks, but I'd like to sit by myself for a bit.",
+                  "korean": "고마워, 근데 잠깐 혼자 앉아 있고 싶어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Of course. Are you okay?",
+                "korean": "물론이지. 괜찮아?"
+              },
+              "mission": "괜찮고 조용한 시간이 필요할 뿐이라고 말하세요.",
+              "hints": [
+                "I'm okay.",
+                "I want some quiet time."
+              ],
+              "responses": [
+                {
+                  "english": "I'm okay. I just want some quiet time.",
+                  "korean": "괜찮아. 그냥 조용한 시간을 갖고 싶어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "I understand. I'll leave you to it.",
+                "korean": "이해해. 편히 쉬어."
+              },
+              "mission": "고맙다고 말하며 마무리하세요.",
+              "hints": [
+                "Thanks for understanding."
+              ],
+              "responses": [
+                {
+                  "english": "Thank you. Thanks for understanding.",
+                  "korean": "고마워. 이해해 줘서 고마워."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "혼자 있고 싶은 바람을 명확히 표현하기",
+            "걱정해 주는 상대에게 짧게 답하기"
+          ]
+        },
+        {
+          "id": "recharge",
+          "title": "쉬었다가 만나기",
+          "context": "다음 활동에 함께 가자는 제안을 받았지만 쉬고 싶습니다.",
+          "partnerRole": "함께 활동하려는 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Are you coming with us?",
+                "korean": "우리랑 같이 갈 거야?"
+              },
+              "mission": "지금은 조금 피곤해서 쉬고 싶다고 말하세요.",
+              "hints": [
+                "I'm a bit tired.",
+                "I need to recharge."
+              ],
+              "responses": [
+                {
+                  "english": "I'm a bit tired. I just need to recharge.",
+                  "korean": "조금 피곤해. 에너지를 좀 충전하고 싶어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Would you like to join us later?",
+                "korean": "나중에 합류할래?"
+              },
+              "mission": "지금은 약속하지 않고 나중에 보자고 답하세요.",
+              "hints": [
+                "Maybe later."
+              ],
+              "responses": [
+                {
+                  "english": "Maybe later. I need some time alone first.",
+                  "korean": "나중에 그럴 수도 있어. 우선 혼자만의 시간이 필요해."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "All right, take care!",
+                "korean": "알겠어, 잘 쉬어!"
+              },
+              "mission": "고마움과 인사를 전하세요.",
+              "hints": [
+                "Thanks.",
+                "See you around."
+              ],
+              "responses": [
+                {
+                  "english": "Thanks! See you around.",
+                  "korean": "고마워! 또 보자."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "피곤함을 부드럽게 표현하기",
+            "바로 약속하지 않고 의사 전하기"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dancing",
+      "title": "춤 제안에 답하기",
+      "englishTitle": "Dancing on your own",
+      "description": "같이 춤추자는 제안을 받았을 때 내가 원하는 방식을 전해요.",
+      "pattern": "I'd rather… / I'm enjoying… / Not right now, thanks.",
+      "tip": "I’d rather 뒤에는 동사원형을 써요. 혼자 춤추고 싶다는 바람을 짧고 분명하게 전해보세요.",
+      "expressions": [
+        {
+          "english": "No, thanks. I'm good.",
+          "korean": "아니, 고마워. 난 괜찮아."
+        },
+        {
+          "english": "Not right now, thanks.",
+          "korean": "지금은 괜찮아, 고마워."
+        },
+        {
+          "english": "I'd rather dance alone.",
+          "korean": "혼자 춤추는 게 더 좋아."
+        },
+        {
+          "english": "I want to dance on my own.",
+          "korean": "혼자 춤추고 싶어."
+        },
+        {
+          "english": "I'm enjoying dancing by myself.",
+          "korean": "혼자 춤추는 게 좋아."
+        },
+        {
+          "english": "I'm just going to watch for now.",
+          "korean": "지금은 그냥 구경할게."
+        },
+        {
+          "english": "Maybe later!",
+          "korean": "나중에 할게!"
+        }
+      ],
+      "cases": [
+        {
+          "id": "dance-alone",
+          "title": "혼자 춤추고 싶을 때",
+          "context": "누군가 같이 춤추자고 다가옵니다.",
+          "partnerRole": "춤을 제안하는 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Hey! Do you want to dance together?",
+                "korean": "안녕! 같이 춤출래?"
+              },
+              "mission": "고맙지만 지금은 혼자 춤추고 싶다고 말하세요.",
+              "hints": [
+                "Thanks, but I'd rather…"
+              ],
+              "responses": [
+                {
+                  "english": "Thanks, but I'd rather dance on my own right now.",
+                  "korean": "고마워, 근데 지금은 혼자 춤추고 싶어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Oh, okay! Enjoy!",
+                "korean": "아, 알겠어! 즐겁게 춰!"
+              },
+              "mission": "고맙다고 하고 상대도 즐기라고 말하세요.",
+              "hints": [
+                "Thanks!",
+                "Have fun!"
+              ],
+              "responses": [
+                {
+                  "english": "Thanks! Have fun!",
+                  "korean": "고마워! 너도 즐겁게 춰!"
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "See you after the session.",
+                "korean": "세션 후에 보자."
+              },
+              "mission": "세션 후에 보자고 답하세요.",
+              "hints": [
+                "See you…"
+              ],
+              "responses": [
+                {
+                  "english": "See you after the session!",
+                  "korean": "세션 후에 보자!"
+                }
+              ]
+            }
+          ],
+          "review": [
+            "I’d rather + 동사원형 사용하기",
+            "거절 후 짧게 인사하기"
+          ]
+        },
+        {
+          "id": "watch-first",
+          "title": "오늘은 구경하고 싶을 때",
+          "context": "춤에 바로 참여할지 아직 정하지 않았습니다.",
+          "partnerRole": "옆에 있는 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Are you going to join the dancing?",
+                "korean": "춤추는 데 참여할 거야?"
+              },
+              "mission": "지금은 구경하려고 한다고 말하세요.",
+              "hints": [
+                "I'm just going to watch…"
+              ],
+              "responses": [
+                {
+                  "english": "I'm just going to watch for now.",
+                  "korean": "지금은 그냥 구경할게."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Come on, it'll be fun!",
+                "korean": "같이 하자, 재미있을 거야!"
+              },
+              "mission": "지금은 괜찮다고 짧게 다시 답하세요.",
+              "hints": [
+                "Not right now, thanks."
+              ],
+              "responses": [
+                {
+                  "english": "Not right now, thanks. I'm happy watching.",
+                  "korean": "지금은 괜찮아, 고마워. 구경하는 게 좋아."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Okay, enjoy your evening!",
+                "korean": "알겠어, 저녁 즐겁게 보내!"
+              },
+              "mission": "상대에게도 좋은 시간을 빌어주세요.",
+              "hints": [
+                "You too.",
+                "Have fun."
+              ],
+              "responses": [
+                {
+                  "english": "You too! Have fun.",
+                  "korean": "너도! 즐거운 시간 보내."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "지금의 선택을 전하기",
+            "부드럽게 같은 뜻 반복하기"
+          ]
+        },
+        {
+          "id": "enjoying-solo",
+          "title": "혼자 추는 게 좋다고 말하기",
+          "context": "이미 혼자 춤을 즐기는 중에 제안을 받습니다.",
+          "partnerRole": "함께 춤추려는 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Would you like a dance partner?",
+                "korean": "같이 춤출 사람 필요해?"
+              },
+              "mission": "혼자 춤추는 게 좋다고 말하세요.",
+              "hints": [
+                "I'm enjoying…"
+              ],
+              "responses": [
+                {
+                  "english": "Thanks, but I'm enjoying dancing by myself.",
+                  "korean": "고마워, 근데 혼자 춤추는 게 좋아."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Maybe just for one song?",
+                "korean": "한 곡만 같이 출래?"
+              },
+              "mission": "고맙지만 혼자 추고 싶다는 뜻을 유지하세요.",
+              "hints": [
+                "I'd rather…"
+              ],
+              "responses": [
+                {
+                  "english": "No, thanks. I'd rather keep dancing on my own.",
+                  "korean": "아니, 고마워. 계속 혼자 춤추고 싶어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "No problem. Enjoy!",
+                "korean": "괜찮아. 즐겁게 춰!"
+              },
+              "mission": "고맙다고 인사하세요.",
+              "hints": [
+                "Thanks.",
+                "You too."
+              ],
+              "responses": [
+                {
+                  "english": "Thanks, you too!",
+                  "korean": "고마워, 너도!"
+                }
+              ]
+            }
+          ],
+          "review": [
+            "현재 즐기는 방식을 표현하기",
+            "추가 제안에도 내 선택 유지하기"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "boundaries",
+      "title": "분명하게 경계 전하기",
+      "englishTitle": "Clear boundaries",
+      "description": "계속되는 권유나 불편한 질문, 원하지 않는 접촉에 분명하게 답해요.",
+      "pattern": "I'm not comfortable with that. / Please respect my space.",
+      "tip": "상황이 불편하면 짧고 직접적인 문장을 써도 괜찮아요. 내 의사를 분명하게 전하는 데 집중하세요.",
+      "expressions": [
+        {
+          "english": "I appreciate it, but I'm okay.",
+          "korean": "고맙지만 난 괜찮아."
+        },
+        {
+          "english": "I really want to be alone right now.",
+          "korean": "지금은 정말 혼자 있고 싶어."
+        },
+        {
+          "english": "Please give me some space.",
+          "korean": "혼자 있을 수 있게 해줘."
+        },
+        {
+          "english": "I'm not comfortable with that.",
+          "korean": "그건 좀 불편해."
+        },
+        {
+          "english": "Please respect my space.",
+          "korean": "내 개인적인 공간을 존중해 줘."
+        },
+        {
+          "english": "Please don't touch me.",
+          "korean": "저를 만지지 마세요."
+        },
+        {
+          "english": "I'd rather not talk about that.",
+          "korean": "그 이야기는 하지 않고 싶어요."
+        }
+      ],
+      "cases": [
+        {
+          "id": "repeated-invitation",
+          "title": "계속 권유할 때",
+          "context": "이미 혼자 있고 싶다고 했지만 상대가 다시 권합니다.",
+          "partnerRole": "계속 함께하자고 권하는 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Are you sure you want to be alone? Come with us!",
+                "korean": "정말 혼자 있을 거야? 우리랑 같이 가자!"
+              },
+              "mission": "고맙지만 지금은 혼자 있고 싶다고 다시 말하세요.",
+              "hints": [
+                "I appreciate it, but…"
+              ],
+              "responses": [
+                {
+                  "english": "I appreciate it, but I really want to be alone right now.",
+                  "korean": "고맙지만 지금은 정말 혼자 있고 싶어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Just for a little while?",
+                "korean": "잠깐만 같이 가면 안 될까?"
+              },
+              "mission": "혼자 있을 수 있도록 공간을 달라고 분명하게 말하세요.",
+              "hints": [
+                "Please give me some space."
+              ],
+              "responses": [
+                {
+                  "english": "No, thank you. Please give me some space.",
+                  "korean": "아니, 고마워. 혼자 있을 수 있게 해줘."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Okay. I'll give you some space.",
+                "korean": "알겠어. 혼자 쉴 수 있게 할게."
+              },
+              "mission": "이해해 줘서 고맙다고 마무리하세요.",
+              "hints": [
+                "Thanks for understanding."
+              ],
+              "responses": [
+                {
+                  "english": "Thanks for understanding.",
+                  "korean": "이해해 줘서 고마워."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "부드러운 거절에서 분명한 요청으로 바꾸기",
+            "긴 설명 없이 경계 전하기"
+          ]
+        },
+        {
+          "id": "no-touch",
+          "title": "원하지 않는 접촉 거절하기",
+          "context": "상대가 포옹을 제안하지만 신체 접촉을 원하지 않습니다.",
+          "partnerRole": "인사를 나누는 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Can I give you a hug?",
+                "korean": "안아줘도 될까?"
+              },
+              "mission": "포옹은 원하지 않는다고 말하세요.",
+              "hints": [
+                "No, thank you.",
+                "not comfortable with…"
+              ],
+              "responses": [
+                {
+                  "english": "No, thank you. I'm not comfortable with hugs right now.",
+                  "korean": "아니, 고마워. 지금은 포옹이 불편해."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Just a quick hug?",
+                "korean": "잠깐만 안으면 안 될까?"
+              },
+              "mission": "만지지 말아 달라고 직접적으로 요청하세요.",
+              "hints": [
+                "Please don't touch me."
+              ],
+              "responses": [
+                {
+                  "english": "Please don't touch me. Please respect my space.",
+                  "korean": "저를 만지지 마세요. 제 개인적인 공간을 존중해 주세요."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "I understand. I won't.",
+                "korean": "이해해. 그러지 않을게."
+              },
+              "mission": "요청을 존중해 줘서 고맙다고 말하세요.",
+              "hints": [
+                "Thank you for…"
+              ],
+              "responses": [
+                {
+                  "english": "Thank you for respecting my space.",
+                  "korean": "내 개인적인 공간을 존중해 줘서 고마워."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "원하지 않는 접촉을 분명하게 거절하기",
+            "Please don’t + 동사원형 사용하기"
+          ]
+        },
+        {
+          "id": "private-topic",
+          "title": "사적인 질문에 답하지 않기",
+          "context": "대화 중 나누고 싶지 않은 개인적인 질문을 받습니다.",
+          "partnerRole": "이야기 중인 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Can you tell me more about what happened at home?",
+                "korean": "집에서 무슨 일이 있었는지 더 말해줄래?"
+              },
+              "mission": "그 이야기는 하지 않고 싶다고 말하세요.",
+              "hints": [
+                "I'd rather not talk about…"
+              ],
+              "responses": [
+                {
+                  "english": "I'd rather not talk about that right now.",
+                  "korean": "그 이야기는 지금 하고 싶지 않아."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Why not? You can tell me.",
+                "korean": "왜? 나한테는 말해도 돼."
+              },
+              "mission": "그 질문이 불편하다고 밝히고 존중을 요청하세요.",
+              "hints": [
+                "I'm not comfortable with…",
+                "Please respect…"
+              ],
+              "responses": [
+                {
+                  "english": "I'm not comfortable with that question. Please respect my privacy.",
+                  "korean": "그 질문은 불편해. 내 사생활을 존중해 줘."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Of course. Let's talk about something else.",
+                "korean": "물론이지. 다른 이야기를 하자."
+              },
+              "mission": "고맙다고 말하고 이야기 주제를 바꿔보세요.",
+              "hints": [
+                "Thanks for understanding.",
+                "How was…?"
+              ],
+              "responses": [
+                {
+                  "english": "Thanks for understanding. How was your meditation?",
+                  "korean": "이해해 줘서 고마워. 명상은 어땠어?"
+                }
+              ]
+            }
+          ],
+          "review": [
+            "대답하지 않을 선택 표현하기",
+            "원할 때 다른 주제로 대화 이어가기"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "everyday-frustrations",
+      "title": "답답한 상황 이야기하기",
+      "englishTitle": "Frustration & acceptance",
+      "description": "바쁜 일정이나 아쉬운 결과를 이야기하고, 바꾸고 싶은 점과 받아들이는 마음을 전해요.",
+      "pattern": "What's up with…? / I can't stand… / That's how the cookie crumbles.",
+      "tip": "can’t stand 뒤에는 명사나 -ing를 써요. That’s how the cookie crumbles.는 내 뜻대로 되지 않은 일을 받아들이는 편한 표현이에요.",
+      "source": {
+        "document": "사용자 제공 스캔 PDF",
+        "unit": "Day 04",
+        "title": "뭐 사는 게 다 그렇지",
+        "pdfPage": 1
+      },
+      "expressions": [
+        {
+          "english": "What's up with…?",
+          "korean": "~는 왜 그래? ~에 무슨 일이 있어?",
+          "note": "상황이나 이유가 궁금할 때 써요. 사람에게 직접 묻는 어조에 따라 불만처럼 들릴 수도 있어요."
+        },
+        {
+          "english": "I can't stand…",
+          "korean": "~을 도저히 견딜 수 없어.",
+          "note": "뒤에 명사나 동명사를 써요. I can’t stand waiting.처럼 말할 수 있어요."
+        },
+        {
+          "english": "the way someone handles something",
+          "korean": "누군가가 어떤 일을 처리하는 방식",
+          "note": "someone이 주어이면 handles처럼 3인칭 단수형을 써요. the way they handle…도 가능해요."
+        },
+        {
+          "english": "step up one's game",
+          "korean": "실력이나 노력의 수준을 높이다",
+          "note": "주어에 맞춰 step up my / your / our game으로 바꿔 써요."
+        },
+        {
+          "english": "That's how the cookie crumbles.",
+          "korean": "사는 게 다 그렇지. 어쩔 수 없지.",
+          "note": "아쉬운 일을 받아들이는 관용 표현이에요. That’s life. / It is what it is.와 비슷하게 쓸 수 있어요."
+        }
+      ],
+      "cases": [
+        {
+          "id": "work-life-balance",
+          "title": "일 때문에 저녁 시간이 없을 때",
+          "context": "친구와 바쁜 일정, 일과 생활의 균형에 대해 이야기합니다.",
+          "partnerRole": "일상 이야기를 나누는 친구",
+          "turns": [
+            {
+              "partner": {
+                "english": "What's up with your schedule this week?",
+                "korean": "이번 주 일정이 왜 그래?"
+              },
+              "mission": "일 때문에 매일 저녁을 쓰게 되는 방식이 힘들다고 말하세요.",
+              "hints": [
+                "I can't stand…",
+                "the way…"
+              ],
+              "responses": [
+                {
+                  "english": "I can't stand the way work takes over my evenings.",
+                  "korean": "일이 내 저녁 시간을 다 차지하는 게 너무 힘들어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Is there anything you could change?",
+                "korean": "바꿀 수 있는 게 있을까?"
+              },
+              "mission": "시간 관리 실력을 높여 제시간에 일을 마치고 싶다고 말하세요.",
+              "hints": [
+                "step up my game",
+                "finish on time"
+              ],
+              "responses": [
+                {
+                  "english": "I need to step up my game with time management and finish on time.",
+                  "korean": "시간 관리 실력을 높여서 제시간에 일을 마쳐야겠어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "And now the deadline has changed again.",
+                "korean": "그런데 마감이 또 바뀌었어."
+              },
+              "mission": "어쩔 수 없는 일도 있다며 내일 다시 해보겠다고 말하세요.",
+              "hints": [
+                "That's how the cookie crumbles."
+              ],
+              "responses": [
+                {
+                  "english": "That's how the cookie crumbles. I'll try again tomorrow.",
+                  "korean": "사는 게 다 그렇지. 내일 다시 해볼게."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "답답한 상황을 구체적으로 설명하기",
+            "바꿀 점과 받아들일 점 말하기"
+          ]
+        },
+        {
+          "id": "cancelled-plan",
+          "title": "갑자기 계획이 취소됐을 때",
+          "context": "기대했던 주말 계획이 취소되어 친구와 이야기합니다.",
+          "partnerRole": "계획이 궁금한 친구",
+          "turns": [
+            {
+              "partner": {
+                "english": "What's up with your weekend trip?",
+                "korean": "주말 여행은 어떻게 된 거야?"
+              },
+              "mission": "취소됐고 갑작스러운 취소가 정말 싫다고 말하세요.",
+              "hints": [
+                "It was cancelled.",
+                "I can't stand…"
+              ],
+              "responses": [
+                {
+                  "english": "It was cancelled. I can't stand last-minute cancellations.",
+                  "korean": "취소됐어. 갑작스러운 취소는 정말 싫어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Did they explain what happened?",
+                "korean": "무슨 일인지 설명은 해줬어?"
+              },
+              "mission": "그들이 상황을 처리하는 방식이 아쉬웠다고 말하세요.",
+              "hints": [
+                "the way they handled…"
+              ],
+              "responses": [
+                {
+                  "english": "Not really. I didn't like the way they handled the situation.",
+                  "korean": "별로. 그들이 상황을 처리하는 방식이 마음에 들지 않았어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "What are you going to do now?",
+                "korean": "이제 어떻게 할 거야?"
+              },
+              "mission": "어쩔 수 없다고 받아들이고 다른 날을 고르겠다고 하세요.",
+              "hints": [
+                "That's how the cookie crumbles.",
+                "choose another day"
+              ],
+              "responses": [
+                {
+                  "english": "That's how the cookie crumbles. We'll choose another day.",
+                  "korean": "어쩔 수 없지. 다른 날로 정할 거야."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "can’t stand + 명사 사용하기",
+            "아쉬운 일을 받아들이는 표현 쓰기"
+          ]
+        },
+        {
+          "id": "team-improvement",
+          "title": "팀이 더 잘해야 할 때",
+          "context": "팀 발표를 준비하면서 아쉬운 점과 개선 방법을 나눕니다.",
+          "partnerRole": "같이 발표를 준비하는 동료",
+          "turns": [
+            {
+              "partner": {
+                "english": "How do you feel about our preparation?",
+                "korean": "우리 준비 상황은 어떤 것 같아?"
+              },
+              "mission": "항상 마지막 순간까지 미루는 방식이 힘들다고 말하세요.",
+              "hints": [
+                "I can't stand the way…"
+              ],
+              "responses": [
+                {
+                  "english": "I can't stand the way we leave everything until the last minute.",
+                  "korean": "우리가 모든 걸 마지막 순간까지 미루는 게 너무 힘들어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "What would help us do better?",
+                "korean": "어떻게 하면 더 잘할 수 있을까?"
+              },
+              "mission": "실력을 높이고 함께 연습해야 한다고 말하세요.",
+              "hints": [
+                "step up our game",
+                "practice together"
+              ],
+              "responses": [
+                {
+                  "english": "We need to step up our game and practice together.",
+                  "korean": "우리는 더 잘할 수 있도록 노력하고 함께 연습해야 해."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "And what if things still go wrong?",
+                "korean": "그래도 잘못되면 어떡하지?"
+              },
+              "mission": "그럴 수도 있다며 경험에서 배우자고 말하세요.",
+              "hints": [
+                "That's how the cookie crumbles.",
+                "learn from it"
+              ],
+              "responses": [
+                {
+                  "english": "Sometimes that's how the cookie crumbles. We can learn from it.",
+                  "korean": "가끔은 그런 일도 있는 거지. 그 경험에서 배울 수 있어."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "the way + 주어 + 동사로 방식 설명하기",
+            "step up our game으로 개선 의지 전하기"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "getting-along",
+      "title": "잘 맞는 사람과 신뢰",
+      "englishTitle": "Getting along & trust",
+      "description": "친구를 소개받거나 함께 일한 경험을 나누며, 잘 맞는 느낌과 직감·신뢰를 표현해요.",
+      "pattern": "hit it off / Call it intuition. / I'll take your word for it.",
+      "tip": "hit it off는 처음 만났는데도 잘 통할 때 써요. take someone’s word for it은 직접 확인하지 않고 상대의 말을 믿겠다는 뜻이에요.",
+      "source": {
+        "document": "사용자 제공 스캔 PDF",
+        "unit": "Day 05",
+        "title": "그냥 감이 그래",
+        "pdfPage": 2
+      },
+      "expressions": [
+        {
+          "english": "hit it off",
+          "korean": "처음부터 잘 맞다, 금방 친해지다",
+          "note": "We hit it off right away.처럼 첫 만남부터 대화가 잘 통했다는 뜻으로 써요."
+        },
+        {
+          "english": "like peanut butter and jelly",
+          "korean": "아주 잘 어울리는, 찰떡궁합인",
+          "note": "서로 잘 맞는 사람이나 조합을 땅콩버터와 젤리에 비유하는 편한 표현이에요."
+        },
+        {
+          "english": "Call it intuition.",
+          "korean": "그냥 직감이라고 해두자.",
+          "note": "이유를 논리적으로 설명하기 어렵지만 그런 느낌이 들 때 써요."
+        },
+        {
+          "english": "steer someone wrong",
+          "korean": "누군가를 잘못된 방향으로 이끌다",
+          "note": "My gut never steers me wrong.은 내 직감이 나를 틀린 방향으로 이끈 적이 없다는 뜻이에요."
+        },
+        {
+          "english": "take someone's word for it",
+          "korean": "누군가의 말을 그대로 믿다",
+          "note": "I’ll take your word for it.처럼 말해요. 상대에 맞춰 your / her / his word로 바꿀 수 있어요."
+        }
+      ],
+      "cases": [
+        {
+          "id": "meet-a-friend",
+          "title": "잘 맞을 것 같은 친구 소개",
+          "context": "친구가 나와 잘 맞을 것 같은 사람을 소개하려고 합니다.",
+          "partnerRole": "친구를 소개하려는 사람",
+          "turns": [
+            {
+              "partner": {
+                "english": "I think you and my friend would really hit it off.",
+                "korean": "너랑 내 친구는 정말 잘 맞을 것 같아."
+              },
+              "mission": "왜 그렇게 확신하는지 물어보세요.",
+              "hints": [
+                "What makes you…?"
+              ],
+              "responses": [
+                {
+                  "english": "What makes you so sure?",
+                  "korean": "왜 그렇게 확신해?"
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "You both love quiet walks. You would go together like peanut butter and jelly.",
+                "korean": "둘 다 조용한 산책을 좋아하잖아. 정말 잘 어울릴 거야."
+              },
+              "mission": "그렇다면 친구의 말을 믿어보겠다고 말하세요.",
+              "hints": [
+                "I'll take your word for it."
+              ],
+              "responses": [
+                {
+                  "english": "All right, I'll take your word for it.",
+                  "korean": "좋아, 네 말을 믿어볼게."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Call it intuition. My gut never steers me wrong.",
+                "korean": "그냥 감이 그래. 내 직감은 틀린 적이 없어."
+              },
+              "mission": "좋다고 답하고 차를 마시며 만나자고 제안하세요.",
+              "hints": [
+                "Sounds good.",
+                "meet for tea"
+              ],
+              "responses": [
+                {
+                  "english": "Sounds good. Let's meet for tea sometime.",
+                  "korean": "좋아. 언제 차 마시면서 만나자."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "확신의 이유를 자연스럽게 묻기",
+            "상대의 말을 믿겠다는 표현 쓰기"
+          ]
+        },
+        {
+          "id": "good-team",
+          "title": "새 동료와 잘 맞았을 때",
+          "context": "함께 일한 새 동료와 금방 친해졌던 경험을 이야기합니다.",
+          "partnerRole": "프로젝트가 궁금한 친구",
+          "turns": [
+            {
+              "partner": {
+                "english": "How did you get along with your new teammate?",
+                "korean": "새 팀 동료와는 잘 지냈어?"
+              },
+              "mission": "처음부터 잘 통했다고 말하세요.",
+              "hints": [
+                "hit it off",
+                "right away"
+              ],
+              "responses": [
+                {
+                  "english": "We hit it off right away.",
+                  "korean": "우리는 처음부터 잘 맞았어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "What makes you such a good team?",
+                "korean": "왜 그렇게 좋은 팀이 된 것 같아?"
+              },
+              "mission": "서로 보완해 주어 찰떡궁합이라고 말하세요.",
+              "hints": [
+                "like peanut butter and jelly"
+              ],
+              "responses": [
+                {
+                  "english": "We complement each other, like peanut butter and jelly.",
+                  "korean": "우리는 서로를 보완해 줘. 찰떡궁합이야."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Would I fit in with you two?",
+                "korean": "나도 너희 둘과 잘 맞을까?"
+              },
+              "mission": "직감상 잘 맞을 것 같다며 함께 해보자고 말하세요.",
+              "hints": [
+                "Call it intuition.",
+                "fit right in"
+              ],
+              "responses": [
+                {
+                  "english": "Call it intuition, but I think you'd fit right in. Let's try working together.",
+                  "korean": "그냥 감이지만 너도 잘 맞을 것 같아. 같이 일해보자."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "hit it off로 첫인상과 친밀함 표현하기",
+            "잘 어울리는 조합을 비유하기"
+          ]
+        },
+        {
+          "id": "trust-a-recommendation",
+          "title": "추천을 믿어보기",
+          "context": "친구가 새로운 취미 모임을 추천하지만 아직 망설이고 있습니다.",
+          "partnerRole": "모임을 추천하는 친구",
+          "turns": [
+            {
+              "partner": {
+                "english": "I think you would love this group.",
+                "korean": "넌 이 모임을 좋아할 것 같아."
+              },
+              "mission": "왜 그렇게 생각하는지 물어보세요.",
+              "hints": [
+                "What makes you think…?"
+              ],
+              "responses": [
+                {
+                  "english": "What makes you think I'd like it?",
+                  "korean": "내가 좋아할 거라고 생각하는 이유가 뭐야?"
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "I can't explain it. Call it intuition.",
+                "korean": "설명하긴 어려워. 그냥 감이 그래."
+              },
+              "mission": "이번에는 친구의 말을 믿어보겠다고 말하세요.",
+              "hints": [
+                "I'll take your word for it."
+              ],
+              "responses": [
+                {
+                  "english": "Okay, I'll take your word for it this time.",
+                  "korean": "알겠어, 이번에는 네 말을 믿어볼게."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "You know I wouldn't steer you wrong.",
+                "korean": "내가 널 잘못된 방향으로 이끌지는 않을 거잖아."
+              },
+              "mission": "고맙다고 하고 함께 가보자고 답하세요.",
+              "hints": [
+                "Thanks.",
+                "go together"
+              ],
+              "responses": [
+                {
+                  "english": "Thanks. Let's go together and see how it feels.",
+                  "korean": "고마워. 같이 가서 어떤 느낌인지 보자."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "직감과 확신에 대해 대화하기",
+            "steer someone wrong의 의미 이해하기"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "making-plans",
+      "title": "약속 시간 조율하기",
+      "englishTitle": "Making plans",
+      "description": "가능한 시간을 확인하고 더 나은 시간을 제안한 뒤, 다시 연락하기로 약속해요.",
+      "pattern": "Are you cool with…? / …would be a better bet. / get in touch",
+      "tip": "be cool with는 친근한 사이에서 괜찮은지 물을 때 써요. 공식적인 상황에서는 Does 7:30 work for you?처럼 물어볼 수 있어요.",
+      "source": {
+        "document": "사용자 제공 스캔 PDF",
+        "unit": "Day 10",
+        "title": "안전하게 7시 반 어때요?",
+        "pdfPage": 3
+      },
+      "expressions": [
+        {
+          "english": "be cool with…",
+          "korean": "~에 대해 괜찮다, 받아들일 수 있다",
+          "note": "Are you cool with 7 o’clock?처럼 시간이나 계획을 제안할 때 쓸 수 있어요."
+        },
+        {
+          "english": "a better bet",
+          "korean": "더 나은 선택, 더 무난한 방법",
+          "note": "확실히 성공한다는 뜻보다는 지금 상황에서 더 괜찮은 선택이라는 뉘앙스예요."
+        },
+        {
+          "english": "a meeting runs until…",
+          "korean": "회의가 ~까지 이어지다",
+          "note": "I have a meeting that runs until 7.처럼 끝나는 시간을 설명해요."
+        },
+        {
+          "english": "get in touch with someone",
+          "korean": "누군가에게 연락하다",
+          "note": "I’ll get in touch with you.처럼 앞으로 연락하겠다고 말할 수 있어요."
+        },
+        {
+          "english": "catch someone later",
+          "korean": "누군가를 나중에 보다",
+          "note": "Catch you later!는 헤어질 때 쓰는 편한 인사로도 사용해요."
+        }
+      ],
+      "cases": [
+        {
+          "id": "friday-dinner",
+          "title": "금요일 저녁 약속 조율",
+          "context": "친구가 제안한 시간보다 조금 늦게 만나고 싶습니다.",
+          "partnerRole": "저녁 약속을 잡는 친구",
+          "turns": [
+            {
+              "partner": {
+                "english": "Are you cool with 7 o'clock on Friday?",
+                "korean": "금요일 7시 괜찮아?"
+              },
+              "mission": "회의가 7시까지라 7시 반이 더 나을 것 같다고 제안하세요.",
+              "hints": [
+                "a better bet",
+                "a meeting that runs until…"
+              ],
+              "responses": [
+                {
+                  "english": "To be safe, 7:30 would be a better bet for me. I have a meeting that runs until 7.",
+                  "korean": "여유 있게 7시 반이 더 나을 것 같아. 회의가 7시까지 있어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "That works. Can you confirm on Friday?",
+                "korean": "좋아. 금요일에 다시 확인해 줄래?"
+              },
+              "mission": "금요일에 연락해서 확인하겠다고 말하세요.",
+              "hints": [
+                "get in touch with you",
+                "to confirm"
+              ],
+              "responses": [
+                {
+                  "english": "I'll get in touch with you on Friday to confirm.",
+                  "korean": "금요일에 연락해서 확인할게."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Great, I'm looking forward to it!",
+                "korean": "좋아, 기대된다!"
+              },
+              "mission": "좋다고 답하고 나중에 보자고 인사하세요.",
+              "hints": [
+                "Sounds good.",
+                "Catch you later."
+              ],
+              "responses": [
+                {
+                  "english": "Sounds good. Catch you later!",
+                  "korean": "좋아. 나중에 봐!"
+                }
+              ]
+            }
+          ],
+          "review": [
+            "더 나은 시간을 정중하게 제안하기",
+            "회의 종료 시간과 연락 계획 말하기"
+          ]
+        },
+        {
+          "id": "coffee-after-meeting",
+          "title": "회의 뒤 커피 약속",
+          "context": "퇴근 전 회의 때문에 커피 약속 시간을 조정합니다.",
+          "partnerRole": "커피를 제안하는 동료",
+          "turns": [
+            {
+              "partner": {
+                "english": "Do you want to grab coffee at 5?",
+                "korean": "5시에 커피 마실래?"
+              },
+              "mission": "회의가 5시 반까지 있다고 설명하세요.",
+              "hints": [
+                "a meeting that runs until…"
+              ],
+              "responses": [
+                {
+                  "english": "I'd love to, but I have a meeting that runs until 5:30.",
+                  "korean": "그러고 싶지만 회의가 5시 반까지 있어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Would 6 be a better bet?",
+                "korean": "6시가 더 나을까?"
+              },
+              "mission": "6시 괜찮다고 하고 끝나면 연락하겠다고 말하세요.",
+              "hints": [
+                "I'm cool with…",
+                "get in touch"
+              ],
+              "responses": [
+                {
+                  "english": "I'm cool with 6. I'll get in touch when the meeting finishes.",
+                  "korean": "6시 괜찮아. 회의가 끝나면 연락할게."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Perfect. I'll see you then.",
+                "korean": "좋아. 그때 보자."
+              },
+              "mission": "만남을 확인하고 편하게 인사하세요.",
+              "hints": [
+                "See you then.",
+                "Catch you later."
+              ],
+              "responses": [
+                {
+                  "english": "See you then. Catch you later!",
+                  "korean": "그때 보자. 나중에 봐!"
+                }
+              ]
+            }
+          ],
+          "review": [
+            "불가능한 시간의 이유 설명하기",
+            "be cool with로 동의 표현하기"
+          ]
+        },
+        {
+          "id": "meet-after-session",
+          "title": "세션 후 만나기",
+          "context": "명상 세션이 끝난 뒤 친구와 만날 시간을 정합니다.",
+          "partnerRole": "세션 후 만나려는 참가자",
+          "turns": [
+            {
+              "partner": {
+                "english": "Are you cool with meeting right after the session?",
+                "korean": "세션 끝나자마자 만나는 거 괜찮아?"
+              },
+              "mission": "잠깐 쉴 수 있도록 30분 뒤가 더 좋겠다고 말하세요.",
+              "hints": [
+                "a better bet",
+                "a little time to rest"
+              ],
+              "responses": [
+                {
+                  "english": "Meeting half an hour later would be a better bet. I'd like a little time to rest.",
+                  "korean": "30분 뒤에 만나는 게 더 좋겠어. 조금 쉬고 싶어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Sure. Shall I get in touch afterward?",
+                "korean": "좋아. 끝나고 내가 연락할까?"
+              },
+              "mission": "좋다고 답하고 준비되면 연락해 달라고 하세요.",
+              "hints": [
+                "I'm cool with that.",
+                "when you’re ready"
+              ],
+              "responses": [
+                {
+                  "english": "I'm cool with that. Get in touch when you're ready.",
+                  "korean": "그거 좋아. 준비되면 연락해 줘."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Sounds good. Enjoy the session!",
+                "korean": "좋아. 세션 잘해!"
+              },
+              "mission": "상대도 잘 보내라고 하고 나중에 보자고 말하세요.",
+              "hints": [
+                "You too.",
+                "Catch you later."
+              ],
+              "responses": [
+                {
+                  "english": "You too! Catch you later.",
+                  "korean": "너도! 나중에 보자."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "내 휴식 시간도 포함해 약속 정하기",
+            "친근한 동의와 인사 표현 쓰기"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "running-late",
+      "title": "늦을 때와 도착 연락",
+      "englishTitle": "Running late & arriving",
+      "description": "지각을 미리 알리고, 대기 상황과 만날 사람의 옷차림을 확인하며 연락을 이어가요.",
+      "pattern": "My bad. / I'll hit you up when I get there. / FYI…",
+      "tip": "My bad와 hit you up은 편한 사이에서 써요. 더 정중하게는 I’m sorry와 I’ll get in touch를 사용할 수 있어요.",
+      "source": {
+        "document": "사용자 제공 스캔 PDF",
+        "unit": "Day 11",
+        "title": "도착하면 전화드릴게요",
+        "pdfPage": 4
+      },
+      "expressions": [
+        {
+          "english": "My bad.",
+          "korean": "내 잘못이야. 미안해.",
+          "note": "가벼운 실수를 인정하는 편한 표현이에요. 공식적인 사과가 필요할 때는 I’m sorry를 써요."
+        },
+        {
+          "english": "a nightmare",
+          "korean": "아주 힘들고 끔찍한 상황",
+          "note": "Traffic is a nightmare.처럼 몹시 불편한 상황을 비유할 때도 써요."
+        },
+        {
+          "english": "ahead of someone",
+          "korean": "누군가보다 앞에 있는",
+          "note": "줄에서 앞에 있거나 학습·준비 등의 진행이 앞선 경우에 사용할 수 있어요. parties는 대기 중인 일행들을 뜻할 수 있어요."
+        },
+        {
+          "english": "hit someone up",
+          "korean": "누군가에게 연락하다",
+          "note": "I’ll hit you up when I get there.처럼 친근한 사이에서 연락하겠다고 말해요."
+        },
+        {
+          "english": "FYI (for your information)",
+          "korean": "참고로, 알려주자면",
+          "note": "F-Y-I라고 알파벳으로 읽어요. 추가 정보나 바뀐 내용을 전달할 때 써요."
+        }
+      ],
+      "cases": [
+        {
+          "id": "traffic-delay",
+          "title": "차가 막혀 10분 늦을 때",
+          "context": "친구가 식당에서 기다리고 있어 도착 시간을 알려야 합니다.",
+          "partnerRole": "식당에서 기다리는 친구",
+          "turns": [
+            {
+              "partner": {
+                "english": "Hey, are you on your way?",
+                "korean": "지금 오는 중이야?"
+              },
+              "mission": "차가 너무 막혀 10분쯤 늦는다고 사과하세요.",
+              "hints": [
+                "My bad.",
+                "Traffic is a nightmare.",
+                "10 minutes late"
+              ],
+              "responses": [
+                {
+                  "english": "Sorry, my bad. Traffic is a nightmare, so I might be about 10 minutes late.",
+                  "korean": "미안, 내 잘못이야. 차가 너무 막혀서 10분 정도 늦을 것 같아."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "No worries. There are three parties ahead of us in the queue.",
+                "korean": "괜찮아. 대기 줄에 우리 앞에 세 팀이 있어."
+              },
+              "mission": "도착하면 연락하겠다고 말하세요.",
+              "hints": [
+                "I'll hit you up…",
+                "when I get there"
+              ],
+              "responses": [
+                {
+                  "english": "Okay, I'll hit you up when I get there.",
+                  "korean": "알겠어. 도착하면 연락할게."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "Sure. FYI, I'm wearing a beige sweater.",
+                "korean": "좋아. 참고로 나 베이지색 스웨터 입었어."
+              },
+              "mission": "고맙다고 하고 베이지색 스웨터를 찾아보겠다고 말하세요.",
+              "hints": [
+                "Thanks.",
+                "look for…"
+              ],
+              "responses": [
+                {
+                  "english": "Thanks. I'll look for the beige sweater.",
+                  "korean": "고마워. 베이지색 스웨터를 찾아볼게."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "지각 사유와 예상 도착 시간 알리기",
+            "hit you up으로 도착 연락 약속하기"
+          ]
+        },
+        {
+          "id": "wrong-meeting-time",
+          "title": "바뀐 약속 시간을 놓쳤을 때",
+          "context": "약속 시간이 바뀐 것을 놓쳐 친구에게 연락이 왔습니다.",
+          "partnerRole": "먼저 도착한 친구",
+          "turns": [
+            {
+              "partner": {
+                "english": "We said 6:30 today. Did you miss the message?",
+                "korean": "오늘은 6시 반이라고 했잖아. 메시지 못 봤어?"
+              },
+              "mission": "바뀐 시간을 몰랐다며 잘못을 인정하세요.",
+              "hints": [
+                "My bad.",
+                "I didn’t realize…"
+              ],
+              "responses": [
+                {
+                  "english": "My bad. I didn't realize the time had changed.",
+                  "korean": "내 잘못이야. 시간이 바뀐 걸 몰랐어."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "It’s okay. The queue is long, so we can wait a little.",
+                "korean": "괜찮아. 줄이 길어서 조금 기다려도 돼."
+              },
+              "mission": "고맙다고 하고 도착하면 연락하겠다고 말하세요.",
+              "hints": [
+                "I'll hit you up…"
+              ],
+              "responses": [
+                {
+                  "english": "Thanks for waiting. I'll hit you up when I arrive.",
+                  "korean": "기다려줘서 고마워. 도착하면 연락할게."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "FYI, we're waiting by the side entrance.",
+                "korean": "참고로 우리는 옆쪽 입구에서 기다리고 있어."
+              },
+              "mission": "옆쪽 입구로 바로 가겠다고 말하세요.",
+              "hints": [
+                "Got it.",
+                "head straight to…"
+              ],
+              "responses": [
+                {
+                  "english": "Got it. I'll head straight to the side entrance.",
+                  "korean": "알겠어. 바로 옆쪽 입구로 갈게."
+                }
+              ]
+            }
+          ],
+          "review": [
+            "가벼운 실수 인정하기",
+            "FYI 뒤의 추가 정보 이해하고 확인하기"
+          ]
+        },
+        {
+          "id": "find-your-friend",
+          "title": "도착해서 친구 찾기",
+          "context": "사람이 많은 장소에 도착해 친구와 서로의 위치를 확인합니다.",
+          "partnerRole": "대기 중인 친구",
+          "turns": [
+            {
+              "partner": {
+                "english": "FYI, I'm near the entrance in a beige sweater.",
+                "korean": "참고로 나 입구 근처에 있어. 베이지색 스웨터 입었어."
+              },
+              "mission": "방금 도착했으며 찾으면 연락하겠다고 말하세요.",
+              "hints": [
+                "I've just arrived.",
+                "I'll hit you up…"
+              ],
+              "responses": [
+                {
+                  "english": "I've just arrived. I'll hit you up when I find you.",
+                  "korean": "나 방금 도착했어. 널 찾으면 연락할게."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "There are still a few groups ahead of us.",
+                "korean": "아직 우리 앞에 몇 팀이 있어."
+              },
+              "mission": "주차하기가 정말 힘들었다고 말하고 기다려줘서 고맙다고 하세요.",
+              "hints": [
+                "a nightmare",
+                "Thanks for waiting."
+              ],
+              "responses": [
+                {
+                  "english": "Finding a parking spot was a nightmare. Thanks for waiting.",
+                  "korean": "주차할 곳을 찾기가 정말 힘들었어. 기다려줘서 고마워."
+                }
+              ]
+            },
+            {
+              "partner": {
+                "english": "I can see you now! Are you wearing a blue shirt?",
+                "korean": "이제 네가 보여! 파란 셔츠 입었지?"
+              },
+              "mission": "맞다고 답하고 곧 가겠다고 말하세요.",
+              "hints": [
+                "That’s me.",
+                "be right there"
+              ],
+              "responses": [
+                {
+                  "english": "Yes, that's me. I'll be right there!",
+                  "korean": "응, 나야. 금방 갈게!"
+                }
+              ]
+            }
+          ],
+          "review": [
+            "옷차림과 위치로 서로 찾기",
+            "대기 순서와 도착 상황 주고받기"
+          ]
+        }
+      ]
+    }
+  ],
+  "essentials": [
+    {
+      "id": "phrase-01",
+      "english": "How are you feeling today?",
+      "korean": "오늘 기분 어때?"
+    },
+    {
+      "id": "phrase-02",
+      "english": "I'm here to learn more about myself.",
+      "korean": "나 자신을 더 알아가려고 왔어."
+    },
+    {
+      "id": "phrase-03",
+      "english": "How was the meditation for you?",
+      "korean": "명상 어땠어?"
+    },
+    {
+      "id": "phrase-04",
+      "english": "A lot of emotions came up.",
+      "korean": "많은 감정이 올라왔어."
+    },
+    {
+      "id": "phrase-05",
+      "english": "I felt lighter afterward.",
+      "korean": "끝나고 나니 홀가분했어."
+    },
+    {
+      "id": "phrase-06",
+      "english": "I don't know how to explain it.",
+      "korean": "어떻게 설명해야 할지 모르겠어."
+    },
+    {
+      "id": "phrase-07",
+      "english": "Thanks for sharing.",
+      "korean": "이야기해 줘서 고마워."
+    },
+    {
+      "id": "phrase-08",
+      "english": "I'd like some time to myself.",
+      "korean": "혼자만의 시간을 좀 갖고 싶어."
+    },
+    {
+      "id": "phrase-09",
+      "english": "I'd rather dance on my own.",
+      "korean": "혼자 춤추고 싶어."
+    },
+    {
+      "id": "phrase-10",
+      "english": "Thanks for understanding.",
+      "korean": "이해해 줘서 고마워."
+    }
+  ],
+  "speakingTips": [
+    {
+      "title": "지금과 그때를 구분해요",
+      "text": "지금의 감정은 I feel calm. 명상 중의 감정은 I felt calm during meditation.으로 말해요."
+    },
+    {
+      "title": "감정은 부드럽고 솔직하게",
+      "text": "a little / a bit을 더해 I’m a bit nervous.처럼 가볍게 시작해보세요."
+    },
+    {
+      "title": "내가 원하는 것을 전해요",
+      "text": "I’d like to + 동사원형은 바람을 정중하게, I’d rather + 동사원형은 선호하는 선택을 전해요."
+    }
+  ]
+}

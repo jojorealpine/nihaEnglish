@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="명상 센터와 일상에서 쓸 영어 표현과 역할 연습. 인사, 감정, 거절, 신뢰, 약속과 도착 연락을 연습하세요.">
+  <title>Role Playing — Niha English</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/site.css">
+  <link rel="stylesheet" href="css/roleplay.css">
+</head>
+<body class="role-page translations-hidden">
+  <nav class="site-nav wrap" aria-label="메인 메뉴">
+    <a class="site-brand" href="./">Niha English<span>명상과 일상 사이의 영어</span></a>
+    <div class="site-links">
+      <a href="roleplay.html" aria-current="page">Role Playing</a>
+      <a href="letters.html">Osho’s Letters</a>
+      <a href="emotions.html">Emotion Cards</a>
+    </div>
+  </nav>
+
+  <header class="role-header">
+    <div class="wrap">
+      <div class="eyebrow">Speak & connect · Everyday conversations</div>
+      <h1 class="hero-title">Role Playing</h1>
+      <p class="role-tagline">Meditation, in conversation.</p>
+      <p class="subtitle">명상 센터와 일상에서 내 마음을 전하는 영어.<br>핵심 표현을 익힌 뒤 실제 대화처럼 내 차례에 답해보세요.</p>
+      <p class="role-overview" id="role-overview">연습 자료를 불러오는 중…</p>
+    </div>
+  </header>
+
+  <main class="wrap role-main" id="role-main" aria-busy="true">
+    <div id="role-load-error" role="alert" hidden>
+      <h2>연습 자료를 불러올 수 없어요</h2>
+      <p>잠시 후 새로고침해 주세요. 로컬에서는 HTTP 서버로 실행해 주세요.</p>
+    </div>
+    <div id="role-content" hidden>
+      <section class="scenario-picker" aria-labelledby="scenario-picker-title">
+        <div class="eyebrow">Choose a situation</div>
+        <h2 id="scenario-picker-title">어떤 상황을 연습할까요?</h2>
+        <div class="scenario-grid" id="scenario-list"></div>
+      </section>
+
+      <section class="scenario-heading" aria-labelledby="scenario-title">
+        <div class="eyebrow" id="scenario-english"></div>
+        <h2 id="scenario-title"></h2>
+        <p id="scenario-description"></p>
+        <a class="jump-link" href="#practice-workshop">바로 역할 연습하기 ↓</a>
+      </section>
+
+      <div class="role-layout">
+        <section class="phrase-library" aria-label="상황별 핵심 표현">
+          <details open>
+            <summary id="phrase-library-title">핵심 표현</summary>
+            <p class="pattern-note" id="scenario-pattern"></p>
+            <div class="role-phrase-list" id="role-phrases"></div>
+          </details>
+          <p class="scenario-tip" id="scenario-tip"></p>
+        </section>
+
+        <section class="practice-workshop" id="practice-workshop" aria-labelledby="workshop-title">
+          <div class="eyebrow">Your turn to speak</div>
+          <h2 id="workshop-title">Role Playing</h2>
+          <p class="hint">상대의 말을 듣고 영어로 소리 내어 답해보세요. 답을 적어도 좋아요.</p>
+          <div class="case-list" id="case-list" aria-label="연습 케이스 선택"></div>
+          <div class="practice-settings">
+            <label><input type="checkbox" id="show-translations"> 대화 해석 보기</label>
+            <label for="role-rate">듣기 속도</label>
+            <select id="role-rate"><option value="0.75">0.75×</option><option value="0.9">0.9×</option><option value="1" selected>1.0×</option><option value="1.15">1.15×</option></select>
+            <button type="button" class="secondary small-button" id="role-stop">■ 정지</button>
+          </div>
+          <p class="role-status" id="role-status" role="status"></p>
+          <div id="case-context"></div>
+          <div id="practice-stage"></div>
+          <div id="practice-script"></div>
+        </section>
+      </div>
+
+      <section class="essentials-section" aria-labelledby="essentials-title">
+        <div class="eyebrow">A little, every day</div>
+        <div class="section-title-row"><h2 id="essentials-title">꼭 익혀갈 핵심 표현 10개</h2><span id="memory-progress"></span></div>
+        <p class="hint" id="memory-hint">자연스럽게 말할 수 있는 표현에 체크해보세요. 기록은 이 브라우저에 저장돼요.</p>
+        <div class="essential-grid" id="essential-list"></div>
+      </section>
+      <section class="speaking-tips" aria-labelledby="speaking-tips-title">
+        <h2 id="speaking-tips-title">조금 더 자연스럽게 말하려면</h2>
+        <div class="speaking-tip-grid" id="speaking-tips"></div>
+      </section>
+      <div class="progress-footer"><span id="completed-progress"></span><button type="button" class="secondary small-button" id="reset-progress">학습 기록 초기화</button></div>
+    </div>
+  </main>
+  <footer class="wrap foot">Niha English · 소리 내어 연습하는 대화 학습입니다. 듣기는 기기의 브라우저 음성을 사용합니다.</footer>
+  <noscript><p class="wrap">역할 연습을 하려면 브라우저에서 JavaScript를 허용해 주세요.</p></noscript>
+  <script src="js/roleplay.js" type="module"></script>
+</body>
+</html>

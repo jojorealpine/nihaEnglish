@@ -1,0 +1,1093 @@
+{
+  "defaultCategory": "calm",
+  "categories": [
+    {
+      "id": "calm",
+      "label": "편안함·안정",
+      "description": "고요하고 편안하거나 마음의 중심이 잡힌 느낌"
+    },
+    {
+      "id": "bright",
+      "label": "기쁨·활력",
+      "description": "즐겁고 감사하거나 새로운 기대가 생기는 느낌"
+    },
+    {
+      "id": "uneasy",
+      "label": "불안·부담",
+      "description": "걱정이나 긴장으로 마음이 편하지 않은 느낌"
+    },
+    {
+      "id": "low",
+      "label": "슬픔·지침",
+      "description": "마음이 가라앉거나 에너지가 줄어든 느낌"
+    },
+    {
+      "id": "mixed",
+      "label": "화·혼란",
+      "description": "답답하고 화가 나거나 마음을 정하기 어려운 느낌"
+    }
+  ],
+  "patterns": [
+    {
+      "id": "feel",
+      "expression": "I feel…",
+      "title": "지금 느끼는 감정",
+      "meaning": "~한 감정이 들어",
+      "usage": "현재 감정",
+      "group": "feeling",
+      "formula": "I feel + 형용사 / 명사구",
+      "explanation": "지금의 감정을 형용사로 바로 말해요. I’m feeling + 형용사로도 표현할 수 있어요. 명사구를 붙이면 I feel a sense of peace.처럼 말해요.",
+      "examples": [
+        {
+          "english": "I feel peaceful right now.",
+          "korean": "지금 마음이 평온해."
+        },
+        {
+          "english": "I feel a little nervous, but also excited.",
+          "korean": "조금 긴장되지만 설레기도 해."
+        }
+      ],
+      "starter": false
+    },
+    {
+      "id": "felt",
+      "expression": "I felt…",
+      "title": "명상 중 느꼈던 감정",
+      "meaning": "~한 감정을 느꼈어",
+      "usage": "과거의 감정",
+      "group": "feeling",
+      "formula": "I felt + 형용사 / 명사구",
+      "explanation": "feel의 과거형이에요. 명상 중 느낀 감정에는 during meditation, 명상 후의 느낌에는 after meditation을 붙여보세요.",
+      "examples": [
+        {
+          "english": "I felt a lot of sadness during meditation.",
+          "korean": "명상 중에 슬픔을 많이 느꼈어."
+        },
+        {
+          "english": "I felt calm after meditation.",
+          "korean": "명상 후 마음이 차분했어."
+        }
+      ],
+      "starter": true
+    },
+    {
+      "id": "noticed",
+      "expression": "I noticed…",
+      "title": "내가 알아차린 변화",
+      "meaning": "~을 알아차렸어",
+      "usage": "몸이나 마음의 변화 관찰",
+      "group": "noticing",
+      "formula": "I noticed + 명사 / (that) + 주어 + 동사",
+      "explanation": "관찰한 감각이나 변화를 말해요. 명사를 붙이거나 that 뒤에 주어와 동사가 있는 문장을 이어요. that은 생략할 수 있어요.",
+      "examples": [
+        {
+          "english": "I noticed some tension in my shoulders.",
+          "korean": "어깨에 긴장이 있다는 걸 알아차렸어."
+        },
+        {
+          "english": "I noticed that my breathing became slower.",
+          "korean": "호흡이 느려지는 걸 알아차렸어."
+        }
+      ],
+      "starter": true
+    },
+    {
+      "id": "realized",
+      "expression": "I realized…",
+      "title": "새롭게 깨달은 사실",
+      "meaning": "~라는 걸 깨달았어",
+      "usage": "새로운 깨달음",
+      "group": "realization",
+      "formula": "I realized (that) + 주어 + 동사",
+      "explanation": "관찰을 통해 새롭게 이해한 사실을 말해요. I noticed는 무엇을 관찰했는지, I realized는 그 경험으로 무엇을 이해했는지에 초점을 둬요.",
+      "examples": [
+        {
+          "english": "I realized that I've been pushing myself too hard.",
+          "korean": "내가 스스로를 너무 몰아붙이고 있었다는 걸 깨달았어."
+        },
+        {
+          "english": "I realized that I was afraid of being alone.",
+          "korean": "내가 혼자 있는 걸 두려워했다는 걸 깨달았어."
+        }
+      ],
+      "starter": true
+    },
+    {
+      "id": "experienced",
+      "expression": "I experienced…",
+      "title": "명상 중 경험한 것",
+      "meaning": "~을 경험했어",
+      "usage": "명상 중 경험",
+      "group": "experience",
+      "formula": "I experienced + 명사 / 명사구",
+      "explanation": "experience 뒤에는 경험한 대상을 명사로 붙여요. I experienced peaceful. 대신 I experienced a deep sense of peace.처럼 말해요.",
+      "examples": [
+        {
+          "english": "I experienced a deep sense of peace.",
+          "korean": "깊은 평온함을 경험했어."
+        },
+        {
+          "english": "I experienced a moment of complete stillness.",
+          "korean": "완전한 고요의 순간을 경험했어."
+        }
+      ],
+      "starter": false
+    },
+    {
+      "id": "sensed",
+      "expression": "I sensed…",
+      "title": "미묘하게 감지한 느낌",
+      "meaning": "~을 감지했어",
+      "usage": "미묘한 감각이나 분위기",
+      "group": "noticing",
+      "formula": "I sensed + 명사 / (that) + 주어 + 동사",
+      "explanation": "뚜렷하게 설명하기 어려운 느낌이나 분위기를 감지했을 때 써요. 명사구나 that절을 붙일 수 있어요.",
+      "examples": [
+        {
+          "english": "I sensed a deep calm inside me.",
+          "korean": "내면에서 깊은 고요함을 느꼈어."
+        },
+        {
+          "english": "I sensed that something was different.",
+          "korean": "무언가 달라졌다는 느낌이 들었어."
+        }
+      ],
+      "starter": false
+    },
+    {
+      "id": "aware",
+      "expression": "I became aware of…",
+      "title": "새롭게 자각한 것",
+      "meaning": "~을 자각하게 됐어",
+      "usage": "이전에 몰랐던 것을 인식",
+      "group": "noticing",
+      "formula": "I became aware of + 명사 / -ing / 의문사절",
+      "explanation": "of는 전치사예요. 뒤에 명사나 동명사를 붙여요. how much tension I was holding처럼 의문사로 시작하는 절도 올 수 있어요.",
+      "examples": [
+        {
+          "english": "I became aware of my thoughts.",
+          "korean": "내 생각들을 자각하게 됐어."
+        },
+        {
+          "english": "I became aware of how much tension I was holding.",
+          "korean": "내가 얼마나 많은 긴장을 안고 있었는지 깨닫게 됐어."
+        }
+      ],
+      "starter": false
+    },
+    {
+      "id": "found",
+      "expression": "I found myself -ing…",
+      "title": "나도 모르게 하고 있던 행동",
+      "meaning": "나도 모르게 ~하고 있었어",
+      "usage": "자연스럽게 일어난 행동이나 반응",
+      "group": "experience",
+      "formula": "I found myself + 동사-ing",
+      "explanation": "의도하지 않았는데 어느 순간 하고 있던 행동을 표현해요. myself 뒤에는 여기서 to cry가 아닌 crying처럼 -ing를 사용해요. 액티브 명상 후 감정을 공유할 때도 유용해요.",
+      "examples": [
+        {
+          "english": "I found myself crying during meditation.",
+          "korean": "명상하다 보니 나도 모르게 울고 있었어."
+        },
+        {
+          "english": "I found myself smiling for no reason.",
+          "korean": "이유 없이 미소 짓고 있는 나 자신을 발견했어."
+        }
+      ],
+      "starter": true
+    },
+    {
+      "id": "felt-like",
+      "expression": "I felt like…",
+      "title": "하고 싶었거나 그렇게 느껴졌던 것",
+      "meaning": "~하고 싶었어 / ~인 것 같았어",
+      "usage": "충동이나 주관적인 느낌",
+      "group": "feeling",
+      "formula": "I felt like + -ing / 명사 / 주어 + 동사",
+      "explanation": "like 뒤에 -ing를 붙이면 하고 싶은 마음을, 주어와 동사가 있는 문장을 붙이면 그렇게 느껴졌다는 인상을 말할 수 있어요. I felt sad.와 I felt like crying.의 연결 방식을 구분해보세요.",
+      "examples": [
+        {
+          "english": "I felt like crying.",
+          "korean": "울고 싶었어."
+        },
+        {
+          "english": "I felt like something was changing inside me.",
+          "korean": "내 안에서 무언가 변하고 있는 것 같았어."
+        }
+      ],
+      "starter": false
+    },
+    {
+      "id": "struggled",
+      "expression": "I struggled with…",
+      "title": "어려웠던 점",
+      "meaning": "~하는 게 힘들었어",
+      "usage": "어려움이나 내적 갈등",
+      "group": "release",
+      "formula": "I struggled with + 명사 / -ing",
+      "explanation": "with 뒤에 명사나 동명사를 붙여요. 집중이 잘되지 않았던 경험처럼 어려웠던 점을 솔직하게 전할 때 쓸 수 있어요.",
+      "examples": [
+        {
+          "english": "I struggled with staying focused.",
+          "korean": "집중을 유지하는 게 힘들었어."
+        },
+        {
+          "english": "I struggled with letting go of my thoughts.",
+          "korean": "생각을 내려놓는 게 어려웠어."
+        }
+      ],
+      "starter": false
+    },
+    {
+      "id": "let-go",
+      "expression": "I let go of…",
+      "title": "내려놓은 감정과 집착",
+      "meaning": "~을 내려놓았어",
+      "usage": "감정이나 집착의 해소",
+      "group": "release",
+      "formula": "I let go of + 명사 / 명사구",
+      "explanation": "let의 과거형도 let이에요. 내려놓은 대상은 of 뒤에 붙여요. 아직 완전히 내려놓지 못했다면 I felt like I could let go of…로 그때의 느낌을 말할 수 있어요.",
+      "examples": [
+        {
+          "english": "I let go of some of my fears.",
+          "korean": "두려움을 조금 내려놓았어."
+        },
+        {
+          "english": "I felt like I could finally let go of my anger.",
+          "korean": "마침내 분노를 내려놓을 수 있을 것 같았어."
+        }
+      ],
+      "starter": true
+    },
+    {
+      "id": "understand",
+      "expression": "I came to understand…",
+      "title": "시간을 두고 이해하게 된 것",
+      "meaning": "~을 이해하게 됐어",
+      "usage": "시간이 지나며 생긴 이해",
+      "group": "realization",
+      "formula": "I came to understand + 명사 / 의문사절 / that절",
+      "explanation": "come to + 동사원형은 점차 어떤 상태에 이르게 됐다는 뜻이에요. myself처럼 명사를 붙이거나 why I was feeling anxious처럼 이해하게 된 내용을 이어요.",
+      "examples": [
+        {
+          "english": "I came to understand myself better.",
+          "korean": "나 자신을 더 잘 이해하게 됐어."
+        },
+        {
+          "english": "I came to understand why I was feeling anxious.",
+          "korean": "내가 왜 불안했는지 이해하게 됐어."
+        }
+      ],
+      "starter": false
+    }
+  ],
+  "emotions": [
+    {
+      "id": "calm",
+      "word": "calm",
+      "meaning": "차분한",
+      "category": "calm",
+      "nuance": "마음이 가라앉고 안정된 느낌이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel calm.",
+          "korean": "마음이 차분해요."
+        },
+        "noticed": {
+          "english": "I noticed that my breathing had slowed down.",
+          "korean": "호흡이 느려졌다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I needed more quiet time.",
+          "korean": "조용한 시간이 더 필요하다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "calm"
+    },
+    {
+      "id": "peaceful",
+      "word": "peaceful",
+      "meaning": "평온한",
+      "category": "calm",
+      "nuance": "마음이 고요하고 평화로워요. 차분함에 평화로운 느낌을 더해요.",
+      "examples": {
+        "feel": {
+          "english": "I feel peaceful.",
+          "korean": "마음이 평온해요."
+        },
+        "noticed": {
+          "english": "I noticed that my thoughts weren't racing as much.",
+          "korean": "생각이 전만큼 빠르게 달리지 않는다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I could enjoy quiet moments.",
+          "korean": "고요한 순간을 즐길 수 있다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "calm"
+    },
+    {
+      "id": "relaxed",
+      "word": "relaxed",
+      "meaning": "긴장이 풀린, 편안한",
+      "category": "calm",
+      "nuance": "몸이나 마음의 긴장이 풀려 편안한 상태예요.",
+      "examples": {
+        "feel": {
+          "english": "I feel relaxed.",
+          "korean": "긴장이 풀리고 편안해요."
+        },
+        "noticed": {
+          "english": "I noticed that my shoulders felt less tense.",
+          "korean": "어깨의 긴장이 덜해졌다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I had been holding a lot of tension.",
+          "korean": "그동안 긴장을 많이 하고 있었다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "calm"
+    },
+    {
+      "id": "content",
+      "word": "content",
+      "meaning": "만족하는, 흡족한",
+      "category": "calm",
+      "nuance": "지금 가진 것과 현재 상태가 충분하다고 느끼는 잔잔한 만족이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel content.",
+          "korean": "지금 상태에 만족해요."
+        },
+        "noticed": {
+          "english": "I noticed that I was happy with what I had.",
+          "korean": "내가 가진 것에 만족하고 있다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I didn't need anything else in that moment.",
+          "korean": "그 순간에는 다른 것이 더 필요하지 않다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "calm"
+    },
+    {
+      "id": "grounded",
+      "word": "grounded",
+      "meaning": "마음의 중심이 잡힌",
+      "category": "calm",
+      "nuance": "현실과 현재에 발을 딛고 안정감을 느끼는 상태를 말해요.",
+      "examples": {
+        "feel": {
+          "english": "I feel grounded.",
+          "korean": "마음의 중심이 잡힌 느낌이에요."
+        },
+        "noticed": {
+          "english": "I noticed the feeling of my feet on the ground.",
+          "korean": "발이 땅에 닿는 느낌을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that paying attention to my breath helped me stay present.",
+          "korean": "호흡에 주의를 기울이는 것이 현재에 머무는 데 도움이 됐다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "calm"
+    },
+    {
+      "id": "relieved",
+      "word": "relieved",
+      "meaning": "안도하는, 마음이 놓인",
+      "category": "calm",
+      "nuance": "걱정이나 부담이 줄어들어 한숨 놓이는 느낌이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel relieved.",
+          "korean": "마음이 놓여요."
+        },
+        "noticed": {
+          "english": "I noticed that I could breathe more easily after our conversation.",
+          "korean": "대화를 나눈 뒤 한결 편하게 숨 쉴 수 있다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I had been worrying about it all morning.",
+          "korean": "오전 내내 그 일을 걱정하고 있었다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "lighter"
+    },
+    {
+      "id": "happy",
+      "word": "happy",
+      "meaning": "행복한, 기쁜",
+      "category": "bright",
+      "nuance": "일상에서 폭넓게 쓰는 행복하고 기쁜 감정이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel happy.",
+          "korean": "행복해요."
+        },
+        "noticed": {
+          "english": "I noticed that I was smiling more today.",
+          "korean": "오늘 더 자주 미소 짓고 있다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that small things could make me happy.",
+          "korean": "작은 것들도 나를 행복하게 할 수 있다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "lighter"
+    },
+    {
+      "id": "joyful",
+      "word": "joyful",
+      "meaning": "기쁨이 가득한",
+      "category": "bright",
+      "nuance": "기쁨이 마음을 채우는 생생하고 풍성한 느낌이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel joyful.",
+          "korean": "기쁨이 가득해요."
+        },
+        "noticed": {
+          "english": "I noticed that I wanted to sing along.",
+          "korean": "함께 노래하고 싶어 한다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I enjoyed being with these people.",
+          "korean": "이 사람들과 함께하는 시간이 즐겁다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "lighter"
+    },
+    {
+      "id": "grateful",
+      "word": "grateful",
+      "meaning": "감사한",
+      "category": "bright",
+      "nuance": "받은 도움이나 지금의 경험에 고마움을 느끼는 마음이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel grateful.",
+          "korean": "감사한 마음이 들어요."
+        },
+        "noticed": {
+          "english": "I noticed how much support I had.",
+          "korean": "얼마나 많은 도움을 받고 있는지 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I didn't have to do everything alone.",
+          "korean": "모든 것을 혼자 해내지 않아도 된다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "lighter"
+    },
+    {
+      "id": "excited",
+      "word": "excited",
+      "meaning": "신나는, 들뜬",
+      "category": "bright",
+      "nuance": "기대와 설렘 때문에 에너지가 높아진 느낌이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel excited.",
+          "korean": "신나고 설레요."
+        },
+        "noticed": {
+          "english": "I noticed that I couldn't stop smiling.",
+          "korean": "미소를 멈출 수 없다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I was eager to try something new.",
+          "korean": "새로운 것을 시도하고 싶어 한다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "lighter"
+    },
+    {
+      "id": "hopeful",
+      "word": "hopeful",
+      "meaning": "희망을 느끼는",
+      "category": "bright",
+      "nuance": "앞으로 좋은 가능성이 있다고 느끼는 마음이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel hopeful.",
+          "korean": "희망이 느껴져요."
+        },
+        "noticed": {
+          "english": "I noticed that I was thinking about new possibilities.",
+          "korean": "새로운 가능성들을 생각하고 있다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I could take one small step forward.",
+          "korean": "작은 한 걸음을 내디딜 수 있다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "lighter"
+    },
+    {
+      "id": "inspired",
+      "word": "inspired",
+      "meaning": "영감을 받은",
+      "category": "bright",
+      "nuance": "새로운 생각이나 무언가 해보고 싶은 마음이 생긴 상태예요.",
+      "examples": {
+        "feel": {
+          "english": "I feel inspired.",
+          "korean": "영감을 받은 느낌이에요."
+        },
+        "noticed": {
+          "english": "I noticed new ideas coming to mind.",
+          "korean": "새로운 아이디어들이 떠오르는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I wanted to make more time for art.",
+          "korean": "예술을 위한 시간을 더 내고 싶다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "lighter"
+    },
+    {
+      "id": "anxious",
+      "word": "anxious",
+      "meaning": "불안한",
+      "category": "uneasy",
+      "nuance": "앞으로 일어날 일이 걱정되어 마음이 편하지 않은 느낌이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel anxious.",
+          "korean": "불안해요."
+        },
+        "noticed": {
+          "english": "I noticed that my heart was beating faster.",
+          "korean": "심장이 더 빨리 뛰고 있다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I was worried about what others thought of me.",
+          "korean": "다른 사람들이 나를 어떻게 생각할지 걱정하고 있었다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "anxious"
+    },
+    {
+      "id": "nervous",
+      "word": "nervous",
+      "meaning": "긴장한, 초조한",
+      "category": "uneasy",
+      "nuance": "처음 하는 일이나 중요한 일을 앞두고 떨리는 느낌이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel nervous.",
+          "korean": "긴장돼요."
+        },
+        "noticed": {
+          "english": "I noticed that my hands were shaking a little.",
+          "korean": "손이 조금 떨리고 있다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that this was a new situation for me.",
+          "korean": "이것이 나에게 낯선 상황이라는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "anxious"
+    },
+    {
+      "id": "worried",
+      "word": "worried",
+      "meaning": "걱정되는",
+      "category": "uneasy",
+      "nuance": "특정한 일이나 사람 때문에 마음이 쓰이는 상태예요.",
+      "examples": {
+        "feel": {
+          "english": "I feel worried.",
+          "korean": "걱정돼요."
+        },
+        "noticed": {
+          "english": "I noticed that I kept checking my phone.",
+          "korean": "휴대전화를 계속 확인하고 있다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I was afraid of missing important news.",
+          "korean": "중요한 소식을 놓칠까 봐 걱정하고 있었다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "anxious"
+    },
+    {
+      "id": "stressed",
+      "word": "stressed",
+      "meaning": "스트레스를 받는",
+      "category": "uneasy",
+      "nuance": "해야 할 일이나 부담 때문에 압박을 느끼는 상태예요.",
+      "examples": {
+        "feel": {
+          "english": "I feel stressed.",
+          "korean": "스트레스를 받고 있어요."
+        },
+        "noticed": {
+          "english": "I noticed that I was clenching my jaw.",
+          "korean": "이를 꽉 물고 있다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I had taken on too much work.",
+          "korean": "너무 많은 일을 맡았다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "anxious"
+    },
+    {
+      "id": "overwhelmed",
+      "word": "overwhelmed",
+      "meaning": "감당하기 벅찬",
+      "category": "uneasy",
+      "nuance": "감정이나 할 일이 한꺼번에 몰려와 버거운 느낌이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel overwhelmed.",
+          "korean": "감당하기 벅차요."
+        },
+        "noticed": {
+          "english": "I noticed that I was having trouble focusing.",
+          "korean": "집중하기가 어렵다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I needed to handle one thing at a time.",
+          "korean": "한 번에 한 가지씩 해야겠다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "anxious"
+    },
+    {
+      "id": "uncertain",
+      "word": "uncertain",
+      "meaning": "확신이 없는",
+      "category": "uneasy",
+      "nuance": "어떻게 될지, 어떤 선택이 좋을지 확신하기 어려운 마음이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel uncertain.",
+          "korean": "확신이 서지 않아요."
+        },
+        "noticed": {
+          "english": "I noticed that I kept changing my mind.",
+          "korean": "마음이 계속 바뀌고 있다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I needed more information before deciding.",
+          "korean": "결정하기 전에 더 많은 정보가 필요하다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "mixed"
+    },
+    {
+      "id": "sad",
+      "word": "sad",
+      "meaning": "슬픈",
+      "category": "low",
+      "nuance": "마음이 가라앉고 슬픔을 느낄 때 폭넓게 쓰는 표현이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel sad.",
+          "korean": "슬퍼요."
+        },
+        "noticed": {
+          "english": "I noticed tears coming to my eyes.",
+          "korean": "눈에 눈물이 고이는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I missed my family.",
+          "korean": "가족이 그립다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "sad"
+    },
+    {
+      "id": "lonely",
+      "word": "lonely",
+      "meaning": "외로운",
+      "category": "low",
+      "nuance": "누군가와 연결되고 싶거나 혼자인 것처럼 느껴지는 마음이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel lonely.",
+          "korean": "외로워요."
+        },
+        "noticed": {
+          "english": "I noticed that I hadn't spoken to anyone all day.",
+          "korean": "하루 종일 누구와도 이야기하지 않았다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I wanted to connect with someone.",
+          "korean": "누군가와 연결되고 싶다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "sad"
+    },
+    {
+      "id": "disappointed",
+      "word": "disappointed",
+      "meaning": "실망한",
+      "category": "low",
+      "nuance": "기대했던 일과 실제 결과가 달라 아쉬운 마음이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel disappointed.",
+          "korean": "실망스러워요."
+        },
+        "noticed": {
+          "english": "I noticed that I went quiet after hearing the news.",
+          "korean": "그 소식을 들은 뒤 말수가 줄었다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I had been hoping for a different result.",
+          "korean": "다른 결과를 기대하고 있었다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "sad"
+    },
+    {
+      "id": "hurt",
+      "word": "hurt",
+      "meaning": "마음에 상처를 받은",
+      "category": "low",
+      "nuance": "말이나 행동 때문에 마음이 아플 때 써요. 이 카드에서는 감정적인 상처를 뜻해요.",
+      "examples": {
+        "feel": {
+          "english": "I feel hurt.",
+          "korean": "마음에 상처를 받았어요."
+        },
+        "noticed": {
+          "english": "I noticed that I kept thinking about what was said.",
+          "korean": "그때 들은 말을 계속 생각하고 있다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that those words mattered to me.",
+          "korean": "그 말들이 내게 중요했다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "sad"
+    },
+    {
+      "id": "tired",
+      "word": "tired",
+      "meaning": "피곤한",
+      "category": "low",
+      "nuance": "몸이나 마음이 피곤해서 쉬고 싶은 상태예요.",
+      "examples": {
+        "feel": {
+          "english": "I feel tired.",
+          "korean": "피곤해요."
+        },
+        "noticed": {
+          "english": "I noticed that I was yawning a lot.",
+          "korean": "하품을 많이 하고 있다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I hadn't slept well.",
+          "korean": "잠을 잘 자지 못했다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "mixed"
+    },
+    {
+      "id": "drained",
+      "word": "drained",
+      "meaning": "기운이 다 빠진",
+      "category": "low",
+      "nuance": "에너지를 많이 써서 지친 느낌으로, tired보다 더 소진된 상태를 표현할 수 있어요.",
+      "examples": {
+        "feel": {
+          "english": "I feel drained.",
+          "korean": "기운이 다 빠졌어요."
+        },
+        "noticed": {
+          "english": "I noticed that I had very little energy left.",
+          "korean": "남은 에너지가 거의 없다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I needed some time to recharge.",
+          "korean": "에너지를 충전할 시간이 필요하다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "mixed"
+    },
+    {
+      "id": "angry",
+      "word": "angry",
+      "meaning": "화가 난",
+      "category": "mixed",
+      "nuance": "어떤 일이나 말 때문에 화가 올라온 상태예요.",
+      "examples": {
+        "feel": {
+          "english": "I feel angry.",
+          "korean": "화가 나요."
+        },
+        "noticed": {
+          "english": "I noticed that my voice was getting louder.",
+          "korean": "목소리가 점점 커지고 있다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I needed a moment before responding.",
+          "korean": "대답하기 전에 잠시 시간이 필요하다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "mixed"
+    },
+    {
+      "id": "frustrated",
+      "word": "frustrated",
+      "meaning": "답답한, 좌절감을 느끼는",
+      "category": "mixed",
+      "nuance": "원하는 대로 되지 않거나 막혀서 답답한 마음이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel frustrated.",
+          "korean": "답답하고 좌절감이 들어요."
+        },
+        "noticed": {
+          "english": "I noticed that I was getting impatient.",
+          "korean": "점점 조급해지고 있다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I was trying to control something I couldn't change.",
+          "korean": "바꿀 수 없는 것을 통제하려 하고 있었다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "mixed"
+    },
+    {
+      "id": "irritated",
+      "word": "irritated",
+      "meaning": "짜증이 난",
+      "category": "mixed",
+      "nuance": "작은 자극이나 반복되는 일 때문에 짜증스러운 느낌이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel irritated.",
+          "korean": "짜증이 나요."
+        },
+        "noticed": {
+          "english": "I noticed that small noises were bothering me.",
+          "korean": "작은 소리들이 거슬린다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I needed a quieter place to work.",
+          "korean": "일하려면 더 조용한 장소가 필요하다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "mixed"
+    },
+    {
+      "id": "restless",
+      "word": "restless",
+      "meaning": "안절부절못하는",
+      "category": "mixed",
+      "nuance": "가만히 있기 어렵고 마음이나 몸이 들썩이는 상태예요.",
+      "examples": {
+        "feel": {
+          "english": "I feel restless.",
+          "korean": "안절부절못하겠어요."
+        },
+        "noticed": {
+          "english": "I noticed that I couldn't sit still.",
+          "korean": "가만히 앉아 있기 어렵다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I wanted to move my body.",
+          "korean": "몸을 움직이고 싶다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "mixed"
+    },
+    {
+      "id": "confused",
+      "word": "confused",
+      "meaning": "혼란스러운",
+      "category": "mixed",
+      "nuance": "상황이나 내 마음을 이해하고 정리하기 어려운 느낌이에요.",
+      "examples": {
+        "feel": {
+          "english": "I feel confused.",
+          "korean": "혼란스러워요."
+        },
+        "noticed": {
+          "english": "I noticed that I was rereading the same instructions.",
+          "korean": "같은 안내를 반복해서 읽고 있다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I didn't understand what was expected of me.",
+          "korean": "내게 무엇을 기대하는지 이해하지 못했다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "mixed"
+    },
+    {
+      "id": "conflicted",
+      "word": "conflicted",
+      "meaning": "마음이 갈등하는",
+      "category": "mixed",
+      "nuance": "서로 다른 바람이나 감정이 함께 있어 어느 쪽을 택할지 어려운 상태예요.",
+      "examples": {
+        "feel": {
+          "english": "I feel conflicted.",
+          "korean": "마음이 갈등하고 있어요."
+        },
+        "noticed": {
+          "english": "I noticed that I kept thinking about both options.",
+          "korean": "두 선택지를 계속 생각하고 있다는 것을 알아차렸어요."
+        },
+        "realized": {
+          "english": "I realized that I wanted two different things.",
+          "korean": "내가 서로 다른 두 가지를 원하고 있다는 것을 깨달았어요."
+        }
+      },
+      "roleplayCase": "mixed"
+    }
+  ],
+  "cardPatternIds": [
+    "feel",
+    "noticed",
+    "realized"
+  ],
+  "patternGroups": [
+    {
+      "id": "feeling",
+      "title": "감정을 느낄 때",
+      "englishTitle": "Feeling"
+    },
+    {
+      "id": "noticing",
+      "title": "몸과 마음을 관찰할 때",
+      "englishTitle": "Noticing"
+    },
+    {
+      "id": "realization",
+      "title": "새로운 사실을 깨달았을 때",
+      "englishTitle": "Realization"
+    },
+    {
+      "id": "experience",
+      "title": "자연스럽게 일어난 경험",
+      "englishTitle": "Experience"
+    },
+    {
+      "id": "release",
+      "title": "어려움과 해소를 이야기할 때",
+      "englishTitle": "Release"
+    }
+  ],
+  "sharingFlow": [
+    {
+      "label": "감정",
+      "patternId": "felt",
+      "hint": "그때 어떤 기분이었나요?"
+    },
+    {
+      "label": "신체 감각",
+      "patternId": "noticed",
+      "hint": "몸에서 무엇을 알아차렸나요?"
+    },
+    {
+      "label": "생각",
+      "patternId": "found",
+      "hint": "어떤 생각이나 반응이 나타났나요?"
+    },
+    {
+      "label": "깨달음",
+      "patternId": "realized",
+      "hint": "새롭게 이해한 것이 있나요?"
+    },
+    {
+      "label": "변화",
+      "patternId": "let-go",
+      "hint": "무엇을 내려놓았거나 달라졌나요?"
+    }
+  ],
+  "speakingPractice": [
+    {
+      "id": "feeling",
+      "patternId": "felt",
+      "question": "명상 중 어떤 감정을 느꼈어?",
+      "hint": "I felt 뒤에 감정을 나타내는 형용사나 명사구를 붙여보세요.",
+      "examples": [
+        {
+          "english": "I felt a lot of sadness during meditation.",
+          "korean": "명상 중에 슬픔을 많이 느꼈어."
+        },
+        {
+          "english": "I felt peaceful toward the end of the meditation.",
+          "korean": "명상이 끝날 무렵 마음이 평온했어."
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "patternId": "noticed",
+      "question": "몸에서 어떤 감각이나 변화를 알아차렸어?",
+      "hint": "긴장이 느껴진 부위나 호흡의 변화를 말해보세요.",
+      "examples": [
+        {
+          "english": "I noticed some tension in my shoulders.",
+          "korean": "어깨에 긴장이 있다는 걸 알아차렸어."
+        },
+        {
+          "english": "I noticed that my breathing became slower.",
+          "korean": "호흡이 느려지는 걸 알아차렸어."
+        }
+      ]
+    },
+    {
+      "id": "thoughts",
+      "patternId": "found",
+      "question": "어떤 생각이나 행동이 자연스럽게 나타났어?",
+      "hint": "I found myself 뒤에 thinking, crying, smiling처럼 -ing를 붙여보세요.",
+      "examples": [
+        {
+          "english": "I found myself thinking about work.",
+          "korean": "어느새 일에 대해 생각하고 있었어."
+        },
+        {
+          "english": "I found myself crying without knowing why.",
+          "korean": "이유도 모른 채 나도 모르게 울고 있었어."
+        }
+      ]
+    },
+    {
+      "id": "insight",
+      "patternId": "realized",
+      "question": "그 경험을 통해 무엇을 깨달았어?",
+      "hint": "I realized that 뒤에 주어와 동사가 있는 문장을 붙여보세요.",
+      "examples": [
+        {
+          "english": "I realized that I've been pushing myself too hard.",
+          "korean": "내가 스스로를 너무 몰아붙이고 있었다는 걸 깨달았어."
+        },
+        {
+          "english": "I realized that I needed to give myself more time.",
+          "korean": "나 자신에게 시간을 더 줘야 한다는 걸 깨달았어."
+        }
+      ]
+    },
+    {
+      "id": "change",
+      "patternId": "let-go",
+      "question": "무엇을 조금 내려놓았거나 어떻게 달라졌어?",
+      "hint": "I let go of 뒤에 fears, stress, expectations처럼 내려놓은 대상을 붙여보세요. 아직 어렵다면 I’m still learning to let go.라고 말해도 좋아요.",
+      "examples": [
+        {
+          "english": "I let go of some of my fears. I feel much lighter now.",
+          "korean": "두려움을 조금 내려놓았어. 지금은 훨씬 홀가분해."
+        },
+        {
+          "english": "I'm still learning to let go of my expectations.",
+          "korean": "아직 기대를 내려놓는 법을 배우고 있어."
+        }
+      ]
+    }
+  ],
+  "roleplay": {
+    "scenarioId": "after-meditation",
+    "caseId": "active-meditation",
+    "title": "After Active Meditation",
+    "description": "함께 액티브 명상을 마친 참가자와 감정, 몸의 감각, 깨달음과 지금의 변화를 나눠보세요."
+  }
+}
