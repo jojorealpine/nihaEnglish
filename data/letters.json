@@ -3,6 +3,10 @@
   "letters": [
     { "id": "1962-01", "number": 1, "title": "1962 / 1", "file": "data/lesson01.json" },
     { "id": "1962-02", "number": 2, "title": "1962 / 2", "file": "data/lesson02.json" },
-    { "id": "1962-03", "number": 3, "title": "1962 / 3", "file": null }
+    { "id": "1962-03", "number": 3, "title": "1962 / 3", "file": "data/lesson03.json" },
+    { "id": "1962-04", "number": 4, "title": "1962 / 4", "file": "data/lesson04.json" },
+    { "id": "1962-05", "number": 5, "title": "1962 / 5", "file": "data/lesson05.json" },
+    { "id": "1962-06", "number": 6, "title": "1962 / 6", "file": "data/lesson06.json" },
+    { "id": "1962-07", "number": 7, "title": "1962 / 7", "file": "data/lesson07.json" }
   ]
 }

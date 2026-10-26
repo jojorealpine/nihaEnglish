@@ -1,0 +1,428 @@
+{
+  "id": "1962-05",
+  "title": "1962 / 5",
+  "lesson": "Each step taken within peels away the darkness layer by layer unfolding a world of light in which everything is new.",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "grace",
+      "meaning": "은총, 은혜",
+      "note": "God’s grace: 신의 은총"
+    },
+    {
+      "word": "discovery",
+      "meaning": "발견",
+      "note": "the discovery of the inner light: 내면의 빛을 발견하는 일"
+    },
+    {
+      "word": "inner",
+      "meaning": "내면의, 안쪽의",
+      "note": "inner light는 내면의 깨달음을 빛에 비유한 표현"
+    },
+    {
+      "word": "peel away",
+      "meaning": "한 겹씩 벗겨내다",
+      "note": "어둠이 사라지는 과정을 껍질을 벗기는 모습에 비유함"
+    },
+    {
+      "word": "unfold",
+      "meaning": "펼치다, 펼쳐지다",
+      "note": "가려져 있던 세계가 드러나는 모습"
+    },
+    {
+      "word": "bondage",
+      "meaning": "속박, 얽매임",
+      "note": "자유롭지 못하게 붙잡는 상태"
+    },
+    {
+      "word": "liberation",
+      "meaning": "해방, 해탈",
+      "note": "본문에서는 본래의 자유를 자각하는 일로 제시됨"
+    },
+    {
+      "word": "eternally",
+      "meaning": "영원히",
+      "note": "eternally free: 영원히 자유로운"
+    },
+    {
+      "word": "eager",
+      "meaning": "간절히 바라는",
+      "note": "eager for the light: 빛을 간절히 바라는"
+    },
+    {
+      "word": "disheartened",
+      "meaning": "낙담한, 용기를 잃은",
+      "note": "길을 가다가 마음이 꺾인 상태"
+    },
+    {
+      "word": "pilgrim",
+      "meaning": "순례자",
+      "note": "진리나 깨달음을 찾아가는 사람에 대한 비유"
+    },
+    {
+      "word": "spring",
+      "meaning": "샘, 샘물",
+      "note": "이 문맥에서는 계절 봄이나 용수철이 아니라 물이 솟는 곳"
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "it is through … that …",
+      "meaning": "바로 ~을 통해 …하다",
+      "grammar": "It is + 강조할 구 + that절",
+      "title": "it is through … that …",
+      "detailMeaning": "바로 ~을 통해 …하다",
+      "original": "It is through God's grace that you are working towards the discovery of the inner light.",
+      "explanation": "`It is … that …` 강조구문으로 어떤 통로를 통해 일이 이루어지는지 강조해요. 본문에서는 `through God’s grace`를 앞세웠어요.",
+      "examples": [
+        {
+          "english": "It is through practice that we learn.",
+          "korean": "우리는 바로 연습을 통해 배워."
+        },
+        {
+          "english": "It was through a friend that I found this place.",
+          "korean": "내가 이곳을 알게 된 건 바로 친구를 통해서였어."
+        }
+      ]
+    },
+    {
+      "expression": "work towards + 명사 / -ing",
+      "meaning": "~을 향해 노력하다",
+      "grammar": "work + 전치사 towards",
+      "title": "work towards + 명사 / -ing",
+      "detailMeaning": "~을 향해 노력하다",
+      "original": "you are working towards the discovery of the inner light.",
+      "explanation": "`towards`는 목표를 향하는 방향을 나타내는 전치사예요. 뒤에 명사나 동명사를 붙여 무엇을 이루려는지 말해요.",
+      "examples": [
+        {
+          "english": "We are working towards a common goal.",
+          "korean": "우리는 공동의 목표를 향해 노력하고 있어."
+        },
+        {
+          "english": "She is working towards becoming more independent.",
+          "korean": "그녀는 더 독립적인 사람이 되려고 노력하고 있어."
+        }
+      ]
+    },
+    {
+      "expression": "once + 주어 + 동사",
+      "meaning": "일단 ~하면",
+      "grammar": "시간·조건의 접속사 once",
+      "title": "once + 주어 + 동사",
+      "detailMeaning": "일단 ~하면",
+      "original": "and once it is met all darkness in life disappears.",
+      "explanation": "접속사 `once`는 어떤 일이 이루어진 뒤를 뜻해요. 여기서 it은 내면의 빛을 가리키며, 한 번이라는 부사 용법과 구분해요.",
+      "examples": [
+        {
+          "english": "Once you understand the pattern, it gets easier.",
+          "korean": "패턴을 이해하고 나면 더 쉬워져."
+        },
+        {
+          "english": "Once I sat quietly, I noticed my breathing.",
+          "korean": "조용히 앉고 나니 호흡을 알아차렸어."
+        }
+      ]
+    },
+    {
+      "expression": "layer by layer",
+      "meaning": "한 겹씩",
+      "grammar": "명사 + by + 같은 명사",
+      "title": "layer by layer",
+      "detailMeaning": "한 겹씩",
+      "original": "peels away the darkness layer by layer",
+      "explanation": "같은 명사를 `by`로 연결하면 하나씩 순서대로라는 뜻이 돼요. `step by step`도 같은 방식의 표현이에요.",
+      "examples": [
+        {
+          "english": "We removed the old paint layer by layer.",
+          "korean": "우리는 오래된 페인트를 한 겹씩 벗겨냈어."
+        },
+        {
+          "english": "I am understanding myself layer by layer.",
+          "korean": "나는 나 자신을 한 겹씩 더 이해해 가고 있어."
+        }
+      ]
+    },
+    {
+      "expression": "that which + 동사",
+      "meaning": "~하는 것",
+      "grammar": "지시대명사 that + 관계대명사 which",
+      "title": "that which + 동사",
+      "detailMeaning": "~하는 것",
+      "original": "Liberation happens to that which is eternally free!",
+      "explanation": "`that`이 사물이나 어떤 본질을 가리키고 `which`절이 그것을 설명해요. 일상적인 `what`보다 격식 있고 문학적인 구조예요.",
+      "examples": [
+        {
+          "english": "Value that which brings you peace.",
+          "korean": "너에게 평화를 가져오는 것을 소중히 여겨."
+        },
+        {
+          "english": "We often overlook that which is closest to us.",
+          "korean": "우리는 가장 가까이 있는 것을 자주 놓쳐."
+        }
+      ]
+    },
+    {
+      "expression": "be eager for",
+      "meaning": "~을 간절히 바라다",
+      "grammar": "be + 형용사 + for",
+      "title": "be eager for",
+      "detailMeaning": "~을 간절히 바라다",
+      "original": "along with all those eager for the light.",
+      "explanation": "`eager for + 명사`는 대상을 간절히 바란다는 뜻이에요. 행동을 붙일 때는 `eager to + 동사원형`을 써요.",
+      "examples": [
+        {
+          "english": "They are eager for a fresh start.",
+          "korean": "그들은 새로운 시작을 간절히 바라고 있어."
+        },
+        {
+          "english": "I am eager to learn more.",
+          "korean": "나는 더 배우고 싶어."
+        }
+      ]
+    },
+    {
+      "expression": "keep -ing",
+      "meaning": "계속 ~하다",
+      "grammar": "keep + 동명사",
+      "title": "keep -ing",
+      "detailMeaning": "계속 ~하다",
+      "original": "We have to keep going.",
+      "explanation": "`keep` 뒤에 -ing를 붙여 행동을 계속한다는 뜻을 만들어요. `have to`를 더하면 계속해야 한다는 뜻이에요.",
+      "examples": [
+        {
+          "english": "Keep listening to your own experience.",
+          "korean": "네 경험에 계속 귀 기울여 봐."
+        },
+        {
+          "english": "We kept walking until we reached the village.",
+          "korean": "우리는 마을에 도착할 때까지 계속 걸었어."
+        }
+      ]
+    },
+    {
+      "expression": "become disheartened",
+      "meaning": "낙담하게 되다",
+      "grammar": "become + 형용사",
+      "title": "become disheartened",
+      "detailMeaning": "낙담하게 되다",
+      "original": "Many times one becomes disheartened on the path",
+      "explanation": "`become`은 상태의 변화를 나타내요. `disheartened`는 용기를 잃고 마음이 꺾인 상태를 표현해요.",
+      "examples": [
+        {
+          "english": "Don't become disheartened by a slow start.",
+          "korean": "시작이 더디다고 낙담하지 마."
+        },
+        {
+          "english": "I became disheartened, but my friend encouraged me.",
+          "korean": "나는 낙담했지만 친구가 용기를 주었어."
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    [
+      15,
+      16,
+      17,
+      18
+    ],
+    [
+      19
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "이 편지는 Love라는 짧은 말로 따뜻하게 시작합니다. 뒤에 나오는 본문과 구분되는 편지의 인사예요.",
+      "grammar": "명사 하나로 이루어진 인사 표현입니다. 문맥에 따라 ‘사랑하는 이여’ 또는 ‘사랑을 전합니다’로 자연스럽게 옮길 수 있어요.",
+      "audio": "audio/1962-05/01.mp3"
+    },
+    {
+      "id": 2,
+      "english": "It is through God's grace that you are working towards the discovery of the inner light.",
+      "korean": "당신이 내면의 빛을 발견하려 노력하고 있는 것은 바로 신의 은총을 통해서입니다.",
+      "explanation": "상대의 내적 탐구를 신의 은총과 연결해 격려합니다. inner light는 내면의 깨달음을 빛에 비유한 표현이에요.",
+      "grammar": "It is + through God’s grace + that절이라는 강조구문입니다. work towards + 명사는 목표를 향해 노력함을 뜻해요.",
+      "audio": "audio/1962-05/02.mp3"
+    },
+    {
+      "id": 3,
+      "english": "That light is definitely there",
+      "korean": "그 빛은 분명히 그곳에 있으며,",
+      "explanation": "앞에서 말한 내면의 빛을 다시 가리키며 확신을 전합니다. 다음 구절에서 그 빛을 만난 뒤의 변화를 설명해요.",
+      "grammar": "That은 light를 특정하는 지시 한정사입니다. definitely는 is there라는 존재의 진술을 강조하는 부사예요.",
+      "audio": "audio/1962-05/03.mp3"
+    },
+    {
+      "id": 4,
+      "english": "and once it is met all darkness in life disappears.",
+      "korean": "일단 그 빛을 만나면 삶의 모든 어둠이 사라집니다.",
+      "explanation": "it은 내면의 빛을 뜻합니다. 그 빛을 만난다는 것은 자신의 내면을 새롭게 자각하는 경험에 대한 비유예요.",
+      "grammar": "once는 ‘일단 ~하면’이라는 접속사입니다. it is met는 수동태이며, 불가산 명사 darkness가 주어라 disappears를 써요.",
+      "audio": "audio/1962-05/04.mp3"
+    },
+    {
+      "id": 5,
+      "english": "Each step taken within peels away the darkness layer by layer",
+      "korean": "내면으로 내딛는 한 걸음 한 걸음은 어둠을 한 겹씩 벗겨내고,",
+      "explanation": "안으로 향하는 탐구를 걸음에, 알아차림을 가리던 것을 어둠의 층에 비유합니다. 다음의 unfolding과 이어져요.",
+      "grammar": "taken within은 step을 뒤에서 꾸미는 과거분사구입니다. Each step은 단수 주어이며 peel away는 ‘벗겨내다’, layer by layer는 ‘한 겹씩’이에요.",
+      "audio": "audio/1962-05/05.mp3"
+    },
+    {
+      "id": 6,
+      "english": "unfolding a world of light in which everything is new.",
+      "korean": "모든 것이 새로운 빛의 세계를 펼쳐 보입니다.",
+      "explanation": "앞의 과정에 따라 새로운 세계가 드러나는 모습을 덧붙입니다. in which는 그 빛의 세계 안에서라는 뜻이에요.",
+      "grammar": "unfolding은 앞 절에 이어지는 분사구입니다. in which + 절은 a world of light를 꾸미며, where로 바꾸어 이해할 수 있어요.",
+      "audio": "audio/1962-05/06.mp3"
+    },
+    {
+      "id": 7,
+      "english": "This experience cuts away all bondage –",
+      "korean": "이 경험은 모든 속박을 잘라내고,",
+      "explanation": "내면의 빛을 만나는 경험이 얽매임에서 벗어나게 한다는 비유입니다. 대시 뒤에 역설적인 설명이 이어져요.",
+      "grammar": "This experience가 주어이고 cuts away는 ‘잘라 없애다’라는 구동사입니다. all bondage는 속박 전체를 뜻하는 목적어예요.",
+      "audio": "audio/1962-05/07.mp3"
+    },
+    {
+      "id": 8,
+      "english": "and then comes the realization that it was never there!",
+      "korean": "그러고 나면 그 속박은 애초에 없었다는 깨달음이 찾아옵니다!",
+      "explanation": "it은 bondage를 가리킵니다. 자신을 묶었다고 생각한 것이 본래의 실체가 아니었다는 저자의 역설이에요.",
+      "grammar": "기본 어순은 the realization comes then입니다. then 뒤에서 동사 comes가 주어보다 먼저 오는 도치가 일어났고, that절은 realization의 내용이에요.",
+      "audio": "audio/1962-05/08.mp3"
+    },
+    {
+      "id": 9,
+      "english": "Liberation happens to that which is eternally free!",
+      "korean": "해탈은 영원히 자유로운 바로 그것에 일어납니다!",
+      "explanation": "무언가를 새로 만들어 자유로워진다기보다 본래 자유로운 본질을 깨닫는다는 역설을 표현합니다.",
+      "grammar": "happen to + 대상은 그 대상에게 일어남을 나타냅니다. that이 지시대명사이고 which is eternally free가 그것을 설명하는 관계절이에요.",
+      "audio": "audio/1962-05/09.mp3"
+    },
+    {
+      "id": 10,
+      "english": "I am pleased with your progress.",
+      "korean": "당신의 진전이 기쁩니다.",
+      "explanation": "상대의 수행 과정에 대한 격려입니다. progress는 셀 수 없는 명사로, 앞으로 나아가는 과정을 뜻해요.",
+      "grammar": "be pleased with + 명사: ‘~에 기쁘다, 만족하다’. your는 progress가 누구의 진전인지 나타내요.",
+      "audio": "audio/1962-05/10.mp3"
+    },
+    {
+      "id": 11,
+      "english": "Your letter was received long back",
+      "korean": "당신의 편지는 오래전에 받았지만,",
+      "explanation": "편지를 받은 때를 되짚으며 답장이 늦어진 이유로 이어집니다. long back은 여기서 long ago와 같은 뜻이에요.",
+      "grammar": "was received는 과거 수동태입니다. long back은 시간 부사구이며, 일반적인 일상 영어에서는 a long time ago도 사용할 수 있어요.",
+      "audio": "audio/1962-05/11.mp3"
+    },
+    {
+      "id": 12,
+      "english": "but as I was busy there was delay in replying,",
+      "korean": "바쁜 탓에 답장이 늦어졌습니다.",
+      "explanation": "as는 이 문맥에서 때가 아니라 이유를 나타냅니다. 지연의 대상은 답장을 하는 일이에요.",
+      "grammar": "as + 주어 + 동사는 ‘~했기 때문에’라는 이유절입니다. there was delay는 지연이 있었음을 나타내고 in replying의 replying은 동명사예요.",
+      "audio": "audio/1962-05/12.mp3"
+    },
+    {
+      "id": 13,
+      "english": "but my memory of you is always there,",
+      "korean": "하지만 나는 언제나 당신을 기억하고 있으며,",
+      "explanation": "답장은 늦었어도 상대를 향한 마음은 이어지고 있다는 뜻입니다. memory of you는 당신에 대한 기억을 가리켜요.",
+      "grammar": "my memory of you가 주어입니다. always가 빈도·지속을, there가 기억이 계속 존재한다는 상태를 나타내요.",
+      "audio": "audio/1962-05/13.mp3"
+    },
+    {
+      "id": 14,
+      "english": "along with all those eager for the light.",
+      "korean": "빛을 간절히 바라는 모든 이들도 함께 기억하고 있습니다.",
+      "explanation": "빛을 찾는 다른 사람들에게까지 관심을 넓힙니다. those는 그런 사람들을 통틀어 가리키는 대명사예요.",
+      "grammar": "along with는 ‘~와 함께’. those 뒤의 eager for the light는 who are eager for the light가 줄어든 형용사구로 볼 수 있어요.",
+      "audio": "audio/1962-05/14.mp3"
+    },
+    {
+      "id": 15,
+      "english": "My good wishes flow for ever towards them.",
+      "korean": "그들을 향한 나의 축복은 언제나 흐르고 있습니다.",
+      "explanation": "상대와 같은 길을 걷는 사람들을 향한 바람을 흐르는 물처럼 묘사합니다. them은 앞의 빛을 바라는 이들이에요.",
+      "grammar": "good wishes는 좋은 일이 있기를 비는 마음입니다. flow가 동사, for ever가 지속을 나타내는 부사구, towards them이 방향을 나타내요.",
+      "audio": "audio/1962-05/15.mp3"
+    },
+    {
+      "id": 16,
+      "english": "We have to keep going.",
+      "korean": "우리는 계속 나아가야 합니다.",
+      "explanation": "길이 더디더라도 계속 가자는 격려입니다. 뒤의 순례자와 샘의 비유를 이끌어요.",
+      "grammar": "have to + 동사원형은 필요를 나타냅니다. keep going은 keep + -ing 구조로 ‘계속 가다’라는 뜻이에요.",
+      "audio": "audio/1962-05/16.mp3"
+    },
+    {
+      "id": 17,
+      "english": "Many times one becomes disheartened on the path",
+      "korean": "길을 가다 보면 여러 번 낙담하게 되지만,",
+      "explanation": "one은 특정한 한 사람보다 누구에게나 있을 수 있는 경험을 가리킵니다. path는 탐구나 수행의 길에 대한 비유예요.",
+      "grammar": "Many times는 빈도를 나타내는 부사구입니다. one이 단수 주어여서 becomes를 쓰며, disheartened는 상태를 설명하는 형용사예요.",
+      "audio": "audio/1962-05/17.mp3"
+    },
+    {
+      "id": 18,
+      "english": "but ultimately the thirsty pilgrim reaches the spring.",
+      "korean": "마침내 목마른 순례자는 샘에 도달합니다.",
+      "explanation": "갈증을 느끼는 순례자와 샘을 통해 간절한 탐구가 만나는 결실을 표현합니다. spring은 여기서 샘물이에요.",
+      "grammar": "but은 앞의 낙담과 대비합니다. ultimately는 ‘마침내’, thirsty는 pilgrim을 꾸미고 reaches는 목적어 the spring을 취해요.",
+      "audio": "audio/1962-05/18.mp3"
+    },
+    {
+      "id": 19,
+      "english": "In fact the water is there before the thirst.",
+      "korean": "사실 물은 갈증보다 먼저 그곳에 있습니다.",
+      "explanation": "찾는 대상이 이미 존재한다는 생각을 물과 갈증의 관계로 표현합니다. 앞의 ‘본래 자유롭다’는 주제와 연결되는 비유예요.",
+      "grammar": "In fact는 추가 설명을 이끄는 부사구입니다. before the thirst는 전치사 before 뒤에 명사를 붙여 선후 관계를 나타내요.",
+      "audio": "audio/1962-05/19.mp3"
+    },
+    {
+      "id": 20,
+      "english": "My kind regards to all.",
+      "korean": "모든 분께 따뜻한 안부를 전합니다.",
+      "explanation": "함께 있는 사람들에게도 다정한 인사를 전하며 편지를 맺습니다.",
+      "grammar": "My kind regards to + 대상은 편지에서 사용하는 정중한 인사 표현입니다. all은 모든 사람을 뜻하는 대명사예요.",
+      "audio": "audio/1962-05/20.mp3"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다. 당신이 내면의 빛을 발견하려 노력하고 있는 것은 바로 신의 은총을 통해서입니다. 그 빛은 분명히 그곳에 있으며, 일단 그 빛을 만나면 삶의 모든 어둠이 사라집니다. 내면으로 내딛는 한 걸음 한 걸음은 어둠을 한 겹씩 벗겨내고, 모든 것이 새로운 빛의 세계를 펼쳐 보입니다. 이 경험은 모든 속박을 잘라내고, 그러고 나면 그 속박은 애초에 없었다는 깨달음이 찾아옵니다! 해탈은 영원히 자유로운 바로 그것에 일어납니다!",
+    "당신의 진전이 기쁩니다. 당신의 편지는 오래전에 받았지만, 바쁜 탓에 답장이 늦어졌습니다. 하지만 나는 언제나 당신을 기억하고 있으며, 빛을 간절히 바라는 모든 이들도 함께 기억하고 있습니다. 그들을 향한 나의 축복은 언제나 흐르고 있습니다.",
+    "우리는 계속 나아가야 합니다. 길을 가다 보면 여러 번 낙담하게 되지만, 마침내 목마른 순례자는 샘에 도달합니다. 사실 물은 갈증보다 먼저 그곳에 있습니다.",
+    "모든 분께 따뜻한 안부를 전합니다."
+  ],
+  "fullAudio": "audio/1962-05/script_all.mp3",
+  "source": {
+    "type": "user-provided scan",
+    "fileName": "스캔 문서, 2026. 10. 24. 오전 9.45.31.pdf",
+    "pdfPages": [
+      2
+    ]
+  }
+}

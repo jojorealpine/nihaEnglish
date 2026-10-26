@@ -8,7 +8,15 @@ GitHub Pages 정적 웹사이트. 메인 화면 `index.html`의 세 카드에서
 - **Osho’s Letters** (`letters.html`): 편지 본문, 해석, 단어와 표현을 공부하고 문장별 MP3를 듣습니다.
 - **Emotion Cards** (`emotions.html`): 감정 형용사 30개, 내면 표현 12개, 명상 후 대화 예시와 5단계 스피킹 연습을 제공합니다.
 
-편지 페이지 상단의 **Letter 1, 2, 3…** 버튼으로 편지를 선택합니다. **Letter 1 (1962 / 1)**은 20개, **Letter 2 (1962 / 2)**는 14개 문장/구절로 구성됩니다. Letter 3은 아직 본문이 없어 선택하면 **준비 중** 안내가 표시됩니다. 본문에는 문장 번호를 표시하지 않습니다. 문장 클릭 즉시 MP3를 재생하고, **전체 듣기** 버튼은 선택한 편지의 `script_all.mp3`를 재생합니다.
+편지 페이지 상단의 **Letter 1~7** 버튼으로 편지를 선택합니다. **Letter 1 (1962 / 1)**은 20개, **Letter 2 (1962 / 2)**는 14개 문장/구절로 구성됩니다. 스캔 자료에서 추가한 Letter 3~7도 같은 형식으로 핵심 문구, 단어·표현, 문장별 해석·해설·문법, 전체 번역을 제공합니다. 본문에는 문장 번호를 표시하지 않습니다. 문장 클릭 즉시 MP3를 재생하며 파일이 없으면 브라우저 음성을 사용합니다. **전체 듣기** 버튼은 선택한 편지의 `script_all.mp3`를 재생합니다.
+
+| 편지 | 본문 파일 | 문장/구절 수 |
+| --- | --- | --- |
+| Letter 3 | `data/lesson03.json` | 15 |
+| Letter 4 | `data/lesson04.json` | 28 |
+| Letter 5 | `data/lesson05.json` | 20 |
+| Letter 6 | `data/lesson06.json` | 26 |
+| Letter 7 | `data/lesson07.json` | 22 |
 
 ## 1. MP3 배치 (중요)
 
@@ -36,6 +44,11 @@ nihaEnglish/
   data/letters.json      # 편지 버튼 목록과 각 본문 파일의 연결
   data/lesson01.json     # Letter 1 전체 내용
   data/lesson02.json     # Letter 2 전체 내용
+  data/lesson03.json     # Letter 3 전체 내용
+  data/lesson04.json     # Letter 4 전체 내용
+  data/lesson05.json     # Letter 5 전체 내용
+  data/lesson06.json     # Letter 6 전체 내용
+  data/lesson07.json     # Letter 7 전체 내용
   audio/1962-01/
     01.mp3
     02.mp3
@@ -51,6 +64,8 @@ nihaEnglish/
 ```
 
 Letter 1의 `01.mp3`는 `Love, I received your letter.`에 대응하며 `20.mp3`는 마지막 문장에 대응합니다. Letter 2의 `01.mp3`는 `Love, I am in bliss.`에 대응하며 `14.mp3`는 마지막 구절에 대응합니다. 전체 듣기는 선택한 편지 폴더의 `script_all.mp3`를 재생합니다. 이미 MP3를 가지고 있다면 생성 스크립트를 실행할 필요가 없습니다. 문장 MP3가 없으면 체크박스를 켠 상태에서 브라우저 TTS로 대체하지만, 전체 음성은 파일이 필수입니다.
+
+Letter 3~7은 본문과 학습 자료를 추가한 상태이며 새 MP3는 포함하지 않았습니다. 문장 듣기는 기본으로 켜진 브라우저 음성 대체 기능을 사용합니다. MP3를 준비하면 각각 `audio/1962-03/`~`audio/1962-07/`에 `01.mp3`부터 해당 편지의 마지막 구절 번호까지와 `script_all.mp3`를 배치하세요. 각 JSON의 `audio`와 `fullAudio`에 이 경로가 설정되어 있습니다.
 
 ## 2. 로컬 테스트
 
@@ -85,9 +100,9 @@ python3 scripts/generate_audio.py
 
 ## 5. 유지보수
 
-각 편지는 **별도 JSON 파일**로 관리합니다. Letter 1은 `data/lesson01.json`, Letter 2는 `data/lesson02.json`입니다. 선택한 편지는 `letters.html?letter=1962-01` 또는 `letters.html?letter=1962-02`처럼 URL에 저장되어 새로고침, 링크 공유, 브라우저 뒤로/앞으로 가기에서도 유지됩니다. 기존 `/?letter=...`와 `index.html?letter=...` 링크도 해당 편지 페이지로 연결됩니다. 편지를 바꾸거나 다른 페이지로 이동하면 음성 재생이 정지합니다.
+각 편지는 **별도 JSON 파일**인 `data/lesson01.json`~`data/lesson07.json`에서 관리합니다. Letter 3~7의 `source`에는 사용자가 제공한 스캔 PDF 이름과 PDF 쪽수를 기록했습니다. 스캔의 쪽수와 앞 편지의 끝부분은 본문에서 제외했습니다. 선택한 편지는 `letters.html?letter=1962-03`처럼 URL에 저장되어 새로고침, 링크 공유, 브라우저 뒤로/앞으로 가기에서도 유지됩니다. 기존 `/?letter=...`와 `index.html?letter=...` 링크도 해당 편지 페이지로 연결됩니다. 편지를 바꾸거나 다른 페이지로 이동하면 음성 재생이 정지합니다.
 
-### 새 편지를 추가하는 방법 (Letter 3 예시)
+### 새 편지를 추가하는 방법 (Letter 8 예시)
 
 상단의 핵심 문구는 각 편지 JSON의 `lesson` 문자열에서 가져옵니다. `lesson01.json`, `lesson02.json` 등에서 이 값만 수정하면 해당 편지를 선택할 때 문구가 바뀝니다. 현재는 각 본문에서 고른 문장이 들어 있으며, 한국어 문구로 바꿔도 됩니다. 값을 비워 두거나 필드를 생략하면 문구 영역을 숨깁니다.
 
@@ -115,19 +130,19 @@ python3 scripts/generate_audio.py
 ]
 ```
 
-1. 기존 편지 JSON을 복사해 `data/lesson03.json`을 만듭니다.
-2. 새 파일의 `id`를 `1962-03`, `title`을 `1962 / 3`로 바꾸고 `lesson`의 핵심 문구와 단어·본문·해설·번역을 Letter 3 내용으로 교체합니다. `english`에는 앞의 문장 번호를 넣지 않습니다.
-3. `paragraphs`는 `sentences` 배열의 **0부터 시작하는 인덱스**입니다. 새 편지의 문장 수에 맞게 수정합니다. 각 문장의 `audio`와 `fullAudio`도 `audio/1962-03/` 경로로 바꾸고 MP3 파일을 배치합니다.
-4. `data/letters.json`에서 Letter 3의 `file`을 `null`에서 `"data/lesson03.json"`으로 바꿉니다. 다음 페이지 로드부터 준비 중 표시 대신 새 편지가 나옵니다.
+1. 기존 편지 JSON을 복사해 `data/lesson08.json`을 만듭니다.
+2. 새 파일의 `id`를 `1962-08`, `title`을 `1962 / 8`로 바꾸고 `lesson`의 핵심 문구와 단어·본문·해설·번역을 Letter 8 내용으로 교체합니다. `english`에는 앞의 문장 번호를 넣지 않습니다. `source`도 새 자료에 맞춰 수정하거나 생략합니다.
+3. `paragraphs`는 `sentences` 배열의 **0부터 시작하는 인덱스**입니다. 새 편지의 문장 수에 맞게 수정합니다. 각 문장의 `audio`와 `fullAudio`도 `audio/1962-08/` 경로로 바꾸고 MP3 파일을 배치합니다.
+4. `data/letters.json`의 `letters` 배열에 아래 항목을 추가합니다. 다음 페이지 로드부터 Letter 8 버튼과 본문이 나타납니다. 미리 버튼만 만들려면 `file`을 `null`로 설정해 **준비 중** 상태로 둘 수 있습니다.
 
 ```json
-{ "id": "1962-03", "number": 3, "title": "1962 / 3", "file": "data/lesson03.json" }
+{ "id": "1962-08", "number": 8, "title": "1962 / 8", "file": "data/lesson08.json" }
 ```
 
-Letter 4부터는 `letters` 배열에 아래 항목을 추가하면 버튼이 자동으로 생깁니다. 본문이 아직 없으면 `file`을 `null`로 둡니다. `defaultLetter`는 처음 접속할 때 보여 줄 편지의 `id`입니다.
+Letter 9부터도 같은 방식으로 배열에 추가합니다. 본문이 아직 없으면 `file`을 `null`로 둡니다. `defaultLetter`는 처음 접속할 때 보여 줄 편지의 `id`입니다.
 
 ```json
-{ "id": "1962-04", "number": 4, "title": "1962 / 4", "file": "data/lesson04.json" }
+{ "id": "1962-09", "number": 9, "title": "1962 / 9", "file": "data/lesson09.json" }
 ```
 
 새 편지의 음원을 생성하려면 해당 JSON을 지정합니다. 기존처럼 옵션 없이 실행하면 Letter 1을 사용합니다.

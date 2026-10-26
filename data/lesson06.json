@@ -1,0 +1,492 @@
+{
+  "id": "1962-06",
+  "title": "1962 / 6",
+  "lesson": "The key to this transcendence is witnessing.",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "bliss",
+      "meaning": "지복, 더없는 행복",
+      "note": "편안한 기분을 넘어서는 깊은 행복을 나타내는 표현"
+    },
+    {
+      "word": "ordinarily",
+      "meaning": "보통은, 대개는",
+      "note": "일반적인 상황과 명상을 통한 변화를 대비할 때 사용"
+    },
+    {
+      "word": "deprive",
+      "meaning": "빼앗다, 누리지 못하게 하다",
+      "note": "be deprived of: ~을 누리지 못하다"
+    },
+    {
+      "word": "conceal",
+      "meaning": "감추다",
+      "note": "생각의 흐름이 내면의 비어 있음을 가린다는 비유"
+    },
+    {
+      "word": "cease",
+      "meaning": "멈추다, 그치다",
+      "note": "thoughts cease: 생각이 잦아들다"
+    },
+    {
+      "word": "restless",
+      "meaning": "가라앉지 못하는, 불안정한",
+      "note": "마음이 계속 움직이며 편히 머물지 못하는"
+    },
+    {
+      "word": "settle",
+      "meaning": "가라앉다, 안정되다",
+      "note": "마음이 고요해지는 상태를 말하는 동사"
+    },
+    {
+      "word": "transcendence",
+      "meaning": "넘어섬, 초월",
+      "note": "본문에서는 생각에 붙잡히는 상태를 넘어서는 것"
+    },
+    {
+      "word": "witnessing",
+      "meaning": "지켜봄, 관조",
+      "note": "생각에 휩쓸리기보다 바라보는 태도를 나타내는 동명사"
+    },
+    {
+      "word": "observer",
+      "meaning": "관찰자",
+      "note": "어떤 현상을 지켜보는 사람"
+    },
+    {
+      "word": "dawn",
+      "meaning": "밝아오다, 나타나기 시작하다",
+      "note": "의식이나 알아차림이 생기는 것을 새벽에 비유함"
+    },
+    {
+      "word": "altogether",
+      "meaning": "완전히, 전적으로",
+      "note": "a new world altogether: 완전히 새로운 세계"
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "see A as B",
+      "meaning": "A를 B로 보다",
+      "grammar": "see + 목적어 + as + 보어",
+      "title": "see A as B",
+      "detailMeaning": "A를 B로 보다",
+      "original": "I see life as full of bliss.",
+      "explanation": "`see`는 여기서 눈으로 보는 행위뿐 아니라 이해하고 바라보는 관점을 뜻해요. `as` 뒤에는 명사나 형용사구가 올 수 있어요.",
+      "examples": [
+        {
+          "english": "I see this experience as a new beginning.",
+          "korean": "나는 이 경험을 새로운 시작으로 봐."
+        },
+        {
+          "english": "She sees the world as full of possibilities.",
+          "korean": "그녀는 세상을 가능성으로 가득한 곳으로 봐."
+        }
+      ]
+    },
+    {
+      "expression": "be deprived of",
+      "meaning": "~을 빼앗기다, ~을 누리지 못하다",
+      "grammar": "be + 과거분사 + of",
+      "title": "be deprived of",
+      "detailMeaning": "~을 빼앗기다, ~을 누리지 못하다",
+      "original": "and so are deprived of it,",
+      "explanation": "능동형은 `deprive A of B`예요. 본문에서는 we를 다시 쓰지 않고 앞 절의 주어를 이어받아 수동태를 사용해요.",
+      "examples": [
+        {
+          "english": "I felt deprived of quiet time.",
+          "korean": "나는 조용히 지낼 시간을 빼앗긴 듯했어."
+        },
+        {
+          "english": "No one should be deprived of an education.",
+          "korean": "누구도 교육받을 기회를 빼앗겨서는 안 돼."
+        }
+      ]
+    },
+    {
+      "expression": "it is a matter of -ing",
+      "meaning": "~하기만 하면 되는 문제다",
+      "grammar": "it is + 명사 + of + 동명사",
+      "title": "it is a matter of -ing",
+      "detailMeaning": "~하기만 하면 되는 문제다",
+      "original": "it is only a matter of opening the eyes,",
+      "explanation": "핵심적으로 필요한 일이 무엇인지 설명해요. `of` 뒤에는 명사나 동명사가 오며, `only`는 필요한 일이 그것뿐이라는 느낌을 줘요.",
+      "examples": [
+        {
+          "english": "It's a matter of listening more carefully.",
+          "korean": "더 주의 깊게 듣는 문제야."
+        },
+        {
+          "english": "Sometimes it's only a matter of taking the first step.",
+          "korean": "때로는 그저 첫걸음을 내디디면 되는 거야."
+        }
+      ]
+    },
+    {
+      "expression": "come into view",
+      "meaning": "눈에 들어오다, 드러나다",
+      "grammar": "동사 + 전치사구",
+      "title": "come into view",
+      "detailMeaning": "눈에 들어오다, 드러나다",
+      "original": "As thoughts cease it comes into view.",
+      "explanation": "가려져 있거나 멀리 있던 것이 보이기 시작한다는 뜻이에요. 본문은 비어 있음을 알아차리게 되는 경험을 시각적인 표현으로 말해요.",
+      "examples": [
+        {
+          "english": "The mountains came into view as the clouds cleared.",
+          "korean": "구름이 걷히자 산이 모습을 드러냈어."
+        },
+        {
+          "english": "A small village came into view.",
+          "korean": "작은 마을이 눈에 들어왔어."
+        }
+      ]
+    },
+    {
+      "expression": "become free of",
+      "meaning": "~에서 자유로워지다",
+      "grammar": "become + 형용사 + of",
+      "title": "become free of",
+      "detailMeaning": "~에서 자유로워지다",
+      "original": "The moment the witness state dawns, that very moment one becomes free of thoughts.",
+      "explanation": "`be free of`는 얽매이지 않거나 어떤 것이 없는 상태예요. `become`을 쓰면 그 상태로 변해 가는 데 초점을 둬요.",
+      "examples": [
+        {
+          "english": "I want to become free of old habits.",
+          "korean": "오래된 습관에서 자유로워지고 싶어."
+        },
+        {
+          "english": "She felt free of the pressure to impress anyone.",
+          "korean": "그녀는 누구에게 잘 보이려는 부담에서 자유로웠어."
+        }
+      ]
+    },
+    {
+      "expression": "the key to + 명사 / -ing",
+      "meaning": "~의 열쇠, ~에 이르는 핵심",
+      "grammar": "명사 key + 전치사 to",
+      "title": "the key to + 명사 / -ing",
+      "detailMeaning": "~의 열쇠, ~에 이르는 핵심",
+      "original": "The key to this transcendence is witnessing.",
+      "explanation": "`to`는 전치사라 뒤에 동사가 오면 -ing를 써요. 열쇠라는 비유로 어떤 상태나 목표에 이르는 핵심을 나타내요.",
+      "examples": [
+        {
+          "english": "The key to learning is curiosity.",
+          "korean": "배움의 핵심은 호기심이야."
+        },
+        {
+          "english": "Listening is the key to understanding others.",
+          "korean": "경청은 다른 사람을 이해하는 열쇠야."
+        }
+      ]
+    },
+    {
+      "expression": "the moment + 주어 + 동사",
+      "meaning": "~하는 순간",
+      "grammar": "시간을 나타내는 명사구의 접속사적 용법",
+      "title": "the moment + 주어 + 동사",
+      "detailMeaning": "~하는 순간",
+      "original": "The moment the witness state dawns,",
+      "explanation": "`the moment`는 뒤에 문장을 붙여 ‘~하자마자, ~하는 순간’이라는 시간을 이끌 수 있어요.",
+      "examples": [
+        {
+          "english": "The moment I heard her voice, I felt relieved.",
+          "korean": "그녀의 목소리를 듣는 순간 안도했어."
+        },
+        {
+          "english": "The moment you arrive, let me know.",
+          "korean": "도착하는 즉시 알려줘."
+        }
+      ]
+    },
+    {
+      "expression": "open the door to",
+      "meaning": "~의 가능성을 열다",
+      "grammar": "open + 목적어 + 전치사 to",
+      "title": "open the door to",
+      "detailMeaning": "~의 가능성을 열다",
+      "original": "This in turn opens the door to bliss",
+      "explanation": "문을 연다는 비유로 새로운 기회나 상태에 이를 가능성을 나타내요. `to`는 전치사라 명사나 동명사를 붙여요.",
+      "examples": [
+        {
+          "english": "This conversation opened the door to a deeper friendship.",
+          "korean": "이 대화는 더 깊은 우정의 가능성을 열어줬어."
+        },
+        {
+          "english": "Reading opens the door to understanding different lives.",
+          "korean": "독서는 다른 삶을 이해하는 길을 열어줘."
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    [
+      17,
+      18,
+      19,
+      20
+    ],
+    [
+      21,
+      22,
+      23,
+      24
+    ],
+    [
+      25
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "My respects to you,",
+      "korean": "당신에게 경의를 전합니다.",
+      "explanation": "받는 이를 존중하며 인사를 건넵니다. 원문은 쉼표로 이어지는 편지 인사 형식이에요.",
+      "grammar": "My respects to + 사람은 생략된 문장 형태의 인사입니다. 여기서는 문장 끝에 쉼표를 사용했어요.",
+      "audio": "audio/1962-06/01.mp3"
+    },
+    {
+      "id": 2,
+      "english": "I was away, but your letter followed me here.",
+      "korean": "나는 자리를 비우고 있었지만, 당신의 편지는 이곳까지 나를 따라왔습니다.",
+      "explanation": "떠나 있던 곳까지 편지가 전달되었다는 뜻입니다. 편지가 사람처럼 따라왔다고 표현해요.",
+      "grammar": "was away는 자리를 떠나 있던 상태입니다. but이 두 과거절을 연결하고 followed는 목적어 me를 취해요.",
+      "audio": "audio/1962-06/02.mp3"
+    },
+    {
+      "id": 3,
+      "english": "I am pleased to have it.",
+      "korean": "그 편지를 받게 되어 기쁩니다.",
+      "explanation": "it은 앞에서 말한 편지를 가리킵니다. 현재의 반가움을 간단히 전해요.",
+      "grammar": "be pleased to + 동사원형은 기쁜 이유를 말합니다. have는 여기서 편지를 받아 가지고 있다는 뜻이에요.",
+      "audio": "audio/1962-06/03.mp3"
+    },
+    {
+      "id": 4,
+      "english": "I see life as full of bliss.",
+      "korean": "나는 삶을 지복으로 가득한 것으로 봅니다.",
+      "explanation": "자신이 삶을 어떻게 바라보는지 말합니다. see는 판단이나 관점을 나타내는 동사로 쓰였어요.",
+      "grammar": "see + 목적어 life + as + 형용사구 full of bliss 구조입니다. full of + 명사는 ‘~로 가득한’이라는 뜻이에요.",
+      "audio": "audio/1962-06/04.mp3"
+    },
+    {
+      "id": 5,
+      "english": "Ordinarily, we do not have the eyes to see this and so are deprived of it, but this seeing can be created.",
+      "korean": "보통 우리는 이것을 볼 눈이 없어 그 행복을 누리지 못하지만, 이런 보는 능력은 길러질 수 있습니다.",
+      "explanation": "eyes는 내면의 행복을 알아보는 감각에 대한 비유입니다. so 뒤의 are는 앞의 주어 we를 이어받아요.",
+      "grammar": "Ordinarily는 문장 부사입니다. to see this가 eyes를 꾸미고, be deprived of는 수동태예요. can be created는 조동사 + 수동태 구조입니다.",
+      "audio": "audio/1962-06/05.mp3"
+    },
+    {
+      "id": 6,
+      "english": "Perhaps it is not correct to say it can be created,",
+      "korean": "어쩌면 그것을 새로 만들 수 있다고 말하는 것은 정확하지 않을지도 모릅니다.",
+      "explanation": "바로 앞의 표현을 스스로 고쳐 말합니다. 뒤에서는 그 능력이 이미 존재한다는 생각으로 설명을 바꾸어요.",
+      "grammar": "Perhaps는 판단을 부드럽게 하는 부사입니다. it is not correct to say에서 it은 가주어, to say 이하가 실제 내용이에요.",
+      "audio": "audio/1962-06/06.mp3"
+    },
+    {
+      "id": 7,
+      "english": "it is already there,",
+      "korean": "그것은 이미 그곳에 있고,",
+      "explanation": "it은 앞에서 이야기한 보는 능력입니다. 없는 것을 만들어야 한다기보다 이미 있는 것을 발견한다는 뜻이에요.",
+      "grammar": "already는 ‘이미’라는 부사입니다. is there는 어떤 것이 존재하고 있음을 나타내요.",
+      "audio": "audio/1962-06/07.mp3"
+    },
+    {
+      "id": 8,
+      "english": "it is only a matter of opening the eyes,",
+      "korean": "그저 눈을 뜨는 일일 뿐이며,",
+      "explanation": "이미 있는 것을 알아보도록 눈을 여는 것에 비유합니다. only는 다른 거창한 조건이 필요하지 않다는 느낌을 줘요.",
+      "grammar": "a matter of + 명사·동명사 구조입니다. opening은 전치사 of 뒤에 온 동명사이며 the eyes가 목적어예요.",
+      "audio": "audio/1962-06/08.mp3"
+    },
+    {
+      "id": 9,
+      "english": "and then – everything changes.",
+      "korean": "그러면 모든 것이 달라집니다.",
+      "explanation": "대시로 잠깐 호흡을 끊어 새롭게 보는 경험이 가져오는 변화를 강조합니다.",
+      "grammar": "then은 앞 상황 뒤에 이어지는 때를 나타냅니다. everything은 단수 취급하므로 changes를 사용해요.",
+      "audio": "audio/1962-06/09.mp3"
+    },
+    {
+      "id": 10,
+      "english": "Meditation achieves this.",
+      "korean": "명상은 이것을 이루어 줍니다.",
+      "explanation": "this는 앞에서 말한 눈을 뜨고 삶을 새롭게 보는 변화를 가리킵니다. 저자가 그 경험과 명상을 연결하는 문장이에요.",
+      "grammar": "Meditation은 단수 주어이고 achieves는 현재형 동사입니다. this는 앞 문맥 전체를 받는 지시대명사 목적어예요.",
+      "audio": "audio/1962-06/10.mp3"
+    },
+    {
+      "id": 11,
+      "english": "Meditation means: peace; emptiness.",
+      "korean": "명상이란 평화, 비어 있음을 뜻합니다.",
+      "explanation": "콜론과 세미콜론을 사용해 명상의 의미를 짧게 나열합니다. 뒤에서는 이 비어 있음이 어떻게 드러나는지 설명해요.",
+      "grammar": "Meditation이 주어, means가 동사입니다. 콜론 뒤의 peace와 emptiness가 뜻을 설명하는 병렬 명사예요.",
+      "audio": "audio/1962-06/11.mp3"
+    },
+    {
+      "id": 12,
+      "english": "This emptiness is there but is concealed by the flow of thoughts.",
+      "korean": "이 비어 있음은 이미 있지만 생각의 흐름에 가려져 있습니다.",
+      "explanation": "생각을 따라가는 동안 그 아래의 고요함을 알아보지 못한다는 저자의 설명입니다. flow는 생각의 연속을 물의 흐름에 비유해요.",
+      "grammar": "but 뒤에서 동일한 주어 This emptiness가 생략됐습니다. is concealed by는 수동태이며, by 뒤에는 가리는 작용을 하는 대상이 와요.",
+      "audio": "audio/1962-06/12.mp3"
+    },
+    {
+      "id": 13,
+      "english": "As thoughts cease it comes into view.",
+      "korean": "생각이 잦아들면 그 비어 있음이 드러납니다.",
+      "explanation": "it은 emptiness를 가리킵니다. 무엇을 새로 만드는 대신 가려져 있던 것이 보이게 된다는 문맥이에요.",
+      "grammar": "As는 여기서 변화가 함께 일어나는 때를 나타내는 접속사입니다. thoughts cease가 시간절, come into view가 ‘드러나다’라는 표현이에요.",
+      "audio": "audio/1962-06/13.mp3"
+    },
+    {
+      "id": 14,
+      "english": "It seems difficult to become free of thoughts but it is very simple.",
+      "korean": "생각에서 자유로워지는 일은 어려워 보이지만, 그것은 아주 단순합니다.",
+      "explanation": "겉으로 어렵게 보이는 일과 저자가 말하는 단순함을 대비합니다. 뒤에서 그 방법을 관조라고 설명해요.",
+      "grammar": "It seems + 형용사 + to부정사 구조에서 it은 가주어입니다. become free of는 상태의 변화를 나타내고 but이 대조를 이어요.",
+      "audio": "audio/1962-06/14.mp3"
+    },
+    {
+      "id": 15,
+      "english": "The mind seems very restless but it can easily settle.",
+      "korean": "마음은 몹시 가라앉지 못하는 것 같지만 쉽게 고요해질 수 있습니다.",
+      "explanation": "restless와 settle을 대비해, 움직이는 마음도 가라앉을 수 있다는 관점을 전합니다.",
+      "grammar": "seem 뒤의 형용사 restless는 주어의 상태를 설명합니다. can + 동사원형 settle이며 easily는 settle을 꾸미는 부사예요.",
+      "audio": "audio/1962-06/15.mp3"
+    },
+    {
+      "id": 16,
+      "english": "The key to this transcendence is witnessing.",
+      "korean": "이러한 넘어섬의 열쇠는 지켜보는 것입니다.",
+      "explanation": "생각에 휩쓸리는 상태를 넘어서는 핵심을 관찰하는 태도에서 찾습니다. witnessing은 생각을 따라가기보다 바라보는 것을 말해요.",
+      "grammar": "The key to this transcendence가 주어입니다. to는 전치사이고 witnessing은 동명사 보어예요.",
+      "audio": "audio/1962-06/16.mp3"
+    },
+    {
+      "id": 17,
+      "english": "One has to be a witness, an observer of the mind.",
+      "korean": "마음을 지켜보는 이, 마음의 관찰자가 되어야 합니다.",
+      "explanation": "one은 일반적인 사람을 가리킵니다. 뒤의 an observer가 witness의 의미를 다시 풀어줘요.",
+      "grammar": "has to + 동사원형 be는 필요를 나타냅니다. a witness와 an observer of the mind는 같은 대상을 설명하는 동격 명사구예요.",
+      "audio": "audio/1962-06/17.mp3"
+    },
+    {
+      "id": 18,
+      "english": "One has to watch it, just watch it.",
+      "korean": "마음을 지켜보아야 합니다. 그저 지켜보는 것입니다.",
+      "explanation": "it은 앞의 mind를 가리킵니다. 같은 말을 반복해 개입하기보다 바라보는 태도를 강조해요.",
+      "grammar": "has to watch it 뒤에 just watch it이라는 명령형이 이어집니다. 원문은 쉼표로 연결하며, watch는 목적어 it을 취해요.",
+      "audio": "audio/1962-06/18.mp3"
+    },
+    {
+      "id": 19,
+      "english": "The moment the witness state dawns, that very moment one becomes free of thoughts.",
+      "korean": "지켜보는 상태가 밝아오는 순간, 바로 그 순간 생각에서 자유로워집니다.",
+      "explanation": "관찰자의 상태가 생기는 순간을 새벽이 밝는 모습에 비유합니다. that very moment를 반복해 즉각성을 강조해요.",
+      "grammar": "The moment + 절은 시간절 역할을 합니다. dawns는 ‘나타나기 시작하다’, that very moment는 주절 앞의 시간 부사구예요.",
+      "audio": "audio/1962-06/19.mp3"
+    },
+    {
+      "id": 20,
+      "english": "This in turn opens the door to bliss",
+      "korean": "이것은 다시 지복으로 향하는 문을 열고,",
+      "explanation": "this는 앞의 지켜보는 상태와 생각에서 벗어나는 경험입니다. in turn은 그 결과로 다음 변화가 이어짐을 나타내요.",
+      "grammar": "This가 주어, opens가 동사입니다. in turn은 삽입된 부사구이며, open the door to + 명사는 가능성을 여는 비유예요.",
+      "audio": "audio/1962-06/20.mp3"
+    },
+    {
+      "id": 21,
+      "english": "and then this very world changes into a new world altogether.",
+      "korean": "그러면 바로 이 세계가 완전히 새로운 세계로 달라집니다.",
+      "explanation": "다른 세계로 이동하기보다 지금의 세계를 새롭게 경험한다는 문맥입니다. very는 바로 이 세계라는 점을 강조해요.",
+      "grammar": "this very world에서 very는 ‘바로 그’라는 강조 표현입니다. change into는 ‘~로 바뀌다’, altogether는 ‘완전히’라는 부사예요.",
+      "audio": "audio/1962-06/21.mp3"
+    },
+    {
+      "id": 22,
+      "english": "Keep meditating.",
+      "korean": "명상을 계속하십시오.",
+      "explanation": "과정을 꾸준히 이어가도록 간단히 격려합니다. 뒤에서는 결과를 재촉하지 말라고 덧붙여요.",
+      "grammar": "동사원형 Keep으로 시작하는 명령문입니다. keep + -ing는 어떤 행동을 계속한다는 뜻이에요.",
+      "audio": "audio/1962-06/22.mp3"
+    },
+    {
+      "id": 23,
+      "english": "Results will come slowly.",
+      "korean": "결과는 서서히 찾아올 것입니다.",
+      "explanation": "변화가 즉시 뚜렷하게 드러나지 않을 수도 있음을 말합니다. slowly로 점진적인 과정을 표현해요.",
+      "grammar": "복수 명사 Results가 주어입니다. will + 동사원형 come은 미래를, slowly는 변화가 나타나는 속도를 나타내요.",
+      "audio": "audio/1962-06/23.mp3"
+    },
+    {
+      "id": 24,
+      "english": "You are not to worry about that,",
+      "korean": "그 점을 걱정하지 마십시오.",
+      "explanation": "that은 결과가 천천히 오는 상황을 가리킵니다. 저자가 상대를 안심시키며 전하는 말이에요.",
+      "grammar": "be not to + 동사원형은 지시·당부를 나타내는 구조입니다. worry about + 대상: ‘~을 걱정하다’.",
+      "audio": "audio/1962-06/24.mp3"
+    },
+    {
+      "id": 25,
+      "english": "their coming is certain.",
+      "korean": "결과가 찾아오리라는 점은 분명합니다.",
+      "explanation": "their는 results를 가리킵니다. 결과를 재촉하기보다 이어가라는 저자의 확신을 전해요.",
+      "grammar": "their coming은 소유격 their를 의미상 주어로 갖는 동명사구이며 문장의 주어입니다. certain은 확실함을 나타내는 형용사 보어예요.",
+      "audio": "audio/1962-06/25.mp3"
+    },
+    {
+      "id": 26,
+      "english": "My kind regards to all.",
+      "korean": "모든 분께 따뜻한 안부를 전합니다.",
+      "explanation": "함께 있는 이들에게도 인사를 전하며 편지를 끝맺습니다.",
+      "grammar": "My kind regards to + 대상은 편지의 맺음 인사입니다. regards는 이 용법에서 보통 복수형으로 사용해요.",
+      "audio": "audio/1962-06/26.mp3"
+    }
+  ],
+  "translations": [
+    "당신에게 경의를 전합니다. 나는 자리를 비우고 있었지만, 당신의 편지는 이곳까지 나를 따라왔습니다. 그 편지를 받게 되어 기쁩니다.",
+    "나는 삶을 지복으로 가득한 것으로 봅니다. 보통 우리는 이것을 볼 눈이 없어 그 행복을 누리지 못하지만, 이런 보는 능력은 길러질 수 있습니다. 어쩌면 그것을 새로 만들 수 있다고 말하는 것은 정확하지 않을지도 모릅니다. 그것은 이미 그곳에 있고, 그저 눈을 뜨는 일일 뿐이며, 그러면 모든 것이 달라집니다.",
+    "명상은 이것을 이루어 줍니다.",
+    "명상이란 평화, 비어 있음을 뜻합니다. 이 비어 있음은 이미 있지만 생각의 흐름에 가려져 있습니다. 생각이 잦아들면 그 비어 있음이 드러납니다. 생각에서 자유로워지는 일은 어려워 보이지만, 그것은 아주 단순합니다. 마음은 몹시 가라앉지 못하는 것 같지만 쉽게 고요해질 수 있습니다. 이러한 넘어섬의 열쇠는 지켜보는 것입니다. 마음을 지켜보는 이, 마음의 관찰자가 되어야 합니다.",
+    "마음을 지켜보아야 합니다. 그저 지켜보는 것입니다. 지켜보는 상태가 밝아오는 순간, 바로 그 순간 생각에서 자유로워집니다. 이것은 다시 지복으로 향하는 문을 열고, 그러면 바로 이 세계가 완전히 새로운 세계로 달라집니다.",
+    "명상을 계속하십시오. 결과는 서서히 찾아올 것입니다. 그 점을 걱정하지 마십시오. 결과가 찾아오리라는 점은 분명합니다.",
+    "모든 분께 따뜻한 안부를 전합니다."
+  ],
+  "fullAudio": "audio/1962-06/script_all.mp3",
+  "source": {
+    "type": "user-provided scan",
+    "fileName": "스캔 문서, 2026. 10. 24. 오전 9.45.31.pdf",
+    "pdfPages": [
+      2,
+      3
+    ]
+  }
+}

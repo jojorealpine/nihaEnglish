@@ -1,0 +1,383 @@
+{
+  "id": "1962-03",
+  "title": "1962 / 3",
+  "lesson": "I do not want to write anything in the manner of philosophy, my outlook is scientific.",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "respects",
+      "meaning": "경의, 존경의 인사",
+      "note": "My respects to you: 상대에게 정중하게 경의를 전하는 인사"
+    },
+    {
+      "word": "extremely",
+      "meaning": "매우, 대단히",
+      "note": "pleased 같은 형용사의 정도를 강조하는 부사"
+    },
+    {
+      "word": "meditation center",
+      "meaning": "명상 센터",
+      "note": "명상 활동과 실험이 이루어지는 장소"
+    },
+    {
+      "word": "experiment",
+      "meaning": "실험하다, 실험",
+      "note": "experiment on oneself: 자기 자신을 대상으로 실험하다"
+    },
+    {
+      "word": "definite",
+      "meaning": "분명한, 확실한",
+      "note": "definite results: 분명하게 확인된 결과"
+    },
+    {
+      "word": "usefulness",
+      "meaning": "유용성, 쓸모",
+      "note": "usefulness to others: 다른 사람들에게 얼마나 도움이 되는지"
+    },
+    {
+      "word": "outlook",
+      "meaning": "관점, 사고방식",
+      "note": "본문에서는 어떤 방식으로 문제에 접근하는지를 뜻함"
+    },
+    {
+      "word": "psychological",
+      "meaning": "심리학적인",
+      "note": "생각·감정 등 마음의 작용을 다루는"
+    },
+    {
+      "word": "parapsychological",
+      "meaning": "초심리학적인",
+      "note": "통상적인 심리학의 범위를 벗어나는 현상을 다루는 연구를 가리키는 표현"
+    },
+    {
+      "word": "illusory",
+      "meaning": "착각에 근거한, 실체가 없는",
+      "note": "illusory notions: 잘못된 믿음이나 착각에 근거한 생각"
+    },
+    {
+      "word": "refute",
+      "meaning": "반박하다",
+      "note": "생각이나 주장이 잘못되었다고 논증하다"
+    },
+    {
+      "word": "cause",
+      "meaning": "대의, 추구하는 목적",
+      "note": "여기서는 원인이 아니라 어떤 집단이 내세우는 목적"
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "be pleased to + 동사원형",
+      "meaning": "~해서 기쁘다",
+      "grammar": "be + 형용사 + to부정사",
+      "title": "be pleased to + 동사원형",
+      "detailMeaning": "~해서 기쁘다",
+      "original": "I was extremely pleased to get your letter.",
+      "explanation": "`pleased`는 기쁜 감정을 나타내는 형용사예요. 뒤에 `to + 동사원형`을 붙여 기쁜 이유를 말해요.",
+      "examples": [
+        {
+          "english": "I was pleased to hear from you.",
+          "korean": "네 소식을 듣게 되어 기뻤어."
+        },
+        {
+          "english": "We are pleased to welcome you.",
+          "korean": "당신을 맞이하게 되어 기쁩니다."
+        }
+      ]
+    },
+    {
+      "expression": "so far + 현재완료",
+      "meaning": "지금까지 ~했다 / ~하지 않았다",
+      "grammar": "so far + have / has + 과거분사",
+      "title": "so far + 현재완료",
+      "detailMeaning": "지금까지 ~했다 / ~하지 않았다",
+      "original": "So far I have not written anything",
+      "explanation": "`so far`는 과거부터 지금까지의 범위를 나타내요. 아직 하지 않은 일은 현재완료 부정문으로 말할 수 있어요.",
+      "examples": [
+        {
+          "english": "So far, I have learned a lot.",
+          "korean": "지금까지 많은 것을 배웠어."
+        },
+        {
+          "english": "I haven't made any plans so far.",
+          "korean": "아직 아무 계획도 세우지 않았어."
+        }
+      ]
+    },
+    {
+      "expression": "there is every possibility of -ing",
+      "meaning": "~할 가능성이 충분히 있다",
+      "grammar": "there is + 명사 + of + 동명사",
+      "title": "there is every possibility of -ing",
+      "detailMeaning": "~할 가능성이 충분히 있다",
+      "original": "there is every possibility of my writing something.",
+      "explanation": "`of` 뒤에는 동명사가 와요. `my writing`의 `my`는 그 행동의 주체가 나라는 뜻이며, 여기서 writing은 ‘글을 쓰는 것’이에요.",
+      "examples": [
+        {
+          "english": "There is every possibility of finding a better way.",
+          "korean": "더 나은 방법을 찾을 가능성은 충분해."
+        },
+        {
+          "english": "There is every possibility of her joining us.",
+          "korean": "그녀가 우리와 함께할 가능성이 충분히 있어."
+        }
+      ]
+    },
+    {
+      "expression": "be sure and certain about",
+      "meaning": "~에 대해 확신하다",
+      "grammar": "be + 형용사 + about + 명사",
+      "title": "be sure and certain about",
+      "detailMeaning": "~에 대해 확신하다",
+      "original": "About my experiments on myself, I am sure and certain,",
+      "explanation": "`sure`와 `certain`은 비슷한 뜻이에요. 함께 써서 확신을 강조하고, 본문은 `about` 구를 앞에 두어 주제를 먼저 제시해요.",
+      "examples": [
+        {
+          "english": "I am sure about my decision.",
+          "korean": "나는 내 결정을 확신해."
+        },
+        {
+          "english": "She is certain about what she wants.",
+          "korean": "그녀는 자신이 원하는 것이 무엇인지 확신해."
+        }
+      ]
+    },
+    {
+      "expression": "in the manner of",
+      "meaning": "~의 방식으로",
+      "grammar": "in + 명사구 + of",
+      "title": "in the manner of",
+      "detailMeaning": "~의 방식으로",
+      "original": "I do not want to write anything in the manner of philosophy,",
+      "explanation": "어떤 방식이나 문체를 따르는지를 나타내는 다소 격식 있는 표현이에요. 본문에서는 추상적인 철학의 방식으로 글을 쓰고 싶지 않다는 뜻이에요.",
+      "examples": [
+        {
+          "english": "He spoke in the manner of a teacher.",
+          "korean": "그는 선생님 같은 방식으로 말했어."
+        },
+        {
+          "english": "She painted in the manner of the old masters.",
+          "korean": "그녀는 옛 거장들의 방식으로 그림을 그렸어."
+        }
+      ]
+    },
+    {
+      "expression": "be based on",
+      "meaning": "~에 근거하다",
+      "grammar": "be + 과거분사 + on",
+      "title": "be based on",
+      "detailMeaning": "~에 근거하다",
+      "original": "based on certain psychological and parapsychological experiments.",
+      "explanation": "`based on`은 근거를 말해요. 본문에서는 앞의 말하고자 하는 내용이 어떤 실험을 바탕으로 하는지 덧붙여요.",
+      "examples": [
+        {
+          "english": "This explanation is based on observation.",
+          "korean": "이 설명은 관찰에 근거해."
+        },
+        {
+          "english": "Our discussion was based on personal experience.",
+          "korean": "우리의 대화는 개인적인 경험을 바탕으로 했어."
+        }
+      ]
+    },
+    {
+      "expression": "have to be + 과거분사",
+      "meaning": "~되어야 한다",
+      "grammar": "have to + 수동태 부정사",
+      "title": "have to be + 과거분사",
+      "detailMeaning": "~되어야 한다",
+      "original": "and these have to be refuted.",
+      "explanation": "`have to`는 필요를, `be + 과거분사`는 수동을 나타내요. `these`는 앞의 잘못된 생각들을 가리켜요.",
+      "examples": [
+        {
+          "english": "These questions have to be answered.",
+          "korean": "이 질문들은 답변되어야 해."
+        },
+        {
+          "english": "The results have to be checked carefully.",
+          "korean": "결과를 주의 깊게 확인해야 해."
+        }
+      ]
+    },
+    {
+      "expression": "it is clear to someone that",
+      "meaning": "~에게 …은 분명하다",
+      "grammar": "가주어 it + 형용사 + that절",
+      "title": "it is clear to someone that",
+      "detailMeaning": "~에게 …은 분명하다",
+      "original": "It is clear to me that this work is not for promoting any group or cause.",
+      "explanation": "`it`은 뒤의 `that`절을 대신하는 가주어예요. `to me`는 누가 그렇게 판단하는지 보여줘요.",
+      "examples": [
+        {
+          "english": "It is clear to me that we need more time.",
+          "korean": "우리에게 시간이 더 필요하다는 건 내게 분명해."
+        },
+        {
+          "english": "It became clear to her that something had changed.",
+          "korean": "무언가 달라졌다는 사실이 그녀에게 분명해졌어."
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    [
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "My respects to you.",
+      "korean": "당신에게 경의를 전합니다.",
+      "explanation": "받는 이를 정중하게 대하는 편지의 첫인사입니다. respects는 여기서 존경의 뜻을 전하는 복수형 명사예요.",
+      "grammar": "주어와 동사가 생략된 인사 표현입니다. My respects to + 사람: ‘~에게 경의를 전합니다’.",
+      "audio": "audio/1962-03/01.mp3"
+    },
+    {
+      "id": 2,
+      "english": "I was extremely pleased to get your letter.",
+      "korean": "당신의 편지를 받고 대단히 기뻤습니다.",
+      "explanation": "편지를 받은 당시의 기쁨을 과거형으로 표현합니다. get은 이 문맥에서 편지를 받는다는 뜻이에요.",
+      "grammar": "was + 형용사 pleased는 과거의 상태입니다. to get your letter는 기쁜 이유를 설명하는 to부정사예요.",
+      "audio": "audio/1962-03/02.mp3"
+    },
+    {
+      "id": 3,
+      "english": "So far I have not written anything",
+      "korean": "지금까지 나는 아무것도 글로 쓰지 않았습니다만,",
+      "explanation": "지금까지 아직 글을 내놓지 않았다는 사실을 말합니다. 다음 구절의 but과 이어지는 문장이에요.",
+      "grammar": "so far는 ‘지금까지’. have not + 과거분사는 현재완료 부정형이며, 부정문에서 anything을 사용해요.",
+      "audio": "audio/1962-03/03.mp3"
+    },
+    {
+      "id": 4,
+      "english": "but a meditation center has started here where some friends are experimenting.",
+      "korean": "이곳에 명상 센터가 시작되어 몇몇 친구들이 실험을 하고 있습니다.",
+      "explanation": "글을 쓰는 대신 이곳에서 실험을 진행하고 있다는 상황을 소개합니다. where는 명상 센터를 설명해요.",
+      "grammar": "has started는 시작되어 지금 운영되는 상황을 나타내는 현재완료입니다. where + 주어 + 동사는 앞의 장소를 설명하는 관계부사절이에요.",
+      "audio": "audio/1962-03/04.mp3"
+    },
+    {
+      "id": 5,
+      "english": "When I have some definite results there is every possibility of my writing something.",
+      "korean": "분명한 결과를 얻으면 무언가 글을 쓸 가능성은 충분히 있습니다.",
+      "explanation": "먼저 결과를 확인한 다음 글로 전하겠다는 생각입니다. 확정적인 출판 약속이라기보다 가능성을 표현해요.",
+      "grammar": "미래의 때를 나타내는 when절에는 현재형 have를 씁니다. of my writing에서 writing은 동명사, my는 그 행동의 의미상 주어예요.",
+      "audio": "audio/1962-03/05.mp3"
+    },
+    {
+      "id": 6,
+      "english": "About my experiments on myself, I am sure and certain,",
+      "korean": "나 자신을 대상으로 한 실험에 대해서는 확신하고 있습니다.",
+      "explanation": "스스로 경험한 결과에 대한 확신을 밝힙니다. About 구를 앞에 두어 말의 주제를 먼저 제시해요.",
+      "grammar": "About + 명사구가 문장 앞에 놓였습니다. on myself는 experiments를 설명하며, sure and certain은 병렬 형용사예요.",
+      "audio": "audio/1962-03/06.mp3"
+    },
+    {
+      "id": 7,
+      "english": "but I want to test their usefulness to others.",
+      "korean": "하지만 그것이 다른 사람들에게도 얼마나 유용한지 시험해 보고 싶습니다.",
+      "explanation": "자신에게 효과가 있었다는 경험과 다른 사람에게 도움이 되는지는 구분해 확인하려는 뜻입니다. their는 앞의 실험들을 가리켜요.",
+      "grammar": "want to + 동사원형: ‘~하고 싶다’. usefulness to others는 ‘다른 사람들에게의 유용성’이라는 명사구예요.",
+      "audio": "audio/1962-03/07.mp3"
+    },
+    {
+      "id": 8,
+      "english": "I do not want to write anything in the manner of philosophy,",
+      "korean": "나는 철학의 방식으로 어떤 글을 쓰고 싶지는 않습니다.",
+      "explanation": "이 편지에서는 추상적인 사유만으로 글을 쓰기보다 실험을 토대로 이야기하겠다는 입장을 전합니다.",
+      "grammar": "do not want to + 동사원형은 바람의 부정입니다. in the manner of + 명사: ‘~의 방식으로’.",
+      "audio": "audio/1962-03/08.mp3"
+    },
+    {
+      "id": 9,
+      "english": "my outlook is scientific.",
+      "korean": "나의 관점은 과학적입니다.",
+      "explanation": "저자가 자신의 접근 방식을 설명하는 문장입니다. 앞의 철학적 방식과 대비되는 자기 입장으로 읽을 수 있어요.",
+      "grammar": "my outlook이 주어, is가 연결동사, scientific이 주어의 성격을 설명하는 형용사 보어입니다.",
+      "audio": "audio/1962-03/09.mp3"
+    },
+    {
+      "id": 10,
+      "english": "I want to say something about yoga based on certain psychological and parapsychological experiments.",
+      "korean": "나는 몇몇 심리학적·초심리학적 실험을 토대로 요가에 관해 이야기하고 싶습니다.",
+      "explanation": "무엇을 근거로 요가를 설명하려는지 말합니다. psychological과 parapsychological은 모두 experiments를 꾸며요.",
+      "grammar": "want to say 뒤에 목적어 something과 about yoga가 옵니다. based on은 ‘~에 근거하여’라는 분사구이며, 두 형용사가 and로 연결됐어요.",
+      "audio": "audio/1962-03/10.mp3"
+    },
+    {
+      "id": 11,
+      "english": "There are many illusory notions held about it",
+      "korean": "요가에 관해 사람들이 품고 있는 착각에 근거한 생각이 많고,",
+      "explanation": "it은 앞의 yoga를 가리킵니다. 저자는 그에 관한 여러 통념을 잘못된 생각으로 보고 있어요.",
+      "grammar": "There are + 복수 명사구. held about it은 notions를 뒤에서 꾸미는 과거분사구로, ‘그것에 관해 품고 있는’이라는 수동 의미예요.",
+      "audio": "audio/1962-03/11.mp3"
+    },
+    {
+      "id": 12,
+      "english": "and these have to be refuted.",
+      "korean": "그런 생각들은 반박되어야 합니다.",
+      "explanation": "these는 앞의 illusory notions를 가리키며, 저자는 실험을 통해 이를 검토하려고 말합니다.",
+      "grammar": "have to는 필요를, be refuted는 수동태를 나타냅니다. refute는 ‘반박하다’이며 these는 복수 지시대명사예요.",
+      "audio": "audio/1962-03/12.mp3"
+    },
+    {
+      "id": 13,
+      "english": "Therefore I am experimenting here also.",
+      "korean": "그래서 나는 이곳에서도 실험을 하고 있습니다.",
+      "explanation": "앞에서 밝힌 생각을 바탕으로 현재 진행하는 활동을 설명합니다. also는 이곳에서도 같은 시도를 한다는 뜻을 더해요.",
+      "grammar": "Therefore는 앞 내용에서 결과를 이끄는 연결 부사입니다. am experimenting은 현재진행형, here와 also는 부사예요.",
+      "audio": "audio/1962-03/13.mp3"
+    },
+    {
+      "id": 14,
+      "english": "It is clear to me that this work is not for promoting any group or cause.",
+      "korean": "이 일이 어떤 집단이나 대의를 선전하기 위한 것이 아니라는 점은 나에게 분명합니다.",
+      "explanation": "개인의 탐구와 실험이 특정 집단의 이해나 주장을 널리 알리려는 목적은 아니라고 설명합니다. cause는 여기서 ‘대의, 추구하는 목적’이에요.",
+      "grammar": "It은 가주어이고 that절이 실제 내용입니다. for 뒤의 promoting은 동명사이며, any group or cause가 목적어예요.",
+      "audio": "audio/1962-03/14.mp3"
+    },
+    {
+      "id": 15,
+      "english": "If you ever come here we can talk more about all this.",
+      "korean": "언제라도 이곳에 오시면 이 모든 것에 대해 더 이야기할 수 있겠습니다.",
+      "explanation": "방문할 기회가 생기면 직접 자세히 이야기하자는 초대와 여지를 남기며 편지를 맺습니다.",
+      "grammar": "If + 현재형 come으로 가능한 조건을 제시합니다. ever는 ‘언제라도’, can talk는 그때 가능한 행동을 나타내요.",
+      "audio": "audio/1962-03/15.mp3"
+    }
+  ],
+  "translations": [
+    "당신에게 경의를 전합니다. 당신의 편지를 받고 대단히 기뻤습니다. 지금까지 나는 아무것도 글로 쓰지 않았습니다만, 이곳에 명상 센터가 시작되어 몇몇 친구들이 실험을 하고 있습니다. 분명한 결과를 얻으면 무언가 글을 쓸 가능성은 충분히 있습니다.",
+    "나 자신을 대상으로 한 실험에 대해서는 확신하고 있습니다. 하지만 그것이 다른 사람들에게도 얼마나 유용한지 시험해 보고 싶습니다. 나는 철학의 방식으로 어떤 글을 쓰고 싶지는 않습니다. 나의 관점은 과학적입니다. 나는 몇몇 심리학적·초심리학적 실험을 토대로 요가에 관해 이야기하고 싶습니다. 요가에 관해 사람들이 품고 있는 착각에 근거한 생각이 많고, 그런 생각들은 반박되어야 합니다. 그래서 나는 이곳에서도 실험을 하고 있습니다.",
+    "이 일이 어떤 집단이나 대의를 선전하기 위한 것이 아니라는 점은 나에게 분명합니다.",
+    "언제라도 이곳에 오시면 이 모든 것에 대해 더 이야기할 수 있겠습니다."
+  ],
+  "fullAudio": "audio/1962-03/script_all.mp3",
+  "source": {
+    "type": "user-provided scan",
+    "fileName": "스캔 문서, 2026. 10. 24. 오전 9.45.31.pdf",
+    "pdfPages": [
+      1
+    ]
+  }
+}
