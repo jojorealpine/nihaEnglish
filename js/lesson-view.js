@@ -6,12 +6,13 @@ const escapeHTML = value => String(value).replace(/[&<>"']/g, char => ({
 })[char]);
 
 // 단어, 본문, 해설, 번역을 표시합니다. 재생은 audio-player.js에서 담당합니다.
-export function createLessonView({ onPlaySentence, onStop }) {
+export function createLessonView({ onPlaySentence, onPlayChunk, onStop }) {
   let lesson = null;
+  const readingTabs = Array.from($('reading-tabs').querySelectorAll('[role="tab"]'));
   const studyTabs = Array.from($('study-tabs').querySelectorAll('[role="tab"]'));
 
-  function selectStudyTab(selectedTab) {
-    studyTabs.forEach(tab => {
+  function selectStudyTab(selectedTab, tabs = studyTabs) {
+    tabs.forEach(tab => {
       const selected = tab === selectedTab;
       tab.setAttribute('aria-selected', String(selected));
       tab.tabIndex = selected ? 0 : -1;
@@ -19,22 +20,22 @@ export function createLessonView({ onPlaySentence, onStop }) {
     });
   }
 
-  studyTabs.forEach((tab, index) => {
-    tab.onclick = () => selectStudyTab(tab);
+  [studyTabs, readingTabs].forEach(tabs => tabs.forEach((tab, index) => {
+    tab.onclick = () => selectStudyTab(tab, tabs);
     tab.onkeydown = event => {
       let next;
       switch (event.key) {
-        case 'ArrowRight': next = (index + 1) % studyTabs.length; break;
-        case 'ArrowLeft': next = (index - 1 + studyTabs.length) % studyTabs.length; break;
+        case 'ArrowRight': next = (index + 1) % tabs.length; break;
+        case 'ArrowLeft': next = (index - 1 + tabs.length) % tabs.length; break;
         case 'Home': next = 0; break;
-        case 'End': next = studyTabs.length - 1; break;
+        case 'End': next = tabs.length - 1; break;
         default: return;
       }
       event.preventDefault();
-      selectStudyTab(studyTabs[next]);
-      studyTabs[next].focus();
+      selectStudyTab(tabs[next], tabs);
+      tabs[next].focus();
     };
-  });
+  }));
 
   function selectSentence(index) {
     const sentence = lesson?.sentences[index];
@@ -72,6 +73,30 @@ export function createLessonView({ onPlaySentence, onStop }) {
       ? renderExpressions(expressions)
       : '<p class="collection-empty">아직 등록된 표현이 없습니다.</p>';
     selectStudyTab(studyTabs[0]);
+    selectStudyTab(readingTabs[0], readingTabs);
+    $('chunk-reading').innerHTML = lesson.paragraphs.map(indices => `
+      <div class="paragraph">${indices.map(index => {
+        const sentence = lesson.sentences[index];
+        const chunks = sentence.chunks || [sentence.english];
+        return `<div class="chunk-sentence">
+          <div lang="en">${chunks.map((chunk, chunkIndex) => `
+            <button type="button" class="chunk-phrase" data-index="${index}" data-chunk="${chunkIndex}" aria-label="구절 듣기: ${escapeHTML(chunk)}">${escapeHTML(chunk)}</button>`
+          ).join('<span class="chunk-divider"> / </span>')}</div>
+          <p class="chunk-translation" lang="ko">${escapeHTML(sentence.korean)}</p>
+        </div>`;
+      }).join('')}</div>`).join('');
+    $('test-reading').innerHTML = lesson.paragraphs.map(indices => `
+      <div class="paragraph">${indices.map(index => {
+        const sentence = lesson.sentences[index];
+        const words = sentence.english.trim().split(/\s+/);
+        const masked = words.map((word, position) => position === 0
+          ? word
+          : word.replace(/[\p{L}\p{N}]/gu, '_')).join(' ');
+        return `<div class="test-sentence-row">
+          <div class="test-english" lang="en">${escapeHTML(masked)}</div>
+          <div class="test-korean" lang="ko">${escapeHTML(sentence.korean)}</div>
+        </div>`;
+      }).join('')}</div>`).join('');
     $('reading').innerHTML = lesson.paragraphs.map(indices => `
       <div class="paragraph">${indices.map(index => `
         <span class="sentence" role="button" tabindex="0" data-index="${index}"
@@ -86,6 +111,11 @@ export function createLessonView({ onPlaySentence, onStop }) {
   $('reading').onclick = event => {
     const element = event.target.closest('.sentence');
     if (element) onPlaySentence(Number(element.dataset.index));
+  };
+
+  $('chunk-reading').onclick = event => {
+    const button = event.target.closest('.chunk-phrase');
+    if (button) onPlayChunk(Number(button.dataset.index), Number(button.dataset.chunk));
   };
   $('reading').onkeydown = event => {
     const element = event.target.closest('.sentence');

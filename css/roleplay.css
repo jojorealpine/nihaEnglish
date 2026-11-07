@@ -580,3 +580,44 @@ summary:focus-visible {
     flex-wrap: wrap;
   }
 }
+.extra-expressions-wrap {
+  overflow-x: auto;
+}
+
+.extra-expressions {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.extra-expressions caption {
+  text-align: left;
+  font-weight: 600;
+  padding: 12px 0;
+}
+
+.extra-expressions th,
+.extra-expressions td {
+  padding: 14px 10px;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+
+.extra-expressions td p {
+  margin: 0 0 8px;
+}
+button.script-sentence {
+  display: inline;
+  padding: 4px 6px;
+  font: inherit;
+  color: inherit;
+  background: transparent;
+  border: 0;
+  text-align: left;
+  border-radius: 5px;
+}
+
+button.script-sentence:not(:disabled):hover,
+button.script-sentence:focus-visible {
+  background: #dceadf;
+}

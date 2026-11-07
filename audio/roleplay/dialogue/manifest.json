@@ -1,0 +1,1556 @@
+{
+  "provider": "Artlist",
+  "files": [
+    {
+      "text": "Hey! Is this your first time here?",
+      "path": "audio/roleplay/dialogue/hope/cdec13ac82c6021d.mp3",
+      "generationId": "01a1b69f-32b1-7b51-bc13-6a14ecd3991b",
+      "duration": 2.3248979591836734,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Nice to meet you too! How long are you staying?",
+      "path": "audio/roleplay/dialogue/hope/920ab0bc3525393b.mp3",
+      "generationId": "01a1b69f-40aa-7f24-97d1-5f535a6a4571",
+      "duration": 2.5338775510204083,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "I've been here for two weeks. Where are you from?",
+      "path": "audio/roleplay/dialogue/hope/9af23e21c60f17e3.mp3",
+      "generationId": "01a1b69f-3a35-78fd-8cc8-b9aa185182a1",
+      "duration": 2.455510204081633,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Hi! How's your day going?",
+      "path": "audio/roleplay/dialogue/hope/72dc200619e3eac5.mp3",
+      "generationId": "01a1b69f-71c2-77e1-a950-c59c3e2e19cb",
+      "duration": 1.436734693877551,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Pretty good. Do you want to grab some tea?",
+      "path": "audio/roleplay/dialogue/hope/1f2640969412ca54.mp3",
+      "generationId": "01a1b69f-78a8-7bdc-8328-423747e11a34",
+      "duration": 2.507755102040816,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Great! Shall we meet after the session?",
+      "path": "audio/roleplay/dialogue/hope/05bd59095e839691.mp3",
+      "generationId": "01a1b69f-8216-79fd-8468-bd7a848b7abf",
+      "duration": 2.5861224489795918,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Did you enjoy the session?",
+      "path": "audio/roleplay/dialogue/hope/fcc0201cd97d67d6.mp3",
+      "generationId": "01a1b69f-b0ce-71ce-85eb-c3e3200e6267",
+      "duration": 1.3322448979591837,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Me too! Are you joining the next session?",
+      "path": "audio/roleplay/dialogue/hope/7ba67c0fdef887b6.mp3",
+      "generationId": "01a1b69f-b92a-7bc6-8108-1065fa3afb58",
+      "duration": 2.27265306122449,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Nice! See you there.",
+      "path": "audio/roleplay/dialogue/hope/26002180ecd42d50.mp3",
+      "generationId": "01a1b69f-bf81-7d84-a759-f915b9080aab",
+      "duration": 1.6718367346938776,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Hi, I'm Maya. What's your name?",
+      "path": "audio/roleplay/dialogue/hope/7da7f796db99c3f0.mp3",
+      "generationId": "01a1b69f-f102-7ca2-ac3a-394389a95a28",
+      "duration": 1.6979591836734693,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Where are you from? What do you do?",
+      "path": "audio/roleplay/dialogue/hope/d2ae884fad73798a.mp3",
+      "generationId": "01a1b69f-fb0d-7ca1-aaa3-affe4d0f207c",
+      "duration": 2.27265306122449,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "What brought you here?",
+      "path": "audio/roleplay/dialogue/hope/3acb7f2e114173cb.mp3",
+      "generationId": "01a1b69f-fea1-76ed-8770-896d079d782b",
+      "duration": 1.253877551020408,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "I see. Are you enjoying it so far?",
+      "path": "audio/roleplay/dialogue/hope/76c2bf606b3ed454.mp3",
+      "generationId": "01a1b6a0-2fc6-781e-aa87-1b03387cb2cb",
+      "duration": 2.27265306122449,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "What would you like to get out of your time here?",
+      "path": "audio/roleplay/dialogue/hope/8fc3c07770113f1c.mp3",
+      "generationId": "01a1b6a0-3759-7c23-8143-e838a560d49f",
+      "duration": 2.0375510204081633,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Have you been practicing meditation for a long time?",
+      "path": "audio/roleplay/dialogue/hope/6bd8c9ccf60e570c.mp3",
+      "generationId": "01a1b6a0-3e62-7782-81d4-c0f2b4cceb25",
+      "duration": 2.8212244897959184,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "What made you want to try it?",
+      "path": "audio/roleplay/dialogue/hope/985be6fb99043689.mp3",
+      "generationId": "01a1b6a0-6f63-7c5d-88c0-a37623858b0c",
+      "duration": 1.5151020408163265,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Is it your first time in Pune too?",
+      "path": "audio/roleplay/dialogue/hope/9caa7ec999ae5961.mp3",
+      "generationId": "01a1b6a0-7790-7029-ac6a-f4489f071726",
+      "duration": 1.6718367346938776,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Good morning! How are you feeling today?",
+      "path": "audio/roleplay/dialogue/hope/8f767b000cdf4bac.mp3",
+      "generationId": "01a1b6a0-7d09-7694-b4e4-59cba4c7a762",
+      "duration": 2.1681632653061222,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "What would you like to do now?",
+      "path": "audio/roleplay/dialogue/hope/ee595fdfdc34f820.mp3",
+      "generationId": "01a1b6a0-b901-7968-83e0-ebed972659f9",
+      "duration": 1.3844897959183673,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Would you like to tell me a little more?",
+      "path": "audio/roleplay/dialogue/hope/0a10996213c72127.mp3",
+      "generationId": "01a1b6a0-bd48-75d7-b774-d22d0adb9017",
+      "duration": 1.750204081632653,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "How was the meditation for you?",
+      "path": "audio/roleplay/dialogue/hope/76000cd0a15f721a.mp3",
+      "generationId": "01a1b6a0-ded5-7320-a558-697805f85780",
+      "duration": 1.750204081632653,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "What did you feel?",
+      "path": "audio/roleplay/dialogue/hope/89780bd9443a462b.mp3",
+      "generationId": "01a1b6a1-06b4-751e-9d5f-3ef9bd91b2c8",
+      "duration": 1.1493877551020408,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "How do you feel now?",
+      "path": "audio/roleplay/dialogue/hope/618c72fa804dd129.mp3",
+      "generationId": "01a1b6a1-2fa7-763b-95e1-8fd19791c5a4",
+      "duration": 1.3322448979591837,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "How did you feel while dancing?",
+      "path": "audio/roleplay/dialogue/hope/ae3ec2dafadc1f39.mp3",
+      "generationId": "01a1b6a1-3300-7bf4-8ab1-9d480d940209",
+      "duration": 1.6979591836734693,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Did you notice anything in your body?",
+      "path": "audio/roleplay/dialogue/hope/88aa9c4560cb6bef.mp3",
+      "generationId": "01a1b6a1-51a4-73b3-b3de-5d9b558355e4",
+      "duration": 1.933061224489796,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "And how do you feel afterward?",
+      "path": "audio/roleplay/dialogue/hope/06fc1740753f9ba4.mp3",
+      "generationId": "01a1b6a1-7355-710b-82a0-1dfcdb2e9427",
+      "duration": 1.619591836734694,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "How was the session?",
+      "path": "audio/roleplay/dialogue/hope/4c24df4d23ebdef5.mp3",
+      "generationId": "01a1b6a1-76b2-70b5-b97f-24ef7dba5404",
+      "duration": 1.28,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Was there anything you realized?",
+      "path": "audio/roleplay/dialogue/hope/bb19479de5a24cb5.mp3",
+      "generationId": "01a1b6a1-9463-7301-9019-a4c16f8cba87",
+      "duration": 1.906938775510204,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "What did you notice?",
+      "path": "audio/roleplay/dialogue/hope/0e43bf08a777dd99.mp3",
+      "generationId": "01a1b6a1-bd28-759a-810e-5e67b19f916f",
+      "duration": 1.28,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Would you like to talk about it?",
+      "path": "audio/roleplay/dialogue/hope/8b913d589e11c578.mp3",
+      "generationId": "01a1b6a1-b8b5-7dce-a895-66f21c108bc5",
+      "duration": 1.5673469387755101,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Did you realize anything?",
+      "path": "audio/roleplay/dialogue/hope/45b1ab5416171967.mp3",
+      "generationId": "01a1b6a1-d82c-70ee-a92d-4a935bbdebec",
+      "duration": 1.436734693877551,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "A lot of emotions came up. I started crying.",
+      "path": "audio/roleplay/dialogue/hope/78c01088f40b96b3.mp3",
+      "generationId": "01a1b6a1-f9de-7e98-b172-291c5663f981",
+      "duration": 2.507755102040816,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "I'm not sure why I felt so sad.",
+      "path": "audio/roleplay/dialogue/hope/787f152300b1a703.mp3",
+      "generationId": "01a1b6a1-fd6d-70c2-8ce5-cb02f9104e36",
+      "duration": 1.933061224489796,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Thank you for listening.",
+      "path": "audio/roleplay/dialogue/hope/7258b4e037805024.mp3",
+      "generationId": "01a1b6a2-1f63-799e-91b3-622c0b8a7bff",
+      "duration": 1.436734693877551,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "I felt a sense of freedom today.",
+      "path": "audio/roleplay/dialogue/hope/8fa76799907fd003.mp3",
+      "generationId": "01a1b6a2-3954-7c7b-af18-75b0b1949aa5",
+      "duration": 1.933061224489796,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "I felt like I could finally let go.",
+      "path": "audio/roleplay/dialogue/hope/debe19bd2bdb9ea8.mp3",
+      "generationId": "01a1b6a2-3e29-7ba4-bef5-4385bf482f04",
+      "duration": 2.1681632653061222,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "It's hard to put into words.",
+      "path": "audio/roleplay/dialogue/hope/2d36a33fb88adb33.mp3",
+      "generationId": "01a1b6a2-6412-7343-a498-69bda82df9f1",
+      "duration": 1.619591836734694,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "I don't know how to explain it.",
+      "path": "audio/roleplay/dialogue/hope/a70bd660bab210e6.mp3",
+      "generationId": "01a1b6a2-7b3f-719b-8e99-5416606e227b",
+      "duration": 1.619591836734694,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "I'm still processing what happened.",
+      "path": "audio/roleplay/dialogue/hope/262d58e636b37487.mp3",
+      "generationId": "01a1b6a2-8036-766f-b9da-99957b9a6626",
+      "duration": 2.0375510204081633,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Maybe we can talk later.",
+      "path": "audio/roleplay/dialogue/hope/72c63c5b9627e468.mp3",
+      "generationId": "01a1b6a2-b387-7158-8931-3e93ff330db1",
+      "duration": 1.3322448979591837,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Hey, do you want to grab some tea?",
+      "path": "audio/roleplay/dialogue/hope/33d1ca44bd077bac.mp3",
+      "generationId": "01a1b6a2-b0bf-738b-be4e-507b193a453d",
+      "duration": 1.906938775510204,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Sure! No problem.",
+      "path": "audio/roleplay/dialogue/hope/f5617c06650fa057.mp3",
+      "generationId": "01a1b6a2-b845-7122-b122-57c44170bda1",
+      "duration": 1.436734693877551,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Maybe another time?",
+      "path": "audio/roleplay/dialogue/hope/04ef511d27341fb6.mp3",
+      "generationId": "01a1b6a2-eb81-7830-92a3-40737c8e5632",
+      "duration": 1.3322448979591837,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Would you like some company?",
+      "path": "audio/roleplay/dialogue/hope/a1257acfd2e12e0b.mp3",
+      "generationId": "01a1b6a2-f1ef-7f4c-8720-d0be3c2b499e",
+      "duration": 1.4889795918367348,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Of course. Are you okay?",
+      "path": "audio/roleplay/dialogue/hope/04930432e735be7b.mp3",
+      "generationId": "01a1b6a2-f79a-7728-82b1-576fe1873bf5",
+      "duration": 1.436734693877551,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "I understand. I'll leave you to it.",
+      "path": "audio/roleplay/dialogue/hope/d208718828b30c98.mp3",
+      "generationId": "01a1b6a3-302a-7247-a591-004fa7c68bde",
+      "duration": 2.3510204081632655,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Are you coming with us?",
+      "path": "audio/roleplay/dialogue/hope/b2afff716927746d.mp3",
+      "generationId": "01a1b6a3-3533-7fba-9262-642019fc0f85",
+      "duration": 1.3844897959183673,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Would you like to join us later?",
+      "path": "audio/roleplay/dialogue/hope/f37a5ae7cb57c58d.mp3",
+      "generationId": "01a1b6a3-363c-7097-9b91-bb02f1ef6165",
+      "duration": 1.6979591836734693,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "All right, take care!",
+      "path": "audio/roleplay/dialogue/hope/2c0c026db6d351cd.mp3",
+      "generationId": "01a1b6a3-696d-7ad9-ac17-52f80a33c4b7",
+      "duration": 1.5151020408163265,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Hey! Do you want to dance together?",
+      "path": "audio/roleplay/dialogue/hope/794e91120138dcd4.mp3",
+      "generationId": "01a1b6a3-6e86-79a7-87fc-30e5075183de",
+      "duration": 2.455510204081633,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Oh, okay! Enjoy!",
+      "path": "audio/roleplay/dialogue/hope/e71b41b3df88d4fa.mp3",
+      "generationId": "01a1b6a3-772b-7fc3-8500-8c8a6dfbc8a0",
+      "duration": 1.3844897959183673,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "See you after the session.",
+      "path": "audio/roleplay/dialogue/hope/80eec0dd1ea2513e.mp3",
+      "generationId": "01a1b6a3-a63a-7aed-8b9a-edde04c56cdf",
+      "duration": 1.436734693877551,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Are you going to join the dancing?",
+      "path": "audio/roleplay/dialogue/hope/95fe49ea2070e472.mp3",
+      "generationId": "01a1b6a3-b060-7e63-86e2-50fcd6b939b1",
+      "duration": 1.8024489795918368,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Come on, it'll be fun!",
+      "path": "audio/roleplay/dialogue/hope/98f7f6467fd7c1a3.mp3",
+      "generationId": "01a1b6a3-b560-784e-b3d8-8e8c5f80adb0",
+      "duration": 1.6979591836734693,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Okay, enjoy your evening!",
+      "path": "audio/roleplay/dialogue/hope/e85200cdbfcc55f6.mp3",
+      "generationId": "01a1b6a3-e59c-721c-9831-132904ce3172",
+      "duration": 1.4889795918367348,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Would you like a dance partner?",
+      "path": "audio/roleplay/dialogue/hope/62a7d8efb385a86e.mp3",
+      "generationId": "01a1b6a3-ecad-71cc-ad89-42930b653353",
+      "duration": 1.6979591836734693,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Maybe just for one song?",
+      "path": "audio/roleplay/dialogue/hope/25190a3cab001de2.mp3",
+      "generationId": "01a1b6a3-f403-75c4-bdc8-74a85a75f16e",
+      "duration": 1.4889795918367348,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "No problem. Enjoy!",
+      "path": "audio/roleplay/dialogue/hope/5b89d81d7f5f1c78.mp3",
+      "generationId": "01a1b6a4-2681-7e62-a823-11dff5d9b64a",
+      "duration": 1.4889795918367348,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Are you sure you want to be alone? Come with us!",
+      "path": "audio/roleplay/dialogue/hope/d03369ab96b4904a.mp3",
+      "generationId": "01a1b6a4-4051-7081-9d11-f33b4a894f7e",
+      "duration": 2.7689795918367346,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Just for a little while?",
+      "path": "audio/roleplay/dialogue/hope/8670de0820f95476.mp3",
+      "generationId": "01a1b6a4-4389-7a2d-84ae-a3ada5593aaf",
+      "duration": 1.253877551020408,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Okay. I'll give you some space.",
+      "path": "audio/roleplay/dialogue/hope/6a5e2777e4260b9b.mp3",
+      "generationId": "01a1b6a4-6cdc-750c-8265-72996614b52d",
+      "duration": 1.8546938775510204,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Just a quick hug?",
+      "path": "audio/roleplay/dialogue/hope/d665c7c9d406ef19.mp3",
+      "generationId": "01a1b6a4-8ef3-7b9f-b671-ef7a24e728a9",
+      "duration": 1.28,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Can I give you a hug?",
+      "path": "audio/roleplay/dialogue/hope/835ab893abe354de.mp3",
+      "generationId": "01a1b6a4-7093-77a3-ad32-d103561edfbf",
+      "duration": 1.3844897959183673,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "I understand. I won't.",
+      "path": "audio/roleplay/dialogue/hope/834b5d570bca9685.mp3",
+      "generationId": "01a1b6a4-b7cb-7e05-8cf4-590ff438a20c",
+      "duration": 1.5151020408163265,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Can you tell me more about what happened at home?",
+      "path": "audio/roleplay/dialogue/hope/614073159ddec79d.mp3",
+      "generationId": "01a1b6a4-b92b-79cc-bbc8-5fdbdd1113ed",
+      "duration": 2.3248979591836734,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Why not? You can tell me.",
+      "path": "audio/roleplay/dialogue/hope/7998a712e15f31f2.mp3",
+      "generationId": "01a1b6a4-be01-7e08-a7b7-da8483197744",
+      "duration": 1.6718367346938776,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Of course. Let's talk about something else.",
+      "path": "audio/roleplay/dialogue/hope/4c70e9d357625806.mp3",
+      "generationId": "01a1b6a4-f090-75b0-89d7-4db1cb8e8997",
+      "duration": 2.27265306122449,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "What's up with your schedule this week?",
+      "path": "audio/roleplay/dialogue/hope/75beadb4d31a5d12.mp3",
+      "generationId": "01a1b6a4-f7bb-70af-936e-bc215d5ca619",
+      "duration": 2.1681632653061222,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Is there anything you could change?",
+      "path": "audio/roleplay/dialogue/hope/88636160b117687b.mp3",
+      "generationId": "01a1b6a4-fd3f-7839-884d-876caa632374",
+      "duration": 1.750204081632653,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "And now the deadline has changed again.",
+      "path": "audio/roleplay/dialogue/hope/1479f23b81f1b5bf.mp3",
+      "generationId": "01a1b6a5-2e7b-7326-ab7a-61d49693f8ed",
+      "duration": 2.089795918367347,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "What's up with your weekend trip?",
+      "path": "audio/roleplay/dialogue/hope/8ed3810c69ddb7c6.mp3",
+      "generationId": "01a1b6a5-35e6-7dae-bc50-a6d971b2a0dc",
+      "duration": 1.6979591836734693,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Did they explain what happened?",
+      "path": "audio/roleplay/dialogue/hope/8e73b8495469b136.mp3",
+      "generationId": "01a1b6a5-3ca0-7ad0-919a-62e5bc6e39c6",
+      "duration": 1.750204081632653,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "What are you going to do now?",
+      "path": "audio/roleplay/dialogue/hope/3d276feebf38f988.mp3",
+      "generationId": "01a1b6a5-76ae-79cd-a4e9-f712c3022303",
+      "duration": 1.3322448979591837,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "How do you feel about our preparation?",
+      "path": "audio/roleplay/dialogue/hope/38a0ce7404a2b64d.mp3",
+      "generationId": "01a1b6a5-7a87-75b5-a031-bf26979cf207",
+      "duration": 2.1681632653061222,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "What would help us do better?",
+      "path": "audio/roleplay/dialogue/hope/1b0d602b019493e0.mp3",
+      "generationId": "01a1b6a5-822e-7e66-b7ba-46c881d19476",
+      "duration": 1.3844897959183673,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "And what if things still go wrong?",
+      "path": "audio/roleplay/dialogue/hope/d45959459125fae5.mp3",
+      "generationId": "01a1b6a5-b6b1-7e6a-ad11-6f8429ecc6fb",
+      "duration": 1.8024489795918368,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "I think you and my friend would really hit it off.",
+      "path": "audio/roleplay/dialogue/hope/c36f44f2e8666ceb.mp3",
+      "generationId": "01a1b6a5-bd90-7854-8c50-2f401c0d2b40",
+      "duration": 2.3510204081632655,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "You both love quiet walks. You would go together like peanut butter and jelly.",
+      "path": "audio/roleplay/dialogue/hope/41ed286dac1e1e64.mp3",
+      "generationId": "01a1b6a5-c2fc-7711-a32f-be1d563df7dd",
+      "duration": 4.440816326530612,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Call it intuition. My gut never steers me wrong.",
+      "path": "audio/roleplay/dialogue/hope/185e5d0c9d6b1914.mp3",
+      "generationId": "01a1b6a5-edd2-7f32-b4a3-6a3c11c6bfc7",
+      "duration": 3.474285714285714,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "How did you get along with your new teammate?",
+      "path": "audio/roleplay/dialogue/hope/74e2442c88bb024f.mp3",
+      "generationId": "01a1b6a5-fb95-7c3e-957a-e25ee7cac857",
+      "duration": 2.115918367346939,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "What makes you such a good team?",
+      "path": "audio/roleplay/dialogue/hope/208352038ffa1b0b.mp3",
+      "generationId": "01a1b6a6-12ab-7fa8-95b3-7184166d3d2a",
+      "duration": 1.6718367346938776,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Would I fit in with you two?",
+      "path": "audio/roleplay/dialogue/hope/e80afc31914319a1.mp3",
+      "generationId": "01a1b6a6-3500-7499-8567-0ea191aa7ace",
+      "duration": 1.436734693877551,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "I can't explain it. Call it intuition.",
+      "path": "audio/roleplay/dialogue/hope/4d6390084188b63f.mp3",
+      "generationId": "01a1b6a6-5bb8-7a44-b270-bfd34e324de7",
+      "duration": 2.403265306122449,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "I think you would love this group.",
+      "path": "audio/roleplay/dialogue/hope/ac47f4d5d610fde4.mp3",
+      "generationId": "01a1b6a6-5878-7317-842a-1496c4a8c433",
+      "duration": 1.750204081632653,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "You know I wouldn't steer you wrong.",
+      "path": "audio/roleplay/dialogue/hope/490ded8291357cdf.mp3",
+      "generationId": "01a1b6a6-79fc-7716-83f0-bd792fcb7264",
+      "duration": 1.8546938775510204,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Are you cool with 7 o'clock on Friday?",
+      "path": "audio/roleplay/dialogue/hope/ec90ea643fd375cc.mp3",
+      "generationId": "01a1b6a6-9cf1-7f07-92c5-d707cef3f0c0",
+      "duration": 2.115918367346939,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "That works. Can you confirm on Friday?",
+      "path": "audio/roleplay/dialogue/hope/1ad93f5d9a44ffe7.mp3",
+      "generationId": "01a1b6a6-a6cf-7aff-9f52-de464dd6f00d",
+      "duration": 2.27265306122449,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Great, I'm looking forward to it!",
+      "path": "audio/roleplay/dialogue/hope/78d59c30de11e199.mp3",
+      "generationId": "01a1b6a6-c71e-7068-bc14-ca569a7da8a0",
+      "duration": 1.906938775510204,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Do you want to grab coffee at 5?",
+      "path": "audio/roleplay/dialogue/hope/b6c31018226f8189.mp3",
+      "generationId": "01a1b6a6-ef72-798c-9289-3911a6d25a38",
+      "duration": 1.750204081632653,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Would 6 be a better bet?",
+      "path": "audio/roleplay/dialogue/hope/8307eb5eff0dd0d9.mp3",
+      "generationId": "01a1b6a6-f660-73d2-a081-e476e66b0809",
+      "duration": 1.4889795918367348,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "I'm from Korea. Nice to meet you!",
+      "path": "audio/roleplay/dialogue/jessica/b56a0897a4d2ced7.mp3",
+      "generationId": "01a1b6a6-8114-778d-9c5e-dbacbc16f927",
+      "duration": 2.3248979591836734,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Yes, it is! How about you?",
+      "path": "audio/roleplay/dialogue/jessica/8cc0401c4b3a3410.mp3",
+      "generationId": "01a1b6a6-842c-7604-99d8-2b2cb62cf581",
+      "duration": 1.6718367346938776,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'm here for two weeks. See you around!",
+      "path": "audio/roleplay/dialogue/jessica/65a49875088197ef.mp3",
+      "generationId": "01a1b6a6-999c-7fdf-a567-bee0cdf441dd",
+      "duration": 2.0375510204081633,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "It's going well, thanks. How about you?",
+      "path": "audio/roleplay/dialogue/jessica/cb239fc3c38bbdb8.mp3",
+      "generationId": "01a1b6a6-d191-7a21-b43b-39cc05c08cce",
+      "duration": 2.3510204081632655,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Sure, I'd love to!",
+      "path": "audio/roleplay/dialogue/jessica/08fd58182296458c.mp3",
+      "generationId": "01a1b6a6-d7c7-7e59-9e63-b209f8d3cd1f",
+      "duration": 1.436734693877551,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Sounds good. See you after the session!",
+      "path": "audio/roleplay/dialogue/jessica/751c8517cc1a65dd.mp3",
+      "generationId": "01a1b6a6-eb18-7eb5-8f0f-ce1198120764",
+      "duration": 2.3510204081632655,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Yes, I really enjoyed it. How about you?",
+      "path": "audio/roleplay/dialogue/jessica/f1d776baab991f04.mp3",
+      "generationId": "01a1b6a7-320f-7118-b444-37954a4d03f5",
+      "duration": 2.507755102040816,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Yes, I'm joining the next session too.",
+      "path": "audio/roleplay/dialogue/jessica/682e8c269aa5b32f.mp3",
+      "generationId": "01a1b6a7-39fc-7207-993b-c88d9f034cd6",
+      "duration": 2.3510204081632655,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "See you there! Have a good meditation!",
+      "path": "audio/roleplay/dialogue/jessica/29b350bc1c962975.mp3",
+      "generationId": "01a1b6a7-5522-7343-8270-7319a89a8278",
+      "duration": 2.3510204081632655,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Hi, I'm Jin. Nice to meet you!",
+      "path": "audio/roleplay/dialogue/jessica/f5c28ad13277d33a.mp3",
+      "generationId": "01a1b6a7-9882-72b1-98ca-f4d512de369d",
+      "duration": 2.0375510204081633,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Perfect. I'll see you then.",
+      "path": "audio/roleplay/dialogue/hope/fa4b3522f12be9ca.mp3",
+      "generationId": "01a1b6a7-21c7-7040-969e-7b3c1e11349b",
+      "duration": 1.5673469387755101,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Are you cool with meeting right after the session?",
+      "path": "audio/roleplay/dialogue/hope/459b79ad1b58ee2c.mp3",
+      "generationId": "01a1b6a7-509f-719a-a341-8699d1cdbcdf",
+      "duration": 2.507755102040816,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Sure. Shall I get in touch afterward?",
+      "path": "audio/roleplay/dialogue/hope/ea09b96fce8d216b.mp3",
+      "generationId": "01a1b6a7-76cc-71ca-9f1a-e157e5e4abb2",
+      "duration": 2.3510204081632655,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Sounds good. Enjoy the session!",
+      "path": "audio/roleplay/dialogue/hope/0c0ced71867a1083.mp3",
+      "generationId": "01a1b6a7-7da8-75a5-a84c-ede1b77c372f",
+      "duration": 1.933061224489796,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Hey, are you on your way?",
+      "path": "audio/roleplay/dialogue/hope/33d8a30bcb1a571a.mp3",
+      "generationId": "01a1b6a7-a274-7cde-8a60-16ca48ed438e",
+      "duration": 1.3844897959183673,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "No worries. There are three parties ahead of us in the queue.",
+      "path": "audio/roleplay/dialogue/hope/128e0d3593673950.mp3",
+      "generationId": "01a1b6a7-c4b4-7f56-ab6e-0c00ccc1787e",
+      "duration": 2.690612244897959,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "Sure. FYI, I'm wearing a beige sweater.",
+      "path": "audio/roleplay/dialogue/hope/465a74d3a102395e.mp3",
+      "generationId": "01a1b6a7-cd90-75c6-bb13-e795fc21f965",
+      "duration": 2.742857142857143,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "We said 6:30 today. Did you miss the message?",
+      "path": "audio/roleplay/dialogue/hope/514faadf441921fb.mp3",
+      "generationId": "01a1b6a7-e3f6-7de3-b422-594619b97f9e",
+      "duration": 2.8212244897959184,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "It’s okay. The queue is long, so we can wait a little.",
+      "path": "audio/roleplay/dialogue/hope/e8cb57753d1cca37.mp3",
+      "generationId": "01a1b6a8-1233-79a2-978f-3ef2b16e9638",
+      "duration": 3.6048979591836736,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "FYI, we're waiting by the side entrance.",
+      "path": "audio/roleplay/dialogue/hope/5e42bd14c13bf209.mp3",
+      "generationId": "01a1b6a8-205c-7d8d-865d-0102da6a6e10",
+      "duration": 2.3510204081632655,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "FYI, I'm near the entrance in a beige sweater.",
+      "path": "audio/roleplay/dialogue/hope/87e63dd258d80ad2.mp3",
+      "generationId": "01a1b6a8-35a9-7648-8e20-1639d917b0c8",
+      "duration": 2.690612244897959,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "There are still a few groups ahead of us.",
+      "path": "audio/roleplay/dialogue/hope/bd0243b70d391f08.mp3",
+      "generationId": "01a1b6a8-62ec-7a4c-80c3-9af7cf0f6620",
+      "duration": 2.089795918367347,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "I can see you now! Are you wearing a blue shirt?",
+      "path": "audio/roleplay/dialogue/hope/12a548885022116e.mp3",
+      "generationId": "01a1b6a8-8714-74f4-a54b-574979eacabb",
+      "duration": 2.6383673469387756,
+      "voice": "Hope - Bubbly, Gossipy and Girly"
+    },
+    {
+      "text": "I'm from South Korea. I live in Seoul, and I work in IT.",
+      "path": "audio/roleplay/dialogue/jessica/82f6f056c104445c.mp3",
+      "generationId": "01a1b6a7-9ecc-725c-aa54-6c6b74ea7348",
+      "duration": 3.526530612244898,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I came here to try meditation and learn more about myself.",
+      "path": "audio/roleplay/dialogue/jessica/ebbf125f6fe7a62c.mp3",
+      "generationId": "01a1b6a7-a849-7641-8f0b-8edafe38addd",
+      "duration": 3.422040816326531,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I've been feeling stressed lately. I wanted to take a break.",
+      "path": "audio/roleplay/dialogue/jessica/0aa02d2525370a52.mp3",
+      "generationId": "01a1b6a7-e08f-74ad-98bd-a7d1340e6135",
+      "duration": 3.1085714285714285,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Yeah! It's a new experience for me. I'm glad I came.",
+      "path": "audio/roleplay/dialogue/jessica/1dbed03b6b3f8112.mp3",
+      "generationId": "01a1b6a7-eb8a-7172-a73d-1120ad0cfe99",
+      "duration": 3.2914285714285714,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I want to relax and connect with myself.",
+      "path": "audio/roleplay/dialogue/jessica/33210540349a8533.mp3",
+      "generationId": "01a1b6a7-f400-7efe-a736-dd888bc89e88",
+      "duration": 2.5861224489795918,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Yes, it's my first time in Pune. I'm just here to explore.",
+      "path": "audio/roleplay/dialogue/jessica/18b3ffcf536a1e3d.mp3",
+      "generationId": "01a1b6a8-40fc-783d-926b-b8feeaa3b54c",
+      "duration": 3.526530612244898,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Not really. I'm still new to meditation.",
+      "path": "audio/roleplay/dialogue/jessica/fe9298c6b2269cc7.mp3",
+      "generationId": "01a1b6a8-3194-7029-a73d-b6daa207ed52",
+      "duration": 2.403265306122449,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I wanted to try something new. I'm curious about Osho's meditation.",
+      "path": "audio/roleplay/dialogue/jessica/98011b4d3048b711.mp3",
+      "generationId": "01a1b6a8-3ab3-7cf9-ac94-aca1b5fcbfce",
+      "duration": 4.0751020408163265,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'm feeling calm and peaceful today.",
+      "path": "audio/roleplay/dialogue/jessica/c733932292b417c7.mp3",
+      "generationId": "01a1b6a8-82a9-7812-8a10-47702ad9d05e",
+      "duration": 2.115918367346939,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I slept well, and I'm happy to be here.",
+      "path": "audio/roleplay/dialogue/jessica/e8ac8112bf89f1be.mp3",
+      "generationId": "01a1b6a8-8ccc-769e-8ecf-3ad270ae28e0",
+      "duration": 2.27265306122449,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'd like to sit quietly for a while.",
+      "path": "audio/roleplay/dialogue/jessica/12d325deb2b693d9.mp3",
+      "generationId": "01a1b6a8-8fe3-70c7-918c-f630d0e93aa8",
+      "duration": 2.27265306122449,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'm feeling a little anxious today.",
+      "path": "audio/roleplay/dialogue/jessica/6c3ff753e0b50483.mp3",
+      "generationId": "01a1b6a8-c558-765e-9ce0-94038e3558ac",
+      "duration": 2.1681632653061222,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'm not sure why. I have a lot on my mind.",
+      "path": "audio/roleplay/dialogue/jessica/eee351cd801b5b2d.mp3",
+      "generationId": "01a1b6a8-cba2-78b8-9276-a221ed991936",
+      "duration": 2.5338775510204083,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'd like a little quiet time.",
+      "path": "audio/roleplay/dialogue/jessica/744a9ec85e10d51e.mp3",
+      "generationId": "01a1b6a8-d248-7f1f-bd7d-752c32c69204",
+      "duration": 1.6979591836734693,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'm feeling a little sad today.",
+      "path": "audio/roleplay/dialogue/jessica/337ce9d76e847ad7.mp3",
+      "generationId": "01a1b6a9-03e6-7eaf-96f1-6437aa6fd43c",
+      "duration": 1.9853061224489796,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I don't really know how to explain it yet.",
+      "path": "audio/roleplay/dialogue/jessica/cd56886c3d028924.mp3",
+      "generationId": "01a1b6a9-1dbe-7d88-b10d-0ee72eb9051a",
+      "duration": 2.0375510204081633,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'd like to sit with this feeling for a bit.",
+      "path": "audio/roleplay/dialogue/jessica/15e1daaef9d2dbe1.mp3",
+      "generationId": "01a1b6a9-225b-78d3-920b-0b18766989d3",
+      "duration": 2.27265306122449,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'm feeling much lighter today.",
+      "path": "audio/roleplay/dialogue/jessica/93aeacc4feb20ad9.mp3",
+      "generationId": "01a1b6a9-539e-7dc2-bf20-f022fac82736",
+      "duration": 1.8546938775510204,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'd love to go for a walk.",
+      "path": "audio/roleplay/dialogue/jessica/f65b256fb45308a9.mp3",
+      "generationId": "01a1b6a9-5cc3-7271-82e2-9e309e3539d6",
+      "duration": 1.5151020408163265,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I felt like I could let go during meditation.",
+      "path": "audio/roleplay/dialogue/jessica/e164baf4c38554d8.mp3",
+      "generationId": "01a1b6a9-5955-75c5-9ce7-05fafb81f3db",
+      "duration": 2.690612244897959,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I have mixed feelings today.",
+      "path": "audio/roleplay/dialogue/jessica/f89214875011d743.mp3",
+      "generationId": "01a1b6a9-8c0f-7fde-a78f-8849db8e5d85",
+      "duration": 1.750204081632653,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I feel grateful, but also a little tired.",
+      "path": "audio/roleplay/dialogue/jessica/9118115de0de331b.mp3",
+      "generationId": "01a1b6a9-924b-7868-8151-b6ec3f56d8ee",
+      "duration": 2.27265306122449,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I just need some time to recharge.",
+      "path": "audio/roleplay/dialogue/jessica/ee4b98798db91bd3.mp3",
+      "generationId": "01a1b6a9-998e-79b0-992f-c4f1f3274bb3",
+      "duration": 1.9853061224489796,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "It was really intense. A lot of emotions came up.",
+      "path": "audio/roleplay/dialogue/jessica/0d3a9225cbddfaa1.mp3",
+      "generationId": "01a1b6a9-ca48-7b2d-a30d-ffdee0118fa6",
+      "duration": 3.0563265306122447,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I felt sad at first, and then I started crying.",
+      "path": "audio/roleplay/dialogue/jessica/0b15d24cb9d94366.mp3",
+      "generationId": "01a1b6a9-d316-7627-851d-e2ae87a39e1b",
+      "duration": 3.1608163265306124,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I feel much lighter now. It was a good experience.",
+      "path": "audio/roleplay/dialogue/jessica/fef9f8fc9b4d0c00.mp3",
+      "generationId": "01a1b6a9-d9d4-7e2d-9e30-1fd8297a499d",
+      "duration": 3.0563265306122447,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I felt a little shy and uncomfortable at first.",
+      "path": "audio/roleplay/dialogue/jessica/c943d24030ac1fb7.mp3",
+      "generationId": "01a1b6aa-0c6f-77e3-addb-060d8820b571",
+      "duration": 2.742857142857143,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I noticed some tension in my body.",
+      "path": "audio/roleplay/dialogue/jessica/96869628622d81b5.mp3",
+      "generationId": "01a1b6aa-10f6-749b-880d-a9bc019139f4",
+      "duration": 2.220408163265306,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I felt connected to my body. I feel relaxed now.",
+      "path": "audio/roleplay/dialogue/jessica/a011da58a3d26d97.mp3",
+      "generationId": "01a1b6aa-189d-7cb7-a5ce-84042eb365ea",
+      "duration": 3.2914285714285714,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I realized I've been holding on to a lot.",
+      "path": "audio/roleplay/dialogue/jessica/fef1eca441254b53.mp3",
+      "generationId": "01a1b6aa-51e6-738a-89a8-9eca3fbe672d",
+      "duration": 2.3510204081632655,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I had a lot of thoughts. I couldn't stop thinking.",
+      "path": "audio/roleplay/dialogue/jessica/6ccbeab9f07c2209.mp3",
+      "generationId": "01a1b6aa-498a-73fa-853c-721ddd9e3a08",
+      "duration": 3.1085714285714285,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'm still processing it. I just want to sit with this feeling.",
+      "path": "audio/roleplay/dialogue/jessica/8143173749dfeab9.mp3",
+      "generationId": "01a1b6aa-5728-7cc3-bb6a-b80adf668556",
+      "duration": 3.5787755102040815,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "It was really intense. I felt a lot of emotions.",
+      "path": "audio/roleplay/dialogue/jessica/83fdcf6ebd9bba07.mp3",
+      "generationId": "01a1b6aa-8b95-7dbd-964d-18cf08edbf34",
+      "duration": 3.1608163265306124,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I noticed a lot of tension in my body. And I found myself crying.",
+      "path": "audio/roleplay/dialogue/jessica/e41a69388e70f67c.mp3",
+      "generationId": "01a1b6aa-8f52-7d71-b452-ef81029e2f45",
+      "duration": 4.0751020408163265,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I realized that I've been holding on to a lot of stress.",
+      "path": "audio/roleplay/dialogue/jessica/5253708d6059bf4e.mp3",
+      "generationId": "01a1b6aa-97cb-738e-9a63-f923ed5a6aeb",
+      "duration": 3.0040816326530613,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I feel much lighter now. I think I was able to let go of something.",
+      "path": "audio/roleplay/dialogue/jessica/d16b1f01f4719db9.mp3",
+      "generationId": "01a1b6aa-c9d7-7f2a-9828-a77874dac36d",
+      "duration": 4.12734693877551,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "That sounds intense. Thanks for sharing.",
+      "path": "audio/roleplay/dialogue/jessica/59785aa7d7309f78.mp3",
+      "generationId": "01a1b6aa-ced9-7443-badd-b6fbc5c5ca36",
+      "duration": 1.9853061224489796,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "It's okay to feel that way. Take your time.",
+      "path": "audio/roleplay/dialogue/jessica/5592cb30bbed4b48.mp3",
+      "generationId": "01a1b6aa-d5b7-702e-8f23-998669ca8ed8",
+      "duration": 2.5338775510204083,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Of course. I'm glad you told me.",
+      "path": "audio/roleplay/dialogue/jessica/5f19c4adc0cabd73.mp3",
+      "generationId": "01a1b6ab-07f6-76ec-b7fc-ced8bd1235ba",
+      "duration": 2.1681632653061222,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I can relate to that. I felt lighter afterward too.",
+      "path": "audio/roleplay/dialogue/jessica/59c57e82960c5cd5.mp3",
+      "generationId": "01a1b6ab-16e5-769c-b6f4-3659731d5045",
+      "duration": 3.369795918367347,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "That sounds beautiful. I'm happy for you.",
+      "path": "audio/roleplay/dialogue/jessica/12a074b46323c4b2.mp3",
+      "generationId": "01a1b6ab-0e03-7d19-b470-1658b536aaf6",
+      "duration": 2.507755102040816,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I understand. Thanks for sharing that with me.",
+      "path": "audio/roleplay/dialogue/jessica/eca25e987df8330f.mp3",
+      "generationId": "01a1b6ab-46e4-7723-a627-ad90691ec07a",
+      "duration": 2.873469387755102,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Take your time. There's no rush.",
+      "path": "audio/roleplay/dialogue/jessica/7d5d0711ab3d6fcd.mp3",
+      "generationId": "01a1b6ab-4d0b-7e05-9f76-a419bf753164",
+      "duration": 1.8024489795918368,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I understand. You don't have to explain it right now.",
+      "path": "audio/roleplay/dialogue/jessica/e743d45fe5c23768.mp3",
+      "generationId": "01a1b6ab-5451-73ae-9e67-ed5780240033",
+      "duration": 3.1085714285714285,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Of course. Take your time. See you later.",
+      "path": "audio/roleplay/dialogue/jessica/00591904d96368ea.mp3",
+      "generationId": "01a1b6ab-8577-7e5a-a6ae-ad5d2b9a0c04",
+      "duration": 2.5338775510204083,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Thanks, but I'd like some time to myself.",
+      "path": "audio/roleplay/dialogue/jessica/2631ad3f40db3044.mp3",
+      "generationId": "01a1b6ab-8d58-7163-a079-60cb58051ddd",
+      "duration": 2.403265306122449,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Thanks for understanding.",
+      "path": "audio/roleplay/dialogue/jessica/fa749690384982d6.mp3",
+      "generationId": "01a1b6ab-9509-7602-8983-eec11828fd7a",
+      "duration": 1.4889795918367348,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Yes, maybe we can talk later. See you later!",
+      "path": "audio/roleplay/dialogue/jessica/6cfffdce8259ee78.mp3",
+      "generationId": "01a1b6ab-c734-73e4-a7bd-afc8189f7010",
+      "duration": 2.690612244897959,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Thanks, but I'd like to sit by myself for a bit.",
+      "path": "audio/roleplay/dialogue/jessica/65f06f63f331d987.mp3",
+      "generationId": "01a1b6ab-cc22-77b7-8364-c5681e90b6c4",
+      "duration": 2.690612244897959,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'm okay. I just want some quiet time.",
+      "path": "audio/roleplay/dialogue/jessica/f7d2778db677bbe2.mp3",
+      "generationId": "01a1b6ab-d2d4-77d2-9e32-99aa9f20d805",
+      "duration": 2.403265306122449,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Thank you. Thanks for understanding.",
+      "path": "audio/roleplay/dialogue/jessica/9c3def6692919781.mp3",
+      "generationId": "01a1b6ac-1fbd-7fa5-864f-f263c1e2bfdf",
+      "duration": 1.933061224489796,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Maybe later. I need some time alone first.",
+      "path": "audio/roleplay/dialogue/jessica/21486e76515462bd.mp3",
+      "generationId": "01a1b6ac-1cc5-7ee8-8ad6-b3fe4530bd4f",
+      "duration": 2.403265306122449,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'm a bit tired. I just need to recharge.",
+      "path": "audio/roleplay/dialogue/jessica/75f2e38825d792d4.mp3",
+      "generationId": "01a1b6ac-25e6-76df-83d5-a411add456b1",
+      "duration": 2.507755102040816,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Thanks! See you around.",
+      "path": "audio/roleplay/dialogue/jessica/170cd8c5f9ab1f44.mp3",
+      "generationId": "01a1b6ac-5710-72f8-b29b-f590517ad672",
+      "duration": 1.4889795918367348,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Thanks, but I'd rather dance on my own right now.",
+      "path": "audio/roleplay/dialogue/jessica/0958a76394f95938.mp3",
+      "generationId": "01a1b6ac-5c87-7094-8c63-4648d14d53b8",
+      "duration": 2.873469387755102,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Thanks! Have fun!",
+      "path": "audio/roleplay/dialogue/jessica/21a7c487edcb3cbd.mp3",
+      "generationId": "01a1b6ac-6141-76c0-848d-92588d27eb39",
+      "duration": 1.1493877551020408,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "See you after the session!",
+      "path": "audio/roleplay/dialogue/jessica/0069b5c5a02cd913.mp3",
+      "generationId": "01a1b6ac-9246-75f5-8253-0079b343fe46",
+      "duration": 1.3844897959183673,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'm just going to watch for now.",
+      "path": "audio/roleplay/dialogue/jessica/32a1aaab6f7149f0.mp3",
+      "generationId": "01a1b6ac-9938-72ce-bdc7-80fda66a5fde",
+      "duration": 1.8024489795918368,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Not right now, thanks. I'm happy watching.",
+      "path": "audio/roleplay/dialogue/jessica/06d02e371ecb03f5.mp3",
+      "generationId": "01a1b6ac-a10e-7a9a-891d-610d21826a3a",
+      "duration": 2.3510204081632655,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "No, thanks. I'd rather keep dancing on my own.",
+      "path": "audio/roleplay/dialogue/jessica/05b6d0d11425da01.mp3",
+      "generationId": "01a1b6ac-e988-78c2-aa3b-286c85c8ae78",
+      "duration": 2.8212244897959184,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "You too! Have fun.",
+      "path": "audio/roleplay/dialogue/jessica/1d88092b8b9ef08e.mp3",
+      "generationId": "01a1b6ad-cd43-739b-a9ad-41c0efd15baf",
+      "duration": 1.436734693877551,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Thanks, but I'm enjoying dancing by myself.",
+      "path": "audio/roleplay/dialogue/jessica/3d8768af28780a80.mp3",
+      "generationId": "01a1b6ad-d7cc-75b5-99f1-559d703592e0",
+      "duration": 2.690612244897959,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Thanks, you too!",
+      "path": "audio/roleplay/dialogue/jessica/471f0d6cfaa95531.mp3",
+      "generationId": "01a1b6ad-f2ed-74c4-88b6-bbe7a99fb4ac",
+      "duration": 1.28,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I appreciate it, but I really want to be alone right now.",
+      "path": "audio/roleplay/dialogue/jessica/137b75c0512a77d2.mp3",
+      "generationId": "01a1b6ae-1c09-776c-b205-06eafcf72372",
+      "duration": 3.1608163265306124,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "No, thank you. Please give me some space.",
+      "path": "audio/roleplay/dialogue/jessica/f67fd68e3a299f12.mp3",
+      "generationId": "01a1b6ae-1f3f-7f63-9d3a-b06e2d4cbd74",
+      "duration": 2.1681632653061222,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "No, thank you. I'm not comfortable with hugs right now.",
+      "path": "audio/roleplay/dialogue/jessica/c94b527d9c30573f.mp3",
+      "generationId": "01a1b6ae-2f43-7b27-95ab-37588f131772",
+      "duration": 2.9257142857142857,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Thank you for respecting my space.",
+      "path": "audio/roleplay/dialogue/jessica/3fd066a43b621774.mp3",
+      "generationId": "01a1b6ae-5e33-7425-a244-991b7663b876",
+      "duration": 2.115918367346939,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Please don't touch me. Please respect my space.",
+      "path": "audio/roleplay/dialogue/jessica/1dff368679f53a1b.mp3",
+      "generationId": "01a1b6ae-5b2a-73b4-b7a0-b0897d21ce5c",
+      "duration": 2.8212244897959184,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'd rather not talk about that right now.",
+      "path": "audio/roleplay/dialogue/jessica/a2ccb16ea8df6b62.mp3",
+      "generationId": "01a1b6ae-655a-74cf-9bde-d315bbedd7eb",
+      "duration": 2.220408163265306,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Thanks for understanding. How was your meditation?",
+      "path": "audio/roleplay/dialogue/jessica/35c35075e1129501.mp3",
+      "generationId": "01a1b6ae-9e4a-757d-9826-990c4ac38ce3",
+      "duration": 2.9518367346938774,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'm not comfortable with that question. Please respect my privacy.",
+      "path": "audio/roleplay/dialogue/jessica/988deb4d1173ccdc.mp3",
+      "generationId": "01a1b6ae-95ea-7284-ac2d-2d70633ff5a3",
+      "duration": 3.84,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I can't stand the way work takes over my evenings.",
+      "path": "audio/roleplay/dialogue/jessica/95e11a328e16cb1b.mp3",
+      "generationId": "01a1b6ae-a27e-7625-8a25-41ef902d1e36",
+      "duration": 3.0563265306122447,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I need to step up my game with time management and finish on time.",
+      "path": "audio/roleplay/dialogue/jessica/65673731f20acf24.mp3",
+      "generationId": "01a1b6ae-d334-7f85-9fb6-1675d826caa6",
+      "duration": 3.996734693877551,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "It was cancelled. I can't stand last-minute cancellations.",
+      "path": "audio/roleplay/dialogue/jessica/4fc661246a6dc6b2.mp3",
+      "generationId": "01a1b6ae-e185-762f-a3e7-a2b00744d0f9",
+      "duration": 3.422040816326531,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "That's how the cookie crumbles. I'll try again tomorrow.",
+      "path": "audio/roleplay/dialogue/jessica/c66e0ff5000de095.mp3",
+      "generationId": "01a1b6ae-dac9-781f-b74f-2ee742ac6c91",
+      "duration": 3.239183673469388,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Not really. I didn't like the way they handled the situation.",
+      "path": "audio/roleplay/dialogue/jessica/4724bd2e77921842.mp3",
+      "generationId": "01a1b6af-0c82-7801-b848-19197c7dc33b",
+      "duration": 3.474285714285714,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "That's how the cookie crumbles. We'll choose another day.",
+      "path": "audio/roleplay/dialogue/jessica/edecdbf410ff0c26.mp3",
+      "generationId": "01a1b6af-19e0-7d92-8550-1be9d95fbe0b",
+      "duration": 3.239183673469388,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I can't stand the way we leave everything until the last minute.",
+      "path": "audio/roleplay/dialogue/jessica/c081c4b8f9e9fdad.mp3",
+      "generationId": "01a1b6af-2b03-7b5e-91a0-7adb6ed37aef",
+      "duration": 3.657142857142857,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "We need to step up our game and practice together.",
+      "path": "audio/roleplay/dialogue/jessica/08947410b76843b3.mp3",
+      "generationId": "01a1b6af-4cc1-78ea-9c41-8aed2869f96c",
+      "duration": 3.0040816326530613,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Sometimes that's how the cookie crumbles. We can learn from it.",
+      "path": "audio/roleplay/dialogue/jessica/c0ddc86120f8d9fe.mp3",
+      "generationId": "01a1b6af-587a-73fb-be82-9c2e039e8f79",
+      "duration": 3.369795918367347,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "What makes you so sure?",
+      "path": "audio/roleplay/dialogue/jessica/6306daf998c31fab.mp3",
+      "generationId": "01a1b6af-7402-7f92-b440-ff18ac7ab1f7",
+      "duration": 1.436734693877551,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "All right, I'll take your word for it.",
+      "path": "audio/roleplay/dialogue/jessica/747872d12c1c8ec8.mp3",
+      "generationId": "01a1b6af-9900-7753-aecf-c95373ee61dc",
+      "duration": 2.089795918367347,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Sounds good. Let's meet for tea sometime.",
+      "path": "audio/roleplay/dialogue/jessica/107123fca673766b.mp3",
+      "generationId": "01a1b6af-b351-7707-ba05-500e4c350c97",
+      "duration": 2.220408163265306,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "We hit it off right away.",
+      "path": "audio/roleplay/dialogue/jessica/aebfb0d82a237232.mp3",
+      "generationId": "01a1b6af-b71e-7a73-912a-3c6f382a1174",
+      "duration": 1.5151020408163265,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "We complement each other, like peanut butter and jelly.",
+      "path": "audio/roleplay/dialogue/jessica/abc7052b2a164a27.mp3",
+      "generationId": "01a1b6af-cf80-742b-9d0b-83a367e3bb4b",
+      "duration": 2.9518367346938774,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Call it intuition, but I think you'd fit right in. Let's try working together.",
+      "path": "audio/roleplay/dialogue/jessica/1ac949456ce154a9.mp3",
+      "generationId": "01a1b6af-f3be-77a9-8e83-14b35078274b",
+      "duration": 4.362448979591837,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "What makes you think I'd like it?",
+      "path": "audio/roleplay/dialogue/jessica/06f05cbf47ccbef1.mp3",
+      "generationId": "01a1b6af-fea8-73ff-baf4-cf611649ea86",
+      "duration": 1.6718367346938776,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Okay, I'll take your word for it this time.",
+      "path": "audio/roleplay/dialogue/jessica/35b659fb327eb830.mp3",
+      "generationId": "01a1b6b0-1018-7fc9-b502-84e2838534b0",
+      "duration": 2.403265306122449,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Thanks. Let's go together and see how it feels.",
+      "path": "audio/roleplay/dialogue/jessica/62e6ed2fb8a6ec91.mp3",
+      "generationId": "01a1b6b0-3542-74bd-b623-2d08001c7dce",
+      "duration": 2.5338775510204083,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'll get in touch with you on Friday to confirm.",
+      "path": "audio/roleplay/dialogue/jessica/e97426095df6d0d1.mp3",
+      "generationId": "01a1b6b0-550c-72bc-a5d8-09286074c9b0",
+      "duration": 2.690612244897959,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "To be safe, 7:30 would be a better bet for me. I have a meeting that runs until 7.",
+      "path": "audio/roleplay/dialogue/jessica/641584002f063cf7.mp3",
+      "generationId": "01a1b6b0-3bd3-7fd1-acb0-5e519c1ea336",
+      "duration": 5.616326530612245,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'd love to, but I have a meeting that runs until 5:30.",
+      "path": "audio/roleplay/dialogue/jessica/550efc99be437b72.mp3",
+      "generationId": "01a1b6b0-7f53-7560-aea7-a0d7bc6fd81c",
+      "duration": 3.6048979591836736,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Sounds good. Catch you later!",
+      "path": "audio/roleplay/dialogue/jessica/0b990782029fc9fe.mp3",
+      "generationId": "01a1b6b0-7d13-715a-9471-ab3dd1cf42a7",
+      "duration": 1.8024489795918368,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'm cool with 6. I'll get in touch when the meeting finishes.",
+      "path": "audio/roleplay/dialogue/jessica/fc272d7ebce170be.mp3",
+      "generationId": "01a1b6b0-87ed-7abd-8392-b3a8f9a1ee8b",
+      "duration": 3.369795918367347,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "See you then. Catch you later!",
+      "path": "audio/roleplay/dialogue/jessica/c2afd7f1fbd93ad6.mp3",
+      "generationId": "01a1b6b0-ade7-79ff-ae35-8b6e811d27d3",
+      "duration": 1.9853061224489796,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Meeting half an hour later would be a better bet. I'd like a little time to rest.",
+      "path": "audio/roleplay/dialogue/jessica/66481e0b7daacfb5.mp3",
+      "generationId": "01a1b6b0-bc0b-760f-8369-c737f3f98bc1",
+      "duration": 4.41469387755102,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I'm cool with that. Get in touch when you're ready.",
+      "path": "audio/roleplay/dialogue/jessica/3936ed6be8ddda7c.mp3",
+      "generationId": "01a1b6b0-d0e3-7005-b7b3-2e7fe10de60d",
+      "duration": 2.873469387755102,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "You too! Catch you later.",
+      "path": "audio/roleplay/dialogue/jessica/b9cfe9986fe99e8c.mp3",
+      "generationId": "01a1b6b0-f89d-7f48-90c7-70be1d17994b",
+      "duration": 1.4889795918367348,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Sorry, my bad. Traffic is a nightmare, so I might be about 10 minutes late.",
+      "path": "audio/roleplay/dialogue/jessica/82f670bddb9bc2c2.mp3",
+      "generationId": "01a1b6b1-03f9-7dc6-938c-5a75048e6a5f",
+      "duration": 4.728163265306122,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Okay, I'll hit you up when I get there.",
+      "path": "audio/roleplay/dialogue/jessica/b86275bf3a3be1db.mp3",
+      "generationId": "01a1b6b1-13bb-75eb-9e2f-cb5452c47b04",
+      "duration": 2.27265306122449,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "My bad. I didn't realize the time had changed.",
+      "path": "audio/roleplay/dialogue/jessica/eb47f5431bd33fb6.mp3",
+      "generationId": "01a1b6b1-3c8e-7849-8f57-dd5c8d191917",
+      "duration": 2.7689795918367346,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Thanks. I'll look for the beige sweater.",
+      "path": "audio/roleplay/dialogue/jessica/34b3cf7a2f9bb5b4.mp3",
+      "generationId": "01a1b6b1-35b6-7c61-964d-f9f07ee3f4be",
+      "duration": 2.27265306122449,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Thanks for waiting. I'll hit you up when I arrive.",
+      "path": "audio/roleplay/dialogue/jessica/9c6ac39c944a81fa.mp3",
+      "generationId": "01a1b6b1-5c6a-7ba8-9bb2-f6256e39e5d7",
+      "duration": 2.742857142857143,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Got it. I'll head straight to the side entrance.",
+      "path": "audio/roleplay/dialogue/jessica/6e335e6baec25163.mp3",
+      "generationId": "01a1b6b1-7a8c-7629-9f81-7e3000739871",
+      "duration": 2.5861224489795918,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "I've just arrived. I'll hit you up when I find you.",
+      "path": "audio/roleplay/dialogue/jessica/b87f946e6a5ac009.mp3",
+      "generationId": "01a1b6b1-7d81-7bfe-8a4f-a80283215b0f",
+      "duration": 3.0563265306122447,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Finding a parking spot was a nightmare. Thanks for waiting.",
+      "path": "audio/roleplay/dialogue/jessica/c3eb2086fd86dd9d.mp3",
+      "generationId": "01a1b6b1-a3a4-769f-8a3f-9b807b0e8c3a",
+      "duration": 3.2914285714285714,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    },
+    {
+      "text": "Yes, that's me. I'll be right there!",
+      "path": "audio/roleplay/dialogue/jessica/d7d6e9043b619f2b.mp3",
+      "generationId": "01a1b6b1-c65f-79b4-9fa9-c4d0dc4e71b9",
+      "duration": 2.0375510204081633,
+      "voice": "Jessica Anne Bogart - Chatty and Friendly"
+    }
+  ],
+  "pending": [],
+  "totalLines": 236,
+  "readyLines": 236,
+  "status": "complete",
+  "settings": {
+    "model": "ElevenLabs Multilingual v2",
+    "language": "English",
+    "accent": "American",
+    "speed": 0.9,
+    "effect": "NONE"
+  }
+}

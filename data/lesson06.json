@@ -268,7 +268,13 @@
       "korean": "당신에게 경의를 전합니다.",
       "explanation": "받는 이를 존중하며 인사를 건넵니다. 원문은 쉼표로 이어지는 편지 인사 형식이에요.",
       "grammar": "My respects to + 사람은 생략된 문장 형태의 인사입니다. 여기서는 문장 끝에 쉼표를 사용했어요.",
-      "audio": "audio/1962-06/01.mp3"
+      "audio": "audio/1962-06/01.mp3",
+      "chunks": [
+        "My respects to you,"
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/01-01.mp3"
+      ]
     },
     {
       "id": 2,
@@ -276,7 +282,15 @@
       "korean": "나는 자리를 비우고 있었지만, 당신의 편지는 이곳까지 나를 따라왔습니다.",
       "explanation": "떠나 있던 곳까지 편지가 전달되었다는 뜻입니다. 편지가 사람처럼 따라왔다고 표현해요.",
       "grammar": "was away는 자리를 떠나 있던 상태입니다. but이 두 과거절을 연결하고 followed는 목적어 me를 취해요.",
-      "audio": "audio/1962-06/02.mp3"
+      "audio": "audio/1962-06/02.mp3",
+      "chunks": [
+        "I was away,",
+        "but your letter followed me here."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/02-01.mp3",
+        "audio/1962-06/chunks-views/02-02.mp3"
+      ]
     },
     {
       "id": 3,
@@ -284,7 +298,15 @@
       "korean": "그 편지를 받게 되어 기쁩니다.",
       "explanation": "it은 앞에서 말한 편지를 가리킵니다. 현재의 반가움을 간단히 전해요.",
       "grammar": "be pleased to + 동사원형은 기쁜 이유를 말합니다. have는 여기서 편지를 받아 가지고 있다는 뜻이에요.",
-      "audio": "audio/1962-06/03.mp3"
+      "audio": "audio/1962-06/03.mp3",
+      "chunks": [
+        "I am pleased",
+        "to have it."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/03-01.mp3",
+        "audio/1962-06/chunks-views/03-02.mp3"
+      ]
     },
     {
       "id": 4,
@@ -292,7 +314,15 @@
       "korean": "나는 삶을 지복으로 가득한 것으로 봅니다.",
       "explanation": "자신이 삶을 어떻게 바라보는지 말합니다. see는 판단이나 관점을 나타내는 동사로 쓰였어요.",
       "grammar": "see + 목적어 life + as + 형용사구 full of bliss 구조입니다. full of + 명사는 ‘~로 가득한’이라는 뜻이에요.",
-      "audio": "audio/1962-06/04.mp3"
+      "audio": "audio/1962-06/04.mp3",
+      "chunks": [
+        "I see life",
+        "as full of bliss."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/04-01.mp3",
+        "audio/1962-06/chunks-views/04-02.mp3"
+      ]
     },
     {
       "id": 5,
@@ -300,7 +330,21 @@
       "korean": "보통 우리는 이것을 볼 눈이 없어 그 행복을 누리지 못하지만, 이런 보는 능력은 길러질 수 있습니다.",
       "explanation": "eyes는 내면의 행복을 알아보는 감각에 대한 비유입니다. so 뒤의 are는 앞의 주어 we를 이어받아요.",
       "grammar": "Ordinarily는 문장 부사입니다. to see this가 eyes를 꾸미고, be deprived of는 수동태예요. can be created는 조동사 + 수동태 구조입니다.",
-      "audio": "audio/1962-06/05.mp3"
+      "audio": "audio/1962-06/05.mp3",
+      "chunks": [
+        "Ordinarily,",
+        "we do not have the eyes",
+        "to see this",
+        "and so are deprived of it,",
+        "but this seeing can be created."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/05-01.mp3",
+        "audio/1962-06/chunks-views/05-02.mp3",
+        "audio/1962-06/chunks-views/05-03.mp3",
+        "audio/1962-06/chunks-views/05-04.mp3",
+        "audio/1962-06/chunks-views/05-05.mp3"
+      ]
     },
     {
       "id": 6,
@@ -308,7 +352,17 @@
       "korean": "어쩌면 그것을 새로 만들 수 있다고 말하는 것은 정확하지 않을지도 모릅니다.",
       "explanation": "바로 앞의 표현을 스스로 고쳐 말합니다. 뒤에서는 그 능력이 이미 존재한다는 생각으로 설명을 바꾸어요.",
       "grammar": "Perhaps는 판단을 부드럽게 하는 부사입니다. it is not correct to say에서 it은 가주어, to say 이하가 실제 내용이에요.",
-      "audio": "audio/1962-06/06.mp3"
+      "audio": "audio/1962-06/06.mp3",
+      "chunks": [
+        "Perhaps it is not correct",
+        "to say",
+        "it can be created,"
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/06-01.mp3",
+        "audio/1962-06/chunks-views/06-02.mp3",
+        "audio/1962-06/chunks-views/06-03.mp3"
+      ]
     },
     {
       "id": 7,
@@ -316,7 +370,13 @@
       "korean": "그것은 이미 그곳에 있고,",
       "explanation": "it은 앞에서 이야기한 보는 능력입니다. 없는 것을 만들어야 한다기보다 이미 있는 것을 발견한다는 뜻이에요.",
       "grammar": "already는 ‘이미’라는 부사입니다. is there는 어떤 것이 존재하고 있음을 나타내요.",
-      "audio": "audio/1962-06/07.mp3"
+      "audio": "audio/1962-06/07.mp3",
+      "chunks": [
+        "it is already there,"
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/07-01.mp3"
+      ]
     },
     {
       "id": 8,
@@ -324,7 +384,15 @@
       "korean": "그저 눈을 뜨는 일일 뿐이며,",
       "explanation": "이미 있는 것을 알아보도록 눈을 여는 것에 비유합니다. only는 다른 거창한 조건이 필요하지 않다는 느낌을 줘요.",
       "grammar": "a matter of + 명사·동명사 구조입니다. opening은 전치사 of 뒤에 온 동명사이며 the eyes가 목적어예요.",
-      "audio": "audio/1962-06/08.mp3"
+      "audio": "audio/1962-06/08.mp3",
+      "chunks": [
+        "it is only a matter",
+        "of opening the eyes,"
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/08-01.mp3",
+        "audio/1962-06/chunks-views/08-02.mp3"
+      ]
     },
     {
       "id": 9,
@@ -332,7 +400,15 @@
       "korean": "그러면 모든 것이 달라집니다.",
       "explanation": "대시로 잠깐 호흡을 끊어 새롭게 보는 경험이 가져오는 변화를 강조합니다.",
       "grammar": "then은 앞 상황 뒤에 이어지는 때를 나타냅니다. everything은 단수 취급하므로 changes를 사용해요.",
-      "audio": "audio/1962-06/09.mp3"
+      "audio": "audio/1962-06/09.mp3",
+      "chunks": [
+        "and then –",
+        "everything changes."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/09-01.mp3",
+        "audio/1962-06/chunks-views/09-02.mp3"
+      ]
     },
     {
       "id": 10,
@@ -340,7 +416,13 @@
       "korean": "명상은 이것을 이루어 줍니다.",
       "explanation": "this는 앞에서 말한 눈을 뜨고 삶을 새롭게 보는 변화를 가리킵니다. 저자가 그 경험과 명상을 연결하는 문장이에요.",
       "grammar": "Meditation은 단수 주어이고 achieves는 현재형 동사입니다. this는 앞 문맥 전체를 받는 지시대명사 목적어예요.",
-      "audio": "audio/1962-06/10.mp3"
+      "audio": "audio/1962-06/10.mp3",
+      "chunks": [
+        "Meditation achieves this."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/10-01.mp3"
+      ]
     },
     {
       "id": 11,
@@ -348,7 +430,17 @@
       "korean": "명상이란 평화, 비어 있음을 뜻합니다.",
       "explanation": "콜론과 세미콜론을 사용해 명상의 의미를 짧게 나열합니다. 뒤에서는 이 비어 있음이 어떻게 드러나는지 설명해요.",
       "grammar": "Meditation이 주어, means가 동사입니다. 콜론 뒤의 peace와 emptiness가 뜻을 설명하는 병렬 명사예요.",
-      "audio": "audio/1962-06/11.mp3"
+      "audio": "audio/1962-06/11.mp3",
+      "chunks": [
+        "Meditation means:",
+        "peace;",
+        "emptiness."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/11-01.mp3",
+        "audio/1962-06/chunks-views/11-02.mp3",
+        "audio/1962-06/chunks-views/11-03.mp3"
+      ]
     },
     {
       "id": 12,
@@ -356,7 +448,17 @@
       "korean": "이 비어 있음은 이미 있지만 생각의 흐름에 가려져 있습니다.",
       "explanation": "생각을 따라가는 동안 그 아래의 고요함을 알아보지 못한다는 저자의 설명입니다. flow는 생각의 연속을 물의 흐름에 비유해요.",
       "grammar": "but 뒤에서 동일한 주어 This emptiness가 생략됐습니다. is concealed by는 수동태이며, by 뒤에는 가리는 작용을 하는 대상이 와요.",
-      "audio": "audio/1962-06/12.mp3"
+      "audio": "audio/1962-06/12.mp3",
+      "chunks": [
+        "This emptiness is there",
+        "but is concealed",
+        "by the flow of thoughts."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/12-01.mp3",
+        "audio/1962-06/chunks-views/12-02.mp3",
+        "audio/1962-06/chunks-views/12-03.mp3"
+      ]
     },
     {
       "id": 13,
@@ -364,7 +466,15 @@
       "korean": "생각이 잦아들면 그 비어 있음이 드러납니다.",
       "explanation": "it은 emptiness를 가리킵니다. 무엇을 새로 만드는 대신 가려져 있던 것이 보이게 된다는 문맥이에요.",
       "grammar": "As는 여기서 변화가 함께 일어나는 때를 나타내는 접속사입니다. thoughts cease가 시간절, come into view가 ‘드러나다’라는 표현이에요.",
-      "audio": "audio/1962-06/13.mp3"
+      "audio": "audio/1962-06/13.mp3",
+      "chunks": [
+        "As thoughts cease",
+        "it comes into view."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/13-01.mp3",
+        "audio/1962-06/chunks-views/13-02.mp3"
+      ]
     },
     {
       "id": 14,
@@ -372,7 +482,17 @@
       "korean": "생각에서 자유로워지는 일은 어려워 보이지만, 그것은 아주 단순합니다.",
       "explanation": "겉으로 어렵게 보이는 일과 저자가 말하는 단순함을 대비합니다. 뒤에서 그 방법을 관조라고 설명해요.",
       "grammar": "It seems + 형용사 + to부정사 구조에서 it은 가주어입니다. become free of는 상태의 변화를 나타내고 but이 대조를 이어요.",
-      "audio": "audio/1962-06/14.mp3"
+      "audio": "audio/1962-06/14.mp3",
+      "chunks": [
+        "It seems difficult",
+        "to become free of thoughts",
+        "but it is very simple."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/14-01.mp3",
+        "audio/1962-06/chunks-views/14-02.mp3",
+        "audio/1962-06/chunks-views/14-03.mp3"
+      ]
     },
     {
       "id": 15,
@@ -380,7 +500,15 @@
       "korean": "마음은 몹시 가라앉지 못하는 것 같지만 쉽게 고요해질 수 있습니다.",
       "explanation": "restless와 settle을 대비해, 움직이는 마음도 가라앉을 수 있다는 관점을 전합니다.",
       "grammar": "seem 뒤의 형용사 restless는 주어의 상태를 설명합니다. can + 동사원형 settle이며 easily는 settle을 꾸미는 부사예요.",
-      "audio": "audio/1962-06/15.mp3"
+      "audio": "audio/1962-06/15.mp3",
+      "chunks": [
+        "The mind seems very restless",
+        "but it can easily settle."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/15-01.mp3",
+        "audio/1962-06/chunks-views/15-02.mp3"
+      ]
     },
     {
       "id": 16,
@@ -388,7 +516,15 @@
       "korean": "이러한 넘어섬의 열쇠는 지켜보는 것입니다.",
       "explanation": "생각에 휩쓸리는 상태를 넘어서는 핵심을 관찰하는 태도에서 찾습니다. witnessing은 생각을 따라가기보다 바라보는 것을 말해요.",
       "grammar": "The key to this transcendence가 주어입니다. to는 전치사이고 witnessing은 동명사 보어예요.",
-      "audio": "audio/1962-06/16.mp3"
+      "audio": "audio/1962-06/16.mp3",
+      "chunks": [
+        "The key to this transcendence",
+        "is witnessing."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/16-01.mp3",
+        "audio/1962-06/chunks-views/16-02.mp3"
+      ]
     },
     {
       "id": 17,
@@ -396,7 +532,15 @@
       "korean": "마음을 지켜보는 이, 마음의 관찰자가 되어야 합니다.",
       "explanation": "one은 일반적인 사람을 가리킵니다. 뒤의 an observer가 witness의 의미를 다시 풀어줘요.",
       "grammar": "has to + 동사원형 be는 필요를 나타냅니다. a witness와 an observer of the mind는 같은 대상을 설명하는 동격 명사구예요.",
-      "audio": "audio/1962-06/17.mp3"
+      "audio": "audio/1962-06/17.mp3",
+      "chunks": [
+        "One has to be a witness,",
+        "an observer of the mind."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/17-01.mp3",
+        "audio/1962-06/chunks-views/17-02.mp3"
+      ]
     },
     {
       "id": 18,
@@ -404,7 +548,15 @@
       "korean": "마음을 지켜보아야 합니다. 그저 지켜보는 것입니다.",
       "explanation": "it은 앞의 mind를 가리킵니다. 같은 말을 반복해 개입하기보다 바라보는 태도를 강조해요.",
       "grammar": "has to watch it 뒤에 just watch it이라는 명령형이 이어집니다. 원문은 쉼표로 연결하며, watch는 목적어 it을 취해요.",
-      "audio": "audio/1962-06/18.mp3"
+      "audio": "audio/1962-06/18.mp3",
+      "chunks": [
+        "One has to watch it,",
+        "just watch it."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/18-01.mp3",
+        "audio/1962-06/chunks-views/18-02.mp3"
+      ]
     },
     {
       "id": 19,
@@ -412,7 +564,17 @@
       "korean": "지켜보는 상태가 밝아오는 순간, 바로 그 순간 생각에서 자유로워집니다.",
       "explanation": "관찰자의 상태가 생기는 순간을 새벽이 밝는 모습에 비유합니다. that very moment를 반복해 즉각성을 강조해요.",
       "grammar": "The moment + 절은 시간절 역할을 합니다. dawns는 ‘나타나기 시작하다’, that very moment는 주절 앞의 시간 부사구예요.",
-      "audio": "audio/1962-06/19.mp3"
+      "audio": "audio/1962-06/19.mp3",
+      "chunks": [
+        "The moment the witness state dawns,",
+        "that very moment",
+        "one becomes free of thoughts."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/19-01.mp3",
+        "audio/1962-06/chunks-views/19-02.mp3",
+        "audio/1962-06/chunks-views/19-03.mp3"
+      ]
     },
     {
       "id": 20,
@@ -420,7 +582,15 @@
       "korean": "이것은 다시 지복으로 향하는 문을 열고,",
       "explanation": "this는 앞의 지켜보는 상태와 생각에서 벗어나는 경험입니다. in turn은 그 결과로 다음 변화가 이어짐을 나타내요.",
       "grammar": "This가 주어, opens가 동사입니다. in turn은 삽입된 부사구이며, open the door to + 명사는 가능성을 여는 비유예요.",
-      "audio": "audio/1962-06/20.mp3"
+      "audio": "audio/1962-06/20.mp3",
+      "chunks": [
+        "This in turn opens",
+        "the door to bliss"
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/20-01.mp3",
+        "audio/1962-06/chunks-views/20-02.mp3"
+      ]
     },
     {
       "id": 21,
@@ -428,7 +598,17 @@
       "korean": "그러면 바로 이 세계가 완전히 새로운 세계로 달라집니다.",
       "explanation": "다른 세계로 이동하기보다 지금의 세계를 새롭게 경험한다는 문맥입니다. very는 바로 이 세계라는 점을 강조해요.",
       "grammar": "this very world에서 very는 ‘바로 그’라는 강조 표현입니다. change into는 ‘~로 바뀌다’, altogether는 ‘완전히’라는 부사예요.",
-      "audio": "audio/1962-06/21.mp3"
+      "audio": "audio/1962-06/21.mp3",
+      "chunks": [
+        "and then this very world",
+        "changes into",
+        "a new world altogether."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/21-01.mp3",
+        "audio/1962-06/chunks-views/21-02.mp3",
+        "audio/1962-06/chunks-views/21-03.mp3"
+      ]
     },
     {
       "id": 22,
@@ -436,7 +616,13 @@
       "korean": "명상을 계속하십시오.",
       "explanation": "과정을 꾸준히 이어가도록 간단히 격려합니다. 뒤에서는 결과를 재촉하지 말라고 덧붙여요.",
       "grammar": "동사원형 Keep으로 시작하는 명령문입니다. keep + -ing는 어떤 행동을 계속한다는 뜻이에요.",
-      "audio": "audio/1962-06/22.mp3"
+      "audio": "audio/1962-06/22.mp3",
+      "chunks": [
+        "Keep meditating."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/22-01.mp3"
+      ]
     },
     {
       "id": 23,
@@ -444,7 +630,13 @@
       "korean": "결과는 서서히 찾아올 것입니다.",
       "explanation": "변화가 즉시 뚜렷하게 드러나지 않을 수도 있음을 말합니다. slowly로 점진적인 과정을 표현해요.",
       "grammar": "복수 명사 Results가 주어입니다. will + 동사원형 come은 미래를, slowly는 변화가 나타나는 속도를 나타내요.",
-      "audio": "audio/1962-06/23.mp3"
+      "audio": "audio/1962-06/23.mp3",
+      "chunks": [
+        "Results will come slowly."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/23-01.mp3"
+      ]
     },
     {
       "id": 24,
@@ -452,7 +644,15 @@
       "korean": "그 점을 걱정하지 마십시오.",
       "explanation": "that은 결과가 천천히 오는 상황을 가리킵니다. 저자가 상대를 안심시키며 전하는 말이에요.",
       "grammar": "be not to + 동사원형은 지시·당부를 나타내는 구조입니다. worry about + 대상: ‘~을 걱정하다’.",
-      "audio": "audio/1962-06/24.mp3"
+      "audio": "audio/1962-06/24.mp3",
+      "chunks": [
+        "You are not to worry",
+        "about that,"
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/24-01.mp3",
+        "audio/1962-06/chunks-views/24-02.mp3"
+      ]
     },
     {
       "id": 25,
@@ -460,7 +660,13 @@
       "korean": "결과가 찾아오리라는 점은 분명합니다.",
       "explanation": "their는 results를 가리킵니다. 결과를 재촉하기보다 이어가라는 저자의 확신을 전해요.",
       "grammar": "their coming은 소유격 their를 의미상 주어로 갖는 동명사구이며 문장의 주어입니다. certain은 확실함을 나타내는 형용사 보어예요.",
-      "audio": "audio/1962-06/25.mp3"
+      "audio": "audio/1962-06/25.mp3",
+      "chunks": [
+        "their coming is certain."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/25-01.mp3"
+      ]
     },
     {
       "id": 26,
@@ -468,7 +674,13 @@
       "korean": "모든 분께 따뜻한 안부를 전합니다.",
       "explanation": "함께 있는 이들에게도 인사를 전하며 편지를 끝맺습니다.",
       "grammar": "My kind regards to + 대상은 편지의 맺음 인사입니다. regards는 이 용법에서 보통 복수형으로 사용해요.",
-      "audio": "audio/1962-06/26.mp3"
+      "audio": "audio/1962-06/26.mp3",
+      "chunks": [
+        "My kind regards to all."
+      ],
+      "chunkAudio": [
+        "audio/1962-06/chunks-views/26-01.mp3"
+      ]
     }
   ],
   "translations": [

@@ -14,6 +14,7 @@ const player = createAudioPlayer({
   onStatus: text => {
     $('player-status').textContent = text;
     $('hero-audio-status').textContent = text;
+    $('chunk-status').textContent = text;
   },
   getRate: () => Number($('global-rate').value),
   shouldLoop: () => $('loop-single').checked,
@@ -22,6 +23,7 @@ const player = createAudioPlayer({
 
 view = createLessonView({
   onPlaySentence: index => player.playSentence(index),
+  onPlayChunk: (index, chunkIndex) => player.playChunk(index, chunkIndex),
   onStop: () => player.stop()
 });
 
@@ -29,6 +31,7 @@ $('play-all').onclick = () => player.playFull();
 $('hero-play-all').onclick = () => player.playFull();
 $('hero-stop').onclick = () => player.stop();
 $('stop-all').onclick = () => player.stop();
+$('chunk-stop').onclick = () => player.stop();
 $('global-rate').onchange = () => player.setRate(Number($('global-rate').value));
 window.addEventListener('pagehide', () => player.stop());
 

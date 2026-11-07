@@ -1,0 +1,79 @@
+{
+  "provider": "Artlist",
+  "voice": "Hope - Bubbly, Gossipy and Girly",
+  "model": "ElevenLabs Multilingual v2",
+  "settings": {
+    "language": "English",
+    "accent": "American",
+    "speed": 0.9,
+    "effect": "NONE"
+  },
+  "files": [
+    {
+      "text": "It was really, really nice!",
+      "path": "audio/roleplay/1107-hope/01.mp3",
+      "generationId": "01a1b692-f818-7673-8a64-95f1472b6938",
+      "duration": 1.5673469387755101
+    },
+    {
+      "text": "It felt really good.",
+      "path": "audio/roleplay/1107-hope/02-v2.mp3",
+      "generationId": "01a1b69a-8f0c-77b8-9be6-8c7248a47338",
+      "duration": 1.436734693877551
+    },
+    {
+      "text": "Oh my God, it was sooo good!",
+      "path": "audio/roleplay/1107-hope/03.mp3",
+      "generationId": "01a1b693-3f12-7794-8e15-f95df414eebc",
+      "duration": 1.619591836734694
+    },
+    {
+      "text": "I loved it! It felt amazing!",
+      "path": "audio/roleplay/1107-hope/04.mp3",
+      "generationId": "01a1b693-698d-7398-be37-53a736cc2a23",
+      "duration": 2.115918367346939
+    },
+    {
+      "text": "It was amazing!",
+      "path": "audio/roleplay/1107-hope/05.mp3",
+      "generationId": "01a1b693-8b53-7abf-86ba-196016e05cf9",
+      "duration": 1.253877551020408
+    },
+    {
+      "text": "It was such an amazing experience!",
+      "path": "audio/roleplay/1107-hope/06.mp3",
+      "generationId": "01a1b693-ab00-7dcb-ba3d-a92d7bd3b27d",
+      "duration": 2.220408163265306
+    },
+    {
+      "text": "It was kind of exciting and dynamic.",
+      "path": "audio/roleplay/1107-hope/07.mp3",
+      "generationId": "01a1b693-d6b5-7e50-b56d-518597bb8fa5",
+      "duration": 2.3510204081632655
+    },
+    {
+      "text": "I felt so alive!",
+      "path": "audio/roleplay/1107-hope/08.mp3",
+      "generationId": "01a1b693-fc4f-7f20-b6ad-44e4e9bfbba7",
+      "duration": 1.5673469387755101
+    },
+    {
+      "text": "I feel confused inside.",
+      "path": "audio/roleplay/1107-hope/09.mp3",
+      "generationId": "01a1b694-22f6-7e29-b3b3-0242bfe8b638",
+      "duration": 1.5151020408163265
+    },
+    {
+      "text": "There's a lot going on inside me.",
+      "path": "audio/roleplay/1107-hope/10.mp3",
+      "generationId": "01a1b694-4932-70dc-bf02-01f558838862",
+      "duration": 2.089795918367347
+    },
+    {
+      "text": "I'm feeling a little blue.",
+      "path": "audio/roleplay/1107-hope/11.mp3",
+      "generationId": "01a1b694-70ec-7f6b-9827-bfcf26799c46",
+      "duration": 1.4889795918367348
+    }
+  ]
+}

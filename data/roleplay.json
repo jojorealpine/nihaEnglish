@@ -94,7 +94,9 @@
                       "korean": "여기에, 이곳에"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/cdec13ac82c6021d.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "처음 왔다고 말하고 상대도 처음인지 물어보세요.",
               "hints": [
@@ -117,7 +119,9 @@
                         "korean": "너는 어때?"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/8cc0401c4b3a3410.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -137,7 +141,9 @@
                       "korean": "어디 출신이야?"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/9af23e21c60f17e3.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "한국에서 왔다고 말하고 반갑다고 인사하세요.",
               "hints": [
@@ -160,7 +166,9 @@
                         "korean": "만나서 반가워."
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/b56a0897a4d2ced7.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -180,7 +188,9 @@
                       "korean": "얼마나 머물 예정이야?"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/920ab0bc3525393b.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "2주 머물 예정이라고 말해보세요.",
               "hints": [
@@ -202,7 +212,9 @@
                         "korean": "또 보자."
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/65a49875088197ef.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -234,7 +246,9 @@
                       "korean": "진행되고 있는"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/72dc200619e3eac5.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "잘 지내고 있다고 답하고 상대에게도 물어보세요.",
               "hints": [
@@ -257,7 +271,9 @@
                         "korean": "너는 어때?"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/cb239fc3c38bbdb8.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -277,7 +293,9 @@
                       "korean": "차 한잔하다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/1f2640969412ca54.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "차를 마시자는 제안을 받아보세요.",
               "hints": [
@@ -299,7 +317,9 @@
                         "korean": "정말 그러고 싶어."
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/08fd58182296458c.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -319,7 +339,9 @@
                       "korean": "세션이 끝난 뒤"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/05bd59095e839691.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "좋다고 답하고 나중에 보자고 말하세요.",
               "hints": [
@@ -342,7 +364,9 @@
                         "korean": "~ 후에 보자."
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/751c8517cc1a65dd.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -374,7 +398,9 @@
                       "korean": "세션, 한 차례의 프로그램"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/fcc0201cd97d67d6.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "즐거웠다고 짧게 답하고 상대의 생각을 물어보세요.",
               "hints": [
@@ -397,7 +423,9 @@
                         "korean": "그 시간이 정말 좋았다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/f1d776baab991f04.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -417,7 +445,9 @@
                       "korean": "다음 세션에 참여하다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/7ba67c0fdef887b6.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "다음 세션에 참여할 예정이라고 말하세요.",
               "hints": [
@@ -439,7 +469,9 @@
                         "korean": "다음 세션"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/682e8c269aa5b32f.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -459,7 +491,9 @@
                       "korean": "거기서 보자."
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/26002180ecd42d50.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "다시 만나자고 하고 명상을 잘하라고 인사하세요.",
               "hints": [
@@ -482,7 +516,9 @@
                         "korean": "명상 잘해!"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/29b350bc1c962975.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -590,7 +626,9 @@
                       "korean": "이름이 뭐야?"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/7da7f796db99c3f0.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "이름을 말하고 만나서 반갑다고 인사하세요.",
               "hints": [
@@ -613,7 +651,9 @@
                         "korean": "만나서 반가워."
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/f5c28ad13277d33a.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -633,7 +673,9 @@
                       "korean": "무슨 일 해?"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/d2ae884fad73798a.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "한국에서 왔고 서울에서 IT 일을 한다고 소개해보세요.",
               "hints": [
@@ -657,7 +699,9 @@
                         "korean": "IT 분야에서 일하다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/82f6f056c104445c.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -677,7 +721,9 @@
                       "korean": "bring의 과거형"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/3acb7f2e114173cb.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "명상을 경험하고 자신을 더 알아가려고 왔다고 말하세요.",
               "hints": [
@@ -700,7 +746,9 @@
                         "korean": "나 자신에 대해 더 알아가다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/ebbf125f6fe7a62c.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -732,7 +780,9 @@
                       "korean": "bring의 과거형"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/3acb7f2e114173cb.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "요즘 스트레스를 받아 잠시 쉬고 싶었다고 말하세요.",
               "hints": [
@@ -755,7 +805,9 @@
                         "korean": "잠시 쉬다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/0aa02d2525370a52.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -775,7 +827,9 @@
                       "korean": "지금까지는"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/76c2bf606b3ed454.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "새로운 경험이고 이곳에 와서 기쁘다고 답하세요.",
               "hints": [
@@ -798,7 +852,9 @@
                         "korean": "오길 잘했어."
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/1dbed03b6b3f8112.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -818,7 +874,9 @@
                       "korean": "~에서 무언가를 얻다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/8fc3c07770113f1c.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "긴장을 풀고 자신과 더 연결되고 싶다고 말하세요.",
               "hints": [
@@ -841,7 +899,9 @@
                         "korean": "내 감정과 내면을 깊이 느끼다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/33210540349a8533.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -873,7 +933,9 @@
                       "korean": "오랫동안"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/6bd8c9ccf60e570c.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "아직 새로 배우는 중이라고 말하세요.",
               "hints": [
@@ -895,7 +957,9 @@
                         "korean": "~을 처음 접하다, 아직 익숙하지 않다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/fe9298c6b2269cc7.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -915,7 +979,9 @@
                       "korean": "그것을 해보다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/985be6fb99043689.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "새로운 경험을 원했고 오쇼 명상이 궁금했다고 말하세요.",
               "hints": [
@@ -938,7 +1004,9 @@
                         "korean": "~이 궁금하다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/98011b4d3048b711.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -958,7 +1026,9 @@
                       "korean": "또한, 역시"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/9caa7ec999ae5961.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "푸네는 처음이며 이것저것 경험해 보려고 한다고 답하세요.",
               "hints": [
@@ -981,7 +1051,9 @@
                         "korean": "둘러보다, 탐색하다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/18b3ffcf536a1e3d.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -1073,7 +1145,9 @@
                       "korean": "오늘"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/8f767b000cdf4bac.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "‘평온한 아침’ 상황에 맞게 지금의 감정을 말하세요.",
               "hints": [
@@ -1096,7 +1170,9 @@
                         "korean": "평온한"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/c733932292b417c7.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -1116,7 +1192,9 @@
                       "korean": "조금 더"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/0a10996213c72127.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "감정에 대해 한 문장을 더 말하세요. 설명하기 어렵다고 해도 좋아요.",
               "hints": [
@@ -1139,7 +1217,9 @@
                         "korean": "이곳에 있어서 기쁜"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/e8ac8112bf89f1be.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -1159,7 +1239,9 @@
                       "korean": "지금"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/ee595fdfdc34f820.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "지금 자신에게 필요한 것을 말해보세요.",
               "hints": [
@@ -1182,7 +1264,9 @@
                         "korean": "잠시 동안"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/12d325deb2b693d9.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -1214,7 +1298,9 @@
                       "korean": "오늘"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/8f767b000cdf4bac.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "‘조금 불안한 아침’ 상황에 맞게 지금의 감정을 말하세요.",
               "hints": [
@@ -1237,7 +1323,9 @@
                         "korean": "불안한, 걱정되는"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/6c3ff753e0b50483.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -1257,7 +1345,9 @@
                       "korean": "조금 더"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/0a10996213c72127.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "감정에 대해 한 문장을 더 말하세요. 설명하기 어렵다고 해도 좋아요.",
               "hints": [
@@ -1280,7 +1370,9 @@
                         "korean": "생각이나 걱정이 많다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/eee351cd801b5b2d.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -1300,7 +1392,9 @@
                       "korean": "지금"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/ee595fdfdc34f820.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "지금 자신에게 필요한 것을 말해보세요.",
               "hints": [
@@ -1323,7 +1417,9 @@
                         "korean": "조용히 보내는 시간"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/744a9ec85e10d51e.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -1355,7 +1451,9 @@
                       "korean": "오늘"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/8f767b000cdf4bac.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "‘슬픔을 솔직하게 말하기’ 상황에 맞게 지금의 감정을 말하세요.",
               "hints": [
@@ -1378,7 +1476,9 @@
                         "korean": "조금 슬픈"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/337ce9d76e847ad7.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -1398,7 +1498,9 @@
                       "korean": "조금 더"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/0a10996213c72127.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "감정에 대해 한 문장을 더 말하세요. 설명하기 어렵다고 해도 좋아요.",
               "hints": [
@@ -1421,7 +1523,9 @@
                         "korean": "아직 ~하지 않은"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/cd56886c3d028924.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -1441,7 +1545,9 @@
                       "korean": "지금"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/ee595fdfdc34f820.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "지금 자신에게 필요한 것을 말해보세요.",
               "hints": [
@@ -1464,7 +1570,9 @@
                         "korean": "잠깐"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/15e1daaef9d2dbe1.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -1496,7 +1604,9 @@
                       "korean": "오늘"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/8f767b000cdf4bac.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "‘홀가분한 기분 나누기’ 상황에 맞게 지금의 감정을 말하세요.",
               "hints": [
@@ -1519,7 +1629,9 @@
                         "korean": "지금 느끼고 있는"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/93aeacc4feb20ad9.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -1539,7 +1651,9 @@
                       "korean": "조금 더"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/0a10996213c72127.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "감정에 대해 한 문장을 더 말하세요. 설명하기 어렵다고 해도 좋아요.",
               "hints": [
@@ -1562,7 +1676,9 @@
                         "korean": "명상하는 동안"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/e164baf4c38554d8.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -1582,7 +1698,9 @@
                       "korean": "지금"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/ee595fdfdc34f820.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "지금 자신에게 필요한 것을 말해보세요.",
               "hints": [
@@ -1605,7 +1723,9 @@
                         "korean": "산책하다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/f65b256fb45308a9.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -1637,7 +1757,9 @@
                       "korean": "오늘"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/8f767b000cdf4bac.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "‘복잡한 감정 말하기’ 상황에 맞게 지금의 감정을 말하세요.",
               "hints": [
@@ -1660,7 +1782,9 @@
                         "korean": "감정을 느끼다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/f89214875011d743.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -1680,7 +1804,9 @@
                       "korean": "조금 더"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/0a10996213c72127.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "감정에 대해 한 문장을 더 말하세요. 설명하기 어렵다고 해도 좋아요.",
               "hints": [
@@ -1703,7 +1829,9 @@
                         "korean": "조금 피곤한"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/9118115de0de331b.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -1723,7 +1851,9 @@
                       "korean": "지금"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/ee595fdfdc34f820.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "지금 자신에게 필요한 것을 말해보세요.",
               "hints": [
@@ -1746,7 +1876,9 @@
                         "korean": "기력을 회복하다, 재충전하다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/ee4b98798db91bd3.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -1755,6 +1887,69 @@
             "지금의 감정을 짧게 말하기",
             "지금 필요한 것을 한 문장으로 표현하기"
           ]
+        },
+        {
+          "id": "extra-expressions-1107",
+          "title": "1107추가표현",
+          "context": "좋았던 경험과 지금의 감정을 이야기하는 표현 11개를 익혀보세요.",
+          "expressions": [
+            {
+              "english": "It was really, really nice!",
+              "korean": "너무너무 좋았어!",
+              "audio": "audio/roleplay/1107-hope/01.mp3"
+            },
+            {
+              "english": "It felt really good.",
+              "korean": "기분이 정말 좋았어.",
+              "audio": "audio/roleplay/1107-hope/02-v2.mp3"
+            },
+            {
+              "english": "Oh my God, it was sooo good!",
+              "korean": "와, 진짜 너~무 좋았어!",
+              "audio": "audio/roleplay/1107-hope/03.mp3"
+            },
+            {
+              "english": "I loved it! It felt amazing!",
+              "korean": "너무 좋았어! 정말 끝내주는 느낌이었어!",
+              "audio": "audio/roleplay/1107-hope/04.mp3"
+            },
+            {
+              "english": "It was amazing!",
+              "korean": "정말 최고였어!",
+              "audio": "audio/roleplay/1107-hope/05.mp3"
+            },
+            {
+              "english": "It was such an amazing experience!",
+              "korean": "정말 멋진 경험이었어!",
+              "audio": "audio/roleplay/1107-hope/06.mp3"
+            },
+            {
+              "english": "It was kind of exciting and dynamic.",
+              "korean": "약간 설레고 역동적이었어.",
+              "audio": "audio/roleplay/1107-hope/07.mp3"
+            },
+            {
+              "english": "I felt so alive!",
+              "korean": "살아 있는 느낌이었어!",
+              "audio": "audio/roleplay/1107-hope/08.mp3"
+            },
+            {
+              "english": "I feel confused inside.",
+              "korean": "내면이 혼란스러워.",
+              "audio": "audio/roleplay/1107-hope/09.mp3"
+            },
+            {
+              "english": "There's a lot going on inside me.",
+              "korean": "내 안에서 많은 감정이 일어나고 있어.",
+              "audio": "audio/roleplay/1107-hope/10.mp3"
+            },
+            {
+              "english": "I'm feeling a little blue.",
+              "korean": "조금 울적해.",
+              "audio": "audio/roleplay/1107-hope/11.mp3"
+            }
+          ],
+          "audioVoice": "Hope - Bubbly, Gossipy and Girly"
         }
       ]
     },
@@ -1890,7 +2085,9 @@
                       "korean": "너에게는, 네 입장에서는"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/76000cd0a15f721a.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "강렬했고 많은 감정이 올라왔다고 말하세요.",
               "hints": [
@@ -1913,7 +2110,9 @@
                         "korean": "감정이 올라왔다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/0d3a9225cbddfaa1.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -1933,7 +2132,9 @@
                       "korean": "느끼다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/89780bd9443a462b.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "처음에는 슬펐고 눈물이 나기 시작했다고 말하세요.",
               "hints": [
@@ -1956,7 +2157,9 @@
                         "korean": "울기 시작했다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/0b15d24cb9d94366.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -1976,7 +2179,9 @@
                       "korean": "지금"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/618c72fa804dd129.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "지금은 훨씬 홀가분하다고 말하세요.",
               "hints": [
@@ -1998,7 +2203,9 @@
                         "korean": "좋은 경험"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/fef9f8fc9b4d0c00.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -2030,7 +2237,9 @@
                       "korean": "춤추는 동안"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/ae3ec2dafadc1f39.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "처음엔 부끄럽고 불편했다고 말하세요.",
               "hints": [
@@ -2052,7 +2261,9 @@
                         "korean": "불편한"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/c943d24030ac1fb7.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -2072,7 +2283,9 @@
                       "korean": "네 몸 안에서"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/88aa9c4560cb6bef.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "몸에 긴장이 있다는 것을 알아차렸다고 말하세요.",
               "hints": [
@@ -2094,7 +2307,9 @@
                         "korean": "~을 알아차리다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/96869628622d81b5.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -2114,7 +2329,9 @@
                       "korean": "어떤 느낌이야?"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/06fc1740753f9ba4.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "몸과 연결된 느낌이었고 지금은 편안하다고 말하세요.",
               "hints": [
@@ -2137,7 +2354,9 @@
                         "korean": "긴장이 풀린, 편안한"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/a011da58a3d26d97.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -2169,7 +2388,9 @@
                       "korean": "한 차례의 명상 프로그램"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/4c24df4d23ebdef5.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "생각이 많았고 생각을 멈추기 어려웠다고 말하세요.",
               "hints": [
@@ -2191,7 +2412,9 @@
                         "korean": "~하는 것을 멈출 수 없었다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/6ccbeab9f07c2209.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -2211,7 +2434,9 @@
                       "korean": "깨닫다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/bb19479de5a24cb5.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "많은 것을 붙잡고 있었다는 걸 깨달았다고 말하세요.",
               "hints": [
@@ -2234,7 +2459,9 @@
                         "korean": "많은 것"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/fef1eca441254b53.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -2254,7 +2481,9 @@
                       "korean": "~하고 싶어?"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/8b913d589e11c578.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "아직 소화하는 중이라 이 감정을 잠시 느끼고 싶다고 말하세요.",
               "hints": [
@@ -2277,7 +2506,9 @@
                         "korean": "감정과 함께 머물다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/8143173749dfeab9.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -2309,7 +2540,9 @@
                       "korean": "너에게는, 네 입장에서는"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/76000cd0a15f721a.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "강렬했고 여러 감정을 느꼈다고 말하세요.",
               "hints": [
@@ -2332,7 +2565,9 @@
                         "korean": "여러 감정, 많은 감정"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/83fdcf6ebd9bba07.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -2352,7 +2587,9 @@
                       "korean": "무엇을 ~했어?"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/0e43bf08a777dd99.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "몸의 긴장을 알아차렸고 나도 모르게 울고 있었다고 말하세요.",
               "hints": [
@@ -2375,7 +2612,9 @@
                         "korean": "나도 모르게 울고 있었다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/e41a69388e70f67c.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -2395,7 +2634,9 @@
                       "korean": "어떤 것, 무엇인가"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/45b1ab5416171967.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "많은 스트레스를 붙잡고 있었다는 것을 깨달았다고 말하세요.",
               "hints": [
@@ -2418,7 +2659,9 @@
                         "korean": "많은 스트레스"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/5253708d6059bf4e.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -2438,7 +2681,9 @@
                       "korean": "지금"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/618c72fa804dd129.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "지금은 홀가분하고 뭔가를 내려놓을 수 있었던 것 같다고 말하세요.",
               "hints": [
@@ -2461,7 +2706,9 @@
                         "korean": "무언가를 내려놓다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/d16b1f01f4719db9.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -2538,7 +2785,9 @@
                       "korean": "울기 시작하다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/78c01088f40b96b3.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "강렬한 경험이었겠다고 공감하세요.",
               "hints": [
@@ -2560,7 +2809,9 @@
                         "korean": "나눠줘서 고마워."
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/59785aa7d7309f78.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -2580,7 +2831,9 @@
                       "korean": "그렇게 슬픈"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/787f152300b1a703.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "그렇게 느껴도 괜찮고 천천히 해도 된다고 답하세요.",
               "hints": [
@@ -2603,7 +2856,9 @@
                         "korean": "천천히 해도 돼."
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/5592cb30bbed4b48.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -2623,7 +2878,9 @@
                       "korean": "귀 기울여 듣기"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/7258b4e037805024.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "이야기를 들어줄 수 있어 기쁘다고 말하세요.",
               "hints": [
@@ -2645,7 +2902,9 @@
                         "korean": "나에게 말해줘서 기뻐."
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/5f19c4adc0cabd73.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -2677,7 +2936,9 @@
                       "korean": "자유, 자유로움"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/8fa76799907fd003.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "아름다운 경험이었겠다고 말하세요.",
               "hints": [
@@ -2699,7 +2960,9 @@
                         "korean": "네가 잘돼서 나도 기뻐."
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/12a074b46323c4b2.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -2719,7 +2982,9 @@
                       "korean": "붙잡던 것을 놓다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/debe19bd2bdb9ea8.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "비슷한 느낌을 안다고 공감해보세요.",
               "hints": [
@@ -2741,7 +3006,9 @@
                         "korean": "그 후에"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/59c57e82960c5cd5.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -2761,7 +3028,9 @@
                       "korean": "말로 표현하다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/2d36a33fb88adb33.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "이해한다고 말하고 나눠줘서 고맙다고 하세요.",
               "hints": [
@@ -2784,7 +3053,9 @@
                         "korean": "A를 B와 나누다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/eca25e987df8330f.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -2816,7 +3087,9 @@
                       "korean": "그것을 설명하다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/a70bd660bab210e6.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "서두르지 않아도 된다고 말하세요.",
               "hints": [
@@ -2838,7 +3111,9 @@
                         "korean": "서두를 필요 없어."
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/7d5d0711ab3d6fcd.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -2858,7 +3133,9 @@
                       "korean": "일어난 일"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/262d58e636b37487.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "이해한다고 답하고 지금 말하지 않아도 된다고 하세요.",
               "hints": [
@@ -2881,7 +3158,9 @@
                         "korean": "지금 당장"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/e743d45fe5c23768.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -2901,7 +3180,9 @@
                       "korean": "나중에 이야기하다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/72c63c5b9627e468.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "좋다고 답하고 상대에게 시간을 주세요.",
               "hints": [
@@ -2924,7 +3205,9 @@
                         "korean": "나중에 봐."
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/00591904d96368ea.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -3000,7 +3283,9 @@
                       "korean": "~할래?"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/33d1ca44bd077bac.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "고맙지만 혼자만의 시간이 필요하다고 말하세요.",
               "hints": [
@@ -3022,7 +3307,9 @@
                         "korean": "혼자 보내는 시간"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/2631ad3f40db3044.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -3042,7 +3329,9 @@
                       "korean": "괜찮아, 문제없어."
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/f5617c06650fa057.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "이해해 줘서 고맙다고 말하세요.",
               "hints": [
@@ -3064,7 +3353,9 @@
                         "korean": "이해해 주는 것"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/fa749690384982d6.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -3084,7 +3375,9 @@
                       "korean": "다음 기회에"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/04ef511d27341fb6.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "나중에 이야기하자고 하고 인사하세요.",
               "hints": [
@@ -3107,7 +3400,9 @@
                         "korean": "나중에 봐!"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/6cfffdce8259ee78.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -3139,7 +3434,9 @@
                       "korean": "동행, 함께 있어 주는 사람"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/a1257acfd2e12e0b.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "지금은 혼자 앉아 있고 싶다고 답하세요.",
               "hints": [
@@ -3161,7 +3458,9 @@
                         "korean": "잠깐"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/65f06f63f331d987.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -3181,7 +3480,9 @@
                       "korean": "괜찮아?"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/04930432e735be7b.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "괜찮고 조용한 시간이 필요할 뿐이라고 말하세요.",
               "hints": [
@@ -3204,7 +3505,9 @@
                         "korean": "조용히 보내는 시간"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/f7d2778db677bbe2.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -3224,7 +3527,9 @@
                       "korean": "방해하지 않고 편히 하게 두다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/d208718828b30c98.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "고맙다고 말하며 마무리하세요.",
               "hints": [
@@ -3246,7 +3551,9 @@
                         "korean": "이해해 줘서 고마워."
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/9c3def6692919781.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -3278,7 +3585,9 @@
                       "korean": "우리, 우리 일행"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/b2afff716927746d.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "지금은 조금 피곤해서 쉬고 싶다고 말하세요.",
               "hints": [
@@ -3301,7 +3610,9 @@
                         "korean": "에너지를 회복하다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/75f2e38825d792d4.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -3321,7 +3632,9 @@
                       "korean": "나중에"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/f37a5ae7cb57c58d.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "지금은 약속하지 않고 나중에 보자고 답하세요.",
               "hints": [
@@ -3343,7 +3656,9 @@
                         "korean": "혼자만의 시간"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/21486e76515462bd.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -3363,7 +3678,9 @@
                       "korean": "잘 지내, 몸 잘 챙겨!"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/2c0c026db6d351cd.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "고마움과 인사를 전하세요.",
               "hints": [
@@ -3386,7 +3703,9 @@
                         "korean": "또 보자."
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/170cd8c5f9ab1f44.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -3458,7 +3777,9 @@
                       "korean": "~할래?"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/794e91120138dcd4.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "고맙지만 지금은 혼자 춤추고 싶다고 말하세요.",
               "hints": [
@@ -3480,7 +3801,9 @@
                         "korean": "혼자서"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/0958a76394f95938.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -3500,7 +3823,9 @@
                       "korean": "즐겁게 보내!"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/e71b41b3df88d4fa.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "고맙다고 하고 상대도 즐기라고 말하세요.",
               "hints": [
@@ -3523,7 +3848,9 @@
                         "korean": "즐겁게 보내!"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/21a7c487edcb3cbd.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -3543,7 +3870,9 @@
                       "korean": "세션이 끝난 뒤"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/80eec0dd1ea2513e.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "세션 후에 보자고 답하세요.",
               "hints": [
@@ -3565,7 +3894,9 @@
                         "korean": "한 차례의 프로그램"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/0069b5c5a02cd913.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -3597,7 +3928,9 @@
                       "korean": "춤추는 활동에 참여하다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/95fe49ea2070e472.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "지금은 구경하려고 한다고 말하세요.",
               "hints": [
@@ -3619,7 +3952,9 @@
                         "korean": "지금은, 일단은"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/32a1aaab6f7149f0.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -3639,7 +3974,9 @@
                       "korean": "재미있을 거야"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/98f7f6467fd7c1a3.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "지금은 괜찮다고 짧게 다시 답하세요.",
               "hints": [
@@ -3661,7 +3998,9 @@
                         "korean": "구경하는 것으로 즐거운"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/06d02e371ecb03f5.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -3681,7 +4020,9 @@
                       "korean": "네 저녁 시간"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/e85200cdbfcc55f6.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "상대에게도 좋은 시간을 빌어주세요.",
               "hints": [
@@ -3704,7 +4045,9 @@
                         "korean": "즐겁게 보내."
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/1d88092b8b9ef08e.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -3736,7 +4079,9 @@
                       "korean": "~을 원해?"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/62a7d8efb385a86e.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "혼자 춤추는 게 좋다고 말하세요.",
               "hints": [
@@ -3758,7 +4103,9 @@
                         "korean": "나 혼자"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/3d8768af28780a80.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -3778,7 +4125,9 @@
                       "korean": "한 곡 동안"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/25190a3cab001de2.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "고맙지만 혼자 추고 싶다는 뜻을 유지하세요.",
               "hints": [
@@ -3800,7 +4149,9 @@
                         "korean": "혼자서"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/05b6d0d11425da01.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -3820,7 +4171,9 @@
                       "korean": "즐겁게 보내!"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/5b89d81d7f5f1c78.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "고맙다고 인사하세요.",
               "hints": [
@@ -3843,7 +4196,9 @@
                         "korean": "너도!"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/471f0d6cfaa95531.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -3915,7 +4270,9 @@
                       "korean": "혼자 있다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/d03369ab96b4904a.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "고맙지만 지금은 혼자 있고 싶다고 다시 말하세요.",
               "hints": [
@@ -3937,7 +4294,9 @@
                         "korean": "지금 당장"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/137b75c0512a77d2.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -3957,7 +4316,9 @@
                       "korean": "아주 잠깐 동안"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/8670de0820f95476.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "혼자 있을 수 있도록 공간을 달라고 분명하게 말하세요.",
               "hints": [
@@ -3979,7 +4340,9 @@
                         "korean": "혼자 있을 시간이나 여유를 줘"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/f67fd68e3a299f12.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -3999,7 +4362,9 @@
                       "korean": "혼자 있을 여유를 주다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/6a5e2777e4260b9b.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "이해해 줘서 고맙다고 마무리하세요.",
               "hints": [
@@ -4021,7 +4386,9 @@
                         "korean": "이해해 주는 것"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/fa749690384982d6.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -4053,7 +4420,9 @@
                       "korean": "너를 안아주다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/835ab893abe354de.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "포옹은 원하지 않는다고 말하세요.",
               "hints": [
@@ -4076,7 +4445,9 @@
                         "korean": "포옹"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/c94b527d9c30573f.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -4096,7 +4467,9 @@
                       "korean": "짧은 포옹"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/d665c7c9d406ef19.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "만지지 말아 달라고 직접적으로 요청하세요.",
               "hints": [
@@ -4118,7 +4491,9 @@
                         "korean": "내 개인적인 공간을 존중하다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/1dff368679f53a1b.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -4138,7 +4513,9 @@
                       "korean": "그러지 않을게."
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/834b5d570bca9685.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "요청을 존중해 줘서 고맙다고 말하세요.",
               "hints": [
@@ -4160,7 +4537,9 @@
                         "korean": "나의 개인적인 공간"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/3fd066a43b621774.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -4192,7 +4571,9 @@
                       "korean": "일어난 일"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/614073159ddec79d.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "그 이야기는 하지 않고 싶다고 말하세요.",
               "hints": [
@@ -4214,7 +4595,9 @@
                         "korean": "그 이야기를 하다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/a2ccb16ea8df6b62.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -4234,7 +4617,9 @@
                       "korean": "나에게 말해도 돼."
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/7998a712e15f31f2.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "그 질문이 불편하다고 밝히고 존중을 요청하세요.",
               "hints": [
@@ -4257,7 +4642,9 @@
                         "korean": "사생활, 사적인 영역"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/988deb4d1173ccdc.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -4277,7 +4664,9 @@
                       "korean": "다른 무언가"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/4c70e9d357625806.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "고맙다고 말하고 이야기 주제를 바꿔보세요.",
               "hints": [
@@ -4300,7 +4689,9 @@
                         "korean": "~은 어땠어?"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/35c35075e1129501.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -4375,7 +4766,9 @@
                       "korean": "일정"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/75beadb4d31a5d12.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "일 때문에 매일 저녁을 쓰게 되는 방식이 힘들다고 말하세요.",
               "hints": [
@@ -4398,7 +4791,9 @@
                         "korean": "완전히 차지하다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/95e11a328e16cb1b.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -4418,7 +4813,9 @@
                       "korean": "바꿔볼 수 있는"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/88636160b117687b.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "시간 관리 실력을 높여 제시간에 일을 마치고 싶다고 말하세요.",
               "hints": [
@@ -4441,7 +4838,9 @@
                         "korean": "제시간에"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/65673731f20acf24.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -4461,7 +4860,9 @@
                       "korean": "다시, 또"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/1479f23b81f1b5bf.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "어쩔 수 없는 일도 있다며 내일 다시 해보겠다고 말하세요.",
               "hints": [
@@ -4483,7 +4884,9 @@
                         "korean": "다시 해보다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/c66e0ff5000de095.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -4515,7 +4918,9 @@
                       "korean": "주말 여행"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/8ed3810c69ddb7c6.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "취소됐고 갑작스러운 취소가 정말 싫다고 말하세요.",
               "hints": [
@@ -4538,7 +4943,9 @@
                         "korean": "마지막 순간의 갑작스러운 취소"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/4fc661246a6dc6b2.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -4558,7 +4965,9 @@
                       "korean": "무슨 일이 있었는지"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/8e73b8495469b136.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "그들이 상황을 처리하는 방식이 아쉬웠다고 말하세요.",
               "hints": [
@@ -4580,7 +4989,9 @@
                         "korean": "상황에 대처하다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/4724bd2e77921842.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -4600,7 +5011,9 @@
                       "korean": "이제, 지금"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/3d276feebf38f988.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "어쩔 수 없다고 받아들이고 다른 날을 고르겠다고 하세요.",
               "hints": [
@@ -4623,7 +5036,9 @@
                         "korean": "다른 날을 정하다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/edecdbf410ff0c26.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -4655,7 +5070,9 @@
                       "korean": "준비, 준비 상태"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/38a0ce7404a2b64d.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "항상 마지막 순간까지 미루는 방식이 힘들다고 말하세요.",
               "hints": [
@@ -4677,7 +5094,9 @@
                         "korean": "참기 어렵다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/c081c4b8f9e9fdad.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -4697,7 +5116,9 @@
                       "korean": "가정한 상황에서의 가능성을 나타냄"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/1b0d602b019493e0.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "실력을 높이고 함께 연습해야 한다고 말하세요.",
               "hints": [
@@ -4720,7 +5141,9 @@
                         "korean": "함께 연습하다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/08947410b76843b3.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -4740,7 +5163,9 @@
                       "korean": "잘못되다, 문제가 생기다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/d45959459125fae5.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "그럴 수도 있다며 경험에서 배우자고 말하세요.",
               "hints": [
@@ -4763,7 +5188,9 @@
                         "korean": "그 경험에서 배우다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/c0ddc86120f8d9fe.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -4838,7 +5265,9 @@
                       "korean": "가정한 만남에 대한 예상"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/c36f44f2e8666ceb.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "왜 그렇게 확신하는지 물어보세요.",
               "hints": [
@@ -4860,7 +5289,9 @@
                         "korean": "그렇게 확신하는"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/6306daf998c31fab.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -4880,7 +5311,9 @@
                       "korean": "찰떡궁합인, 아주 잘 어울리는"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/41ed286dac1e1e64.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "그렇다면 친구의 말을 믿어보겠다고 말하세요.",
               "hints": [
@@ -4902,7 +5335,9 @@
                         "korean": "네 말을 믿다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/747872d12c1c8ec8.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -4922,7 +5357,9 @@
                       "korean": "누군가를 잘못된 방향으로 이끌다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/185e5d0c9d6b1914.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "좋다고 답하고 차를 마시며 만나자고 제안하세요.",
               "hints": [
@@ -4945,7 +5382,9 @@
                         "korean": "언제 한번"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/107123fca673766b.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -4977,7 +5416,9 @@
                       "korean": "같은 팀의 동료"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/74e2442c88bb024f.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "처음부터 잘 통했다고 말하세요.",
               "hints": [
@@ -5000,7 +5441,9 @@
                         "korean": "곧바로, 처음부터"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/aebfb0d82a237232.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -5020,7 +5463,9 @@
                       "korean": "너희를 ~로 만들다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/208352038ffa1b0b.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "서로 보완해 주어 찰떡궁합이라고 말하세요.",
               "hints": [
@@ -5042,7 +5487,9 @@
                         "korean": "아주 잘 어울리는"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/abc7052b2a164a27.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -5062,7 +5509,9 @@
                       "korean": "너희 둘"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/e80afc31914319a1.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "직감상 잘 맞을 것 같다며 함께 해보자고 말하세요.",
               "hints": [
@@ -5085,7 +5534,9 @@
                         "korean": "함께 일해보다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/1ac949456ce154a9.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -5117,7 +5568,9 @@
                       "korean": "모임, 사람들의 집단"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/ac47f4d5d610fde4.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "왜 그렇게 생각하는지 물어보세요.",
               "hints": [
@@ -5139,7 +5592,9 @@
                         "korean": "내가 그것을 좋아할 것이다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/06f05cbf47ccbef1.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -5159,7 +5614,9 @@
                       "korean": "그냥 직감이라고 하자."
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/4d6390084188b63f.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "이번에는 친구의 말을 믿어보겠다고 말하세요.",
               "hints": [
@@ -5181,7 +5638,9 @@
                         "korean": "이번에는"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/35b659fb327eb830.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -5201,7 +5660,9 @@
                       "korean": "너도 알잖아"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/490ded8291357cdf.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "고맙다고 하고 함께 가보자고 답하세요.",
               "hints": [
@@ -5224,7 +5685,9 @@
                         "korean": "어떤 느낌인지 경험해 보다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/62e6ed2fb8a6ec91.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -5299,7 +5762,9 @@
                       "korean": "금요일에"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/ec90ea643fd375cc.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "회의가 7시까지라 7시 반이 더 나을 것 같다고 제안하세요.",
               "hints": [
@@ -5322,7 +5787,9 @@
                         "korean": "~시까지 이어지다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/641584002f063cf7.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -5342,7 +5809,9 @@
                       "korean": "확인하다, 확정하다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/1ad93f5d9a44ffe7.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "금요일에 연락해서 확인하겠다고 말하세요.",
               "hints": [
@@ -5365,7 +5834,9 @@
                         "korean": "확인하기 위해"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/e97426095df6d0d1.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -5385,7 +5856,9 @@
                       "korean": "앞서 정한 약속"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/78d59c30de11e199.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "좋다고 답하고 나중에 보자고 인사하세요.",
               "hints": [
@@ -5408,7 +5881,9 @@
                         "korean": "나중에 봐!"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/0b990782029fc9fe.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -5440,7 +5915,9 @@
                       "korean": "5시에"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/b6c31018226f8189.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "회의가 5시 반까지 있다고 설명하세요.",
               "hints": [
@@ -5462,7 +5939,9 @@
                         "korean": "~시까지 이어지는 회의"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/550efc99be437b72.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -5482,7 +5961,9 @@
                       "korean": "6시가 ~일까?"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/8307eb5eff0dd0d9.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "6시 괜찮다고 하고 끝나면 연락하겠다고 말하세요.",
               "hints": [
@@ -5505,7 +5986,9 @@
                         "korean": "연락하다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/fc272d7ebce170be.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -5525,7 +6008,9 @@
                       "korean": "그때 보자"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/fa4b3522f12be9ca.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "만남을 확인하고 편하게 인사하세요.",
               "hints": [
@@ -5548,7 +6033,9 @@
                         "korean": "나중에 봐!"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/c2afd7f1fbd93ad6.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -5580,7 +6067,9 @@
                       "korean": "~ 직후에, 끝나자마자"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/459b79ad1b58ee2c.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "잠깐 쉴 수 있도록 30분 뒤가 더 좋겠다고 말하세요.",
               "hints": [
@@ -5603,7 +6092,9 @@
                         "korean": "쉴 시간"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/66481e0b7daacfb5.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -5623,7 +6114,9 @@
                       "korean": "끝난 뒤에 연락하다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/ea09b96fce8d216b.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "좋다고 답하고 준비되면 연락해 달라고 하세요.",
               "hints": [
@@ -5646,7 +6139,9 @@
                         "korean": "네가 준비되면"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/3936ed6be8ddda7c.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -5666,7 +6161,9 @@
                       "korean": "세션 잘 즐겨!"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/0c0ced71867a1083.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "상대도 잘 보내라고 하고 나중에 보자고 말하세요.",
               "hints": [
@@ -5689,7 +6186,9 @@
                         "korean": "나중에 보자."
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/b9cfe9986fe99e8c.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -5764,7 +6263,9 @@
                       "korean": "너는 ~하고 있어?"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/33d8a30bcb1a571a.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "차가 너무 막혀 10분쯤 늦는다고 사과하세요.",
               "hints": [
@@ -5788,7 +6289,9 @@
                         "korean": "10분 정도 늦을지도 몰라"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/82f670bddb9bc2c2.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -5808,7 +6311,9 @@
                       "korean": "대기 줄에서 우리보다 앞에"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/128e0d3593673950.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "도착하면 연락하겠다고 말하세요.",
               "hints": [
@@ -5831,7 +6336,9 @@
                         "korean": "내가 거기 도착하면"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/b86275bf3a3be1db.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -5851,7 +6358,9 @@
                       "korean": "베이지색 스웨터"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/465a74d3a102395e.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "고맙다고 하고 베이지색 스웨터를 찾아보겠다고 말하세요.",
               "hints": [
@@ -5874,7 +6383,9 @@
                         "korean": "앞서 말한 베이지색 스웨터"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/34b3cf7a2f9bb5b4.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -5906,7 +6417,9 @@
                       "korean": "메시지를 놓치다, 못 보다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/514faadf441921fb.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "바뀐 시간을 몰랐다며 잘못을 인정하세요.",
               "hints": [
@@ -5929,7 +6442,9 @@
                         "korean": "시간이 이미 바뀌어 있었다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/eb47f5431bd33fb6.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -5949,7 +6464,9 @@
                       "korean": "조금 기다리다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/e8cb57753d1cca37.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "고맙다고 하고 도착하면 연락하겠다고 말하세요.",
               "hints": [
@@ -5971,7 +6488,9 @@
                         "korean": "너에게 연락하다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/9c6ac39c944a81fa.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -5991,7 +6510,9 @@
                       "korean": "옆쪽 입구 근처에서"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/5e42bd14c13bf209.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "옆쪽 입구로 바로 가겠다고 말하세요.",
               "hints": [
@@ -6014,7 +6535,9 @@
                         "korean": "~로 곧장 가다"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/6e335e6baec25163.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }
@@ -6046,7 +6569,9 @@
                       "korean": "베이지색 스웨터를 입은"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/87e63dd258d80ad2.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "방금 도착했으며 찾으면 연락하겠다고 말하세요.",
               "hints": [
@@ -6069,7 +6594,9 @@
                         "korean": "내가 너를 찾으면"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/b87f946e6a5ac009.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -6089,7 +6616,9 @@
                       "korean": "우리 앞에"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/bd0243b70d391f08.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "주차하기가 정말 힘들었다고 말하고 기다려줘서 고맙다고 하세요.",
               "hints": [
@@ -6112,7 +6641,9 @@
                         "korean": "악몽처럼 힘든 일"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/c3eb2086fd86dd9d.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             },
@@ -6132,7 +6663,9 @@
                       "korean": "~을 입고 있다"
                     }
                   ]
-                }
+                },
+                "audio": "audio/roleplay/dialogue/hope/12a548885022116e.mp3",
+                "audioVoice": "Hope - Bubbly, Gossipy and Girly"
               },
               "mission": "맞다고 답하고 곧 가겠다고 말하세요.",
               "hints": [
@@ -6155,7 +6688,9 @@
                         "korean": "금방 갈게!"
                       }
                     ]
-                  }
+                  },
+                  "audio": "audio/roleplay/dialogue/jessica/d7d6e9043b619f2b.mp3",
+                  "audioVoice": "Jessica Anne Bogart - Chatty and Friendly"
                 }
               ]
             }

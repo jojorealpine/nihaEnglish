@@ -100,8 +100,28 @@ export function createAudioPlayer({ onSelect, onPlaying, onStatus, getRate, shou
     onStatus(success ? '전체 듣기 완료' : '전체 음성 파일을 찾을 수 없거나 재생할 수 없습니다.');
   }
 
+  async function playChunk(index, chunkIndex) {
+    const sentence = lesson?.sentences[index];
+    const text = (sentence?.chunks || [sentence?.english])[chunkIndex];
+    if (!text) return;
+    cancel();
+    const token = generation;
+    onSelect(index);
+    onPlaying(index);
+    onStatus(`문장 ${index + 1} · 구절 ${chunkIndex + 1} MP3 재생 중…`);
+    let success = await playMP3(sentence.chunkAudio?.[chunkIndex], token);
+    if (token !== generation) return;
+    if (!success && shouldFallback()) {
+      onStatus(`MP3 없음 · 문장 ${index + 1} · 구절 ${chunkIndex + 1} 브라우저 음성으로 재생`);
+      success = await playBrowserSpeech(text, token);
+    }
+    if (token !== generation) return;
+    onPlaying(null);
+    onStatus(success ? '구절 듣기 완료' : '구절 음성을 재생할 수 없습니다.');
+  }
+
   return {
-    playSentence, playFull, stop,
+    playSentence, playChunk, playFull, stop,
     setLesson(data) { cancel(); lesson = data; },
     setRate(rate) { audio.playbackRate = rate; }
   };

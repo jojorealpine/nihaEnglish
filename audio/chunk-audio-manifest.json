@@ -1,0 +1,1925 @@
+{
+  "provider": "Artlist",
+  "voice": "Views",
+  "model": "ElevenLabs Multilingual v2",
+  "settings": {
+    "language": "English",
+    "accent": "American",
+    "speed": 0.9,
+    "effect": "NONE"
+  },
+  "status": "complete",
+  "totalChunks": 318,
+  "readyChunks": 318,
+  "files": [
+    {
+      "text": "Love,",
+      "path": "audio/1962-01/chunks-views/01-01.mp3",
+      "generationId": "01a1b670-e708-7b74-ac6b-6213babc994f",
+      "durationSeconds": 1.253877551020408
+    },
+    {
+      "text": "I received your letter.",
+      "path": "audio/1962-01/chunks-views/01-02.mp3",
+      "generationId": "01a1b670-da01-7290-b552-97aa1b2843f3",
+      "durationSeconds": 1.28
+    },
+    {
+      "text": "How lovingly",
+      "path": "audio/1962-01/chunks-views/02-01.mp3",
+      "generationId": "01a1b670-dd97-73bb-8a9e-ed75fc81ecbd",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "you insist on my writing something,",
+      "path": "audio/1962-01/chunks-views/02-02.mp3",
+      "generationId": "01a1b671-05c6-71f4-a44f-00f91554007c",
+      "durationSeconds": 2.403265306122449
+    },
+    {
+      "text": "and here I am I,",
+      "path": "audio/1962-01/chunks-views/02-03.mp3",
+      "generationId": "01a1b671-0a7e-749e-9106-44cc64ea1cfa",
+      "durationSeconds": 1.6979591836734693
+    },
+    {
+      "text": "I drowned in a deep silence!",
+      "path": "audio/1962-01/chunks-views/02-04.mp3",
+      "generationId": "01a1b671-0e2d-714c-ab8e-5a64c297c490",
+      "durationSeconds": 2.220408163265306
+    },
+    {
+      "text": "I speak,",
+      "path": "audio/1962-01/chunks-views/03-01.mp3",
+      "generationId": "01a1b671-2c18-7d1d-bd88-b9c5083bb8df",
+      "durationSeconds": 1.3844897959183673
+    },
+    {
+      "text": "I work,",
+      "path": "audio/1962-01/chunks-views/03-02.mp3",
+      "generationId": "01a1b671-2fd1-7638-8dd1-67a62c4143dc",
+      "durationSeconds": 1.2016326530612245
+    },
+    {
+      "text": "but I am steeped in emptiness within.",
+      "path": "audio/1962-01/chunks-views/03-03.mp3",
+      "generationId": "01a1b671-33d8-71ce-a867-b608d22cf25d",
+      "durationSeconds": 2.5338775510204083
+    },
+    {
+      "text": "There,",
+      "path": "audio/1962-01/chunks-views/04-01.mp3",
+      "generationId": "01a1b671-51fc-73e3-b7a8-e5f7e7861907",
+      "durationSeconds": 1.0971428571428572
+    },
+    {
+      "text": "there is no movement.",
+      "path": "audio/1962-01/chunks-views/04-02.mp3",
+      "generationId": "01a1b671-55d1-7970-85b0-3ff8226eda93",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "Thus I seem",
+      "path": "audio/1962-01/chunks-views/05-01.mp3",
+      "generationId": "01a1b671-5b81-7093-bd7a-43aa3ebb3d74",
+      "durationSeconds": 1.3322448979591837
+    },
+    {
+      "text": "to be living two lives",
+      "path": "audio/1962-01/chunks-views/05-02.mp3",
+      "generationId": "01a1b671-7edc-750d-a28c-0ffcbd1cf1e5",
+      "durationSeconds": 1.9853061224489796
+    },
+    {
+      "text": "at one time.",
+      "path": "audio/1962-01/chunks-views/05-03.mp3",
+      "generationId": "01a1b671-7610-757f-b438-8c5edab80295",
+      "durationSeconds": 1.28
+    },
+    {
+      "text": "What a drama!",
+      "path": "audio/1962-01/chunks-views/06-01.mp3",
+      "generationId": "01a1b671-9206-703b-88cc-9dcf8d863e0d",
+      "durationSeconds": 0.966530612244898
+    },
+    {
+      "text": "But perhaps",
+      "path": "audio/1962-01/chunks-views/07-01.mp3",
+      "generationId": "01a1b671-919d-7e9d-a440-d389f7d3c00a",
+      "durationSeconds": 1.1493877551020408
+    },
+    {
+      "text": "all of life is a drama",
+      "path": "audio/1962-01/chunks-views/07-02.mp3",
+      "generationId": "01a1b671-b2e1-7ca0-8861-98328d0eb3fc",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "and becoming aware of this",
+      "path": "audio/1962-01/chunks-views/07-03.mp3",
+      "generationId": "01a1b671-b67a-7b0a-9421-4eed471eb398",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "opens the door",
+      "path": "audio/1962-01/chunks-views/07-04.mp3",
+      "generationId": "01a1b671-ba9d-7192-9fbe-62c8844e482d",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "to a unique freedom.",
+      "path": "audio/1962-01/chunks-views/07-05.mp3",
+      "generationId": "01a1b671-d171-733b-89e7-d7496addb0e7",
+      "durationSeconds": 1.436734693877551
+    },
+    {
+      "text": "That which is",
+      "path": "audio/1962-01/chunks-views/08-01.mp3",
+      "generationId": "01a1b671-d4aa-788c-ab07-1936b26c5329",
+      "durationSeconds": 1.3844897959183673
+    },
+    {
+      "text": "inaction in action,",
+      "path": "audio/1962-01/chunks-views/08-02.mp3",
+      "generationId": "01a1b671-d8b3-75c6-a31c-83935a92d86c",
+      "durationSeconds": 1.6979591836734693
+    },
+    {
+      "text": "stillness in motion,",
+      "path": "audio/1962-01/chunks-views/08-03.mp3",
+      "generationId": "01a1b671-f17f-746c-bebb-d078ee37cbe4",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "eternity in change —",
+      "path": "audio/1962-01/chunks-views/08-04.mp3",
+      "generationId": "01a1b671-f7c5-74d8-a60f-6434c5755d75",
+      "durationSeconds": 1.933061224489796
+    },
+    {
+      "text": "that is truth",
+      "path": "audio/1962-01/chunks-views/09-01.mp3",
+      "generationId": "01a1b671-fba5-711e-ad13-0356a395d834",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "and that is existence.",
+      "path": "audio/1962-01/chunks-views/09-02.mp3",
+      "generationId": "01a1b672-1b71-73e6-91f8-77578d06ebe9",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "Real life lies",
+      "path": "audio/1962-01/chunks-views/09-03.mp3",
+      "generationId": "01a1b672-1ff2-70d9-a722-e76aadb361ca",
+      "durationSeconds": 1.619591836734694
+    },
+    {
+      "text": "in this eternity —",
+      "path": "audio/1962-01/chunks-views/09-04.mp3",
+      "generationId": "01a1b672-246f-7967-9dcb-f6a1be524ebf",
+      "durationSeconds": 1.619591836734694
+    },
+    {
+      "text": "everything else is just",
+      "path": "audio/1962-01/chunks-views/10-01.mp3",
+      "generationId": "01a1b672-427c-7fe7-9e87-ba570e6b21e9",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "the stream of dreams.",
+      "path": "audio/1962-01/chunks-views/10-02.mp3",
+      "generationId": "01a1b672-472a-7892-a0ad-e8ba6c6dc900",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "In truth,",
+      "path": "audio/1962-01/chunks-views/11-01.mp3",
+      "generationId": "01a1b672-4bba-73d5-8e17-69bd3d3c84f6",
+      "durationSeconds": 1.0187755102040816
+    },
+    {
+      "text": "the world is just a dream",
+      "path": "audio/1962-01/chunks-views/11-02.mp3",
+      "generationId": "01a1b672-6984-7643-8132-03f17eb9f9ad",
+      "durationSeconds": 2.115918367346939
+    },
+    {
+      "text": "and the question is not",
+      "path": "audio/1962-01/chunks-views/11-03.mp3",
+      "generationId": "01a1b672-6d1a-7419-acd1-102a86c72096",
+      "durationSeconds": 1.28
+    },
+    {
+      "text": "whether to leave these dreams or not,",
+      "path": "audio/1962-01/chunks-views/11-04.mp3",
+      "generationId": "01a1b672-73d6-7ef7-b55d-c514f5109413",
+      "durationSeconds": 2.5338775510204083
+    },
+    {
+      "text": "one just has to",
+      "path": "audio/1962-01/chunks-views/12-01.mp3",
+      "generationId": "01a1b672-8a96-7431-ae97-1b435af236b3",
+      "durationSeconds": 1.28
+    },
+    {
+      "text": "be aware of them.",
+      "path": "audio/1962-01/chunks-views/12-02.mp3",
+      "generationId": "01a1b672-9e4b-7d7b-a026-d12a48702b35",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "With this awareness,",
+      "path": "audio/1962-01/chunks-views/13-01.mp3",
+      "generationId": "01a1b672-a1b4-7c23-981f-b6132742b93f",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "everything changes.",
+      "path": "audio/1962-01/chunks-views/13-02.mp3",
+      "generationId": "01a1b672-c301-7bb6-889c-a8200b898f0b",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "The center moves.",
+      "path": "audio/1962-01/chunks-views/14-01.mp3",
+      "generationId": "01a1b672-da3d-7385-aeca-d93a6d72dce4",
+      "durationSeconds": 1.3322448979591837
+    },
+    {
+      "text": "A shift takes place",
+      "path": "audio/1962-01/chunks-views/15-01.mp3",
+      "generationId": "01a1b672-e0f3-7bad-92cd-4140026de63f",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "from the body",
+      "path": "audio/1962-01/chunks-views/15-02.mp3",
+      "generationId": "01a1b672-9303-70e4-9852-ab307d4fb24d",
+      "durationSeconds": 1.253877551020408
+    },
+    {
+      "text": "to the soul.",
+      "path": "audio/1962-01/chunks-views/15-03.mp3",
+      "generationId": "01a1b672-96fc-7776-b3bd-9fd8f47d28af",
+      "durationSeconds": 1.2016326530612245
+    },
+    {
+      "text": "And what is there,",
+      "path": "audio/1962-01/chunks-views/16-01.mp3",
+      "generationId": "01a1b672-9a2c-77af-ac5f-a2295a1c2615",
+      "durationSeconds": 1.436734693877551
+    },
+    {
+      "text": "it cannot be told.",
+      "path": "audio/1962-01/chunks-views/16-02.mp3",
+      "generationId": "01a1b672-9f21-7774-aa0e-c5fdead148a2",
+      "durationSeconds": 1.436734693877551
+    },
+    {
+      "text": "It has never been told",
+      "path": "audio/1962-01/chunks-views/17-01.mp3",
+      "generationId": "01a1b672-a226-74c9-b8ad-0165afdbf9f8",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "and it never will be.",
+      "path": "audio/1962-01/chunks-views/17-02.mp3",
+      "generationId": "01a1b672-a5f4-75a0-9455-ca07231b921a",
+      "durationSeconds": 1.8546938775510204
+    },
+    {
+      "text": "There is no other way",
+      "path": "audio/1962-01/chunks-views/18-01.mp3",
+      "generationId": "01a1b672-a9a4-7273-9d91-aad94a2207c1",
+      "durationSeconds": 1.8024489795918368
+    },
+    {
+      "text": "but to know it",
+      "path": "audio/1962-01/chunks-views/18-02.mp3",
+      "generationId": "01a1b672-acd9-7dff-b8b1-2d6599c04b9c",
+      "durationSeconds": 1.436734693877551
+    },
+    {
+      "text": "for oneself.",
+      "path": "audio/1962-01/chunks-views/18-03.mp3",
+      "generationId": "01a1b672-b0e7-75e4-9447-0e78f874535e",
+      "durationSeconds": 1.3322448979591837
+    },
+    {
+      "text": "Death is known",
+      "path": "audio/1962-01/chunks-views/19-01.mp3",
+      "generationId": "01a1b672-b58e-787d-b5c1-e2b76ea250ee",
+      "durationSeconds": 1.3322448979591837
+    },
+    {
+      "text": "only through diving deep within oneself.",
+      "path": "audio/1962-01/chunks-views/19-02.mp3",
+      "generationId": "01a1b672-b9be-79a0-909b-98d51594e00c",
+      "durationSeconds": 2.742857142857143
+    },
+    {
+      "text": "May God drown you",
+      "path": "audio/1962-01/chunks-views/20-01.mp3",
+      "generationId": "01a1b672-bdc3-7d98-801f-cc9a55ce4161",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "in this truth.",
+      "path": "audio/1962-01/chunks-views/20-02.mp3",
+      "generationId": "01a1b672-cb2e-725c-9865-542ff85bb96f",
+      "durationSeconds": 1.2016326530612245
+    },
+    {
+      "text": "Love,",
+      "path": "audio/1962-02/chunks-views/01-01.mp3",
+      "generationId": "01a1b670-e708-7b74-ac6b-6213babc994f",
+      "durationSeconds": 1.253877551020408
+    },
+    {
+      "text": "I am in bliss.",
+      "path": "audio/1962-02/chunks-views/01-02.mp3",
+      "generationId": "01a1b672-d4a4-76ad-b879-b8a43fc61789",
+      "durationSeconds": 1.253877551020408
+    },
+    {
+      "text": "I have been meaning to write",
+      "path": "audio/1962-02/chunks-views/02-01.mp3",
+      "generationId": "01a1b670-21cf-76dd-bd42-b875de751a8a",
+      "durationSeconds": 1.5673469387755101
+    },
+    {
+      "text": "for a long time",
+      "path": "audio/1962-02/chunks-views/02-02.mp3",
+      "generationId": "01a1b672-d88a-7f09-bc9f-c76b438ade1f",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "but many engagements",
+      "path": "audio/1962-02/chunks-views/03-01.mp3",
+      "generationId": "01a1b672-dbb4-7639-8dc8-8ca5f87993e8",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "prevented me.",
+      "path": "audio/1962-02/chunks-views/03-02.mp3",
+      "generationId": "01a1b672-e43c-78fc-8643-7724f686b23a",
+      "durationSeconds": 1.3322448979591837
+    },
+    {
+      "text": "My blessings,",
+      "path": "audio/1962-02/chunks-views/04-01.mp3",
+      "generationId": "01a1b672-ec5b-7f69-9e13-b0edf9649bab",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "however,",
+      "path": "audio/1962-02/chunks-views/04-02.mp3",
+      "generationId": "01a1b672-ef58-77ca-a50f-8c895db46434",
+      "durationSeconds": 1.253877551020408
+    },
+    {
+      "text": "I send every day.",
+      "path": "audio/1962-02/chunks-views/04-03.mp3",
+      "generationId": "01a1b672-f2a1-7869-95e2-8269bda18f2d",
+      "durationSeconds": 1.28
+    },
+    {
+      "text": "Life is a sadhana,",
+      "path": "audio/1962-02/chunks-views/05-01.mp3",
+      "generationId": "01a1b672-f87c-76b9-b95f-1a4ee2eb10c7",
+      "durationSeconds": 1.933061224489796
+    },
+    {
+      "text": "the more you involve yourself in it",
+      "path": "audio/1962-02/chunks-views/06-01.mp3",
+      "generationId": "01a1b672-ff4f-79a5-9416-030776d27988",
+      "durationSeconds": 2.5338775510204083
+    },
+    {
+      "text": "the more divine it becomes.",
+      "path": "audio/1962-02/chunks-views/06-02.mp3",
+      "generationId": "01a1b673-07d7-7702-a364-6992aaea1055",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "The light is hidden",
+      "path": "audio/1962-02/chunks-views/07-01.mp3",
+      "generationId": "01a1b672-f9e2-721e-88b7-9624608f87ba",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "in the darkness,",
+      "path": "audio/1962-02/chunks-views/07-02.mp3",
+      "generationId": "01a1b673-13a4-76c9-936c-316f40b2b8dd",
+      "durationSeconds": 1.619591836734694
+    },
+    {
+      "text": "truth is hidden,",
+      "path": "audio/1962-02/chunks-views/07-03.mp3",
+      "generationId": "01a1b673-1aff-7b57-9eef-87ac6990c8eb",
+      "durationSeconds": 1.1493877551020408
+    },
+    {
+      "text": "and from this comes",
+      "path": "audio/1962-02/chunks-views/08-01.mp3",
+      "generationId": "01a1b673-2565-7835-993f-3e0f3a4689a5",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "the joy of searching.",
+      "path": "audio/1962-02/chunks-views/08-02.mp3",
+      "generationId": "01a1b673-2c69-7772-b9a5-b263f94c9f12",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "I remember",
+      "path": "audio/1962-02/chunks-views/09-01.mp3",
+      "generationId": "01a1b673-309e-7122-af8d-fa5b0b4abb91",
+      "durationSeconds": 1.0710204081632653
+    },
+    {
+      "text": "the words of a rishi.",
+      "path": "audio/1962-02/chunks-views/09-02.mp3",
+      "generationId": "01a1b673-36d9-7f2f-a80a-3e0151318bfd",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "Truth is hidden",
+      "path": "audio/1962-02/chunks-views/10-01.mp3",
+      "generationId": "01a1b673-3a8c-72cd-9b7f-20e47e7d9e54",
+      "durationSeconds": 1.5673469387755101
+    },
+    {
+      "text": "under a golden lid.",
+      "path": "audio/1962-02/chunks-views/10-02.mp3",
+      "generationId": "01a1b673-3fec-7286-96ce-e222a81e4126",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "The golden lid",
+      "path": "audio/1962-02/chunks-views/11-01.mp3",
+      "generationId": "01a1b673-472d-72c9-8b6c-8bc7c93d6b00",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "that hides truth",
+      "path": "audio/1962-02/chunks-views/11-02.mp3",
+      "generationId": "01a1b673-4a10-71c9-ab1a-0b0aae62fc96",
+      "durationSeconds": 2.1681632653061222
+    },
+    {
+      "text": "is nothing but our mind.",
+      "path": "audio/1962-02/chunks-views/11-03.mp3",
+      "generationId": "01a1b673-4642-7d78-8b05-54ac46f9aece",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "The mind has smothered us:",
+      "path": "audio/1962-02/chunks-views/12-01.mp3",
+      "generationId": "01a1b673-5553-7b28-a3ae-7f29d56a67c8",
+      "durationSeconds": 1.8546938775510204
+    },
+    {
+      "text": "we are in it,",
+      "path": "audio/1962-02/chunks-views/13-01.mp3",
+      "generationId": "01a1b673-61c3-7c99-90fe-1cbcaefb1fd6",
+      "durationSeconds": 1.3844897959183673
+    },
+    {
+      "text": "we identify with it,",
+      "path": "audio/1962-02/chunks-views/13-02.mp3",
+      "generationId": "01a1b673-650a-7fd8-b234-832d0fc9ea84",
+      "durationSeconds": 1.9853061224489796
+    },
+    {
+      "text": "therefore",
+      "path": "audio/1962-02/chunks-views/14-01.mp3",
+      "generationId": "01a1b673-6d9f-7638-b339-9016b7ebf561",
+      "durationSeconds": 1.28
+    },
+    {
+      "text": "the suffering comes,",
+      "path": "audio/1962-02/chunks-views/14-02.mp3",
+      "generationId": "01a1b673-74ba-7bc5-8f2b-2168a31a279b",
+      "durationSeconds": 1.8546938775510204
+    },
+    {
+      "text": "the bondage and the chain of rebirths.",
+      "path": "audio/1962-02/chunks-views/14-03.mp3",
+      "generationId": "01a1b673-7839-7ca8-9d86-eed16e12d0c5",
+      "durationSeconds": 2.455510204081633
+    },
+    {
+      "text": "My respects to you.",
+      "path": "audio/1962-03/chunks-views/01-01.mp3",
+      "generationId": "01a1b673-7e68-70fd-b546-48c9ebbdb759",
+      "durationSeconds": 1.28
+    },
+    {
+      "text": "I was extremely pleased",
+      "path": "audio/1962-03/chunks-views/02-01.mp3",
+      "generationId": "01a1b673-6170-7a09-99d3-5f808c4c762f",
+      "durationSeconds": 2.115918367346939
+    },
+    {
+      "text": "to get your letter.",
+      "path": "audio/1962-03/chunks-views/02-02.mp3",
+      "generationId": "01a1b673-64d4-7fa7-a61f-09369701677d",
+      "durationSeconds": 1.8024489795918368
+    },
+    {
+      "text": "So far",
+      "path": "audio/1962-03/chunks-views/03-01.mp3",
+      "generationId": "01a1b673-846b-7f81-b752-f127d337f766",
+      "durationSeconds": 1.0971428571428572
+    },
+    {
+      "text": "I have not written anything",
+      "path": "audio/1962-03/chunks-views/03-02.mp3",
+      "generationId": "01a1b673-89c3-7921-a25d-5e6b6650788c",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "but a meditation center",
+      "path": "audio/1962-03/chunks-views/04-01.mp3",
+      "generationId": "01a1b673-9217-7ecf-9fbe-df977d95db47",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "has started here",
+      "path": "audio/1962-03/chunks-views/04-02.mp3",
+      "generationId": "01a1b673-9b11-7d20-809e-25e0bc7eea7e",
+      "durationSeconds": 1.5673469387755101
+    },
+    {
+      "text": "where some friends are experimenting.",
+      "path": "audio/1962-03/chunks-views/04-03.mp3",
+      "generationId": "01a1b673-a397-75b8-bb2a-e41da7892666",
+      "durationSeconds": 2.220408163265306
+    },
+    {
+      "text": "When I have some definite results",
+      "path": "audio/1962-03/chunks-views/05-01.mp3",
+      "generationId": "01a1b673-a769-7b05-bd73-3ccab915b085",
+      "durationSeconds": 2.115918367346939
+    },
+    {
+      "text": "there is every possibility",
+      "path": "audio/1962-03/chunks-views/05-02.mp3",
+      "generationId": "01a1b673-af86-73d2-93fb-0297a5c76f64",
+      "durationSeconds": 2.115918367346939
+    },
+    {
+      "text": "of my writing something.",
+      "path": "audio/1962-03/chunks-views/05-03.mp3",
+      "generationId": "01a1b673-b366-7d84-916d-8ccccacc4068",
+      "durationSeconds": 1.3322448979591837
+    },
+    {
+      "text": "About my experiments on myself,",
+      "path": "audio/1962-03/chunks-views/06-01.mp3",
+      "generationId": "01a1b673-ba9e-7d83-9f76-40b9dca8353b",
+      "durationSeconds": 2.507755102040816
+    },
+    {
+      "text": "I am sure and certain,",
+      "path": "audio/1962-03/chunks-views/06-02.mp3",
+      "generationId": "01a1b673-e193-7e25-afe1-be405a139138",
+      "durationSeconds": 1.8546938775510204
+    },
+    {
+      "text": "but I want to test",
+      "path": "audio/1962-03/chunks-views/07-01.mp3",
+      "generationId": "01a1b673-bb20-7288-b85e-d4c70feb3b42",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "their usefulness",
+      "path": "audio/1962-03/chunks-views/07-02.mp3",
+      "generationId": "01a1b673-c2ea-769c-9bc8-843281986d0e",
+      "durationSeconds": 1.6979591836734693
+    },
+    {
+      "text": "to others.",
+      "path": "audio/1962-03/chunks-views/07-03.mp3",
+      "generationId": "01a1b673-d173-7c9c-9dc4-69e699422dae",
+      "durationSeconds": 1.253877551020408
+    },
+    {
+      "text": "I do not want to write anything",
+      "path": "audio/1962-03/chunks-views/08-01.mp3",
+      "generationId": "01a1b673-db97-7078-a686-577e4a6839c1",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "in the manner of philosophy,",
+      "path": "audio/1962-03/chunks-views/08-02.mp3",
+      "generationId": "01a1b673-df7d-7b18-854f-bb4dbf7bca09",
+      "durationSeconds": 1.8546938775510204
+    },
+    {
+      "text": "my outlook is scientific.",
+      "path": "audio/1962-03/chunks-views/09-01.mp3",
+      "generationId": "01a1b673-e57a-7c4d-b5fa-1bcded481fa7",
+      "durationSeconds": 1.8546938775510204
+    },
+    {
+      "text": "I want to say something",
+      "path": "audio/1962-03/chunks-views/10-01.mp3",
+      "generationId": "01a1b673-ec54-70e1-81a6-a008963acccf",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "about yoga",
+      "path": "audio/1962-03/chunks-views/10-02.mp3",
+      "generationId": "01a1b673-f201-7045-82b0-bfd785b33289",
+      "durationSeconds": 1.2016326530612245
+    },
+    {
+      "text": "based on certain psychological",
+      "path": "audio/1962-03/chunks-views/10-03.mp3",
+      "generationId": "01a1b673-fa1f-770b-b914-83b4a6e774a0",
+      "durationSeconds": 2.3248979591836734
+    },
+    {
+      "text": "and parapsychological experiments.",
+      "path": "audio/1962-03/chunks-views/10-04.mp3",
+      "generationId": "01a1b674-0123-7221-b966-8a494e549f26",
+      "durationSeconds": 2.3510204081632655
+    },
+    {
+      "text": "There are many illusory notions",
+      "path": "audio/1962-03/chunks-views/11-01.mp3",
+      "generationId": "01a1b674-15bf-7665-a14b-1e5d3d4e7044",
+      "durationSeconds": 2.3248979591836734
+    },
+    {
+      "text": "held about it",
+      "path": "audio/1962-03/chunks-views/11-02.mp3",
+      "generationId": "01a1b674-1dc4-7134-a6a5-f86199012030",
+      "durationSeconds": 1.436734693877551
+    },
+    {
+      "text": "and these have to be refuted.",
+      "path": "audio/1962-03/chunks-views/12-01.mp3",
+      "generationId": "01a1b674-2900-7c8a-b2c7-fa800c6f3ed4",
+      "durationSeconds": 1.933061224489796
+    },
+    {
+      "text": "Therefore I am experimenting here also.",
+      "path": "audio/1962-03/chunks-views/13-01.mp3",
+      "generationId": "01a1b674-3fda-7e5c-9333-0ed49f2fe252",
+      "durationSeconds": 2.455510204081633
+    },
+    {
+      "text": "It is clear to me",
+      "path": "audio/1962-03/chunks-views/14-01.mp3",
+      "generationId": "01a1b674-4553-7e85-8318-42e65b72faca",
+      "durationSeconds": 1.253877551020408
+    },
+    {
+      "text": "that this work is not",
+      "path": "audio/1962-03/chunks-views/14-02.mp3",
+      "generationId": "01a1b674-4cc0-7418-abbd-7ba65fe27d0d",
+      "durationSeconds": 1.8024489795918368
+    },
+    {
+      "text": "for promoting any group or cause.",
+      "path": "audio/1962-03/chunks-views/14-03.mp3",
+      "generationId": "01a1b674-5422-7f36-9e50-c97955f09ec7",
+      "durationSeconds": 2.089795918367347
+    },
+    {
+      "text": "If you ever come here",
+      "path": "audio/1962-03/chunks-views/15-01.mp3",
+      "generationId": "01a1b674-3cae-74c2-a2cf-f3795f053a86",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "we can talk more",
+      "path": "audio/1962-03/chunks-views/15-02.mp3",
+      "generationId": "01a1b674-4533-7df7-8342-a439f91ce89d",
+      "durationSeconds": 1.3322448979591837
+    },
+    {
+      "text": "about all this.",
+      "path": "audio/1962-03/chunks-views/15-03.mp3",
+      "generationId": "01a1b674-4c0e-719d-a873-f21f0227cd61",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "My respects to you.",
+      "path": "audio/1962-04/chunks-views/01-01.mp3",
+      "generationId": "01a1b673-7e68-70fd-b546-48c9ebbdb759",
+      "durationSeconds": 1.28
+    },
+    {
+      "text": "I am grateful",
+      "path": "audio/1962-04/chunks-views/02-01.mp3",
+      "generationId": "01a1b674-5d10-769c-b2c5-bb7b1286a5af",
+      "durationSeconds": 1.1493877551020408
+    },
+    {
+      "text": "for your affectionate letter.",
+      "path": "audio/1962-04/chunks-views/02-02.mp3",
+      "generationId": "01a1b674-64e1-7e25-8d0e-c02aedaee7f4",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "You are meditating –",
+      "path": "audio/1962-04/chunks-views/03-01.mp3",
+      "generationId": "01a1b674-6859-75ff-95da-222571365cd0",
+      "durationSeconds": 1.8024489795918368
+    },
+    {
+      "text": "that is a matter for joy.",
+      "path": "audio/1962-04/chunks-views/03-02.mp3",
+      "generationId": "01a1b674-71bc-7442-8698-1838202470b1",
+      "durationSeconds": 1.6979591836734693
+    },
+    {
+      "text": "Drop all ideas",
+      "path": "audio/1962-04/chunks-views/04-01.mp3",
+      "generationId": "01a1b674-7c18-7e42-8a4b-652341f4ea2b",
+      "durationSeconds": 1.619591836734694
+    },
+    {
+      "text": "of achieving",
+      "path": "audio/1962-04/chunks-views/04-02.mp3",
+      "generationId": "01a1b674-8998-70f8-8114-43afa235a5c0",
+      "durationSeconds": 1.28
+    },
+    {
+      "text": "in meditation,",
+      "path": "audio/1962-04/chunks-views/04-03.mp3",
+      "generationId": "01a1b674-8ed9-72ff-9f5c-749ed80f0630",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "just do it naturally;",
+      "path": "audio/1962-04/chunks-views/05-01.mp3",
+      "generationId": "01a1b674-9b89-7bcb-b847-146707ef3d6b",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "what happens,",
+      "path": "audio/1962-04/chunks-views/06-01.mp3",
+      "generationId": "01a1b674-9ef2-7e99-bdc5-73b2d36fd19e",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "happens on its own.",
+      "path": "audio/1962-04/chunks-views/06-02.mp3",
+      "generationId": "01a1b674-a378-7250-9028-210ddd677c9a",
+      "durationSeconds": 1.3322448979591837
+    },
+    {
+      "text": "One day,",
+      "path": "audio/1962-04/chunks-views/07-01.mp3",
+      "generationId": "01a1b674-a7e5-73a0-bcf0-416013ccc4fd",
+      "durationSeconds": 1.1493877551020408
+    },
+    {
+      "text": "effortlessly,",
+      "path": "audio/1962-04/chunks-views/07-02.mp3",
+      "generationId": "01a1b674-b3c3-744a-8c59-eefbb6cdb517",
+      "durationSeconds": 1.253877551020408
+    },
+    {
+      "text": "everything starts happening by itself.",
+      "path": "audio/1962-04/chunks-views/07-03.mp3",
+      "generationId": "01a1b674-bcc0-7f84-89a3-116c98b9293c",
+      "durationSeconds": 2.220408163265306
+    },
+    {
+      "text": "Effort does not lead",
+      "path": "audio/1962-04/chunks-views/08-01.mp3",
+      "generationId": "01a1b674-c252-7218-aefc-639de0156feb",
+      "durationSeconds": 1.5673469387755101
+    },
+    {
+      "text": "to meditation,",
+      "path": "audio/1962-04/chunks-views/08-02.mp3",
+      "generationId": "01a1b674-c590-7d51-82c1-8a7386466ecc",
+      "durationSeconds": 1.3322448979591837
+    },
+    {
+      "text": "in fact",
+      "path": "audio/1962-04/chunks-views/09-01.mp3",
+      "generationId": "01a1b674-edd0-72ca-8e4d-3e8c1d7eb1ae",
+      "durationSeconds": 1.0710204081632653
+    },
+    {
+      "text": "it is a hindrance.",
+      "path": "audio/1962-04/chunks-views/09-02.mp3",
+      "generationId": "01a1b674-dd46-7371-9671-1bdaabb42262",
+      "durationSeconds": 1.5673469387755101
+    },
+    {
+      "text": "In effort, practice, study,",
+      "path": "audio/1962-04/chunks-views/10-01.mp3",
+      "generationId": "01a1b674-e389-7e7a-b0fd-ee3e43d130a8",
+      "durationSeconds": 2.27265306122449
+    },
+    {
+      "text": "there is tension.",
+      "path": "audio/1962-04/chunks-views/10-02.mp3",
+      "generationId": "01a1b674-f17a-7491-b1b0-30411c8fd1f9",
+      "durationSeconds": 1.3322448979591837
+    },
+    {
+      "text": "Any expectation,",
+      "path": "audio/1962-04/chunks-views/11-01.mp3",
+      "generationId": "01a1b674-f4c3-72a5-ba5d-28253b06195b",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "even the expectation of peace,",
+      "path": "audio/1962-04/chunks-views/11-02.mp3",
+      "generationId": "01a1b674-fedb-75dc-9e23-702b8da3e986",
+      "durationSeconds": 2.1681632653061222
+    },
+    {
+      "text": "brings restlessness.",
+      "path": "audio/1962-04/chunks-views/11-03.mp3",
+      "generationId": "01a1b675-051c-7787-b4a6-29b253c49c34",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "The tension has to go.",
+      "path": "audio/1962-04/chunks-views/12-01.mp3",
+      "generationId": "01a1b675-0bfb-72d2-9d41-684a9bcd6d1d",
+      "durationSeconds": 1.619591836734694
+    },
+    {
+      "text": "As soon as this happens",
+      "path": "audio/1962-04/chunks-views/13-01.mp3",
+      "generationId": "01a1b675-1fa6-78e5-9ab2-dc88d052cb7d",
+      "durationSeconds": 1.6979591836734693
+    },
+    {
+      "text": "a divine peace sets in.",
+      "path": "audio/1962-04/chunks-views/13-02.mp3",
+      "generationId": "01a1b675-2580-7bba-88b5-1c0b70740697",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "Stop feeling:",
+      "path": "audio/1962-04/chunks-views/14-01.mp3",
+      "generationId": "01a1b675-2a36-7c72-a165-f6ccef06d376",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "I am doing it,",
+      "path": "audio/1962-04/chunks-views/14-02.mp3",
+      "generationId": "01a1b673-c1f1-7b38-9e39-4a6ae12f3d8b",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "realize instead:",
+      "path": "audio/1962-04/chunks-views/15-01.mp3",
+      "generationId": "01a1b673-c550-732e-a190-e640f528a71c",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "I leave myself",
+      "path": "audio/1962-04/chunks-views/15-02.mp3",
+      "generationId": "01a1b673-c852-705d-a734-34982cdcf982",
+      "durationSeconds": 1.3844897959183673
+    },
+    {
+      "text": "in the hands of that-which-is.",
+      "path": "audio/1962-04/chunks-views/15-03.mp3",
+      "generationId": "01a1b673-cc2a-74f9-a2e9-e07c9afe7f3d",
+      "durationSeconds": 1.9853061224489796
+    },
+    {
+      "text": "Surrender,",
+      "path": "audio/1962-04/chunks-views/16-01.mp3",
+      "generationId": "01a1b673-cfbf-74f2-8b91-cf4585a0427e",
+      "durationSeconds": 1.3844897959183673
+    },
+    {
+      "text": "surrender yourself completely;",
+      "path": "audio/1962-04/chunks-views/17-01.mp3",
+      "generationId": "01a1b673-d306-74fe-afa3-f248389849fc",
+      "durationSeconds": 2.0375510204081633
+    },
+    {
+      "text": "as soon as you do this,",
+      "path": "audio/1962-04/chunks-views/18-01.mp3",
+      "generationId": "01a1b673-d828-7054-83d0-86a833f502c7",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "emptiness comes.",
+      "path": "audio/1962-04/chunks-views/18-02.mp3",
+      "generationId": "01a1b673-dbea-7ff2-9b31-69a69df4d8a6",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "Breathing and the body",
+      "path": "audio/1962-04/chunks-views/19-01.mp3",
+      "generationId": "01a1b674-2539-7d66-a555-52ec3af86d79",
+      "durationSeconds": 1.5673469387755101
+    },
+    {
+      "text": "are becoming relaxed,",
+      "path": "audio/1962-04/chunks-views/19-02.mp3",
+      "generationId": "01a1b674-2c6f-706e-a43d-6c70d190f2de",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "you say.",
+      "path": "audio/1962-04/chunks-views/19-03.mp3",
+      "generationId": "01a1b674-2fbb-7d07-9cbe-8039bcc38085",
+      "durationSeconds": 1.0710204081632653
+    },
+    {
+      "text": "This will happen",
+      "path": "audio/1962-04/chunks-views/20-01.mp3",
+      "generationId": "01a1b674-36a7-789f-a1d2-31fed97b7f17",
+      "durationSeconds": 1.2016326530612245
+    },
+    {
+      "text": "with the mind too.",
+      "path": "audio/1962-04/chunks-views/20-02.mp3",
+      "generationId": "01a1b674-3ca6-79a6-add9-667ed5bf03c4",
+      "durationSeconds": 1.3844897959183673
+    },
+    {
+      "text": "When the mind goes",
+      "path": "audio/1962-04/chunks-views/21-01.mp3",
+      "generationId": "01a1b674-509c-720b-9132-7629fa5ed416",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "what takes place",
+      "path": "audio/1962-04/chunks-views/21-02.mp3",
+      "generationId": "01a1b674-5746-79ff-b388-71ec841f30a6",
+      "durationSeconds": 1.3322448979591837
+    },
+    {
+      "text": "is indescribable.",
+      "path": "audio/1962-04/chunks-views/21-03.mp3",
+      "generationId": "01a1b674-5aa1-79bf-90f0-cea80639de31",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "I know",
+      "path": "audio/1962-04/chunks-views/22-01.mp3",
+      "generationId": "01a1b674-78ec-71d5-b099-98f6ea25ef51",
+      "durationSeconds": 1.253877551020408
+    },
+    {
+      "text": "that this is going to happen",
+      "path": "audio/1962-04/chunks-views/22-02.mp3",
+      "generationId": "01a1b674-84a3-7480-a7cc-a5a7fa4f742e",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "to you both.",
+      "path": "audio/1962-04/chunks-views/22-03.mp3",
+      "generationId": "01a1b674-7600-7499-aefd-2aba89ca3b12",
+      "durationSeconds": 1.253877551020408
+    },
+    {
+      "text": "Just go on naturally",
+      "path": "audio/1962-04/chunks-views/23-01.mp3",
+      "generationId": "01a1b674-7ceb-73a0-b737-8d878d63a5cb",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "and without purpose.",
+      "path": "audio/1962-04/chunks-views/23-02.mp3",
+      "generationId": "01a1b674-91ec-7293-b1f3-9d3d4e64e491",
+      "durationSeconds": 1.3322448979591837
+    },
+    {
+      "text": "Soon",
+      "path": "audio/1962-04/chunks-views/24-01.mp3",
+      "generationId": "01a1b674-95b3-7783-ba7d-046df60718f0",
+      "durationSeconds": 1.2016326530612245
+    },
+    {
+      "text": "I shall be there,",
+      "path": "audio/1962-04/chunks-views/24-02.mp3",
+      "generationId": "01a1b674-afe3-7148-b4dc-5ff119ae3a63",
+      "durationSeconds": 1.5673469387755101
+    },
+    {
+      "text": "until then,",
+      "path": "audio/1962-04/chunks-views/25-01.mp3",
+      "generationId": "01a1b674-b9dc-7b4b-95fe-9b3640e9f287",
+      "durationSeconds": 1.436734693877551
+    },
+    {
+      "text": "go on quietly",
+      "path": "audio/1962-04/chunks-views/25-02.mp3",
+      "generationId": "01a1b674-cfb4-7c1f-97cd-cb4adc337a35",
+      "durationSeconds": 1.6979591836734693
+    },
+    {
+      "text": "with what I have told you to do.",
+      "path": "audio/1962-04/chunks-views/25-03.mp3",
+      "generationId": "01a1b674-d65b-7ee2-b35e-63a343df211e",
+      "durationSeconds": 2.089795918367347
+    },
+    {
+      "text": "My respects to all.",
+      "path": "audio/1962-04/chunks-views/26-01.mp3",
+      "generationId": "01a1b674-d989-7886-8485-31f60796cab7",
+      "durationSeconds": 1.436734693877551
+    },
+    {
+      "text": "Write",
+      "path": "audio/1962-04/chunks-views/27-01.mp3",
+      "generationId": "01a1b674-ea6a-7fc3-b1bf-861131acdf2b",
+      "durationSeconds": 1.2016326530612245
+    },
+    {
+      "text": "whenever you feel like it.",
+      "path": "audio/1962-04/chunks-views/27-02.mp3",
+      "generationId": "01a1b674-fa83-7971-bd57-7769344eec7b",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "I am in complete bliss.",
+      "path": "audio/1962-04/chunks-views/28-01.mp3",
+      "generationId": "01a1b675-020e-7aaa-854f-426050e545c5",
+      "durationSeconds": 1.933061224489796
+    },
+    {
+      "text": "Love.",
+      "path": "audio/1962-05/chunks-views/01-01.mp3",
+      "generationId": "01a1b675-0f88-70e6-9a0c-fcaed720b82c",
+      "durationSeconds": 0.9142857142857143
+    },
+    {
+      "text": "It is",
+      "path": "audio/1962-05/chunks-views/02-01.mp3",
+      "generationId": "01a1b675-182a-7df6-8711-1bf1260a85d7",
+      "durationSeconds": 0.966530612244898
+    },
+    {
+      "text": "through God's grace",
+      "path": "audio/1962-05/chunks-views/02-02.mp3",
+      "generationId": "01a1b675-0aaa-7268-b14f-742b83d4803f",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "that you are working",
+      "path": "audio/1962-05/chunks-views/02-03.mp3",
+      "generationId": "01a1b675-35e1-7d52-bc13-a7820928e2f6",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "towards the discovery",
+      "path": "audio/1962-05/chunks-views/02-04.mp3",
+      "generationId": "01a1b675-4506-72d6-b998-3722dd682fc4",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "of the inner light.",
+      "path": "audio/1962-05/chunks-views/02-05.mp3",
+      "generationId": "01a1b683-53fe-7e1a-bfd5-ad05c3437862",
+      "durationSeconds": 1.2016326530612245
+    },
+    {
+      "text": "That light is definitely there",
+      "path": "audio/1962-05/chunks-views/03-01.mp3",
+      "generationId": "01a1b683-5ae6-7dc3-bf93-efde48a1caa1",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "and once it is met",
+      "path": "audio/1962-05/chunks-views/04-01.mp3",
+      "generationId": "01a1b683-6196-770b-92de-365b783eeae1",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "all darkness in life disappears.",
+      "path": "audio/1962-05/chunks-views/04-02.mp3",
+      "generationId": "01a1b683-8aef-7e88-946f-37acc6a7522e",
+      "durationSeconds": 2.1681632653061222
+    },
+    {
+      "text": "Each step",
+      "path": "audio/1962-05/chunks-views/05-01.mp3",
+      "generationId": "01a1b683-9147-7016-b043-6c177ea5284e",
+      "durationSeconds": 1.0187755102040816
+    },
+    {
+      "text": "taken within",
+      "path": "audio/1962-05/chunks-views/05-02.mp3",
+      "generationId": "01a1b675-4d58-7579-95a6-83cfa2ac33cd",
+      "durationSeconds": 1.5673469387755101
+    },
+    {
+      "text": "peels away the darkness",
+      "path": "audio/1962-05/chunks-views/05-03.mp3",
+      "generationId": "01a1b675-72a4-7283-8747-de118610dcf1",
+      "durationSeconds": 1.5673469387755101
+    },
+    {
+      "text": "layer by layer",
+      "path": "audio/1962-05/chunks-views/05-04.mp3",
+      "generationId": "01a1b683-973f-7a10-9a2d-a51a1ce5f0f0",
+      "durationSeconds": 1.6979591836734693
+    },
+    {
+      "text": "unfolding a world of light",
+      "path": "audio/1962-05/chunks-views/06-01.mp3",
+      "generationId": "01a1b683-c55f-78fe-b989-9b2d75cd551d",
+      "durationSeconds": 1.8546938775510204
+    },
+    {
+      "text": "in which everything is new.",
+      "path": "audio/1962-05/chunks-views/06-02.mp3",
+      "generationId": "01a1b683-ca2a-7d9e-9bcb-09a35d9fd8ec",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "This experience cuts away",
+      "path": "audio/1962-05/chunks-views/07-01.mp3",
+      "generationId": "01a1b683-cf94-7942-8b19-38c2dd891bdd",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "all bondage –",
+      "path": "audio/1962-05/chunks-views/07-02.mp3",
+      "generationId": "01a1b683-fbf1-7ddf-a48b-09212fec4c9c",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "and then comes the realization",
+      "path": "audio/1962-05/chunks-views/08-01.mp3",
+      "generationId": "01a1b684-0302-78ff-aba2-1e3d0f79d0b6",
+      "durationSeconds": 2.089795918367347
+    },
+    {
+      "text": "that it was never there!",
+      "path": "audio/1962-05/chunks-views/08-02.mp3",
+      "generationId": "01a1b684-09f9-7835-ae8f-06d019f67d0a",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "Liberation happens",
+      "path": "audio/1962-05/chunks-views/09-01.mp3",
+      "generationId": "01a1b684-358b-7cc5-a195-5dd00ed2c82f",
+      "durationSeconds": 1.6979591836734693
+    },
+    {
+      "text": "to that which is eternally free!",
+      "path": "audio/1962-05/chunks-views/09-02.mp3",
+      "generationId": "01a1b684-3a08-78dd-a566-be2dca44dc8a",
+      "durationSeconds": 2.089795918367347
+    },
+    {
+      "text": "I am pleased",
+      "path": "audio/1962-05/chunks-views/10-01.mp3",
+      "generationId": "01a1b684-422e-7167-a7cb-67e234045a36",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "with your progress.",
+      "path": "audio/1962-05/chunks-views/10-02.mp3",
+      "generationId": "01a1b684-7eaf-73db-b681-6a43903a4211",
+      "durationSeconds": 1.28
+    },
+    {
+      "text": "Your letter was received",
+      "path": "audio/1962-05/chunks-views/11-01.mp3",
+      "generationId": "01a1b684-7ee7-7601-9744-1adae3283c46",
+      "durationSeconds": 2.27265306122449
+    },
+    {
+      "text": "long back",
+      "path": "audio/1962-05/chunks-views/11-02.mp3",
+      "generationId": "01a1b684-8339-7a4f-bcd8-256e12b34a3e",
+      "durationSeconds": 1.2016326530612245
+    },
+    {
+      "text": "but as I was busy",
+      "path": "audio/1962-05/chunks-views/12-01.mp3",
+      "generationId": "01a1b684-ad4f-7f29-91be-e52999dced0d",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "there was delay",
+      "path": "audio/1962-05/chunks-views/12-02.mp3",
+      "generationId": "01a1b684-b33f-79af-8b7d-633a37a2582e",
+      "durationSeconds": 1.619591836734694
+    },
+    {
+      "text": "in replying,",
+      "path": "audio/1962-05/chunks-views/12-03.mp3",
+      "generationId": "01a1b684-b940-7405-89e5-ba7bb7beb231",
+      "durationSeconds": 1.2016326530612245
+    },
+    {
+      "text": "but my memory of you",
+      "path": "audio/1962-05/chunks-views/13-01.mp3",
+      "generationId": "01a1b684-e96c-79a0-bbca-c7a88cb630b5",
+      "durationSeconds": 1.8024489795918368
+    },
+    {
+      "text": "is always there,",
+      "path": "audio/1962-05/chunks-views/13-02.mp3",
+      "generationId": "01a1b684-ed75-78bb-903f-8326463c986d",
+      "durationSeconds": 1.436734693877551
+    },
+    {
+      "text": "along with all those",
+      "path": "audio/1962-05/chunks-views/14-01.mp3",
+      "generationId": "01a1b684-f5c6-74d7-bda9-f806776358eb",
+      "durationSeconds": 1.6979591836734693
+    },
+    {
+      "text": "eager for the light.",
+      "path": "audio/1962-05/chunks-views/14-02.mp3",
+      "generationId": "01a1b685-18c9-7192-b6f5-4df224fd08a7",
+      "durationSeconds": 1.253877551020408
+    },
+    {
+      "text": "My good wishes flow",
+      "path": "audio/1962-05/chunks-views/15-01.mp3",
+      "generationId": "01a1b685-1d2c-7ce7-8f6b-0c926b2338cb",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "for ever",
+      "path": "audio/1962-05/chunks-views/15-02.mp3",
+      "generationId": "01a1b685-4502-732a-a0f8-834ff690692f",
+      "durationSeconds": 1.3322448979591837
+    },
+    {
+      "text": "towards them.",
+      "path": "audio/1962-05/chunks-views/15-03.mp3",
+      "generationId": "01a1b685-61a8-7cc7-a7d3-a746406c9265",
+      "durationSeconds": 1.3844897959183673
+    },
+    {
+      "text": "We have to keep going.",
+      "path": "audio/1962-05/chunks-views/16-01.mp3",
+      "generationId": "01a1b685-6558-7c11-9696-29beb7531356",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "Many times",
+      "path": "audio/1962-05/chunks-views/17-01.mp3",
+      "generationId": "01a1b685-802a-733a-a998-914e3246deed",
+      "durationSeconds": 1.436734693877551
+    },
+    {
+      "text": "one becomes disheartened",
+      "path": "audio/1962-05/chunks-views/17-02.mp3",
+      "generationId": "01a1b685-8b73-73e3-a30a-4279f821ac65",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "on the path",
+      "path": "audio/1962-05/chunks-views/17-03.mp3",
+      "generationId": "01a1b685-9db3-7bc4-8b42-1b7ee1cb8507",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "but ultimately",
+      "path": "audio/1962-05/chunks-views/18-01.mp3",
+      "generationId": "01a1b685-b79e-738d-974a-d29e36dffc07",
+      "durationSeconds": 1.3322448979591837
+    },
+    {
+      "text": "the thirsty pilgrim",
+      "path": "audio/1962-05/chunks-views/18-02.mp3",
+      "generationId": "01a1b685-bd90-7b98-b499-d46b1d8b446d",
+      "durationSeconds": 2.089795918367347
+    },
+    {
+      "text": "reaches the spring.",
+      "path": "audio/1962-05/chunks-views/18-03.mp3",
+      "generationId": "01a1b685-e5ac-72a6-854d-6759e010d8bb",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "In fact",
+      "path": "audio/1962-05/chunks-views/19-01.mp3",
+      "generationId": "01a1b685-eb6f-7336-85ed-b4947bdeb535",
+      "durationSeconds": 1.0710204081632653
+    },
+    {
+      "text": "the water is there",
+      "path": "audio/1962-05/chunks-views/19-02.mp3",
+      "generationId": "01a1b686-08ee-76f5-b7c4-fd26fed91fcd",
+      "durationSeconds": 1.619591836734694
+    },
+    {
+      "text": "before the thirst.",
+      "path": "audio/1962-05/chunks-views/19-03.mp3",
+      "generationId": "01a1b686-2e31-771f-812e-89827312d8c3",
+      "durationSeconds": 1.436734693877551
+    },
+    {
+      "text": "My kind regards to all.",
+      "path": "audio/1962-05/chunks-views/20-01.mp3",
+      "generationId": "01a1b686-384a-7f20-8a6b-b7af5a075068",
+      "durationSeconds": 1.8024489795918368
+    },
+    {
+      "text": "My respects to you,",
+      "path": "audio/1962-06/chunks-views/01-01.mp3",
+      "generationId": "01a1b686-4ef5-744b-82c7-3a4eb60dc673",
+      "durationSeconds": 1.619591836734694
+    },
+    {
+      "text": "I was away,",
+      "path": "audio/1962-06/chunks-views/02-01.mp3",
+      "generationId": "01a1b686-6589-73b4-a23d-b8c882270d46",
+      "durationSeconds": 1.3844897959183673
+    },
+    {
+      "text": "but your letter followed me here.",
+      "path": "audio/1962-06/chunks-views/02-02.mp3",
+      "generationId": "01a1b686-87aa-7564-afe5-fcebce599273",
+      "durationSeconds": 2.0375510204081633
+    },
+    {
+      "text": "I am pleased",
+      "path": "audio/1962-06/chunks-views/03-01.mp3",
+      "generationId": "01a1b684-422e-7167-a7cb-67e234045a36",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "to have it.",
+      "path": "audio/1962-06/chunks-views/03-02.mp3",
+      "generationId": "01a1b686-8ade-71e6-8a99-40efffd38b62",
+      "durationSeconds": 1.28
+    },
+    {
+      "text": "I see life",
+      "path": "audio/1962-06/chunks-views/04-01.mp3",
+      "generationId": "01a1b686-9009-76d2-badd-079ddb637c0f",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "as full of bliss.",
+      "path": "audio/1962-06/chunks-views/04-02.mp3",
+      "generationId": "01a1b686-b6fc-72f0-9e51-d46df812bc35",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "Ordinarily,",
+      "path": "audio/1962-06/chunks-views/05-01.mp3",
+      "generationId": "01a1b686-c20a-7a66-91b7-156f2be7dc4c",
+      "durationSeconds": 1.1493877551020408
+    },
+    {
+      "text": "we do not have the eyes",
+      "path": "audio/1962-06/chunks-views/05-02.mp3",
+      "generationId": "01a1b686-d67e-71e6-aa08-4ec50d8b6976",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "to see this",
+      "path": "audio/1962-06/chunks-views/05-03.mp3",
+      "generationId": "01a1b686-fc65-7415-a642-229873c4b413",
+      "durationSeconds": 1.3844897959183673
+    },
+    {
+      "text": "and so are deprived of it,",
+      "path": "audio/1962-06/chunks-views/05-04.mp3",
+      "generationId": "01a1b687-05a5-7953-a022-1d3d6d57b98c",
+      "durationSeconds": 1.8024489795918368
+    },
+    {
+      "text": "but this seeing can be created.",
+      "path": "audio/1962-06/chunks-views/05-05.mp3",
+      "generationId": "01a1b687-1c5e-7607-b7a8-20a8913549bd",
+      "durationSeconds": 2.220408163265306
+    },
+    {
+      "text": "Perhaps it is not correct",
+      "path": "audio/1962-06/chunks-views/06-01.mp3",
+      "generationId": "01a1b687-3c4a-7eaf-91e1-90eda7636fa4",
+      "durationSeconds": 1.8546938775510204
+    },
+    {
+      "text": "to say",
+      "path": "audio/1962-06/chunks-views/06-02.mp3",
+      "generationId": "01a1b687-446d-795a-98e9-444c32f5142d",
+      "durationSeconds": 1.253877551020408
+    },
+    {
+      "text": "it can be created,",
+      "path": "audio/1962-06/chunks-views/06-03.mp3",
+      "generationId": "01a1b687-632b-7455-b415-3199760beff4",
+      "durationSeconds": 1.8546938775510204
+    },
+    {
+      "text": "it is already there,",
+      "path": "audio/1962-06/chunks-views/07-01.mp3",
+      "generationId": "01a1b687-7e75-777b-82e8-34b0d5ed9bc7",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "it is only a matter",
+      "path": "audio/1962-06/chunks-views/08-01.mp3",
+      "generationId": "01a1b687-9f07-7439-b078-6adff43f035e",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "of opening the eyes,",
+      "path": "audio/1962-06/chunks-views/08-02.mp3",
+      "generationId": "01a1b687-b875-7352-9d0d-fc6a5cf57e55",
+      "durationSeconds": 1.619591836734694
+    },
+    {
+      "text": "and then –",
+      "path": "audio/1962-06/chunks-views/09-01.mp3",
+      "generationId": "01a1b687-bbe6-7734-9045-af7d14a60d39",
+      "durationSeconds": 1.1493877551020408
+    },
+    {
+      "text": "everything changes.",
+      "path": "audio/1962-06/chunks-views/09-02.mp3",
+      "generationId": "01a1b672-c301-7bb6-889c-a8200b898f0b",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "Meditation achieves this.",
+      "path": "audio/1962-06/chunks-views/10-01.mp3",
+      "generationId": "01a1b687-d808-7178-9763-d2e83142e833",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "Meditation means:",
+      "path": "audio/1962-06/chunks-views/11-01.mp3",
+      "generationId": "01a1b687-fd2b-7481-a0ca-663d6640b0ef",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "peace;",
+      "path": "audio/1962-06/chunks-views/11-02.mp3",
+      "generationId": "01a1b688-00f4-7b8a-9f50-d05bb6a60bb6",
+      "durationSeconds": 1.1493877551020408
+    },
+    {
+      "text": "emptiness.",
+      "path": "audio/1962-06/chunks-views/11-03.mp3",
+      "generationId": "01a1b688-1d6e-7e84-a05b-bb7618031051",
+      "durationSeconds": 1.436734693877551
+    },
+    {
+      "text": "This emptiness is there",
+      "path": "audio/1962-06/chunks-views/12-01.mp3",
+      "generationId": "01a1b688-3dde-762f-8125-81f6e0592141",
+      "durationSeconds": 1.933061224489796
+    },
+    {
+      "text": "but is concealed",
+      "path": "audio/1962-06/chunks-views/12-02.mp3",
+      "generationId": "01a1b688-41a7-7104-b967-9454533998d2",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "by the flow of thoughts.",
+      "path": "audio/1962-06/chunks-views/12-03.mp3",
+      "generationId": "01a1b674-d069-78f5-86df-02df2576f2fd",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "As thoughts cease",
+      "path": "audio/1962-06/chunks-views/13-01.mp3",
+      "generationId": "01a1b674-d39d-7ffe-abcf-0d763aedfd50",
+      "durationSeconds": 1.436734693877551
+    },
+    {
+      "text": "it comes into view.",
+      "path": "audio/1962-06/chunks-views/13-02.mp3",
+      "generationId": "01a1b674-cd37-70e3-af6a-5b601039bcea",
+      "durationSeconds": 1.436734693877551
+    },
+    {
+      "text": "It seems difficult",
+      "path": "audio/1962-06/chunks-views/14-01.mp3",
+      "generationId": "01a1b674-df1c-7f8b-8f7e-27f030a3a92b",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "to become free of thoughts",
+      "path": "audio/1962-06/chunks-views/14-02.mp3",
+      "generationId": "01a1b674-e56e-755f-9fed-19b6d7b20eed",
+      "durationSeconds": 2.0375510204081633
+    },
+    {
+      "text": "but it is very simple.",
+      "path": "audio/1962-06/chunks-views/14-03.mp3",
+      "generationId": "01a1b674-dbb8-7b17-b999-8e982b4af54c",
+      "durationSeconds": 1.9853061224489796
+    },
+    {
+      "text": "The mind seems very restless",
+      "path": "audio/1962-06/chunks-views/15-01.mp3",
+      "generationId": "01a1b674-ea7c-799f-8a05-3f1edeff5f0f",
+      "durationSeconds": 2.742857142857143
+    },
+    {
+      "text": "but it can easily settle.",
+      "path": "audio/1962-06/chunks-views/15-02.mp3",
+      "generationId": "01a1b674-d71d-731a-b355-201946b01ab2",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "The key to this transcendence",
+      "path": "audio/1962-06/chunks-views/16-01.mp3",
+      "generationId": "01a1b688-5e53-7a8a-bcaf-22e2667cd6e1",
+      "durationSeconds": 1.933061224489796
+    },
+    {
+      "text": "is witnessing.",
+      "path": "audio/1962-06/chunks-views/16-02.mp3",
+      "generationId": "01a1b675-32ae-79da-9442-98097387b168",
+      "durationSeconds": 1.28
+    },
+    {
+      "text": "One has to be a witness,",
+      "path": "audio/1962-06/chunks-views/17-01.mp3",
+      "generationId": "01a1b688-80bd-7656-86dc-3625d2446ca4",
+      "durationSeconds": 1.8024489795918368
+    },
+    {
+      "text": "an observer of the mind.",
+      "path": "audio/1962-06/chunks-views/17-02.mp3",
+      "generationId": "01a1b688-8916-74c6-b3d1-dccf6fde2b5b",
+      "durationSeconds": 1.5673469387755101
+    },
+    {
+      "text": "One has to watch it,",
+      "path": "audio/1962-06/chunks-views/18-01.mp3",
+      "generationId": "01a1b688-a3c7-7362-ae92-745b13960a1b",
+      "durationSeconds": 1.436734693877551
+    },
+    {
+      "text": "just watch it.",
+      "path": "audio/1962-06/chunks-views/18-02.mp3",
+      "generationId": "01a1b688-c59b-7556-ada7-9334c18a0ef2",
+      "durationSeconds": 1.0187755102040816
+    },
+    {
+      "text": "The moment the witness state dawns,",
+      "path": "audio/1962-06/chunks-views/19-01.mp3",
+      "generationId": "01a1b688-d252-74e2-b4ff-a0fb83f9ce1a",
+      "durationSeconds": 2.1681632653061222
+    },
+    {
+      "text": "that very moment",
+      "path": "audio/1962-06/chunks-views/19-02.mp3",
+      "generationId": "01a1b688-e3fd-71c7-8836-ebd378cc264a",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "one becomes free of thoughts.",
+      "path": "audio/1962-06/chunks-views/19-03.mp3",
+      "generationId": "01a1b689-1900-76d9-8be9-eac9cecd6fbf",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "This in turn opens",
+      "path": "audio/1962-06/chunks-views/20-01.mp3",
+      "generationId": "01a1b689-2467-75c7-a6a1-9a69261dd255",
+      "durationSeconds": 1.6718367346938776
+    },
+    {
+      "text": "the door to bliss",
+      "path": "audio/1962-06/chunks-views/20-02.mp3",
+      "generationId": "01a1b689-3d7f-7183-9225-34ee8bbba1a2",
+      "durationSeconds": 1.6979591836734693
+    },
+    {
+      "text": "and then this very world",
+      "path": "audio/1962-06/chunks-views/21-01.mp3",
+      "generationId": "01a1b689-4519-7eb3-87f6-4c01e78a425d",
+      "durationSeconds": 1.5673469387755101
+    },
+    {
+      "text": "changes into",
+      "path": "audio/1962-06/chunks-views/21-02.mp3",
+      "generationId": "01a1b689-6329-78f1-8716-3f4f1d26bc2b",
+      "durationSeconds": 1.253877551020408
+    },
+    {
+      "text": "a new world altogether.",
+      "path": "audio/1962-06/chunks-views/21-03.mp3",
+      "generationId": "01a1b689-84f4-7018-9fe4-754643e961c9",
+      "durationSeconds": 1.619591836734694
+    },
+    {
+      "text": "Keep meditating.",
+      "path": "audio/1962-06/chunks-views/22-01.mp3",
+      "generationId": "01a1b689-88ee-7c2e-b29d-dd3ca12c7288",
+      "durationSeconds": 1.6979591836734693
+    },
+    {
+      "text": "Results will come slowly.",
+      "path": "audio/1962-06/chunks-views/23-01.mp3",
+      "generationId": "01a1b689-a410-72b4-9471-1b78714bb370",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "You are not to worry",
+      "path": "audio/1962-06/chunks-views/24-01.mp3",
+      "generationId": "01a1b689-c48f-7867-8e10-0555068e4ebf",
+      "durationSeconds": 1.8024489795918368
+    },
+    {
+      "text": "about that,",
+      "path": "audio/1962-06/chunks-views/24-02.mp3",
+      "generationId": "01a1b689-c7d3-7b19-8b17-f06013f5a5ec",
+      "durationSeconds": 1.619591836734694
+    },
+    {
+      "text": "their coming is certain.",
+      "path": "audio/1962-06/chunks-views/25-01.mp3",
+      "generationId": "01a1b689-e9f8-7956-96df-5565995a9d61",
+      "durationSeconds": 1.619591836734694
+    },
+    {
+      "text": "My kind regards to all.",
+      "path": "audio/1962-06/chunks-views/26-01.mp3",
+      "generationId": "01a1b686-384a-7f20-8a6b-b7af5a075068",
+      "durationSeconds": 1.8024489795918368
+    },
+    {
+      "text": "Love.",
+      "path": "audio/1962-07/chunks-views/01-01.mp3",
+      "generationId": "01a1b675-0f88-70e6-9a0c-fcaed720b82c",
+      "durationSeconds": 0.9142857142857143
+    },
+    {
+      "text": "It is a long time",
+      "path": "audio/1962-07/chunks-views/02-01.mp3",
+      "generationId": "01a1b689-fa4a-757c-bf3b-e387eb245aa3",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "since I received your letter",
+      "path": "audio/1962-07/chunks-views/02-02.mp3",
+      "generationId": "01a1b68a-1ff4-7d11-9d4d-3b48dd9be9cf",
+      "durationSeconds": 2.089795918367347
+    },
+    {
+      "text": "I am happy",
+      "path": "audio/1962-07/chunks-views/03-01.mp3",
+      "generationId": "01a1b68a-22e2-7abf-ac4f-27a43d50c2d2",
+      "durationSeconds": 1.5673469387755101
+    },
+    {
+      "text": "that you long for peace –",
+      "path": "audio/1962-07/chunks-views/03-02.mp3",
+      "generationId": "01a1b68a-28ba-7fe9-b3f3-48a42d70560b",
+      "durationSeconds": 2.089795918367347
+    },
+    {
+      "text": "but drop this idea",
+      "path": "audio/1962-07/chunks-views/04-01.mp3",
+      "generationId": "01a1b68a-5d57-7b08-9396-bf586177a3a0",
+      "durationSeconds": 1.5673469387755101
+    },
+    {
+      "text": "that you are way behind.",
+      "path": "audio/1962-07/chunks-views/04-02.mp3",
+      "generationId": "01a1b68a-6068-7407-b367-acc5e41fbdc5",
+      "durationSeconds": 1.619591836734694
+    },
+    {
+      "text": "Nobody is lagging behind.",
+      "path": "audio/1962-07/chunks-views/05-01.mp3",
+      "generationId": "01a1b68a-63f2-77d0-9e8b-ee434f3af4a5",
+      "durationSeconds": 1.933061224489796
+    },
+    {
+      "text": "It is just a matter",
+      "path": "audio/1962-07/chunks-views/06-01.mp3",
+      "generationId": "01a1b68a-8d91-7da8-ac27-675ef6e41204",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "of turning in –",
+      "path": "audio/1962-07/chunks-views/06-02.mp3",
+      "generationId": "01a1b68a-94bc-711b-887a-747dcef450a5",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "and the drop becomes",
+      "path": "audio/1962-07/chunks-views/07-01.mp3",
+      "generationId": "01a1b68a-99da-77f2-bcb2-c2deed309308",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "the ocean.",
+      "path": "audio/1962-07/chunks-views/07-02.mp3",
+      "generationId": "01a1b68a-c67e-7a66-a67a-6729a09735dd",
+      "durationSeconds": 1.2016326530612245
+    },
+    {
+      "text": "Actually the drop is the ocean",
+      "path": "audio/1962-07/chunks-views/08-01.mp3",
+      "generationId": "01a1b68a-cc58-74eb-8dd7-69457df4505a",
+      "durationSeconds": 2.115918367346939
+    },
+    {
+      "text": "but it does not",
+      "path": "audio/1962-07/chunks-views/09-01.mp3",
+      "generationId": "01a1b68a-d37a-7558-b4c5-3dc0a16a2f2b",
+      "durationSeconds": 1.3844897959183673
+    },
+    {
+      "text": "know it –",
+      "path": "audio/1962-07/chunks-views/09-02.mp3",
+      "generationId": "01a1b68a-fc78-7038-8245-e3b297210cb2",
+      "durationSeconds": 1.253877551020408
+    },
+    {
+      "text": "that is the only separation.",
+      "path": "audio/1962-07/chunks-views/10-01.mp3",
+      "generationId": "01a1b68b-04c7-7096-9e78-7b3835dbaa71",
+      "durationSeconds": 2.0375510204081633
+    },
+    {
+      "text": "In the emptiness of meditation",
+      "path": "audio/1962-07/chunks-views/11-01.mp3",
+      "generationId": "01a1b68b-16ef-78b6-b7a3-72bad2857349",
+      "durationSeconds": 2.3510204081632655
+    },
+    {
+      "text": "even this separation goes.",
+      "path": "audio/1962-07/chunks-views/11-02.mp3",
+      "generationId": "01a1b68b-3a04-74af-8deb-1d26b4d2ff5b",
+      "durationSeconds": 1.750204081632653
+    },
+    {
+      "text": "Meditation is the center",
+      "path": "audio/1962-07/chunks-views/12-01.mp3",
+      "generationId": "01a1b68b-418d-770e-90cf-95e2abbef5fb",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "of life's sadhana.",
+      "path": "audio/1962-07/chunks-views/12-02.mp3",
+      "generationId": "01a1b68b-59fe-7eb7-a6bb-d0962b150ace",
+      "durationSeconds": 1.436734693877551
+    },
+    {
+      "text": "The thought process will slow down",
+      "path": "audio/1962-07/chunks-views/13-01.mp3",
+      "generationId": "01a1b68b-7b42-70ef-b0cf-4042e670e5ea",
+      "durationSeconds": 2.27265306122449
+    },
+    {
+      "text": "and in its place",
+      "path": "audio/1962-07/chunks-views/14-01.mp3",
+      "generationId": "01a1b68b-8597-7d56-ade1-85ced90280d6",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "will come",
+      "path": "audio/1962-07/chunks-views/14-02.mp3",
+      "generationId": "01a1b68b-abb3-7ba0-a52f-6e7e4b439041",
+      "durationSeconds": 1.3322448979591837
+    },
+    {
+      "text": "peace and emptiness.",
+      "path": "audio/1962-07/chunks-views/14-03.mp3",
+      "generationId": "01a1b68b-b725-7c71-a004-c757e358a540",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "When thoughts vanish",
+      "path": "audio/1962-07/chunks-views/15-01.mp3",
+      "generationId": "01a1b68b-ce5b-747f-ac52-479a8ab1f3eb",
+      "durationSeconds": 1.619591836734694
+    },
+    {
+      "text": "the seer,",
+      "path": "audio/1962-07/chunks-views/15-02.mp3",
+      "generationId": "01a1b68b-f2fa-784e-81d6-0ab5aecb348a",
+      "durationSeconds": 0.9142857142857143
+    },
+    {
+      "text": "the witness,",
+      "path": "audio/1962-07/chunks-views/15-03.mp3",
+      "generationId": "01a1b68b-f952-7b1d-ad47-bc3f475148c5",
+      "durationSeconds": 1.4889795918367348
+    },
+    {
+      "text": "becomes visible",
+      "path": "audio/1962-07/chunks-views/15-04.mp3",
+      "generationId": "01a1b68c-2b48-7361-a72b-dac375385fb9",
+      "durationSeconds": 1.5151020408163265
+    },
+    {
+      "text": "and the complex of the unconscious disappears.",
+      "path": "audio/1962-07/chunks-views/16-01.mp3",
+      "generationId": "01a1b68c-4c86-7603-9eb4-c247ef796fa6",
+      "durationSeconds": 3.1608163265306124
+    },
+    {
+      "text": "This complex is the cause",
+      "path": "audio/1962-07/chunks-views/17-01.mp3",
+      "generationId": "01a1b68c-5419-7972-b45b-b1687d6ea67d",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "of bondage.",
+      "path": "audio/1962-07/chunks-views/17-02.mp3",
+      "generationId": "01a1b68c-6e72-7832-99f4-f090ddad248a",
+      "durationSeconds": 1.0187755102040816
+    },
+    {
+      "text": "In the beginning",
+      "path": "audio/1962-07/chunks-views/18-01.mp3",
+      "generationId": "01a1b68c-8f11-75af-a806-421102fc69dd",
+      "durationSeconds": 1.1493877551020408
+    },
+    {
+      "text": "it appears",
+      "path": "audio/1962-07/chunks-views/18-02.mp3",
+      "generationId": "01a1b68c-b064-70bf-a1c6-eac0b7f2a1ea",
+      "durationSeconds": 1.0710204081632653
+    },
+    {
+      "text": "as hard as stone",
+      "path": "audio/1962-07/chunks-views/18-03.mp3",
+      "generationId": "01a1b68c-c8bd-76c9-b377-8c5072bec511",
+      "durationSeconds": 2.0375510204081633
+    },
+    {
+      "text": "but the seeker",
+      "path": "audio/1962-07/chunks-views/19-01.mp3",
+      "generationId": "01a1b68c-e974-7c0f-9600-696103db671d",
+      "durationSeconds": 1.3844897959183673
+    },
+    {
+      "text": "who practices patiently",
+      "path": "audio/1962-07/chunks-views/19-02.mp3",
+      "generationId": "01a1b68d-00c1-7838-b9be-176b255ea78f",
+      "durationSeconds": 1.8546938775510204
+    },
+    {
+      "text": "finds one day",
+      "path": "audio/1962-07/chunks-views/19-03.mp3",
+      "generationId": "01a1b68d-042e-79bb-8630-fd4910bb19dd",
+      "durationSeconds": 1.5673469387755101
+    },
+    {
+      "text": "that it was just a dream,",
+      "path": "audio/1962-07/chunks-views/19-04.mp3",
+      "generationId": "01a1b68d-1cff-740b-a481-20630bd1e363",
+      "durationSeconds": 1.9853061224489796
+    },
+    {
+      "text": "a puff of air.",
+      "path": "audio/1962-07/chunks-views/19-05.mp3",
+      "generationId": "01a1b68d-34c7-731c-bf68-ae1c3f092b0b",
+      "durationSeconds": 1.2016326530612245
+    },
+    {
+      "text": "May the seed of your meditation",
+      "path": "audio/1962-07/chunks-views/20-01.mp3",
+      "generationId": "01a1b68d-3830-7ed2-97b0-052807b37064",
+      "durationSeconds": 2.220408163265306
+    },
+    {
+      "text": "blossom",
+      "path": "audio/1962-07/chunks-views/20-02.mp3",
+      "generationId": "01a1b68d-5cdc-712f-97fd-3f611c599613",
+      "durationSeconds": 1.0971428571428572
+    },
+    {
+      "text": "into the flower of samadhi!",
+      "path": "audio/1962-07/chunks-views/20-03.mp3",
+      "generationId": "01a1b68d-78cb-789f-a552-ca67acb6e87e",
+      "durationSeconds": 1.906938775510204
+    },
+    {
+      "text": "My kind regards to all.",
+      "path": "audio/1962-07/chunks-views/21-01.mp3",
+      "generationId": "01a1b686-384a-7f20-8a6b-b7af5a075068",
+      "durationSeconds": 1.8024489795918368
+    },
+    {
+      "text": "The rest",
+      "path": "audio/1962-07/chunks-views/22-01.mp3",
+      "generationId": "01a1b68d-9e92-76ad-ad8c-bb4daf625609",
+      "durationSeconds": 1.3844897959183673
+    },
+    {
+      "text": "when we meet.",
+      "path": "audio/1962-07/chunks-views/22-02.mp3",
+      "generationId": "01a1b68d-a21f-7ee3-9341-2459f7952b93",
+      "durationSeconds": 0.9142857142857143
+    }
+  ],
+  "pending": []
+}

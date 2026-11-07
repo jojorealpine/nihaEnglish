@@ -391,6 +391,67 @@ button:focus-visible,input:focus-visible,.sentence:focus-visible {
   margin-bottom: 0;
 }
 
+.test-sentence-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  border-bottom: 1px solid var(--line);
+}
+
+.chunk-sentence {
+  padding: 14px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.chunk-sentence:last-child {
+  border-bottom: 0;
+}
+
+button.chunk-phrase {
+  display: inline;
+  padding: 3px 5px;
+  font: inherit;
+  color: inherit;
+  background: transparent;
+  border: 0;
+  border-radius: 4px;
+  text-align: left;
+}
+
+button.chunk-phrase:hover,
+button.chunk-phrase:focus-visible {
+  background: #dceadf;
+}
+
+.chunk-divider {
+  color: var(--accent);
+  font-weight: bold;
+}
+
+.reading .chunk-translation {
+  margin: 4px 5px 0;
+  font-family: system-ui, sans-serif;
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--muted);
+}
+
+.test-sentence-row:last-child {
+  border-bottom: 0;
+}
+
+.test-english,
+.test-korean {
+  padding: 12px;
+  overflow-wrap: anywhere;
+}
+
+.test-korean {
+  border-left: 1px solid var(--line);
+  font-family: system-ui, sans-serif;
+  font-size: 16px;
+  color: var(--muted);
+}
+
 .sentence {
   display: block;
   cursor: pointer;

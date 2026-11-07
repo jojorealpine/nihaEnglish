@@ -82,6 +82,12 @@
       <section class="section">
         <div class="eyebrow">02 / Read & listen</div>
         <h2>영어 본문</h2>
+        <div class="study-tabs" id="reading-tabs" role="tablist" aria-label="본문 학습 방식">
+          <button class="study-tab" id="reading-tab" type="button" role="tab" aria-selected="true" aria-controls="reading-panel">본문</button>
+          <button class="study-tab" id="test-tab" type="button" role="tab" aria-selected="false" aria-controls="test-panel" tabindex="-1">테스트</button>
+          <button class="study-tab" id="chunk-tab" type="button" role="tab" aria-selected="false" aria-controls="chunk-panel" tabindex="-1">끊어읽기</button>
+        </div>
+        <div id="reading-panel" role="tabpanel" aria-labelledby="reading-tab" tabindex="0">
         <p class="hint">문장을 클릭하면 오른쪽에 해석과 상세 설명이 나옵니다. 모바일에서는 본문 아래에 나타나요.</p>
         <div class="toolbar">
           <button id="play-all" type="button">▶ 전체 듣기 (MP3)</button>
@@ -103,6 +109,19 @@
             <div class="number">SENTENCE GUIDE</div>
             <p>왼쪽 문장을 선택하면 문장별 설명이 나와요.</p>
           </aside>
+        </div>
+        </div>
+        <div id="test-panel" role="tabpanel" aria-labelledby="test-tab" tabindex="0" hidden>
+          <p class="hint">각 문장의 첫 단어를 보고 밑줄에 들어갈 나머지 내용을 떠올려 보세요.</p>
+          <article class="reading" id="test-reading" aria-label="첫 단어로 본문 복습"></article>
+        </div>
+        <div id="chunk-panel" role="tabpanel" aria-labelledby="chunk-tab" tabindex="0" hidden>
+          <p class="hint">슬래시(/)로 나눈 구절을 누르면 해당 부분의 MP3를 들을 수 있어요.</p>
+          <div class="toolbar">
+            <button id="chunk-stop" type="button" class="secondary">■ 정지</button>
+          </div>
+          <p class="mode-note" id="chunk-status" aria-live="polite"></p>
+          <article class="reading" id="chunk-reading" aria-label="의미 단위로 끊어읽기"></article>
         </div>
       </section>
 
