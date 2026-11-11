@@ -109,6 +109,11 @@
   overscroll-behavior: contain;
   padding: 0 18px 10px;
 }
+.phrase-list-hint {
+  margin: 0 18px 12px;
+  color: var(--muted);
+  font-size: 12px;
+}
 .role-phrase {
   display: flex;
   align-items: center;
@@ -606,7 +611,8 @@ summary:focus-visible {
 .extra-expressions td p {
   margin: 0 0 8px;
 }
-button.script-sentence {
+button.script-sentence,
+button.phrase-sentence {
   display: inline;
   padding: 4px 6px;
   font: inherit;
@@ -618,6 +624,8 @@ button.script-sentence {
 }
 
 button.script-sentence:not(:disabled):hover,
-button.script-sentence:focus-visible {
+button.script-sentence:focus-visible,
+button.phrase-sentence:not(:disabled):hover,
+button.phrase-sentence:focus-visible {
   background: #dceadf;
 }

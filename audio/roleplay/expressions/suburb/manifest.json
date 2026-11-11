@@ -1,0 +1,725 @@
+{
+  "files": [
+    {
+      "text": "Hi, how are you?",
+      "path": "audio/roleplay/expressions/suburb/b54e9cae52b7cb12.mp3",
+      "generationId": "01a1ca61-839d-767e-b50d-e731e1ab5408",
+      "duration": 1.2016326530612245
+    },
+    {
+      "text": "How are you feeling today?",
+      "path": "audio/roleplay/expressions/suburb/ec6a734a3631d6e7.mp3",
+      "generationId": "01a1ca61-904b-7353-91c0-eb8822d99a61",
+      "duration": 1.4889795918367348
+    },
+    {
+      "text": "How's your day going?",
+      "path": "audio/roleplay/expressions/suburb/516a29ef83c66d1e.mp3",
+      "generationId": "01a1ca61-8b12-7c29-bdfa-d8f80107c257",
+      "duration": 1.4889795918367348
+    },
+    {
+      "text": "Nice to meet you!",
+      "path": "audio/roleplay/expressions/suburb/1160a5ae1cde058c.mp3",
+      "generationId": "01a1ca61-c1c5-7ff2-aa61-2fda9f3a0208",
+      "duration": 1.2016326530612245
+    },
+    {
+      "text": "Is this your first time here?",
+      "path": "audio/roleplay/expressions/suburb/b4d0af982be77eab.mp3",
+      "generationId": "01a1ca61-c94c-7560-b758-c3c6f089967b",
+      "duration": 1.6718367346938776
+    },
+    {
+      "text": "How long have you been here?",
+      "path": "audio/roleplay/expressions/suburb/39eae6ad64c95df8.mp3",
+      "generationId": "01a1ca61-cfab-756e-a276-7caf8989674a",
+      "duration": 1.3844897959183673
+    },
+    {
+      "text": "How long are you staying?",
+      "path": "audio/roleplay/expressions/suburb/780f1677c9e0191e.mp3",
+      "generationId": "01a1ca62-0104-7e85-9c73-1d50f86d455d",
+      "duration": 1.5673469387755101
+    },
+    {
+      "text": "Where are you from?",
+      "path": "audio/roleplay/expressions/suburb/63265a7977435046.mp3",
+      "generationId": "01a1ca62-0a03-707f-9efb-1c06e9aaa99a",
+      "duration": 1.3322448979591837
+    },
+    {
+      "text": "See you around!",
+      "path": "audio/roleplay/expressions/suburb/c71e7b99cd01183c.mp3",
+      "generationId": "01a1ca62-1059-729c-8177-e44cb3e55f0b",
+      "duration": 1.0187755102040816
+    },
+    {
+      "text": "How was your meditation?",
+      "path": "audio/roleplay/expressions/suburb/f4d97051dfb2eb2a.mp3",
+      "generationId": "01a1ca62-48dd-7ef5-afd3-51baee5fb4f8",
+      "duration": 1.5673469387755101
+    },
+    {
+      "text": "Have a good meditation!",
+      "path": "audio/roleplay/expressions/suburb/c8cf0827f00a49b9.mp3",
+      "generationId": "01a1ca62-4197-7c93-8be9-4dc2b8f627a6",
+      "duration": 1.5673469387755101
+    },
+    {
+      "text": "Did you enjoy the session?",
+      "path": "audio/roleplay/expressions/suburb/fcc0201cd97d67d6.mp3",
+      "generationId": "01a1ca62-4fd2-7b46-8c49-540e84307142",
+      "duration": 1.619591836734694
+    },
+    {
+      "text": "Which meditation did you do?",
+      "path": "audio/roleplay/expressions/suburb/b8e45942338d36af.mp3",
+      "generationId": "01a1ca62-821f-7c26-be8a-ae81e7b4e989",
+      "duration": 1.619591836734694
+    },
+    {
+      "text": "Are you joining the next session?",
+      "path": "audio/roleplay/expressions/suburb/da6ac2ce4060fcc2.mp3",
+      "generationId": "01a1ca62-962f-7322-9823-aeb23d4f4ae2",
+      "duration": 1.6718367346938776
+    },
+    {
+      "text": "Do you want to grab some tea?",
+      "path": "audio/roleplay/expressions/suburb/85cbd0797713fe56.mp3",
+      "generationId": "01a1ca62-9a09-7d90-8256-85b474ccc028",
+      "duration": 1.4889795918367348
+    },
+    {
+      "text": "Hi, I'm Jin.",
+      "path": "audio/roleplay/expressions/suburb/b2bfc85369737782.mp3",
+      "generationId": "01a1ca62-ca44-7574-97f8-d1f792a4b900",
+      "duration": 1.3322448979591837
+    },
+    {
+      "text": "I'm from South Korea.",
+      "path": "audio/roleplay/expressions/suburb/02240ef46a8d0cd2.mp3",
+      "generationId": "01a1ca62-cf0c-75e4-ac88-7b172f75b388",
+      "duration": 1.5673469387755101
+    },
+    {
+      "text": "I live in Seoul.",
+      "path": "audio/roleplay/expressions/suburb/67f876fb78b0a8eb.mp3",
+      "generationId": "01a1ca62-d5e4-755e-a4c8-b1461f54ee94",
+      "duration": 1.5151020408163265
+    },
+    {
+      "text": "I work in IT.",
+      "path": "audio/roleplay/expressions/suburb/9f4cc941176f334b.mp3",
+      "generationId": "01a1ca63-0816-7fb1-95ba-21a4c53a85b6",
+      "duration": 1.3844897959183673
+    },
+    {
+      "text": "I'm here for meditation.",
+      "path": "audio/roleplay/expressions/suburb/7a5a030db2275886.mp3",
+      "generationId": "01a1ca63-10b2-7f12-984f-57fb7f5f08d1",
+      "duration": 1.6718367346938776
+    },
+    {
+      "text": "I'm here for two weeks.",
+      "path": "audio/roleplay/expressions/suburb/f625fba4e0e29430.mp3",
+      "generationId": "01a1ca63-14b2-7255-b265-936ec4e99424",
+      "duration": 1.5673469387755101
+    },
+    {
+      "text": "It's my first time in Pune.",
+      "path": "audio/roleplay/expressions/suburb/201afeec58a28cf5.mp3",
+      "generationId": "01a1ca63-4733-7cbb-b428-4853c2970924",
+      "duration": 1.5673469387755101
+    },
+    {
+      "text": "I wanted to try something new.",
+      "path": "audio/roleplay/expressions/suburb/a39c3d83bff7037d.mp3",
+      "generationId": "01a1ca63-5bc1-7761-a30f-13556caea8dd",
+      "duration": 1.8546938775510204
+    },
+    {
+      "text": "I've been practicing meditation for a while.",
+      "path": "audio/roleplay/expressions/suburb/3d6bea0177c3b2bd.mp3",
+      "generationId": "01a1ca63-6a78-7c15-9565-bd514c20219e",
+      "duration": 2.5338775510204083
+    },
+    {
+      "text": "I want to learn more about myself.",
+      "path": "audio/roleplay/expressions/suburb/febc65f59acdf89b.mp3",
+      "generationId": "01a1ca63-8e8f-74af-84b3-c7af99d66eb1",
+      "duration": 1.933061224489796
+    },
+    {
+      "text": "I want to connect with myself.",
+      "path": "audio/roleplay/expressions/suburb/e6d484f2fdb52ecc.mp3",
+      "generationId": "01a1ca63-9622-7619-b5ea-026ec8f2ecdb",
+      "duration": 1.6979591836734693
+    },
+    {
+      "text": "I needed a break from work.",
+      "path": "audio/roleplay/expressions/suburb/27aa7216d7802930.mp3",
+      "generationId": "01a1ca63-af1e-7ef2-aa31-d417f62e9d5e",
+      "duration": 1.6979591836734693
+    },
+    {
+      "text": "I've been feeling stressed lately.",
+      "path": "audio/roleplay/expressions/suburb/d17bb6df4b188e08.mp3",
+      "generationId": "01a1ca63-d50b-7405-844f-6b7047d77333",
+      "duration": 1.9853061224489796
+    },
+    {
+      "text": "I want to let go of stress.",
+      "path": "audio/roleplay/expressions/suburb/d5f50c7ae72a4a1d.mp3",
+      "generationId": "01a1ca63-dd85-7f6f-8dbc-8b07a03918c3",
+      "duration": 1.933061224489796
+    },
+    {
+      "text": "I'm curious about Osho's meditation.",
+      "path": "audio/roleplay/expressions/suburb/94906217dd5893a6.mp3",
+      "generationId": "01a1ca63-f7de-7f35-9579-2452b9b5bf39",
+      "duration": 2.403265306122449
+    },
+    {
+      "text": "I'm just here to explore.",
+      "path": "audio/roleplay/expressions/suburb/0a05b618eadb442c.mp3",
+      "generationId": "01a1ca64-1c6f-78b5-ae44-7a62723aa4ab",
+      "duration": 1.5673469387755101
+    },
+    {
+      "text": "I feel good today.",
+      "path": "audio/roleplay/expressions/suburb/a18f20b3da9ab0f9.mp3",
+      "generationId": "01a1ca64-2012-74d0-a55b-c18ecd99e992",
+      "duration": 1.436734693877551
+    },
+    {
+      "text": "I feel peaceful.",
+      "path": "audio/roleplay/expressions/suburb/a10661a6f0b7012a.mp3",
+      "generationId": "01a1ca64-543c-7acd-ada4-a8c757ce63bd",
+      "duration": 1.3322448979591837
+    },
+    {
+      "text": "I feel calm.",
+      "path": "audio/roleplay/expressions/suburb/ddda8f0c04c1a790.mp3",
+      "generationId": "01a1ca64-5465-78a7-81b9-93bdb1535f26",
+      "duration": 1.3322448979591837
+    },
+    {
+      "text": "I feel relaxed.",
+      "path": "audio/roleplay/expressions/suburb/6272d3bdb571d099.mp3",
+      "generationId": "01a1ca64-77f0-7e89-9839-df86b5b843cd",
+      "duration": 1.436734693877551
+    },
+    {
+      "text": "I feel happy and grateful.",
+      "path": "audio/roleplay/expressions/suburb/68e4ad0fac9a5050.mp3",
+      "generationId": "01a1ca64-97c4-7d47-93e5-97d78162cd6a",
+      "duration": 1.5151020408163265
+    },
+    {
+      "text": "I feel a little sad.",
+      "path": "audio/roleplay/expressions/suburb/4fc961ad8b7a4370.mp3",
+      "generationId": "01a1ca64-9beb-7d09-bdb1-c63e13d8ccbc",
+      "duration": 1.5151020408163265
+    },
+    {
+      "text": "I feel anxious.",
+      "path": "audio/roleplay/expressions/suburb/8d41501e528f34a4.mp3",
+      "generationId": "01a1ca64-c26e-78b2-9db4-9f48c5070db1",
+      "duration": 1.28
+    },
+    {
+      "text": "I feel a bit tired.",
+      "path": "audio/roleplay/expressions/suburb/99ff732bf3641ae4.mp3",
+      "generationId": "01a1ca64-ea2e-7e8f-9fbb-8842938f953e",
+      "duration": 1.5673469387755101
+    },
+    {
+      "text": "I feel overwhelmed.",
+      "path": "audio/roleplay/expressions/suburb/d10b5e8fd470d6a3.mp3",
+      "generationId": "01a1ca64-e688-790b-8fa4-608d42fa92e5",
+      "duration": 1.5673469387755101
+    },
+    {
+      "text": "I feel a little off today.",
+      "path": "audio/roleplay/expressions/suburb/36f25655a8ffd684.mp3",
+      "generationId": "01a1ca65-10b3-7f26-9da1-d5f8c1c46077",
+      "duration": 1.6718367346938776
+    },
+    {
+      "text": "I have mixed feelings.",
+      "path": "audio/roleplay/expressions/suburb/44c40aaf9dc7dd54.mp3",
+      "generationId": "01a1ca65-378d-7add-b01d-c7a33e8515b9",
+      "duration": 1.5151020408163265
+    },
+    {
+      "text": "I'm not sure how I feel.",
+      "path": "audio/roleplay/expressions/suburb/f785160be53cb159.mp3",
+      "generationId": "01a1ca65-3fca-70cd-8a4d-efeeaf6443d6",
+      "duration": 1.5151020408163265
+    },
+    {
+      "text": "I felt a lot of emotions.",
+      "path": "audio/roleplay/expressions/suburb/185a22189427bfbd.mp3",
+      "generationId": "01a1ca65-5a84-7264-9a93-e6887ba3e564",
+      "duration": 1.750204081632653
+    },
+    {
+      "text": "I felt a lot of anger.",
+      "path": "audio/roleplay/expressions/suburb/0edd1a58239fa9e6.mp3",
+      "generationId": "01a1ca65-844a-7064-86fc-25f3ce2893bb",
+      "duration": 1.6718367346938776
+    },
+    {
+      "text": "I felt like crying.",
+      "path": "audio/roleplay/expressions/suburb/216d1bb4b69cb048.mp3",
+      "generationId": "01a1ca65-aa55-7092-b4ff-cf76ab253fb6",
+      "duration": 1.4889795918367348
+    },
+    {
+      "text": "I felt sad for some reason.",
+      "path": "audio/roleplay/expressions/suburb/21ac00f96cafd840.mp3",
+      "generationId": "01a1ca65-8a90-7857-b8b7-94fe639c6c38",
+      "duration": 1.6979591836734693
+    },
+    {
+      "text": "I started crying.",
+      "path": "audio/roleplay/expressions/suburb/ac8c4d144c4d9663.mp3",
+      "generationId": "01a1ca65-d76b-72e6-a7ac-30cac8720f86",
+      "duration": 1.28
+    },
+    {
+      "text": "I felt a sense of freedom.",
+      "path": "audio/roleplay/expressions/suburb/9ef7072597929e39.mp3",
+      "generationId": "01a1ca65-fb0e-701e-abad-2bf10c1c44d6",
+      "duration": 1.5151020408163265
+    },
+    {
+      "text": "I felt lighter afterward.",
+      "path": "audio/roleplay/expressions/suburb/c6d6d5d42f79ff49.mp3",
+      "generationId": "01a1ca65-f7ca-7438-bd4b-632f2a16e586",
+      "duration": 1.6718367346938776
+    },
+    {
+      "text": "I felt connected to my body.",
+      "path": "audio/roleplay/expressions/suburb/49292b500a184ab6.mp3",
+      "generationId": "01a1ca66-17b2-791f-9f1e-e5763f09d97a",
+      "duration": 1.9853061224489796
+    },
+    {
+      "text": "I felt uncomfortable at first.",
+      "path": "audio/roleplay/expressions/suburb/d8f177af1146c725.mp3",
+      "generationId": "01a1ca66-3985-70e4-a363-1a6892a25e4e",
+      "duration": 1.9853061224489796
+    },
+    {
+      "text": "I felt a little shy while dancing.",
+      "path": "audio/roleplay/expressions/suburb/cb692663444cebc4.mp3",
+      "generationId": "01a1ca66-3d03-71e0-bbbe-79eb653cfe16",
+      "duration": 2.1681632653061222
+    },
+    {
+      "text": "It was really intense.",
+      "path": "audio/roleplay/expressions/suburb/a6b373d5c41e0398.mp3",
+      "generationId": "01a1ca66-66ec-7edc-9215-6936b72e220d",
+      "duration": 1.5151020408163265
+    },
+    {
+      "text": "A lot of emotions came up.",
+      "path": "audio/roleplay/expressions/suburb/47286429cd9b96b2.mp3",
+      "generationId": "01a1ca66-8b84-7449-85df-d887dab64713",
+      "duration": 1.619591836734694
+    },
+    {
+      "text": "It was a powerful experience.",
+      "path": "audio/roleplay/expressions/suburb/a3c50e0c6db20898.mp3",
+      "generationId": "01a1ca66-888e-7145-8633-ec9fe62c572f",
+      "duration": 2.089795918367347
+    },
+    {
+      "text": "I noticed some tension in my body.",
+      "path": "audio/roleplay/expressions/suburb/96869628622d81b5.mp3",
+      "generationId": "01a1ca66-addc-7734-809b-438709c26f90",
+      "duration": 2.3248979591836734
+    },
+    {
+      "text": "I had a lot of thoughts.",
+      "path": "audio/roleplay/expressions/suburb/eb0af1e2985373fd.mp3",
+      "generationId": "01a1ca66-d083-702a-a70f-d2136052eaaa",
+      "duration": 1.5673469387755101
+    },
+    {
+      "text": "I couldn't stop thinking.",
+      "path": "audio/roleplay/expressions/suburb/156f7f72f78a3862.mp3",
+      "generationId": "01a1ca66-d3be-7eff-bbcf-67b750ab3b76",
+      "duration": 1.436734693877551
+    },
+    {
+      "text": "I realized I've been holding on to a lot.",
+      "path": "audio/roleplay/expressions/suburb/fef1eca441254b53.mp3",
+      "generationId": "01a1ca66-f2a9-7a84-9b98-1c753cd93409",
+      "duration": 2.1681632653061222
+    },
+    {
+      "text": "I don't know how to explain it.",
+      "path": "audio/roleplay/expressions/suburb/a70bd660bab210e6.mp3",
+      "generationId": "01a1ca67-1564-72ca-a0dd-7980864a48ff",
+      "duration": 1.750204081632653
+    },
+    {
+      "text": "I felt like I could let go.",
+      "path": "audio/roleplay/expressions/suburb/954041de1e4657f7.mp3",
+      "generationId": "01a1ca66-fe54-7a96-a3c3-9831395a7a3c",
+      "duration": 1.6979591836734693
+    },
+    {
+      "text": "I'm still processing it.",
+      "path": "audio/roleplay/expressions/suburb/bf6cd668bd8d5afb.mp3",
+      "generationId": "01a1ca67-3b33-7b60-adb0-d01ccf08f645",
+      "duration": 1.5673469387755101
+    },
+    {
+      "text": "I just want to sit with this feeling.",
+      "path": "audio/roleplay/expressions/suburb/a5aee5feb6879e48.mp3",
+      "generationId": "01a1ca67-3cba-7adf-9ae0-154df8ffc73d",
+      "duration": 2.1681632653061222
+    },
+    {
+      "text": "I found myself crying during meditation.",
+      "path": "audio/roleplay/expressions/suburb/06dcb30633a19c3f.mp3",
+      "generationId": "01a1ca67-4448-70ee-9b0b-acb6f8614792",
+      "duration": 2.403265306122449
+    },
+    {
+      "text": "I became aware of my thoughts.",
+      "path": "audio/roleplay/expressions/suburb/757dc902c473436f.mp3",
+      "generationId": "01a1ca67-779e-7a78-96e3-208dfd466b86",
+      "duration": 1.9853061224489796
+    },
+    {
+      "text": "I let go of some of my fears.",
+      "path": "audio/roleplay/expressions/suburb/64a2e4c847e135eb.mp3",
+      "generationId": "01a1ca67-8105-77ab-8867-efd8a9823b7c",
+      "duration": 2.0375510204081633
+    },
+    {
+      "text": "I struggled with staying focused.",
+      "path": "audio/roleplay/expressions/suburb/4e242724eba69a51.mp3",
+      "generationId": "01a1ca67-8491-7b1a-83db-49bbe747e2ed",
+      "duration": 2.220408163265306
+    },
+    {
+      "text": "I understand.",
+      "path": "audio/roleplay/expressions/suburb/7f0271eac301ecc1.mp3",
+      "generationId": "01a1ca67-bc7f-710f-83bd-2e863d6cf2f1",
+      "duration": 1.1493877551020408
+    },
+    {
+      "text": "I see.",
+      "path": "audio/roleplay/expressions/suburb/420c703b11610f7b.mp3",
+      "generationId": "01a1ca67-b692-75b2-bef6-3b7c59142a5d",
+      "duration": 0.6791836734693878
+    },
+    {
+      "text": "That sounds intense.",
+      "path": "audio/roleplay/expressions/suburb/d81af8860d38eb8e.mp3",
+      "generationId": "01a1ca67-c1f3-7321-9f25-9cddf78b75a9",
+      "duration": 1.5151020408163265
+    },
+    {
+      "text": "That sounds beautiful.",
+      "path": "audio/roleplay/expressions/suburb/30ec7de871e54851.mp3",
+      "generationId": "01a1ca67-f3d7-7c0f-839a-45318a9ba79a",
+      "duration": 1.5151020408163265
+    },
+    {
+      "text": "I can relate to that.",
+      "path": "audio/roleplay/expressions/suburb/bf462d5f80fe759e.mp3",
+      "generationId": "01a1ca68-01c5-799f-8551-1ce54fe4f0cd",
+      "duration": 1.5673469387755101
+    },
+    {
+      "text": "Thanks for sharing.",
+      "path": "audio/roleplay/expressions/suburb/879fd5da86708817.mp3",
+      "generationId": "01a1ca67-faad-72bf-9dca-4dec0f220efc",
+      "duration": 1.28
+    },
+    {
+      "text": "Take your time.",
+      "path": "audio/roleplay/expressions/suburb/71659e9e5d2bebb4.mp3",
+      "generationId": "01a1ca68-2db6-703a-941a-294cc0cc11d2",
+      "duration": 1.253877551020408
+    },
+    {
+      "text": "It's okay to feel that way.",
+      "path": "audio/roleplay/expressions/suburb/190ef17e22f03e8d.mp3",
+      "generationId": "01a1ca68-3c29-7b01-8aba-f4efcf1fc313",
+      "duration": 1.6718367346938776
+    },
+    {
+      "text": "I need some time alone.",
+      "path": "audio/roleplay/expressions/suburb/82c2971aa5d52129.mp3",
+      "generationId": "01a1ca68-4d36-729d-9f41-8727d502e1ac",
+      "duration": 1.5151020408163265
+    },
+    {
+      "text": "I'd like some time to myself.",
+      "path": "audio/roleplay/expressions/suburb/d69d60cdebfa03b2.mp3",
+      "generationId": "01a1ca68-7048-7764-b743-1afa421202b3",
+      "duration": 1.750204081632653
+    },
+    {
+      "text": "I just want to be alone for a bit.",
+      "path": "audio/roleplay/expressions/suburb/7555b9e5cda41777.mp3",
+      "generationId": "01a1ca68-7b99-726b-a125-d8413f2b86f8",
+      "duration": 1.933061224489796
+    },
+    {
+      "text": "I need a little space right now.",
+      "path": "audio/roleplay/expressions/suburb/7a2987aa99bee238.mp3",
+      "generationId": "01a1ca68-94d8-7f6b-a536-8172811ede00",
+      "duration": 1.8546938775510204
+    },
+    {
+      "text": "I'd like to sit by myself.",
+      "path": "audio/roleplay/expressions/suburb/6bac4d662cf2fd03.mp3",
+      "generationId": "01a1ca68-c136-74dc-b59b-e32e193e689b",
+      "duration": 1.906938775510204
+    },
+    {
+      "text": "I want some quiet time.",
+      "path": "audio/roleplay/expressions/suburb/2c074263f5c5502e.mp3",
+      "generationId": "01a1ca68-c77e-709a-83a6-ca7e15e047ac",
+      "duration": 1.619591836734694
+    },
+    {
+      "text": "I just need to recharge.",
+      "path": "audio/roleplay/expressions/suburb/9059682ea55eb986.mp3",
+      "generationId": "01a1ca68-eaca-7f55-9c11-a95f31ef72cc",
+      "duration": 1.8024489795918368
+    },
+    {
+      "text": "Maybe we can talk later.",
+      "path": "audio/roleplay/expressions/suburb/72c63c5b9627e468.mp3",
+      "generationId": "01a1ca69-0b89-7cd6-8d96-f40910de44a3",
+      "duration": 1.4889795918367348
+    },
+    {
+      "text": "No, thanks. I'm good.",
+      "path": "audio/roleplay/expressions/suburb/acad3e0af52938cb.mp3",
+      "generationId": "01a1ca69-0f56-7357-bb7e-e927d4adabcd",
+      "duration": 1.253877551020408
+    },
+    {
+      "text": "Not right now, thanks.",
+      "path": "audio/roleplay/expressions/suburb/aa2673dcc0ac4448.mp3",
+      "generationId": "01a1ca69-327f-7281-9892-c1ee5f172094",
+      "duration": 1.28
+    },
+    {
+      "text": "I'd rather dance alone.",
+      "path": "audio/roleplay/expressions/suburb/0ca89a8b953b4e63.mp3",
+      "generationId": "01a1ca69-4d3c-785b-9ab9-3471c4d4ac91",
+      "duration": 1.5673469387755101
+    },
+    {
+      "text": "I want to dance on my own.",
+      "path": "audio/roleplay/expressions/suburb/6978d7cd197db830.mp3",
+      "generationId": "01a1ca69-5191-7786-bde3-e0a9b85491f3",
+      "duration": 1.5151020408163265
+    },
+    {
+      "text": "I'm enjoying dancing by myself.",
+      "path": "audio/roleplay/expressions/suburb/e50fae178f9dd345.mp3",
+      "generationId": "01a1ca69-744d-73d1-a2ad-e6467cffbbd4",
+      "duration": 2.27265306122449
+    },
+    {
+      "text": "I'm just going to watch for now.",
+      "path": "audio/roleplay/expressions/suburb/32a1aaab6f7149f0.mp3",
+      "generationId": "01a1ca69-9a16-7140-b5e7-001797ccd0e8",
+      "duration": 2.0375510204081633
+    },
+    {
+      "text": "Maybe later!",
+      "path": "audio/roleplay/expressions/suburb/b846e4b3efe39e0d.mp3",
+      "generationId": "01a1ca69-a291-7ca3-81ef-25ba04b95b66",
+      "duration": 1.0971428571428572
+    },
+    {
+      "text": "I appreciate it, but I'm okay.",
+      "path": "audio/roleplay/expressions/suburb/7c7df11a0d10a4e3.mp3",
+      "generationId": "01a1ca69-bb28-7c14-9c0c-241d93c36bed",
+      "duration": 1.906938775510204
+    },
+    {
+      "text": "I really want to be alone right now.",
+      "path": "audio/roleplay/expressions/suburb/05e56b8ac627580b.mp3",
+      "generationId": "01a1ca69-d043-74eb-a53f-350c207c01cb",
+      "duration": 2.115918367346939
+    },
+    {
+      "text": "Please give me some space.",
+      "path": "audio/roleplay/expressions/suburb/f245cc4ac18d5e80.mp3",
+      "generationId": "01a1ca69-f8e8-76c8-9857-095441a74c03",
+      "duration": 1.3844897959183673
+    },
+    {
+      "text": "I'm not comfortable with that.",
+      "path": "audio/roleplay/expressions/suburb/bd06e352cad7c535.mp3",
+      "generationId": "01a1ca6a-015b-7537-a580-dc5f2ddeb828",
+      "duration": 1.5151020408163265
+    },
+    {
+      "text": "Please respect my space.",
+      "path": "audio/roleplay/expressions/suburb/24d733f63938fb7c.mp3",
+      "generationId": "01a1ca6a-176d-73e0-a278-e5da14f70d25",
+      "duration": 1.8546938775510204
+    },
+    {
+      "text": "Please don't touch me.",
+      "path": "audio/roleplay/expressions/suburb/4f03ac94f000ed04.mp3",
+      "generationId": "01a1ca6a-4257-7c45-86e9-c596a31b00a7",
+      "duration": 1.3322448979591837
+    },
+    {
+      "text": "I'd rather not talk about that.",
+      "path": "audio/roleplay/expressions/suburb/0ea5aa9b436db4aa.mp3",
+      "generationId": "01a1ca6a-51be-7c36-95bb-47a2529981e3",
+      "duration": 2.1681632653061222
+    },
+    {
+      "text": "What's up with…?",
+      "path": "audio/roleplay/expressions/suburb/e3f2cadc23df8f90.mp3",
+      "generationId": "01a1ca6a-6884-790f-8ee8-068a48995009",
+      "duration": 1.1493877551020408
+    },
+    {
+      "text": "the way someone handles something",
+      "path": "audio/roleplay/expressions/suburb/bc4bb3935736d51c.mp3",
+      "generationId": "01a1ca6a-91b3-7f62-84e5-037b7198dd12",
+      "duration": 2.1681632653061222
+    },
+    {
+      "text": "I can't stand…",
+      "path": "audio/roleplay/expressions/suburb/53d834ccf44294a3.mp3",
+      "generationId": "01a1ca6a-8ca9-713a-9e5d-6487871ba6af",
+      "duration": 1.436734693877551
+    },
+    {
+      "text": "step up one's game",
+      "path": "audio/roleplay/expressions/suburb/3ea2cbfbbcc537a7.mp3",
+      "generationId": "01a1ca6a-a96d-7d45-822b-0b1ad815f2c0",
+      "duration": 1.5673469387755101
+    },
+    {
+      "text": "That's how the cookie crumbles.",
+      "path": "audio/roleplay/expressions/suburb/a42737c52fc473d4.mp3",
+      "generationId": "01a1ca6a-d087-7eb7-9697-d76f62a74518",
+      "duration": 1.906938775510204
+    },
+    {
+      "text": "hit it off",
+      "path": "audio/roleplay/expressions/suburb/ba965fdfa6d5804c.mp3",
+      "generationId": "01a1ca6a-f3a3-7739-a022-5cafe7c2d6e8",
+      "duration": 1.2016326530612245
+    },
+    {
+      "text": "like peanut butter and jelly",
+      "path": "audio/roleplay/expressions/suburb/062eae87ebb38460.mp3",
+      "generationId": "01a1ca6a-f8c5-7b7d-86d5-1922e43af57f",
+      "duration": 1.619591836734694
+    },
+    {
+      "text": "Call it intuition.",
+      "path": "audio/roleplay/expressions/suburb/cc9e2bec97d707ff.mp3",
+      "generationId": "01a1ca6b-1463-7bef-9eb6-e9d0c432aef2",
+      "duration": 1.436734693877551
+    },
+    {
+      "text": "steer someone wrong",
+      "path": "audio/roleplay/expressions/suburb/bf77e732ba749b1c.mp3",
+      "generationId": "01a1ca6b-3bc8-7168-8f2b-1f986a299bf8",
+      "duration": 1.6718367346938776
+    },
+    {
+      "text": "take someone's word for it",
+      "path": "audio/roleplay/expressions/suburb/22f233fcef74dafb.mp3",
+      "generationId": "01a1ca6b-3f26-785c-95be-76c1a3384c26",
+      "duration": 1.8546938775510204
+    },
+    {
+      "text": "be cool with…",
+      "path": "audio/roleplay/expressions/suburb/76bb7568d8a63178.mp3",
+      "generationId": "01a1ca6b-633e-7d65-814c-1ab86c571aea",
+      "duration": 0.9142857142857143
+    },
+    {
+      "text": "a meeting runs until…",
+      "path": "audio/roleplay/expressions/suburb/353601c432dfc724.mp3",
+      "generationId": "01a1ca6b-78eb-7bb9-9670-4b2ef6c6205e",
+      "duration": 1.4889795918367348
+    },
+    {
+      "text": "a better bet",
+      "path": "audio/roleplay/expressions/suburb/920814a0abacbab2.mp3",
+      "generationId": "01a1ca6b-82c4-7323-9709-5cb14649acbc",
+      "duration": 1.3322448979591837
+    },
+    {
+      "text": "get in touch with someone",
+      "path": "audio/roleplay/expressions/suburb/49f808def2af45a9.mp3",
+      "generationId": "01a1ca6b-b60c-774a-b25e-4f0b6d3c2b69",
+      "duration": 1.6718367346938776
+    },
+    {
+      "text": "catch someone later",
+      "path": "audio/roleplay/expressions/suburb/3a000edfd1c125b5.mp3",
+      "generationId": "01a1ca6b-b880-7347-b814-825e4bee2572",
+      "duration": 1.3322448979591837
+    },
+    {
+      "text": "My bad.",
+      "path": "audio/roleplay/expressions/suburb/18ffb98ebc9e804b.mp3",
+      "generationId": "01a1ca6b-d8db-742a-8fb2-09b41ef1702d",
+      "duration": 0.8620408163265306
+    },
+    {
+      "text": "a nightmare",
+      "path": "audio/roleplay/expressions/suburb/9fcb650801853f7d.mp3",
+      "generationId": "01a1ca6b-f781-7476-ac36-25458faf99d9",
+      "duration": 1.2016326530612245
+    },
+    {
+      "text": "ahead of someone",
+      "path": "audio/roleplay/expressions/suburb/0226c06e79b8d03b.mp3",
+      "generationId": "01a1ca6b-fcd8-78b9-849d-7435ded3d96e",
+      "duration": 1.3322448979591837
+    },
+    {
+      "text": "hit someone up",
+      "path": "audio/roleplay/expressions/suburb/53ebc792cfc2af7b.mp3",
+      "generationId": "01a1ca6c-18de-796a-8ca4-cc630647e1b9",
+      "duration": 1.3322448979591837
+    },
+    {
+      "text": "FYI (for your information)",
+      "path": "audio/roleplay/expressions/suburb/77d30c0bdf808c5c.mp3",
+      "generationId": "01a1ca6c-416d-7779-8101-cd9b74e831e0",
+      "duration": 1.9853061224489796
+    }
+  ],
+  "provider": "Artlist",
+  "voice": "Suburb",
+  "pending": [],
+  "totalExpressions": 118,
+  "readyExpressions": 118,
+  "status": "complete",
+  "settings": {
+    "model": "ElevenLabs Multilingual v2",
+    "language": "English",
+    "accent": "American",
+    "speed": 0.9,
+    "effect": "NONE"
+  }
+}

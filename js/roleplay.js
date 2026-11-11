@@ -97,8 +97,8 @@ function selectScenario(id, caseId, historyMode = 'push') {
   $('scenario-tip').textContent = scenario.tip;
   $('phrase-library-title').textContent = `핵심 표현 · ${scenario.expressions.length}개`;
   $('role-phrases').innerHTML = scenario.expressions.map(item => `
-    <div class="role-phrase"><div><p lang="en">${escapeHTML(item.english)}</p><span>${escapeHTML(item.korean)}</span>
-      ${item.note ? `<small class="role-phrase-note">${escapeHTML(item.note)}</small>` : ''}</div>${speakButton(item.english)}</div>`).join('');
+    <div class="role-phrase"><div><p lang="en"><button type="button" class="phrase-sentence" data-action="speak" data-speak="${escapeHTML(item.english)}" data-audio="${escapeHTML(item.audio || '')}" aria-label="${escapeHTML(item.english)} 듣기" ${item.audio ? '' : 'disabled'}>${escapeHTML(item.english)}</button></p><span>${escapeHTML(item.korean)}</span>
+      ${item.note ? `<small class="role-phrase-note">${escapeHTML(item.note)}</small>` : ''}</div></div>`).join('');
   selectCase(caseId, historyMode);
 }
 
