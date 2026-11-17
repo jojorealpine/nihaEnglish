@@ -1,0 +1,51 @@
+{
+  "key": "letter-318-part-02",
+  "number": 318,
+  "generationId": "01a1e90c-8a2d-7b5e-bb55-e421e41383ce",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "That is why dreams cannot last longer than that in your memory after waking.",
+      "path": "audio/1971-318/11.mp3",
+      "start": 0.0,
+      "end": 5.290998
+    },
+    {
+      "index": 11,
+      "text": "When the mind is approaching sleep it again passes the same threshold.",
+      "path": "audio/1971-318/12.mp3",
+      "start": 6.84161,
+      "end": 11.486711999999999
+    },
+    {
+      "index": 12,
+      "text": "Be aware of this threshold because it is very significant for those who are in search of the inner treasure.",
+      "path": "audio/1971-318/13.mp3",
+      "start": 13.381406,
+      "end": 19.445193
+    },
+    {
+      "index": 13,
+      "text": "This threshold is the gate to the unknown.",
+      "path": "audio/1971-318/14.mp3",
+      "start": 21.052721,
+      "end": 23.7478
+    },
+    {
+      "index": 14,
+      "text": "This threshold, this gap between waking and sleep, must be used for meditation.",
+      "path": "audio/1971-318/15.mp3",
+      "start": 25.277347,
+      "end": 31.135125000000002
+    },
+    {
+      "index": 15,
+      "text": "Be aware of the gap, be a witness of the interval, and you will be.transformed",
+      "path": "audio/1971-318/16.mp3",
+      "start": 32.655578000000006,
+      "end": 38.95
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "key": "letter-190-part-01",
+  "number": 190,
+  "generationId": "01a1e8e9-dff0-7ceb-b71b-ab4dc632a442",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-190/01.mp3",
+      "start": 0.0,
+      "end": 0.697506
+    },
+    {
+      "index": 1,
+      "text": "The will to wholeness is inherent in everything, but only in man has it become conscious.",
+      "path": "audio/1971-190/02.mp3",
+      "start": 2.1286389999999997,
+      "end": 8.071973
+    },
+    {
+      "index": 2,
+      "text": "Therefore man lives in tension, and only when this longing is fulfilled is his negative state of tension erased The tension is symbolic of the infinite potential and also of the infinite possibilities.",
+      "path": "audio/1971-190/03.mp3",
+      "start": 9.606576,
+      "end": 23.727710000000002
+    },
+    {
+      "index": 3,
+      "text": "Man is not what he can be, and unless he is that which he can be he cannot be at ease.",
+      "path": "audio/1971-190/04.mp3",
+      "start": 24.924989,
+      "end": 31.404694
+    },
+    {
+      "index": 4,
+      "text": "This dis-ease is man, and health is in wholeness.",
+      "path": "audio/1971-190/05.mp3",
+      "start": 32.692222,
+      "end": 36.327937
+    },
+    {
+      "index": 5,
+      "text": "The fact that language has one root for the words whole, holy and to heal conceals a deep truth: He who is whole is also healed, and to be healed is to be whole.",
+      "path": "audio/1971-190/06.mp3",
+      "start": 37.607098,
+      "end": 49.593264999999995
+    },
+    {
+      "index": 6,
+      "text": "This wholeness can only be achieved by becoming totally conscious of oneself: The darkness of the unconscious is to be penetrated and transformed into light.",
+      "path": "audio/1971-190/07.mp3",
+      "start": 51.097982,
+      "end": 61.530227
+    },
+    {
+      "index": 7,
+      "text": "And meditation is the method.",
+      "path": "audio/1971-190/08.mp3",
+      "start": 63.077823,
+      "end": 65.7
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "letter-220-part-01",
+  "number": 220,
+  "generationId": "01a1e8f2-f40d-7240-a447-9790d1a4019e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-220/01.mp3",
+      "start": 0.0,
+      "end": 0.568435
+    },
+    {
+      "index": 1,
+      "text": "Moment to moment life passes into death, because it is death.",
+      "path": "audio/1971-220/02.mp3",
+      "start": 1.824036,
+      "end": 5.145238
+    },
+    {
+      "index": 2,
+      "text": "Covered, it appears as life, uncovered it is death.",
+      "path": "audio/1971-220/03.mp3",
+      "start": 6.433175,
+      "end": 9.794943
+    },
+    {
+      "index": 3,
+      "text": "Always remember this fact.",
+      "path": "audio/1971-220/04.mp3",
+      "start": 11.048617,
+      "end": 12.754081999999999
+    },
+    {
+      "index": 4,
+      "text": "This is silent meditation.",
+      "path": "audio/1971-220/05.mp3",
+      "start": 14.070658000000002,
+      "end": 15.719591999999999
+    },
+    {
+      "index": 5,
+      "text": "And when this remembering even penetrates your dreams you will have a new door opened unto you.",
+      "path": "audio/1971-220/06.mp3",
+      "start": 17.017391999999997,
+      "end": 22.389592
+    },
+    {
+      "index": 6,
+      "text": "In fact through it you will be altogether new, and ultimately reborn.",
+      "path": "audio/1971-220/07.mp3",
+      "start": 23.907415,
+      "end": 29.107982
+    },
+    {
+      "index": 7,
+      "text": "Remembering death gives a new dimension to consciousness because to remember death is not natural.",
+      "path": "audio/1971-220/08.mp3",
+      "start": 30.535397,
+      "end": 36.403650999999996
+    },
+    {
+      "index": 8,
+      "text": "On the contrary nature has arranged that one should not be aware of it because the moment one transcends death one transcends nature also.",
+      "path": "audio/1971-220/09.mp3",
+      "start": 37.815692000000006,
+      "end": 47.934399
+    },
+    {
+      "index": 9,
+      "text": "And one cannot transcend death unless one is totally aware of the fact.",
+      "path": "audio/1971-220/10.mp3",
+      "start": 49.436236,
+      "end": 55.2
+    }
+  ]
+}

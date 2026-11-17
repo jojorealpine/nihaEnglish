@@ -1,0 +1,79 @@
+{
+  "key": "letter-292-part-01",
+  "number": 292,
+  "generationId": "01a1e903-df73-71e8-9c45-bd152ee236f6",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-292/01.mp3",
+      "start": 0.0,
+      "end": 0.5501590000000001
+    },
+    {
+      "index": 1,
+      "text": "Search - and the ego is always somewhere behind.",
+      "path": "audio/1971-292/02.mp3",
+      "start": 1.7667350000000002,
+      "end": 4.875986
+    },
+    {
+      "index": 2,
+      "text": "Search - and in every act the ego is the motivation.",
+      "path": "audio/1971-292/03.mp3",
+      "start": 6.098299,
+      "end": 9.536688999999999
+    },
+    {
+      "index": 3,
+      "text": "But if one can find that this is so and can realize it,",
+      "path": "audio/1971-292/04.mp3",
+      "start": 10.735079,
+      "end": 13.607301999999999
+    },
+    {
+      "index": 4,
+      "text": "one goes beyond it, because the very realization is the going beyond",
+      "path": "audio/1971-292/05.mp3",
+      "start": 14.776916,
+      "end": 18.78941
+    },
+    {
+      "index": 5,
+      "text": "Brother, said Mulla Nasrudin to a neighbor, I am collecting to pay the debt of a poor man who cannot meet his obligations.",
+      "path": "audio/1971-292/06.mp3",
+      "start": 19.999568999999997,
+      "end": 27.167982000000002
+    },
+    {
+      "index": 6,
+      "text": "Very commendable said the other, and gave him a coin.",
+      "path": "audio/1971-292/07.mp3",
+      "start": 28.497619,
+      "end": 31.498549
+    },
+    {
+      "index": 7,
+      "text": "Who is this person?",
+      "path": "audio/1971-292/08.mp3",
+      "start": 32.877823,
+      "end": 34.037642
+    },
+    {
+      "index": 8,
+      "text": "Me, said Nasrudin as he hurried away.",
+      "path": "audio/1971-292/09.mp3",
+      "start": 35.297052,
+      "end": 37.948820999999995
+    },
+    {
+      "index": 9,
+      "text": "A few weeks later he was at the door again.",
+      "path": "audio/1971-292/10.mp3",
+      "start": 39.217279000000005,
+      "end": 42.11
+    }
+  ]
+}

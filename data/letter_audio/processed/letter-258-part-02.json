@@ -1,0 +1,37 @@
+{
+  "key": "letter-258-part-02",
+  "number": 258,
+  "generationId": "01a1e8fc-5c2f-7e09-8d50-946e391ebb42",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 9,
+      "text": "The clouds have gone and the sky is clear",
+      "path": "audio/1971-258/10.mp3",
+      "start": 0.0,
+      "end": 2.703741
+    },
+    {
+      "index": 10,
+      "text": "but there is no cause-and-effect relationship.",
+      "path": "audio/1971-258/11.mp3",
+      "start": 4.186145,
+      "end": 7.264331
+    },
+    {
+      "index": 11,
+      "text": "The sky has not even known the clouds!",
+      "path": "audio/1971-258/12.mp3",
+      "start": 8.747347000000001,
+      "end": 11.534286
+    },
+    {
+      "index": 12,
+      "text": "It has not been affected by them in any way whatsoever.",
+      "path": "audio/1971-258/13.mp3",
+      "start": 13.014626000000002,
+      "end": 17.58
+    }
+  ]
+}

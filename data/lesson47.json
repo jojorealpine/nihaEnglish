@@ -1,0 +1,481 @@
+{
+  "id": "1968-47",
+  "title": "1968 / 47",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1,
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "receive",
+      "meaning": "받다",
+      "note": "여기서는 편지를 받는 행위를 나타냅니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "letter",
+      "meaning": "편지",
+      "note": "개인적인 메시지나 소식을 전달하는 문서를 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Truth",
+      "meaning": "진리",
+      "note": "이 문맥에서는 깊이 있는 지식이나 본질적인 사실을 의미합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unknown",
+      "meaning": "알려지지 않은",
+      "note": "현재로서는 이해하거나 접근할 수 없는 상태를 나타냅니다.",
+      "sentenceIds": [
+        3,
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "enters",
+      "meaning": "들어가다",
+      "note": "이 문맥에서는 어떤 영역이나 상태로 진입하거나 참여하는 것을 의미한다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "brave",
+      "meaning": "용기 있는",
+      "note": "위험이나 어려움에 직면했을 때 두려움을 극복하고 용감하게 행동하는 것을 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "jump",
+      "meaning": "뛰어내리다",
+      "note": "물리적인 점프를 의미할 수도 있고, 새로운 영역이나 상황으로 과감하게 들어가는 것을 비유적으로 표현할 수도 있습니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "emptiness",
+      "meaning": "공허함, 비어 있음",
+      "note": "이 문맥에서는 어떤 것이 존재하지 않거나 비어 있는 상태를 의미합니다.",
+      "sentenceIds": [
+        6,
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "great",
+      "meaning": "큰, 위대한",
+      "note": "비어 있음의 규모나 중요성을 강조하며, 일반적인 공허함을 넘어 특별한 의미를 부여합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "lives",
+      "meaning": "거주하다, 살다",
+      "note": "이 문맥에서는 신의 존재나 거처가 있는 곳을 나타냅니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "For",
+      "meaning": "때문에",
+      "note": "이 문맥에서는 이유나 목적을 나타내는 연결어로 사용되지만, 한국어로는 주로 '단지'라는 의미로 해석된다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "only",
+      "meaning": "단지",
+      "note": "이 단어는 특정 상황이나 존재에서 유일함을 강조하며, 여기서는 다른 것이 존재하지 않음을 나타낸다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "He",
+      "meaning": "그",
+      "note": "문장에서 특정 개인이나 개념을 지칭한다.",
+      "sentenceIds": [
+        10,
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "alone",
+      "meaning": "혼자",
+      "note": "유일무이함이나 다른 것들과의 구분을 나타낸다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "all",
+      "meaning": "모든",
+      "note": "공간이나 범위의 전체를 의미하며, 예외 없이 포괄적인 표현입니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    [
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1968-47/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "I was glad to receive your letter.",
+      "korean": "당신의 편지를 받게 되어 기뻤습니다.",
+      "explanation": "편지를 보낸 사람으로부터 편지를 받은 기쁨을 표현합니다.",
+      "grammar": "「was」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-47/02.mp3",
+      "vocabulary": [
+        {
+          "word": "receive",
+          "meaning": "받다",
+          "note": "여기서는 편지를 받는 행위를 나타냅니다."
+        },
+        {
+          "word": "letter",
+          "meaning": "편지",
+          "note": "개인적인 메시지나 소식을 전달하는 문서를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Truth is unknown, and to know it one has to die to the known.",
+      "korean": "진리는 알려지지 않았고, 그것을 알기 위해서는 알려진 것에서 죽어야 한다.",
+      "explanation": "진리의 본질은 현재로서는 파악할 수 없으며, 진정한 이해를 얻기 위해서는 기존의 지식이나 이해 방식에서 벗어나야 한다는 의미입니다.",
+      "grammar": "「has to die」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+      "audio": "audio/1968-47/03.mp3",
+      "vocabulary": [
+        {
+          "word": "Truth",
+          "meaning": "진리",
+          "note": "이 문맥에서는 깊이 있는 지식이나 본질적인 사실을 의미합니다."
+        },
+        {
+          "word": "unknown",
+          "meaning": "알려지지 않은",
+          "note": "현재로서는 이해하거나 접근할 수 없는 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Once the banks of the known are left behind one enters the ocean of the unknown.",
+      "korean": "알려진 강을 뒤로 한 채 미지의 바다로 들어가는 것이다.",
+      "explanation": "이전 문장의 맥락에서, 이미 알고 있는 지식이나 경험(banks of the known)을 뒤로 하고 새로운, 이해되지 않은 영역(ocean of the unknown)으로 진입하거나 탐험하는 과정을 설명한다.",
+      "grammar": "동사 「enters」는 enter의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1968-47/04.mp3",
+      "vocabulary": [
+        {
+          "word": "enters",
+          "meaning": "들어가다",
+          "note": "이 문맥에서는 어떤 영역이나 상태로 진입하거나 참여하는 것을 의미한다."
+        },
+        {
+          "word": "unknown",
+          "meaning": "알려지지 않은",
+          "note": "이전 지식이나 경험을 벗어난 새로운 영역이나 상태를 지칭하며, 탐구나 발견의 대상으로 쓰인다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Be brave and take the jump!",
+      "korean": "용기를 내어 뛰어내려요!",
+      "explanation": "용기를 가지고 미지의 영역으로 들어가는 것을 독려하는 문장입니다.",
+      "grammar": "동사원형 「Be」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1968-47/05.mp3",
+      "vocabulary": [
+        {
+          "word": "brave",
+          "meaning": "용기 있는",
+          "note": "위험이나 어려움에 직면했을 때 두려움을 극복하고 용감하게 행동하는 것을 의미합니다."
+        },
+        {
+          "word": "jump",
+          "meaning": "뛰어내리다",
+          "note": "물리적인 점프를 의미할 수도 있고, 새로운 영역이나 상황으로 과감하게 들어가는 것을 비유적으로 표현할 수도 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Into emptiness, the great emptiness!",
+      "korean": "비어 있음으로, 큰 비어 있음으로!",
+      "explanation": "이 문장은 무언가의 공허함이나 공백 상태로 들어가라는 강한 권유를 담고 있습니다. '큰 비어 있음'은 그 공허함의 규모나 중요성을 강조합니다.",
+      "grammar": "명사 「emptiness」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1968-47/06.mp3",
+      "vocabulary": [
+        {
+          "word": "emptiness",
+          "meaning": "공허함, 비어 있음",
+          "note": "이 문맥에서는 어떤 것이 존재하지 않거나 비어 있는 상태를 의미합니다."
+        },
+        {
+          "word": "great",
+          "meaning": "큰, 위대한",
+          "note": "비어 있음의 규모나 중요성을 강조하며, 일반적인 공허함을 넘어 특별한 의미를 부여합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Because that's where God lives.",
+      "korean": "그곳이 신의 거처이기 때문입니다.",
+      "explanation": "문장의 의미: 신의 거처가 공허함 속에 있다는 의미를 전달합니다.",
+      "grammar": "「's」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-47/07.mp3",
+      "vocabulary": [
+        {
+          "word": "lives",
+          "meaning": "거주하다, 살다",
+          "note": "이 문맥에서는 신의 존재나 거처가 있는 곳을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "Love to all, or to the only one!",
+      "korean": "모든 사람에게 사랑을 전하거나 단 한 사람에게만 사랑을 전하라.",
+      "explanation": "이 문장은 사랑의 대상에 대한 선택을 제시하며, 모든 사람에게 사랑을 베풀 것인지 아니면 특정 한 사람에게만 집중할 것인지를 묻는다.",
+      "grammar": "명사 「Love」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1968-47/08.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑",
+          "note": "여기서는 사랑을 주는 행위나 감정을 의미하며, 대상에 대한 깊은 애정이나 배려를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "For only the one is.",
+      "korean": "단지 그 사람만이 존재한다.",
+      "explanation": "이 문장은 특정 개인이나 존재가 유일무이하다는 의미를 전달한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-47/09.mp3",
+      "vocabulary": [
+        {
+          "word": "For",
+          "meaning": "때문에",
+          "note": "이 문맥에서는 이유나 목적을 나타내는 연결어로 사용되지만, 한국어로는 주로 '단지'라는 의미로 해석된다."
+        },
+        {
+          "word": "only",
+          "meaning": "단지",
+          "note": "이 단어는 특정 상황이나 존재에서 유일함을 강조하며, 여기서는 다른 것이 존재하지 않음을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "He alone is.",
+      "korean": "그는 혼자이다.",
+      "explanation": "이 문장은 특정 인물이나 개념이 다른 것들과 구분되어 유일무이함을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-47/10.mp3",
+      "vocabulary": [
+        {
+          "word": "He",
+          "meaning": "그",
+          "note": "문장에서 특정 개인이나 개념을 지칭한다."
+        },
+        {
+          "word": "alone",
+          "meaning": "혼자",
+          "note": "유일무이함이나 다른 것들과의 구분을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "He is in all.",
+      "korean": "그는 모든 곳에 존재한다.",
+      "explanation": "이 문장은 특정 존재(그)가 공간이나 영역의 모든 부분에 걸쳐 존재함을 나타냅니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-47/11.mp3",
+      "vocabulary": [
+        {
+          "word": "He",
+          "meaning": "그",
+          "note": "문장에서 특정 개인이나 개념을 지칭합니다."
+        },
+        {
+          "word": "all",
+          "meaning": "모든",
+          "note": "공간이나 범위의 전체를 의미하며, 예외 없이 포괄적인 표현입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "He is in all and in the emptiness also.",
+      "korean": "그는 모든 곳에 있으며, 공허함 속에도 있다.",
+      "explanation": "이 문장은 존재의 무한성과 모든 곳에 존재하는 신의 본질을 설명한다. 공허함이라는 개념은 물리적인 공간뿐 아니라 정신적 또는 영적인 공허함까지 포괄한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-47/12.mp3",
+      "vocabulary": [
+        {
+          "word": "emptiness",
+          "meaning": "공허함",
+          "note": "물리적 공간의 공허함뿐 아니라 정신적 또는 영적인 공허함을 의미할 수 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "당신의 편지를 받게 되어 기뻤습니다. 진리는 알려지지 않았고, 그것을 알기 위해서는 알려진 것에서 죽어야 한다. 알려진 강을 뒤로 한 채 미지의 바다로 들어가는 것이다. 용기를 내어 뛰어내려요! 비어 있음으로, 큰 비어 있음으로! 그곳이 신의 거처이기 때문입니다.",
+    "모든 사람에게 사랑을 전하거나 단 한 사람에게만 사랑을 전하라. 단지 그 사람만이 존재한다. 그는 혼자이다. 그는 모든 곳에 존재한다. 그는 모든 곳에 있으며, 공허함 속에도 있다."
+  ],
+  "fullAudio": "audio/1968-47/script_all.mp3",
+  "originalText": "Love.\n\nI was glad to receive your letter.\nTruth is unknown,\nand to know it one has to die to the known.\nOnce the banks of the known are left behind\none enters the ocean of the unknown.\nBe brave and take the jump!\nInto emptiness, the great emptiness!\nBecause that's where God lives.\n\nLove to all,\nor to the only one!\nFor only the one is.\nHe alone is.\nHe is in all.\nHe is in all and in the emptiness also.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 47,
+    "year": 1968,
+    "pages": [
+      {
+        "file": "IMG_0794 2.JPG",
+        "side": "right",
+        "printedPage": 41
+      },
+      {
+        "file": "IMG_0796 2.JPG",
+        "side": "left",
+        "printedPage": 42
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "audioVoice": "Views",
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  }
+}

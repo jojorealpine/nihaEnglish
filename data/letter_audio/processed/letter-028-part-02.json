@@ -1,0 +1,79 @@
+{
+  "key": "letter-028-part-02",
+  "number": 28,
+  "generationId": "01a1e4eb-77ef-7944-b778-34becfd4967d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Whatever feelings lead you towards this marvellous meeting and merging are prayers, and all those prayers can be expressed in a single word; that word is love.",
+      "path": "audio/1965-28/11.mp3",
+      "start": 0.0,
+      "end": 9.564853
+    },
+    {
+      "index": 11,
+      "text": "What does love want?",
+      "path": "audio/1965-28/12.mp3",
+      "start": 11.077755000000002,
+      "end": 12.541428999999999
+    },
+    {
+      "index": 12,
+      "text": "Love wants to share with all the bliss it has.",
+      "path": "audio/1965-28/13.mp3",
+      "start": 14.091610000000001,
+      "end": 17.130385
+    },
+    {
+      "index": 13,
+      "text": "Love wants to share itself with everyone!",
+      "path": "audio/1965-28/14.mp3",
+      "start": 18.559252,
+      "end": 21.144127
+    },
+    {
+      "index": 14,
+      "text": "To give of oneself unconditionally - that is love.",
+      "path": "audio/1965-28/15.mp3",
+      "start": 22.248594,
+      "end": 25.616327000000002
+    },
+    {
+      "index": 15,
+      "text": "To love is to dedicate one's being to the whole as the drop surrenders to the sea.",
+      "path": "audio/1965-28/16.mp3",
+      "start": 26.752222,
+      "end": 31.087415
+    },
+    {
+      "index": 16,
+      "text": "I pulsate with such love.",
+      "path": "audio/1965-28/17.mp3",
+      "start": 32.175329000000005,
+      "end": 33.952698
+    },
+    {
+      "index": 17,
+      "text": "It has filled my life with nectar and light.",
+      "path": "audio/1965-28/18.mp3",
+      "start": 35.045283000000005,
+      "end": 37.385214999999995
+    },
+    {
+      "index": 18,
+      "text": "Now I have only one wish: that what has happened to me should happen to all!",
+      "path": "audio/1965-28/19.mp3",
+      "start": 38.928844000000005,
+      "end": 44.070589999999996
+    },
+    {
+      "index": 19,
+      "text": "Give my love to everyone there.",
+      "path": "audio/1965-28/20.mp3",
+      "start": 45.606236,
+      "end": 48.85
+    }
+  ]
+}

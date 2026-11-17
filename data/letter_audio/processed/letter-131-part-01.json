@@ -1,0 +1,79 @@
+{
+  "key": "letter-131-part-01",
+  "number": 131,
+  "generationId": "01a1e6cc-a0a8-7bf5-b1e6-46ce76043d7b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-131/01.mp3",
+      "start": 0.0,
+      "end": 0.536531
+    },
+    {
+      "index": 1,
+      "text": "I received your letter.",
+      "path": "audio/1970-131/02.mp3",
+      "start": 1.5519949999999998,
+      "end": 2.616213
+    },
+    {
+      "index": 2,
+      "text": "Now never worry about me, not even mistakenly for two reasons.",
+      "path": "audio/1970-131/03.mp3",
+      "start": 3.634308,
+      "end": 6.719546
+    },
+    {
+      "index": 3,
+      "text": "First: the day I surrendered myself for God I transcended all anxiety - because trying to look after oneself is the only anxiety!",
+      "path": "audio/1970-131/04.mp3",
+      "start": 7.75585,
+      "end": 15.061361
+    },
+    {
+      "index": 4,
+      "text": "Ego is anxiety.",
+      "path": "audio/1970-131/05.mp3",
+      "start": 16.038662,
+      "end": 17.503719
+    },
+    {
+      "index": 5,
+      "text": "Beyond it: what anxiety? whose? and for whom?",
+      "path": "audio/1970-131/06.mp3",
+      "start": 18.50517,
+      "end": 22.702744000000003
+    },
+    {
+      "index": 6,
+      "text": "Secondly: men like me are born to be crucified.",
+      "path": "audio/1970-131/07.mp3",
+      "start": 23.880045,
+      "end": 27.160454
+    },
+    {
+      "index": 7,
+      "text": "The cross is our throne and our mission is fulfilled only when stones are showered, not flowers.",
+      "path": "audio/1970-131/08.mp3",
+      "start": 28.382313,
+      "end": 33.042086
+    },
+    {
+      "index": 8,
+      "text": "But on the divine path even stones turn into flowers, and on the contrary path even flowers turn out to be stones.",
+      "path": "audio/1970-131/09.mp3",
+      "start": 34.289683000000004,
+      "end": 40.982676
+    },
+    {
+      "index": 9,
+      "text": "Therefore when the stones start raining on me, be happy and thank God!",
+      "path": "audio/1970-131/10.mp3",
+      "start": 42.504921,
+      "end": 47.07
+    }
+  ]
+}

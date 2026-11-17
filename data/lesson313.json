@@ -1,0 +1,655 @@
+{
+  "id": "1971-313",
+  "title": "1971 / 313",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Come",
+      "meaning": "여기로 오다",
+      "note": "청유형으로 사용되어 상대방에게 행동을 요청함",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "possible",
+      "meaning": "가능한",
+      "note": "상황이나 시간이 허락하는 경우를 나타냄",
+      "sentenceIds": [
+        2,
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "welcomed",
+      "meaning": "환영받다",
+      "note": "이 단어는 누군가가 따뜻하게 맞이되거나 환영받는 상황을 나타냅니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "little",
+      "meaning": "조금",
+      "note": "양을 나타내는 부사로, 여기서는 시간의 짧은 정도를 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "longer",
+      "meaning": "더 오래",
+      "note": "시간의 길이를 나타내는 부사로, 여기서는 체류 시간이 더 길게 유지되기를 바라는 의미를 담고 있습니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "difficult",
+      "meaning": "어려움",
+      "note": "상황이나 과정이 쉽지 않음을 나타냄",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "completely",
+      "meaning": "완전히",
+      "note": "완전한 포기나 해방을 강조함",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "impossible",
+      "meaning": "불가능한",
+      "note": "문장에서 부정적인 의미로 사용되지만, 한국어 번역에서는 긍정적인 맥락으로 바뀌어 '어려움이 있더라도 불가능하지는 않다'는 의미로 해석되었다.",
+      "sentenceIds": [
+        6,
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "especially",
+      "meaning": "특히",
+      "note": "특정 개인에게 초점을 맞추는 데 사용되었다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "opportunity",
+      "meaning": "기회",
+      "note": "개인의 잠재력이 발휘될 수 있는 시기나 상황을 의미한다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "longing",
+      "meaning": "갈망, 갈망",
+      "note": "이 단어는 강한 욕구나 열망을 나타냅니다.",
+      "sentenceIds": [
+        8,
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "explode",
+      "meaning": "폭발하다",
+      "note": "물리적인 폭발뿐 아니라, 여기서는 씨앗의 잠재력이나 에너지가 급격히 발현되는 것을 상징적으로 표현할 수 있습니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "tension",
+      "meaning": "긴장",
+      "note": "불안이나 압박감을 느끼는 상태를 나타낸다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "tomorrow",
+      "meaning": "내일",
+      "note": "미래의 특정 시점을 가리키며, 변화와 발전의 가능성을 시사한다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "essence",
+      "meaning": "본질",
+      "note": "어떤 것의 가장 중요한 본질적인 특성이나 본질을 나타냄",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "existence",
+      "meaning": "존재",
+      "note": "어떤 것이 실제로 존재한다는 의미",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "follow",
+      "meaning": "따르다, 따르다",
+      "note": "어떤 지시나 권유에 순응하거나 그 방향으로 행동하는 것을 의미합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "conclusion",
+      "meaning": "결론",
+      "note": "분석이나 논의의 최종적인 결과나 결론을 나타냅니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meditation",
+      "meaning": "명상",
+      "note": "정신적 평온과 집중을 위해 마음을 비우고 특정 대상이나 기법에 집중하는 행위",
+      "sentenceIds": [
+        12,
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "seek",
+      "meaning": "찾다, 추구하다",
+      "note": "여기서는 결과에 대한 집착이나 추구를 의미합니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "results",
+      "meaning": "결과",
+      "note": "명상 수행의 성과나 효과를 가리킵니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "time",
+      "meaning": "시간",
+      "note": "상황이나 사건이 일어나는 시기를 나타냅니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ripe",
+      "meaning": "적절한 시기",
+      "note": "특히 성장이나 발전의 맥락에서, 최적의 상태나 시기를 의미합니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ripen",
+      "meaning": "익히다",
+      "note": "시간이 지남에 따라 자연스럽게 성숙하거나 발전하게 하다.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      12,
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-313/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Come here whenever it is possible.",
+      "korean": "가능할 때마다 여기로 와 주세요.",
+      "explanation": "언제든 시간이 되면 이곳으로 오라는 권유의 의미",
+      "grammar": "동사원형 「Come」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-313/02.mp3",
+      "vocabulary": [
+        {
+          "word": "Come",
+          "meaning": "여기로 오다",
+          "note": "청유형으로 사용되어 상대방에게 행동을 요청함"
+        },
+        {
+          "word": "possible",
+          "meaning": "가능한",
+          "note": "상황이나 시간이 허락하는 경우를 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "You will always be welcomed.",
+      "korean": "항상 환영받을 것입니다.",
+      "explanation": "항상 누군가에게 환영받는 상태를 의미합니다.",
+      "grammar": "「will always be welcomed」는 조동사 + be + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-313/03.mp3",
+      "vocabulary": [
+        {
+          "word": "welcomed",
+          "meaning": "환영받다",
+          "note": "이 단어는 누군가가 따뜻하게 맞이되거나 환영받는 상황을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "And stay with me a little longer, and let me help.",
+      "korean": "조금 더 오래 머물러서 도와줄게.",
+      "explanation": "주어진 문장의 의미를 한국어로 자연스럽게 번역한 내용입니다.",
+      "grammar": "동사원형 「stay」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-313/04.mp3",
+      "vocabulary": [
+        {
+          "word": "little",
+          "meaning": "조금",
+          "note": "양을 나타내는 부사로, 여기서는 시간의 짧은 정도를 의미합니다."
+        },
+        {
+          "word": "longer",
+          "meaning": "더 오래",
+          "note": "시간의 길이를 나타내는 부사로, 여기서는 체류 시간이 더 길게 유지되기를 바라는 의미를 담고 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "It will be difficult for you because you will have to let go of yourself completely.",
+      "korean": "너는 완전히 자기 자신을 놓아야 하기 때문에 어려울 것이다.",
+      "explanation": "문장은 개인이 자신의 욕망이나 집착에서 완전히 벗어나는 과정이 쉽지 않음을 설명한다.",
+      "grammar": "「have to let」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+      "audio": "audio/1971-313/05.mp3",
+      "vocabulary": [
+        {
+          "word": "difficult",
+          "meaning": "어려움",
+          "note": "상황이나 과정이 쉽지 않음을 나타냄"
+        },
+        {
+          "word": "completely",
+          "meaning": "완전히",
+          "note": "완전한 포기나 해방을 강조함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "But it is not impossible - and for you especially because I have seen in you the great potential that is awaiting its opportunity.",
+      "korean": "하지만 불가능한 것은 아니야 - 특히 너에게는 네 안에 잠재된 큰 가능성이 기회를 기다리고 있기 때문이야.",
+      "explanation": "문장은 어려움이 있더라도 그것이 불가능하지 않으며, 특히 해당 개인에게는 큰 잠재력이 있어 적절한 기회가 오면 성공할 가능성이 있다는 긍정적인 메시지를 전달하고 있다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-313/06.mp3",
+      "vocabulary": [
+        {
+          "word": "impossible",
+          "meaning": "불가능한",
+          "note": "문장에서 부정적인 의미로 사용되지만, 한국어 번역에서는 긍정적인 맥락으로 바뀌어 '어려움이 있더라도 불가능하지는 않다'는 의미로 해석되었다."
+        },
+        {
+          "word": "especially",
+          "meaning": "특히",
+          "note": "특정 개인에게 초점을 맞추는 데 사용되었다."
+        },
+        {
+          "word": "opportunity",
+          "meaning": "기회",
+          "note": "개인의 잠재력이 발휘될 수 있는 시기나 상황을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "With you much that is impossible is possible.",
+      "korean": "너에게는 불가능한 것도 가능하다.",
+      "explanation": "원문에서 강조하는 개인의 잠재력과 가능성에 대한 긍정적인 메시지를 전달합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-313/07.mp3",
+      "vocabulary": [
+        {
+          "word": "impossible",
+          "meaning": "불가능한",
+          "note": "문장에서 어떤 일이 현재로서는 이루어질 수 없다는 의미입니다."
+        },
+        {
+          "word": "possible",
+          "meaning": "가능한",
+          "note": "특정 상황이나 개인의 능력으로 인해 이루어질 수 있다는 의미입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "There is a seed which is longing to explode.",
+      "korean": "폭발하려는 갈망이 있는 씨앗이 있어요.",
+      "explanation": "씨앗이 폭발하려는 강한 욕망이나 갈망을 가지고 있다는 의미입니다.",
+      "grammar": "「There is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1971-313/08.mp3",
+      "vocabulary": [
+        {
+          "word": "longing",
+          "meaning": "갈망, 갈망",
+          "note": "이 단어는 강한 욕구나 열망을 나타냅니다."
+        },
+        {
+          "word": "explode",
+          "meaning": "폭발하다",
+          "note": "물리적인 폭발뿐 아니라, 여기서는 씨앗의 잠재력이나 에너지가 급격히 발현되는 것을 상징적으로 표현할 수 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "Its very longing is the source of your search, its longing is the tension that you are today and its longing will be the freedom that you will be tomorrow.",
+      "korean": "그 갈망이 네 탐색의 근원이며, 오늘날 네가 겪는 긴장이 바로 그것이고, 내일 너의 자유가 바로 그 갈망에서 비롯될 것이다.",
+      "explanation": "문장은 현재의 갈망이 개인의 현재 상태(긴장)를 형성하고, 미래의 자유로 이어질 것이라는 의미를 전달한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-313/09.mp3",
+      "vocabulary": [
+        {
+          "word": "longing",
+          "meaning": "갈망, 갈망",
+          "note": "어떤 것을 간절히 바라는 마음이나 상태를 의미한다."
+        },
+        {
+          "word": "tension",
+          "meaning": "긴장",
+          "note": "불안이나 압박감을 느끼는 상태를 나타낸다."
+        },
+        {
+          "word": "tomorrow",
+          "meaning": "내일",
+          "note": "미래의 특정 시점을 가리키며, 변화와 발전의 가능성을 시사한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "The essence is there and the existence will follow if you so wish.",
+      "korean": "본질이 존재하고, 원한다면 그 존재가 따를 것이다.",
+      "explanation": "본질이 존재하고, 개인의 선택에 따라 그 결과가 나타날 것이라는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-313/10.mp3",
+      "vocabulary": [
+        {
+          "word": "essence",
+          "meaning": "본질",
+          "note": "어떤 것의 가장 중요한 본질적인 특성이나 본질을 나타냄"
+        },
+        {
+          "word": "existence",
+          "meaning": "존재",
+          "note": "어떤 것이 실제로 존재한다는 의미"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "Please follow its call to the conclusion.",
+      "korean": "그 부름에 따라 결론에 이르세요.",
+      "explanation": "그 지시나 권유에 따라 최종적인 결과나 결론에 도달하세요.",
+      "grammar": "동사원형 「follow」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-313/11.mp3",
+      "vocabulary": [
+        {
+          "word": "follow",
+          "meaning": "따르다, 따르다",
+          "note": "어떤 지시나 권유에 순응하거나 그 방향으로 행동하는 것을 의미합니다."
+        },
+        {
+          "word": "conclusion",
+          "meaning": "결론",
+          "note": "분석이나 논의의 최종적인 결과나 결론을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "Go on doing meditation.",
+      "korean": "계속 명상을 이어가세요.",
+      "explanation": "명상을 지속하라는 권유나 조언",
+      "grammar": "동사원형 「Go」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-313/12.mp3",
+      "vocabulary": [
+        {
+          "word": "meditation",
+          "meaning": "명상",
+          "note": "정신적 평온과 집중을 위해 마음을 비우고 특정 대상이나 기법에 집중하는 행위"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "Do not seek results, they will come by themselves when the time is ripe.",
+      "korean": "결과를 추구하지 마세요. 적절한 시기에 스스로 찾아올 것입니다.",
+      "explanation": "명상 수행 중 결과에 집착하지 말고 자연스럽게 이루어질 때까지 기다리라는 의미입니다.",
+      "grammar": "「Do not seek」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1971-313/13.mp3",
+      "vocabulary": [
+        {
+          "word": "seek",
+          "meaning": "찾다, 추구하다",
+          "note": "여기서는 결과에 대한 집착이나 추구를 의미합니다."
+        },
+        {
+          "word": "results",
+          "meaning": "결과",
+          "note": "명상 수행의 성과나 효과를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "And the time is ripe but you still are not.",
+      "korean": "시간이 알맞지만 여전히 그렇지 않아요.",
+      "explanation": "시간이 적절하게 도래했음에도 불구하고 개인이 그 상태나 위치에 도달하지 못하고 있다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-313/14.mp3",
+      "vocabulary": [
+        {
+          "word": "time",
+          "meaning": "시간",
+          "note": "상황이나 사건이 일어나는 시기를 나타냅니다."
+        },
+        {
+          "word": "ripe",
+          "meaning": "적절한 시기",
+          "note": "특히 성장이나 발전의 맥락에서, 최적의 상태나 시기를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "Let meditation ripen you.",
+      "korean": "명상으로 너를 익히려.",
+      "explanation": "명상을 통해 내면의 성장이나 깨달음을 이루라는 의미입니다.",
+      "grammar": "「Let」로 시작하는 명령·권유 표현입니다. let 뒤에는 대상과 동사원형을 이어서, 그 행동을 하게 두거나 함께 하자는 뜻을 나타낼 수 있습니다.",
+      "audio": "audio/1971-313/15.mp3",
+      "vocabulary": [
+        {
+          "word": "meditation",
+          "meaning": "명상",
+          "note": "마음의 평온을 찾고 정신적 성장을 이루기 위한 정신 집중 활동."
+        },
+        {
+          "word": "ripen",
+          "meaning": "익히다",
+          "note": "시간이 지남에 따라 자연스럽게 성숙하거나 발전하게 하다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "가능할 때마다 여기로 와 주세요. 항상 환영받을 것입니다. 조금 더 오래 머물러서 도와줄게.",
+    "너는 완전히 자기 자신을 놓아야 하기 때문에 어려울 것이다. 하지만 불가능한 것은 아니야 - 특히 너에게는 네 안에 잠재된 큰 가능성이 기회를 기다리고 있기 때문이야.",
+    "너에게는 불가능한 것도 가능하다. 폭발하려는 갈망이 있는 씨앗이 있어요. 그 갈망이 네 탐색의 근원이며, 오늘날 네가 겪는 긴장이 바로 그것이고, 내일 너의 자유가 바로 그 갈망에서 비롯될 것이다. 본질이 존재하고, 원한다면 그 존재가 따를 것이다. 그 부름에 따라 결론에 이르세요.",
+    "계속 명상을 이어가세요. 결과를 추구하지 마세요. 적절한 시기에 스스로 찾아올 것입니다. 시간이 알맞지만 여전히 그렇지 않아요.",
+    "명상으로 너를 익히려."
+  ],
+  "fullAudio": "audio/1971-313/script_all.mp3",
+  "originalText": "Love.\n\nCome here whenever it is possible.\nYou will always be welcomed.\nAnd stay with me a little longer,\nand let me help.\n\nIt will be difficult for you\nbecause you will have to let go of yourself completely.\nBut it is not impossible -\nand for you especially\nbecause I have seen in you the great potential\nthat is awaiting its opportunity.\n\nWith you much that is impossible is possible.\nThere is a seed which is longing to explode.\nIts very longing is the source of your search,\nits longing is the tension that you are today\nand its longing will be the freedom\nthat you will be tomorrow.\nThe essence is there and\nthe existence will follow if you so wish.\nPlease follow its call to the conclusion.\n\nGo on doing meditation.\nDo not seek results,\nthey will come by themselves when the time is ripe.\nAnd the time is ripe\nbut you still are not.\n\nLet meditation ripen you.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 313,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0895 2.JPG",
+        "side": "right",
+        "printedPage": 241
+      },
+      {
+        "file": "IMG_0896 2.JPG",
+        "side": "left",
+        "printedPage": 242
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

@@ -1,0 +1,79 @@
+{
+  "key": "letter-085-part-01",
+  "number": 85,
+  "generationId": "01a1e62f-cd46-7e6e-9022-77bea89772c1",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-85/01.mp3",
+      "start": 0.0,
+      "end": 0.678141
+    },
+    {
+      "index": 1,
+      "text": "I am glad to have received your letter.",
+      "path": "audio/1970-85/02.mp3",
+      "start": 2.055215,
+      "end": 3.987574
+    },
+    {
+      "index": 2,
+      "text": "The I is not to be given up because how can you drop that which is not?",
+      "path": "audio/1970-85/03.mp3",
+      "start": 5.460839,
+      "end": 9.751178999999999
+    },
+    {
+      "index": 3,
+      "text": "The I has to be looked into, understood It is like taking a lamp to search for darkness - the darkness vanishes!",
+      "path": "audio/1970-85/04.mp3",
+      "start": 11.177166000000001,
+      "end": 19.223356000000003
+    },
+    {
+      "index": 4,
+      "text": "Darkness cannot be stamped out because it doesn't exist.",
+      "path": "audio/1970-85/05.mp3",
+      "start": 20.656530999999998,
+      "end": 23.573878
+    },
+    {
+      "index": 5,
+      "text": "You just have to bring a light and darkness is unmasked.",
+      "path": "audio/1970-85/06.mp3",
+      "start": 24.844354,
+      "end": 28.79907
+    },
+    {
+      "index": 6,
+      "text": "It is the same with your thoughts - do not fight with them.",
+      "path": "audio/1970-85/07.mp3",
+      "start": 30.057437999999998,
+      "end": 33.456326999999995
+    },
+    {
+      "index": 7,
+      "text": "The effort to be free of thought comes itself from a thought.",
+      "path": "audio/1970-85/08.mp3",
+      "start": 34.722018000000006,
+      "end": 37.395215
+    },
+    {
+      "index": 8,
+      "text": "Know your thoughts, watch them, be aware of them, then they quieten down without difficulty.",
+      "path": "audio/1970-85/09.mp3",
+      "start": 38.729569000000005,
+      "end": 46.041156
+    },
+    {
+      "index": 9,
+      "text": "Witnessing finally leads to emptiness, and where there is emptiness - there is the all.",
+      "path": "audio/1970-85/10.mp3",
+      "start": 47.653605000000006,
+      "end": 55.01
+    }
+  ]
+}

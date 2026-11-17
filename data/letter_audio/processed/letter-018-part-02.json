@@ -1,0 +1,51 @@
+{
+  "key": "letter-018-part-02",
+  "number": 18,
+  "generationId": "01a1e4ea-3d8b-7d9f-a448-5694544311a6",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Through it and it alone can one reach life's truth.",
+      "path": "audio/1964-18/11.mp3",
+      "start": 0.0,
+      "end": 3.170862
+    },
+    {
+      "index": 11,
+      "text": "Remember:",
+      "path": "audio/1964-18/12.mp3",
+      "start": 4.511406,
+      "end": 5.248163
+    },
+    {
+      "index": 12,
+      "text": "If you become absorbed in sadhana, fully committed and surrendered, you are bound to reach the truth.",
+      "path": "audio/1964-18/13.mp3",
+      "start": 6.670703,
+      "end": 12.987074999999999
+    },
+    {
+      "index": 13,
+      "text": "This is an eternal law.",
+      "path": "audio/1964-18/14.mp3",
+      "start": 14.340544000000001,
+      "end": 16.239592000000002
+    },
+    {
+      "index": 14,
+      "text": "No step taken towards God is ever wasted.",
+      "path": "audio/1964-18/15.mp3",
+      "start": 17.571315,
+      "end": 20.685601000000002
+    },
+    {
+      "index": 15,
+      "text": "My regards to all.",
+      "path": "audio/1964-18/16.mp3",
+      "start": 22.031337999999998,
+      "end": 23.72
+    }
+  ]
+}

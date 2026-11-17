@@ -1,0 +1,58 @@
+{
+  "key": "letter-276-part-01",
+  "number": 276,
+  "generationId": "01a1e900-3e43-759b-a074-6ff65d3dd615",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-276/01.mp3",
+      "start": 0.0,
+      "end": 0.564399
+    },
+    {
+      "index": 1,
+      "text": "You possess only that which will not be lost in death.",
+      "path": "audio/1971-276/02.mp3",
+      "start": 1.566871,
+      "end": 4.444263
+    },
+    {
+      "index": 2,
+      "text": "All else is illusion - even the possessor, because that too will not be able to stand the final shipwreck.",
+      "path": "audio/1971-276/03.mp3",
+      "start": 5.517166,
+      "end": 11.082948
+    },
+    {
+      "index": 3,
+      "text": "Then find out what is left.",
+      "path": "audio/1971-276/04.mp3",
+      "start": 12.219138000000001,
+      "end": 13.752676
+    },
+    {
+      "index": 4,
+      "text": "Turn in and meditate.",
+      "path": "audio/1971-276/05.mp3",
+      "start": 14.828231,
+      "end": 16.36356
+    },
+    {
+      "index": 5,
+      "text": "Discard all that is vulnerable to death.",
+      "path": "audio/1971-276/06.mp3",
+      "start": 17.500998,
+      "end": 19.568254
+    },
+    {
+      "index": 6,
+      "text": "Say: Not this, not that, and go deep to the point where nothing more remains to be discarded - and the illumination.",
+      "path": "audio/1971-276/07.mp3",
+      "start": 20.999931999999998,
+      "end": 30.82
+    }
+  ]
+}

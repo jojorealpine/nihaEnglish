@@ -1,0 +1,30 @@
+{
+  "key": "letter-349-part-01",
+  "number": 349,
+  "generationId": "01a1e916-346c-7112-8687-278519d85df6",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-349/01.mp3",
+      "start": 0.0,
+      "end": 0.777506
+    },
+    {
+      "index": 1,
+      "text": "Be aware of the mind before it is stirred by a thought, or, be aware of the gap between two thoughts, and - you will meet yourself!",
+      "path": "audio/1971-349/02.mp3",
+      "start": 2.221542,
+      "end": 10.208345
+    },
+    {
+      "index": 2,
+      "text": "And this meeting is the meeting with the divine.",
+      "path": "audio/1971-349/03.mp3",
+      "start": 11.680862000000001,
+      "end": 14.71
+    }
+  ]
+}

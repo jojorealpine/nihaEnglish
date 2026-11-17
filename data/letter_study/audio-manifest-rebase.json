@@ -1,0 +1,1535 @@
+{
+  "reason": "Authorized Views audio bindings and six scan-verified OCR corrections; study content preservation independently verified in data/letter_audio/verification.json. Previous source/manual records archived in before-views-audio.",
+  "changes": [
+    {
+      "lesson": 57,
+      "before": "acf6aa82f9022b3f692a4e3a664fb00bb79cb703b7e2608114066b4afe034757",
+      "after": "b949ad402f5fe01d760d1d6e95a239784f1d5684fcb217308e7260ee9739ac30"
+    },
+    {
+      "lesson": 58,
+      "before": "742d77a24473e009dda58bb8d0d22185b69055b439079f7db2731664d0235bcd",
+      "after": "9135eacfe88fe0bee4be4892505bbf2c4a8ea2ecae9e05e18e528d845de842cd"
+    },
+    {
+      "lesson": 59,
+      "before": "5b47029fd0b2bb987589b4486f00cd8af4c29058ad0cb053f74d11cc38296a29",
+      "after": "1047c8d3b6b877ca0a24ff9cc3fdb75761521c1f974416c19cb998ac8ddd1fa2"
+    },
+    {
+      "lesson": 60,
+      "before": "322a6007105fec25a83d86f92ae5fc4593954cfcf01b93cbb94c851d55119aef",
+      "after": "8a7a263f28fcef74399455d156ccdb97d02adf21b4eb9c2efa6868b60e0f06a2"
+    },
+    {
+      "lesson": 61,
+      "before": "58728983a8263a4fc01fc89da218afb4509336d64c07e7217f9b02624082f1a3",
+      "after": "ae2e219cd43c6e8d5ef71f4cb184e89081ea2a859e4f6fcd2129a1f053018689"
+    },
+    {
+      "lesson": 62,
+      "before": "df63cee9a87549fd5664d02323fa7273fe1b8011aacc10ea2e3b0ab83a7cf723",
+      "after": "a67030f178a70d06d60cd2151ca730a429f69e7db8d2fd1bbb6de2270b26b1c8"
+    },
+    {
+      "lesson": 63,
+      "before": "2819d77ab791458693eaed3b36ff6a0bc58c7d012cba97a429162c3a33a16a3c",
+      "after": "7646cabc23f6af11271f88bd78f452227ade3c71c6f3a542dded7639ad4e978f"
+    },
+    {
+      "lesson": 64,
+      "before": "5c020c616c8865575d454ac32087aabbb3f288dab6092cad5db3a153ef3e8ca2",
+      "after": "15beb8e40e0495d9a80f8bf51b56e2eefedf42ba19d4065eb46e749d347a1424"
+    },
+    {
+      "lesson": 65,
+      "before": "b751c7569fab9c5dd4b09149a2e158270d349c973a05c2df32bd5001cc604116",
+      "after": "82bfc38572a47a57e071cfa61d70000872bd958299820ecefcfa57e72adfe753"
+    },
+    {
+      "lesson": 66,
+      "before": "b56265e1d9e5e5e8f1f70bdb5a8a781636b8187a7c359f963efbea8c8a16aa54",
+      "after": "444d9013648e1436dd9bab2fbcf78001ca569ccae2db4bda64e17a04347a3089"
+    },
+    {
+      "lesson": 67,
+      "before": "7de1569d61baf5b5bbd73097e7f2ee4751551e249f4f2fc4fb92204324008f5c",
+      "after": "99c5415cfa0dc11c7d597872c56bd569c32856eb236bc1b61d30f2514a651f00"
+    },
+    {
+      "lesson": 68,
+      "before": "381e0c55a0587056b6991d5bca35230c96ac036e78c687d01ffd910dc761a4a6",
+      "after": "8a888baa8a4b4af272d9db501031bdd92d24666ce0fcf4d45196a903a20aa0e6"
+    },
+    {
+      "lesson": 69,
+      "before": "d1c0920a16e18204df7d94ebc6e28613393ac34d548c7b1ef90a76c8a30d0657",
+      "after": "22b49fcb68a2cb935cd93544d649ad2085444851e7a5211ae2b7cd37bfbc8a0c"
+    },
+    {
+      "lesson": 70,
+      "before": "0f3da96865528bd0fa6dae16ee60264e1d90cd1690b442f1a53a9290f1b01bb6",
+      "after": "dcada0bdad5572a5a8939013d85edfe4f97a5320e8beada8f5b0b98256117555"
+    },
+    {
+      "lesson": 71,
+      "before": "3583331504384b566e5c80286c7d0dcc8af75a04f380b214192b4b04ce08c22c",
+      "after": "23eb8f6214a1ef4a87cf6c00a25bc03b834ea4ad81e55fef68767ac4972fdca9"
+    },
+    {
+      "lesson": 73,
+      "before": "ca1bfd1871f32c993bb0bf0fe20fa21470f6f23ee2c07a31959b1f4f721c5889",
+      "after": "a6cd0807e1af535d06d3c35a5cdbbf0e48d2f813cd20311803fbf0dba867a3e1"
+    },
+    {
+      "lesson": 74,
+      "before": "610b3592194a466c8f04ebadf0a4e0b15f41cfa47a44bc865eef8ba9b7f89adf",
+      "after": "95c8b29392e3e190f8f20c3f35d8c24e9e3c32304dea8274f3e8773030e8a186"
+    },
+    {
+      "lesson": 75,
+      "before": "91df5dfd7001dbe73fd376e4e2641dc3666cb689751e06d1b88dead23b4c2ce3",
+      "after": "38a75e031a9ffa699db5f7fbce050213395415af91d60837cc257171462824a1"
+    },
+    {
+      "lesson": 76,
+      "before": "b412755a30b84f764c65aa33f25f59de2e6bb25b307c93e8bb429f465aeec589",
+      "after": "bb3e5ea7d52f8f5b42993a7c4826008bf7df81a5a5b150976d42c9b12ca187df"
+    },
+    {
+      "lesson": 77,
+      "before": "2b6132fb76e990a71279641fc791063057ac4b7a81fbd33c5ad336f3f7c8c15b",
+      "after": "f937d9b70b72d1de3fa5ab9d2c4bc4670292dad71e5074125e99fb1b3275226c"
+    },
+    {
+      "lesson": 78,
+      "before": "ee1e44a0a74005353b64794b37bf3493698545237ccfd5c0b7b3bd68ec2bb4cd",
+      "after": "8788c6267448815acf5ab6fc7f7d7c8e1c0b28ac23fced50852e82a5c5932528"
+    },
+    {
+      "lesson": 79,
+      "before": "9f056fc602001fabd661424d40a3cdecf6c89935cb4a2bd7ecc5d963abbeed0e",
+      "after": "e34cfa3cf0fffcb57ef32d47f7386051d0a6d209b7b9a7950d4d4bd57e1d1a85"
+    },
+    {
+      "lesson": 80,
+      "before": "da0eb4e36a87e9345d9466a0380f1e43c853849fe42481aef0e832e12f07efcc",
+      "after": "91e0d9b5e5efccd085af97c221f734ce9e05cdb81ad1a8016b49b198e29f29e1"
+    },
+    {
+      "lesson": 81,
+      "before": "f883e8c588e50f316d207432d89da642024e595a7e55c50c877d2ff3a6baf0f6",
+      "after": "43a936fedb8d6990eadfe4419db00683665ef21bfc1878c281a1504388119deb"
+    },
+    {
+      "lesson": 82,
+      "before": "96e7095a923c114e4c427d885819c1421dd4e639ceeff240b4404ad0c1921356",
+      "after": "45b5548765d9cdd285d2a10ffabbfab137ef24144e5382b3689a36b315c24dbe"
+    },
+    {
+      "lesson": 83,
+      "before": "45ad84e4faf2447c74e1b6fd3693629275af9127148c770a87387c6ae48a19a4",
+      "after": "efe09ae0e667bb114daf4ec6398a60f73ac129597d0abd59a1d12e53dd40d693"
+    },
+    {
+      "lesson": 84,
+      "before": "a9779aefbbe3402a3437902476ad712796b44b0d94e3edee659cfefad787eb93",
+      "after": "cb5ae77b2ff29b6877b766624f02e3233413ea772895552871e55152d998c9fd"
+    },
+    {
+      "lesson": 85,
+      "before": "07694be37136ba4be797adf334643a635920af8bae12424d6226d2c16a789448",
+      "after": "6263271a987cd8684feeed7e71f081e4d6722c762d82d1dbbcdc2160b00e9c1a"
+    },
+    {
+      "lesson": 86,
+      "before": "5c301a5cce56b5f70d2c2d37b0c4ddf2652d30b7b6f321157ee4b014a0941927",
+      "after": "83103976fe4c12d0896ee89e115195c00b954d02e09f5ad5e18ac82ac063a1bd"
+    },
+    {
+      "lesson": 87,
+      "before": "f778f1ae429396f1f69e15a82bc1848baeb9ee129ec5883b70baa5ee24cd109b",
+      "after": "86f3b63adf9acdffc9cc9a66ee48ed103b2bc99ff04a50f7d558ad063af18671"
+    },
+    {
+      "lesson": 88,
+      "before": "b1252bc4ffe0f3473cf5be1475f90ce69dd57a341a8be3e64991a3563027d1d8",
+      "after": "3096e5ea456da7c08ba2b27c22a5111160f45c298ded5ca7a965e5d161d61bfd"
+    },
+    {
+      "lesson": 89,
+      "before": "b57537b3ca8ef75cabb127e05bfee251a8e52939f2292e60bc44919c4f9a63e8",
+      "after": "5dbb46c5e3eebc4eefacd69d6daa133f6869de0d2a3a2fbfb67f0ac9dbd22def"
+    },
+    {
+      "lesson": 90,
+      "before": "7ad577a5674c70657e1db776368f88a2ec5eb7444d7f9d09843712c0866dd60f",
+      "after": "43c34c114a15651f55b2ab5645a98e36827e5147369c6b6e2144dd55fff477c1"
+    },
+    {
+      "lesson": 91,
+      "before": "ca5a486f15a6fbe1c173141a68c940d9bb24ed559d3dc9b380d127bc762d86cf",
+      "after": "d941680c5b8d192616bdd3f84e5dcd1109addddcbeb9841eeb787eeedf62beff"
+    },
+    {
+      "lesson": 92,
+      "before": "f6c1b4ea5c4d55616b91f29e03d948ef2ca04920f4a1cbc0e54d2ebc74324d4a",
+      "after": "2723d2432b587f85c0276c036974059110c0b28e04d27d72d5abb90a0fef5b84"
+    },
+    {
+      "lesson": 93,
+      "before": "54ca0b8a97242ef5a383ab785ce3cde605a1d1a9f3497ed76238b49b0f92d822",
+      "after": "639fa0cb4a759d3ba208848cd4bd18ce8bf53064e17de3ae0928c642f241ec30"
+    },
+    {
+      "lesson": 94,
+      "before": "9e96dd887297f0a9ce6f431b245f884eb9acc6e633becf09ede8cf65c95d3b3e",
+      "after": "c3e0ae03ecdb5f9018970a232c8081277f696e494b93685fa36b85325db36e42"
+    },
+    {
+      "lesson": 95,
+      "before": "c62dd94f86ab4f88e0be816ea30a60c10a41a16090a9f322bf643419f13a9967",
+      "after": "df0f68421df332a04f287f203176b663fd4c553d87607580dd3eb0b0c98a364d"
+    },
+    {
+      "lesson": 96,
+      "before": "be6edf74d6784cfc78cbd5453477594dcdc00b8f88ac0afc1e6e5455e93c7e8f",
+      "after": "29c595b95cd082faf626be8710e8d3705ad2f0fd92263f8326b18497199d7a05"
+    },
+    {
+      "lesson": 97,
+      "before": "9f11d245ccef7c779589fef2d01d8914572ac0e8d004a3f02e57d657887eda65",
+      "after": "c4135a2126f3e95380f21c9c3a11db22417c0588ac485195e9412442041be3ec"
+    },
+    {
+      "lesson": 98,
+      "before": "116fa677cd36eaee9375362fa8da78cc445bc025eae8799d1641d12d5930bc70",
+      "after": "de9150ffe432e3e779c822705062c45927bd1020b4d98bdae14c2d38e3b8aacc"
+    },
+    {
+      "lesson": 99,
+      "before": "98994442d7121e601d5518364e62f8e6dd2a31820ef035c407525c3835bacf49",
+      "after": "9762c5318320ad24c6bbadffaeefc184d87db03b2da52834e27d060122170419"
+    },
+    {
+      "lesson": 100,
+      "before": "aa70baa9cb30ddb1d11015499dbc0ccfea553720d6850050da1cd67bad87d087",
+      "after": "bf1cf427fee81bb98ee1d467611307933f38da67b825a6f9113f2d22cd145b90"
+    },
+    {
+      "lesson": 101,
+      "before": "d375750655237b5db3c3462405765ba58e9bc425874504b2aaa609d59b82c9c4",
+      "after": "7295352cb771e5d8d71126ffee0b11137f6fc3d5414fcbc588d89f220b243250"
+    },
+    {
+      "lesson": 102,
+      "before": "fbb87e05b9ee7860635b6c086934f2c6c15fb5fda5da3d514d74af4e79c1c91f",
+      "after": "c9735abdb29f1cf682ce472cbb1f5f5ee5e1b9508e08b28a3317738fd6871a8e"
+    },
+    {
+      "lesson": 103,
+      "before": "4550c105b4cd81f33c0a9a63fc7df0066361717e337da1891179a34d1b2bf6c7",
+      "after": "c52b01f4138300d646c1feaa2f41baedb49a2d71c1ae5bb554864eccf367024a"
+    },
+    {
+      "lesson": 104,
+      "before": "833a3e8a4337298a97d8241fbc1fbec6a42f812b475384ebee3693e95fea10b9",
+      "after": "b9f4678a8fe9040433d373be6679b55f1649b2eb2d0d55a4ce2d6a10ffdc81b3"
+    },
+    {
+      "lesson": 105,
+      "before": "87e270adbbfcb8bb4ceec25fc6f9b0f206642f24688d6861798cf74f986beda8",
+      "after": "d04e724a9f78c7a08a8f884b3c8acdcd7adc7672d0ea6efed854ecc5da2462d5"
+    },
+    {
+      "lesson": 106,
+      "before": "67d4bf874f4e9b0f32e6bdb13bc918b328a9775c7ca22e0512dc562889a65ff7",
+      "after": "63a8e65f0011f45f5a7f67c4e883666c04295f1a0eeda471f1dde3417c300467"
+    },
+    {
+      "lesson": 107,
+      "before": "3d6c6e6c6ca41fbdde6fd83e6eee4baf358dff3bdb7482324964e16bb36eed21",
+      "after": "736771c58174e9c3838950cfd1b3ae451d9f9fadfb560cac679f75531024e7dc"
+    },
+    {
+      "lesson": 108,
+      "before": "85dac5422cab7f6ddeaed94eeff7f679e85ffa8e53f71d827d98676325f23853",
+      "after": "e330716495b756b0e7196abb9ecf6a268a47a3895d2d914b69082f9ececcf566"
+    },
+    {
+      "lesson": 109,
+      "before": "c95e2dbf1fbf2d3502dfcb9740209135f76f764a80a4183cdc05a323fd1193da",
+      "after": "09fa6b02a1d0e9b96219f5578e3a24101c55dc7f12c2a06d1643557e77dceafa"
+    },
+    {
+      "lesson": 110,
+      "before": "e402d0f8660a2f50133914b168372504abd47b50adbf3bccd3ade58f536bfd1b",
+      "after": "115c9d4abdc677f62258958d801327a92a0d525f0a6e4c77e28aa8430e9a3661"
+    },
+    {
+      "lesson": 111,
+      "before": "56041228e6fad9ef92343459c08916cca4f7f3d7cce773e74730d1e3dfbed609",
+      "after": "b1a2e3ee74b81bb46cb73a3022eda74f8878c2c2bed106b9dc297af5d7619f25"
+    },
+    {
+      "lesson": 112,
+      "before": "9a12e639ee264a644d8ab47fc0904cd88109afd1c22f8aa4e4b1f43e077f1fdc",
+      "after": "90d84b277766425845cc48ccaee4819dffd5cfa0d91960029c2d61895dbabf0e"
+    },
+    {
+      "lesson": 113,
+      "before": "5bf2609d3109b609277da189894922dc876ecf05e95dff949b817c64b574fe6a",
+      "after": "6f4200e11168281fc158552a72fd23785405c858034f4d51a904bfd5018bcc09"
+    },
+    {
+      "lesson": 114,
+      "before": "62f682e5bd98bbbcfb74ec3d0e873f024c0a544e62c17b6367484d8843274250",
+      "after": "6e98439af7c4384681af800f3d52b82093f4953f25ac0c8ddc9ceca1301a3870"
+    },
+    {
+      "lesson": 115,
+      "before": "647a9afdb4a92deb4529a8b106e77dd9d86d7e05667da842de008c1cbce97fc8",
+      "after": "63315e1830e45baac5d4bd15fb824fb286cc0c48ecf47c5cc8ba146b826aec07"
+    },
+    {
+      "lesson": 116,
+      "before": "439c03f873ee756c0dd670d2c98e7406814096c3d8673f937b6db2b685225997",
+      "after": "a41b4b871b56b09622831783f5296f2edc132a8556efc7b69266c871acc6fdc2"
+    },
+    {
+      "lesson": 117,
+      "before": "680302ce1929c25c7515dbd80d29fd45cfd216a8a432d3f1d0c5f43bc9df60d6",
+      "after": "8fda2454f719899a887a478bdf827f54047c17628a67b0c96c1360f1acee4699"
+    },
+    {
+      "lesson": 118,
+      "before": "0b23945caf1a803d89301020bb22f4524ac61ff6f2a4bef761b76c20c14e02ba",
+      "after": "061d42e25b3b8bdc8900954ecc655ecc7f0a14944eb9afbf39e1d3440daab787"
+    },
+    {
+      "lesson": 119,
+      "before": "8f4c527f9fd64467273dd9e7c58e4ed79a862bc29c183951560089227992a126",
+      "after": "87e5916e0f8e2f3594809f701a398691b79ea85527f7a67e02752270928fdf9e"
+    },
+    {
+      "lesson": 120,
+      "before": "b58cbe7f23cb3443e3c5b196e315e4835a62fff6936298befba06a41dd0f1242",
+      "after": "2e05cedd4c2cdbc1f6a6221960a87cc30f07c3b8fa8c4b5fc72c85a34d7f19d7"
+    },
+    {
+      "lesson": 121,
+      "before": "5f6aa47961a05e3ae777c9ee160735d3b0207698c43c4cab8d9a52a76d374a0a",
+      "after": "8c6ae85ca55e2f45215cf8ef1090822002a774208f3fd81b2dda54894cbf3e49"
+    },
+    {
+      "lesson": 122,
+      "before": "c1ecc19e71dd6ed86efd03016316f1eb6bf289d42605b4289e9aa00b0fa27e67",
+      "after": "5d5e31a0d8aab3791abbe689bfe5fc6f503ff9eedd9350af1819d6ddfb2e4c4b"
+    },
+    {
+      "lesson": 123,
+      "before": "53cc0ab758b6d6d1eabd79edd6d4a7be45e0308887b2d674aee866549301fc92",
+      "after": "8ca67270e46953cdfc38dd2ac09e389395c616d3afd724cea38167cb547eeb80"
+    },
+    {
+      "lesson": 124,
+      "before": "77ca907819cc7142dc048b465ea9b0237806c17b4d2454237e54fa1b7e508168",
+      "after": "9810a289aaee19056640eb92fc771443c9685279b60e739cf3285c2e1cb86d6f"
+    },
+    {
+      "lesson": 125,
+      "before": "7dc143431d838b4cb6b4f97b1a78915ca559fd0c42a3296aca77946c56eaf3c9",
+      "after": "ac3bfa237ddee152e8594a53515a7218096c663180f4e718a51be787e8d8b11a"
+    },
+    {
+      "lesson": 126,
+      "before": "20b9a5be8902c70e4226480b17229b3558b693df445e9ff1fcc84a7be96ffc82",
+      "after": "2b38c070721aa9ea0b85e5bb72a98e1c330b093a1c4d17bf758c8836112b14d6"
+    },
+    {
+      "lesson": 127,
+      "before": "18fcc49671817f76066ba0f7701bdef3d9945aecc9ac3f43be03714a3b24d820",
+      "after": "6ef847c39afe3642f5fd0c6c1dab9bb39101bbe62b1dfc9490333e23bc1324f5"
+    },
+    {
+      "lesson": 128,
+      "before": "927163cbd78480c64d6162253d63861e9dcfaa45e1ac2f07b5039e72051aa1ff",
+      "after": "60c921eed7f0cfebba02d83e3f86f9a6bca34dbf06005e4d19606e7b5a002737"
+    },
+    {
+      "lesson": 129,
+      "before": "e35c8ffea76a3d0fc34894b32645795ed730999fe1d1d02c5f29722d7e748091",
+      "after": "b7c3ff4284a1864888c1c8b3c330c90a29e726cdb3ee67983e8da2f89b97cdcd"
+    },
+    {
+      "lesson": 130,
+      "before": "a39dfe6af560623147b997f971eeb6fed18f7cbcae5b869d6c40f61773a8976a",
+      "after": "b14fa4039f2e45af40399fa9ffe20ed7b698146ef95b7487a956702bc37a8050"
+    },
+    {
+      "lesson": 131,
+      "before": "08f1bdb27147ea09d65e664459e06158d1ccdd44d592bcfb9ac9df2cffd22c88",
+      "after": "e9e70d3b890e494da7cc3a1599be15a6939d70b113abde1766829db9cc107598"
+    },
+    {
+      "lesson": 132,
+      "before": "4ed7a021a08ed30b0ee75cbcf922ded7073d2b15241335af2b6fbf08b3212117",
+      "after": "2d8970d7737bdb59994cedd8b5b29b6d32e4d8492f013bbc678f36fdec821530"
+    },
+    {
+      "lesson": 133,
+      "before": "f5dedb1bb24f6d06a64fdebb9599109e9e295a63688a66f46b3060500bfaaa75",
+      "after": "6788c36c9f0b8c1bb1d6cffee32eaeab9bad4c23afce8f7c460f2390795c398c"
+    },
+    {
+      "lesson": 134,
+      "before": "8e10a29878e1a214667381e7222dd10763266f2ae0355856e8a083eff072c654",
+      "after": "dc6c8e3c9a117caeebcd0a5102a42f826e9754969c4a760a22486ba6e03246ca"
+    },
+    {
+      "lesson": 135,
+      "before": "163bf1d732ad6a46dfcc1784f50d76bce05670d2c3e538076cb82ed06c4a07f2",
+      "after": "6cdf198e202c66406889eea48f9ccc857705751393a782719c867d92ca14d16b"
+    },
+    {
+      "lesson": 136,
+      "before": "64ca2fafd7666fcbd9cbbb77af91e8378950f8fb833c4ad24aacbadacaaabaf8",
+      "after": "b51641ae5404137521dddf02e097d9579efec0319a7ab568860eeac7f11d89ce"
+    },
+    {
+      "lesson": 137,
+      "before": "a64cf51caf84790cb1607796712f409c0939f50f2b82270f8f142c851f7f9706",
+      "after": "f74d54681dd8f84732065de57ea032c866035a975f155eae822a3b706d63d2a2"
+    },
+    {
+      "lesson": 138,
+      "before": "8a9968479b2776984cf3cdcec32f9be767f8f201ec5aa5b733cb841f397f1582",
+      "after": "3c8e1086a45596b6fda3fe0a135b8318db1796d18cbb1959bd3bde0f034e10aa"
+    },
+    {
+      "lesson": 139,
+      "before": "b41d5bc96646ec9ccd0118c0177cb9e5198e9703e1109cb8468fbd77a82a2e92",
+      "after": "b5868af796b321f8929d129017dded228d8d8c14b9665eadbad6e4826a54108f"
+    },
+    {
+      "lesson": 140,
+      "before": "a07517d9d1c913b5102b6ce88db82cb9685deca81fe3167071fc8f841b51ac25",
+      "after": "dbfd3d5227562a12a2b912439221753911a0f4773c07be8571ceeaaa4a21dc0d"
+    },
+    {
+      "lesson": 141,
+      "before": "86dc5a5bea66ea4b58603cc2f9590fb40da848b5e0bd928dd164c69ad2adb7dd",
+      "after": "7b07bb3796d0d37f45a2684ef93d102fd9d94099564470d756bd1a1c50a4bf69"
+    },
+    {
+      "lesson": 142,
+      "before": "54ecd0f5fbd1b5a2b1edbcb63668e9a933965a7e5eb2bba7432b627e05f02312",
+      "after": "913500ab7c14941e90df24fb5ad6303b43e5bb9ccd85f79371a14dd91e0f7db5"
+    },
+    {
+      "lesson": 143,
+      "before": "16d06fab02563363e8c0e8ee672f0798bbf8dc9bf8e95b50a52836a679eb60b8",
+      "after": "f8b82933fc08ad74a45422ea95c8505b51d702ca07a999dc20f9debff5ae26e3"
+    },
+    {
+      "lesson": 144,
+      "before": "9913ca2e947c35eae797e3f7a5bd2f9d3fa9c6de37ddb6c67dd5752222323dc2",
+      "after": "1ebb2a42b45008ac3e27eee671a0981c5aaae9d18f7d6749e76a5c58b4373032"
+    },
+    {
+      "lesson": 145,
+      "before": "a1608cf5f10684ec89c8da0b706fc5806035344ba8adb57fac2027a8cc16e670",
+      "after": "1a2dac259b02c90eddfaad7810ee14480e7ddd44af7611e367b1f851938a0644"
+    },
+    {
+      "lesson": 146,
+      "before": "4b70c32fff5cd8ce59e635773ff65f52991747256e510246708fed75dcce8361",
+      "after": "bb950baeb758ef4ec9abdf4dc5cee618eb0d8b53ee0655c439014c64d5837e48"
+    },
+    {
+      "lesson": 147,
+      "before": "f1b611144a132380289f8a08145346ec21715c8acddb3c147340ee0d9070c53c",
+      "after": "4bf697418b12044616be7ef9e79a0c6ff92b3b7dfad4d67b9947848c2ba52dec"
+    },
+    {
+      "lesson": 148,
+      "before": "3967ec7e1ca700a7c528d825b6633f5fdd74558e4f26bd03dcce431e0ac6d043",
+      "after": "4eed7dc7115dbfbe5d878c63abe070323529a03b915760ceceed7ebe2ff22d20"
+    },
+    {
+      "lesson": 149,
+      "before": "84c5f87107fa29b199fcb0b8698538a7184d044c16cfac420880c0b7691a8bc7",
+      "after": "e1140b174a17a256731d9c08d91d745a6a3b7badf114930d6567be093c878f0d"
+    },
+    {
+      "lesson": 150,
+      "before": "689c449c82edbbbab78ac04641f86ce630cd2e63c100ad3f103079ff2f394d63",
+      "after": "b200acb6b67c51d5fa0b9bf474eb16ae505bd4350a90efb3a9ace0866e124e22"
+    },
+    {
+      "lesson": 151,
+      "before": "d3f32631ea60919c8c1697288a546e9e83bb31c8ae9fd7a8f10feb0af6e22b44",
+      "after": "a885fbaeeeaef62d47c6d3d5f36ef072c9a5c13000851fcc0ec0d42eba1c4bb7"
+    },
+    {
+      "lesson": 152,
+      "before": "5c5decbea740e3cf7e1883daec89f8551adc89f3f079035ab739d38a4de5817c",
+      "after": "ef39cf1d0ac98cba581c66fb8d59ba3f6682c9cb0345335991c94b912d9ee298"
+    },
+    {
+      "lesson": 153,
+      "before": "25b95f78835109ab6995efe5bd1f3ae7e8dd5773b49d18179fe42e0a90247288",
+      "after": "ad7e83ca4a6868a40c329a6b15a3a7d7fcfb906e6d4f48542c2e1776c3ee9acd"
+    },
+    {
+      "lesson": 154,
+      "before": "da6a70c7933814c937df601c07fc466cd31d9cf9f924824f23b2115d9128f9e1",
+      "after": "a02647b00863a2afaf0500f41af8d58077fbdf03e817f0eaa193612e2efd9066"
+    },
+    {
+      "lesson": 155,
+      "before": "3054172b156cbd11ba228d793b40de8f1ddb08ce36b4ac69669f3baaa9107f08",
+      "after": "175d4be21fd73b13893f0023a19c2abd5e19f70a298e8b511d94aee9bfc6209f"
+    },
+    {
+      "lesson": 156,
+      "before": "6a8997d0acf1f16629d0ded38cc23fc5aa8098c2efbffd1f67d06caf2f8405ae",
+      "after": "da35dfc9c24211f53f1fb2981c00ff9abca186688ce43acb343e913fae400c73"
+    },
+    {
+      "lesson": 157,
+      "before": "92d37816933b47c638bfc77c5f4fefa24495c0cd0176bc3588e5150cacbd531d",
+      "after": "b98fb4fec16e43d72bcd4ca2d06ed34cfab97c01cfb76307e71d6cea42c92607"
+    },
+    {
+      "lesson": 158,
+      "before": "0e45f7ddb022a967a85592cf99f1d40521f0e9786d03a17932a0bb713e27687b",
+      "after": "7d0f7a9cf0e8c7d1d68d3a7af7819a06c206146433a0c0bd0e93dd183f06406f"
+    },
+    {
+      "lesson": 159,
+      "before": "0690b6575e2aee5715694913c64582092be75bd14723c730da8fec179ea2cc71",
+      "after": "9abc9131fc25bbe1881e3e8edd72c22ca96109d69d82c14667c1322202b0bab1"
+    },
+    {
+      "lesson": 160,
+      "before": "8cc9e489c9467ad3ec897555758c4c1c7161d03037e905f76a94a8e45d9de599",
+      "after": "fba566b6bd479ceefa427aef1f973b3152c2895b6132aca193b219b8e1b5782e"
+    },
+    {
+      "lesson": 161,
+      "before": "7d63563117325340b555730f2a6f272b37988267d8801f80949863b7f3144532",
+      "after": "6f378a267a622e162d051197207f3afd7b2633049b9cf5a3730b5c755e29083b"
+    },
+    {
+      "lesson": 162,
+      "before": "07cbe1f6d4a36d4e412ab71192cd1c89eb4781eab41c1d7a2af488ff646605ec",
+      "after": "338b54918259548fbfdb1753db514843e1a393a1abd7d78645c228d571fc20b2"
+    },
+    {
+      "lesson": 163,
+      "before": "6f46c5940d2e7c3b390589b47ca91a0255af4b0f065260c7597ca5c1dcd6957a",
+      "after": "0ddccb678944f7f80c084a4a454d0dff5e94092c6e963ed6f85f6b9058128edb"
+    },
+    {
+      "lesson": 164,
+      "before": "c526e39940b8e716fff530138455bb9a19928712f1b1b72452e0b0d42c737079",
+      "after": "a535a91ee678eb089df5ef5f33506facc6d262e91f4fc15385be638ad252a2fd"
+    },
+    {
+      "lesson": 165,
+      "before": "e0d1938a94d144a7fce58a138a61158744bc5ce244ff53d6f09aada0ed24dae7",
+      "after": "b59afcd0c46fc88e6a1cea838cde32946176d4fe69e83d001a7bc0b579050814"
+    },
+    {
+      "lesson": 166,
+      "before": "d29f982150bbeb6e16e8d368c41e0bd3833e0715d1800abf863c40f3cc03abda",
+      "after": "52b92d8259445d1e3e61a5ee5b23f47434ede4232fc165605240f127dcd74542"
+    },
+    {
+      "lesson": 167,
+      "before": "ba91d87377968d7d3b814219c48f55222e6b2c1a82d6d08ff6e1062e558a2fac",
+      "after": "cf4c07ddc1154e5b96f4d81240c4a0dc42e2165af9b520411c64398c05173c60"
+    },
+    {
+      "lesson": 168,
+      "before": "245681dded10ba707c12e8489966e4a4152f992a76e724b456dff1bc07c4fd4c",
+      "after": "eb325a0d46ae0cbf16b52a518baaa3e0be7bcccb016fc13ce40fd60ad0785245"
+    },
+    {
+      "lesson": 169,
+      "before": "27a47012a919f837ddb37391e50223274742a6dcb7a7923ebc45c95e9a2872d5",
+      "after": "029185fb4dd3ce71b8ebe3a92d1d7529ced3e6ecba9493daf305aafd7211bc5f"
+    },
+    {
+      "lesson": 170,
+      "before": "cfa53eed5241aef849624341d460c556d6c0b08132af2493b45fdd88174ae1d6",
+      "after": "2e455d580b03c552a344285a949ac279ea5aba1a038f74b141fcca792bfe9988"
+    },
+    {
+      "lesson": 171,
+      "before": "14917c34cb5c5c26299ac3cea888524455f209dff3ca93218b0df5fb2aed9584",
+      "after": "498e00f18cc3cabe5fd7ae6f87d7a45516556a584e41ad097dc56c3032c4394a"
+    },
+    {
+      "lesson": 172,
+      "before": "6fa9a7a2e4aa198262b622ca2e46b8331298faff4952bc2d074503f17c6f07c4",
+      "after": "1099a4e486bb91b263abf056f1c88d292a6bab370854b8c86b55c19f4e252891"
+    },
+    {
+      "lesson": 173,
+      "before": "4a40d8316f9c35d80e6c9424e043c0cfc0bf221e50f601310f122837d3b75bb0",
+      "after": "65777b5b7698bcc084016e358202c8899cb349540f361e03e39718eb4167006c"
+    },
+    {
+      "lesson": 174,
+      "before": "6a2eb773e20b4354c90b31d9cc99af737a6533114b05360e8e8d7c4741048401",
+      "after": "9e57d5e6bcdc09f104fcef7a9845494c057b0d8b768c74667cd4cc7434d20a71"
+    },
+    {
+      "lesson": 175,
+      "before": "379b57042cc938f1d13e09ef99ce380f4eacd2508deb715d989afe2bb45f1c8e",
+      "after": "9a45c50571b7666661cd3fd911d792c94ca23e0ddabc58b8ed50b6be13a2ef55"
+    },
+    {
+      "lesson": 176,
+      "before": "edac88f94eca13060e834ad7c5070ef9e56edfa5b40e0bac128189509863e5d0",
+      "after": "e5ec4085700c91c57f79769fc6c9c360ff9aad58a452a2964b787e0f56f7b13d"
+    },
+    {
+      "lesson": 178,
+      "before": "4d826d9ff91c98d7cc71b02d5078cace1ed1ef5c2e465826f2940359b97459ca",
+      "after": "d4e2442e2f478ff13cfa9687256004f16e6117a0d1204bdcaedd071e3524c80d"
+    },
+    {
+      "lesson": 179,
+      "before": "36304ad1d60fcac95457341cf0e399869eb0d4b1ff36d9300cd51ef3459375a2",
+      "after": "a24054dd1236d4f48804171f00cb3759f4506a83ffb4fe4d103ef25a6e86ab33"
+    },
+    {
+      "lesson": 180,
+      "before": "242bf08299be0c9884c1dea2da39eec62bc406ffe3a92a8dec31d3704df0493b",
+      "after": "86884b880432b7eeb2c6b309aa2e70a792cee71b27defcd224474577dcb11fe3"
+    },
+    {
+      "lesson": 181,
+      "before": "b8b651de9955bcba2d48081074baf3e4947ffc3c9039de387df3a9fc2efe2ed4",
+      "after": "1338a3beffdcaad972ed84ae44b895cd8d383d5beed4c96b360a309f2faf6d6a"
+    },
+    {
+      "lesson": 182,
+      "before": "d490b352a04514836b8e3647e9a9b941ddbf5549de194f92ac386cec56288f56",
+      "after": "7ac1e64a8434faeecf17c6d0fd56176f705adbd4e7c0d6c0a35dcef00d745cd7"
+    },
+    {
+      "lesson": 183,
+      "before": "fe6ddc5f8323edf9c25f3d8e0c66c86818c7a18decbc49c4e740604482515f73",
+      "after": "324b29dadd02dc2011452325cc15c9780aa94e9c3439a9bf99dabcc5dc8028be"
+    },
+    {
+      "lesson": 184,
+      "before": "b46c4750bcb0ec1c40505a50b1fe654b1622d8d89ef58d2e5a23fef56029e6b8",
+      "after": "474e1e0c84d8025622f1cc3cae21aae33d01425847ec9ca67010cc05f502a910"
+    },
+    {
+      "lesson": 185,
+      "before": "49b517ee17fd0fac19e849feacd4a98f3b8a5e7bcb653dbe29c61793df6e42a0",
+      "after": "f6e414e5f22a9a5115c908272e09352dc87e44c013d36ab2eb50fbe63dc629ee"
+    },
+    {
+      "lesson": 186,
+      "before": "da22196ec22fb1671dd7a56edfe4bc271817171d8d2ab0c6f987bee9d6286d0c",
+      "after": "8f17b0433280e97854a53a30835a05913d7551d2bd4b3dc658c486739c553a23"
+    },
+    {
+      "lesson": 187,
+      "before": "7c2ed2cc80e2fedcc6feaf11928b60fce56b78c7d111192e0ceb703631896ae9",
+      "after": "d63bb6f4cc0d618870a271fd2090c88cf6ba9f3d02c291a77ce4ba229d930548"
+    },
+    {
+      "lesson": 188,
+      "before": "d18e1a0afbf9971f1f1c27633f5e94da8681bd19a13b1f4eadbb0b6f02876c87",
+      "after": "7b7db8e779bb5969e653f34051824e1acd484fdc441d34053b48791cf815b74c"
+    },
+    {
+      "lesson": 189,
+      "before": "dd7d61dbd8e9f2aa3199322db25b58dccc72ea8d6f9e5f17d2ff925cd6f6719b",
+      "after": "c6f74230f5b75d503aa10444900a2edbaa5067dc99e7f30ee843b49f8c54cf11"
+    },
+    {
+      "lesson": 190,
+      "before": "cecc9bade0757bb1fb4204a128da24acfa0ded0dc19a9bc7fc048c18cd1d8acd",
+      "after": "cbb2a97fdc5840711508e25ab790067beedcafc57fdd9c4f1e747d9d6fff1971"
+    },
+    {
+      "lesson": 191,
+      "before": "a034e3f73b9bfa28b912d9058a1058662a85eecb8f5e24628dfde7121cf457cd",
+      "after": "d579848c5c48a40f9d73df0e8253e60d6ecbd9c47321c8b15fe54f257129a77c"
+    },
+    {
+      "lesson": 192,
+      "before": "9f55570c24ee66918c55c4ca4ef71085d0dc6547181d28e569c929178610c31e",
+      "after": "439b79567bc5fbb1cd951ff9f4788672bd70513a4f9ca98998e3adef18c60d94"
+    },
+    {
+      "lesson": 193,
+      "before": "3c06c6b9fca7bbc09639cacbbccb39ab271e72daf4f67ae61a35ddbaabccbe73",
+      "after": "aaa18f3d80466fa1b7f8545c9e5a57dd0d2e88bdd78c92069b1726b875068dc7"
+    },
+    {
+      "lesson": 194,
+      "before": "95a55a5c39868356084d9235a43b61a17c7394db1a77cd3b5fb1629bbbaf6bd9",
+      "after": "2e58665b6b50be105cd181a4e166768b7b5cf90a637d6028e7213e7c8efabf22"
+    },
+    {
+      "lesson": 195,
+      "before": "c04e10100de88382425ee0f550dedb8cb3ca67ff137fa6b458c43d860192651f",
+      "after": "c73d453523c3e8ae7159f6276838107b5a4ba880700d3dba43e7a9650a2a5143"
+    },
+    {
+      "lesson": 196,
+      "before": "ea951e9cc1405af2b9237f6bb7a6ca82a30a22d731b444bf2a1c4e4b33f6e9fa",
+      "after": "f63e12ce62979b0d9df730c0cd85ccab58d30b66d9263b69ed0e9a65710ce27c"
+    },
+    {
+      "lesson": 197,
+      "before": "bdd5dd1baf660c0fbcf9e5d23aef18cee727fee031b4c61a64eb5c485f766d9b",
+      "after": "0192794b44ffb2597b1028a028c0b7387d322490c5c34e910d5c5f208a3791dc"
+    },
+    {
+      "lesson": 198,
+      "before": "3a4cfb487e9fa47e8c071689402064eea956844724e8b3ca418a5a2c7515dc1d",
+      "after": "f819e2da83c738ecd910d8bb5fba6b4669a8dc82aa37c97c287e0ca60be93afc"
+    },
+    {
+      "lesson": 199,
+      "before": "aaabb187605ee1080bf42f2685e59b978be69ab69197f84aa552642e49fb08a3",
+      "after": "f26ae17f95919af5569c13ca646cdbd5ada56d91da0d1d31d2819be8deefa36d"
+    },
+    {
+      "lesson": 200,
+      "before": "788f02db53b349e82c05f4f6c471d71700d82841a682094deaf91b6318cb1f9b",
+      "after": "5954a079b57ca34d018ef73d8fda8b349ea9ec7b4d7063c1e95bd458fa1276db"
+    },
+    {
+      "lesson": 201,
+      "before": "61359baa64b35abcf12defe896221b3c1e72e701036bbf8077b4c3ad65d44507",
+      "after": "575b415847cbcd4245e52bda9bddb9733e7aa52388807be37de46060e830178b"
+    },
+    {
+      "lesson": 202,
+      "before": "7dc13382a7b33589da509d508780d1cc41cd8ac58b54069722ecba74869094f0",
+      "after": "d84dfcb2ad520ea94caafe214c99509881fc7122167006781cfb8719891e0207"
+    },
+    {
+      "lesson": 203,
+      "before": "6c8922814c81971c6f3da112458a51c233e8b930830f7ff8b9dd792d8912c334",
+      "after": "41b7509480e007b4a9b8b5fd0e7de639eda3840253fe9c1152cd4d2759985c77"
+    },
+    {
+      "lesson": 204,
+      "before": "8273d4165ed263dfb18ff10d40462c87f144ff7ee2468dfe75a5ceebfbda9bca",
+      "after": "8318acc8804394fb80f30be61124f67c57e65f58459d044dce4908c92a0fcc73"
+    },
+    {
+      "lesson": 205,
+      "before": "711d8dc1980ba03e1da093471ce96c39bb2b723263f984c14027ebb91ea68a58",
+      "after": "f984cf30a1da1c24d5fa1385b9e12a1c4ba4866ef42a2b57f4c7ac1c58ec7444"
+    },
+    {
+      "lesson": 206,
+      "before": "78e1131aae7162b8ecc4a48018b70eae354a3e2a40aadc2ff05e2e0c3743c8b6",
+      "after": "deb9498ee6421af29049813dba8754355bacd3ebfe5d0e4530a4108c9cab56f5"
+    },
+    {
+      "lesson": 207,
+      "before": "d1ceba49d7ccb414d0574b91d2ec654940c247080b6b21ad7de85809b8a8c9cf",
+      "after": "d1b5a43688836fffc1325cff60cedfc1d767e2030d2f6a3488fef3c6ce914028"
+    },
+    {
+      "lesson": 208,
+      "before": "ef6699649cb07cf9098cfa0e215a3d08d64a05bb5474daa2bc8e1955837fe55e",
+      "after": "192384f92f0e48ecceb7aed0dcca6e9ab4e78d95e62ea64d5cd4e4eefaabcdf3"
+    },
+    {
+      "lesson": 209,
+      "before": "c186b3ed50b887d137c3f911ed0604441abdf76f4b765e1dbea4191c2577df3c",
+      "after": "93dd839405b44e95db7d50bba46b1d056ac7c067e9b4e623478fad555a4c0021"
+    },
+    {
+      "lesson": 210,
+      "before": "539b5ac71d935c02117d348372d7cd9a29735073a4a71e9cb7309d4b8a252325",
+      "after": "9045ebd2fc8dfdc0ea20202dd2256c640dac048fcccc475f40a317ad49e2bf65"
+    },
+    {
+      "lesson": 211,
+      "before": "da04daf16187bc69ca28a518b7fe84e9f6a7f63e3540c2648463a93a6361a9c4",
+      "after": "bd1178787bdcf3c75988c0fa37775c7445cc72fc27eab99393ce7c17c70206bb"
+    },
+    {
+      "lesson": 212,
+      "before": "8155ccd03cb75951dd2f4eabe9544ed21c287880b3f77d4e88e7b0dbd2816a79",
+      "after": "805131c00de7032ff3441d0b61adb571595553b4889d05a6dee3b03cfca2be27"
+    },
+    {
+      "lesson": 213,
+      "before": "033db1b819cf2d6d7ad93d17438c226e8cf7c1b76b5a1023bf32182dddaab0f2",
+      "after": "ab9423975caa96acd59a2213531bd7584142967e06b608b0730c248f538313c5"
+    },
+    {
+      "lesson": 214,
+      "before": "b073078730ad37a4c8237ceed7e7f457ac38b95031ed7378b486fecf291f0a19",
+      "after": "d0cfe9f919f5e335ff65bea1b18c5dff227afb23372d35dcfd2c17307b0c3a76"
+    },
+    {
+      "lesson": 215,
+      "before": "71132ab6ac85d36371fa15431016f917132b07df428b546009f3198f2ec270d3",
+      "after": "b7682413cdd7b509f98c6bec043ae048b77495fe0cf96e097e30a36e0c24808f"
+    },
+    {
+      "lesson": 216,
+      "before": "a442db4014891195974b0abdc938e9c43478bf79d4f6780ccac665e10a1a29e9",
+      "after": "d93b83e6a7e4e2e7fb603cf7bace5e4b2bf5b515c224a32b8c9bad5cd83ef7ac"
+    },
+    {
+      "lesson": 217,
+      "before": "f9ecf95d32ae8ed84b66cfc5d8aa409441aae00201fad9c09b63e11c21dbaed5",
+      "after": "04efb7394b37f2c7dad873c0d6f6ccf784798c99736a668024c34aba2c44b025"
+    },
+    {
+      "lesson": 218,
+      "before": "86075d1aefa5ccf7e09260badad84154e6a04783c679bf08e3c60263bdd5ee63",
+      "after": "d7ea2f516f38260be4cf98a5364784b477953072b958f6346ef7865ed32fca75"
+    },
+    {
+      "lesson": 219,
+      "before": "889b660cc73ea6f923a4cfe024fe4c569469259d6ab6bff64b20542dd4a99cfa",
+      "after": "6dac87c13cfe0f971a44c5b1b2cbc5d0c90ea503357383e0c82c55c0fbe52edb"
+    },
+    {
+      "lesson": 220,
+      "before": "f415e6f64e569ec75451c159b2f98d4abd736dcdcab238a210fe3f64678e674d",
+      "after": "bd974cc656f5ef22821bd28ecfef78e6faf38fa9a6451b0f2cbb74b1d402f0bc"
+    },
+    {
+      "lesson": 221,
+      "before": "e12066362463ab5178227cb8ab51da15e41477c84a6699c23a1c18aa6d5f01a4",
+      "after": "53f2dcd675d13b9791e3e5fe669fd683cd6881a8ad6d98d387c2b7a7a841c625"
+    },
+    {
+      "lesson": 222,
+      "before": "43142d07e8ba7df0e27ed48b775871707ea204e32ef13b9aae95ad90a9dead23",
+      "after": "8ebd16fce6d36698f71c089d6a9a658acfd325126f90c87fc392efdcf18b896d"
+    },
+    {
+      "lesson": 223,
+      "before": "10cc93338d509b8f3c1eb3200587286a1e9367f28a79062f5143e3f1e1057533",
+      "after": "0bc58defd02eeedc2caea14e0a9a8885879e5c608d029be39d20a30882401d23"
+    },
+    {
+      "lesson": 224,
+      "before": "f94cd0e169674495d2841e915417fb20f86fafe6589b5f30f022ac279c0b97aa",
+      "after": "91f13af8986e170388798a288534c0231ffad5b5496a88c09d50b0334c61face"
+    },
+    {
+      "lesson": 225,
+      "before": "9622e68e5c3d1913481e392b215ff487129fd94c9acb0d54df43867fcede180c",
+      "after": "687ef6ac7eb1ed5343cd8d59e771c6c3a3e6b8fe287b6f8de2c75e325fa34f60"
+    },
+    {
+      "lesson": 226,
+      "before": "44a69a2d57548cc53559cecb2daf991d9ae66fab4c18a238ba52485a99a218a0",
+      "after": "b569d5af2ca50900bd5741458e72b1712375ca161b63f8661c236dfe7e82b375"
+    },
+    {
+      "lesson": 227,
+      "before": "f18699260565bd5a55eb710a4b9f18e37385099f6e87199bea32a74f65a77819",
+      "after": "810d674e23e68294189347d115dbcb78386c93d24e7852068e205602e937b836"
+    },
+    {
+      "lesson": 228,
+      "before": "4dd3ea689f67ee2b5854db2f483bbc5da47f15ab8d540b89fca114ab7f70978b",
+      "after": "042b931491552865ee2e683a3938905ecd9059d02d60a399ca059fa982160f4d"
+    },
+    {
+      "lesson": 229,
+      "before": "aa22cdfc73c13812b6e9b7e75f387de1244fd497d07267612a62ff34931e644e",
+      "after": "42e0dbbf28c435cf9c3c7eb10cef2ebde5cf0e678a41167659cf8b3c58a45b8b"
+    },
+    {
+      "lesson": 230,
+      "before": "92d508c22f8b9d63076449a4cf317e6daec2ae51652473c62a61fa112ed65669",
+      "after": "652e460cf4f2d70ae4b0ba1f7e2e614b286f0661513e28d8dbc6842206136f36"
+    },
+    {
+      "lesson": 231,
+      "before": "7752f9ee358567ffcf1774cd85abb65cd6392d97d694799aa4a19fd9cddc3792",
+      "after": "01d0dacf8c5d440aa6e64b7ff63783e920a9615e99043211aad23c49de0f7b9c"
+    },
+    {
+      "lesson": 232,
+      "before": "5d9fceace059d92940b246d2e9e8a38e5c68d01b084074a4d6c243d360f4f460",
+      "after": "8ae80f52dc8ac520999f16482f1a562b2526ffd4b0b53854e989937ccdba82b3"
+    },
+    {
+      "lesson": 233,
+      "before": "59cfdb56f2a9c0f6be507a03aa63db13091f5591729a52d88e44d90bce5eb272",
+      "after": "5d4390e651ce54ccaf6c8a98e76d3973025137cbbbb5eb54b3bf97300e7443ef"
+    },
+    {
+      "lesson": 234,
+      "before": "8a8990ec345d56802d20202e9fdb1d1369afef7de9115e9071b36467f6e0103b",
+      "after": "66d26257f4215bc4435ba447c3206c97bdbf722f6d250a6886020ded2d8931b2"
+    },
+    {
+      "lesson": 235,
+      "before": "c9f75e6cfb90fb0b8bd0e8b0f2b45aeffe586531249649debdb24623480b6759",
+      "after": "59dd06da01622bf572eb2811057b887683f5d4259673c6e38f3d5c83aa2e5f01"
+    },
+    {
+      "lesson": 236,
+      "before": "b300f52d5d0cc61bfa59c16a6353d5c879c83c2ff3bfc0e14ef25c2b815802be",
+      "after": "4a52fbeca97d8f39fe2fea5a8e21422f548c0cbaaef41922e14d516bb3c8ee7b"
+    },
+    {
+      "lesson": 237,
+      "before": "6182eb2518cfece5e83f98f5bb8068ab85caaf3dc1f43dccc2ffc666e397f7b5",
+      "after": "6c59f9bee0583d3ece336523115e9d186a4bacf34c6957349178eccb98080cd4"
+    },
+    {
+      "lesson": 238,
+      "before": "ba9363c8bd5d7248c371220d9df3a10689e4282b72b86e5a92a37330dd9d679e",
+      "after": "f7138ede95cca55fe07e797468d409a2cf6a080fbe0a44c7d15aafe88db1595d"
+    },
+    {
+      "lesson": 239,
+      "before": "0ec85cb2a57b102a4eca5c6dab7c3530659e149b654528f0b51b6cf010915a90",
+      "after": "95ed43723ee611581b8f66e2f1a7c42dd2c5358d9e69b413c8172adaddb11497"
+    },
+    {
+      "lesson": 240,
+      "before": "3fadf52b25d801e116495549d7e55bcea455a7bb146fc3e73101b011063a9bda",
+      "after": "9779fd92b8086d3ba7379795061142156cd4f087d323ec885b9937398539a016"
+    },
+    {
+      "lesson": 241,
+      "before": "bc53ca93a2f6608eb169e9fae027edbae63ba6c018cc5192e7ae5a09edf6195c",
+      "after": "1482361fab36c5e84607760ce9f7f3f2b65176f0a5d402a1e4e91f3995676056"
+    },
+    {
+      "lesson": 242,
+      "before": "83cb9bb94dea65c29e1bfd697e6ad84e50e7156959e5e911073fa8eb79d61793",
+      "after": "7408754221f7c40e863374303ad76a72125f62b0f63cf48b3c34f9c8fc1baecc"
+    },
+    {
+      "lesson": 243,
+      "before": "606f91e971d5c603fae8adff36650e476b0976c6be5277717266bed525cfff62",
+      "after": "d13a6d4248ef5b1487630a5d487dbd7105f9edbbdc3ba6ec44bf901f4740c079"
+    },
+    {
+      "lesson": 244,
+      "before": "c1d67d1d74378856432208ece44b04cfdcda3e181120fcc9bc59afa358e05d6f",
+      "after": "ff25dd3a64cb26d6ccd848a6dd6af210d59d93daa53efa8f9384b35196d39ff1"
+    },
+    {
+      "lesson": 245,
+      "before": "d0a25e0781426b3b7900672f5b4b4dcc3c9779b0425f74725e54be64f7610c89",
+      "after": "b7a5bbd02eb2cdea20b5b7a1dd1a8ce57ebb7291d99042d8c639f98c42e91396"
+    },
+    {
+      "lesson": 246,
+      "before": "ddda5cca9329ea076d6486e8001b8c7b0366ebe72d85a7d843a6785b72fb7966",
+      "after": "11e0f7f2224df25dcbd3dc7b084053ae439d8ce480168b0ef14224b6afe66892"
+    },
+    {
+      "lesson": 247,
+      "before": "b6709bc1b59e3891c3bad16b9e5eafc41cbbb668068bf18b93f248cd9c3bcf9a",
+      "after": "0ef3cdba811585c67f5e9f5f86a35ff7782107d5da9f2a25df253502c1417f99"
+    },
+    {
+      "lesson": 248,
+      "before": "d9bcc34d019f5d92e7743a34b0f0daf2f3c04b7b47de646ab3f270b1dec71831",
+      "after": "87988ee11544a8d29d13249c3ff22b20875e3b7fff8caf5a5d960a730c7bff3e"
+    },
+    {
+      "lesson": 249,
+      "before": "07ae6612605ba9d291a43940e7e28f15a1c64effc428b9b9103df0635a7fe934",
+      "after": "1b1367c3b1d3e976bb4c90741db96805a487db52ad4aa68b7042a689f7d63145"
+    },
+    {
+      "lesson": 250,
+      "before": "d8bbd3dd9d74cb41bc8040a3a3c23770741e3adc44799a5d1d8accf9ce7d6a8a",
+      "after": "5d27cc9c2e880d6a009740e8b5b9a3c339433be34666f38b0ace790a056c2810"
+    },
+    {
+      "lesson": 251,
+      "before": "8e03e40aba3f995347e613569e02bedfd255067f8c89faa26f5b840084ea31db",
+      "after": "cf024c9f1e3b76e66dfd82cc35928433c27f85093facaaf03a357a48e2ebfd3a"
+    },
+    {
+      "lesson": 252,
+      "before": "06f82749df1254c1576bae4800541d4f078e6d645f258d0720bb4f4bb77f20e6",
+      "after": "1686cdc7a84eaad5636abaf5418c3f6fdf18a776cfaa016f112a809af21e7a28"
+    },
+    {
+      "lesson": 253,
+      "before": "9b724a102601ce2a8d396bf4091850cd0fef36c55f383e9b06ea6a72866c1b0c",
+      "after": "28ceef2da0329017126b7ed1c225ebdcb20cea42462c0238688ef324c39c1eaa"
+    },
+    {
+      "lesson": 254,
+      "before": "05585740f351a3845993ca871aacabf997e649e239656d470cf21bbb3d86b6e0",
+      "after": "bc73a0001288eeec2cea71494ef6c0d4dfa53d7af2d9701baec4e7886f9eb75b"
+    },
+    {
+      "lesson": 255,
+      "before": "e2de32af4823780d26a8f12b1f9c09d557abbb1d4c602926c973d53c88304333",
+      "after": "be6b87de4d49384457c485e9769a31e305f9b6ba861e58610b0f2f77b86c6edf"
+    },
+    {
+      "lesson": 256,
+      "before": "26c5dfe9804878e38bb5add59cfe8001af5518c2633a2ef15750975d42a65701",
+      "after": "ef6a72fc392db4cb57255064689d4e99f98c9e78395d64c437b8052eabd5feb5"
+    },
+    {
+      "lesson": 257,
+      "before": "efe6545e661af409883944b18ee8101460b04f910dd427b852b4e6ce15f3052e",
+      "after": "f2fc0523f8cdb50c00393b5e3281fd333deb0a8c739408fc08a0779326e4bfc3"
+    },
+    {
+      "lesson": 258,
+      "before": "c70b4f34034e07ce7aeb4274cbc7955a0b118a2582c8375c6db1db0782632ea6",
+      "after": "105d79221633b3e6e7588cb022cc22e61e98ccfefa63a64b109d4a0fc011738d"
+    },
+    {
+      "lesson": 259,
+      "before": "f21b6b843186168b79cd490f412b5c0746b1c90f3fff6cd2edfe0692a64300cb",
+      "after": "dd09cee93ee3dbea1b5073cabffbe4798d31dff846a292a73717399ca75bc0d7"
+    },
+    {
+      "lesson": 260,
+      "before": "948e2b17789493a9f5ba712ae972e59ba1b0c45bf0fc08d09c40114bf892c7ac",
+      "after": "fc136531f4f150d2daefbc7ef0f2c60a5abeec92f4a5d553080d39a3e23fe5e9"
+    },
+    {
+      "lesson": 261,
+      "before": "c21f07a28395a5a1c3800345d5892757c35389ee754952224ae736d2f57fb77b",
+      "after": "37dfe85b242fcd50455673890f1880ce104d771cb4749518a50cc68c7a3c96c2"
+    },
+    {
+      "lesson": 262,
+      "before": "85349b058a471adbd36862e49a7b695c0968444171c0eb2c7100332abbf2ff4b",
+      "after": "4871ea0ed9d4b85e85108cb3c3e50c3a56c08a6f0eb0dc2e957856332c0a724b"
+    },
+    {
+      "lesson": 263,
+      "before": "333f58f9a0e21abbac4857723be051219eed1c86e048d2f7aeecf9e4a393c7de",
+      "after": "95b00f52503b0ca3173d9d62912c4b63a5818a1ca88368963ea16784721368fe"
+    },
+    {
+      "lesson": 264,
+      "before": "03d63db944ffb527ec577f1b4c7d99fb30f57043e6482b418bbf174e585a1841",
+      "after": "050cb78cd1cca7a2dd4ebbfe7a76e460c518f370719f8c5d4f663a92b0f07c0a"
+    },
+    {
+      "lesson": 265,
+      "before": "c3de1b98e7d20fd0651525d520ed36251189af6b973fdf9503d3248ef52f9873",
+      "after": "37583212a06b898813809f8575c9f042e54a192413d9d0bbf9907d50dc139187"
+    },
+    {
+      "lesson": 267,
+      "before": "eba13d3f9ecd9da4d09e2103d21bd182a4aeb7400a49a9c2eeca75beba63d825",
+      "after": "5cb1b546ae63689615538c8a26f8e4792434ea9a9d87dd3ebf6636763c44bab1"
+    },
+    {
+      "lesson": 268,
+      "before": "c02b94b796b536e634e9de0662a2def103708651c82f16d7464f9b956d6e8002",
+      "after": "5058e825fddb190f1aff60e3be16705c2a09e0d2007b766b9281b55a6cbc8e97"
+    },
+    {
+      "lesson": 269,
+      "before": "50b83695f3822005870a777f8944b9055f3d76d69558519eff9bd39101c57d4e",
+      "after": "65bf122fb1387920ec0cdfed13df9bea5bb44869ba80195cf17b9850ecc1b9f5"
+    },
+    {
+      "lesson": 270,
+      "before": "b4f087ba57873b1f40b344091a6aa8ba57ccb757bc4f5af8f39fa168c3eed529",
+      "after": "87525e0bea958df5ba8ebee28750eae14f1776069c90ac354229d18e02660d31"
+    },
+    {
+      "lesson": 271,
+      "before": "2da1be84aaba1cbd1f050842aa4b2e10a987f440a1bd68c9bb57e7972860681d",
+      "after": "0eabafdbff9084d9dc23660b98c205f907c03f9e84fbd93549d70f95c70924ae"
+    },
+    {
+      "lesson": 272,
+      "before": "b0df2bfe3db64af0cd4332b5a8aa206c87842c4cdfe5479f24c47955c226ad46",
+      "after": "0620e3d60b72aa7ae431212afc37b51d8970a7deba3b9b2efd6b5f228b4c2a31"
+    },
+    {
+      "lesson": 273,
+      "before": "1b8ff63a1e6a5af3fa75b8477234150c44399e27f3e27f971b85e6b27aa5eeaf",
+      "after": "3ea917e6468b14e92e489b589a9cf468df3e3f1f6841bc61ddba8b126ed10308"
+    },
+    {
+      "lesson": 274,
+      "before": "fa4347e0c59a8b5eaa0cb30e6976b1652a68783073452c9987803506e302edc5",
+      "after": "86c48a8e3b5c67ebf333b22e09304949f4c3a95e1383183fa595fe6dd24bf525"
+    },
+    {
+      "lesson": 275,
+      "before": "20737f1d3d6bfb9d4877b2b20a6be6c0e3ece6d017e7a8cd71561e32fabd48bf",
+      "after": "b68042ad428a40b7c4010d483d952ea8ee80ab45fb1f8dc7a28475546df0a28d"
+    },
+    {
+      "lesson": 276,
+      "before": "d24543592a376dd185e1085043d5373cb2d002010ae4b80246e7104892b42628",
+      "after": "f9f26db5e23a429e608a6e22a7416d9ea41a88223dd7295cd21ceba83098b095"
+    },
+    {
+      "lesson": 277,
+      "before": "22c3b010352be95495ce02ae6e43e7f40de96dff33d5e7d6cd835d7238c64cde",
+      "after": "fe94361f38b2e5c55929d6f8db08de743a216d1d98f9cb3ea93ca0d2e8441376"
+    },
+    {
+      "lesson": 278,
+      "before": "df0e64c1c2c9c74577ed102f7ffcde4eb652d2744a59989cd83700c7790baf99",
+      "after": "035fe62e1b62949aaf5908fac93c8755799e49cbe0b162fa5505b6b91cd79225"
+    },
+    {
+      "lesson": 279,
+      "before": "83d677b2d5e3815ae27feb8af33e7dbc4bfec3e970137a408669c1442af95ca0",
+      "after": "efe66b802d91c88f7fc6a12f0be63cc1800d237a46d4279e335aac949d9ce5c2"
+    },
+    {
+      "lesson": 280,
+      "before": "ca53b6855f341cb81f1b7c14d9fe2e7833cc8d9bf79135c8dbf8164ce46b50e8",
+      "after": "774634801233c1a75277bef90836429e5b4ccd65df11293309cf577d59a934d0"
+    },
+    {
+      "lesson": 281,
+      "before": "12bcedda8f0c075a4f770ae0ada899210079eedbcd41062e9f537ebcb637c8c4",
+      "after": "7b257d16b57963e4861bae6d00dcf059be17a2d752f1b11fc630d4b1a463679c"
+    },
+    {
+      "lesson": 282,
+      "before": "91e38bc9d763bea977df14b7305eae39341365ee67b7732cd4ea5014a94b7e94",
+      "after": "d3dfb3039bd6b961afc4ecd17ce24a5a2aee4266f5edd58b6aaaa2f2f4afc2d9"
+    },
+    {
+      "lesson": 283,
+      "before": "f68dfcb46345f219d5dc1d37d1935c4b7fd73a358a4aa262be2167fec852fa73",
+      "after": "17370c79097010e283942eeda86f954d37b48a88c30b6082469452f633ec95ea"
+    },
+    {
+      "lesson": 284,
+      "before": "1ec818f52eda30a9cdb9e7e42239bbec356ac4bf8cfff556267e0c500987f0df",
+      "after": "e9c4d727b3995717435eb5451adc334209573e58227ffcfec4423dda6dd8d547"
+    },
+    {
+      "lesson": 285,
+      "before": "2ef15322583e7b991d28bcb2c86bcd8099f16cf8f4524c0f207104afe34f9ce7",
+      "after": "f08e7e9be5cd64a22101d505cfa6f193d1b632d85537a4aef7acd5c8fb5ccc19"
+    },
+    {
+      "lesson": 286,
+      "before": "02a4f0ea72da022ff30625590f3dfc44b1529c4ae848d432c19268365b74f443",
+      "after": "48e2dbd18626d2548323c3d4e4190bb1b58b32889c2f26abf0802f5c5c0131de"
+    },
+    {
+      "lesson": 287,
+      "before": "e0d7f83893afa51891edb030c9d8f97364c8ea59eaab33a826b6d52c07ae2ac4",
+      "after": "d5e5b32a911c71eb8ed75003653bdce66fba112aefebfde1318fcde4b2a53eee"
+    },
+    {
+      "lesson": 288,
+      "before": "d8fdbc83fc9d6413e6af10b321c63f7ef33865eb1646b8eda03fae8ee836d27f",
+      "after": "71bdc9b91ca8db72a52a3575bf37b8fd9455bde46b4a701871bc1a106084e4a1"
+    },
+    {
+      "lesson": 289,
+      "before": "f748a960a5339eef5dd2c51c99931dab5f1be8b66e9e32049db5002f31218835",
+      "after": "cd241ca249aa0baef86194212497daf8f54703b31befad8f41fa6bc0b1ca791f"
+    },
+    {
+      "lesson": 290,
+      "before": "6ef8ab6cbf4a8c46d2d9cfbb430b73f3ab3e3f6b8385727642f48bac2fe5a037",
+      "after": "b0902fd34b7c5a9e246ee555285775ad583d6893d0734d92ee1d7767b234f93e"
+    },
+    {
+      "lesson": 291,
+      "before": "266a01826946e4c37d5ce1a535e68392c6c4d0e4bbb59994afee1defddbafdda",
+      "after": "20b519f78bf5689e15860ee0add6148643ac85ab775ddff60c5edc915254b783"
+    },
+    {
+      "lesson": 292,
+      "before": "c9a114da4f7fae8ab0df2f95bff1df503ca79b3c896c36bbde08b7cb5b023a93",
+      "after": "34b46fcc528d00e484eb1cb9d43245558a41c08bcdb8b2e6487b2163a4789bfc"
+    },
+    {
+      "lesson": 293,
+      "before": "212b53ac38ff3c5ee0d6f8ac039ff954c6a573f0d5f23bc6b924d3e18884fbac",
+      "after": "0e67745a1e537c0b46f8c620235bae8740621d64edb94cbedaa99b53f93a500b"
+    },
+    {
+      "lesson": 294,
+      "before": "45d482837301164d7fe838c27979a51d3a45aa6fa18ba09ec116e89dd3558242",
+      "after": "cb6ce0fa3e686758a6715b4ee2d82063dd455ab39f15ccb41815adb324694fb6"
+    },
+    {
+      "lesson": 295,
+      "before": "ed24963c935db1d6f5cd901cda44ccae7bcc467d373b29e023191471d7120115",
+      "after": "6023d87c545ef06f80e4223b74752eaea3c81196dedd043d5a0d7f06cf62254f"
+    },
+    {
+      "lesson": 296,
+      "before": "8d74b8215dca4cf31c7bd2649a19336727d007229af30c808fa2f3a219bacfec",
+      "after": "7b50de9c81b356ac2d3b2bf521298004bd37b3696a7862e7316728c85d971089"
+    },
+    {
+      "lesson": 297,
+      "before": "8dfa39f57a05e51155c2a80d0931a7a8be323800ffc122338e08847a8bb24014",
+      "after": "e3609202033ad583d9b40b11b9d77a8e34be3350fefd2403933b45499c07f6c6"
+    },
+    {
+      "lesson": 298,
+      "before": "28a663bcbc4da57add7c9ab1571d07c023dc046d4f1a694d84f70ad11590603f",
+      "after": "801a50887446dfbcac01f32b01511e7a14dbccf8cdb0e2e295b8d8fc11e74a4b"
+    },
+    {
+      "lesson": 299,
+      "before": "a2ffd53198eba9d2d678fee42cf375019a5f43a334eee457656792c1eb631928",
+      "after": "fe15e3fe62df3210d574236fbe4041077380e28fa3cd710ca5ffd5773ee70095"
+    },
+    {
+      "lesson": 300,
+      "before": "8f2de06fbe1d280c935d717f2560389714773223d13065e7f80cbdfa70ea09e5",
+      "after": "609409923f201f546da5de0d9f09b25ffbc70c546e21e6414f13b5791c155563"
+    },
+    {
+      "lesson": 301,
+      "before": "a4a5721f43b2a13638fa24aafcc937187e6f1bfd2a51e9151fa918f06e0fd508",
+      "after": "3ad0e3b3c1c635a80afa02b033e263edd8c692f4a11bf34f9d6da41b87d4702e"
+    },
+    {
+      "lesson": 302,
+      "before": "9bd131a3537400dbd5ea21eae2fa919301aab40c67bb2bac4985bef026aba6e3",
+      "after": "1fc0002868a91b231f24c30152f3736df7e4e5dfc636602f854fe409016f5269"
+    },
+    {
+      "lesson": 303,
+      "before": "adeb5191cfd2151464f0bd7c93a5fc2c53b04717d50b0057a76814763cb1ecbd",
+      "after": "9e387c843c99fea550262833342956577d96c21973e6b3b358735d922df32339"
+    },
+    {
+      "lesson": 304,
+      "before": "8b06fabdaf36d6b4a318d84dd3fe936932b3e7806255aca0164910e9e6d16458",
+      "after": "1152bc074a08ff6ec7a1257e107f655197774c2f716df8b84328703b568f3a1d"
+    },
+    {
+      "lesson": 305,
+      "before": "7f3d8b4cae590363668f5257812590e830a28b621e2d551c55b983b77b611330",
+      "after": "02a0b4075e4c4c97ce507de8fe04afb1f99bbb3cb925f3419e44390d9d30ef10"
+    },
+    {
+      "lesson": 306,
+      "before": "61388b72ecdf605b1dc30485c6cdcc5219013eb804570f5a8b5635b3e316b2e9",
+      "after": "6e684df1eaa3f70c6cc43c830ab7795e9b2c9e199a73ea0f73fd90526f69b253"
+    },
+    {
+      "lesson": 307,
+      "before": "91d8ba857ba6fcb7d64e7cb193f780e91771aa61b3a3bd1eeee45856aa7cfe93",
+      "after": "f05fc13fd09ebc0de22e58ab49d4524ede2d3b00ee2488feb2c09c75e510f7bb"
+    },
+    {
+      "lesson": 308,
+      "before": "65c92eac94e0d1ec37189d463b50c9e76a020e3adebd5e9932a52b45d247b5cf",
+      "after": "a482eb13b3ff0af3689fded074f996d6a64e8c5841dec00aa5da0f66b4af1367"
+    },
+    {
+      "lesson": 309,
+      "before": "f2f23c4f1600e4f584ef9d3b477151d31b27b0ac13e9f085cced9035522b9963",
+      "after": "f3f412b93b495d28b2e31a8619807dd93edaf4a824f17470a60b5aeab4ef3262"
+    },
+    {
+      "lesson": 310,
+      "before": "300e8a6b92b2c72b7c995b683aaf9bac05442413dee69159ffb87e77e8fb7bd7",
+      "after": "d403d93d0a35749ee1c056b891c0fb8a3181579f952b08b6bc40c3feb6d328b7"
+    },
+    {
+      "lesson": 311,
+      "before": "64085de9ecbd4bbf9eed82ef6ee458871fd3054489b9be2e22e842b0bddc0de4",
+      "after": "19f0e4c7e32edfea1f0f39592c9e92fa213538ce49008f906dc54653b64d9697"
+    },
+    {
+      "lesson": 312,
+      "before": "0054c0b793d88683d020eb45b59b9a4311fffb5acb7bccd9cd05e44644216533",
+      "after": "8b43c925c26fc001441ed986cf77d105ebcf62fe643150b044363fe01b33f3d3"
+    },
+    {
+      "lesson": 313,
+      "before": "c6c420063938d3937754abd240d25cac46db7f8511b90b86f4f462e81f5d6ddb",
+      "after": "692a5df5bbdf8adcdf15c1a15327e4f0f880ddb1f5291adafffb8ed00f71b2ac"
+    },
+    {
+      "lesson": 314,
+      "before": "1149fa4cadb5b1a7960b5e29712e90a2cde8be607fb5999c007200b9939c55f4",
+      "after": "7ca7d4f0d85c43c0ce5d2ea5f0582d7828c00cdcf0cd90680fad38bf543342e6"
+    },
+    {
+      "lesson": 315,
+      "before": "172905b6b4a5e694a9293b9410564a41170fbfe187019bc7df164780629d8833",
+      "after": "01ecba11b06c545c9c1dc4d5e5a58efc9627b51b7b79635570b73e472177940c"
+    },
+    {
+      "lesson": 316,
+      "before": "5ea962b68d47996e902326cf827a26aaa305835cbe1fa2f6218aac74f544f92d",
+      "after": "72ceab87bdef64169071aea2ee30d817a744a3a9673a0e219531dedb0cf84a33"
+    },
+    {
+      "lesson": 317,
+      "before": "7d126943c8b9e8c6bbaa42e64e72bed550bc07e8e631c87ac96623edef8be743",
+      "after": "5e90454c377a508fbf40a83b64cb21f31083cdd3c9fd1cc43d56a0fcc7df0582"
+    },
+    {
+      "lesson": 318,
+      "before": "3f1f414b7f8a519acbae4a66e45c8449e7f8990ea2381d31e3782b340fd15783",
+      "after": "b1a02794ea5652c1c1ed0d862a42876fba72fa26f28ebe019682736cdaeef755"
+    },
+    {
+      "lesson": 319,
+      "before": "84487ce1cf5880d083b62d50b244d1c7e6d211a2f5f366135328c959e529a065",
+      "after": "db0c9b96b956f0fc4ac8d5139a590e68d634e42a24dd0a36a7aecad02745359e"
+    },
+    {
+      "lesson": 320,
+      "before": "fee2ff5c0dd61cfe90cd66de86151db17d60aa7bb307aec93548afb8c84663d7",
+      "after": "610b0d0c40e4c0e6bfe6b19c5b926e28be7b6a61e6f388deaa90be63b890d8c6"
+    },
+    {
+      "lesson": 321,
+      "before": "a2000782bf5602eb460f3606e1fe556f08371652db0c4aa245ddbe08599de6fd",
+      "after": "9c0de5c8b22ffd0d10bf088e5c586a37b089b232f346950127a489d85f06be7c"
+    },
+    {
+      "lesson": 322,
+      "before": "68e23acde0f0c936d248d5f766cd3e451700fadc75dd95aec0ea04c90b4756bd",
+      "after": "1bd3db5e4c789f9b0c4d72051fe9d1f6e716e3b229f58de431890637f9a7a66c"
+    },
+    {
+      "lesson": 323,
+      "before": "34c06f45eaf711b2ba980687acbac17c2c058d848314aa564a8f5bc64958b3ec",
+      "after": "3df88b5244f9352627ebe82701679b832adee7935c2cd39cb24879a60ba1a1d9"
+    },
+    {
+      "lesson": 324,
+      "before": "68f8e1f218b7ff95d6d6cb30e174c60e0fab5967d5fda490b541b02fdb2a06ef",
+      "after": "a20da34b8627ac6742f0c1e7de4c106b5ffd2eca2f18d40dfb995aeb50055adc"
+    },
+    {
+      "lesson": 325,
+      "before": "fd27e2259427d0de52b8828dc811a8fcd5dfab4ad10418d1d93eb6c535a154e6",
+      "after": "bea8f6c9ec131c658a0e7b577cc972058ddaa5d26fac697e0ef93aafe3379ee6"
+    },
+    {
+      "lesson": 326,
+      "before": "5b3750658805bb26a9379cca11fa853e712d1af0fb7b3cb7f3a4d6213757bcc5",
+      "after": "3d7c13cfd3931cb146405eb0a7ffd3ba862950aeee82693216e4f71f1ba43b0d"
+    },
+    {
+      "lesson": 327,
+      "before": "f52f0b22fe744dcf58e23654b7ad1a558cf7bf4d6b349374afc88c559e6a142f",
+      "after": "f23fd7a793504b6930ceeefeaa281c00035bb082388aecc3389088af05eca196"
+    },
+    {
+      "lesson": 328,
+      "before": "6b6d9b37018a78eb21fcafacf636801a2ef03ed760048df91a30e0dcbcc64b79",
+      "after": "a200e317b1784d66ba6bbf2386efd10677692d65d5fe38c6701f63b5aab1e185"
+    },
+    {
+      "lesson": 329,
+      "before": "294184c31c55a88f52dce99630fe20d2d0a08b2bb5bde6a6fa6d5b5050b2849e",
+      "after": "5ac73068c024e51e8f614533b83d250e255b22d8957760311eef1a15abe01e84"
+    },
+    {
+      "lesson": 330,
+      "before": "42bc07e535953a1ce483c4ef305c4cb58d483ef6c86b557fec3c72448ccf6eb8",
+      "after": "a9e796cbda987355276a33f706d7d980d0078799853426eac2f5007de25c4a81"
+    },
+    {
+      "lesson": 331,
+      "before": "113546d31d4f91fcea561b62da304a13c05f620794c87a9beb4dfca16927177c",
+      "after": "506e58b43b8a357050c40007b7efcea6cafe9a3941a10eb1d4b0a8c569c3537c"
+    },
+    {
+      "lesson": 332,
+      "before": "20ca60041e82002a1e39524e9cd264a3a4a2272ca65790f11c36280493127289",
+      "after": "80cef1bf6d3425cd9a7b46d99a72879aa1d93334bd50abc130f9177f66a2ce80"
+    },
+    {
+      "lesson": 333,
+      "before": "5f1766ed7141e66dec08f3b4d60e7d576af907d42c75c569d304337d2f81d7f5",
+      "after": "16765e65d6a516925c8067ff0021e0b1ed8f3637437552de82f9ffa15cf9276c"
+    },
+    {
+      "lesson": 334,
+      "before": "ea5a1f9acc45b0ddf169f7904e225fff12e49dcb61c67e0316d6fcf5e28bf563",
+      "after": "09e95f6228265e97e496b65ec623c124f6da622a4fd20a59723073e14c5de1a7"
+    },
+    {
+      "lesson": 335,
+      "before": "4c46a5a588c6f36ea4b452fd0083a64152cabfdc2637d2b7e90c878ea5920ff6",
+      "after": "21e0ce9268668ab83a66391f29441fd31436c641c2706b7cdf61c739d72e53fd"
+    },
+    {
+      "lesson": 336,
+      "before": "e48df1f53404122197497293bce29cec8318023542ea4a1cd186671e96edfc32",
+      "after": "797bc2bd0b4770ea216cc0843113425d946d0cc2cb4c6b488ffb87bbfeb0e4f9"
+    },
+    {
+      "lesson": 337,
+      "before": "225a088be146c181a94c938683652ff11bb89291f56833c90751208e611cfc6f",
+      "after": "7aed93ab270172f2c2916c4d8c4de9a1c8a9554dcbaa0aebed3dacb0bcb46dbe"
+    },
+    {
+      "lesson": 338,
+      "before": "1dbb4067bf2b6259bf6bc52e5596876fe29f23d3bbe45667fb5d046a388aed2f",
+      "after": "c52c2235a393c9b3038b645f1c4d167e0b3bcdbbf4eddeeb2bb1028f6d138aac"
+    },
+    {
+      "lesson": 339,
+      "before": "1ce397f76ce44aba609d8ee5b92dfa4fb64f07324d8661da44a9886fb7f0dcfc",
+      "after": "7c8d0774ee1070f03636a798aeb393111cb13a6800f6a064bcc6f40578d2d682"
+    },
+    {
+      "lesson": 340,
+      "before": "c1f1271fd2c680b43336d23c961bd00d2e7e9c7e2fc1b2cd0b4bf89a599f1527",
+      "after": "2b0ec9308700367beb1b293479457ee73522a7e76c45d77030f8a7c9f9a3e960"
+    },
+    {
+      "lesson": 341,
+      "before": "1497afaa7ea7e4e8e17c4fc95a2921d51e36e57d775148a18205031ca6a12c6f",
+      "after": "3c7fc1bdc9c93a38593d20887b04f8420ded294768ebb6153bb5faedf142639c"
+    },
+    {
+      "lesson": 342,
+      "before": "3cb7fe4859ae8c14c224998ca15dec6f780febce8705d2fd962d37989cc9d105",
+      "after": "f6cdab72e23097603e6a664088d190dd1d925504a8c422d4618ef81ebdec9bc7"
+    },
+    {
+      "lesson": 343,
+      "before": "0958e0b7c1da49e65175b62837be210b4c36e3a1b0720635a703594d93a48540",
+      "after": "f324db3906d18fb1da7199da0cadd251f86014763e8a7ca5fc925139a75b983d"
+    },
+    {
+      "lesson": 344,
+      "before": "1c84cfb51389e8c5666665c2a9930b2c21d3187526d9f4907bc796e2f1cb3dba",
+      "after": "7002801f55de4114676f7fe7818ce4dfe4530aeee051c791b93f93e426bca79f"
+    },
+    {
+      "lesson": 345,
+      "before": "8d92d3b2c0916a3ded22e6dcde905aa6203a60e74953327991419e35a2b56e20",
+      "after": "6899e2cc540b642acc8d51a9a600f4e7d3d9015f79dad74857f40226b44129cc"
+    },
+    {
+      "lesson": 346,
+      "before": "726cd064029e2a15fb5d97b3e8731488bfce586e2423df10e3573d4431d91117",
+      "after": "289b6ecb45de65e4332d5c9346d91fe2681698e2c7f54109213c12a9968d1248"
+    },
+    {
+      "lesson": 347,
+      "before": "809461e0fc00fb84d097d96a7068452b8a02bc8f7c456fa5d63ed275e0c92e0a",
+      "after": "8e69111a33488639df636fe7446e9d1c77b15c2c6f45e5418cb3aa393317b5d1"
+    },
+    {
+      "lesson": 348,
+      "before": "823154080495ce8fba0ff3bf53f18e3f197d132fc5a6226ef46c08d9591259b8",
+      "after": "5417ce192ba1943c83cb0d1207823261ff0a1a384b83d2528b36c9bdfdc43e1c"
+    },
+    {
+      "lesson": 349,
+      "before": "efe0035ecf5eef400161a000c1c0c0e3486c6b77cc1db47c94582b6ce3b3e107",
+      "after": "79559073307b07748540ecb91d37b4aee8a3a9f2d12777a51fcd88bd78185a70"
+    },
+    {
+      "lesson": 350,
+      "before": "d286379035df4da174b491c8c1a435cf8195240ac20b29093710771504b605fe",
+      "after": "2063a41e2fafc52a2d0c7799e0589e0000ca09be8e9b745067560889af69bd31"
+    },
+    {
+      "lesson": 351,
+      "before": "7fbc3f389abb7f25f65d05937ad176e48eca7d44e7600b9650a3ee44471d62b3",
+      "after": "af20fa4fe527c41bf5b87994ee8ed4d3b72de2ad47d462d0e90cb92ddba0a3e7"
+    },
+    {
+      "lesson": 352,
+      "before": "54e88d77d93bed3cb34b7b1b96e4203e858c0c87486d392ef59c0ed1403c0b8a",
+      "after": "c2b3c56bad63b10da62c2ca9f7c09505c316acd18bb8213c46a77a2a52b92771"
+    },
+    {
+      "lesson": 353,
+      "before": "7684da7c5b397332543ce44a93fe47ccc5932268b82ad68a6657ffa06735078b",
+      "after": "22b6bdc81127691f87b1c359587fa0986882a8b79ad985c3e29bb3d8619ab9f5"
+    },
+    {
+      "lesson": 354,
+      "before": "ce14273797605779df6e2ae0d10ef39bf3521e1ff09c7883bc2ee52c29a71df0",
+      "after": "c48efce21df876c949e7e97d71ed56606da7d829052f0f5edaf4b35e1c860a51"
+    },
+    {
+      "lesson": 355,
+      "before": "903812a164e0261d1017b4ee0f668eb21726e3c578ef0648ed5791a3cfb4770c",
+      "after": "4a2a0e2bd813ceca338922c66b4f1fb229d5bce739a92ba809ab12f2a031ce89"
+    },
+    {
+      "lesson": 356,
+      "before": "6b836ec225a1a2575967c4a694404a90ae1c50d7d4a6bdd2209dcc0c175e5e1c",
+      "after": "d76bf94daea018a75ba199f522074872e64108b81d1fc64cdf1c1bd1897adf72"
+    },
+    {
+      "lesson": 357,
+      "before": "2b97f2fdb51a057786038bacff51e2b58439801bae5419492551a4b1e5dba9d9",
+      "after": "0b434612a59be4a0a3cece508f5a46c8e2fbb8f9df4efb7e7ef536e6e0a0c7bc"
+    },
+    {
+      "lesson": 358,
+      "before": "6d6917c169ff9722c01bbfa94a05819cbd8917a0d9cc606efa959868dd7ce1cc",
+      "after": "94c479cd3834770ce63e199259587d0b90bd3ea9868644119379645f41bc0c85"
+    },
+    {
+      "lesson": 359,
+      "before": "0481996d18430b183cc7471cfe54ea37967c3be70fc308b9cf0e0e197955c1ce",
+      "after": "76008be1407a844dd36b725a902b01a1d5ce0c15d963f5b230deadde5eafa312"
+    },
+    {
+      "lesson": 360,
+      "before": "cf3629bb8f0e09ae57fc5314331b3e5c2b270f233963e7f2006c5cc0a2722874",
+      "after": "25135f3cc06675462e3e7c84abd358a3ecbd36d303699c0c7a8f4b3e171619e6"
+    },
+    {
+      "lesson": 361,
+      "before": "e2c0c104c7ba099acbc53d8b025f8bbc46c89554fd3fc4c44a4fa248dbe70621",
+      "after": "e68b8ae143edf07b6a6b71b09034fe8576b3da8993a5683a8b4d698976172923"
+    },
+    {
+      "lesson": 362,
+      "before": "4e44c366d32f25b26a561308a29e879330f79d3e8c5e1919248048c4f14cefb3",
+      "after": "a042dd156959389fb1ff5388d42bccbdb646331b180ad6d07af4b8f769203268"
+    },
+    {
+      "lesson": 363,
+      "before": "0d08cceaee26ac83a3d7ceeec10f3e8ea4f16f4481454570349292b37eec43ed",
+      "after": "3a197be02d03533d200d2fbaf6cb8a3e48ae3ab0965eed52dee93fada9b69da9"
+    },
+    {
+      "lesson": 364,
+      "before": "d2467601b488b87afd9d02254e2da6e6e35ffb7de09a9cac0c276d6d7ae1d232",
+      "after": "03467643a7ff8319e8c325f087c81cee464702bccda13a58cd5cad46c73536b2"
+    },
+    {
+      "lesson": 365,
+      "before": "62f97a99bff55b79c13b6164575d6adbf176765a22799702edfb4bf2be14731c",
+      "after": "8f74f920d0627c0bebc45096ee884c90899ce84d5cdfde12bfdd44a5547d4de6"
+    }
+  ]
+}

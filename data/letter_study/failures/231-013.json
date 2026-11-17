@@ -1,0 +1,5 @@
+{
+  "english": "Thereupon Sekkyo seized the monk's nose and gave it a great yank.",
+  "error": "Expecting ':' delimiter: line 12 column 43 (char 289)",
+  "response": "```json\n{\n  \"korean\": \"곧, 세키요는 승려의 코를 꽉 잡고 강하게 당겼다.\",\n  \"explanation\": \"승려의 코를 강하게 당기는 행동을 묘사한 문장입니다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"seized\",\n      \"meaning\": \"잡다\",\n      \"note\": \"강력하게 무언가를 잡거나 쥐는 동작을 나타냅니다.\"\n    },\n    {\n      \"word\": \"great\",\n      \"meaning\": \"큰\", \"큰 정도를 나타내는 형용사입니다.\",\n      \"note\": \"여기서는 '강하게'라는 의미로 사용되었습니다.\"\n    }\n  ],\n  \"expressions\": []\n}\n```"
+}

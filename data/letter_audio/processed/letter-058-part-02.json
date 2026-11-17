@@ -1,0 +1,51 @@
+{
+  "key": "letter-058-part-02",
+  "number": 58,
+  "generationId": "01a1e5b5-ca7d-7600-b525-06b39701c806",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Welcome it in its endless forms with an attitude of complete acceptance.",
+      "path": "audio/1969-58/11.mp3",
+      "start": 0.0,
+      "end": 4.733787
+    },
+    {
+      "index": 11,
+      "text": "And do not impose yourself on life; life has its own discipline, its own wisdom, and those who are ready to live totally have no need for any other discipline or wisdom.",
+      "path": "audio/1969-58/12.mp3",
+      "start": 6.208413,
+      "end": 19.291043000000002
+    },
+    {
+      "index": 12,
+      "text": "But you have always been afraid of life and therefore you are afraid of love.",
+      "path": "audio/1969-58/13.mp3",
+      "start": 20.874921,
+      "end": 25.154921
+    },
+    {
+      "index": 13,
+      "text": "Now life has begun penetrating you, breaking your walls of security.",
+      "path": "audio/1969-58/14.mp3",
+      "start": 26.492721,
+      "end": 30.983696000000002
+    },
+    {
+      "index": 14,
+      "text": "So, God's infinite grace showers on you!",
+      "path": "audio/1969-58/15.mp3",
+      "start": 32.385329000000006,
+      "end": 35.064467
+    },
+    {
+      "index": 15,
+      "text": "Don't run from it now, accept it gratefully and my good wishes are always with you.",
+      "path": "audio/1969-58/16.mp3",
+      "start": 36.50415,
+      "end": 42.24
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "letter-043-part-01",
+  "number": 43,
+  "generationId": "01a1e4f0-3a1d-7531-8ecd-e6f964b43496",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1966-43/01.mp3",
+      "start": 0.0,
+      "end": 0.862449
+    },
+    {
+      "index": 1,
+      "text": "You have asked me about the sense of humor.",
+      "path": "audio/1966-43/02.mp3",
+      "start": 2.301519,
+      "end": 4.855601
+    },
+    {
+      "index": 2,
+      "text": "We can talk about it in detail when we meet but first of all: the sense of humor should be directed towards oneself - it is a very great thing to laugh at oneself and he who can laugh at himself gradually becomes full of concern and compassion for others.",
+      "path": "audio/1966-43/03.mp3",
+      "start": 6.3586849999999995,
+      "end": 22.38805
+    },
+    {
+      "index": 3,
+      "text": "In the entire world no event, no subject, invites laughter like oneself.",
+      "path": "audio/1966-43/04.mp3",
+      "start": 23.702381,
+      "end": 29.685556000000002
+    },
+    {
+      "index": 4,
+      "text": "About the truth of dreams as well we shall have to talk in detail.",
+      "path": "audio/1966-43/05.mp3",
+      "start": 31.094739,
+      "end": 34.701541999999996
+    },
+    {
+      "index": 5,
+      "text": "Some dreams are definitely true.",
+      "path": "audio/1966-43/06.mp3",
+      "start": 36.050952,
+      "end": 37.86542
+    },
+    {
+      "index": 6,
+      "text": "As the mind quietens down glimpses of truth begin to appear in dreams.",
+      "path": "audio/1966-43/07.mp3",
+      "start": 39.437234000000004,
+      "end": 44.280567
+    },
+    {
+      "index": 7,
+      "text": "Dreams are of four kinds - those concerned with past lives, - those concerned with the future, - those concerned with the present, - and those concerned with repressed desires.",
+      "path": "audio/1966-43/08.mp3",
+      "start": 45.575193000000006,
+      "end": 57.474694
+    },
+    {
+      "index": 8,
+      "text": "Contemporary psychology knows something about the fourth type only.",
+      "path": "audio/1966-43/09.mp3",
+      "start": 59.070794,
+      "end": 63.62068
+    },
+    {
+      "index": 9,
+      "text": "I am glad to know that your mind moves towards being at peace.",
+      "path": "audio/1966-43/10.mp3",
+      "start": 65.12004499999999,
+      "end": 69.64
+    }
+  ]
+}

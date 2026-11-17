@@ -1,0 +1,58 @@
+{
+  "key": "letter-079-part-01",
+  "number": 79,
+  "generationId": "01a1e62b-ec1c-7188-a2b6-f00a3c4dbef3",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-79/01.mp3",
+      "start": 0.0,
+      "end": 0.706304
+    },
+    {
+      "index": 1,
+      "text": "I have received your letter.",
+      "path": "audio/1970-79/02.mp3",
+      "start": 2.03254,
+      "end": 3.744376
+    },
+    {
+      "index": 2,
+      "text": "As the earth thirsts for the rains after a hot summer so you are thirsting for God.",
+      "path": "audio/1970-79/03.mp3",
+      "start": 5.243946,
+      "end": 10.472676
+    },
+    {
+      "index": 3,
+      "text": "This thirst becomes an invitation to the divine clouds - and the invitation has arrived Just keep drowning yourself in meditation and his grace will definitely pour on you.",
+      "path": "audio/1970-79/04.mp3",
+      "start": 11.937166000000001,
+      "end": 24.338299
+    },
+    {
+      "index": 4,
+      "text": "If you are ready here - he is always ready there.",
+      "path": "audio/1970-79/05.mp3",
+      "start": 26.096235999999998,
+      "end": 29.753946000000003
+    },
+    {
+      "index": 5,
+      "text": "Look!",
+      "path": "audio/1970-79/06.mp3",
+      "start": 31.221451,
+      "end": 31.926213
+    },
+    {
+      "index": 6,
+      "text": "Can't you see his clouds hovering in the sky?",
+      "path": "audio/1970-79/07.mp3",
+      "start": 33.442789000000005,
+      "end": 36.31
+    }
+  ]
+}

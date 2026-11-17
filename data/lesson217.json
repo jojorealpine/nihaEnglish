@@ -1,0 +1,345 @@
+{
+  "id": "1971-217",
+  "title": "1971 / 217",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "present",
+      "meaning": "현재",
+      "note": "지금 일어나는 일이나 상태를 가리킴",
+      "sentenceIds": [
+        2,
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "moment",
+      "meaning": "순간",
+      "note": "매우 짧은 시간적인 단위를 나타냄",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "past",
+      "meaning": "과거",
+      "note": "자아를 과거의 경험이나 기억으로 정의하는 데 사용됨.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "living",
+      "meaning": "살아있는",
+      "note": "현재의 활동적이고 변화하는 상태와 대비되는 개념으로 사용됨.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "future",
+      "meaning": "미래",
+      "note": "문장에서 미래는 과거의 연장선상에 있으며, 현재의 자아를 정의하는 데 중요한 역할을 한다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "projection",
+      "meaning": "투사",
+      "note": "과거 경험이나 기대가 미래에 대한 자아 인식을 형성한다는 의미를 담고 있다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "awareness",
+      "meaning": "의식",
+      "note": "현재 순간에 대한 인지와 인식을 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "egolessness",
+      "meaning": "자아 없는 상태",
+      "note": "자아의 개념을 벗어난 순수한 상태를 가리킵니다.",
+      "sentenceIds": [
+        5,
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "exist",
+      "meaning": "존재하다",
+      "note": "문장에서 어떤 상태나 개념이 실제로 존재하지 못함을 나타냅니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "simultaneously",
+      "meaning": "동시에",
+      "note": "두 가지 상태나 개념이 동시에 일어날 수 없음을 강조합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unawareness",
+      "meaning": "무지",
+      "note": "자신의 존재나 상황에 대한 인식 부족을 의미합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-217/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "If one is aware of the present moment then one also becomes aware of the fact that there is no me inside.",
+      "korean": "현재 순간에 집중하면 내면의 '나'가 존재하지 않는다는 사실도 깨닫게 된다.",
+      "explanation": "현재 순간에 대한 인식이 자아의 존재에 대한 의문으로 이어진다는 의미",
+      "grammar": "동사 「becomes」는 become의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-217/02.mp3",
+      "vocabulary": [
+        {
+          "word": "present",
+          "meaning": "현재",
+          "note": "지금 일어나는 일이나 상태를 가리킴"
+        },
+        {
+          "word": "moment",
+          "meaning": "순간",
+          "note": "매우 짧은 시간적인 단위를 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "The me is my past, the me is the dead past The me is not my life because it is not living.",
+      "korean": "나는 과거일 뿐이다. 살아있지 않은 과거일 뿐이다. 현재의 삶이 아니다.",
+      "explanation": "문장은 자아를 과거의 개념으로 설명하며, 현재의 삶과는 구분된다는 의미를 전달한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-217/03.mp3",
+      "vocabulary": [
+        {
+          "word": "past",
+          "meaning": "과거",
+          "note": "자아를 과거의 경험이나 기억으로 정의하는 데 사용됨."
+        },
+        {
+          "word": "living",
+          "meaning": "살아있는",
+          "note": "현재의 활동적이고 변화하는 상태와 대비되는 개념으로 사용됨."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "The ego can exist only in the past or in the future - which is nothing but a projection of the past.",
+      "korean": "자아는 과거에만 존재하거나 미래에만 존재할 수 있으며, 이는 과거의 연장선상에 불과하다.",
+      "explanation": "자아는 현재에 존재하지 않고 과거의 영향이나 미래의 기대 속에서만 인식될 수 있다는 의미를 담고 있다.",
+      "grammar": "「can exist」에서 조동사 can 뒤에 동사원형 「exist」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1971-217/04.mp3",
+      "vocabulary": [
+        {
+          "word": "future",
+          "meaning": "미래",
+          "note": "문장에서 미래는 과거의 연장선상에 있으며, 현재의 자아를 정의하는 데 중요한 역할을 한다."
+        },
+        {
+          "word": "projection",
+          "meaning": "투사",
+          "note": "과거 경험이나 기대가 미래에 대한 자아 인식을 형성한다는 의미를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "That is why awareness, moment to moment awareness, leads to egolessness - because the ego cannot exist in the present and because awareness cannot exist except in the present.",
+      "korean": "순간 순간의 의식이 자아 없는 상태로 이끄는 이유는, 자아는 현재에 존재할 수 없고, 의식은 현재에만 존재할 수 있기 때문입니다.",
+      "explanation": "자아가 현재에 존재할 수 없다는 점과 의식이 오직 현재에만 존재할 수 있다는 점을 강조하며, 순간적인 의식이 자아를 초월하는 상태로 이어진다는 의미를 담고 있습니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-217/05.mp3",
+      "vocabulary": [
+        {
+          "word": "awareness",
+          "meaning": "의식",
+          "note": "현재 순간에 대한 인지와 인식을 의미합니다."
+        },
+        {
+          "word": "egolessness",
+          "meaning": "자아 없는 상태",
+          "note": "자아의 개념을 벗어난 순수한 상태를 가리킵니다."
+        },
+        {
+          "word": "present",
+          "meaning": "현재",
+          "note": "특정 시점의 현재 상황을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "So they cannot exist simultaneously.",
+      "korean": "동시에 존재할 수 없습니다.",
+      "explanation": "문장은 자아와 의식이 동시에 존재할 수 없다는 의미를 전달합니다.",
+      "grammar": "「cannot exist」에서 조동사 can 뒤에 동사원형 「exist」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1971-217/06.mp3",
+      "vocabulary": [
+        {
+          "word": "exist",
+          "meaning": "존재하다",
+          "note": "문장에서 어떤 상태나 개념이 실제로 존재하지 못함을 나타냅니다."
+        },
+        {
+          "word": "simultaneously",
+          "meaning": "동시에",
+          "note": "두 가지 상태나 개념이 동시에 일어날 수 없음을 강조합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Ego is unawareness and awareness is egolessness.",
+      "korean": "자아는 무지이며, 의식은 무아입니다.",
+      "explanation": "자아는 무지 상태를 나타내고, 의식 상태는 자아의 부재를 의미합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-217/07.mp3",
+      "vocabulary": [
+        {
+          "word": "unawareness",
+          "meaning": "무지",
+          "note": "자신의 존재나 상황에 대한 인식 부족을 의미합니다."
+        },
+        {
+          "word": "egolessness",
+          "meaning": "무아",
+          "note": "자아의 개념이나 집착에서 벗어난 상태를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "현재 순간에 집중하면 내면의 '나'가 존재하지 않는다는 사실도 깨닫게 된다. 나는 과거일 뿐이다. 살아있지 않은 과거일 뿐이다. 현재의 삶이 아니다. 자아는 과거에만 존재하거나 미래에만 존재할 수 있으며, 이는 과거의 연장선상에 불과하다. 순간 순간의 의식이 자아 없는 상태로 이끄는 이유는, 자아는 현재에 존재할 수 없고, 의식은 현재에만 존재할 수 있기 때문입니다. 동시에 존재할 수 없습니다. 자아는 무지이며, 의식은 무아입니다."
+  ],
+  "fullAudio": "audio/1971-217/script_all.mp3",
+  "originalText": "Love.\n\nIf one is aware of the present moment\nthen one also becomes aware of the fact that\nthere is no me inside.\nThe me is my past,\nthe me is the dead past\nThe me is not my life because it is not living.\nThe ego can exist only in the past\nor in the future -\nwhich is nothing but a projection of the past.\nThat is why awareness, moment to moment awareness,\nleads to egolessness -\nbecause the ego cannot exist in the present\nand because awareness cannot exist except in the present.\nSo they cannot exist simultaneously.\nEgo is unawareness\nand awareness is egolessness.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 217,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0860 2.JPG",
+        "side": "right",
+        "printedPage": 171
+      },
+      {
+        "file": "IMG_0861 2.JPG",
+        "side": "left",
+        "printedPage": 172
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

@@ -1,0 +1,23 @@
+{
+  "key": "letter-260-part-02",
+  "number": 260,
+  "generationId": "01a1e8fc-d500-70a5-b0c9-908b6b287097",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Glad to be of service, said Nasrudin.",
+      "path": "audio/1971-260/11.mp3",
+      "start": 0.0,
+      "end": 2.3649210000000003
+    },
+    {
+      "index": 11,
+      "text": "Just as well I came along, wasn't it?",
+      "path": "audio/1971-260/12.mp3",
+      "start": 3.843719,
+      "end": 6.27
+    }
+  ]
+}

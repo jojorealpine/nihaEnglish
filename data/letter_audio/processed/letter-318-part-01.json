@@ -1,0 +1,79 @@
+{
+  "key": "letter-318-part-01",
+  "number": 318,
+  "generationId": "01a1e90c-55a9-770c-8051-3e2f032dc8ea",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-318/01.mp3",
+      "start": 0.0,
+      "end": 0.592426
+    },
+    {
+      "index": 1,
+      "text": "I know that the apprenticeship is very hard but worth it.",
+      "path": "audio/1971-318/02.mp3",
+      "start": 1.789184,
+      "end": 4.751587
+    },
+    {
+      "index": 2,
+      "text": "So keep on.",
+      "path": "audio/1971-318/03.mp3",
+      "start": 6.052721,
+      "end": 7.569864
+    },
+    {
+      "index": 3,
+      "text": "It is arduous, but one has to pay for everything, and in no other way can you get to the great treasure.",
+      "path": "audio/1971-318/04.mp3",
+      "start": 8.927710000000001,
+      "end": 15.852086
+    },
+    {
+      "index": 4,
+      "text": "You have longed for it for lives and lives and now when the time is ripe and the key is being given to you do not lose courage.",
+      "path": "audio/1971-318/05.mp3",
+      "start": 17.153219999999997,
+      "end": 25.127778
+    },
+    {
+      "index": 5,
+      "text": "Access to the treasure is difficult because it is hidden",
+      "path": "audio/1971-318/06.mp3",
+      "start": 26.494239999999998,
+      "end": 30.330136
+    },
+    {
+      "index": 6,
+      "text": "in our own unconscious layers of the mind.",
+      "path": "audio/1971-318/07.mp3",
+      "start": 31.607778,
+      "end": 34.348889
+    },
+    {
+      "index": 7,
+      "text": "It will be easy if you approach that threshold when the diurnal tide is favorable, that is when you are passing from sleep to waking or from waking to sleep.",
+      "path": "audio/1971-318/08.mp3",
+      "start": 35.726349,
+      "end": 45.420952
+    },
+    {
+      "index": 8,
+      "text": "So evening and morning are probably the best times for meditation.",
+      "path": "audio/1971-318/09.mp3",
+      "start": 46.871723,
+      "end": 51.006280999999994
+    },
+    {
+      "index": 9,
+      "text": "You might have noticed that when the mind is recovering from sleep it takes at least fifteen minutes to close one aperture and fully open the other.",
+      "path": "audio/1971-318/10.mp3",
+      "start": 52.544739,
+      "end": 61.62
+    }
+  ]
+}

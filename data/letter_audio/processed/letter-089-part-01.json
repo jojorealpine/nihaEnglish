@@ -1,0 +1,58 @@
+{
+  "key": "letter-089-part-01",
+  "number": 89,
+  "generationId": "01a1e630-c726-754f-8aff-c2a630dda3f2",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-89/01.mp3",
+      "start": 0.0,
+      "end": 0.711882
+    },
+    {
+      "index": 1,
+      "text": "Once the ego is surrendered there is no suffering, no sorrow, for the ego is basically the cause of all suffering, and the moment it is seen that everything is God there is no more cause for complaint.",
+      "path": "audio/1970-89/02.mp3",
+      "start": 2.1256239999999997,
+      "end": 15.373628
+    },
+    {
+      "index": 2,
+      "text": "Where complaining has ended, there is prayer.",
+      "path": "audio/1970-89/03.mp3",
+      "start": 16.906145,
+      "end": 19.824127
+    },
+    {
+      "index": 3,
+      "text": "It is a feeling of gratitude, it is trust in God.",
+      "path": "audio/1970-89/04.mp3",
+      "start": 21.244082,
+      "end": 24.943333000000003
+    },
+    {
+      "index": 4,
+      "text": "In this trust in God, benediction pours.",
+      "path": "audio/1970-89/05.mp3",
+      "start": 26.401474,
+      "end": 29.933696
+    },
+    {
+      "index": 5,
+      "text": "Trust and know.",
+      "path": "audio/1970-89/06.mp3",
+      "start": 31.282335999999997,
+      "end": 32.899048
+    },
+    {
+      "index": 6,
+      "text": "It is very difficult to trust - there is no austerity greater than accepting life as it is.",
+      "path": "audio/1970-89/07.mp3",
+      "start": 34.354739,
+      "end": 40.91
+    }
+  ]
+}

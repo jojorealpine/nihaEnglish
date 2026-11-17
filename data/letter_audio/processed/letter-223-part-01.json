@@ -1,0 +1,51 @@
+{
+  "key": "letter-223-part-01",
+  "number": 223,
+  "generationId": "01a1e8f3-bb39-742e-b111-3358e6849803",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-223/01.mp3",
+      "start": 0.0,
+      "end": 0.728005
+    },
+    {
+      "index": 1,
+      "text": "Philosophy cannot cure you of questions - on the contrary, it can give you more.",
+      "path": "audio/1971-223/02.mp3",
+      "start": 2.2643079999999998,
+      "end": 7.606281
+    },
+    {
+      "index": 2,
+      "text": "I heard this at a chemist's shop:",
+      "path": "audio/1971-223/03.mp3",
+      "start": 9.132902000000001,
+      "end": 11.053536999999999
+    },
+    {
+      "index": 3,
+      "text": "Did the patent medicine you purchased cure your aunt?",
+      "path": "audio/1971-223/04.mp3",
+      "start": 12.532063,
+      "end": 15.172312999999999
+    },
+    {
+      "index": 4,
+      "text": "Good heavens, no.",
+      "path": "audio/1971-223/05.mp3",
+      "start": 16.725849999999998,
+      "end": 17.864399000000002
+    },
+    {
+      "index": 5,
+      "text": "On reading the wrapper around the bottle she got two more diseases.",
+      "path": "audio/1971-223/06.mp3",
+      "start": 19.371111,
+      "end": 23.72
+    }
+  ]
+}

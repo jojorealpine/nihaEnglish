@@ -1,0 +1,279 @@
+{
+  "sourceHash": "c95a99b39eaaf7a8c35d59173595dbd65bfd9aac3170b45f09f623a7caa98a53",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "편지를 받았어요.",
+        "explanation": "이 문장은 작성자가 수신자로부터 받은 편지를 확인했다는 의미를 전달합니다.",
+        "grammar": "동사 「have」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "letter",
+            "meaning": "편지",
+            "note": "개인이나 조직 간의 메시지를 전달하기 위해 작성된 서면 문서입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "perfect",
+      "notes": {
+        "korean": "당신은 시에 대해 물어보셨습니다.",
+        "explanation": "이 문장은 누군가에게 시에 대한 질문을 했다는 사실을 전달합니다.",
+        "grammar": "「have asked」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "asked",
+            "meaning": "물었다",
+            "note": "다른 사람에게 어떤 질문을 했다는 의미로, 요청이나 질문을 제기하는 행위를 나타냅니다."
+          },
+          {
+            "word": "poem",
+            "meaning": "시",
+            "note": "문학 작품의 한 종류로서, 운율과 리듬을 가진 언어의 예술적 표현을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "세상의 바퀴는 계속 돌아가지만, 왜 그 바퀴와 함께 돌아가야 할까요?",
+        "explanation": "이 문장은 세상의 끊임없는 변화와 흐름 속에서 개인이 어떻게 자신의 길을 선택하고 독립적으로 살아갈 수 있는지를 질문합니다.",
+        "grammar": "동사 「keeps」는 keep의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "wheel",
+            "meaning": "바퀴",
+            "note": "여기서는 세상의 끊임없는 변화나 순환을 상징적으로 나타냅니다."
+          },
+          {
+            "word": "spinning",
+            "meaning": "돌다",
+            "note": "세상의 흐름이나 변화의 지속적인 움직임을 의미하며, 수동적으로 그 흐름에 휩쓸리는 것을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "파도를 보고 바다가라고 생각하는 것은 큰 오류이다.",
+        "explanation": "문장은 파도만을 보고 전체적인 바다의 본질을 잘못 이해하는 것이 얼마나 잘못된 판단인지 강조한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "terrible",
+            "meaning": "끔찍한",
+            "note": "이 문맥에서는 오류의 심각성을 강조하는 강한 부정적 의미를 지닌다."
+          },
+          {
+            "word": "mistake",
+            "meaning": "오류",
+            "note": "파도만을 보고 전체 바다의 본질을 잘못 이해하는 행위를 지칭한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "시간이 지나면서 사람들은 모든 변화 뒤에 변하지 않는 것을 마주하게 된다.",
+        "explanation": "시간이 흐름에 따라 사람들이 관찰하게 되는 근본적인 불변의 개념이나 원리를 설명한다.",
+        "grammar": "동사 「begins」는 begin의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "encounter",
+            "meaning": "마주치다, 만나다",
+            "note": "이 문맥에서는 어떤 개념이나 원리와의 만남이나 인식을 의미한다."
+          },
+          {
+            "word": "changeless",
+            "meaning": "변하지 않는, 불변의",
+            "note": "모든 변화 속에서도 그대로 유지되는 본질적인 특성을 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "파도는 이 바다의 표면에 있지만 그 깊은 곳에는 무엇이 있을까?",
+        "explanation": "문장은 물리적인 바다의 표면과 대조적으로 그 깊은 곳에 존재하는 본질적인 것에 대해 질문하고 있다. 표면은 변화무쌍한 현상을 나타내는 반면, 깊은 곳은 변하지 않는 본질을 상징한다.",
+        "grammar": "동사 「lie」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "surface",
+            "meaning": "표면",
+            "note": "물리적인 바다의 위쪽 부분을 가리키며, 변화와 움직임을 상징한다."
+          },
+          {
+            "word": "depths",
+            "meaning": "깊은 곳",
+            "note": "바다의 가장 안쪽 부분을 의미하며, 불변성과 본질을 상징한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "11": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "너가 읽어주면 내가 듣고, 그러면 너와 네 시를 읽을 수 있을 거야.",
+        "explanation": "이 문장은 화자가 직접 읽어주는 것을 통해 상대방의 말과 시의 의미를 더 깊이 이해할 수 있다는 내용을 담고 있다.",
+        "grammar": "「shall listen」에서 조동사 shall 뒤에 동사원형 「listen」가 옵니다. shall은 문맥에 따라 미래·의지·제안 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "read",
+            "meaning": "읽다",
+            "note": "여기서는 누군가가 읽어주는 행위를 의미하며, 직접적인 이해와 해석의 과정을 나타낸다."
+          },
+          {
+            "word": "listen",
+            "meaning": "듣다",
+            "note": "단순히 소리를 듣는 것이 아니라, 상대방의 말과 시의 의미를 주의 깊게 이해하려는 의지를 나타낸다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "read out",
+            "meaning": "읽어주다",
+            "explanation": "누군가가 대신 읽어주는 상황을 나타내며, 이는 직접 읽는 것과는 약간 다른 맥락에서 사용된다."
+          }
+        ]
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "10": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "누군가가 조금 읽어주자, 나는 이렇게 생각했다: 너 스스로 그 시를 읽어주는 것을 들어야겠어!",
+        "explanation": "누군가가 시의 일부분을 읽어주자마자, 화자는 직접 그 시를 읽어주는 것이 더 좋다고 느꼈다는 내용입니다.",
+        "grammar": "「should hear」에서 조동사 should 뒤에 동사원형 「hear」가 옵니다. should은 문맥에 따라 조언·의무·예상 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "little",
+            "meaning": "조금",
+            "note": "여기서는 시의 일부분을 가리키는 정도의 양을 의미합니다."
+          },
+          {
+            "word": "piece",
+            "meaning": "조각",
+            "note": "이 문맥에서는 시의 일부분을 의미하며, 전체 시의 일부분을 읽어준 것을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "perfect",
+      "notes": {
+        "korean": "몸과 마음 뒤에 무엇이 있는지 보라; 그것은 결코 움직이지 않았고, 움직이지 않고 있으며, 결코 움직일 수 없으며, 그것이 바로 너이니라, tat twam asi.",
+        "explanation": "이 문장은 내면의 진정한 자아를 찾고 이해해야 함을 강조하며, 외부의 몸과 마음의 변화무쌍함과 대비시킵니다. 진정한 자아는 불변의 존재임을 설명합니다.",
+        "grammar": "「has never moved」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "body",
+            "meaning": "몸",
+            "note": "물리적인 육체적 존재를 의미하며, 변화와 제약을 받는 대상으로 설명됩니다."
+          },
+          {
+            "word": "moving",
+            "meaning": "움직이는",
+            "note": "변화와 변동성을 나타내며, 이 문맥에서는 몸과 마음의 끊임없는 변화를 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "소의 마차 바퀴를 보세요: 바퀴가 돌아가는 이유는 축이 움직이지 않기 때문입니다. 따라서 자신의 축을 기억하세요, 서 있거나 앉아 있거나 잠들어 있거나 깨어 있더라도 항상 염두에 두세요.",
+        "explanation": "이 문장은 비유를 통해 내면의 중심이나 본질적인 자아를 유지하는 것의 중요성을 강조합니다. 외부 요인에 휘둘리지 않고 내면의 안정감을 유지하라는 메시지를 전달합니다.",
+        "grammar": "동사원형 「remember」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "bullock",
+            "meaning": "소가 끄는 마차",
+            "note": "이 문맥에서는 비유적인 표현으로 사용되어, 외부의 힘에 의해 움직이는 상황을 상징합니다."
+          },
+          {
+            "word": "remember",
+            "meaning": "기억하라",
+            "note": "자신의 중심이나 본질적인 가치를 잊지 말라는 강조의 의미를 담고 있습니다."
+          },
+          {
+            "word": "standing",
+            "meaning": "서 있는",
+            "note": "다양한 상태(서 있거나 앉거나 잠거나 깨어 있거나)에서도 중심을 유지하라는 의미를 나타냅니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "wheel turns because the axle does not",
+            "meaning": "바퀴가 돌아가는 이유는 축이 움직이지 않기 때문입니다",
+            "explanation": "비유적인 표현으로, 외부 요인의 움직임에도 불구하고 내부의 중심축이 안정적으로 유지되어야 함을 설명합니다."
+          }
+        ]
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

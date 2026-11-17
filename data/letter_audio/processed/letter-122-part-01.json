@@ -1,0 +1,72 @@
+{
+  "key": "letter-122-part-01",
+  "number": 122,
+  "generationId": "01a1e694-8c94-74e4-bfac-4bab712634b4",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-122/01.mp3",
+      "start": 0.0,
+      "end": 0.638073
+    },
+    {
+      "index": 1,
+      "text": "You long for the sun and you will get it for sure, but you have to have the courage to burn!",
+      "path": "audio/1970-122/02.mp3",
+      "start": 1.99127,
+      "end": 7.11229
+    },
+    {
+      "index": 2,
+      "text": "You can't reach the light without dying, for ego is darkness, and besides, the sun isn't anywhere outside but is born within when everything else there burns.",
+      "path": "audio/1970-122/03.mp3",
+      "start": 8.517370000000001,
+      "end": 18.624467000000003
+    },
+    {
+      "index": 3,
+      "text": "When the self is alight - that is the light.",
+      "path": "audio/1970-122/04.mp3",
+      "start": 19.851542,
+      "end": 22.016327
+    },
+    {
+      "index": 4,
+      "text": "The fear of dying is darkness, the jump into death is the light.",
+      "path": "audio/1970-122/05.mp3",
+      "start": 23.390748,
+      "end": 26.933129
+    },
+    {
+      "index": 5,
+      "text": "Die, and know this!",
+      "path": "audio/1970-122/06.mp3",
+      "start": 28.124534999999998,
+      "end": 29.685850000000002
+    },
+    {
+      "index": 6,
+      "text": "Disappear, and you will find it.",
+      "path": "audio/1970-122/07.mp3",
+      "start": 30.9222,
+      "end": 32.703672999999995
+    },
+    {
+      "index": 7,
+      "text": "That is why I say love is prayer - it is the first lesson in death.",
+      "path": "audio/1970-122/08.mp3",
+      "start": 34.001542,
+      "end": 37.794286
+    },
+    {
+      "index": 8,
+      "text": "Regards to all.",
+      "path": "audio/1970-122/09.mp3",
+      "start": 38.948118,
+      "end": 40.31
+    }
+  ]
+}

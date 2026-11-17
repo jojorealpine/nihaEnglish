@@ -1,0 +1,44 @@
+{
+  "key": "letter-345-part-01",
+  "number": 345,
+  "generationId": "01a1e915-4f65-7411-94e1-4c48708e5c7a",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-345/01.mp3",
+      "start": 0.0,
+      "end": 0.624172
+    },
+    {
+      "index": 1,
+      "text": "Look at yourself without thinking, evaluating, or judging, without any liking or disliking; that is, without any movement of the mind or without the noise of the mind.",
+      "path": "audio/1971-345/02.mp3",
+      "start": 2.261066,
+      "end": 13.547255999999999
+    },
+    {
+      "index": 2,
+      "text": "Then you have eyes which are altogether different from your eyes because they are not burdened by the past.",
+      "path": "audio/1971-345/03.mp3",
+      "start": 15.060544,
+      "end": 21.366553
+    },
+    {
+      "index": 3,
+      "text": "They are innocent and silent, and in this silence there is neither the observer nor the observed - but that which is, undivided and one, beginningless and endless.",
+      "path": "audio/1971-345/04.mp3",
+      "start": 22.759615,
+      "end": 34.277074999999996
+    },
+    {
+      "index": 4,
+      "text": "You can call it God or nirvana or anything whatsoever - the name does not matter because the name is not the thing, and when one has known the thing one does not bother about the value.",
+      "path": "audio/1971-345/05.mp3",
+      "start": 35.646961000000005,
+      "end": 48.2
+    }
+  ]
+}

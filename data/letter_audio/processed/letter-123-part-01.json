@@ -1,0 +1,79 @@
+{
+  "key": "letter-123-part-01",
+  "number": 123,
+  "generationId": "01a1e694-b57f-7ac3-9c9b-eb3227b73dd2",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-123/01.mp3",
+      "start": 0.0,
+      "end": 0.531587
+    },
+    {
+      "index": 1,
+      "text": "Do not look for a purpose in life but live, and live totally.",
+      "path": "audio/1970-123/02.mp3",
+      "start": 1.6967569999999998,
+      "end": 4.785147
+    },
+    {
+      "index": 2,
+      "text": "Do not be serious and grave but turn life into a dance.",
+      "path": "audio/1970-123/03.mp3",
+      "start": 5.913061,
+      "end": 8.954013999999999
+    },
+    {
+      "index": 3,
+      "text": "Dance - like the waves on the sea! Blossom - like the flowers in spring!",
+      "path": "audio/1970-123/04.mp3",
+      "start": 10.009093,
+      "end": 15.147506
+    },
+    {
+      "index": 4,
+      "text": "Sing - as the birds do continuously!",
+      "path": "audio/1970-123/05.mp3",
+      "start": 16.164579999999997,
+      "end": 18.627188
+    },
+    {
+      "index": 5,
+      "text": "All without purpose, for no reason; then purpose is there, and all mystery is solved",
+      "path": "audio/1970-123/06.mp3",
+      "start": 19.769592,
+      "end": 25.351655
+    },
+    {
+      "index": 6,
+      "text": "The famous physician Rocky Tonsky once asked a student: What is the purpose of life?",
+      "path": "audio/1970-123/07.mp3",
+      "start": 26.796984,
+      "end": 32.31839
+    },
+    {
+      "index": 7,
+      "text": "What is its meaning?",
+      "path": "audio/1970-123/08.mp3",
+      "start": 33.754966,
+      "end": 34.983311
+    },
+    {
+      "index": 8,
+      "text": "The student hesitated and stammered, as if trying to remember, then said: Yesterday I knew, but right now I seem to have forgotten.",
+      "path": "audio/1970-123/09.mp3",
+      "start": 36.569342000000006,
+      "end": 44.91415
+    },
+    {
+      "index": 9,
+      "text": "Rocky Tonsky looked up at the sky and cried: God in heaven!",
+      "path": "audio/1970-123/10.mp3",
+      "start": 46.542132,
+      "end": 51.23
+    }
+  ]
+}

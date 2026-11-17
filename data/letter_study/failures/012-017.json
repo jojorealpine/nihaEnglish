@@ -1,0 +1,5 @@
+{
+  "english": "Only the results can be observed not the progress.",
+  "error": "No vocabulary grounded in English source",
+  "response": "```json\n{\n  \"korean\": \"결과만 관찰할 수 있고, 성장 과정은 보이지 않고 알려져 있지 않다.\",\n  \"explanation\": \"생명 에너지의 성장은 눈에 보이지 않고 알려지지 않은 상태로 이루어진다는 의미이다. 관찰 가능한 것은 그 결과뿐이다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"결과\",\n      \"meaning\": \"결과\",\n      \"note\": \"문장에서 관찰 가능한 최종적인 결과를 의미한다.\"\n    },\n    {\n      \"word\": \"성장\",\n      \"meaning\": \"성장\",\n      \"note\": \"생명 에너지의 발전이나 증가 과정을 나타낸다.\"\n    }\n  ],\n  \"expressions\": [\n    {\n      \"expression\": \"관찰할 수 있다\",\n      \"meaning\": \"볼 수 있거나 확인할 수 있다\",\n      \"explanation\": \"눈으로 직접 볼 수 있는 것뿐만 아니라 확인 가능한 상태를 의미한다.\"\n    }\n  ]\n}\n```"
+}

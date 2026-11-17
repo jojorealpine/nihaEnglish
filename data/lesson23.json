@@ -1,0 +1,334 @@
+{
+  "id": "1965-23",
+  "title": "1965 / 23",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "looked",
+      "meaning": "찾다",
+      "note": "여기서는 적극적으로 편지를 찾는 행동을 나타냅니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "yesterday",
+      "meaning": "어제",
+      "note": "구체적인 시간을 나타내어 사건의 발생 시점을 명확히 합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "kept",
+      "meaning": "계속하다",
+      "note": "지속적으로 어떤 행동을 이어갔음을 나타냅니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "waiting",
+      "meaning": "기다리다",
+      "note": "특정 사건이나 사람을 기대하며 시간을 보내는 상황을 의미합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "evening",
+      "meaning": "저녁",
+      "note": "시간을 나타내며, 이 경우 특정 사건이나 도착이 저녁 시간대에 발생했다는 것을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "write",
+      "meaning": "쓰다",
+      "note": "여기서는 표현이나 글을 작성하는 행위를 의미하며, 짧은 문장으로 많은 내용을 전달하는 능력을 칭찬하는 맥락에서 사용됩니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "needed",
+      "meaning": "필요한",
+      "note": "여기서는 표현의 충분함과 간결함을 강조하며, 많은 말이 필요하지 않음을 나타낸다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "contained",
+      "meaning": "담기다",
+      "note": "비유적으로 사용되어, 큰 감정이나 개념(예: 사랑의 바다)을 작은 공간(예: 항아리)에 비유적으로 담을 수 있음을 나타낸다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "scriptures",
+      "meaning": "경전",
+      "note": "여기서는 종교적 또는 철학적 가르침을 담고 있는 중요한 문헌을 가리킨다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "letters",
+      "meaning": "글자",
+      "note": "이 문맥에서는 '사랑'이라는 단어의 핵심적인 구성 요소를 나타내며, 사랑의 본질을 간결하게 표현하는 데 필요한 최소한의 요소를 의미한다.",
+      "sentenceIds": [
+        6,
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "times",
+      "meaning": "번, 횟수",
+      "note": "여기서는 편지를 읽은 횟수를 나타낸다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1965-23/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "I looked for your letter as soon as I got here yesterday.",
+      "korean": "어제 도착하자마자 네 편지를 찾았어.",
+      "explanation": "편지를 기다리던 사람이 도착한 직후에 편지를 찾았음을 표현합니다.",
+      "grammar": "동사 「looked」는 look의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1965-23/02.mp3",
+      "vocabulary": [
+        {
+          "word": "looked",
+          "meaning": "찾다",
+          "note": "여기서는 적극적으로 편지를 찾는 행동을 나타냅니다."
+        },
+        {
+          "word": "yesterday",
+          "meaning": "어제",
+          "note": "구체적인 시간을 나타내어 사건의 발생 시점을 명확히 합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Though it was Sunday, I kept waiting for it.",
+      "korean": "일요일이었지만 계속해서 기다렸어요.",
+      "explanation": "원문에서 표현된 것처럼, 주말인 일요일에도 불구하고 편지를 받기 위해 계속해서 기다림을 지속했다는 의미입니다.",
+      "grammar": "동사 「kept」는 keep의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1965-23/03.mp3",
+      "vocabulary": [
+        {
+          "word": "kept",
+          "meaning": "계속하다",
+          "note": "지속적으로 어떤 행동을 이어갔음을 나타냅니다."
+        },
+        {
+          "word": "waiting",
+          "meaning": "기다리다",
+          "note": "특정 사건이나 사람을 기대하며 시간을 보내는 상황을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "It came this evening - how much you write in so few words!",
+      "korean": "오늘 저녁에 왔군요 - 이렇게 적은 단어로 얼마나 많은 것을 표현하는지 놀랍습니다!",
+      "explanation": "문장은 예상치 못한 도착에 대한 놀라움과 함께 짧은 표현으로 많은 의미를 전달하는 능력에 대한 감탄을 나타냅니다.",
+      "grammar": "동사 「came」는 come의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1965-23/04.mp3",
+      "vocabulary": [
+        {
+          "word": "evening",
+          "meaning": "저녁",
+          "note": "시간을 나타내며, 이 경우 특정 사건이나 도착이 저녁 시간대에 발생했다는 것을 의미합니다."
+        },
+        {
+          "word": "write",
+          "meaning": "쓰다",
+          "note": "여기서는 표현이나 글을 작성하는 행위를 의미하며, 짧은 문장으로 많은 내용을 전달하는 능력을 칭찬하는 맥락에서 사용됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "When the heart is full it pours into the words and so few are needed An ocean of love can be contained in just a jug!",
+      "korean": "마음이 가득 차면 그 감정이 단어로 흘러나와 몇 개의 단어만으로도 충분해진다. 사랑의 바다를 단지 항아리 하나에 담을 수 있을 정도로.",
+      "explanation": "이 문장은 감정이 풍부할 때 적은 수의 단어로도 깊은 감정을 표현할 수 있음을 강조한다. 사랑의 강렬함이 적은 표현으로도 충분히 전달될 수 있음을 비유적으로 설명한다.",
+      "grammar": "동사 「pours」는 pour의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1965-23/05.mp3",
+      "vocabulary": [
+        {
+          "word": "needed",
+          "meaning": "필요한",
+          "note": "여기서는 표현의 충분함과 간결함을 강조하며, 많은 말이 필요하지 않음을 나타낸다."
+        },
+        {
+          "word": "contained",
+          "meaning": "담기다",
+          "note": "비유적으로 사용되어, 큰 감정이나 개념(예: 사랑의 바다)을 작은 공간(예: 항아리)에 비유적으로 담을 수 있음을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "As for scriptures on love - it is enough to know the four letters of the word!",
+      "korean": "사랑에 대한 경전은 단지 사랑이라는 단어의 네 글자만 알면 충분하다.",
+      "explanation": "이 문장은 사랑에 대한 깊은 이해가 복잡한 경전이나 설명이 아닌 단순히 '사랑'이라는 단어의 본질적인 의미를 이해하는 것으로 충분하다는 주장을 한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1965-23/06.mp3",
+      "vocabulary": [
+        {
+          "word": "scriptures",
+          "meaning": "경전",
+          "note": "여기서는 종교적 또는 철학적 가르침을 담고 있는 중요한 문헌을 가리킨다."
+        },
+        {
+          "word": "letters",
+          "meaning": "글자",
+          "note": "이 문맥에서는 '사랑'이라는 단어의 핵심적인 구성 요소를 나타내며, 사랑의 본질을 간결하게 표현하는 데 필요한 최소한의 요소를 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Do you know how many times I read through your letters?",
+      "korean": "네 편지를 얼마나 많이 읽었는지 알아?",
+      "explanation": "이 문장은 질문자가 수신자의 편지를 얼마나 자주 읽었는지에 대해 묻고 있다.",
+      "grammar": "조동사 「Do」가 본동사 「know」와 함께 쓰였습니다. 의문문을 만들거나 동작을 강조할 때 do/does/did 뒤의 본동사는 원형을 유지합니다.",
+      "audio": "audio/1965-23/07.mp3",
+      "vocabulary": [
+        {
+          "word": "times",
+          "meaning": "번, 횟수",
+          "note": "여기서는 편지를 읽은 횟수를 나타낸다."
+        },
+        {
+          "word": "letters",
+          "meaning": "편지",
+          "note": "수신자로부터 온 편지들을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "어제 도착하자마자 네 편지를 찾았어. 일요일이었지만 계속해서 기다렸어요. 오늘 저녁에 왔군요 - 이렇게 적은 단어로 얼마나 많은 것을 표현하는지 놀랍습니다! 마음이 가득 차면 그 감정이 단어로 흘러나와 몇 개의 단어만으로도 충분해진다. 사랑의 바다를 단지 항아리 하나에 담을 수 있을 정도로. 사랑에 대한 경전은 단지 사랑이라는 단어의 네 글자만 알면 충분하다. 네 편지를 얼마나 많이 읽었는지 알아?"
+  ],
+  "fullAudio": "audio/1965-23/script_all.mp3",
+  "originalText": "Love.\n\nI looked for your letter as soon as I got here yesterday.\nThough it was Sunday, I kept waiting for it.\nIt came this evening -\nhow much you write in so few words!\nWhen the heart is full it pours into the words\nand so few are needed\nAn ocean of love can be contained in just a jug!\nAs for scriptures on love -\nit is enough to know the four letters of the word!\nDo you know how many times I read\nthrough your letters?",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 23,
+    "year": 1965,
+    "pages": [
+      {
+        "file": "IMG_0785 2.JPG",
+        "side": "right",
+        "printedPage": 23
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "audioVoice": "Views",
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  }
+}

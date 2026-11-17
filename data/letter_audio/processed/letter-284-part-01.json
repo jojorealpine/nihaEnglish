@@ -1,0 +1,79 @@
+{
+  "key": "letter-284-part-01",
+  "number": 284,
+  "generationId": "01a1e901-f333-7164-afe3-6d4794499d6c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Dear Mukta.",
+      "path": "audio/1971-284/01.mp3",
+      "start": 0.0,
+      "end": 1.0536050000000001
+    },
+    {
+      "index": 1,
+      "text": "Love.",
+      "path": "audio/1971-284/02.mp3",
+      "start": 2.314422,
+      "end": 3.135669
+    },
+    {
+      "index": 2,
+      "text": "Yes, you were related to Yoga Vivek in one of your past lives.",
+      "path": "audio/1971-284/03.mp3",
+      "start": 4.416259,
+      "end": 9.019615
+    },
+    {
+      "index": 3,
+      "text": "Now many things will be remembered by you soon because the key is in your hands.",
+      "path": "audio/1971-284/04.mp3",
+      "start": 10.410839000000001,
+      "end": 15.502789
+    },
+    {
+      "index": 4,
+      "text": "But do not think about them at all, otherwise your imagination will get mixed up with the memories and then it will be difficult to know what is real and what is not.",
+      "path": "audio/1971-284/05.mp3",
+      "start": 16.819274,
+      "end": 27.228503
+    },
+    {
+      "index": 5,
+      "text": "So always be aware from now on that you do not think about past lives: let the memories come up by themselves.",
+      "path": "audio/1971-284/06.mp3",
+      "start": 28.681224,
+      "end": 36.190295
+    },
+    {
+      "index": 6,
+      "text": "No conscious effort on your part is needed; on the contrary it will be a great hindrance.",
+      "path": "audio/1971-284/07.mp3",
+      "start": 37.676916000000006,
+      "end": 43.935306
+    },
+    {
+      "index": 7,
+      "text": "Let the unconscious do the work, you be just a witness, and as the meditation goes deeper many locked doors will be opened to you.",
+      "path": "audio/1971-284/08.mp3",
+      "start": 45.45093,
+      "end": 54.02288
+    },
+    {
+      "index": 8,
+      "text": "But always remember to wait for the mysteries to reveal themselves.",
+      "path": "audio/1971-284/09.mp3",
+      "start": 55.595760000000006,
+      "end": 59.676756999999995
+    },
+    {
+      "index": 9,
+      "text": "The seed is broken - and much is to follow.",
+      "path": "audio/1971-284/10.mp3",
+      "start": 61.143537,
+      "end": 64.91
+    }
+  ]
+}

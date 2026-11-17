@@ -1,0 +1,79 @@
+{
+  "key": "letter-040-part-01",
+  "number": 40,
+  "generationId": "01a1e4ed-2c62-7e5e-9827-ddd3c8956acb",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1966-40/01.mp3",
+      "start": 0.0,
+      "end": 0.649002
+    },
+    {
+      "index": 1,
+      "text": "I received your letter on my return.",
+      "path": "audio/1966-40/02.mp3",
+      "start": 1.883651,
+      "end": 3.773129
+    },
+    {
+      "index": 2,
+      "text": "I welcome this birth of determination in you.",
+      "path": "audio/1966-40/03.mp3",
+      "start": 5.167982,
+      "end": 7.9153970000000005
+    },
+    {
+      "index": 3,
+      "text": "Such strength of will alone takes us to truth",
+      "path": "audio/1966-40/04.mp3",
+      "start": 9.257619,
+      "end": 11.969683
+    },
+    {
+      "index": 4,
+      "text": "Our deepest powers are aroused by it, the unorganized energy becomes organized and then there is music.",
+      "path": "audio/1966-40/05.mp3",
+      "start": 13.335578,
+      "end": 19.380023
+    },
+    {
+      "index": 5,
+      "text": "What tremendous energy exists in this atom of self!",
+      "path": "audio/1966-40/06.mp3",
+      "start": 20.817483,
+      "end": 24.008798000000002
+    },
+    {
+      "index": 6,
+      "text": "But it can't be known without utter intensity of will.",
+      "path": "audio/1966-40/07.mp3",
+      "start": 25.772063,
+      "end": 28.980771
+    },
+    {
+      "index": 7,
+      "text": "You must have seen rocks that even the strongest chisel cannot break, and yet the sprouting shrub or plant slips cracks and crevices through it so easily!",
+      "path": "audio/1966-40/08.mp3",
+      "start": 30.578073,
+      "end": 39.900703
+    },
+    {
+      "index": 8,
+      "text": "When the tiniest seed is filled with determination to push through and reach the sun, even the hardest rock has to give way.",
+      "path": "audio/1966-40/09.mp3",
+      "start": 41.373016,
+      "end": 49.489636999999995
+    },
+    {
+      "index": 9,
+      "text": "So a weak seed wins over the mighty rocks!",
+      "path": "audio/1966-40/10.mp3",
+      "start": 50.958707000000004,
+      "end": 55.35
+    }
+  ]
+}

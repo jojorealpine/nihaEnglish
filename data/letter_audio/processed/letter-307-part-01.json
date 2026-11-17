@@ -1,0 +1,79 @@
+{
+  "key": "letter-307-part-01",
+  "number": 307,
+  "generationId": "01a1e907-e5a5-7542-88e4-ae15442009df",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love",
+      "path": "audio/1971-307/01.mp3",
+      "start": 0.0,
+      "end": 0.685601
+    },
+    {
+      "index": 1,
+      "text": "Meditation cannot be taught directly because it is not a mechanical technique, but a living art.",
+      "path": "audio/1971-307/02.mp3",
+      "start": 1.9122,
+      "end": 8.23458
+    },
+    {
+      "index": 2,
+      "text": "Dogo had a disciple called Soshin.",
+      "path": "audio/1971-307/03.mp3",
+      "start": 9.709592,
+      "end": 12.324285999999999
+    },
+    {
+      "index": 3,
+      "text": "Soshin waited long with his master to be taught the art of meditation.",
+      "path": "audio/1971-307/04.mp3",
+      "start": 13.818821000000002,
+      "end": 17.984558
+    },
+    {
+      "index": 4,
+      "text": "He expected lessons the way a schoolboy is taught at school, but there no special lessons were forthcoming, and this bewildered and disappointed the disciple.",
+      "path": "audio/1971-307/05.mp3",
+      "start": 19.385533,
+      "end": 29.078526
+    },
+    {
+      "index": 5,
+      "text": "One day he said to the master: It is a long time since I came here but not a word has been given to me regarding the essence of meditation.",
+      "path": "audio/1971-307/06.mp3",
+      "start": 30.46254,
+      "end": 40.262992999999994
+    },
+    {
+      "index": 6,
+      "text": "Dogo laughed at this heartily and said: What are you saying, my boy?",
+      "path": "audio/1971-307/07.mp3",
+      "start": 41.890159000000004,
+      "end": 46.52542
+    },
+    {
+      "index": 7,
+      "text": "Since your arrival I have continually been giving you lessons on the matter!",
+      "path": "audio/1971-307/08.mp3",
+      "start": 48.090181,
+      "end": 52.896054
+    },
+    {
+      "index": 8,
+      "text": "At this the poor disciple was even more bewildered and for some time he could not think what to say.",
+      "path": "audio/1971-307/09.mp3",
+      "start": 54.442948,
+      "end": 61.194829999999996
+    },
+    {
+      "index": 9,
+      "text": "Then one day he gathered courage and asked again: What kind of lesson could it have been, sir?",
+      "path": "audio/1971-307/10.mp3",
+      "start": 62.829206,
+      "end": 70.95
+    }
+  ]
+}

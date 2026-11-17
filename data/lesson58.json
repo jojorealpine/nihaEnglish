@@ -1,0 +1,751 @@
+{
+  "id": "1969-58",
+  "title": "1969 / 58",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1,
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "letter",
+      "meaning": "편지",
+      "note": "직접적인 메시지 전달 수단",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "filled",
+      "meaning": "가득 채웠다",
+      "note": "감정적인 영향을 강하게 표현",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "threshold",
+      "meaning": "문턱",
+      "note": "여기서는 변혁이나 변화의 시작 단계를 의미한다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "revolution",
+      "meaning": "혁명",
+      "note": "큰 변화나 변혁을 가리키며, 개인이나 사회의 근본적인 변화를 나타낸다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "certainly",
+      "meaning": "확실히",
+      "note": "확실성을 강조하며, 상황이 불가피함을 나타냅니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "perish",
+      "meaning": "소멸하다",
+      "note": "여기서는 혁명 과정에서의 고통스러운 변화나 소멸을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Gold",
+      "meaning": "금",
+      "note": "문장에서 금속 금을 의미한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "purified",
+      "meaning": "순수해지다",
+      "note": "불을 겪음으로써 더러움이 제거되고 순수해진다는 의미.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "burns",
+      "meaning": "소멸시키다, 태우다",
+      "note": "비유적으로 사용되어 자아의 제약이나 부정적인 요소들이 소멸되기를 바라는 의미",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "prayer",
+      "meaning": "기도",
+      "note": "신에게 바치는 간절한 부탁이나 소망을 의미한다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "possible",
+      "meaning": "가능한",
+      "note": "특정 상황이나 조건 하에서 이루어질 수 있는 상태를 나타낸다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Remember",
+      "meaning": "기억하라",
+      "note": "주의를 환기시키거나 중요한 사실을 상기시키는 의미입니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "body",
+      "meaning": "몸",
+      "note": "물리적인 인간의 형태나 실체를 가리킵니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "person",
+      "meaning": "사람",
+      "note": "전체적인 인간 존재를 가리킨다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "seen",
+      "meaning": "보이는",
+      "note": "시각적으로 인식 가능한 것을 의미한다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "matter",
+      "meaning": "물질",
+      "note": "여기서는 신의 본질적인 측면이 아닌, 우리가 감각으로 인지할 수 있는 측면을 의미합니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "visible",
+      "meaning": "보이는",
+      "note": "신의 본질적인 측면은 감각으로 인지할 수 없기 때문에 '보이지 않는' 것으로 대비됩니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "naturally",
+      "meaning": "자연스럽게",
+      "note": "삶의 흐름에 순응하고 강요하지 않는 태도를 강조합니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "attitude",
+      "meaning": "자세, 태도",
+      "note": "여기서는 어떤 상황이나 대상에 대한 마음가짐이나 태도를 의미합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "acceptance",
+      "meaning": "수용, 받아들임",
+      "note": "완전한 수용과 긍정적인 태도를 나타냅니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "impose",
+      "meaning": "강요하다",
+      "note": "자신의 의지나 방식을 다른 것에 강제로 적용하려는 의미입니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "discipline",
+      "meaning": "규율",
+      "note": "규칙이나 훈련을 통해 얻어지는 자기 통제와 질서의 의미입니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "totally",
+      "meaning": "완전히",
+      "note": "전체적인 또는 전적으로라는 의미로, 삶을 완전히 포용하거나 참여하려는 상태를 나타냅니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "afraid",
+      "meaning": "두려운",
+      "note": "이 문맥에서는 「두려운」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "life",
+      "meaning": "삶",
+      "note": "삶의 본질적인 의미를 가리키며, 문맥상 삶 자체에 대한 두려움을 의미한다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "penetrating",
+      "meaning": "뚫고 들어가다",
+      "note": "이 단어는 삶의 영향력이 개인의 방어벽을 넘어서 깊숙이 영향을 미치고 있다는 뉘앙스를 전달합니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "breaking",
+      "meaning": "깨다, 부수다",
+      "note": "이 단어는 개인의 안전벽이나 방어적인 태도가 무너지고 있다는 의미를 담고 있습니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "infinite",
+      "meaning": "무한한",
+      "note": "무한한 크기나 범위를 가진 것을 나타냅니다.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "showers",
+      "meaning": "내리다",
+      "note": "여기서는 비유적으로 은총이 끊임없이 내려오는 것을 의미합니다.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "accept",
+      "meaning": "받아들이다",
+      "note": "상황이나 제안을 긍정적으로 수용하는 의미입니다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "gratefully",
+      "meaning": "감사하게",
+      "note": "무언가를 진심으로 감사하는 태도로 받아들이는 것을 의미합니다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    [
+      12
+    ],
+    [
+      13,
+      14,
+      15
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1969-58/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Your letter has filled my heart with joy.",
+      "korean": "당신의 편지가 내 마음을 기쁨으로 가득 채웠어요.",
+      "explanation": "편지가 보낸 사람에게 큰 기쁨을 주었다는 의미",
+      "grammar": "「has filled」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1969-58/02.mp3",
+      "vocabulary": [
+        {
+          "word": "letter",
+          "meaning": "편지",
+          "note": "직접적인 메시지 전달 수단"
+        },
+        {
+          "word": "filled",
+          "meaning": "가득 채웠다",
+          "note": "감정적인 영향을 강하게 표현"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "You are at the threshold of a great revolution; now, even if you want to run away I will not let you.",
+      "korean": "너는 위대한 변혁의 문턱에 서 있어. 지금 비록 네가 도망치고 싶어 해도 나는 너를 놓아주지 않을 거야.",
+      "explanation": "문장은 개인의 결심과 변화의 중요성을 강조하며, 변혁의 시작 단계에서의 결심의 견고함을 표현하고 있다.",
+      "grammar": "「will not let」에서 조동사 will 뒤에 동사원형 「let」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+      "audio": "audio/1969-58/03.mp3",
+      "vocabulary": [
+        {
+          "word": "threshold",
+          "meaning": "문턱",
+          "note": "여기서는 변혁이나 변화의 시작 단계를 의미한다."
+        },
+        {
+          "word": "revolution",
+          "meaning": "혁명",
+          "note": "큰 변화나 변혁을 가리키며, 개인이나 사회의 근본적인 변화를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "You will certainly have to perish in it so that you can be reborn.",
+      "korean": "확실히 그 혁명 속에서 소멸해야만 다시 태어날 수 있을 것입니다.",
+      "explanation": "혁명의 과정을 겪어야만 새로운 시작이 가능하다는 의미입니다.",
+      "grammar": "「have to perish」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+      "audio": "audio/1969-58/04.mp3",
+      "vocabulary": [
+        {
+          "word": "certainly",
+          "meaning": "확실히",
+          "note": "확실성을 강조하며, 상황이 불가피함을 나타냅니다."
+        },
+        {
+          "word": "perish",
+          "meaning": "소멸하다",
+          "note": "여기서는 혁명 과정에서의 고통스러운 변화나 소멸을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Gold has to pass through fire - only then is it purified.",
+      "korean": "금은 불과 함께해야 순수해질 수 있다.",
+      "explanation": "금이 불을 겪어야만 순수해진다.",
+      "grammar": "「has to pass」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+      "audio": "audio/1969-58/05.mp3",
+      "vocabulary": [
+        {
+          "word": "Gold",
+          "meaning": "금",
+          "note": "문장에서 금속 금을 의미한다."
+        },
+        {
+          "word": "purified",
+          "meaning": "순수해지다",
+          "note": "불을 겪음으로써 더러움이 제거되고 순수해진다는 의미."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Love is fire for you, and I pray to God that your ego burns in it.",
+      "korean": "사랑은 당신을 위한 불과 같으며, 나는 신께 당신의 자아를 그것 속에서 소멸시키기를 기도합니다.",
+      "explanation": "사랑이 강력한 변화의 힘으로 작용하여 자아를 초월하도록 기도한다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-58/06.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑",
+          "note": "강력한 감정이나 열정을 나타내며, 여기서는 변화와 성장을 위한 힘으로 사용됨"
+        },
+        {
+          "word": "burns",
+          "meaning": "소멸시키다, 태우다",
+          "note": "비유적으로 사용되어 자아의 제약이나 부정적인 요소들이 소멸되기를 바라는 의미"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Then if love comes, prayer can come too; without love prayer is not possible.",
+      "korean": "사랑이 찾아오면 기도도 함께 올 수 있어; 사랑 없이는 기도가 불가능해.",
+      "explanation": "사랑의 존재가 기도의 가능성을 결정짓는다는 의미를 담고 있다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-58/07.mp3",
+      "vocabulary": [
+        {
+          "word": "prayer",
+          "meaning": "기도",
+          "note": "신에게 바치는 간절한 부탁이나 소망을 의미한다."
+        },
+        {
+          "word": "possible",
+          "meaning": "가능한",
+          "note": "특정 상황이나 조건 하에서 이루어질 수 있는 상태를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "Remember that body and soul are not two.",
+      "korean": "몸과 영혼은 두 가지가 아님을 기억하세요.",
+      "explanation": "몸과 영혼의 통합성을 강조하는 문장입니다.",
+      "grammar": "동사원형 「Remember」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1969-58/08.mp3",
+      "vocabulary": [
+        {
+          "word": "Remember",
+          "meaning": "기억하라",
+          "note": "주의를 환기시키거나 중요한 사실을 상기시키는 의미입니다."
+        },
+        {
+          "word": "body",
+          "meaning": "몸",
+          "note": "물리적인 인간의 형태나 실체를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "The part of the person that can be seen is the body, the part that cannot be seen is the soul.",
+      "korean": "사람의 보이는 부분은 몸이고, 보이지 않는 부분은 영혼이다.",
+      "explanation": "문장은 인간의 몸과 영혼을 구분하며, 보이는 것은 몸이고 보이지 않는 것은 영혼임을 설명한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-58/09.mp3",
+      "vocabulary": [
+        {
+          "word": "person",
+          "meaning": "사람",
+          "note": "전체적인 인간 존재를 가리킨다."
+        },
+        {
+          "word": "seen",
+          "meaning": "보이는",
+          "note": "시각적으로 인식 가능한 것을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "The same holds true for God and matter: God made visible is matter, and what cannot be seen is God Take life easily and naturally, just as it comes.",
+      "korean": "신과 물질에도 마찬가지로, 보이는 것은 물질이고 보이지 않는 것은 신입니다. 삶을 쉽고 자연스럽게 받아들이세요, 마치 그렇게 오는 것처럼요.",
+      "explanation": "신과 물질의 관계를 설명하고, 삶의 태도에 대한 조언을 담고 있습니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-58/10.mp3",
+      "vocabulary": [
+        {
+          "word": "matter",
+          "meaning": "물질",
+          "note": "여기서는 신의 본질적인 측면이 아닌, 우리가 감각으로 인지할 수 있는 측면을 의미합니다."
+        },
+        {
+          "word": "visible",
+          "meaning": "보이는",
+          "note": "신의 본질적인 측면은 감각으로 인지할 수 없기 때문에 '보이지 않는' 것으로 대비됩니다."
+        },
+        {
+          "word": "naturally",
+          "meaning": "자연스럽게",
+          "note": "삶의 흐름에 순응하고 강요하지 않는 태도를 강조합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "Welcome it in its endless forms with an attitude of complete acceptance.",
+      "korean": "완전한 수용의 자세로 무한한 형태로 그것을 환영하라.",
+      "explanation": "무한한 형태와 다양성을 가진 것을 완전히 받아들이는 태도로 환영하라는 의미입니다.",
+      "grammar": "동사 「Welcome」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1969-58/11.mp3",
+      "vocabulary": [
+        {
+          "word": "attitude",
+          "meaning": "자세, 태도",
+          "note": "여기서는 어떤 상황이나 대상에 대한 마음가짐이나 태도를 의미합니다."
+        },
+        {
+          "word": "acceptance",
+          "meaning": "수용, 받아들임",
+          "note": "완전한 수용과 긍정적인 태도를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "And do not impose yourself on life; life has its own discipline, its own wisdom, and those who are ready to live totally have no need for any other discipline or wisdom.",
+      "korean": "자신을 삶에 강요하지 마세요; 삶은 스스로의 규율과 지혜를 가지고 있으며, 완전히 살아가려는 사람들은 다른 규율이나 지혜를 필요로 하지 않습니다.",
+      "explanation": "문장은 삶에 대한 강요나 간섭을 피하고, 삶 자체가 가지고 있는 내재적인 지혜와 규율을 존중해야 함을 강조합니다. 완전한 삶을 살고자 하는 사람들은 추가적인 규율이나 지혜를 찾을 필요가 없다는 메시지를 전달합니다.",
+      "grammar": "동사 「has」는 have의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1969-58/12.mp3",
+      "vocabulary": [
+        {
+          "word": "impose",
+          "meaning": "강요하다",
+          "note": "자신의 의지나 방식을 다른 것에 강제로 적용하려는 의미입니다."
+        },
+        {
+          "word": "discipline",
+          "meaning": "규율",
+          "note": "규칙이나 훈련을 통해 얻어지는 자기 통제와 질서의 의미입니다."
+        },
+        {
+          "word": "totally",
+          "meaning": "완전히",
+          "note": "전체적인 또는 전적으로라는 의미로, 삶을 완전히 포용하거나 참여하려는 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "But you have always been afraid of life and therefore you are afraid of love.",
+      "korean": "하지만 당신은 항상 삶을 두려워해서 사랑도 두려워한다.",
+      "explanation": "문장은 개인이 삶 자체에 대한 두려움 때문에 사랑에 대한 두려움도 가지고 있음을 설명한다.",
+      "grammar": "「have always been」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1969-58/13.mp3",
+      "vocabulary": [
+        {
+          "word": "afraid",
+          "meaning": "두려운",
+          "note": "이 문맥에서는 「두려운」의 뜻으로 읽습니다."
+        },
+        {
+          "word": "life",
+          "meaning": "삶",
+          "note": "삶의 본질적인 의미를 가리키며, 문맥상 삶 자체에 대한 두려움을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "Now life has begun penetrating you, breaking your walls of security.",
+      "korean": "지금 삶이 당신의 안전벽을 뚫고 들어오기 시작했습니다.",
+      "explanation": "삶의 영향이 점차 커지면서 개인의 방어적인 태도가 약해지고 있다는 의미입니다.",
+      "grammar": "「has begun」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1969-58/14.mp3",
+      "vocabulary": [
+        {
+          "word": "penetrating",
+          "meaning": "뚫고 들어가다",
+          "note": "이 단어는 삶의 영향력이 개인의 방어벽을 넘어서 깊숙이 영향을 미치고 있다는 뉘앙스를 전달합니다."
+        },
+        {
+          "word": "breaking",
+          "meaning": "깨다, 부수다",
+          "note": "이 단어는 개인의 안전벽이나 방어적인 태도가 무너지고 있다는 의미를 담고 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "So, God's infinite grace showers on you!",
+      "korean": "그러므로 신의 무한한 은총이 당신에게 내립니다!",
+      "explanation": "신의 무한한 은총이 현재 당신에게 내려오고 있다는 의미입니다.",
+      "grammar": "「God's infinite grace」가 주어이고 「showers」는 shower의 3인칭 단수 현재형입니다. showers는 여기서 복수 명사가 아니라 은총이 쏟아진다는 뜻의 동사입니다.",
+      "audio": "audio/1969-58/15.mp3",
+      "vocabulary": [
+        {
+          "word": "infinite",
+          "meaning": "무한한",
+          "note": "무한한 크기나 범위를 가진 것을 나타냅니다."
+        },
+        {
+          "word": "showers",
+          "meaning": "내리다",
+          "note": "여기서는 비유적으로 은총이 끊임없이 내려오는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "Don't run from it now, accept it gratefully and my good wishes are always with you.",
+      "korean": "지금 피하지 말고 감사하는 마음으로 받아들이세요. 저의 좋은 바람은 항상 당신과 함께할 것입니다.",
+      "explanation": "현재 상황이나 도전을 회피하지 말고 긍정적으로 받아들이라는 조언과 함께, 지속적인 응원과 지지를 약속하는 내용입니다.",
+      "grammar": "「Don't run」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1969-58/16.mp3",
+      "vocabulary": [
+        {
+          "word": "accept",
+          "meaning": "받아들이다",
+          "note": "상황이나 제안을 긍정적으로 수용하는 의미입니다."
+        },
+        {
+          "word": "gratefully",
+          "meaning": "감사하게",
+          "note": "무언가를 진심으로 감사하는 태도로 받아들이는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "당신의 편지가 내 마음을 기쁨으로 가득 채웠어요. 너는 위대한 변혁의 문턱에 서 있어. 지금 비록 네가 도망치고 싶어 해도 나는 너를 놓아주지 않을 거야. 확실히 그 혁명 속에서 소멸해야만 다시 태어날 수 있을 것입니다.",
+    "금은 불과 함께해야 순수해질 수 있다. 사랑은 당신을 위한 불과 같으며, 나는 신께 당신의 자아를 그것 속에서 소멸시키기를 기도합니다.",
+    "사랑이 찾아오면 기도도 함께 올 수 있어; 사랑 없이는 기도가 불가능해.",
+    "몸과 영혼은 두 가지가 아님을 기억하세요. 사람의 보이는 부분은 몸이고, 보이지 않는 부분은 영혼이다. 신과 물질에도 마찬가지로, 보이는 것은 물질이고 보이지 않는 것은 신입니다. 삶을 쉽고 자연스럽게 받아들이세요, 마치 그렇게 오는 것처럼요. 완전한 수용의 자세로 무한한 형태로 그것을 환영하라. 자신을 삶에 강요하지 마세요; 삶은 스스로의 규율과 지혜를 가지고 있으며, 완전히 살아가려는 사람들은 다른 규율이나 지혜를 필요로 하지 않습니다.",
+    "하지만 당신은 항상 삶을 두려워해서 사랑도 두려워한다.",
+    "지금 삶이 당신의 안전벽을 뚫고 들어오기 시작했습니다. 그러므로 신의 무한한 은총이 당신에게 내립니다! 지금 피하지 말고 감사하는 마음으로 받아들이세요. 저의 좋은 바람은 항상 당신과 함께할 것입니다."
+  ],
+  "fullAudio": "audio/1969-58/script_all.mp3",
+  "originalText": "Love.\n\nYour letter has filled my heart with joy.\nYou are at the threshold of a great revolution; now, even\nif you want to run away I will not let you.\nYou will certainly have to perish in it\nso that you can be reborn.\n\nGold has to pass through fire - only then is it purified.\nLove is fire for you, and I pray to God\nthat your ego burns in it.\n\nThen if love comes, prayer can come too; without love\nprayer is not possible.\n\nRemember that body and soul are not two.\nThe part of the person that can be seen is the body,\nthe part that cannot be seen is the soul.\nThe same holds true for God and matter: God made\nvisible is matter, and what cannot be seen is God\nTake life easily and naturally, just as it comes.\nWelcome it in its endless forms with an attitude of\ncomplete acceptance.\nAnd do not impose yourself on life; life has its own\ndiscipline, its own wisdom,\nand those who are ready to live totally\nhave no need for any other discipline or wisdom.\n\nBut you have always been afraid of life\nand therefore you are afraid of love.\n\nNow life has begun penetrating you,\nbreaking your walls of security.\nSo, God's infinite grace showers on you!\nDon't run from it now, accept it gratefully\nand my good wishes are always with you.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 58,
+    "year": 1969,
+    "pages": [
+      {
+        "file": "IMG_0801 2.JPG",
+        "side": "left",
+        "printedPage": 52
+      },
+      {
+        "file": "IMG_0801 2.JPG",
+        "side": "right",
+        "printedPage": 53
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

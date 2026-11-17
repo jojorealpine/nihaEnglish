@@ -1,0 +1,72 @@
+{
+  "key": "letter-054-part-02",
+  "number": 54,
+  "generationId": "01a1e4f7-68d2-7f4b-816c-bafe82460d14",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "I call that sannyas the real sannyas which accepts the world with joy.",
+      "path": "audio/1969-54/11.mp3",
+      "start": 0.0,
+      "end": 4.453288
+    },
+    {
+      "index": 11,
+      "text": "Aren't samsara and moksha really one?",
+      "path": "audio/1969-54/12.mp3",
+      "start": 5.818707,
+      "end": 8.296824999999998
+    },
+    {
+      "index": 12,
+      "text": "Duality exists in ignorance, in knowledge there is only one.",
+      "path": "audio/1969-54/13.mp3",
+      "start": 9.673583,
+      "end": 13.574217999999998
+    },
+    {
+      "index": 13,
+      "text": "Oh, can that really be religion which cannot sing and dance the songs of bliss and love?",
+      "path": "audio/1969-54/14.mp3",
+      "start": 14.839569000000001,
+      "end": 19.945057000000002
+    },
+    {
+      "index": 14,
+      "text": "P.S. I hear you are due to come here.",
+      "path": "audio/1969-54/15.mp3",
+      "start": 21.393559999999997,
+      "end": 24.805057
+    },
+    {
+      "index": 15,
+      "text": "Come, and come soon.",
+      "path": "audio/1969-54/16.mp3",
+      "start": 26.300907,
+      "end": 29.020317000000002
+    },
+    {
+      "index": 16,
+      "text": "Who can trust time?",
+      "path": "audio/1969-54/17.mp3",
+      "start": 30.479886999999998,
+      "end": 32.096961
+    },
+    {
+      "index": 17,
+      "text": "Look - it is morning and the sun rises.",
+      "path": "audio/1969-54/18.mp3",
+      "start": 33.500204000000004,
+      "end": 37.261156
+    },
+    {
+      "index": 18,
+      "text": "How long will it be before it sets?",
+      "path": "audio/1969-54/19.mp3",
+      "start": 38.760839000000004,
+      "end": 41.38
+    }
+  ]
+}

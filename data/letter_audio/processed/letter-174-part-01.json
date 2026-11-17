@@ -1,0 +1,79 @@
+{
+  "key": "letter-174-part-01",
+  "number": 174,
+  "generationId": "01a1e8e5-783f-7cf1-a94d-8a9860867616",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-174/01.mp3",
+      "start": 0.0,
+      "end": 0.667279
+    },
+    {
+      "index": 1,
+      "text": "Man is always lacking, because he desires without knowing himself, because he desires to become something without knowing his being, and this is absurd",
+      "path": "audio/1971-174/02.mp3",
+      "start": 2.333583,
+      "end": 12.846326999999999
+    },
+    {
+      "index": 2,
+      "text": "First one must know his being otherwise there will be anguish.",
+      "path": "audio/1971-174/03.mp3",
+      "start": 14.388662,
+      "end": 17.899819
+    },
+    {
+      "index": 3,
+      "text": "Becoming is anguish because it is a constant tension between that which is and that which should be - and it is an impossible longing also because only that can be which is.",
+      "path": "audio/1971-174/04.mp3",
+      "start": 19.405306,
+      "end": 30.767755
+    },
+    {
+      "index": 4,
+      "text": "So know yourself as you are without any ideals, without any judgment and without any condemnation.",
+      "path": "audio/1971-174/05.mp3",
+      "start": 32.290907000000004,
+      "end": 38.658753
+    },
+    {
+      "index": 5,
+      "text": "Go deep within yourself without any desires to become because only then can you know yourself.",
+      "path": "audio/1971-174/06.mp3",
+      "start": 40.000227,
+      "end": 45.945691999999994
+    },
+    {
+      "index": 6,
+      "text": "Discover yourself, not according to anybody else, but as you are.",
+      "path": "audio/1971-174/07.mp3",
+      "start": 47.291202000000006,
+      "end": 51.179477999999996
+    },
+    {
+      "index": 7,
+      "text": "Discover the fact, discover the real in its total nakedness.",
+      "path": "audio/1971-174/08.mp3",
+      "start": 52.514853,
+      "end": 56.640952
+    },
+    {
+      "index": 8,
+      "text": "In this total authenticity just be a witness, and then there is an altogether different quality to life, the quality of let go.",
+      "path": "audio/1971-174/09.mp3",
+      "start": 58.174150000000004,
+      "end": 66.19678
+    },
+    {
+      "index": 9,
+      "text": "Then one is relaxed totally.",
+      "path": "audio/1971-174/10.mp3",
+      "start": 67.818844,
+      "end": 69.98
+    }
+  ]
+}

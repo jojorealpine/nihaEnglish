@@ -1,0 +1,5 @@
+{
+  "english": "The seed is there, now it has to become a tree.",
+  "error": "No vocabulary grounded in English source",
+  "response": "```json\n{\n  \"korean\": \"그 씨앗이 네 안에 있고, 이제 그것이 나무가 되어야 한다.\",\n  \"explanation\": \"원문에서 언급된 잠재력이나 성장의 씨앗이 실제로 성장하고 발전해야 함을 강조하는 문장입니다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"씨앗\",\n      \"meaning\": \"씨앗\",\n      \"note\": \"잠재력이나 발전의 시작점을 의미합니다.\"\n    },\n    {\n      \"word\": \"나무\",\n      \"meaning\": \"나무\",\n      \"note\": \"완성된 상태나 목표를 상징합니다.\"\n    }\n  ],\n  \"expressions\": [\n    {\n      \"expression\": \"씨앗이 있다\",\n      \"meaning\": \"씨앗이 존재한다\",\n      \"explanation\": \"이미 존재하는 잠재력이나 가능성을 나타냅니다.\"\n    }\n  ]\n}\n```"
+}

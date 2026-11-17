@@ -1,0 +1,58 @@
+{
+  "key": "letter-171-part-01",
+  "number": 171,
+  "generationId": "01a1e8e4-f6a1-7ae8-9018-eba9f9b2cc17",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-171/01.mp3",
+      "start": 0.0,
+      "end": 0.592948
+    },
+    {
+      "index": 1,
+      "text": "I hope you will be moving in deep meditation.",
+      "path": "audio/1971-171/02.mp3",
+      "start": 1.679456,
+      "end": 4.197914
+    },
+    {
+      "index": 2,
+      "text": "Breathe in it sleep in it live in it - let meditation be your very existence.",
+      "path": "audio/1971-171/03.mp3",
+      "start": 5.423764,
+      "end": 10.906236
+    },
+    {
+      "index": 3,
+      "text": "Only then is the happening.",
+      "path": "audio/1971-171/04.mp3",
+      "start": 12.063787000000001,
+      "end": 13.696689
+    },
+    {
+      "index": 4,
+      "text": "Don't do it, but be it.",
+      "path": "audio/1971-171/05.mp3",
+      "start": 14.851542,
+      "end": 16.568753
+    },
+    {
+      "index": 5,
+      "text": "And my blessings are always with you.",
+      "path": "audio/1971-171/06.mp3",
+      "start": 17.762743999999998,
+      "end": 19.70288
+    },
+    {
+      "index": 6,
+      "text": "If you need any help from me just ask when you are thoughtless, and it will be given to you.",
+      "path": "audio/1971-171/07.mp3",
+      "start": 20.866598999999997,
+      "end": 26.64
+    }
+  ]
+}

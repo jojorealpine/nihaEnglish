@@ -1,0 +1,16 @@
+{
+  "key": "letter-292-part-03",
+  "number": 292,
+  "generationId": "01a1e904-383c-7b93-a545-a631d0b5d3b8",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 20,
+      "text": "Well, you see...I am the creditor!",
+      "path": "audio/1971-292/21.mp3",
+      "start": 0.0,
+      "end": 2.35
+    }
+  ]
+}

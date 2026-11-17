@@ -1,0 +1,58 @@
+{
+  "key": "letter-241-part-01",
+  "number": 241,
+  "generationId": "01a1e8f8-64f8-794d-8ed2-9304f0aef50d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-241/01.mp3",
+      "start": 0.0,
+      "end": 0.713379
+    },
+    {
+      "index": 1,
+      "text": "Mind is localization of consciousness, and it can be localized in any part of the body.",
+      "path": "audio/1971-241/02.mp3",
+      "start": 2.292404,
+      "end": 8.384013999999999
+    },
+    {
+      "index": 2,
+      "text": "Ordinarily we have localized it in the head, but other cultures and other civilizations in the past have tried other parts of the body also, and on other planets there are beings with other parts of their bodies working as their minds.",
+      "path": "audio/1971-241/03.mp3",
+      "start": 9.856644000000001,
+      "end": 25.989887
+    },
+    {
+      "index": 3,
+      "text": "But whatsoever the part chosen localization of consciousness means its freezing, and whenever it ceases to flow freely as is needed it is no longer consciousness in its suchness.",
+      "path": "audio/1971-241/04.mp3",
+      "start": 27.426463,
+      "end": 40.151587
+    },
+    {
+      "index": 4,
+      "text": "Meditation means: consciousness in its suchness.",
+      "path": "audio/1971-241/05.mp3",
+      "start": 41.548798000000005,
+      "end": 45.723651
+    },
+    {
+      "index": 5,
+      "text": "So let consciousness fill the whole body, let it flow throughout the totality of your being and you will have a feeling of aliveness which is never known and felt by localized consciousness.",
+      "path": "audio/1971-241/06.mp3",
+      "start": 47.114762000000006,
+      "end": 59.951293
+    },
+    {
+      "index": 6,
+      "text": "Whenever there is localization of consciousness the part in which the localization happens becomes tense and diseased and the remainder of the body becomes a dead weight.",
+      "path": "audio/1971-241/07.mp3",
+      "start": 61.415737,
+      "end": 72.44
+    }
+  ]
+}

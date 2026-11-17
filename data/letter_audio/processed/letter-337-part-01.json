@@ -1,0 +1,65 @@
+{
+  "key": "letter-337-part-01",
+  "number": 337,
+  "generationId": "01a1e912-ab84-75a8-9a01-05ecf8c3678d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-337/01.mp3",
+      "start": 0.0,
+      "end": 0.708685
+    },
+    {
+      "index": 1,
+      "text": "Whatever I say is nothing new, nor is it anything old Or it is both - the oldest and the newest.",
+      "path": "audio/1971-337/02.mp3",
+      "start": 2.11449,
+      "end": 9.110363
+    },
+    {
+      "index": 2,
+      "text": "And to know it you need not listen to me.",
+      "path": "audio/1971-337/03.mp3",
+      "start": 10.914263,
+      "end": 13.320658
+    },
+    {
+      "index": 3,
+      "text": "Listen to the birds in the morning or to the flowers and grass blades in the sun and you will hear it, and if you do not know how to listen to them then you will not know from me either.",
+      "path": "audio/1971-337/04.mp3",
+      "start": 14.732041,
+      "end": 25.358798
+    },
+    {
+      "index": 4,
+      "text": "So the real thing is not what you listen to but how you listen,",
+      "path": "audio/1971-337/05.mp3",
+      "start": 26.520023,
+      "end": 30.809955000000002
+    },
+    {
+      "index": 5,
+      "text": "because the message is everywhere, everywhere, everywhere,",
+      "path": "audio/1971-337/06.mp3",
+      "start": 32.070975000000004,
+      "end": 36.503038999999994
+    },
+    {
+      "index": 6,
+      "text": "Now I will tell you the art of listening: walk about until exhausted or dance or do vigorous breathing and then, dropping to the ground, listen, or repeat your own name loudly until exhausted and then suddenly stop and listen, or at the point of sleep when sleep has not yet come and external wakefulness vanishes, suddenly be alert and listen",
+      "path": "audio/1971-337/07.mp3",
+      "start": 37.625510000000006,
+      "end": 62.651678
+    },
+    {
+      "index": 7,
+      "text": "And then you will hear me",
+      "path": "audio/1971-337/08.mp3",
+      "start": 64.08033999999999,
+      "end": 65.62
+    }
+  ]
+}

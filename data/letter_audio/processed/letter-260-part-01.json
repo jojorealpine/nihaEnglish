@@ -1,0 +1,79 @@
+{
+  "key": "letter-260-part-01",
+  "number": 260,
+  "generationId": "01a1e8fc-a3a9-7418-ae6f-c615683e9a06",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-260/01.mp3",
+      "start": 0.0,
+      "end": 0.691746
+    },
+    {
+      "index": 1,
+      "text": "Man adds everything to his ego - while everything goes on without him.",
+      "path": "audio/1971-260/02.mp3",
+      "start": 1.9166439999999998,
+      "end": 6.249909
+    },
+    {
+      "index": 2,
+      "text": "He is nothing, but he thinks himself everything.",
+      "path": "audio/1971-260/03.mp3",
+      "start": 7.6055779999999995,
+      "end": 11.55059
+    },
+    {
+      "index": 3,
+      "text": "Mulla Nasrudin was walking past a well when he had the impulse to look into it.",
+      "path": "audio/1971-260/04.mp3",
+      "start": 12.791315,
+      "end": 16.801905
+    },
+    {
+      "index": 4,
+      "text": "It was night, and as he peered into the deep water he saw the moon's reflection there.",
+      "path": "audio/1971-260/05.mp3",
+      "start": 18.177256,
+      "end": 23.669002000000003
+    },
+    {
+      "index": 5,
+      "text": "I must save the moon! the Mulla thought, otherwise she will never wane and the fasting month of Ramadan will never come to an end He found a rope, threw it in and called down: Hold tight!",
+      "path": "audio/1971-260/06.mp3",
+      "start": 25.389955,
+      "end": 37.565487999999995
+    },
+    {
+      "index": 6,
+      "text": "Keep bright, help is at hand!",
+      "path": "audio/1971-260/07.mp3",
+      "start": 39.17517,
+      "end": 41.236667
+    },
+    {
+      "index": 7,
+      "text": "The rope caught in a rock inside the well and Nasrudin heaved as hard as he could.",
+      "path": "audio/1971-260/08.mp3",
+      "start": 42.865102,
+      "end": 47.691224
+    },
+    {
+      "index": 8,
+      "text": "Straining back he suddenly felt the rope give way as it became loose and he was thrown on his back.",
+      "path": "audio/1971-260/09.mp3",
+      "start": 49.168821,
+      "end": 54.675464999999996
+    },
+    {
+      "index": 9,
+      "text": "As he lay there panting he saw the moon riding in the sky above.",
+      "path": "audio/1971-260/10.mp3",
+      "start": 56.168458,
+      "end": 60.97
+    }
+  ]
+}

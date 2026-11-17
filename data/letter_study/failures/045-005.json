@@ -1,0 +1,5 @@
+{
+  "english": "But tell your astrologer friend not to worry; the future will simply come, there's no point in worrying about it.",
+  "error": "Grammar does not refer to the English sentence",
+  "response": "```json\n{\n  \"korean\": \"하지만 네 점성술 친구에게 걱정하지 말라고 전해줘; 미래는 자연스럽게 찾아올 것이니 걱정할 필요가 없어.\",\n  \"explanation\": \"점성술 친구에게 미래에 대한 걱정을 하지 말라고 조언하는 내용\",\n  \"vocabulary\": [\n    {\n      \"word\": \"astrologer\",\n      \"meaning\": \"점성술사\",\n      \"note\": \"별자리나 운세를 보는 사람을 의미합니다.\"\n    },\n    {\n      \"word\": \"worrying\",\n      \"meaning\": \"걱정\",\n      \"note\": \"미래에 대한 불안이나 걱정을 나타냅니다.\"\n    }\n  ],\n  \"expressions\": []\n}\n```"
+}

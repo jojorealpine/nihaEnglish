@@ -1,0 +1,79 @@
+{
+  "key": "letter-115-part-01",
+  "number": 115,
+  "generationId": "01a1e636-c099-7ae7-8556-a6c824ed9e1b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-115/01.mp3",
+      "start": 0.0,
+      "end": 0.58263
+    },
+    {
+      "index": 1,
+      "text": "Man lives not in reality but in dreams.",
+      "path": "audio/1970-115/02.mp3",
+      "start": 1.7276189999999998,
+      "end": 4.469773
+    },
+    {
+      "index": 2,
+      "text": "Each mind creates a world of its own which exists nowhere.",
+      "path": "audio/1970-115/03.mp3",
+      "start": 5.697302,
+      "end": 9.085441999999999
+    },
+    {
+      "index": 3,
+      "text": "During the day as well as the night the mind is swamped in dreams.",
+      "path": "audio/1970-115/04.mp3",
+      "start": 10.312063,
+      "end": 13.71415
+    },
+    {
+      "index": 4,
+      "text": "When the dreams become too much, too intense, insanity results.",
+      "path": "audio/1970-115/05.mp3",
+      "start": 14.951338000000002,
+      "end": 19.685351
+    },
+    {
+      "index": 5,
+      "text": "To be clear and healthy is to be without dreams.",
+      "path": "audio/1970-115/06.mp3",
+      "start": 20.903878,
+      "end": 24.102404
+    },
+    {
+      "index": 6,
+      "text": "Once, the president of a country went to inspect the nation's largest lunatic asylum.",
+      "path": "audio/1970-115/07.mp3",
+      "start": 25.458797999999998,
+      "end": 30.082744
+    },
+    {
+      "index": 7,
+      "text": "The director took him to a room and told him: In this room, the inmates suffer from car-phobia.",
+      "path": "audio/1970-115/08.mp3",
+      "start": 31.477166,
+      "end": 37.355442
+    },
+    {
+      "index": 8,
+      "text": "The president, curious, looked through the window.",
+      "path": "audio/1970-115/09.mp3",
+      "start": 39.020340000000004,
+      "end": 41.82161
+    },
+    {
+      "index": 9,
+      "text": "But there is nobody there, he said They are all there, sir - under the beds repairing cars, the director replied.",
+      "path": "audio/1970-115/10.mp3",
+      "start": 43.372721000000006,
+      "end": 51.3
+    }
+  ]
+}

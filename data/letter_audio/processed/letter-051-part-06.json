@@ -1,0 +1,79 @@
+{
+  "key": "letter-051-part-06",
+  "number": 51,
+  "generationId": "01a1e4f1-e5bb-72d7-833d-fdd753d1c028",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 50,
+      "text": "Only that can be known.",
+      "path": "audio/1968-51/51.mp3",
+      "start": 0.0,
+      "end": 1.1312929999999999
+    },
+    {
+      "index": 51,
+      "text": "And upon knowing that, immortality is also known.",
+      "path": "audio/1968-51/52.mp3",
+      "start": 2.308707,
+      "end": 5.354444
+    },
+    {
+      "index": 52,
+      "text": "Life is eternal There is no beginning and no end to it.",
+      "path": "audio/1968-51/53.mp3",
+      "start": 6.419592,
+      "end": 9.970362999999999
+    },
+    {
+      "index": 53,
+      "text": "It manifests, it unmanifests.",
+      "path": "audio/1968-51/54.mp3",
+      "start": 11.248957,
+      "end": 13.765464999999999
+    },
+    {
+      "index": 54,
+      "text": "It moves from one form to another form.",
+      "path": "audio/1968-51/55.mp3",
+      "start": 14.957551,
+      "end": 17.106077000000003
+    },
+    {
+      "index": 55,
+      "text": "In our ignorance, these transition points of change look like death.",
+      "path": "audio/1968-51/56.mp3",
+      "start": 18.279636999999997,
+      "end": 21.595283000000002
+    },
+    {
+      "index": 56,
+      "text": "But for one who knows, death is nothing more than changing houses.",
+      "path": "audio/1968-51/57.mp3",
+      "start": 23.132018,
+      "end": 27.606281000000003
+    },
+    {
+      "index": 57,
+      "text": "Certainly there is rebirth;",
+      "path": "audio/1968-51/58.mp3",
+      "start": 29.132562,
+      "end": 30.834717
+    },
+    {
+      "index": 58,
+      "text": "but for me it is not a doctrine, it is an experience.",
+      "path": "audio/1968-51/59.mp3",
+      "start": 32.374036000000004,
+      "end": 36.091429
+    },
+    {
+      "index": 59,
+      "text": "And I don't want to make it a doctrine for others either.",
+      "path": "audio/1968-51/60.mp3",
+      "start": 37.698980000000006,
+      "end": 40.91
+    }
+  ]
+}

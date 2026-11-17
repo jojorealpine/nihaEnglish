@@ -1,0 +1,65 @@
+{
+  "key": "letter-010-part-02",
+  "number": 10,
+  "generationId": "01a1e4e8-d894-7d96-aa83-e969018a79ef",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Your very existence, your very life, is in the ocean.",
+      "path": "audio/1963-10/11.mp3",
+      "start": 0.0,
+      "end": 3.078866
+    },
+    {
+      "index": 11,
+      "text": "It is within you.",
+      "path": "audio/1963-10/12.mp3",
+      "start": 4.216327,
+      "end": 5.208413
+    },
+    {
+      "index": 12,
+      "text": "The ocean is your everything, but for the ocean, you are nothing.",
+      "path": "audio/1963-10/13.mp3",
+      "start": 6.358277,
+      "end": 10.089160999999999
+    },
+    {
+      "index": 13,
+      "text": "For this very reason the fish couldn't see the ocean!",
+      "path": "audio/1963-10/14.mp3",
+      "start": 11.193243,
+      "end": 14.072448999999999
+    },
+    {
+      "index": 14,
+      "text": "And for this very reason we are unable to find God.",
+      "path": "audio/1963-10/15.mp3",
+      "start": 15.156780000000001,
+      "end": 18.000522
+    },
+    {
+      "index": 15,
+      "text": "But he can be found - by being empty.",
+      "path": "audio/1963-10/16.mp3",
+      "start": 19.108458,
+      "end": 21.887687
+    },
+    {
+      "index": 16,
+      "text": "In the state of emptiness we meet him for God is emptiness.",
+      "path": "audio/1963-10/17.mp3",
+      "start": 23.460770999999998,
+      "end": 27.448254000000002
+    },
+    {
+      "index": 17,
+      "text": "I am in bliss, or shall I say - Bliss alone is and I am not!",
+      "path": "audio/1963-10/18.mp3",
+      "start": 28.887959,
+      "end": 34.04
+    }
+  ]
+}

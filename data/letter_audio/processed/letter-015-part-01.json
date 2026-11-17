@@ -1,0 +1,79 @@
+{
+  "key": "letter-015-part-01",
+  "number": 15,
+  "generationId": "01a1e4e9-934a-77ce-86b2-6ff5c5178fc7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1964-15/01.mp3",
+      "start": 0.0,
+      "end": 0.658685
+    },
+    {
+      "index": 1,
+      "text": "On returning from the meditation camp I had to leave town again.",
+      "path": "audio/1964-15/02.mp3",
+      "start": 2.057528,
+      "end": 5.6842630000000005
+    },
+    {
+      "index": 2,
+      "text": "I returned only last night but I thought of you all the time.",
+      "path": "audio/1964-15/03.mp3",
+      "start": 7.256213,
+      "end": 11.436644
+    },
+    {
+      "index": 3,
+      "text": "I cannot forget the thirst for God I saw in your eyes and the striving for truth in your heart.",
+      "path": "audio/1964-15/04.mp3",
+      "start": 12.827188000000001,
+      "end": 18.794626
+    },
+    {
+      "index": 4,
+      "text": "This is a blessing because no one can attain without passing through this anguish.",
+      "path": "audio/1964-15/05.mp3",
+      "start": 20.271314999999998,
+      "end": 25.04805
+    },
+    {
+      "index": 5,
+      "text": "Remember, thirst is a prerequisite for the birth of light and love.",
+      "path": "audio/1964-15/06.mp3",
+      "start": 26.195691999999998,
+      "end": 30.464649
+    },
+    {
+      "index": 6,
+      "text": "Together, light and love are God.",
+      "path": "audio/1964-15/07.mp3",
+      "start": 31.558616999999998,
+      "end": 34.147867999999995
+    },
+    {
+      "index": 7,
+      "text": "When love has no limits its flame becomes smokeless and so divine.",
+      "path": "audio/1964-15/08.mp3",
+      "start": 35.420023,
+      "end": 39.484897999999994
+    },
+    {
+      "index": 8,
+      "text": "I have seen the seeds of this growth within you and it fills my soul with great joy.",
+      "path": "audio/1964-15/09.mp3",
+      "start": 40.964444,
+      "end": 46.117732
+    },
+    {
+      "index": 9,
+      "text": "The seed is there, now it has to become a tree.",
+      "path": "audio/1964-15/10.mp3",
+      "start": 47.648231,
+      "end": 50.83
+    }
+  ]
+}

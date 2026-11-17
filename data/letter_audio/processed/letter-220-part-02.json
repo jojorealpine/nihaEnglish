@@ -1,0 +1,79 @@
+{
+  "key": "letter-220-part-02",
+  "number": 220,
+  "generationId": "01a1e8f3-22ce-74f9-9fb2-cdcd1ea23738",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "So be totally aware of death.",
+      "path": "audio/1971-220/11.mp3",
+      "start": 0.0,
+      "end": 1.8162129999999999
+    },
+    {
+      "index": 11,
+      "text": "And it is happening each moment within and without.",
+      "path": "audio/1971-220/12.mp3",
+      "start": 3.13873,
+      "end": 6.13449
+    },
+    {
+      "index": 12,
+      "text": "It is present everywhere.",
+      "path": "audio/1971-220/13.mp3",
+      "start": 7.527007,
+      "end": 9.292268
+    },
+    {
+      "index": 13,
+      "text": "And because it is so obvious one becomes absent to it.",
+      "path": "audio/1971-220/14.mp3",
+      "start": 10.577506000000001,
+      "end": 13.733469
+    },
+    {
+      "index": 14,
+      "text": "Remember - and deepen the consciousness, because as the awareness of death goes deeper one becomes capable of feeling that which is deathless.",
+      "path": "audio/1971-220/15.mp3",
+      "start": 15.058639000000001,
+      "end": 24.605102000000002
+    },
+    {
+      "index": 15,
+      "text": "Really, death is the door - the opening to the deathless.",
+      "path": "audio/1971-220/16.mp3",
+      "start": 25.871790999999998,
+      "end": 29.566485
+    },
+    {
+      "index": 16,
+      "text": "But be conscious of it.",
+      "path": "audio/1971-220/17.mp3",
+      "start": 30.940998,
+      "end": 32.120861999999995
+    },
+    {
+      "index": 17,
+      "text": "Be conscious and transcend.",
+      "path": "audio/1971-220/18.mp3",
+      "start": 33.487302,
+      "end": 35.375147
+    },
+    {
+      "index": 18,
+      "text": "Be conscious and know that which is before birth and after death.",
+      "path": "audio/1971-220/19.mp3",
+      "start": 36.702517,
+      "end": 40.02102
+    },
+    {
+      "index": 19,
+      "text": "And - you are that.",
+      "path": "audio/1971-220/20.mp3",
+      "start": 41.392857,
+      "end": 43.23
+    }
+  ]
+}

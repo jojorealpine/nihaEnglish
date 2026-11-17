@@ -1,0 +1,23 @@
+{
+  "key": "letter-320-part-02",
+  "number": 320,
+  "generationId": "01a1e90d-13d4-7916-8714-838c7c2e4117",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Now he does not make any distinctions and lays down everything.",
+      "path": "audio/1971-320/11.mp3",
+      "start": 0.0,
+      "end": 3.645805
+    },
+    {
+      "index": 11,
+      "text": "If you can be in this laying down state - alive, you are in meditation.",
+      "path": "audio/1971-320/12.mp3",
+      "start": 5.2157599999999995,
+      "end": 10.21
+    }
+  ]
+}

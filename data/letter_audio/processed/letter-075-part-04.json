@@ -1,0 +1,65 @@
+{
+  "key": "letter-075-part-04",
+  "number": 75,
+  "generationId": "01a1e62b-3e36-706d-aefd-981f39725ffd",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 30,
+      "text": "I do not swim, I just float.",
+      "path": "audio/1970-75/31.mp3",
+      "start": 0.0,
+      "end": 2.223946
+    },
+    {
+      "index": 31,
+      "text": "No one can ever do anything for another but if something happens to others out of what I am, that is something else, and there too I am not the doer.",
+      "path": "audio/1970-75/32.mp3",
+      "start": 3.434603,
+      "end": 12.70102
+    },
+    {
+      "index": 32,
+      "text": "As for the future - for me, the present is everything.",
+      "path": "audio/1970-75/33.mp3",
+      "start": 14.055079000000001,
+      "end": 18.703447
+    },
+    {
+      "index": 33,
+      "text": "And the past too is also a present - that has passed away.",
+      "path": "audio/1970-75/34.mp3",
+      "start": 20.097188,
+      "end": 24.203197
+    },
+    {
+      "index": 34,
+      "text": "And the future too - that is a present that is yet to come.",
+      "path": "audio/1970-75/35.mp3",
+      "start": 25.552516999999998,
+      "end": 29.746304000000002
+    },
+    {
+      "index": 35,
+      "text": "Life is always here and now so I do not bother about past and future.",
+      "path": "audio/1970-75/36.mp3",
+      "start": 31.003583,
+      "end": 35.555350999999995
+    },
+    {
+      "index": 36,
+      "text": "And it is amazing that ever since I stopped worrying about them they have begun to worry about me!",
+      "path": "audio/1970-75/37.mp3",
+      "start": 36.911995000000005,
+      "end": 42.197415
+    },
+    {
+      "index": 37,
+      "text": "My regards to all there.",
+      "path": "audio/1970-75/38.mp3",
+      "start": 43.623673000000004,
+      "end": 45.58
+    }
+  ]
+}

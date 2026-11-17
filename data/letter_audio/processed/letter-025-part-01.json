@@ -1,0 +1,79 @@
+{
+  "key": "letter-025-part-01",
+  "number": 25,
+  "generationId": "01a1e4eb-2d72-7fc9-ad94-28360d604cc9",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1965-25/01.mp3",
+      "start": 0.0,
+      "end": 0.779728
+    },
+    {
+      "index": 1,
+      "text": "I am in bliss.",
+      "path": "audio/1965-25/02.mp3",
+      "start": 2.051678,
+      "end": 3.320771
+    },
+    {
+      "index": 2,
+      "text": "It was good that you met me in Bombay, my heart was overjoyed to see what is happening in you.",
+      "path": "audio/1965-25/03.mp3",
+      "start": 4.833152,
+      "end": 9.936960999999998
+    },
+    {
+      "index": 3,
+      "text": "This is how a person prepares and moves along the stairway towards truth.",
+      "path": "audio/1965-25/04.mp3",
+      "start": 11.401746000000001,
+      "end": 15.521223999999998
+    },
+    {
+      "index": 4,
+      "text": "Life is a dual journey: one journey is in time and space the other is within oneself and truth.",
+      "path": "audio/1965-25/05.mp3",
+      "start": 17.066032,
+      "end": 23.626417
+    },
+    {
+      "index": 5,
+      "text": "The first ends in death the second in deathlessness.",
+      "path": "audio/1965-25/06.mp3",
+      "start": 25.155057,
+      "end": 28.470635
+    },
+    {
+      "index": 6,
+      "text": "The second is the real journey because it takes you somewhere.",
+      "path": "audio/1965-25/07.mp3",
+      "start": 30.023107,
+      "end": 33.388366999999995
+    },
+    {
+      "index": 7,
+      "text": "Those who take the first journey as it, waste their lives.",
+      "path": "audio/1965-25/08.mp3",
+      "start": 34.877007000000006,
+      "end": 38.437028999999995
+    },
+    {
+      "index": 8,
+      "text": "The real life begins the day you start the other journey.",
+      "path": "audio/1965-25/09.mp3",
+      "start": 39.949773,
+      "end": 43.03483
+    },
+    {
+      "index": 9,
+      "text": "A really good beginning has taken place in your consciousness and I am filled with bliss to feel this.",
+      "path": "audio/1965-25/10.mp3",
+      "start": 44.641043,
+      "end": 51.44
+    }
+  ]
+}

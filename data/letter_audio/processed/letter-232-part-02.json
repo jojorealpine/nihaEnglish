@@ -1,0 +1,23 @@
+{
+  "key": "letter-232-part-02",
+  "number": 232,
+  "generationId": "01a1e8f6-7d4b-765b-a7ff-c67f748ffb0f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "He had occasion to address the inmates of a mental hospital and ended with: Ladies and Gentlemen, why are we here?",
+      "path": "audio/1971-232/11.mp3",
+      "start": 0.0,
+      "end": 7.63195
+    },
+    {
+      "index": 11,
+      "text": "One of the inmates called out: We are all here because we are not all there!",
+      "path": "audio/1971-232/12.mp3",
+      "start": 9.110794,
+      "end": 14.47
+    }
+  ]
+}

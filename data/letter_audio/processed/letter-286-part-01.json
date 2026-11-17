@@ -1,0 +1,58 @@
+{
+  "key": "letter-286-part-01",
+  "number": 286,
+  "generationId": "01a1e91b-4525-7c49-a280-7fb3b0079928",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-286/01.mp3",
+      "start": 0.0,
+      "end": 0.60322
+    },
+    {
+      "index": 1,
+      "text": "See: this is a white paper - it contains words.",
+      "path": "audio/1971-286/02.mp3",
+      "start": 1.829478,
+      "end": 4.824966
+    },
+    {
+      "index": 2,
+      "text": "You can look at it as white paper or as words.",
+      "path": "audio/1971-286/03.mp3",
+      "start": 6.013832,
+      "end": 8.649863999999999
+    },
+    {
+      "index": 3,
+      "text": "Or, listen to the silence which contains a sonata; you can be aware of the silence or of the sonata.",
+      "path": "audio/1971-286/04.mp3",
+      "start": 9.874354,
+      "end": 16.224263
+    },
+    {
+      "index": 4,
+      "text": "Or, think of the space which contains a building; you can be aware of the space or of the building.",
+      "path": "audio/1971-286/05.mp3",
+      "start": 17.377506,
+      "end": 23.330408000000002
+    },
+    {
+      "index": 5,
+      "text": "Or, imagine an empty house; you can conceive of it as the walls or as an emptiness.",
+      "path": "audio/1971-286/06.mp3",
+      "start": 24.801223999999998,
+      "end": 30.894104000000002
+    },
+    {
+      "index": 6,
+      "text": "If you see the words, the building, the sonata and the walls you are in the mind, but if you see the white paper or the silence or the space or the emptiness then you are in meditation.",
+      "path": "audio/1971-286/07.mp3",
+      "start": 32.399932,
+      "end": 44.12
+    }
+  ]
+}

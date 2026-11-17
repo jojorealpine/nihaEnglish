@@ -1,0 +1,23 @@
+{
+  "key": "letter-035-part-02",
+  "number": 35,
+  "generationId": "01a1e4ec-acc7-7046-b9c4-692223fab35c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Give my kind respects to everyone there.",
+      "path": "audio/1965-35/11.mp3",
+      "start": 0.0,
+      "end": 2.607596
+    },
+    {
+      "index": 11,
+      "text": "I am waiting for your promised letters.",
+      "path": "audio/1965-35/12.mp3",
+      "start": 4.024172,
+      "end": 6.27
+    }
+  ]
+}

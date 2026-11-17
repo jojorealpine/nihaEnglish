@@ -1,0 +1,23 @@
+{
+  "key": "letter-152-part-02",
+  "number": 152,
+  "generationId": "01a1e6e7-dbab-7871-b5ae-bc64d751d225",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Religiousness is eternal But its body should always be contemporary.",
+      "path": "audio/1970-152/11.mp3",
+      "start": 0.0,
+      "end": 5.008413
+    },
+    {
+      "index": 11,
+      "text": "Neither is the body eternal, nor can it be - not even the body of religion.",
+      "path": "audio/1970-152/12.mp3",
+      "start": 6.421315,
+      "end": 12.77
+    }
+  ]
+}

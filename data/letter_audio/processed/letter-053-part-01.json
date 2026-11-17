@@ -1,0 +1,51 @@
+{
+  "key": "letter-053-part-01",
+  "number": 53,
+  "generationId": "01a1e4f7-2f3d-7ead-b0b6-170e78253981",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-53/01.mp3",
+      "start": 0.0,
+      "end": 0.639796
+    },
+    {
+      "index": 1,
+      "text": "Your letter has come.",
+      "path": "audio/1969-53/02.mp3",
+      "start": 1.943197,
+      "end": 3.1843310000000002
+    },
+    {
+      "index": 2,
+      "text": "Love has not to be asked for - it is never obtained by asking.",
+      "path": "audio/1969-53/03.mp3",
+      "start": 4.610544,
+      "end": 9.059432999999999
+    },
+    {
+      "index": 3,
+      "text": "Love comes through giving - it is our own echo.",
+      "path": "audio/1969-53/04.mp3",
+      "start": 10.34678,
+      "end": 14.001406
+    },
+    {
+      "index": 4,
+      "text": "You feel my love pouring on you because you have become a river of love flowing towards me, and when your love flows like this towards all you will find the whole world flowing in love towards you.",
+      "path": "audio/1969-53/05.mp3",
+      "start": 15.378571,
+      "end": 26.812018000000002
+    },
+    {
+      "index": 5,
+      "text": "To respond with unconditional love towards all, towards that which is, is the God-experience.",
+      "path": "audio/1969-53/06.mp3",
+      "start": 28.504785,
+      "end": 35.6
+    }
+  ]
+}

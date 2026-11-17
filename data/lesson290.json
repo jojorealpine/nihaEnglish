@@ -1,0 +1,361 @@
+{
+  "id": "1971-290",
+  "title": "1971 / 290",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "experience",
+      "meaning": "경험",
+      "note": "개인의 삶에서 얻은 모든 사건이나 배움을 의미한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "desires",
+      "meaning": "욕망",
+      "note": "개인이 추구하거나 갈망하는 것들을 가리킨다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "arguments",
+      "meaning": "논쟁",
+      "note": "주로 논리적 근거나 이유를 제시하는 말이나 주장들을 의미한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "humility",
+      "meaning": "겸손",
+      "note": "자신을 낮추고 타인이나 신의 권위를 인정하는 태도를 의미한다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "contrary",
+      "meaning": "반대의",
+      "note": "앞 문장의 내용과 대조적인 상황을 나타낸다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "religious",
+      "meaning": "종교적인",
+      "note": "여기서는 종교적인 마음가짐이나 태도를 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "particular",
+      "meaning": "특정한",
+      "note": "특정한 이미지나 대상에 국한되지 않는다는 의미에서 사용되었습니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "flowering",
+      "meaning": "꽃필",
+      "note": "여기서는 내면의 공허함이 드러나거나 표현되는 과정을 꽃이 피는 것에 비유하고 있다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "nothingness",
+      "meaning": "공허함",
+      "note": "내면의 공허함이나 공허한 상태를 의미한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "kneeling",
+      "meaning": "무릎을 꿇음",
+      "note": "행위의 형태를 나타내며, 여기서는 깊은 집중이나 겸손의 표현으로 사용됩니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "prayer",
+      "meaning": "기도",
+      "note": "신앙적 행위로서 내면적 성찰이나 소통을 의미합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "pray",
+      "meaning": "기도하다",
+      "note": "직접적인 기도 행위를 나타냄",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "prayerful",
+      "meaning": "기도하는 태도를 가진",
+      "note": "기도하는 마음가짐이나 삶의 방식을 강조",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-290/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "We kneel down to ourselves because we kneel down to the gods we make out of our experience, or out of our desires and dreams, or out of our so-called logic and foolish arguments.",
+      "korean": "우리는 경험, 욕망, 그리고 자칭 논리와 어리석은 주장들로부터 만들어진 신들에게 무릎을 꿇기 때문에 스스로에게도 무릎을 꿇는다.",
+      "explanation": "자신의 내면적 가치나 신념에 굴복하는 행위를 묘사한다.",
+      "grammar": "동사 「kneel」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1971-290/02.mp3",
+      "vocabulary": [
+        {
+          "word": "experience",
+          "meaning": "경험",
+          "note": "개인의 삶에서 얻은 모든 사건이나 배움을 의미한다."
+        },
+        {
+          "word": "desires",
+          "meaning": "욕망",
+          "note": "개인이 추구하거나 갈망하는 것들을 가리킨다."
+        },
+        {
+          "word": "arguments",
+          "meaning": "논쟁",
+          "note": "주로 논리적 근거나 이유를 제시하는 말이나 주장들을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "This is neither humility nor prayer, rather, on the contrary, this is the most egoistic attitude possible.",
+      "korean": "이것은 겸손이나 기도가 아니라, 오히려 정반대이며 가장 이기적인 태도일 뿐이다.",
+      "explanation": "문장은 자신의 행동(무릎을 꿇는 것)이 신이나 내면의 가치를 향한 것이 아니라 오히려 자기 중심적인 태도임을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-290/03.mp3",
+      "vocabulary": [
+        {
+          "word": "humility",
+          "meaning": "겸손",
+          "note": "자신을 낮추고 타인이나 신의 권위를 인정하는 태도를 의미한다."
+        },
+        {
+          "word": "contrary",
+          "meaning": "반대의",
+          "note": "앞 문장의 내용과 대조적인 상황을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "The truly religious mind is one which just kneels down - not to anyone, not to any image in particular.",
+      "korean": "진정한 종교적 마음은 누구에게도, 특정한 이미지에도 무릎을 꿇는 것이 아니라, 오히려 자기 중심적인 태도를 유지하는 것이다.",
+      "explanation": "진정한 종교적 태도는 겸손이나 기도와는 다르게, 오히려 자기 중심적인 자세를 취한다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-290/04.mp3",
+      "vocabulary": [
+        {
+          "word": "religious",
+          "meaning": "종교적인",
+          "note": "여기서는 종교적인 마음가짐이나 태도를 의미합니다."
+        },
+        {
+          "word": "particular",
+          "meaning": "특정한",
+          "note": "특정한 이미지나 대상에 국한되지 않는다는 의미에서 사용되었습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "This kneeling down is nothing but a flowering of one's total nothingness.",
+      "korean": "이 무릎 꿇음은 그저 자신의 완전한 공허함의 꽃필 뿐이다.",
+      "explanation": "자신의 내면적 공허함이 표현되는 것을 무릎 꿇음으로 비유적으로 설명하고 있다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-290/05.mp3",
+      "vocabulary": [
+        {
+          "word": "flowering",
+          "meaning": "꽃필",
+          "note": "여기서는 내면의 공허함이 드러나거나 표현되는 과정을 꽃이 피는 것에 비유하고 있다."
+        },
+        {
+          "word": "nothingness",
+          "meaning": "공허함",
+          "note": "내면의 공허함이나 공허한 상태를 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Then this kneeling down becomes an inner way of life, and unless prayer is such, prayer is not.",
+      "korean": "그러면 이 무릎 꿇음은 내면의 삶의 방식이 되고, 기도가 그러하지 않다면 기도는 기도가 아니다.",
+      "explanation": "무릎을 꿇는 행위가 내면적인 삶의 방식으로 자리잡아야 하며, 그렇지 않다면 그것은 진정한 기도가 아니라는 의미입니다.",
+      "grammar": "동사 「becomes」는 become의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-290/06.mp3",
+      "vocabulary": [
+        {
+          "word": "kneeling",
+          "meaning": "무릎을 꿇음",
+          "note": "행위의 형태를 나타내며, 여기서는 깊은 집중이나 겸손의 표현으로 사용됩니다."
+        },
+        {
+          "word": "prayer",
+          "meaning": "기도",
+          "note": "신앙적 행위로서 내면적 성찰이나 소통을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "One cannot pray, one can only be prayerful.",
+      "korean": "기도할 수 있는 것이 아니라 기도하는 삶을 살아야 한다.",
+      "explanation": "기도하는 행위 자체보다는 기도하는 마음가짐이나 태도가 중요하다는 의미",
+      "grammar": "「can only be」에서 조동사 can 뒤에 동사원형 「be」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1971-290/07.mp3",
+      "vocabulary": [
+        {
+          "word": "pray",
+          "meaning": "기도하다",
+          "note": "직접적인 기도 행위를 나타냄"
+        },
+        {
+          "word": "prayerful",
+          "meaning": "기도하는 태도를 가진",
+          "note": "기도하는 마음가짐이나 삶의 방식을 강조"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "우리는 경험, 욕망, 그리고 자칭 논리와 어리석은 주장들로부터 만들어진 신들에게 무릎을 꿇기 때문에 스스로에게도 무릎을 꿇는다. 이것은 겸손이나 기도가 아니라, 오히려 정반대이며 가장 이기적인 태도일 뿐이다. 진정한 종교적 마음은 누구에게도, 특정한 이미지에도 무릎을 꿇는 것이 아니라, 오히려 자기 중심적인 태도를 유지하는 것이다. 이 무릎 꿇음은 그저 자신의 완전한 공허함의 꽃필 뿐이다. 그러면 이 무릎 꿇음은 내면의 삶의 방식이 되고, 기도가 그러하지 않다면 기도는 기도가 아니다. 기도할 수 있는 것이 아니라 기도하는 삶을 살아야 한다."
+  ],
+  "fullAudio": "audio/1971-290/script_all.mp3",
+  "originalText": "Love.\n\nWe kneel down to ourselves\nbecause we kneel down to the gods we make\nout of our experience, or out of our desires and dreams,\nor out of our so-called logic and foolish arguments.\nThis is neither humility nor prayer,\nrather, on the contrary, this is\nthe most egoistic attitude possible.\nThe truly religious mind is one which just kneels down -\nnot to anyone, not to any image in particular.\nThis kneeling down is nothing but\na flowering of one's total nothingness.\nThen this kneeling down becomes an inner way of life,\nand unless prayer is such, prayer is not.\nOne cannot pray, one can only be prayerful.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 290,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0887 2.JPG",
+        "side": "right",
+        "printedPage": 225
+      },
+      {
+        "file": "IMG_0888 2.JPG",
+        "side": "left",
+        "printedPage": 226
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

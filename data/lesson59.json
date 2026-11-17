@@ -1,0 +1,418 @@
+{
+  "id": "1969-59",
+  "title": "1969 / 59",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "waking",
+      "meaning": "깨어 있는",
+      "note": "의식이 깨어 있는 상태를 가리킵니다.",
+      "sentenceIds": [
+        2,
+        3,
+        5,
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "dreams",
+      "meaning": "꿈",
+      "note": "수면 중에 발생하는 상상의 세계를 의미합니다.",
+      "sentenceIds": [
+        2,
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "awareness",
+      "meaning": "의식",
+      "note": "주변 환경이나 내면 상태에 대한 인지 상태를 나타냅니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "creates",
+      "meaning": "만들어낸다",
+      "note": "여기서는 부정적인 결과를 초래한다는 의미로 사용됨",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "difficulties",
+      "meaning": "어려움",
+      "note": "행동이나 시도가 가져오는 부정적인 결과를 나타냄",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "reflects",
+      "meaning": "반영하다",
+      "note": "어떤 상태나 특성을 그대로 보여주거나 나타내는 의미",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "asleep",
+      "meaning": "잠든",
+      "note": "현재 상태가 잠들어 있다는 것을 나타냄",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thoughts",
+      "meaning": "생각",
+      "note": "개인의 사고 과정이나 마음가짐을 나타냄",
+      "sentenceIds": [
+        6,
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "disappear",
+      "meaning": "사라지다",
+      "note": "완전히 없어지거나 보이지 않게 되는 것을 의미합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "altogether",
+      "meaning": "완전히",
+      "note": "전체적으로, 전혀 없음을 강조합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "else",
+      "meaning": "그 밖의, 다른",
+      "note": "everything, someone, what 등 뒤에서 다른 대상을 덧붙이는 말입니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fine",
+      "meaning": "괜찮은, 잘 지내는",
+      "note": "여기서는 벌금이나 미세하다는 뜻이 아니라 상태가 좋다는 뜻입니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "regards",
+      "meaning": "인사나 안부",
+      "note": "이 단어는 친절하게 상대방에게 인사나 안부를 전하는 데 사용됩니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      4,
+      5,
+      6
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1969-59/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Be aware in the waking state, don't try to become aware in sleep or dreams.",
+      "korean": "깨어 있는 상태에서 의식을 유지하고, 잠이나 꿈 속에서 의식을 찾으려고 하지 마세요.",
+      "explanation": "문장의 의미: 깨어 있는 상태에서 의식을 유지하는 것이 중요하며, 잠이나 꿈 상태에서는 그렇게 하지 말아야 한다는 조언입니다.",
+      "grammar": "동사원형 「Be」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1969-59/02.mp3",
+      "vocabulary": [
+        {
+          "word": "waking",
+          "meaning": "깨어 있는",
+          "note": "의식이 깨어 있는 상태를 가리킵니다."
+        },
+        {
+          "word": "dreams",
+          "meaning": "꿈",
+          "note": "수면 중에 발생하는 상상의 세계를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "If you become aware in the waking state awareness in dreams and sleep comes easily - but you don't have to do anything for it.",
+      "korean": "깨어 있는 상태에서 의식을 갖추면 꿈과 잠에서의 의식도 자연스럽게 이루어집니다. 하지만 이를 위해 특별히 노력할 필요는 없습니다.",
+      "explanation": "깨어 있는 상태에서 의식을 유지하면 꿈이나 잠에서의 의식 상태로의 전환이 쉬워진다는 의미입니다. 자발적인 상태 변화를 강조합니다.",
+      "grammar": "「have to do」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+      "audio": "audio/1969-59/03.mp3",
+      "vocabulary": [
+        {
+          "word": "waking",
+          "meaning": "깨어 있는 상태",
+          "note": "의식이 깨어 있는 시간 동안 유지되는 상태를 의미합니다."
+        },
+        {
+          "word": "awareness",
+          "meaning": "의식",
+          "note": "주변 환경이나 내면 상태에 대한 인지 상태를 나타냅니다."
+        },
+        {
+          "word": "dreams",
+          "meaning": "꿈",
+          "note": "수면 중에 발생하는 비현실적인 경험이나 상상을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Doing only creates difficulties.",
+      "korean": "어려움만 만들어낼 뿐이야.",
+      "explanation": "단순히 행동함으로써 오히려 문제가 생긴다는 의미",
+      "grammar": "동사 「creates」는 create의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1969-59/04.mp3",
+      "vocabulary": [
+        {
+          "word": "creates",
+          "meaning": "만들어낸다",
+          "note": "여기서는 부정적인 결과를 초래한다는 의미로 사용됨"
+        },
+        {
+          "word": "difficulties",
+          "meaning": "어려움",
+          "note": "행동이나 시도가 가져오는 부정적인 결과를 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Sleep reflects the waking state: what we are when awake we are in sleep.",
+      "korean": "잠은 깨어 있는 상태를 반영한다: 깨어 있을 때 우리가 되는 것처럼 잠에서도 그러하다.",
+      "explanation": "잠은 우리가 깨어 있을 때의 상태나 특성을 반영하며, 깨어 있을 때의 모습이 잠에서도 유지된다는 의미를 담고 있다.",
+      "grammar": "동사 「reflects」는 reflect의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1969-59/05.mp3",
+      "vocabulary": [
+        {
+          "word": "reflects",
+          "meaning": "반영하다",
+          "note": "어떤 상태나 특성을 그대로 보여주거나 나타내는 의미"
+        },
+        {
+          "word": "waking",
+          "meaning": "깨어 있는",
+          "note": "의식이 있고 활동 중인 상태를 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "If we are asleep in the waking state only then is sleep really sleep, the stream of thoughts during the waking state becomes the web of dreams in sleep.",
+      "korean": "잠든 상태에서만 진정한 잠이 되며, 깨어 있는 상태의 생각 흐름이 잠들어 있을 때 꿈의 망으로 변한다.",
+      "explanation": "잠든 상태에서 진정한 잠의 의미를 찾을 수 있으며, 깨어 있을 때의 사고 패턴이 잠들어 있을 때 꿈으로 이어진다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-59/06.mp3",
+      "vocabulary": [
+        {
+          "word": "asleep",
+          "meaning": "잠든",
+          "note": "현재 상태가 잠들어 있다는 것을 나타냄"
+        },
+        {
+          "word": "waking",
+          "meaning": "깨어 있는",
+          "note": "의식이 활동적인 상태를 의미함"
+        },
+        {
+          "word": "thoughts",
+          "meaning": "생각",
+          "note": "개인의 사고 과정이나 마음가짐을 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Being aware in the waking state will begin to reflect itself in sleep too, and if there are no thoughts in the waking state dreams disappear altogether in sleep.",
+      "korean": "깨어 있는 상태에서 의식이 있으면 잠에도 그 영향이 나타나고, 깨어 있는 상태에서 생각이 없으면 잠에서도 꿈이 완전히 사라지게 된다.",
+      "explanation": "의식 상태가 잠의 질에 영향을 미친다는 개념을 설명합니다. 깨어 있을 때의 의식 상태가 잠에 반영되며, 깨어 있을 때의 생각 부재가 잠에서의 꿈 부재로 이어진다는 의미입니다.",
+      "grammar": "「will begin」에서 조동사 will 뒤에 동사원형 「begin」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+      "audio": "audio/1969-59/07.mp3",
+      "vocabulary": [
+        {
+          "word": "thoughts",
+          "meaning": "생각",
+          "note": "의식 상태에서 머릿속에 떠오르는 개념이나 아이디어를 의미합니다."
+        },
+        {
+          "word": "disappear",
+          "meaning": "사라지다",
+          "note": "완전히 없어지거나 보이지 않게 되는 것을 의미합니다."
+        },
+        {
+          "word": "altogether",
+          "meaning": "완전히",
+          "note": "전체적으로, 전혀 없음을 강조합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "Everything else is fine.",
+      "korean": "그 밖에는 모두 괜찮습니다.",
+      "explanation": "앞서 이야기한 일 외에는 별다른 문제 없이 잘 지내고 있다는 안부입니다.",
+      "grammar": "Everything else가 주어이며 단수로 취급하므로 be동사 is를 씁니다. else는 everything 뒤에서 그 밖의 것을 뜻하고, fine은 상태를 설명하는 형용사입니다.",
+      "audio": "audio/1969-59/08.mp3",
+      "vocabulary": [
+        {
+          "word": "else",
+          "meaning": "그 밖의, 다른",
+          "note": "everything, someone, what 등 뒤에서 다른 대상을 덧붙이는 말입니다."
+        },
+        {
+          "word": "fine",
+          "meaning": "괜찮은, 잘 지내는",
+          "note": "여기서는 벌금이나 미세하다는 뜻이 아니라 상태가 좋다는 뜻입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "My regards to everyone there.",
+      "korean": "그곳의 모든 분들께 인사를 전합니다.",
+      "explanation": "인사나 안부를 전하는 문장입니다.",
+      "grammar": "명사 「regards」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1969-59/09.mp3",
+      "vocabulary": [
+        {
+          "word": "regards",
+          "meaning": "인사나 안부",
+          "note": "이 단어는 친절하게 상대방에게 인사나 안부를 전하는 데 사용됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "깨어 있는 상태에서 의식을 유지하고, 잠이나 꿈 속에서 의식을 찾으려고 하지 마세요. 깨어 있는 상태에서 의식을 갖추면 꿈과 잠에서의 의식도 자연스럽게 이루어집니다. 하지만 이를 위해 특별히 노력할 필요는 없습니다. 어려움만 만들어낼 뿐이야.",
+    "잠은 깨어 있는 상태를 반영한다: 깨어 있을 때 우리가 되는 것처럼 잠에서도 그러하다. 잠든 상태에서만 진정한 잠이 되며, 깨어 있는 상태의 생각 흐름이 잠들어 있을 때 꿈의 망으로 변한다. 깨어 있는 상태에서 의식이 있으면 잠에도 그 영향이 나타나고, 깨어 있는 상태에서 생각이 없으면 잠에서도 꿈이 완전히 사라지게 된다.",
+    "그 밖에는 모두 괜찮습니다. 그곳의 모든 분들께 인사를 전합니다."
+  ],
+  "fullAudio": "audio/1969-59/script_all.mp3",
+  "originalText": "Love.\n\nBe aware in the waking state, don't try to become aware\nin sleep or dreams.\nIf you become aware in the waking state awareness in\ndreams and sleep comes easily - but you don't have to do\nanything for it. Doing only creates difficulties.\n\nSleep reflects the waking state:\nwhat we are when awake we are in sleep.\nIf we are asleep in the waking state only then is sleep\nreally sleep, the stream of thoughts during the waking\nstate becomes the web of dreams in sleep.\nBeing aware in the waking state will begin to reflect itself\nin sleep too, and if there are no thoughts in the waking\nstate dreams disappear altogether in sleep.\n\nEverything else is fine.\nMy regards to everyone there.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 59,
+    "year": 1969,
+    "pages": [
+      {
+        "file": "IMG_0801 2.JPG",
+        "side": "right",
+        "printedPage": 53
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

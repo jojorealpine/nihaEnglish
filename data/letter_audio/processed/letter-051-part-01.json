@@ -1,0 +1,79 @@
+{
+  "key": "letter-051-part-01",
+  "number": 51,
+  "generationId": "01a1e4f1-6e8f-70e4-b8f9-49b2dfe40bd2",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1968-51/01.mp3",
+      "start": 0.0,
+      "end": 0.618413
+    },
+    {
+      "index": 1,
+      "text": "I have received your letter and your questions.",
+      "path": "audio/1968-51/02.mp3",
+      "start": 1.8883899999999998,
+      "end": 3.915601
+    },
+    {
+      "index": 2,
+      "text": "About death I have remained quiet on purpose, because I want to awaken inquiry about life.",
+      "path": "audio/1968-51/03.mp3",
+      "start": 5.1954649999999996,
+      "end": 10.886484999999999
+    },
+    {
+      "index": 3,
+      "text": "Those who ponder over death reach nowhere.",
+      "path": "audio/1968-51/04.mp3",
+      "start": 12.151134,
+      "end": 14.658752999999999
+    },
+    {
+      "index": 4,
+      "text": "Because, in fact, how can death be known without dying?",
+      "path": "audio/1968-51/05.mp3",
+      "start": 15.909887,
+      "end": 19.550907000000002
+    },
+    {
+      "index": 5,
+      "text": "Hence, the total outcome of such thinking is either a belief that the soul is immortal or that the end of one's life is a total end, nothing remains after that.",
+      "path": "audio/1968-51/06.mp3",
+      "start": 20.82,
+      "end": 31.58932
+    },
+    {
+      "index": 6,
+      "text": "They are both mere beliefs.",
+      "path": "audio/1968-51/07.mp3",
+      "start": 33.182472000000004,
+      "end": 35.058685
+    },
+    {
+      "index": 7,
+      "text": "One belief is based on the fear of death, the other on the end of the body.",
+      "path": "audio/1968-51/08.mp3",
+      "start": 36.513537,
+      "end": 40.881994999999996
+    },
+    {
+      "index": 8,
+      "text": "I want man not to get entangled in beliefs and opinions, because that is not the direction to experiencing, to knowing,",
+      "path": "audio/1968-51/09.mp3",
+      "start": 42.410771000000004,
+      "end": 51.708209
+    },
+    {
+      "index": 9,
+      "text": "And what else can be found by thinking about death but belief systems and dogmas?",
+      "path": "audio/1968-51/10.mp3",
+      "start": 53.289365000000004,
+      "end": 58.36
+    }
+  ]
+}

@@ -262,7 +262,16 @@
       ],
       "chunkAudio": [
         "audio/1962-05/chunks-views/01-01.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "편지의 머리말에서 상대에게 따뜻한 마음을 전하는 인사입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 2,
@@ -284,7 +293,65 @@
         "audio/1962-05/chunks-views/02-03.mp3",
         "audio/1962-05/chunks-views/02-04.mp3",
         "audio/1962-05/chunks-views/02-05.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "grace",
+          "meaning": "은총, 은혜",
+          "note": "God’s grace: 신의 은총"
+        },
+        {
+          "word": "discovery",
+          "meaning": "발견",
+          "note": "the discovery of the inner light: 내면의 빛을 발견하는 일"
+        },
+        {
+          "word": "inner",
+          "meaning": "내면의, 안쪽의",
+          "note": "inner light는 내면의 깨달음을 빛에 비유한 표현"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "it is through … that …",
+          "meaning": "바로 ~을 통해 …하다",
+          "grammar": "It is + 강조할 구 + that절",
+          "title": "it is through … that …",
+          "detailMeaning": "바로 ~을 통해 …하다",
+          "original": "It is through God's grace that you are working towards the discovery of the inner light.",
+          "explanation": "`It is … that …` 강조구문으로 어떤 통로를 통해 일이 이루어지는지 강조해요. 본문에서는 `through God’s grace`를 앞세웠어요.",
+          "examples": [
+            {
+              "english": "It is through practice that we learn.",
+              "korean": "우리는 바로 연습을 통해 배워."
+            },
+            {
+              "english": "It was through a friend that I found this place.",
+              "korean": "내가 이곳을 알게 된 건 바로 친구를 통해서였어."
+            }
+          ]
+        },
+        {
+          "expression": "work towards + 명사 / -ing",
+          "meaning": "~을 향해 노력하다",
+          "grammar": "work + 전치사 towards",
+          "title": "work towards + 명사 / -ing",
+          "detailMeaning": "~을 향해 노력하다",
+          "original": "you are working towards the discovery of the inner light.",
+          "explanation": "`towards`는 목표를 향하는 방향을 나타내는 전치사예요. 뒤에 명사나 동명사를 붙여 무엇을 이루려는지 말해요.",
+          "examples": [
+            {
+              "english": "We are working towards a common goal.",
+              "korean": "우리는 공동의 목표를 향해 노력하고 있어."
+            },
+            {
+              "english": "She is working towards becoming more independent.",
+              "korean": "그녀는 더 독립적인 사람이 되려고 노력하고 있어."
+            }
+          ]
+        }
+      ],
+      "studyStatus": "curated"
     },
     {
       "id": 3,
@@ -298,7 +365,16 @@
       ],
       "chunkAudio": [
         "audio/1962-05/chunks-views/03-01.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "definitely",
+          "meaning": "분명히, 확실히",
+          "note": "빛이 이미 존재한다는 확신을 강조합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 4,
@@ -314,7 +390,36 @@
       "chunkAudio": [
         "audio/1962-05/chunks-views/04-01.mp3",
         "audio/1962-05/chunks-views/04-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "disappears",
+          "meaning": "사라진다",
+          "note": "disappear의 3인칭 단수 현재형이며 주어는 darkness입니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "once + 주어 + 동사",
+          "meaning": "일단 ~하면",
+          "grammar": "시간·조건의 접속사 once",
+          "title": "once + 주어 + 동사",
+          "detailMeaning": "일단 ~하면",
+          "original": "and once it is met all darkness in life disappears.",
+          "explanation": "접속사 `once`는 어떤 일이 이루어진 뒤를 뜻해요. 여기서 it은 내면의 빛을 가리키며, 한 번이라는 부사 용법과 구분해요.",
+          "examples": [
+            {
+              "english": "Once you understand the pattern, it gets easier.",
+              "korean": "패턴을 이해하고 나면 더 쉬워져."
+            },
+            {
+              "english": "Once I sat quietly, I noticed my breathing.",
+              "korean": "조용히 앉고 나니 호흡을 알아차렸어."
+            }
+          ]
+        }
+      ],
+      "studyStatus": "curated"
     },
     {
       "id": 5,
@@ -334,7 +439,36 @@
         "audio/1962-05/chunks-views/05-02.mp3",
         "audio/1962-05/chunks-views/05-03.mp3",
         "audio/1962-05/chunks-views/05-04.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "peel away",
+          "meaning": "한 겹씩 벗겨내다",
+          "note": "어둠이 사라지는 과정을 껍질을 벗기는 모습에 비유함"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "layer by layer",
+          "meaning": "한 겹씩",
+          "grammar": "명사 + by + 같은 명사",
+          "title": "layer by layer",
+          "detailMeaning": "한 겹씩",
+          "original": "peels away the darkness layer by layer",
+          "explanation": "같은 명사를 `by`로 연결하면 하나씩 순서대로라는 뜻이 돼요. `step by step`도 같은 방식의 표현이에요.",
+          "examples": [
+            {
+              "english": "We removed the old paint layer by layer.",
+              "korean": "우리는 오래된 페인트를 한 겹씩 벗겨냈어."
+            },
+            {
+              "english": "I am understanding myself layer by layer.",
+              "korean": "나는 나 자신을 한 겹씩 더 이해해 가고 있어."
+            }
+          ]
+        }
+      ],
+      "studyStatus": "curated"
     },
     {
       "id": 6,
@@ -350,7 +484,16 @@
       "chunkAudio": [
         "audio/1962-05/chunks-views/06-01.mp3",
         "audio/1962-05/chunks-views/06-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "unfold",
+          "meaning": "펼치다, 펼쳐지다",
+          "note": "가려져 있던 세계가 드러나는 모습"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 7,
@@ -366,7 +509,16 @@
       "chunkAudio": [
         "audio/1962-05/chunks-views/07-01.mp3",
         "audio/1962-05/chunks-views/07-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "bondage",
+          "meaning": "속박, 얽매임",
+          "note": "자유롭지 못하게 붙잡는 상태"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 8,
@@ -382,7 +534,16 @@
       "chunkAudio": [
         "audio/1962-05/chunks-views/08-01.mp3",
         "audio/1962-05/chunks-views/08-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "realization",
+          "meaning": "깨달음, 자각",
+          "note": "무언가를 분명하게 알아차리게 되는 경험이나 인식을 뜻합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 9,
@@ -398,7 +559,41 @@
       "chunkAudio": [
         "audio/1962-05/chunks-views/09-01.mp3",
         "audio/1962-05/chunks-views/09-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "liberation",
+          "meaning": "해방, 해탈",
+          "note": "본문에서는 본래의 자유를 자각하는 일로 제시됨"
+        },
+        {
+          "word": "eternally",
+          "meaning": "영원히",
+          "note": "eternally free: 영원히 자유로운"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "that which + 동사",
+          "meaning": "~하는 것",
+          "grammar": "지시대명사 that + 관계대명사 which",
+          "title": "that which + 동사",
+          "detailMeaning": "~하는 것",
+          "original": "Liberation happens to that which is eternally free!",
+          "explanation": "`that`이 사물이나 어떤 본질을 가리키고 `which`절이 그것을 설명해요. 일상적인 `what`보다 격식 있고 문학적인 구조예요.",
+          "examples": [
+            {
+              "english": "Value that which brings you peace.",
+              "korean": "너에게 평화를 가져오는 것을 소중히 여겨."
+            },
+            {
+              "english": "We often overlook that which is closest to us.",
+              "korean": "우리는 가장 가까이 있는 것을 자주 놓쳐."
+            }
+          ]
+        }
+      ],
+      "studyStatus": "curated"
     },
     {
       "id": 10,
@@ -414,7 +609,16 @@
       "chunkAudio": [
         "audio/1962-05/chunks-views/10-01.mp3",
         "audio/1962-05/chunks-views/10-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "progress",
+          "meaning": "진전, 발전",
+          "note": "학습이나 수행이 앞으로 나아가는 상태를 뜻하는 불가산명사입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 11,
@@ -430,7 +634,16 @@
       "chunkAudio": [
         "audio/1962-05/chunks-views/11-01.mp3",
         "audio/1962-05/chunks-views/11-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "received",
+          "meaning": "받은",
+          "note": "was received는 편지가 받아들여졌다는 과거 수동태입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 12,
@@ -448,7 +661,16 @@
         "audio/1962-05/chunks-views/12-01.mp3",
         "audio/1962-05/chunks-views/12-02.mp3",
         "audio/1962-05/chunks-views/12-03.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "delay",
+          "meaning": "지연, 늦어짐",
+          "note": "답장을 쓰는 일이 예정보다 늦어진 것을 뜻합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 13,
@@ -464,7 +686,16 @@
       "chunkAudio": [
         "audio/1962-05/chunks-views/13-01.mp3",
         "audio/1962-05/chunks-views/13-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "memory",
+          "meaning": "기억",
+          "note": "상대방을 마음속으로 떠올리며 기억하고 있음을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 14,
@@ -480,7 +711,36 @@
       "chunkAudio": [
         "audio/1962-05/chunks-views/14-01.mp3",
         "audio/1962-05/chunks-views/14-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "eager",
+          "meaning": "간절히 바라는",
+          "note": "eager for the light: 빛을 간절히 바라는"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "be eager for",
+          "meaning": "~을 간절히 바라다",
+          "grammar": "be + 형용사 + for",
+          "title": "be eager for",
+          "detailMeaning": "~을 간절히 바라다",
+          "original": "along with all those eager for the light.",
+          "explanation": "`eager for + 명사`는 대상을 간절히 바란다는 뜻이에요. 행동을 붙일 때는 `eager to + 동사원형`을 써요.",
+          "examples": [
+            {
+              "english": "They are eager for a fresh start.",
+              "korean": "그들은 새로운 시작을 간절히 바라고 있어."
+            },
+            {
+              "english": "I am eager to learn more.",
+              "korean": "나는 더 배우고 싶어."
+            }
+          ]
+        }
+      ],
+      "studyStatus": "curated"
     },
     {
       "id": 15,
@@ -498,7 +758,16 @@
         "audio/1962-05/chunks-views/15-01.mp3",
         "audio/1962-05/chunks-views/15-02.mp3",
         "audio/1962-05/chunks-views/15-03.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "wishes",
+          "meaning": "바람, 기원",
+          "note": "good wishes는 상대가 잘되기를 바라는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 16,
@@ -512,7 +781,36 @@
       ],
       "chunkAudio": [
         "audio/1962-05/chunks-views/16-01.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "going",
+          "meaning": "계속 나아가기",
+          "note": "keep going은 하던 일을 멈추지 않고 지속하라는 표현입니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "keep -ing",
+          "meaning": "계속 ~하다",
+          "grammar": "keep + 동명사",
+          "title": "keep -ing",
+          "detailMeaning": "계속 ~하다",
+          "original": "We have to keep going.",
+          "explanation": "`keep` 뒤에 -ing를 붙여 행동을 계속한다는 뜻을 만들어요. `have to`를 더하면 계속해야 한다는 뜻이에요.",
+          "examples": [
+            {
+              "english": "Keep listening to your own experience.",
+              "korean": "네 경험에 계속 귀 기울여 봐."
+            },
+            {
+              "english": "We kept walking until we reached the village.",
+              "korean": "우리는 마을에 도착할 때까지 계속 걸었어."
+            }
+          ]
+        }
+      ],
+      "studyStatus": "curated"
     },
     {
       "id": 17,
@@ -530,7 +828,36 @@
         "audio/1962-05/chunks-views/17-01.mp3",
         "audio/1962-05/chunks-views/17-02.mp3",
         "audio/1962-05/chunks-views/17-03.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "disheartened",
+          "meaning": "낙담한, 용기를 잃은",
+          "note": "길을 가다가 마음이 꺾인 상태"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "become disheartened",
+          "meaning": "낙담하게 되다",
+          "grammar": "become + 형용사",
+          "title": "become disheartened",
+          "detailMeaning": "낙담하게 되다",
+          "original": "Many times one becomes disheartened on the path",
+          "explanation": "`become`은 상태의 변화를 나타내요. `disheartened`는 용기를 잃고 마음이 꺾인 상태를 표현해요.",
+          "examples": [
+            {
+              "english": "Don't become disheartened by a slow start.",
+              "korean": "시작이 더디다고 낙담하지 마."
+            },
+            {
+              "english": "I became disheartened, but my friend encouraged me.",
+              "korean": "나는 낙담했지만 친구가 용기를 주었어."
+            }
+          ]
+        }
+      ],
+      "studyStatus": "curated"
     },
     {
       "id": 18,
@@ -548,7 +875,21 @@
         "audio/1962-05/chunks-views/18-01.mp3",
         "audio/1962-05/chunks-views/18-02.mp3",
         "audio/1962-05/chunks-views/18-03.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "pilgrim",
+          "meaning": "순례자",
+          "note": "진리나 깨달음을 찾아가는 사람에 대한 비유"
+        },
+        {
+          "word": "spring",
+          "meaning": "샘, 샘물",
+          "note": "이 문맥에서는 계절 봄이나 용수철이 아니라 물이 솟는 곳"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 19,
@@ -566,7 +907,16 @@
         "audio/1962-05/chunks-views/19-01.mp3",
         "audio/1962-05/chunks-views/19-02.mp3",
         "audio/1962-05/chunks-views/19-03.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "thirst",
+          "meaning": "갈증, 목마름",
+          "note": "수행을 향한 갈망에 빗대어 쓰인 말입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 20,
@@ -580,7 +930,16 @@
       ],
       "chunkAudio": [
         "audio/1962-05/chunks-views/20-01.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "regards",
+          "meaning": "안부, 인사",
+          "note": "편지에서 안부 인사를 전할 때 쓰는 복수명사입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     }
   ],
   "translations": [

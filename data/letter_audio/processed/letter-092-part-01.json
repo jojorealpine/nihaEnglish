@@ -1,0 +1,79 @@
+{
+  "key": "letter-092-part-01",
+  "number": 92,
+  "generationId": "01a1e631-52d0-72d2-90d5-2f9511bf9875",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-92/01.mp3",
+      "start": 0.0,
+      "end": 0.654172
+    },
+    {
+      "index": 1,
+      "text": "I received your letter.",
+      "path": "audio/1970-92/02.mp3",
+      "start": 1.9780729999999997,
+      "end": 3.198345
+    },
+    {
+      "index": 2,
+      "text": "Do not fall into the whirl of calming the mind; this in itself is the restlessness.",
+      "path": "audio/1970-92/03.mp3",
+      "start": 4.486825,
+      "end": 9.162970999999999
+    },
+    {
+      "index": 3,
+      "text": "The mind is what it is, accept it as such.",
+      "path": "audio/1970-92/04.mp3",
+      "start": 10.472517000000002,
+      "end": 13.322856999999999
+    },
+    {
+      "index": 4,
+      "text": "This acceptance brings peace.",
+      "path": "audio/1970-92/05.mp3",
+      "start": 14.629433,
+      "end": 16.521338
+    },
+    {
+      "index": 5,
+      "text": "Rejection is restlessness, acceptance is peace - and he who reaches total acceptance attains to God.",
+      "path": "audio/1970-92/06.mp3",
+      "start": 17.721769,
+      "end": 23.923424
+    },
+    {
+      "index": 6,
+      "text": "There is no way other than this.",
+      "path": "audio/1970-92/07.mp3",
+      "start": 25.378073,
+      "end": 27.624376
+    },
+    {
+      "index": 7,
+      "text": "Understand this well because this understanding brings acceptance.",
+      "path": "audio/1970-92/08.mp3",
+      "start": 29.045033999999998,
+      "end": 32.733311
+    },
+    {
+      "index": 8,
+      "text": "Acceptance cannot come from an act of will - the action of will is itself non-accepting.",
+      "path": "audio/1970-92/09.mp3",
+      "start": 34.200975,
+      "end": 39.794444
+    },
+    {
+      "index": 9,
+      "text": "I do conceals non-acceptance because will is always of the ego.",
+      "path": "audio/1970-92/10.mp3",
+      "start": 41.216463000000005,
+      "end": 45.58
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "sourceHash": "83103976fe4c12d0896ee89e115195c00b954d02e09f5ad5e18ac82ac063a1bd",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "do-support",
+      "notes": {
+        "korean": "사람은 왜 그렇게 고통받는 걸까?",
+        "explanation": "인간이 왜 많은 고통을 겪는지에 대한 질문",
+        "grammar": "조동사 「does」가 본동사 「suffer」와 함께 쓰였습니다. 의문문을 만들거나 동작을 강조할 때 do/does/did 뒤의 본동사는 원형을 유지합니다.",
+        "vocabulary": [
+          {
+            "word": "man",
+            "meaning": "사람",
+            "note": "일반적으로 남성을 가리키지만, 문맥상 인간 전체를 의미할 수 있음"
+          },
+          {
+            "word": "suffer",
+            "meaning": "고통받다",
+            "note": "신체적 고통뿐 아니라 정신적 고통이나 어려움도 포함"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "인간의 삶에는 혼돈만 있고 조용한 음악은 없기 때문이다.",
+        "explanation": "인간 삶의 혼돈과 조용한 평온함의 부재를 통해 고통의 원인을 설명한다.",
+        "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "pandemonium",
+            "meaning": "혼돈, 혼란",
+            "note": "삶의 무질서함이나 혼란스러운 상태를 의미한다."
+          },
+          {
+            "word": "soundless",
+            "meaning": "조용한",
+            "note": "음악이 조용하고 평온한 상태를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "그의 삶에는 생각들의 시끄러운 소리가 있지만 고요함은 없다.",
+        "explanation": "그의 삶은 혼란스러운 생각들로 가득 차 있지만 평온함이나 고요함은 찾아볼 수 없다는 의미입니다.",
+        "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "thoughts",
+            "meaning": "생각들",
+            "note": "개인의 머릿속에서 떠오르는 다양한 생각이나 아이디어를 의미합니다."
+          },
+          {
+            "word": "emptiness",
+            "meaning": "고요함, 공허함",
+            "note": "정신적 또는 내면적인 고요함이나 평온함을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "그의 삶에는 혼란스러운 감정들이 가득하지만 평온함은 없다.",
+        "explanation": "그의 내면 세계는 다양한 감정들로 가득 차 있지만, 그 감정들 사이에서 균형을 이루는 평온함은 찾아볼 수 없다는 의미입니다.",
+        "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "turmoil",
+            "meaning": "혼란, 혼란스러운 상태",
+            "note": "여기서는 내면의 감정들이 복잡하게 얽혀 있어 평온하지 않은 상태를 나타냅니다."
+          },
+          {
+            "word": "equanimity",
+            "meaning": "평온, 균형",
+            "note": "평온함이나 감정적 균형을 의미하며, 이 문장에서는 그러한 상태가 부재함을 강조합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "마지막으로, 그의 삶에는 자신의 모습이 많이 드러나지만 신은 전혀 없으니 아무것도 없다.",
+        "explanation": "문장은 개인의 삶에서 자아의 표현이 강조되지만 신성한 요소나 내면의 평온함이 결여되어 있다는 의미를 전달한다.",
+        "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "finally",
+            "meaning": "마지막으로",
+            "note": "문장의 결론이나 마지막 요점을 나타냄"
+          },
+          {
+            "word": "life",
+            "meaning": "삶",
+            "note": "개인의 경험이나 존재 상태를 지칭"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "그의 삶에는 방향 없는 고요함을 모르는 혼란스러운 움직임만이 존재한다.",
+        "explanation": "문장은 개인의 삶이 감정적 혼란으로 가득 차 있지만 평온함이나 내면의 고요함이 결여되어 있다는 의미를 전달한다.",
+        "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "stillness",
+            "meaning": "고요함",
+            "note": "내면의 평온함이나 조용한 상태를 의미한다."
+          },
+          {
+            "word": "directions",
+            "meaning": "방향",
+            "note": "정신적 또는 내면적 안정의 부재를 상징적으로 표현하며, 내면의 혼란이나 방향성 없는 상태를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

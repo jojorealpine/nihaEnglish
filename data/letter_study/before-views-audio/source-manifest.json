@@ -1,0 +1,6451 @@
+{
+  "1": {
+    "sourceHash": "13679abae46d9c0c62e55ef1de25e555a9ddeb17c960768a42c6456a0ab89eeb",
+    "preservedStudy": [
+      {
+        "korean": "사랑하는 이여, 당신의 편지를 받았습니다.",
+        "explanation": "편지의 첫 호칭입니다. 단어 자체는 ‘사랑’이지만 여기서는 애정 어린 부름입니다. 상대의 편지를 받았다는 간단한 과거 사실입니다.",
+        "grammar": "편지 시작의 호칭. 현대 영어 편지에서는 Dear ... 또는 My dear ...도 자주 씁니다. receive + 명사: ‘~을 받다’. received는 과거형."
+      },
+      {
+        "korean": "무언가 써 달라고 당신은 얼마나 다정하게 청하는지요. 그런데 나는 깊은 침묵 속에 잠겨 있습니다!",
+        "explanation": "다정한 재촉에 놀라거나 감탄하는 어조입니다. 제공된 원문의 반복 ‘I am I, I’와 ‘I drowned’를 그대로 보존했습니다. 이 부분은 표준적인 영어 문장으로는 어색하지만, 말하는 이의 멈칫함 또는 필사 과정의 오류일 가능성이 있습니다.",
+        "grammar": "How + 부사 + 주어 + 동사: 감탄문 형태. insist on + 소유격(my) + 동명사(writing)는 격식 있는 구성입니다. here I am은 ‘여기 내가 있다’. drowned in은 ‘~에 잠긴’이라는 뜻으로 읽을 수 있으나, 여기의 I drowned는 시제·구조상 비표준적입니다. 자연스러운 영어라면 ‘Here I am, drowned in a deep silence.’"
+      },
+      {
+        "korean": "나는 말하고 일하지만 내면에서는 공(空)에 깊이 잠겨 있습니다.",
+        "explanation": "겉으로는 일상의 행동을 계속하는 모습입니다. steeped in은 어떤 분위기나 감각 속에 완전히 배어 있다는 비유입니다. 여기서 emptiness는 반드시 우울이나 결핍만을 뜻하지는 않습니다.",
+        "grammar": "I speak와 I work를 쉼표로 병렬 나열해 리듬감을 줍니다. be steeped in + 명사: ~에 깊이 잠겨 있다. within은 ‘내면에, 안쪽에’라는 문어적 표현."
+      },
+      {
+        "korean": "그곳에는 아무런 움직임도 없습니다.",
+        "explanation": "겉의 활동과 대비되는 내면의 정적을 설명합니다.",
+        "grammar": "첫 번째 There는 ‘그곳에는’, 두 번째 there는 there is 존재구문입니다."
+      },
+      {
+        "korean": "그래서 나는 동시에 두 삶을 사는 것 같습니다.",
+        "explanation": "외적으로는 말하고 일하지만, 안으로는 침묵하는 이중의 감각입니다.",
+        "grammar": "seem to be + -ing: ‘~하고 있는 것 같다’. at one time은 여기서 ‘동시에’라는 맥락으로 사용했습니다."
+      },
+      {
+        "korean": "이 얼마나 극적인 일인가요!",
+        "explanation": "이 두 가지 삶을 극적인 장면처럼 바라봅니다.",
+        "grammar": "What a + 명사!: 감탄문. What a surprise!와 같은 구조."
+      },
+      {
+        "korean": "어쩌면 삶 전체가 하나의 연극이고, 이를 알아차리는 순간 특별한 자유의 문이 열리는지도 모릅니다.",
+        "explanation": "자신이 맡은 역할과 그 역할을 알아차리는 의식 사이에 거리를 둘 때 생기는 자유를 이야기합니다.",
+        "grammar": "perhaps: 어쩌면. becoming aware of ...는 동명사구 주어. open the door to + 명사: ‘~로 가는 길을 열다’."
+      },
+      {
+        "korean": "행동 속의 무위, 움직임 속의 고요, 변화 속의 영원 —",
+        "explanation": "반대되는 개념을 겹쳐 놓아, 변화하는 삶 속에서도 변치 않는 고요를 가리킵니다.",
+        "grammar": "that which는 ‘~하는 것’이라는 문어적 관계절 표현. inaction/action, stillness/motion, eternity/change는 의도적인 역설입니다."
+      },
+      {
+        "korean": "그것이 진리이며 존재입니다. 참된 삶은 이 영원 속에 있습니다 —",
+        "explanation": "반대되는 개념을 겹쳐 놓아, 변화하는 삶 속에서도 변치 않는 고요를 가리킵니다. 삶의 본질이 변화 바깥이 아니라 변화 속에 있는 ‘영원함’에 있다고 말합니다.",
+        "grammar": "that which는 ‘~하는 것’이라는 문어적 관계절 표현. inaction/action, stillness/motion, eternity/change는 의도적인 역설입니다. lie in + 명사: ‘~에 있다, ~에 달려 있다’. 여기서 lies는 ‘거짓말하다’가 아닙니다."
+      },
+      {
+        "korean": "그 밖의 모든 것은 그저 꿈의 흐름일 뿐입니다.",
+        "explanation": "흘러가고 변하는 경험들을 꿈의 흐름에 비유합니다.",
+        "grammar": "everything else: 그 밖의 모든 것. a stream of ~: ~의 흐름."
+      },
+      {
+        "korean": "실로 세상은 하나의 꿈이며, 문제는 이 꿈들을 떠나야 하느냐가 아니라",
+        "explanation": "세상을 버리거나 회피하는 것이 아니라 알아차리는 태도를 강조합니다. 원문은 쉼표로 이어진 긴 문장이어서 현대 작문에서는 분리하는 편이 명료합니다.",
+        "grammar": "whether to + 동사: ‘~할지 여부’. be aware of + 명사: ‘~을 알아차리다’. these dreams는 복수형."
+      },
+      {
+        "korean": "그저 그것들을 알아차리면 된다는 것입니다.",
+        "explanation": "세상을 버리거나 회피하는 것이 아니라 알아차리는 태도를 강조합니다. 원문은 쉼표로 이어진 긴 문장이어서 현대 작문에서는 분리하는 편이 명료합니다.",
+        "grammar": "whether to + 동사: ‘~할지 여부’. be aware of + 명사: ‘~을 알아차리다’. these dreams는 복수형."
+      },
+      {
+        "korean": "이러한 알아차림과 함께 모든 것이 변합니다.",
+        "explanation": "외적 사건보다 사건을 바라보는 관점의 변화에 가깝습니다.",
+        "grammar": "with + 명사: ‘~와 함께, ~을 통해’. everything은 단수 취급하므로 changes."
+      },
+      {
+        "korean": "중심이 이동합니다.",
+        "explanation": "무엇을 중심으로 자신을 경험하는지가 달라진다는 은유입니다.",
+        "grammar": "center는 여기서 물리적 가운데보다는 경험의 중심을 뜻하는 비유로 읽힙니다."
+      },
+      {
+        "korean": "몸에서 영혼으로 전환이 일어납니다.",
+        "explanation": "자기 인식의 중심이 몸에서 더 깊은 내면으로 이동한다는 철학적 표현입니다.",
+        "grammar": "take place: 발생하다. a shift: 전환, 변화. from A to B: A에서 B로."
+      },
+      {
+        "korean": "그리고 거기에 무엇이 있는지는 말로 전할 수 없습니다.",
+        "explanation": "완결된 평서문이라기보다 뒤의 ‘말로 할 수 없다’와 연결되는 시적 중단처럼 읽힙니다. 언어로 온전히 설명할 수 없는 경험을 가리킵니다.",
+        "grammar": "표준 문법상 질문이라면 ‘And what is there?’가 자연스럽습니다. 여기서는 원문의 마침표를 유지했습니다. cannot be + 과거분사: 수동태. be told: 말해지다, 전해지다."
+      },
+      {
+        "korean": "그것은 한 번도 말로 전해진 적 없고 앞으로도 그럴 것입니다.",
+        "explanation": "말로 전달하는 데에는 본질적인 한계가 있다는 강조입니다.",
+        "grammar": "has never been told: 현재완료 수동태. will be 뒤에는 told가 생략되어 있습니다."
+      },
+      {
+        "korean": "스스로 직접 아는 것 외에는 다른 방법이 없습니다.",
+        "explanation": "체험적 깨달음은 대신 설명해 줄 수 없다는 메시지입니다.",
+        "grammar": "no other way but to + 동사: ‘~하는 것 외에 방법이 없다’. for oneself: 스스로, 직접."
+      },
+      {
+        "korean": "죽음은 자기 내면으로 깊이 들어가야만 알 수 있습니다.",
+        "explanation": "사용자가 적은 Death를 그대로 보존했습니다. 내면을 깊이 탐구하는 방식으로 죽음을 이해한다는 철학적 구절입니다.",
+        "grammar": "through + 동명사(-ing): ‘~함으로써’. diving deep within oneself: 자기 내면 깊이 들어가는 것."
+      },
+      {
+        "korean": "신께서 당신을 이 진리 속에 깊이 잠기게 하시기를.",
+        "explanation": "편지의 마지막 축원입니다. drown은 실제 익사가 아닌 진리에 완전히 잠긴다는 시적인 비유입니다.",
+        "grammar": "May + 주어 + 동사원형: ‘~하기를’이라는 기원문. drown someone in ~: ~에 푹 잠기게 하다."
+      }
+    ]
+  },
+  "2": {
+    "sourceHash": "e24431d31b1eddbd62c25f77dfe7cdd74c49b752488d8bdde73de2609866af17",
+    "preservedStudy": [
+      {
+        "korean": "사랑하는 이여, 나는 더없는 행복 속에 있습니다.",
+        "explanation": "Love는 편지를 받는 이를 다정하게 부르는 호칭입니다. bliss는 깊고 충만한 행복을 나타내며, 이 편지에서는 내면의 평온과 기쁨을 전하는 말로 읽을 수 있습니다.",
+        "grammar": "Love 뒤의 쉼표는 호칭과 본문을 구분합니다. be in + 상태를 나타내는 명사: ‘~한 상태에 있다’. in bliss는 ‘더없는 행복 속에’라는 뜻입니다."
+      },
+      {
+        "korean": "나는 오래전부터 편지를 쓰려고 생각해 왔습니다.",
+        "explanation": "편지를 쓰려는 마음은 오래전부터 있었지만 아직 실행하지 못했다는 뉘앙스입니다. 문장은 다음 구절의 but과 이어져 편지가 늦어진 이유를 설명합니다.",
+        "grammar": "have been meaning to + 동사원형은 현재완료진행형으로, ‘전부터 ~하려고 생각해 왔다’는 뜻입니다. 실제로 계속 글을 썼다는 의미는 아닙니다. for a long time은 그 마음이 이어진 기간을 나타냅니다."
+      },
+      {
+        "korean": "하지만 여러 약속과 일정 때문에 편지를 쓰지 못했습니다.",
+        "explanation": "앞 구절의 ‘쓰려고 했다’와 대비되어, 바쁜 일정이 편지를 쓰는 데 걸림돌이 되었다고 말합니다. engagements는 여기서 약혼이 아니라 여러 약속이나 해야 할 일을 뜻합니다.",
+        "grammar": "but은 앞 내용과 대조되는 이유를 잇습니다. prevent + 사람 + from + -ing: ‘누군가가 ~하지 못하게 하다’. 여기서는 문맥상 분명한 from writing이 me 뒤에 생략된 것으로 이해할 수 있습니다."
+      },
+      {
+        "korean": "하지만 나의 축복은 날마다 당신에게 보내고 있습니다.",
+        "explanation": "편지는 자주 보내지 못해도 상대를 향한 축복과 따뜻한 마음은 매일 보내고 있다는 뜻입니다. My blessings를 문장 맨 앞에 놓아 축복 자체를 강조합니다.",
+        "grammar": "기본 어순은 ‘I send my blessings every day.’입니다. 목적어 My blessings를 앞으로 옮겼고, however는 쉼표 사이에 삽입된 전환 표현입니다. every day는 ‘매일’이라는 부사구로, 형용사 everyday와 구분합니다."
+      },
+      {
+        "korean": "삶은 하나의 수행입니다.",
+        "explanation": "삶 전체를 영적인 수련의 과정으로 바라보는 문장입니다. 여기서 sadhana는 수행이나 영적 수련을 가리키며, 다음 구절은 삶에 참여하는 태도를 이야기합니다.",
+        "grammar": "Life는 주어, is는 연결동사, a sadhana는 주어를 설명하는 보어입니다. 원문의 쉼표 뒤로 삶의 수행에 관한 설명이 이어집니다."
+      },
+      {
+        "korean": "삶에 깊이 참여할수록 삶은 더욱 신성해집니다.",
+        "explanation": "삶을 멀리서 바라보기만 하는 대신 그 안에 깊이 참여할 때 삶의 신성함을 더 느끼게 된다는 맥락입니다. 두 번 나오는 it은 모두 앞 구절의 Life를 가리킵니다.",
+        "grammar": "the + 비교급 ..., the + 비교급 ...: ‘~하면 할수록 더욱 …하다’. involve yourself in + 명사: ‘스스로 ~에 참여하다’. become + 형용사는 상태의 변화를 나타냅니다."
+      },
+      {
+        "korean": "빛은 어둠 속에 숨어 있고, 진리도 감추어져 있습니다.",
+        "explanation": "빛과 어둠을 대비시켜, 소중한 것이 당장 눈에 드러나지 않는 모습을 표현합니다. 진리 역시 감추어져 있다는 말은 다음 구절의 ‘찾는 기쁨’으로 이어집니다.",
+        "grammar": "be hidden은 hide의 과거분사 hidden을 사용해 ‘감추어져 있다’는 상태를 나타냅니다. 두 절이 원문에서는 쉼표로 연결되어 있습니다. 일반적인 작문에서는 접속사를 넣거나 문장을 나눌 수 있습니다."
+      },
+      {
+        "korean": "그리고 바로 여기에서 찾아 나서는 기쁨이 생겨납니다.",
+        "explanation": "진리가 감추어져 있기 때문에 그것을 찾아가는 기쁨도 생겨난다는 뜻입니다. this는 앞 구절에서 말한, 빛과 진리가 숨어 있는 상황을 가리킵니다.",
+        "grammar": "기본 어순은 ‘The joy of searching comes from this.’입니다. from this를 앞으로 옮기면서 동사 comes가 주어 the joy of searching 앞에 오는 도치가 일어났습니다. of 뒤의 searching은 동명사입니다."
+      },
+      {
+        "korean": "나는 한 현자의 말을 떠올립니다.",
+        "explanation": "자신의 생각을 뒷받침하는 현자의 말을 소개합니다. rishi는 인도의 영적 전통에서 성자나 현자를 가리키며, 뒤에 나오는 황금 뚜껑의 비유를 이끌어 줍니다.",
+        "grammar": "remember + 명사: ‘~을 기억하다, 떠올리다’. the words of + 사람은 ‘~의 말’을 뜻합니다. words는 여기서 개별 단어들이 아니라 누군가가 한 말을 가리킵니다."
+      },
+      {
+        "korean": "진리는 황금 뚜껑 아래에 감추어져 있습니다.",
+        "explanation": "진리가 무언가에 덮여 드러나지 않는다는 비유입니다. 다음 구절은 이 황금 뚜껑이 우리의 마음을 뜻한다고 설명합니다.",
+        "grammar": "is hidden은 ‘감추어져 있다’는 상태를 나타냅니다. under + 명사는 ‘~아래에’를 뜻하는 전치사구입니다. golden은 lid를 꾸미는 형용사이며, lid는 그릇이나 상자 등을 덮는 뚜껑입니다."
+      },
+      {
+        "korean": "진리를 가리고 있는 그 황금 뚜껑은 바로 우리의 마음입니다.",
+        "explanation": "앞 구절의 비유를 풀어, 진리를 가리는 것이 바로 우리의 마음이라고 말합니다. 이 문맥의 mind는 생각하고 판단하는 마음으로 이해할 수 있습니다.",
+        "grammar": "that hides truth는 The golden lid를 꾸미는 관계절이며, that은 관계절의 주어입니다. 문장 전체의 주어는 The golden lid that hides truth, 동사는 is입니다. nothing but + 명사: ‘다름 아닌 ~, 오직 ~일 뿐’."
+      },
+      {
+        "korean": "마음은 우리를 숨 막히게 만들어 놓았습니다.",
+        "explanation": "마음이 우리를 덮고 억눌러 자유롭지 못하게 한다는 비유입니다. 뒤의 콜론은 마음에 짓눌린 상태가 어떤 것인지 구체적인 설명을 이어 줍니다.",
+        "grammar": "has + 과거분사 smothered는 현재완료입니다. 마음이 우리를 억눌렀고 그 영향이 지금도 이어진다는 뉘앙스입니다. smother + 목적어는 ‘~을 숨 막히게 하다, 억누르다’라는 뜻입니다."
+      },
+      {
+        "korean": "우리는 그 안에 있으며, 그 마음을 곧 나 자신이라고 여깁니다.",
+        "explanation": "두 번 나오는 it은 모두 마음을 가리킵니다. 마음속 생각에 머물면서 그 생각과 자신을 구분하지 못하는 상태를 설명합니다.",
+        "grammar": "be in + 명사: ‘~안에 있다’. identify with + 대상은 문맥에 따라 ‘~에 공감하다’ 또는 ‘~과 자신을 동일시하다’를 뜻합니다. 여기서는 뒤의 의미이며, 원문은 두 절을 쉼표로 연결합니다."
+      },
+      {
+        "korean": "그 때문에 괴로움과 속박, 그리고 거듭 태어나는 윤회의 사슬이 생겨납니다.",
+        "explanation": "마음과 자신을 동일시하는 데서 괴로움과 속박이 생겨난다는 편지의 결론입니다. chain은 반복되는 얽매임을 나타내는 비유이며, rebirths는 이 문맥에서 거듭 태어남, 윤회를 가리킵니다.",
+        "grammar": "therefore는 ‘그러므로, 그 결과’라는 연결부사입니다. suffering은 ‘괴로움’, bondage는 ‘속박’이며, 원문은 이를 the chain of rebirths와 함께 나열합니다. a chain of + 명사는 ‘~의 사슬, 연속’을 뜻합니다."
+      }
+    ]
+  },
+  "3": {
+    "sourceHash": "77695f33f1d257ed40a5b549a864a793647cb37daf59ea7798ec1b008f15b1aa",
+    "preservedStudy": [
+      {
+        "korean": "당신에게 경의를 전합니다.",
+        "explanation": "받는 이를 정중하게 대하는 편지의 첫인사입니다. respects는 여기서 존경의 뜻을 전하는 복수형 명사예요.",
+        "grammar": "주어와 동사가 생략된 인사 표현입니다. My respects to + 사람: ‘~에게 경의를 전합니다’."
+      },
+      {
+        "korean": "당신의 편지를 받고 대단히 기뻤습니다.",
+        "explanation": "편지를 받은 당시의 기쁨을 과거형으로 표현합니다. get은 이 문맥에서 편지를 받는다는 뜻이에요.",
+        "grammar": "was + 형용사 pleased는 과거의 상태입니다. to get your letter는 기쁜 이유를 설명하는 to부정사예요."
+      },
+      {
+        "korean": "지금까지 나는 아무것도 글로 쓰지 않았습니다만,",
+        "explanation": "지금까지 아직 글을 내놓지 않았다는 사실을 말합니다. 다음 구절의 but과 이어지는 문장이에요.",
+        "grammar": "so far는 ‘지금까지’. have not + 과거분사는 현재완료 부정형이며, 부정문에서 anything을 사용해요."
+      },
+      {
+        "korean": "이곳에 명상 센터가 시작되어 몇몇 친구들이 실험을 하고 있습니다.",
+        "explanation": "글을 쓰는 대신 이곳에서 실험을 진행하고 있다는 상황을 소개합니다. where는 명상 센터를 설명해요.",
+        "grammar": "has started는 시작되어 지금 운영되는 상황을 나타내는 현재완료입니다. where + 주어 + 동사는 앞의 장소를 설명하는 관계부사절이에요."
+      },
+      {
+        "korean": "분명한 결과를 얻으면 무언가 글을 쓸 가능성은 충분히 있습니다.",
+        "explanation": "먼저 결과를 확인한 다음 글로 전하겠다는 생각입니다. 확정적인 출판 약속이라기보다 가능성을 표현해요.",
+        "grammar": "미래의 때를 나타내는 when절에는 현재형 have를 씁니다. of my writing에서 writing은 동명사, my는 그 행동의 의미상 주어예요."
+      },
+      {
+        "korean": "나 자신을 대상으로 한 실험에 대해서는 확신하고 있습니다.",
+        "explanation": "스스로 경험한 결과에 대한 확신을 밝힙니다. About 구를 앞에 두어 말의 주제를 먼저 제시해요.",
+        "grammar": "About + 명사구가 문장 앞에 놓였습니다. on myself는 experiments를 설명하며, sure and certain은 병렬 형용사예요."
+      },
+      {
+        "korean": "하지만 그것이 다른 사람들에게도 얼마나 유용한지 시험해 보고 싶습니다.",
+        "explanation": "자신에게 효과가 있었다는 경험과 다른 사람에게 도움이 되는지는 구분해 확인하려는 뜻입니다. their는 앞의 실험들을 가리켜요.",
+        "grammar": "want to + 동사원형: ‘~하고 싶다’. usefulness to others는 ‘다른 사람들에게의 유용성’이라는 명사구예요."
+      },
+      {
+        "korean": "나는 철학의 방식으로 어떤 글을 쓰고 싶지는 않습니다.",
+        "explanation": "이 편지에서는 추상적인 사유만으로 글을 쓰기보다 실험을 토대로 이야기하겠다는 입장을 전합니다.",
+        "grammar": "do not want to + 동사원형은 바람의 부정입니다. in the manner of + 명사: ‘~의 방식으로’."
+      },
+      {
+        "korean": "나의 관점은 과학적입니다.",
+        "explanation": "저자가 자신의 접근 방식을 설명하는 문장입니다. 앞의 철학적 방식과 대비되는 자기 입장으로 읽을 수 있어요.",
+        "grammar": "my outlook이 주어, is가 연결동사, scientific이 주어의 성격을 설명하는 형용사 보어입니다."
+      },
+      {
+        "korean": "나는 몇몇 심리학적·초심리학적 실험을 토대로 요가에 관해 이야기하고 싶습니다.",
+        "explanation": "무엇을 근거로 요가를 설명하려는지 말합니다. psychological과 parapsychological은 모두 experiments를 꾸며요.",
+        "grammar": "want to say 뒤에 목적어 something과 about yoga가 옵니다. based on은 ‘~에 근거하여’라는 분사구이며, 두 형용사가 and로 연결됐어요."
+      },
+      {
+        "korean": "요가에 관해 사람들이 품고 있는 착각에 근거한 생각이 많고,",
+        "explanation": "it은 앞의 yoga를 가리킵니다. 저자는 그에 관한 여러 통념을 잘못된 생각으로 보고 있어요.",
+        "grammar": "There are + 복수 명사구. held about it은 notions를 뒤에서 꾸미는 과거분사구로, ‘그것에 관해 품고 있는’이라는 수동 의미예요."
+      },
+      {
+        "korean": "그런 생각들은 반박되어야 합니다.",
+        "explanation": "these는 앞의 illusory notions를 가리키며, 저자는 실험을 통해 이를 검토하려고 말합니다.",
+        "grammar": "have to는 필요를, be refuted는 수동태를 나타냅니다. refute는 ‘반박하다’이며 these는 복수 지시대명사예요."
+      },
+      {
+        "korean": "그래서 나는 이곳에서도 실험을 하고 있습니다.",
+        "explanation": "앞에서 밝힌 생각을 바탕으로 현재 진행하는 활동을 설명합니다. also는 이곳에서도 같은 시도를 한다는 뜻을 더해요.",
+        "grammar": "Therefore는 앞 내용에서 결과를 이끄는 연결 부사입니다. am experimenting은 현재진행형, here와 also는 부사예요."
+      },
+      {
+        "korean": "이 일이 어떤 집단이나 대의를 선전하기 위한 것이 아니라는 점은 나에게 분명합니다.",
+        "explanation": "개인의 탐구와 실험이 특정 집단의 이해나 주장을 널리 알리려는 목적은 아니라고 설명합니다. cause는 여기서 ‘대의, 추구하는 목적’이에요.",
+        "grammar": "It은 가주어이고 that절이 실제 내용입니다. for 뒤의 promoting은 동명사이며, any group or cause가 목적어예요."
+      },
+      {
+        "korean": "언제라도 이곳에 오시면 이 모든 것에 대해 더 이야기할 수 있겠습니다.",
+        "explanation": "방문할 기회가 생기면 직접 자세히 이야기하자는 초대와 여지를 남기며 편지를 맺습니다.",
+        "grammar": "If + 현재형 come으로 가능한 조건을 제시합니다. ever는 ‘언제라도’, can talk는 그때 가능한 행동을 나타내요."
+      }
+    ]
+  },
+  "4": {
+    "sourceHash": "904cabc1eae31f51cc8e4b1cb811314bc1f03701b0187302cae08972942b0f2a",
+    "preservedStudy": [
+      {
+        "korean": "당신에게 경의를 전합니다.",
+        "explanation": "앞 편지와 같은 정중한 첫인사입니다. 상대를 존중하는 마음으로 편지를 시작해요.",
+        "grammar": "My respects to + 사람은 주어와 동사가 생략된 격식 있는 인사 표현입니다."
+      },
+      {
+        "korean": "애정 어린 편지를 보내 주셔서 감사합니다.",
+        "explanation": "편지의 다정함과 그 안에 담긴 마음에 감사를 전합니다. affectionate는 애정과 따뜻함이 드러난다는 뜻이에요.",
+        "grammar": "be grateful for + 명사: ‘~에 감사하다’. affectionate는 letter를 꾸미는 형용사예요."
+      },
+      {
+        "korean": "당신이 명상하고 계시다니, 기쁜 일입니다.",
+        "explanation": "명상을 하고 있다는 소식을 기뻐하며 답합니다. that은 앞 절의 내용 전체를 가리켜요.",
+        "grammar": "are meditating은 현재진행형입니다. 대시 뒤에서 that을 주어로 앞 사실을 다시 평가하고, a matter for joy는 ‘기뻐할 일’이라는 명사구예요."
+      },
+      {
+        "korean": "명상에서 무언가를 이루겠다는 생각을 모두 내려놓고,",
+        "explanation": "명상을 성취를 위한 과제로 삼는 생각을 내려놓으라는 저자의 권유입니다. 다음 구절의 자연스러운 실천으로 이어져요.",
+        "grammar": "Drop은 동사원형으로 시작하는 명령문입니다. of 뒤의 achieving은 동명사이며 ideas의 내용을 설명해요."
+      },
+      {
+        "korean": "그저 자연스럽게 하십시오.",
+        "explanation": "just는 다른 조건을 덧붙이기보다 그저 하라는 느낌을 줍니다. it은 명상을 가리켜요.",
+        "grammar": "동사원형 do로 시작하는 명령문이며 naturally는 do를 꾸미는 부사입니다. 세미콜론은 다음의 밀접한 설명을 이어줘요."
+      },
+      {
+        "korean": "일어나는 일은 저절로 일어납니다.",
+        "explanation": "무엇이 일어날지를 의도로 통제하려 하지 말라는 맥락입니다. 같은 동사 happens를 반복해 자연스러운 과정을 강조해요.",
+        "grammar": "what happens는 ‘일어나는 것’이라는 명사절로 주어입니다. 뒤의 happens가 주절의 동사이고 on its own은 ‘저절로’예요."
+      },
+      {
+        "korean": "어느 날, 애쓰지 않아도 모든 일이 저절로 일어나기 시작합니다.",
+        "explanation": "결과를 재촉하기보다 자연스럽게 일어나는 변화를 기다리는 관점을 전합니다. by itself는 스스로라는 뜻이에요.",
+        "grammar": "One day와 effortlessly는 부사구·부사입니다. start + -ing는 어떤 행동이나 과정이 시작됨을 나타내며 everything은 단수 취급해요."
+      },
+      {
+        "korean": "애쓴다고 해서 명상에 이르는 것은 아니며,",
+        "explanation": "이 편지에서 effort는 성취하려고 힘을 주는 태도를 가리킵니다. 저자는 그것과 명상을 대비해 설명해요.",
+        "grammar": "does not + 동사원형 lead는 현재형 부정입니다. lead to + 명사: ‘~로 이어지다’이며 to는 전치사예요."
+      },
+      {
+        "korean": "오히려 그것은 방해가 됩니다.",
+        "explanation": "it은 앞의 effort를 가리킵니다. 앞 구절을 더 강하게 설명하며 애쓰는 태도가 장애가 된다는 입장을 말해요.",
+        "grammar": "in fact는 앞 내용을 바로잡거나 강조하는 연결 표현입니다. a hindrance는 주어 it을 설명하는 명사 보어예요."
+      },
+      {
+        "korean": "애씀과 연습과 공부 속에는 긴장이 있습니다.",
+        "explanation": "저자는 성취를 향해 힘을 쏟는 활동에 긴장이 함께한다고 설명합니다. 세 명사를 나열해 뜻을 확장해요.",
+        "grammar": "In + 명사 나열이 범위를 먼저 제시합니다. there is + 단수·불가산 명사 tension은 어떤 상태가 있음을 나타내요."
+      },
+      {
+        "korean": "어떤 기대든, 평화를 바라는 기대마저도 마음의 동요를 가져옵니다.",
+        "explanation": "평화를 얻으려는 기대도 마음을 들뜨게 할 수 있다는 역설을 전합니다. 쉼표 사이의 구는 기대의 예시를 덧붙여요.",
+        "grammar": "Any expectation이 단수 주어이므로 brings를 씁니다. even the expectation of peace는 삽입된 명사구이고 restlessness는 목적어예요."
+      },
+      {
+        "korean": "그 긴장이 사라져야 합니다.",
+        "explanation": "go는 여기서 장소로 가는 것이 아니라 긴장이 없어지는 것을 뜻합니다. 다음 문장이 그 이후의 상태를 설명해요.",
+        "grammar": "have to + 동사원형: ‘~해야 한다’. 주어 The tension이 단수이므로 has to go를 사용해요."
+      },
+      {
+        "korean": "그렇게 되자마자 신성한 평화가 찾아옵니다.",
+        "explanation": "this는 긴장이 사라지는 상황입니다. set in은 어떤 상태가 시작되어 자리 잡는다는 뜻이에요.",
+        "grammar": "As soon as + 현재형 happens는 시간절입니다. a divine peace가 주절의 주어이며 sets in은 ‘들어서다, 시작되다’라는 구동사예요."
+      },
+      {
+        "korean": "‘내가 하고 있다’는 느낌을 멈추고,",
+        "explanation": "명상을 내가 성취하고 통제한다는 감각을 내려놓으라는 권유입니다. 콜론 뒤는 그 느낌의 내용을 직접 제시해요.",
+        "grammar": "Stop + -ing는 하던 행동이나 상태를 멈추라는 뜻입니다. I am doing it은 직접 제시된 생각의 문장이에요."
+      },
+      {
+        "korean": "대신 ‘나는 나 자신을 있는 그대로의 존재에 맡긴다’고 알아차리십시오.",
+        "explanation": "that-which-is는 ‘존재하는 그것’을 하나의 이름처럼 묶은 표현입니다. 앞 구절의 능동적인 통제와 내맡김을 대비해요.",
+        "grammar": "realize는 앞 명령문과 이어지는 동사원형입니다. leave + 목적어 myself + 전치사구 in the hands of는 자신을 맡긴다는 구조예요."
+      },
+      {
+        "korean": "내맡기십시오.",
+        "explanation": "아주 짧은 명령문을 반복의 시작으로 사용해 내맡김이라는 주제를 강조합니다.",
+        "grammar": "동사원형 하나로 이루어진 명령문입니다. 목적어 없이 쓰인 surrender가 다음 구절에서는 목적어 yourself와 함께 반복돼요."
+      },
+      {
+        "korean": "자신을 온전히 내맡기십시오.",
+        "explanation": "completely가 내맡김의 정도를 강조합니다. 자기 의도로 결과를 붙잡는 태도를 놓으라는 맥락이에요.",
+        "grammar": "surrender + 재귀대명사 yourself는 자신을 내맡긴다는 뜻입니다. completely는 동사를 꾸미는 부사예요."
+      },
+      {
+        "korean": "그렇게 하자마자 비어 있음이 찾아옵니다.",
+        "explanation": "this는 앞의 완전한 내맡김을 가리킵니다. 저자는 그때 경험되는 마음의 비어 있음을 이야기해요.",
+        "grammar": "as soon as가 시간절을 이끌고 do this가 앞 행동을 대신합니다. emptiness는 불가산 명사 주어이므로 동사 comes를 써요."
+      },
+      {
+        "korean": "호흡과 몸이 점점 편안해지고 있다고 하셨지요.",
+        "explanation": "상대가 편지에서 전한 경험을 되짚습니다. 문장 끝의 you say는 앞 내용을 상대에게서 들었다는 표시예요.",
+        "grammar": "Breathing과 the body가 and로 연결된 주어여서 are를 씁니다. are becoming + 형용사 relaxed는 상태가 변해 가는 과정이에요."
+      },
+      {
+        "korean": "마음에도 그런 일이 일어날 것입니다.",
+        "explanation": "this는 앞에서 말한 호흡과 몸이 편안해지는 변화를 가리킵니다. 같은 이완이 마음에도 일어날 것이라는 저자의 답변이에요.",
+        "grammar": "will + 동사원형 happen은 앞으로의 변화를 나타냅니다. with the mind는 적용 대상을, too는 추가를 나타내요."
+      },
+      {
+        "korean": "마음의 움직임이 잦아들 때 일어나는 일은 말로 표현할 수 없습니다.",
+        "explanation": "이 문맥의 mind goes는 생각을 붙잡는 마음의 작용이 물러나는 것을 가리킵니다. 그 경험을 언어로 설명하기 어렵다고 말해요.",
+        "grammar": "When절 뒤의 what takes place는 ‘일어나는 일’이라는 명사절 주어입니다. take place는 ‘일어나다’, indescribable은 보어 형용사예요."
+      },
+      {
+        "korean": "나는 여러분 두 분에게도 이런 일이 일어나리라는 것을 알고 있습니다.",
+        "explanation": "앞서 이야기한 명상 경험이 받는 두 사람에게도 일어날 것이라는 확신을 전합니다. both로 두 사람 모두를 지칭해요.",
+        "grammar": "know 뒤에 that절을 목적어로 씁니다. be going to + 동사원형은 앞으로의 일을, happen to + 사람은 그 사람에게 생기는 일을 나타내요."
+      },
+      {
+        "korean": "그저 자연스럽게, 특정한 목적을 세우지 않고 계속하십시오.",
+        "explanation": "결과를 재촉하지 않고 명상을 이어가라는 권유입니다. naturally와 without purpose가 어떤 태도로 이어갈지 설명해요.",
+        "grammar": "go on은 ‘계속하다’라는 구동사입니다. 부사 naturally와 전치사구 without purpose가 and로 나란히 연결돼요."
+      },
+      {
+        "korean": "나는 곧 그곳에 가겠습니다.",
+        "explanation": "직접 방문할 뜻을 전합니다. shall은 I와 함께 미래의 의향을 나타내는 다소 격식 있는 표현이에요.",
+        "grammar": "Soon은 시간 부사입니다. shall + 동사원형 be는 미래를 나타내며 there는 편지를 받는 이가 있는 곳을 가리켜요."
+      },
+      {
+        "korean": "그때까지는 내가 말씀드린 일을 조용히 계속하십시오.",
+        "explanation": "방문하기 전까지 알려준 실천을 이어가 달라는 말입니다. what절은 그가 이미 전한 내용을 통틀어 가리켜요.",
+        "grammar": "until then은 ‘그때까지’. go on with + 명사절이며, have told you to do는 tell + 사람 + to부정사의 현재완료형이에요."
+      },
+      {
+        "korean": "모든 분께 경의를 전합니다.",
+        "explanation": "편지를 받는 개인뿐 아니라 함께 있는 이들에게도 인사를 보냅니다.",
+        "grammar": "My respects to + 대상이라는 인사 표현에서 all은 모든 사람을 가리키는 대명사예요."
+      },
+      {
+        "korean": "마음이 내킬 때면 언제든 편지를 쓰십시오.",
+        "explanation": "편지를 꼭 정해진 때에 쓰지 않아도 된다는 따뜻한 초대입니다. it은 편지 쓰기를 가리켜요.",
+        "grammar": "Write는 명령문입니다. whenever가 시간절을 이끌고 feel like + 명사·대명사는 ‘~하고 싶은 기분이다’라는 뜻이에요."
+      },
+      {
+        "korean": "나는 온전한 지복 속에 있습니다.",
+        "explanation": "자신의 깊은 행복과 충만함을 전하며 편지를 마칩니다. complete는 bliss의 온전함을 강조해요.",
+        "grammar": "be in + 상태를 나타내는 명사구는 ‘~한 상태에 있다’. complete는 불가산 명사 bliss를 꾸미는 형용사예요."
+      }
+    ]
+  },
+  "5": {
+    "sourceHash": "210d8a9fbd737950eb4f42e8656af776aa8e0b8a21a36dc1ea93afd0ae63d608",
+    "preservedStudy": [
+      {
+        "korean": "사랑을 전합니다.",
+        "explanation": "이 편지는 Love라는 짧은 말로 따뜻하게 시작합니다. 뒤에 나오는 본문과 구분되는 편지의 인사예요.",
+        "grammar": "명사 하나로 이루어진 인사 표현입니다. 문맥에 따라 ‘사랑하는 이여’ 또는 ‘사랑을 전합니다’로 자연스럽게 옮길 수 있어요."
+      },
+      {
+        "korean": "당신이 내면의 빛을 발견하려 노력하고 있는 것은 바로 신의 은총을 통해서입니다.",
+        "explanation": "상대의 내적 탐구를 신의 은총과 연결해 격려합니다. inner light는 내면의 깨달음을 빛에 비유한 표현이에요.",
+        "grammar": "It is + through God’s grace + that절이라는 강조구문입니다. work towards + 명사는 목표를 향해 노력함을 뜻해요."
+      },
+      {
+        "korean": "그 빛은 분명히 그곳에 있으며,",
+        "explanation": "앞에서 말한 내면의 빛을 다시 가리키며 확신을 전합니다. 다음 구절에서 그 빛을 만난 뒤의 변화를 설명해요.",
+        "grammar": "That은 light를 특정하는 지시 한정사입니다. definitely는 is there라는 존재의 진술을 강조하는 부사예요."
+      },
+      {
+        "korean": "일단 그 빛을 만나면 삶의 모든 어둠이 사라집니다.",
+        "explanation": "it은 내면의 빛을 뜻합니다. 그 빛을 만난다는 것은 자신의 내면을 새롭게 자각하는 경험에 대한 비유예요.",
+        "grammar": "once는 ‘일단 ~하면’이라는 접속사입니다. it is met는 수동태이며, 불가산 명사 darkness가 주어라 disappears를 써요."
+      },
+      {
+        "korean": "내면으로 내딛는 한 걸음 한 걸음은 어둠을 한 겹씩 벗겨내고,",
+        "explanation": "안으로 향하는 탐구를 걸음에, 알아차림을 가리던 것을 어둠의 층에 비유합니다. 다음의 unfolding과 이어져요.",
+        "grammar": "taken within은 step을 뒤에서 꾸미는 과거분사구입니다. Each step은 단수 주어이며 peel away는 ‘벗겨내다’, layer by layer는 ‘한 겹씩’이에요."
+      },
+      {
+        "korean": "모든 것이 새로운 빛의 세계를 펼쳐 보입니다.",
+        "explanation": "앞의 과정에 따라 새로운 세계가 드러나는 모습을 덧붙입니다. in which는 그 빛의 세계 안에서라는 뜻이에요.",
+        "grammar": "unfolding은 앞 절에 이어지는 분사구입니다. in which + 절은 a world of light를 꾸미며, where로 바꾸어 이해할 수 있어요."
+      },
+      {
+        "korean": "이 경험은 모든 속박을 잘라내고,",
+        "explanation": "내면의 빛을 만나는 경험이 얽매임에서 벗어나게 한다는 비유입니다. 대시 뒤에 역설적인 설명이 이어져요.",
+        "grammar": "This experience가 주어이고 cuts away는 ‘잘라 없애다’라는 구동사입니다. all bondage는 속박 전체를 뜻하는 목적어예요."
+      },
+      {
+        "korean": "그러고 나면 그 속박은 애초에 없었다는 깨달음이 찾아옵니다!",
+        "explanation": "it은 bondage를 가리킵니다. 자신을 묶었다고 생각한 것이 본래의 실체가 아니었다는 저자의 역설이에요.",
+        "grammar": "기본 어순은 the realization comes then입니다. then 뒤에서 동사 comes가 주어보다 먼저 오는 도치가 일어났고, that절은 realization의 내용이에요."
+      },
+      {
+        "korean": "해탈은 영원히 자유로운 바로 그것에 일어납니다!",
+        "explanation": "무언가를 새로 만들어 자유로워진다기보다 본래 자유로운 본질을 깨닫는다는 역설을 표현합니다.",
+        "grammar": "happen to + 대상은 그 대상에게 일어남을 나타냅니다. that이 지시대명사이고 which is eternally free가 그것을 설명하는 관계절이에요."
+      },
+      {
+        "korean": "당신의 진전이 기쁩니다.",
+        "explanation": "상대의 수행 과정에 대한 격려입니다. progress는 셀 수 없는 명사로, 앞으로 나아가는 과정을 뜻해요.",
+        "grammar": "be pleased with + 명사: ‘~에 기쁘다, 만족하다’. your는 progress가 누구의 진전인지 나타내요."
+      },
+      {
+        "korean": "당신의 편지는 오래전에 받았지만,",
+        "explanation": "편지를 받은 때를 되짚으며 답장이 늦어진 이유로 이어집니다. long back은 여기서 long ago와 같은 뜻이에요.",
+        "grammar": "was received는 과거 수동태입니다. long back은 시간 부사구이며, 일반적인 일상 영어에서는 a long time ago도 사용할 수 있어요."
+      },
+      {
+        "korean": "바쁜 탓에 답장이 늦어졌습니다.",
+        "explanation": "as는 이 문맥에서 때가 아니라 이유를 나타냅니다. 지연의 대상은 답장을 하는 일이에요.",
+        "grammar": "as + 주어 + 동사는 ‘~했기 때문에’라는 이유절입니다. there was delay는 지연이 있었음을 나타내고 in replying의 replying은 동명사예요."
+      },
+      {
+        "korean": "하지만 나는 언제나 당신을 기억하고 있으며,",
+        "explanation": "답장은 늦었어도 상대를 향한 마음은 이어지고 있다는 뜻입니다. memory of you는 당신에 대한 기억을 가리켜요.",
+        "grammar": "my memory of you가 주어입니다. always가 빈도·지속을, there가 기억이 계속 존재한다는 상태를 나타내요."
+      },
+      {
+        "korean": "빛을 간절히 바라는 모든 이들도 함께 기억하고 있습니다.",
+        "explanation": "빛을 찾는 다른 사람들에게까지 관심을 넓힙니다. those는 그런 사람들을 통틀어 가리키는 대명사예요.",
+        "grammar": "along with는 ‘~와 함께’. those 뒤의 eager for the light는 who are eager for the light가 줄어든 형용사구로 볼 수 있어요."
+      },
+      {
+        "korean": "그들을 향한 나의 축복은 언제나 흐르고 있습니다.",
+        "explanation": "상대와 같은 길을 걷는 사람들을 향한 바람을 흐르는 물처럼 묘사합니다. them은 앞의 빛을 바라는 이들이에요.",
+        "grammar": "good wishes는 좋은 일이 있기를 비는 마음입니다. flow가 동사, for ever가 지속을 나타내는 부사구, towards them이 방향을 나타내요."
+      },
+      {
+        "korean": "우리는 계속 나아가야 합니다.",
+        "explanation": "길이 더디더라도 계속 가자는 격려입니다. 뒤의 순례자와 샘의 비유를 이끌어요.",
+        "grammar": "have to + 동사원형은 필요를 나타냅니다. keep going은 keep + -ing 구조로 ‘계속 가다’라는 뜻이에요."
+      },
+      {
+        "korean": "길을 가다 보면 여러 번 낙담하게 되지만,",
+        "explanation": "one은 특정한 한 사람보다 누구에게나 있을 수 있는 경험을 가리킵니다. path는 탐구나 수행의 길에 대한 비유예요.",
+        "grammar": "Many times는 빈도를 나타내는 부사구입니다. one이 단수 주어여서 becomes를 쓰며, disheartened는 상태를 설명하는 형용사예요."
+      },
+      {
+        "korean": "마침내 목마른 순례자는 샘에 도달합니다.",
+        "explanation": "갈증을 느끼는 순례자와 샘을 통해 간절한 탐구가 만나는 결실을 표현합니다. spring은 여기서 샘물이에요.",
+        "grammar": "but은 앞의 낙담과 대비합니다. ultimately는 ‘마침내’, thirsty는 pilgrim을 꾸미고 reaches는 목적어 the spring을 취해요."
+      },
+      {
+        "korean": "사실 물은 갈증보다 먼저 그곳에 있습니다.",
+        "explanation": "찾는 대상이 이미 존재한다는 생각을 물과 갈증의 관계로 표현합니다. 앞의 ‘본래 자유롭다’는 주제와 연결되는 비유예요.",
+        "grammar": "In fact는 추가 설명을 이끄는 부사구입니다. before the thirst는 전치사 before 뒤에 명사를 붙여 선후 관계를 나타내요."
+      },
+      {
+        "korean": "모든 분께 따뜻한 안부를 전합니다.",
+        "explanation": "함께 있는 사람들에게도 다정한 인사를 전하며 편지를 맺습니다.",
+        "grammar": "My kind regards to + 대상은 편지에서 사용하는 정중한 인사 표현입니다. all은 모든 사람을 뜻하는 대명사예요."
+      }
+    ]
+  },
+  "6": {
+    "sourceHash": "a08eb77f6eff2fd030676331f3cea28622d53a1db8d43f28b2c8249d7f88782e",
+    "preservedStudy": [
+      {
+        "korean": "당신에게 경의를 전합니다.",
+        "explanation": "받는 이를 존중하며 인사를 건넵니다. 원문은 쉼표로 이어지는 편지 인사 형식이에요.",
+        "grammar": "My respects to + 사람은 생략된 문장 형태의 인사입니다. 여기서는 문장 끝에 쉼표를 사용했어요."
+      },
+      {
+        "korean": "나는 자리를 비우고 있었지만, 당신의 편지는 이곳까지 나를 따라왔습니다.",
+        "explanation": "떠나 있던 곳까지 편지가 전달되었다는 뜻입니다. 편지가 사람처럼 따라왔다고 표현해요.",
+        "grammar": "was away는 자리를 떠나 있던 상태입니다. but이 두 과거절을 연결하고 followed는 목적어 me를 취해요."
+      },
+      {
+        "korean": "그 편지를 받게 되어 기쁩니다.",
+        "explanation": "it은 앞에서 말한 편지를 가리킵니다. 현재의 반가움을 간단히 전해요.",
+        "grammar": "be pleased to + 동사원형은 기쁜 이유를 말합니다. have는 여기서 편지를 받아 가지고 있다는 뜻이에요."
+      },
+      {
+        "korean": "나는 삶을 지복으로 가득한 것으로 봅니다.",
+        "explanation": "자신이 삶을 어떻게 바라보는지 말합니다. see는 판단이나 관점을 나타내는 동사로 쓰였어요.",
+        "grammar": "see + 목적어 life + as + 형용사구 full of bliss 구조입니다. full of + 명사는 ‘~로 가득한’이라는 뜻이에요."
+      },
+      {
+        "korean": "보통 우리는 이것을 볼 눈이 없어 그 행복을 누리지 못하지만, 이런 보는 능력은 길러질 수 있습니다.",
+        "explanation": "eyes는 내면의 행복을 알아보는 감각에 대한 비유입니다. so 뒤의 are는 앞의 주어 we를 이어받아요.",
+        "grammar": "Ordinarily는 문장 부사입니다. to see this가 eyes를 꾸미고, be deprived of는 수동태예요. can be created는 조동사 + 수동태 구조입니다."
+      },
+      {
+        "korean": "어쩌면 그것을 새로 만들 수 있다고 말하는 것은 정확하지 않을지도 모릅니다.",
+        "explanation": "바로 앞의 표현을 스스로 고쳐 말합니다. 뒤에서는 그 능력이 이미 존재한다는 생각으로 설명을 바꾸어요.",
+        "grammar": "Perhaps는 판단을 부드럽게 하는 부사입니다. it is not correct to say에서 it은 가주어, to say 이하가 실제 내용이에요."
+      },
+      {
+        "korean": "그것은 이미 그곳에 있고,",
+        "explanation": "it은 앞에서 이야기한 보는 능력입니다. 없는 것을 만들어야 한다기보다 이미 있는 것을 발견한다는 뜻이에요.",
+        "grammar": "already는 ‘이미’라는 부사입니다. is there는 어떤 것이 존재하고 있음을 나타내요."
+      },
+      {
+        "korean": "그저 눈을 뜨는 일일 뿐이며,",
+        "explanation": "이미 있는 것을 알아보도록 눈을 여는 것에 비유합니다. only는 다른 거창한 조건이 필요하지 않다는 느낌을 줘요.",
+        "grammar": "a matter of + 명사·동명사 구조입니다. opening은 전치사 of 뒤에 온 동명사이며 the eyes가 목적어예요."
+      },
+      {
+        "korean": "그러면 모든 것이 달라집니다.",
+        "explanation": "대시로 잠깐 호흡을 끊어 새롭게 보는 경험이 가져오는 변화를 강조합니다.",
+        "grammar": "then은 앞 상황 뒤에 이어지는 때를 나타냅니다. everything은 단수 취급하므로 changes를 사용해요."
+      },
+      {
+        "korean": "명상은 이것을 이루어 줍니다.",
+        "explanation": "this는 앞에서 말한 눈을 뜨고 삶을 새롭게 보는 변화를 가리킵니다. 저자가 그 경험과 명상을 연결하는 문장이에요.",
+        "grammar": "Meditation은 단수 주어이고 achieves는 현재형 동사입니다. this는 앞 문맥 전체를 받는 지시대명사 목적어예요."
+      },
+      {
+        "korean": "명상이란 평화, 비어 있음을 뜻합니다.",
+        "explanation": "콜론과 세미콜론을 사용해 명상의 의미를 짧게 나열합니다. 뒤에서는 이 비어 있음이 어떻게 드러나는지 설명해요.",
+        "grammar": "Meditation이 주어, means가 동사입니다. 콜론 뒤의 peace와 emptiness가 뜻을 설명하는 병렬 명사예요."
+      },
+      {
+        "korean": "이 비어 있음은 이미 있지만 생각의 흐름에 가려져 있습니다.",
+        "explanation": "생각을 따라가는 동안 그 아래의 고요함을 알아보지 못한다는 저자의 설명입니다. flow는 생각의 연속을 물의 흐름에 비유해요.",
+        "grammar": "but 뒤에서 동일한 주어 This emptiness가 생략됐습니다. is concealed by는 수동태이며, by 뒤에는 가리는 작용을 하는 대상이 와요."
+      },
+      {
+        "korean": "생각이 잦아들면 그 비어 있음이 드러납니다.",
+        "explanation": "it은 emptiness를 가리킵니다. 무엇을 새로 만드는 대신 가려져 있던 것이 보이게 된다는 문맥이에요.",
+        "grammar": "As는 여기서 변화가 함께 일어나는 때를 나타내는 접속사입니다. thoughts cease가 시간절, come into view가 ‘드러나다’라는 표현이에요."
+      },
+      {
+        "korean": "생각에서 자유로워지는 일은 어려워 보이지만, 그것은 아주 단순합니다.",
+        "explanation": "겉으로 어렵게 보이는 일과 저자가 말하는 단순함을 대비합니다. 뒤에서 그 방법을 관조라고 설명해요.",
+        "grammar": "It seems + 형용사 + to부정사 구조에서 it은 가주어입니다. become free of는 상태의 변화를 나타내고 but이 대조를 이어요."
+      },
+      {
+        "korean": "마음은 몹시 가라앉지 못하는 것 같지만 쉽게 고요해질 수 있습니다.",
+        "explanation": "restless와 settle을 대비해, 움직이는 마음도 가라앉을 수 있다는 관점을 전합니다.",
+        "grammar": "seem 뒤의 형용사 restless는 주어의 상태를 설명합니다. can + 동사원형 settle이며 easily는 settle을 꾸미는 부사예요."
+      },
+      {
+        "korean": "이러한 넘어섬의 열쇠는 지켜보는 것입니다.",
+        "explanation": "생각에 휩쓸리는 상태를 넘어서는 핵심을 관찰하는 태도에서 찾습니다. witnessing은 생각을 따라가기보다 바라보는 것을 말해요.",
+        "grammar": "The key to this transcendence가 주어입니다. to는 전치사이고 witnessing은 동명사 보어예요."
+      },
+      {
+        "korean": "마음을 지켜보는 이, 마음의 관찰자가 되어야 합니다.",
+        "explanation": "one은 일반적인 사람을 가리킵니다. 뒤의 an observer가 witness의 의미를 다시 풀어줘요.",
+        "grammar": "has to + 동사원형 be는 필요를 나타냅니다. a witness와 an observer of the mind는 같은 대상을 설명하는 동격 명사구예요."
+      },
+      {
+        "korean": "마음을 지켜보아야 합니다. 그저 지켜보는 것입니다.",
+        "explanation": "it은 앞의 mind를 가리킵니다. 같은 말을 반복해 개입하기보다 바라보는 태도를 강조해요.",
+        "grammar": "has to watch it 뒤에 just watch it이라는 명령형이 이어집니다. 원문은 쉼표로 연결하며, watch는 목적어 it을 취해요."
+      },
+      {
+        "korean": "지켜보는 상태가 밝아오는 순간, 바로 그 순간 생각에서 자유로워집니다.",
+        "explanation": "관찰자의 상태가 생기는 순간을 새벽이 밝는 모습에 비유합니다. that very moment를 반복해 즉각성을 강조해요.",
+        "grammar": "The moment + 절은 시간절 역할을 합니다. dawns는 ‘나타나기 시작하다’, that very moment는 주절 앞의 시간 부사구예요."
+      },
+      {
+        "korean": "이것은 다시 지복으로 향하는 문을 열고,",
+        "explanation": "this는 앞의 지켜보는 상태와 생각에서 벗어나는 경험입니다. in turn은 그 결과로 다음 변화가 이어짐을 나타내요.",
+        "grammar": "This가 주어, opens가 동사입니다. in turn은 삽입된 부사구이며, open the door to + 명사는 가능성을 여는 비유예요."
+      },
+      {
+        "korean": "그러면 바로 이 세계가 완전히 새로운 세계로 달라집니다.",
+        "explanation": "다른 세계로 이동하기보다 지금의 세계를 새롭게 경험한다는 문맥입니다. very는 바로 이 세계라는 점을 강조해요.",
+        "grammar": "this very world에서 very는 ‘바로 그’라는 강조 표현입니다. change into는 ‘~로 바뀌다’, altogether는 ‘완전히’라는 부사예요."
+      },
+      {
+        "korean": "명상을 계속하십시오.",
+        "explanation": "과정을 꾸준히 이어가도록 간단히 격려합니다. 뒤에서는 결과를 재촉하지 말라고 덧붙여요.",
+        "grammar": "동사원형 Keep으로 시작하는 명령문입니다. keep + -ing는 어떤 행동을 계속한다는 뜻이에요."
+      },
+      {
+        "korean": "결과는 서서히 찾아올 것입니다.",
+        "explanation": "변화가 즉시 뚜렷하게 드러나지 않을 수도 있음을 말합니다. slowly로 점진적인 과정을 표현해요.",
+        "grammar": "복수 명사 Results가 주어입니다. will + 동사원형 come은 미래를, slowly는 변화가 나타나는 속도를 나타내요."
+      },
+      {
+        "korean": "그 점을 걱정하지 마십시오.",
+        "explanation": "that은 결과가 천천히 오는 상황을 가리킵니다. 저자가 상대를 안심시키며 전하는 말이에요.",
+        "grammar": "be not to + 동사원형은 지시·당부를 나타내는 구조입니다. worry about + 대상: ‘~을 걱정하다’."
+      },
+      {
+        "korean": "결과가 찾아오리라는 점은 분명합니다.",
+        "explanation": "their는 results를 가리킵니다. 결과를 재촉하기보다 이어가라는 저자의 확신을 전해요.",
+        "grammar": "their coming은 소유격 their를 의미상 주어로 갖는 동명사구이며 문장의 주어입니다. certain은 확실함을 나타내는 형용사 보어예요."
+      },
+      {
+        "korean": "모든 분께 따뜻한 안부를 전합니다.",
+        "explanation": "함께 있는 이들에게도 인사를 전하며 편지를 끝맺습니다.",
+        "grammar": "My kind regards to + 대상은 편지의 맺음 인사입니다. regards는 이 용법에서 보통 복수형으로 사용해요."
+      }
+    ]
+  },
+  "7": {
+    "sourceHash": "03f50d312b6102e510ed04f5333ac716ca77a7d50411effb537190211e227dea",
+    "preservedStudy": [
+      {
+        "korean": "사랑을 전합니다.",
+        "explanation": "다정한 마음을 담아 편지를 시작하는 짧은 인사입니다.",
+        "grammar": "명사 Love만으로 이루어진 편지의 인사 표현입니다. 일반적인 완전한 서술문과는 다른 형식이에요."
+      },
+      {
+        "korean": "당신의 편지를 받은 지도 오랜 시간이 지났습니다.",
+        "explanation": "편지를 받은 뒤 답장하기까지 시간이 흘렀음을 말합니다. 여기서 long은 시간의 길이를 나타내요.",
+        "grammar": "It is + 기간 + since + 과거형은 어떤 일이 있은 뒤 얼마나 지났는지 말하는 구조입니다. 원문 이 구절 끝에는 별도 마침표 없이 다음 줄이 이어져요."
+      },
+      {
+        "korean": "당신이 평화를 간절히 바란다니 기쁩니다.",
+        "explanation": "long for는 강한 바람을 나타내는 동사구입니다. 앞 구절의 a long time과는 품사와 뜻이 달라요.",
+        "grammar": "happy 뒤의 that절은 기쁜 이유를 설명합니다. long은 이 문장에서 동사이며 for peace가 바라는 대상을 나타내요."
+      },
+      {
+        "korean": "하지만 자신이 한참 뒤처져 있다는 생각은 내려놓으십시오.",
+        "explanation": "평화를 바라는 마음을 격려하면서 다른 사람과 비교해 뒤처졌다고 느끼는 생각은 놓으라고 권합니다.",
+        "grammar": "Drop은 명령문 동사입니다. that절이 this idea의 내용을 설명하고 way는 behind의 정도를 강조하는 부사예요."
+      },
+      {
+        "korean": "아무도 뒤처져 있지 않습니다.",
+        "explanation": "받는 이가 자신을 비교하며 느끼는 부담을 덜어주려는 말입니다. lag behind는 남보다 뒤에 처지는 것을 뜻해요.",
+        "grammar": "Nobody는 부정 의미의 단수 대명사여서 is를 씁니다. is lagging behind는 현재진행형이며 별도의 not은 필요하지 않아요."
+      },
+      {
+        "korean": "그저 내면으로 향하는 일일 뿐이며,",
+        "explanation": "여기서 turning in은 안으로 방향을 돌리는 명상적 표현입니다. 일상적인 ‘잠자리에 들다’의 뜻으로 쓰인 것이 아니에요.",
+        "grammar": "a matter of 뒤에 동명사 turning이 옵니다. just는 필요한 일이 그저 그것이라는 점을 강조해요."
+      },
+      {
+        "korean": "그러면 물방울은 바다가 됩니다.",
+        "explanation": "개별적인 자아와 전체의 관계를 물방울과 바다로 표현하는 비유입니다. 다음 구절은 이 둘이 본래 다르지 않다고 말해요.",
+        "grammar": "the drop이 단수 주어이고 becomes가 연결동사입니다. the ocean은 주어가 어떤 것이 되는지 설명하는 명사 보어예요."
+      },
+      {
+        "korean": "사실 물방울은 바로 바다이지만,",
+        "explanation": "앞의 ‘바다가 된다’는 표현을 다시 풀어 본래 하나라는 관점을 강조합니다.",
+        "grammar": "Actually는 앞 내용을 수정하거나 더 정확히 설명하는 부사입니다. is가 주어 the drop과 보어 the ocean을 연결해요."
+      },
+      {
+        "korean": "물방울은 그 사실을 알지 못합니다.",
+        "explanation": "첫 번째 it은 물방울, 두 번째 it은 물방울이 곧 바다라는 사실을 가리킵니다.",
+        "grammar": "does not + 동사원형 know는 현재형 부정입니다. 주어 it과 목적어 it이 문맥상 서로 다른 대상을 받아요."
+      },
+      {
+        "korean": "그것이 유일한 분리입니다.",
+        "explanation": "that은 자기 본질을 알지 못하는 상태를 뜻합니다. 물리적으로 떨어져 있다기보다 인식의 차이를 말하는 비유예요.",
+        "grammar": "that이 앞 내용 전체를 받는 주어입니다. only가 separation을 한정하며 the only + 명사는 ‘유일한 ~’이에요."
+      },
+      {
+        "korean": "명상의 비어 있음 속에서는 이 분리마저 사라집니다.",
+        "explanation": "앞에서 말한 스스로를 전체와 별개로 느끼는 감각도 사라진다는 저자의 설명입니다. goes는 여기서 없어짐을 뜻해요.",
+        "grammar": "In + 명사구가 상황을 제시합니다. even은 this separation을 강조하고, 단수 주어에 맞춰 goes를 사용해요."
+      },
+      {
+        "korean": "명상은 삶이라는 수행의 중심입니다.",
+        "explanation": "sadhana는 수행이나 영적 수련을 뜻합니다. 명상을 삶 전체의 실천 중심으로 놓는 문장이에요.",
+        "grammar": "Meditation이 주어, the center가 보어입니다. of life’s sadhana는 center를 설명하며 life’s는 소유격이에요."
+      },
+      {
+        "korean": "생각의 흐름은 느려지고,",
+        "explanation": "생각이 계속 이어지는 과정을 thought process라고 부릅니다. 뒤에서 그 자리를 채우는 고요함과 대비해요.",
+        "grammar": "will + 동사원형 slow down은 앞으로의 변화를 나타냅니다. slow down은 목적어 없이 쓰여 스스로 느려짐을 뜻해요."
+      },
+      {
+        "korean": "그 자리에 평화와 비어 있음이 찾아올 것입니다.",
+        "explanation": "its는 앞의 thought process를 가리킵니다. 앞에 있던 생각의 흐름을 대신하는 상태를 묘사해요.",
+        "grammar": "기본 어순은 peace and emptiness will come in its place입니다. 장소 구를 앞세워 조동사와 동사가 주어보다 먼저 나온 도치 구문이에요."
+      },
+      {
+        "korean": "생각이 사라지면 보는 이, 지켜보는 이가 드러나고,",
+        "explanation": "the witness는 the seer를 다시 설명합니다. 저자는 생각의 내용보다 그것을 알아차리는 주체가 드러난다고 말해요.",
+        "grammar": "When이 시간절을 이끕니다. the seer와 the witness는 동격이며 단수 주어라 becomes를 써요. visible은 보어 형용사예요."
+      },
+      {
+        "korean": "무의식의 얽힘은 사라집니다.",
+        "explanation": "complex는 이 문맥에서 무의식의 복잡하게 얽힌 구조를 가리킵니다. 앞의 생각과 알아차림에 관한 설명을 이어요.",
+        "grammar": "the complex가 주어이고 of the unconscious가 그것을 설명합니다. the unconscious는 ‘무의식’이라는 명사 표현이며 disappears는 현재형 동사예요."
+      },
+      {
+        "korean": "이 얽힘이 속박의 원인입니다.",
+        "explanation": "앞의 complex를 다시 가리키며 얽매임이 어디서 비롯되는지를 설명합니다. bondage는 자유롭지 못한 상태에 대한 표현이에요.",
+        "grammar": "This complex가 주어, the cause가 명사 보어입니다. the cause of + 명사는 ‘~의 원인’이라는 뜻이에요."
+      },
+      {
+        "korean": "처음에는 그 얽힘이 돌처럼 단단해 보이지만,",
+        "explanation": "it은 무의식의 얽힘을 가리킵니다. 쉽게 바뀌지 않을 것 같은 느낌을 단단한 돌에 비유해요.",
+        "grammar": "In the beginning은 시간 부사구입니다. appear 뒤의 형용사구 as hard as stone은 동등 비교 구문이에요."
+      },
+      {
+        "korean": "인내심 있게 실천하는 구도자는 어느 날 그것이 그저 꿈이었고 한 줄기 바람이었음을 알게 됩니다.",
+        "explanation": "돌처럼 단단하게 느꼈던 얽힘이 실체를 가진 것이 아니었음을 깨닫는다는 비유입니다. a puff of air가 꿈의 덧없음을 다시 강조해요.",
+        "grammar": "who practices patiently는 the seeker를 꾸미는 관계절입니다. finds의 목적어는 that절이며, one day는 시간 부사구, a puff of air는 a dream과 나란한 비유예요."
+      },
+      {
+        "korean": "당신의 명상이라는 씨앗이 삼매의 꽃으로 피어나기를 바랍니다!",
+        "explanation": "명상의 성장을 씨앗과 꽃에 비유하며 축복합니다. samadhi는 깊은 명상적 몰입을 가리키는 삼매예요.",
+        "grammar": "기원을 나타내는 May가 문장 앞에 왔습니다. the seed가 주어이고 blossom은 동사원형, blossom into는 ‘~로 꽃피다’라는 뜻이에요."
+      },
+      {
+        "korean": "모든 분께 따뜻한 안부를 전합니다.",
+        "explanation": "받는 이와 함께 있는 사람들에게도 인사를 보냅니다.",
+        "grammar": "My kind regards to + 대상이라는 편지 인사 표현입니다. kind는 regards를 꾸미는 형용사예요."
+      },
+      {
+        "korean": "나머지 이야기는 만나서 나누겠습니다.",
+        "explanation": "남은 이야기는 직접 만날 때 하자며 편지를 맺습니다. 앞의 문맥에서 자연스럽게 이해되는 말들이 생략됐어요.",
+        "grammar": "완전한 문장으로 풀면 We will talk about the rest when we meet처럼 이해할 수 있습니다. 미래의 때를 나타내는 when절에는 현재형 meet을 써요."
+      }
+    ]
+  },
+  "8": {
+    "sourceHash": "609b98eb15063c69258d91f29af361df99370dcb7f2b795d09e97f100c47004f",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "9": {
+    "sourceHash": "483587fa0bf0ac30717d36bcb5b63f4982c307cb933eb201108fd5126b6b3039",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "10": {
+    "sourceHash": "6063f391399e7ce6fb9fcc869d53e72834368dc38c8478c4ab4a006b54b5bfc0",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "11": {
+    "sourceHash": "acdd84884b312a8ce6aa61bff5123d8ea634d57bb63923b5852c22e9162da494",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "12": {
+    "sourceHash": "2b1197ffce72130eec6083c112f45cfe7fa97cd29d24c5dc0036539d0473f2e6",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "13": {
+    "sourceHash": "9bdb31bc1ca854d7b48be6184cb068e58bd41a0fbe28c01f2438fee331c73f22",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "14": {
+    "sourceHash": "e619c1b7023da547ac2fbb1c012c89811f503194ef2357529836422c4573bd2e",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "15": {
+    "sourceHash": "427a89e3eb2515bbc71f68dd8c4af1bc4b3cb3e1fbbb7b2720fade5cd9534796",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "16": {
+    "sourceHash": "1fde061c41b7cb79263b23f8c1f06336fecdcaf2549ac27d6c1e55b73f980891",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "17": {
+    "sourceHash": "a2bbf46e735d15cb7f2a383fd3c4880c309e850de3209b53969e3c157e13c15f",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "18": {
+    "sourceHash": "386302916eeff0ca10d01b25860a0946ebca74a0ae99a77df270d8e1840c0fc5",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "19": {
+    "sourceHash": "d25b3e2135d09ba694f49ecfa93fd89856e174b08a5fe5ec53f5200494311d88",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "20": {
+    "sourceHash": "b1063ea1970730218605c34c924c83ac78a6fd7bba551916cc0caa67f3830d0a",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "21": {
+    "sourceHash": "5d49e8ab14415563f555b39aa42da28d9687c2ab8165e057f37e963e3eb4e2ba",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "22": {
+    "sourceHash": "ba0deca2d7c7f882911f6b312e389f1d4cc89cdcd3e5bdb4bc9381c6acf28f04",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "23": {
+    "sourceHash": "50815ea4b5cd4e664fd9223e11d2742c45133683162006115639191b6b646363",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "24": {
+    "sourceHash": "8e3a2a9e13d5860e6f09123c931ca0b6523c2a9bc0f7810346cfa989d3976b5a",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "25": {
+    "sourceHash": "5630bb7b527f1c41d5aa105bd3822ed214ac88e94f7940186684fc5d6e0e99e8",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "26": {
+    "sourceHash": "83679b2a0001e9ba676e4795c6fe8000efbc84b705cd3db4acb48c7df7dca90b",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "27": {
+    "sourceHash": "b7d03dca3c7d8024265af14de4f080faadeaa959f70947b2543ec34034b71ec3",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "28": {
+    "sourceHash": "9bf46f301f9e7b0ca843d39405057bd37eb8442858ed9fb0b62eb634485ca7cc",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "29": {
+    "sourceHash": "30b0745ec4c6984f3609759de20c299f58cf602062abff3f12fd272a2091ef1d",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "30": {
+    "sourceHash": "d53f2594764c0a7f0bcb73270382712eea96d64d4351f59fc9faddd25ad7f605",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "31": {
+    "sourceHash": "609863303e972021b045fde973d6ef8b16b580644e4f50be3bf23f5696c61d5f",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "32": {
+    "sourceHash": "d3dfdc9d35bf77d5d3c6eb0f8a729a28142ff4288865010e23da1ad549842448",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "33": {
+    "sourceHash": "233d0b7372b02aebbabf4f0d6de413f030d3876a3b58629fcf0221b7eefe0554",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "34": {
+    "sourceHash": "7365767a01d6033d9f6468367c4932a37ad9e09ae55828f36e8b1942939fa4ad",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "35": {
+    "sourceHash": "43a1d2180003b546fa351e49dcd707209a185a4e2b641c3394f87dc666f0b398",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "36": {
+    "sourceHash": "56a3dc45a1a6322efba0cf59b908c848ec91160d67ce09bb40330eab09cf6d6d",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "37": {
+    "sourceHash": "201726d54a49bfa2fd64d23ab7ff9b9a19cda478196ec249cfe8cf01c216fa63",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "38": {
+    "sourceHash": "526f993765c7133a3a0252cbfb5d5bd5f5b7e73eafd285b336aa558c66cdd723",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "39": {
+    "sourceHash": "c95a99b39eaaf7a8c35d59173595dbd65bfd9aac3170b45f09f623a7caa98a53",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "40": {
+    "sourceHash": "8b2972c14c1ad1e9e93d4f19e6ed2e81e641e72fbdee97e8ca0ee21a66a1f775",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "41": {
+    "sourceHash": "5e02a4a16a22e00fb6380b496cfe8c24b1b2a77744d5533440d75defb937ad3b",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "42": {
+    "sourceHash": "9aaed2a23dbc98429798a1fc943cf52a31b387d49bb0cd8ed00cb89d6382727f",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "43": {
+    "sourceHash": "8f7f51373c20840f5636f2499e38fc171f0b64977a82016a6b9e00a5befb3cb4",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "44": {
+    "sourceHash": "1f44e2958ed09c35c64119dd25283a9f0811d6fabbf3ffe8b857448cb2a2adfb",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "45": {
+    "sourceHash": "13e7861ac01b535342966ccdaf60f7b89a9be7d9e437d7f306d7ea78d358b9e7",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "46": {
+    "sourceHash": "357df10ffb4b7dd3b17a110133d0a599b133a96934e2e31cf6c6efea393f646a",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "47": {
+    "sourceHash": "bb25852f89a66d3ce6a2a631248b480e3f74e71b19f286a362b333e8c2f289e3",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "48": {
+    "sourceHash": "7cf8c80635c8678e70d4b1b792b54f7a4ce2c4afa3ffe0ec488d00bca0ad523e",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "49": {
+    "sourceHash": "b6bc82793c873913f68bce224888b608555f52082392d8695f2a491d0c3f4a48",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "50": {
+    "sourceHash": "258c69dbeb0ebe8eb7e7c40a8e2def8511a050cff70772c7babc07f33bd70050",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "51": {
+    "sourceHash": "cfe478049b551e10fe1e1999d34a39eddcfd04e7bb2ba50b869b91acb6e08414",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "52": {
+    "sourceHash": "19ed5a93876dc23350e95daf44916cd6b6dcf788bca192f2400c8c8db19e05f2",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "53": {
+    "sourceHash": "dd26c0f34316a934bbece22c78f01999dea98798699da081ec556c4b19cae9ab",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "54": {
+    "sourceHash": "a7292fee29d7abc158c1181f0319a59f58b863a68af5a3d31a697e83c23f6764",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "55": {
+    "sourceHash": "fe340c06b96d4d57b923fd1e2d63bbd35c72fb6620cca7a489dcdd9d2b21004f",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "56": {
+    "sourceHash": "820a022e7bec4dfc4c765dadb9b7f466cecb64233b18e87d25518daafdd008df",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "57": {
+    "sourceHash": "acf6aa82f9022b3f692a4e3a664fb00bb79cb703b7e2608114066b4afe034757",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "58": {
+    "sourceHash": "742d77a24473e009dda58bb8d0d22185b69055b439079f7db2731664d0235bcd",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "59": {
+    "sourceHash": "5b47029fd0b2bb987589b4486f00cd8af4c29058ad0cb053f74d11cc38296a29",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "60": {
+    "sourceHash": "322a6007105fec25a83d86f92ae5fc4593954cfcf01b93cbb94c851d55119aef",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "61": {
+    "sourceHash": "58728983a8263a4fc01fc89da218afb4509336d64c07e7217f9b02624082f1a3",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "62": {
+    "sourceHash": "df63cee9a87549fd5664d02323fa7273fe1b8011aacc10ea2e3b0ab83a7cf723",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "63": {
+    "sourceHash": "2819d77ab791458693eaed3b36ff6a0bc58c7d012cba97a429162c3a33a16a3c",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "64": {
+    "sourceHash": "5c020c616c8865575d454ac32087aabbb3f288dab6092cad5db3a153ef3e8ca2",
+    "preservedStudy": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "65": {
+    "sourceHash": "b751c7569fab9c5dd4b09149a2e158270d349c973a05c2df32bd5001cc604116",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "66": {
+    "sourceHash": "b56265e1d9e5e5e8f1f70bdb5a8a781636b8187a7c359f963efbea8c8a16aa54",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "67": {
+    "sourceHash": "7de1569d61baf5b5bbd73097e7f2ee4751551e249f4f2fc4fb92204324008f5c",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "68": {
+    "sourceHash": "381e0c55a0587056b6991d5bca35230c96ac036e78c687d01ffd910dc761a4a6",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "69": {
+    "sourceHash": "d1c0920a16e18204df7d94ebc6e28613393ac34d548c7b1ef90a76c8a30d0657",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "70": {
+    "sourceHash": "0f3da96865528bd0fa6dae16ee60264e1d90cd1690b442f1a53a9290f1b01bb6",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "71": {
+    "sourceHash": "3583331504384b566e5c80286c7d0dcc8af75a04f380b214192b4b04ce08c22c",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "72": {
+    "sourceHash": "a0f9393b2953dfc54457f1d2160195ad58966132c925081ff9b5cceacd93995a",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "73": {
+    "sourceHash": "ca1bfd1871f32c993bb0bf0fe20fa21470f6f23ee2c07a31959b1f4f721c5889",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "74": {
+    "sourceHash": "610b3592194a466c8f04ebadf0a4e0b15f41cfa47a44bc865eef8ba9b7f89adf",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "75": {
+    "sourceHash": "91df5dfd7001dbe73fd376e4e2641dc3666cb689751e06d1b88dead23b4c2ce3",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "76": {
+    "sourceHash": "b412755a30b84f764c65aa33f25f59de2e6bb25b307c93e8bb429f465aeec589",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "77": {
+    "sourceHash": "2b6132fb76e990a71279641fc791063057ac4b7a81fbd33c5ad336f3f7c8c15b",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "78": {
+    "sourceHash": "ee1e44a0a74005353b64794b37bf3493698545237ccfd5c0b7b3bd68ec2bb4cd",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "79": {
+    "sourceHash": "9f056fc602001fabd661424d40a3cdecf6c89935cb4a2bd7ecc5d963abbeed0e",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "80": {
+    "sourceHash": "da0eb4e36a87e9345d9466a0380f1e43c853849fe42481aef0e832e12f07efcc",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "81": {
+    "sourceHash": "f883e8c588e50f316d207432d89da642024e595a7e55c50c877d2ff3a6baf0f6",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "82": {
+    "sourceHash": "96e7095a923c114e4c427d885819c1421dd4e639ceeff240b4404ad0c1921356",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "83": {
+    "sourceHash": "45ad84e4faf2447c74e1b6fd3693629275af9127148c770a87387c6ae48a19a4",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "84": {
+    "sourceHash": "a9779aefbbe3402a3437902476ad712796b44b0d94e3edee659cfefad787eb93",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "85": {
+    "sourceHash": "07694be37136ba4be797adf334643a635920af8bae12424d6226d2c16a789448",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "86": {
+    "sourceHash": "5c301a5cce56b5f70d2c2d37b0c4ddf2652d30b7b6f321157ee4b014a0941927",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "87": {
+    "sourceHash": "f778f1ae429396f1f69e15a82bc1848baeb9ee129ec5883b70baa5ee24cd109b",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "88": {
+    "sourceHash": "b1252bc4ffe0f3473cf5be1475f90ce69dd57a341a8be3e64991a3563027d1d8",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "89": {
+    "sourceHash": "b57537b3ca8ef75cabb127e05bfee251a8e52939f2292e60bc44919c4f9a63e8",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "90": {
+    "sourceHash": "7ad577a5674c70657e1db776368f88a2ec5eb7444d7f9d09843712c0866dd60f",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "91": {
+    "sourceHash": "ca5a486f15a6fbe1c173141a68c940d9bb24ed559d3dc9b380d127bc762d86cf",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "92": {
+    "sourceHash": "f6c1b4ea5c4d55616b91f29e03d948ef2ca04920f4a1cbc0e54d2ebc74324d4a",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "93": {
+    "sourceHash": "54ca0b8a97242ef5a383ab785ce3cde605a1d1a9f3497ed76238b49b0f92d822",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "94": {
+    "sourceHash": "9e96dd887297f0a9ce6f431b245f884eb9acc6e633becf09ede8cf65c95d3b3e",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "95": {
+    "sourceHash": "c62dd94f86ab4f88e0be816ea30a60c10a41a16090a9f322bf643419f13a9967",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "96": {
+    "sourceHash": "be6edf74d6784cfc78cbd5453477594dcdc00b8f88ac0afc1e6e5455e93c7e8f",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "97": {
+    "sourceHash": "9f11d245ccef7c779589fef2d01d8914572ac0e8d004a3f02e57d657887eda65",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "98": {
+    "sourceHash": "116fa677cd36eaee9375362fa8da78cc445bc025eae8799d1641d12d5930bc70",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "99": {
+    "sourceHash": "98994442d7121e601d5518364e62f8e6dd2a31820ef035c407525c3835bacf49",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "100": {
+    "sourceHash": "aa70baa9cb30ddb1d11015499dbc0ccfea553720d6850050da1cd67bad87d087",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "101": {
+    "sourceHash": "d375750655237b5db3c3462405765ba58e9bc425874504b2aaa609d59b82c9c4",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "102": {
+    "sourceHash": "fbb87e05b9ee7860635b6c086934f2c6c15fb5fda5da3d514d74af4e79c1c91f",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "103": {
+    "sourceHash": "4550c105b4cd81f33c0a9a63fc7df0066361717e337da1891179a34d1b2bf6c7",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "104": {
+    "sourceHash": "833a3e8a4337298a97d8241fbc1fbec6a42f812b475384ebee3693e95fea10b9",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "105": {
+    "sourceHash": "87e270adbbfcb8bb4ceec25fc6f9b0f206642f24688d6861798cf74f986beda8",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "106": {
+    "sourceHash": "67d4bf874f4e9b0f32e6bdb13bc918b328a9775c7ca22e0512dc562889a65ff7",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "107": {
+    "sourceHash": "3d6c6e6c6ca41fbdde6fd83e6eee4baf358dff3bdb7482324964e16bb36eed21",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "108": {
+    "sourceHash": "85dac5422cab7f6ddeaed94eeff7f679e85ffa8e53f71d827d98676325f23853",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "109": {
+    "sourceHash": "c95e2dbf1fbf2d3502dfcb9740209135f76f764a80a4183cdc05a323fd1193da",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "110": {
+    "sourceHash": "e402d0f8660a2f50133914b168372504abd47b50adbf3bccd3ade58f536bfd1b",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "111": {
+    "sourceHash": "56041228e6fad9ef92343459c08916cca4f7f3d7cce773e74730d1e3dfbed609",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "112": {
+    "sourceHash": "9a12e639ee264a644d8ab47fc0904cd88109afd1c22f8aa4e4b1f43e077f1fdc",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "113": {
+    "sourceHash": "5bf2609d3109b609277da189894922dc876ecf05e95dff949b817c64b574fe6a",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "114": {
+    "sourceHash": "62f682e5bd98bbbcfb74ec3d0e873f024c0a544e62c17b6367484d8843274250",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "115": {
+    "sourceHash": "647a9afdb4a92deb4529a8b106e77dd9d86d7e05667da842de008c1cbce97fc8",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "116": {
+    "sourceHash": "439c03f873ee756c0dd670d2c98e7406814096c3d8673f937b6db2b685225997",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "117": {
+    "sourceHash": "680302ce1929c25c7515dbd80d29fd45cfd216a8a432d3f1d0c5f43bc9df60d6",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "118": {
+    "sourceHash": "0b23945caf1a803d89301020bb22f4524ac61ff6f2a4bef761b76c20c14e02ba",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "119": {
+    "sourceHash": "8f4c527f9fd64467273dd9e7c58e4ed79a862bc29c183951560089227992a126",
+    "preservedStudy": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "120": {
+    "sourceHash": "b58cbe7f23cb3443e3c5b196e315e4835a62fff6936298befba06a41dd0f1242",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "121": {
+    "sourceHash": "5f6aa47961a05e3ae777c9ee160735d3b0207698c43c4cab8d9a52a76d374a0a",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "122": {
+    "sourceHash": "c1ecc19e71dd6ed86efd03016316f1eb6bf289d42605b4289e9aa00b0fa27e67",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "123": {
+    "sourceHash": "53cc0ab758b6d6d1eabd79edd6d4a7be45e0308887b2d674aee866549301fc92",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "124": {
+    "sourceHash": "77ca907819cc7142dc048b465ea9b0237806c17b4d2454237e54fa1b7e508168",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "125": {
+    "sourceHash": "7dc143431d838b4cb6b4f97b1a78915ca559fd0c42a3296aca77946c56eaf3c9",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "126": {
+    "sourceHash": "20b9a5be8902c70e4226480b17229b3558b693df445e9ff1fcc84a7be96ffc82",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "127": {
+    "sourceHash": "18fcc49671817f76066ba0f7701bdef3d9945aecc9ac3f43be03714a3b24d820",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "128": {
+    "sourceHash": "927163cbd78480c64d6162253d63861e9dcfaa45e1ac2f07b5039e72051aa1ff",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "129": {
+    "sourceHash": "e35c8ffea76a3d0fc34894b32645795ed730999fe1d1d02c5f29722d7e748091",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "130": {
+    "sourceHash": "a39dfe6af560623147b997f971eeb6fed18f7cbcae5b869d6c40f61773a8976a",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "131": {
+    "sourceHash": "08f1bdb27147ea09d65e664459e06158d1ccdd44d592bcfb9ac9df2cffd22c88",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "132": {
+    "sourceHash": "4ed7a021a08ed30b0ee75cbcf922ded7073d2b15241335af2b6fbf08b3212117",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "133": {
+    "sourceHash": "f5dedb1bb24f6d06a64fdebb9599109e9e295a63688a66f46b3060500bfaaa75",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "134": {
+    "sourceHash": "8e10a29878e1a214667381e7222dd10763266f2ae0355856e8a083eff072c654",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "135": {
+    "sourceHash": "163bf1d732ad6a46dfcc1784f50d76bce05670d2c3e538076cb82ed06c4a07f2",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "136": {
+    "sourceHash": "64ca2fafd7666fcbd9cbbb77af91e8378950f8fb833c4ad24aacbadacaaabaf8",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "137": {
+    "sourceHash": "a64cf51caf84790cb1607796712f409c0939f50f2b82270f8f142c851f7f9706",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "138": {
+    "sourceHash": "8a9968479b2776984cf3cdcec32f9be767f8f201ec5aa5b733cb841f397f1582",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "139": {
+    "sourceHash": "b41d5bc96646ec9ccd0118c0177cb9e5198e9703e1109cb8468fbd77a82a2e92",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "140": {
+    "sourceHash": "a07517d9d1c913b5102b6ce88db82cb9685deca81fe3167071fc8f841b51ac25",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "141": {
+    "sourceHash": "86dc5a5bea66ea4b58603cc2f9590fb40da848b5e0bd928dd164c69ad2adb7dd",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "142": {
+    "sourceHash": "54ecd0f5fbd1b5a2b1edbcb63668e9a933965a7e5eb2bba7432b627e05f02312",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "143": {
+    "sourceHash": "16d06fab02563363e8c0e8ee672f0798bbf8dc9bf8e95b50a52836a679eb60b8",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "144": {
+    "sourceHash": "9913ca2e947c35eae797e3f7a5bd2f9d3fa9c6de37ddb6c67dd5752222323dc2",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "145": {
+    "sourceHash": "a1608cf5f10684ec89c8da0b706fc5806035344ba8adb57fac2027a8cc16e670",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "146": {
+    "sourceHash": "4b70c32fff5cd8ce59e635773ff65f52991747256e510246708fed75dcce8361",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "147": {
+    "sourceHash": "f1b611144a132380289f8a08145346ec21715c8acddb3c147340ee0d9070c53c",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "148": {
+    "sourceHash": "3967ec7e1ca700a7c528d825b6633f5fdd74558e4f26bd03dcce431e0ac6d043",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "149": {
+    "sourceHash": "84c5f87107fa29b199fcb0b8698538a7184d044c16cfac420880c0b7691a8bc7",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "150": {
+    "sourceHash": "689c449c82edbbbab78ac04641f86ce630cd2e63c100ad3f103079ff2f394d63",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "151": {
+    "sourceHash": "d3f32631ea60919c8c1697288a546e9e83bb31c8ae9fd7a8f10feb0af6e22b44",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "152": {
+    "sourceHash": "5c5decbea740e3cf7e1883daec89f8551adc89f3f079035ab739d38a4de5817c",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "153": {
+    "sourceHash": "25b95f78835109ab6995efe5bd1f3ae7e8dd5773b49d18179fe42e0a90247288",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "154": {
+    "sourceHash": "da6a70c7933814c937df601c07fc466cd31d9cf9f924824f23b2115d9128f9e1",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "155": {
+    "sourceHash": "3054172b156cbd11ba228d793b40de8f1ddb08ce36b4ac69669f3baaa9107f08",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "156": {
+    "sourceHash": "6a8997d0acf1f16629d0ded38cc23fc5aa8098c2efbffd1f67d06caf2f8405ae",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "157": {
+    "sourceHash": "92d37816933b47c638bfc77c5f4fefa24495c0cd0176bc3588e5150cacbd531d",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "158": {
+    "sourceHash": "0e45f7ddb022a967a85592cf99f1d40521f0e9786d03a17932a0bb713e27687b",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "159": {
+    "sourceHash": "0690b6575e2aee5715694913c64582092be75bd14723c730da8fec179ea2cc71",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "160": {
+    "sourceHash": "8cc9e489c9467ad3ec897555758c4c1c7161d03037e905f76a94a8e45d9de599",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "161": {
+    "sourceHash": "7d63563117325340b555730f2a6f272b37988267d8801f80949863b7f3144532",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "162": {
+    "sourceHash": "07cbe1f6d4a36d4e412ab71192cd1c89eb4781eab41c1d7a2af488ff646605ec",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "163": {
+    "sourceHash": "6f46c5940d2e7c3b390589b47ca91a0255af4b0f065260c7597ca5c1dcd6957a",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "164": {
+    "sourceHash": "c526e39940b8e716fff530138455bb9a19928712f1b1b72452e0b0d42c737079",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "165": {
+    "sourceHash": "e0d1938a94d144a7fce58a138a61158744bc5ce244ff53d6f09aada0ed24dae7",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "166": {
+    "sourceHash": "d29f982150bbeb6e16e8d368c41e0bd3833e0715d1800abf863c40f3cc03abda",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "167": {
+    "sourceHash": "ba91d87377968d7d3b814219c48f55222e6b2c1a82d6d08ff6e1062e558a2fac",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "168": {
+    "sourceHash": "245681dded10ba707c12e8489966e4a4152f992a76e724b456dff1bc07c4fd4c",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "169": {
+    "sourceHash": "27a47012a919f837ddb37391e50223274742a6dcb7a7923ebc45c95e9a2872d5",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "170": {
+    "sourceHash": "cfa53eed5241aef849624341d460c556d6c0b08132af2493b45fdd88174ae1d6",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "171": {
+    "sourceHash": "14917c34cb5c5c26299ac3cea888524455f209dff3ca93218b0df5fb2aed9584",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "172": {
+    "sourceHash": "6fa9a7a2e4aa198262b622ca2e46b8331298faff4952bc2d074503f17c6f07c4",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "173": {
+    "sourceHash": "4a40d8316f9c35d80e6c9424e043c0cfc0bf221e50f601310f122837d3b75bb0",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "174": {
+    "sourceHash": "6a2eb773e20b4354c90b31d9cc99af737a6533114b05360e8e8d7c4741048401",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "175": {
+    "sourceHash": "379b57042cc938f1d13e09ef99ce380f4eacd2508deb715d989afe2bb45f1c8e",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "176": {
+    "sourceHash": "edac88f94eca13060e834ad7c5070ef9e56edfa5b40e0bac128189509863e5d0",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "177": {
+    "sourceHash": "17ee9c6c4751ba8a83402396e359c57130d1ae5ac6c7a38547f3feb3a30bacbf",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "178": {
+    "sourceHash": "4d826d9ff91c98d7cc71b02d5078cace1ed1ef5c2e465826f2940359b97459ca",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "179": {
+    "sourceHash": "36304ad1d60fcac95457341cf0e399869eb0d4b1ff36d9300cd51ef3459375a2",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "180": {
+    "sourceHash": "242bf08299be0c9884c1dea2da39eec62bc406ffe3a92a8dec31d3704df0493b",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "181": {
+    "sourceHash": "b8b651de9955bcba2d48081074baf3e4947ffc3c9039de387df3a9fc2efe2ed4",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "182": {
+    "sourceHash": "d490b352a04514836b8e3647e9a9b941ddbf5549de194f92ac386cec56288f56",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "183": {
+    "sourceHash": "fe6ddc5f8323edf9c25f3d8e0c66c86818c7a18decbc49c4e740604482515f73",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "184": {
+    "sourceHash": "b46c4750bcb0ec1c40505a50b1fe654b1622d8d89ef58d2e5a23fef56029e6b8",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "185": {
+    "sourceHash": "49b517ee17fd0fac19e849feacd4a98f3b8a5e7bcb653dbe29c61793df6e42a0",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "186": {
+    "sourceHash": "da22196ec22fb1671dd7a56edfe4bc271817171d8d2ab0c6f987bee9d6286d0c",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "187": {
+    "sourceHash": "7c2ed2cc80e2fedcc6feaf11928b60fce56b78c7d111192e0ceb703631896ae9",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "188": {
+    "sourceHash": "d18e1a0afbf9971f1f1c27633f5e94da8681bd19a13b1f4eadbb0b6f02876c87",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "189": {
+    "sourceHash": "dd7d61dbd8e9f2aa3199322db25b58dccc72ea8d6f9e5f17d2ff925cd6f6719b",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "190": {
+    "sourceHash": "cecc9bade0757bb1fb4204a128da24acfa0ded0dc19a9bc7fc048c18cd1d8acd",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "191": {
+    "sourceHash": "a034e3f73b9bfa28b912d9058a1058662a85eecb8f5e24628dfde7121cf457cd",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "192": {
+    "sourceHash": "9f55570c24ee66918c55c4ca4ef71085d0dc6547181d28e569c929178610c31e",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "193": {
+    "sourceHash": "3c06c6b9fca7bbc09639cacbbccb39ab271e72daf4f67ae61a35ddbaabccbe73",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "194": {
+    "sourceHash": "95a55a5c39868356084d9235a43b61a17c7394db1a77cd3b5fb1629bbbaf6bd9",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "195": {
+    "sourceHash": "c04e10100de88382425ee0f550dedb8cb3ca67ff137fa6b458c43d860192651f",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "196": {
+    "sourceHash": "ea951e9cc1405af2b9237f6bb7a6ca82a30a22d731b444bf2a1c4e4b33f6e9fa",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "197": {
+    "sourceHash": "bdd5dd1baf660c0fbcf9e5d23aef18cee727fee031b4c61a64eb5c485f766d9b",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "198": {
+    "sourceHash": "3a4cfb487e9fa47e8c071689402064eea956844724e8b3ca418a5a2c7515dc1d",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "199": {
+    "sourceHash": "aaabb187605ee1080bf42f2685e59b978be69ab69197f84aa552642e49fb08a3",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "200": {
+    "sourceHash": "788f02db53b349e82c05f4f6c471d71700d82841a682094deaf91b6318cb1f9b",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "201": {
+    "sourceHash": "61359baa64b35abcf12defe896221b3c1e72e701036bbf8077b4c3ad65d44507",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "202": {
+    "sourceHash": "7dc13382a7b33589da509d508780d1cc41cd8ac58b54069722ecba74869094f0",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "203": {
+    "sourceHash": "6c8922814c81971c6f3da112458a51c233e8b930830f7ff8b9dd792d8912c334",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "204": {
+    "sourceHash": "8273d4165ed263dfb18ff10d40462c87f144ff7ee2468dfe75a5ceebfbda9bca",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "205": {
+    "sourceHash": "711d8dc1980ba03e1da093471ce96c39bb2b723263f984c14027ebb91ea68a58",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "206": {
+    "sourceHash": "78e1131aae7162b8ecc4a48018b70eae354a3e2a40aadc2ff05e2e0c3743c8b6",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "207": {
+    "sourceHash": "d1ceba49d7ccb414d0574b91d2ec654940c247080b6b21ad7de85809b8a8c9cf",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "208": {
+    "sourceHash": "ef6699649cb07cf9098cfa0e215a3d08d64a05bb5474daa2bc8e1955837fe55e",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "209": {
+    "sourceHash": "c186b3ed50b887d137c3f911ed0604441abdf76f4b765e1dbea4191c2577df3c",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "210": {
+    "sourceHash": "539b5ac71d935c02117d348372d7cd9a29735073a4a71e9cb7309d4b8a252325",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "211": {
+    "sourceHash": "da04daf16187bc69ca28a518b7fe84e9f6a7f63e3540c2648463a93a6361a9c4",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "212": {
+    "sourceHash": "8155ccd03cb75951dd2f4eabe9544ed21c287880b3f77d4e88e7b0dbd2816a79",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "213": {
+    "sourceHash": "033db1b819cf2d6d7ad93d17438c226e8cf7c1b76b5a1023bf32182dddaab0f2",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "214": {
+    "sourceHash": "b073078730ad37a4c8237ceed7e7f457ac38b95031ed7378b486fecf291f0a19",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "215": {
+    "sourceHash": "71132ab6ac85d36371fa15431016f917132b07df428b546009f3198f2ec270d3",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "216": {
+    "sourceHash": "a442db4014891195974b0abdc938e9c43478bf79d4f6780ccac665e10a1a29e9",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "217": {
+    "sourceHash": "f9ecf95d32ae8ed84b66cfc5d8aa409441aae00201fad9c09b63e11c21dbaed5",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "218": {
+    "sourceHash": "86075d1aefa5ccf7e09260badad84154e6a04783c679bf08e3c60263bdd5ee63",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "219": {
+    "sourceHash": "889b660cc73ea6f923a4cfe024fe4c569469259d6ab6bff64b20542dd4a99cfa",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "220": {
+    "sourceHash": "f415e6f64e569ec75451c159b2f98d4abd736dcdcab238a210fe3f64678e674d",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "221": {
+    "sourceHash": "e12066362463ab5178227cb8ab51da15e41477c84a6699c23a1c18aa6d5f01a4",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "222": {
+    "sourceHash": "43142d07e8ba7df0e27ed48b775871707ea204e32ef13b9aae95ad90a9dead23",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "223": {
+    "sourceHash": "10cc93338d509b8f3c1eb3200587286a1e9367f28a79062f5143e3f1e1057533",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "224": {
+    "sourceHash": "f94cd0e169674495d2841e915417fb20f86fafe6589b5f30f022ac279c0b97aa",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "225": {
+    "sourceHash": "9622e68e5c3d1913481e392b215ff487129fd94c9acb0d54df43867fcede180c",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "226": {
+    "sourceHash": "44a69a2d57548cc53559cecb2daf991d9ae66fab4c18a238ba52485a99a218a0",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "227": {
+    "sourceHash": "f18699260565bd5a55eb710a4b9f18e37385099f6e87199bea32a74f65a77819",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "228": {
+    "sourceHash": "4dd3ea689f67ee2b5854db2f483bbc5da47f15ab8d540b89fca114ab7f70978b",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "229": {
+    "sourceHash": "aa22cdfc73c13812b6e9b7e75f387de1244fd497d07267612a62ff34931e644e",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "230": {
+    "sourceHash": "92d508c22f8b9d63076449a4cf317e6daec2ae51652473c62a61fa112ed65669",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "231": {
+    "sourceHash": "7752f9ee358567ffcf1774cd85abb65cd6392d97d694799aa4a19fd9cddc3792",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "232": {
+    "sourceHash": "5d9fceace059d92940b246d2e9e8a38e5c68d01b084074a4d6c243d360f4f460",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "233": {
+    "sourceHash": "59cfdb56f2a9c0f6be507a03aa63db13091f5591729a52d88e44d90bce5eb272",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "234": {
+    "sourceHash": "8a8990ec345d56802d20202e9fdb1d1369afef7de9115e9071b36467f6e0103b",
+    "preservedStudy": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "235": {
+    "sourceHash": "c9f75e6cfb90fb0b8bd0e8b0f2b45aeffe586531249649debdb24623480b6759",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "236": {
+    "sourceHash": "b300f52d5d0cc61bfa59c16a6353d5c879c83c2ff3bfc0e14ef25c2b815802be",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "237": {
+    "sourceHash": "6182eb2518cfece5e83f98f5bb8068ab85caaf3dc1f43dccc2ffc666e397f7b5",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "238": {
+    "sourceHash": "ba9363c8bd5d7248c371220d9df3a10689e4282b72b86e5a92a37330dd9d679e",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "239": {
+    "sourceHash": "0ec85cb2a57b102a4eca5c6dab7c3530659e149b654528f0b51b6cf010915a90",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "240": {
+    "sourceHash": "3fadf52b25d801e116495549d7e55bcea455a7bb146fc3e73101b011063a9bda",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "241": {
+    "sourceHash": "bc53ca93a2f6608eb169e9fae027edbae63ba6c018cc5192e7ae5a09edf6195c",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "242": {
+    "sourceHash": "83cb9bb94dea65c29e1bfd697e6ad84e50e7156959e5e911073fa8eb79d61793",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "243": {
+    "sourceHash": "606f91e971d5c603fae8adff36650e476b0976c6be5277717266bed525cfff62",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "244": {
+    "sourceHash": "c1d67d1d74378856432208ece44b04cfdcda3e181120fcc9bc59afa358e05d6f",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "245": {
+    "sourceHash": "d0a25e0781426b3b7900672f5b4b4dcc3c9779b0425f74725e54be64f7610c89",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "246": {
+    "sourceHash": "ddda5cca9329ea076d6486e8001b8c7b0366ebe72d85a7d843a6785b72fb7966",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "247": {
+    "sourceHash": "b6709bc1b59e3891c3bad16b9e5eafc41cbbb668068bf18b93f248cd9c3bcf9a",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "248": {
+    "sourceHash": "d9bcc34d019f5d92e7743a34b0f0daf2f3c04b7b47de646ab3f270b1dec71831",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "249": {
+    "sourceHash": "07ae6612605ba9d291a43940e7e28f15a1c64effc428b9b9103df0635a7fe934",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "250": {
+    "sourceHash": "d8bbd3dd9d74cb41bc8040a3a3c23770741e3adc44799a5d1d8accf9ce7d6a8a",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "251": {
+    "sourceHash": "8e03e40aba3f995347e613569e02bedfd255067f8c89faa26f5b840084ea31db",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "252": {
+    "sourceHash": "06f82749df1254c1576bae4800541d4f078e6d645f258d0720bb4f4bb77f20e6",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "253": {
+    "sourceHash": "9b724a102601ce2a8d396bf4091850cd0fef36c55f383e9b06ea6a72866c1b0c",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "254": {
+    "sourceHash": "05585740f351a3845993ca871aacabf997e649e239656d470cf21bbb3d86b6e0",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "255": {
+    "sourceHash": "e2de32af4823780d26a8f12b1f9c09d557abbb1d4c602926c973d53c88304333",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "256": {
+    "sourceHash": "26c5dfe9804878e38bb5add59cfe8001af5518c2633a2ef15750975d42a65701",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "257": {
+    "sourceHash": "efe6545e661af409883944b18ee8101460b04f910dd427b852b4e6ce15f3052e",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "258": {
+    "sourceHash": "c70b4f34034e07ce7aeb4274cbc7955a0b118a2582c8375c6db1db0782632ea6",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "259": {
+    "sourceHash": "f21b6b843186168b79cd490f412b5c0746b1c90f3fff6cd2edfe0692a64300cb",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "260": {
+    "sourceHash": "948e2b17789493a9f5ba712ae972e59ba1b0c45bf0fc08d09c40114bf892c7ac",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "261": {
+    "sourceHash": "c21f07a28395a5a1c3800345d5892757c35389ee754952224ae736d2f57fb77b",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "262": {
+    "sourceHash": "85349b058a471adbd36862e49a7b695c0968444171c0eb2c7100332abbf2ff4b",
+    "preservedStudy": [
+      {},
+      {}
+    ]
+  },
+  "263": {
+    "sourceHash": "333f58f9a0e21abbac4857723be051219eed1c86e048d2f7aeecf9e4a393c7de",
+    "preservedStudy": [
+      {},
+      {}
+    ]
+  },
+  "264": {
+    "sourceHash": "03d63db944ffb527ec577f1b4c7d99fb30f57043e6482b418bbf174e585a1841",
+    "preservedStudy": [
+      {},
+      {}
+    ]
+  },
+  "265": {
+    "sourceHash": "c3de1b98e7d20fd0651525d520ed36251189af6b973fdf9503d3248ef52f9873",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "266": {
+    "sourceHash": "f60618cf1b7fed340ea84b93c9fdc19919456557fa33f25295137cb42adff045",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "267": {
+    "sourceHash": "eba13d3f9ecd9da4d09e2103d21bd182a4aeb7400a49a9c2eeca75beba63d825",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "268": {
+    "sourceHash": "c02b94b796b536e634e9de0662a2def103708651c82f16d7464f9b956d6e8002",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "269": {
+    "sourceHash": "50b83695f3822005870a777f8944b9055f3d76d69558519eff9bd39101c57d4e",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "270": {
+    "sourceHash": "b4f087ba57873b1f40b344091a6aa8ba57ccb757bc4f5af8f39fa168c3eed529",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "271": {
+    "sourceHash": "2da1be84aaba1cbd1f050842aa4b2e10a987f440a1bd68c9bb57e7972860681d",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "272": {
+    "sourceHash": "b0df2bfe3db64af0cd4332b5a8aa206c87842c4cdfe5479f24c47955c226ad46",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "273": {
+    "sourceHash": "1b8ff63a1e6a5af3fa75b8477234150c44399e27f3e27f971b85e6b27aa5eeaf",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "274": {
+    "sourceHash": "fa4347e0c59a8b5eaa0cb30e6976b1652a68783073452c9987803506e302edc5",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "275": {
+    "sourceHash": "20737f1d3d6bfb9d4877b2b20a6be6c0e3ece6d017e7a8cd71561e32fabd48bf",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "276": {
+    "sourceHash": "d24543592a376dd185e1085043d5373cb2d002010ae4b80246e7104892b42628",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "277": {
+    "sourceHash": "22c3b010352be95495ce02ae6e43e7f40de96dff33d5e7d6cd835d7238c64cde",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "278": {
+    "sourceHash": "df0e64c1c2c9c74577ed102f7ffcde4eb652d2744a59989cd83700c7790baf99",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "279": {
+    "sourceHash": "83d677b2d5e3815ae27feb8af33e7dbc4bfec3e970137a408669c1442af95ca0",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "280": {
+    "sourceHash": "ca53b6855f341cb81f1b7c14d9fe2e7833cc8d9bf79135c8dbf8164ce46b50e8",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "281": {
+    "sourceHash": "12bcedda8f0c075a4f770ae0ada899210079eedbcd41062e9f537ebcb637c8c4",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "282": {
+    "sourceHash": "91e38bc9d763bea977df14b7305eae39341365ee67b7732cd4ea5014a94b7e94",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "283": {
+    "sourceHash": "f68dfcb46345f219d5dc1d37d1935c4b7fd73a358a4aa262be2167fec852fa73",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "284": {
+    "sourceHash": "1ec818f52eda30a9cdb9e7e42239bbec356ac4bf8cfff556267e0c500987f0df",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "285": {
+    "sourceHash": "2ef15322583e7b991d28bcb2c86bcd8099f16cf8f4524c0f207104afe34f9ce7",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "286": {
+    "sourceHash": "02a4f0ea72da022ff30625590f3dfc44b1529c4ae848d432c19268365b74f443",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "287": {
+    "sourceHash": "e0d7f83893afa51891edb030c9d8f97364c8ea59eaab33a826b6d52c07ae2ac4",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "288": {
+    "sourceHash": "d8fdbc83fc9d6413e6af10b321c63f7ef33865eb1646b8eda03fae8ee836d27f",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "289": {
+    "sourceHash": "f748a960a5339eef5dd2c51c99931dab5f1be8b66e9e32049db5002f31218835",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "290": {
+    "sourceHash": "6ef8ab6cbf4a8c46d2d9cfbb430b73f3ab3e3f6b8385727642f48bac2fe5a037",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "291": {
+    "sourceHash": "266a01826946e4c37d5ce1a535e68392c6c4d0e4bbb59994afee1defddbafdda",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "292": {
+    "sourceHash": "c9a114da4f7fae8ab0df2f95bff1df503ca79b3c896c36bbde08b7cb5b023a93",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "293": {
+    "sourceHash": "212b53ac38ff3c5ee0d6f8ac039ff954c6a573f0d5f23bc6b924d3e18884fbac",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "294": {
+    "sourceHash": "45d482837301164d7fe838c27979a51d3a45aa6fa18ba09ec116e89dd3558242",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "295": {
+    "sourceHash": "ed24963c935db1d6f5cd901cda44ccae7bcc467d373b29e023191471d7120115",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "296": {
+    "sourceHash": "8d74b8215dca4cf31c7bd2649a19336727d007229af30c808fa2f3a219bacfec",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "297": {
+    "sourceHash": "8dfa39f57a05e51155c2a80d0931a7a8be323800ffc122338e08847a8bb24014",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "298": {
+    "sourceHash": "28a663bcbc4da57add7c9ab1571d07c023dc046d4f1a694d84f70ad11590603f",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "299": {
+    "sourceHash": "a2ffd53198eba9d2d678fee42cf375019a5f43a334eee457656792c1eb631928",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "300": {
+    "sourceHash": "8f2de06fbe1d280c935d717f2560389714773223d13065e7f80cbdfa70ea09e5",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "301": {
+    "sourceHash": "a4a5721f43b2a13638fa24aafcc937187e6f1bfd2a51e9151fa918f06e0fd508",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "302": {
+    "sourceHash": "9bd131a3537400dbd5ea21eae2fa919301aab40c67bb2bac4985bef026aba6e3",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "303": {
+    "sourceHash": "adeb5191cfd2151464f0bd7c93a5fc2c53b04717d50b0057a76814763cb1ecbd",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "304": {
+    "sourceHash": "8b06fabdaf36d6b4a318d84dd3fe936932b3e7806255aca0164910e9e6d16458",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "305": {
+    "sourceHash": "7f3d8b4cae590363668f5257812590e830a28b621e2d551c55b983b77b611330",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "306": {
+    "sourceHash": "61388b72ecdf605b1dc30485c6cdcc5219013eb804570f5a8b5635b3e316b2e9",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "307": {
+    "sourceHash": "91d8ba857ba6fcb7d64e7cb193f780e91771aa61b3a3bd1eeee45856aa7cfe93",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "308": {
+    "sourceHash": "65c92eac94e0d1ec37189d463b50c9e76a020e3adebd5e9932a52b45d247b5cf",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "309": {
+    "sourceHash": "f2f23c4f1600e4f584ef9d3b477151d31b27b0ac13e9f085cced9035522b9963",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "310": {
+    "sourceHash": "300e8a6b92b2c72b7c995b683aaf9bac05442413dee69159ffb87e77e8fb7bd7",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "311": {
+    "sourceHash": "64085de9ecbd4bbf9eed82ef6ee458871fd3054489b9be2e22e842b0bddc0de4",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "312": {
+    "sourceHash": "0054c0b793d88683d020eb45b59b9a4311fffb5acb7bccd9cd05e44644216533",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "313": {
+    "sourceHash": "c6c420063938d3937754abd240d25cac46db7f8511b90b86f4f462e81f5d6ddb",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "314": {
+    "sourceHash": "1149fa4cadb5b1a7960b5e29712e90a2cde8be607fb5999c007200b9939c55f4",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "315": {
+    "sourceHash": "172905b6b4a5e694a9293b9410564a41170fbfe187019bc7df164780629d8833",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "316": {
+    "sourceHash": "5ea962b68d47996e902326cf827a26aaa305835cbe1fa2f6218aac74f544f92d",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "317": {
+    "sourceHash": "7d126943c8b9e8c6bbaa42e64e72bed550bc07e8e631c87ac96623edef8be743",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "318": {
+    "sourceHash": "3f1f414b7f8a519acbae4a66e45c8449e7f8990ea2381d31e3782b340fd15783",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "319": {
+    "sourceHash": "84487ce1cf5880d083b62d50b244d1c7e6d211a2f5f366135328c959e529a065",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "320": {
+    "sourceHash": "fee2ff5c0dd61cfe90cd66de86151db17d60aa7bb307aec93548afb8c84663d7",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "321": {
+    "sourceHash": "a2000782bf5602eb460f3606e1fe556f08371652db0c4aa245ddbe08599de6fd",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "322": {
+    "sourceHash": "68e23acde0f0c936d248d5f766cd3e451700fadc75dd95aec0ea04c90b4756bd",
+    "preservedStudy": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "323": {
+    "sourceHash": "34c06f45eaf711b2ba980687acbac17c2c058d848314aa564a8f5bc64958b3ec",
+    "preservedStudy": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "324": {
+    "sourceHash": "68f8e1f218b7ff95d6d6cb30e174c60e0fab5967d5fda490b541b02fdb2a06ef",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "325": {
+    "sourceHash": "fd27e2259427d0de52b8828dc811a8fcd5dfab4ad10418d1d93eb6c535a154e6",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "326": {
+    "sourceHash": "5b3750658805bb26a9379cca11fa853e712d1af0fb7b3cb7f3a4d6213757bcc5",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "327": {
+    "sourceHash": "f52f0b22fe744dcf58e23654b7ad1a558cf7bf4d6b349374afc88c559e6a142f",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "328": {
+    "sourceHash": "6b6d9b37018a78eb21fcafacf636801a2ef03ed760048df91a30e0dcbcc64b79",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "329": {
+    "sourceHash": "294184c31c55a88f52dce99630fe20d2d0a08b2bb5bde6a6fa6d5b5050b2849e",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "330": {
+    "sourceHash": "42bc07e535953a1ce483c4ef305c4cb58d483ef6c86b557fec3c72448ccf6eb8",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "331": {
+    "sourceHash": "113546d31d4f91fcea561b62da304a13c05f620794c87a9beb4dfca16927177c",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "332": {
+    "sourceHash": "20ca60041e82002a1e39524e9cd264a3a4a2272ca65790f11c36280493127289",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "333": {
+    "sourceHash": "5f1766ed7141e66dec08f3b4d60e7d576af907d42c75c569d304337d2f81d7f5",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "334": {
+    "sourceHash": "ea5a1f9acc45b0ddf169f7904e225fff12e49dcb61c67e0316d6fcf5e28bf563",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "335": {
+    "sourceHash": "4c46a5a588c6f36ea4b452fd0083a64152cabfdc2637d2b7e90c878ea5920ff6",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "336": {
+    "sourceHash": "e48df1f53404122197497293bce29cec8318023542ea4a1cd186671e96edfc32",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "337": {
+    "sourceHash": "225a088be146c181a94c938683652ff11bb89291f56833c90751208e611cfc6f",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "338": {
+    "sourceHash": "1dbb4067bf2b6259bf6bc52e5596876fe29f23d3bbe45667fb5d046a388aed2f",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "339": {
+    "sourceHash": "1ce397f76ce44aba609d8ee5b92dfa4fb64f07324d8661da44a9886fb7f0dcfc",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "340": {
+    "sourceHash": "c1f1271fd2c680b43336d23c961bd00d2e7e9c7e2fc1b2cd0b4bf89a599f1527",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "341": {
+    "sourceHash": "1497afaa7ea7e4e8e17c4fc95a2921d51e36e57d775148a18205031ca6a12c6f",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "342": {
+    "sourceHash": "3cb7fe4859ae8c14c224998ca15dec6f780febce8705d2fd962d37989cc9d105",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "343": {
+    "sourceHash": "0958e0b7c1da49e65175b62837be210b4c36e3a1b0720635a703594d93a48540",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "344": {
+    "sourceHash": "1c84cfb51389e8c5666665c2a9930b2c21d3187526d9f4907bc796e2f1cb3dba",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "345": {
+    "sourceHash": "8d92d3b2c0916a3ded22e6dcde905aa6203a60e74953327991419e35a2b56e20",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "346": {
+    "sourceHash": "726cd064029e2a15fb5d97b3e8731488bfce586e2423df10e3573d4431d91117",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "347": {
+    "sourceHash": "809461e0fc00fb84d097d96a7068452b8a02bc8f7c456fa5d63ed275e0c92e0a",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "348": {
+    "sourceHash": "823154080495ce8fba0ff3bf53f18e3f197d132fc5a6226ef46c08d9591259b8",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "349": {
+    "sourceHash": "efe0035ecf5eef400161a000c1c0c0e3486c6b77cc1db47c94582b6ce3b3e107",
+    "preservedStudy": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "350": {
+    "sourceHash": "d286379035df4da174b491c8c1a435cf8195240ac20b29093710771504b605fe",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "351": {
+    "sourceHash": "7fbc3f389abb7f25f65d05937ad176e48eca7d44e7600b9650a3ee44471d62b3",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "352": {
+    "sourceHash": "54e88d77d93bed3cb34b7b1b96e4203e858c0c87486d392ef59c0ed1403c0b8a",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "353": {
+    "sourceHash": "7684da7c5b397332543ce44a93fe47ccc5932268b82ad68a6657ffa06735078b",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "354": {
+    "sourceHash": "ce14273797605779df6e2ae0d10ef39bf3521e1ff09c7883bc2ee52c29a71df0",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "355": {
+    "sourceHash": "903812a164e0261d1017b4ee0f668eb21726e3c578ef0648ed5791a3cfb4770c",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "356": {
+    "sourceHash": "6b836ec225a1a2575967c4a694404a90ae1c50d7d4a6bdd2209dcc0c175e5e1c",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "357": {
+    "sourceHash": "2b97f2fdb51a057786038bacff51e2b58439801bae5419492551a4b1e5dba9d9",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "358": {
+    "sourceHash": "6d6917c169ff9722c01bbfa94a05819cbd8917a0d9cc606efa959868dd7ce1cc",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "359": {
+    "sourceHash": "0481996d18430b183cc7471cfe54ea37967c3be70fc308b9cf0e0e197955c1ce",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "360": {
+    "sourceHash": "cf3629bb8f0e09ae57fc5314331b3e5c2b270f233963e7f2006c5cc0a2722874",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "361": {
+    "sourceHash": "e2c0c104c7ba099acbc53d8b025f8bbc46c89554fd3fc4c44a4fa248dbe70621",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "362": {
+    "sourceHash": "4e44c366d32f25b26a561308a29e879330f79d3e8c5e1919248048c4f14cefb3",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "363": {
+    "sourceHash": "0d08cceaee26ac83a3d7ceeec10f3e8ea4f16f4481454570349292b37eec43ed",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "364": {
+    "sourceHash": "d2467601b488b87afd9d02254e2da6e6e35ffb7de09a9cac0c276d6d7ae1d232",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "365": {
+    "sourceHash": "62f97a99bff55b79c13b6164575d6adbf176765a22799702edfb4bf2be14731c",
+    "preservedStudy": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  }
+}

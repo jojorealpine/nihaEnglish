@@ -1,0 +1,80 @@
+{
+  "sourceHash": "3df88b5244f9352627ebe82701679b832adee7935c2cd39cb24879a60ba1a1d9",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "우주에 마음을 닫지 마세요.",
+        "explanation": "우주와의 연결을 유지하고 열린 마음으로 세상을 바라보라는 의미",
+        "grammar": "「Do not be」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "closed",
+            "meaning": "닫힌",
+            "note": "여기서는 마음이나 태도가 세상과 단절된 상태를 의미합니다."
+          },
+          {
+            "word": "universe",
+            "meaning": "우주",
+            "note": "전체적인 자연 세계나 존재의 범위를 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "모든 문과 창문을 열고 자유롭게 모든 것이 들어오고 나가게 하세요. 그래야만 진실을 받아들일 수 있습니다.",
+        "explanation": "문과 창문을 열어 세상과의 교류를 자유롭게 함으로써 진실을 이해하고 받아들일 수 있다는 의미입니다.",
+        "grammar": "동사원형 「Open」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "windows",
+            "meaning": "창문",
+            "note": "공간과 세상과의 연결을 상징합니다."
+          },
+          {
+            "word": "freely",
+            "meaning": "자유롭게",
+            "note": "제약 없이 자연스럽게 흐르는 것을 의미합니다."
+          },
+          {
+            "word": "receive",
+            "meaning": "받아들이다",
+            "note": "진실을 이해하고 내면화하는 과정을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "id": "1971-216",
+  "title": "1971 / 216",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "accumulation",
+      "meaning": "쌓임",
+      "note": "지식이나 정보가 시간이 지남에 따라 점점 더 많아지는 것을 의미한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "knowledge",
+      "meaning": "지식",
+      "note": "정적이고 고정된 정보의 집합을 나타낸다.",
+      "sentenceIds": [
+        2,
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "learning",
+      "meaning": "배움",
+      "note": "지속적인 과정으로서 변화와 성장을 의미한다.",
+      "sentenceIds": [
+        2,
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "tethered",
+      "meaning": "매여 있다, 얽매여 있다",
+      "note": "자유롭지 못하게 제약받는 상황을 나타냅니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "experience",
+      "meaning": "경험",
+      "note": "여기서는 경험에 대한 의존이나 제약을 부정적으로 표현하고 있습니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "transcend",
+      "meaning": "넘어나가다",
+      "note": "과거나 제약에서 벗어나 더 높은 차원으로 이동하거나 이해하려는 의미를 담고 있습니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "receive",
+      "meaning": "받아들이다",
+      "note": "새로운 경험이나 지식을 열린 마음으로 수용하거나 받아들이는 것을 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fresh",
+      "meaning": "새롭고 신선한",
+      "note": "새로운 상태나 경험을 나타낸다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "discontinuous",
+      "meaning": "변화무쌍한",
+      "note": "기존의 연속성에서 벗어나 새로운 변화를 의미한다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "divine",
+      "meaning": "신성한",
+      "note": "영적이고 초월적인 상태를 나타낸다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-216/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Knowledge is accumulation, that is why knowledge is always dead, while learning is moment to moment because learning is not accumulation but movement.",
+      "korean": "지식은 쌓임이지만, 그 때문에 지식은 항상 정적이고 변화하지 않는 반면, 배움은 순간 순간의 움직임이기 때문에 정적이지 않다.",
+      "explanation": "지식과 배움의 본질적 차이를 설명하며, 정적인 지식과 동적인 배움을 대비시킨다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-216/02.mp3",
+      "vocabulary": [
+        {
+          "word": "accumulation",
+          "meaning": "쌓임",
+          "note": "지식이나 정보가 시간이 지남에 따라 점점 더 많아지는 것을 의미한다."
+        },
+        {
+          "word": "knowledge",
+          "meaning": "지식",
+          "note": "정적이고 고정된 정보의 집합을 나타낸다."
+        },
+        {
+          "word": "learning",
+          "meaning": "배움",
+          "note": "지속적인 과정으로서 변화와 성장을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "So do not be dead with knowledge but move with learning, only then will you be alive.",
+      "korean": "지식에 얽매이지 말고 학습으로 움직여라, 그래야 살아있을 수 있다.",
+      "explanation": "지식에 안주하지 말고 지속적인 학습을 통해 변화와 성장을 추구해야 진정한 삶을 살 수 있다는 의미입니다.",
+      "grammar": "「do not be」는 do not + 동사원형으로 만든 부정 명령문입니다. 행동의 주체인 you를 따로 쓰지 않고, 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1971-216/03.mp3",
+      "vocabulary": [
+        {
+          "word": "knowledge",
+          "meaning": "지식",
+          "note": "고정된 정보나 사실의 집합을 의미하며, 여기서는 정적이고 변화하지 않는 상태를 나타냅니다."
+        },
+        {
+          "word": "learning",
+          "meaning": "학습",
+          "note": "지속적인 습득과 변화의 과정을 의미하며, 여기서는 활동적이고 성장하는 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Do not be tethered to experience - experience is slavery.",
+      "korean": "경험에 얽매이지 마세요 - 경험은 노예의 삶입니다.",
+      "explanation": "경험에 구속되지 말고 자유롭게 살아가야 함을 강조하며, 경험을 부정적인 관점에서 바라보고 있습니다.",
+      "grammar": "「Do not be」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1971-216/04.mp3",
+      "vocabulary": [
+        {
+          "word": "tethered",
+          "meaning": "매여 있다, 얽매여 있다",
+          "note": "자유롭지 못하게 제약받는 상황을 나타냅니다."
+        },
+        {
+          "word": "experience",
+          "meaning": "경험",
+          "note": "여기서는 경험에 대한 의존이나 제약을 부정적으로 표현하고 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Always transcend that which has been so that you are ready to receive the new.",
+      "korean": "항상 과거를 넘어서야 새로운 것을 받아들일 준비가 된다.",
+      "explanation": "항상 과거의 제약에서 벗어나 새로운 것을 열린 마음으로 받아들일 수 있는 상태를 유지해야 한다는 의미입니다.",
+      "grammar": "동사원형 「transcend」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-216/05.mp3",
+      "vocabulary": [
+        {
+          "word": "transcend",
+          "meaning": "넘어나가다",
+          "note": "과거나 제약에서 벗어나 더 높은 차원으로 이동하거나 이해하려는 의미를 담고 있습니다."
+        },
+        {
+          "word": "receive",
+          "meaning": "받아들이다",
+          "note": "새로운 경험이나 지식을 열린 마음으로 수용하거나 받아들이는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Ecstasy is always with the new, with the fresh, with the young, with the discontinuous - and to be always in the discontinuous is to be in the divine.",
+      "korean": "기쁨은 항상 새롭고 신선하며 젊고 변화무쌍한 것과 함께하며, 변화무쌍한 상태에 머무르는 것은 신성한 상태에 있는 것과 같다.",
+      "explanation": "문장은 변화와 새로움이 가져다주는 영적 기쁨과 신성함에 대해 설명한다. 변화무쌍함은 기존의 틀에서 벗어나 새로운 경험이나 상태를 의미한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-216/06.mp3",
+      "vocabulary": [
+        {
+          "word": "fresh",
+          "meaning": "새롭고 신선한",
+          "note": "새로운 상태나 경험을 나타낸다."
+        },
+        {
+          "word": "discontinuous",
+          "meaning": "변화무쌍한",
+          "note": "기존의 연속성에서 벗어나 새로운 변화를 의미한다."
+        },
+        {
+          "word": "divine",
+          "meaning": "신성한",
+          "note": "영적이고 초월적인 상태를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "지식은 쌓임이지만, 그 때문에 지식은 항상 정적이고 변화하지 않는 반면, 배움은 순간 순간의 움직임이기 때문에 정적이지 않다.",
+    "지식에 얽매이지 말고 학습으로 움직여라, 그래야 살아있을 수 있다. 경험에 얽매이지 마세요 - 경험은 노예의 삶입니다. 항상 과거를 넘어서야 새로운 것을 받아들일 준비가 된다. 기쁨은 항상 새롭고 신선하며 젊고 변화무쌍한 것과 함께하며, 변화무쌍한 상태에 머무르는 것은 신성한 상태에 있는 것과 같다."
+  ],
+  "fullAudio": "audio/1971-216/script_all.mp3",
+  "originalText": "Love.\n\nKnowledge is accumulation,\nthat is why knowledge is always dead,\nwhile learning is moment to moment\nbecause learning is not accumulation but movement.\n\nSo do not be dead with knowledge\nbut move with learning,\nonly then will you be alive.\nDo not be tethered to experience -\nexperience is slavery.\nAlways transcend that which has been\nso that you are ready to receive the new.\nEcstasy is always with the new,\nwith the fresh, with the young,\nwith the discontinuous -\nand to be always in the discontinuous\nis to be in the divine.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 216,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0860 2.JPG",
+        "side": "right",
+        "printedPage": 171
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

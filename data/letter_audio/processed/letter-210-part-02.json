@@ -1,0 +1,16 @@
+{
+  "key": "letter-210-part-02",
+  "number": 210,
+  "generationId": "01a1e8f0-705d-720d-a315-3dba6bb5942c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Not only you cannot, but no one can do it, because no one can knowingly be stupid",
+      "path": "audio/1971-210/11.mp3",
+      "start": 0.0,
+      "end": 5.28
+    }
+  ]
+}

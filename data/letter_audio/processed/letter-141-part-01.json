@@ -1,0 +1,79 @@
+{
+  "key": "letter-141-part-01",
+  "number": 141,
+  "generationId": "01a1e6cf-701c-77d7-8d88-36efe304e264",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-141/01.mp3",
+      "start": 0.0,
+      "end": 0.566712
+    },
+    {
+      "index": 1,
+      "text": "God purifies in every way.",
+      "path": "audio/1970-141/02.mp3",
+      "start": 1.7351930000000002,
+      "end": 3.492222
+    },
+    {
+      "index": 2,
+      "text": "It is not only gold that has to pass through fire to be purified but man too.",
+      "path": "audio/1970-141/03.mp3",
+      "start": 4.796259,
+      "end": 9.37
+    },
+    {
+      "index": 3,
+      "text": "For man this fire is the anguish of love.",
+      "path": "audio/1970-141/04.mp3",
+      "start": 10.651655000000002,
+      "end": 13.033265
+    },
+    {
+      "index": 4,
+      "text": "It is a blessing when this fire enters a person's life; it is the fruit of infinite prayers, infinite births.",
+      "path": "audio/1970-141/05.mp3",
+      "start": 14.262472,
+      "end": 20.975238
+    },
+    {
+      "index": 5,
+      "text": "It is the intensity of thirst that turns finally into love, but unfortunately few are able to welcome it because few can recognize love in the form of anguish.",
+      "path": "audio/1970-141/06.mp3",
+      "start": 22.718639,
+      "end": 32.91551
+    },
+    {
+      "index": 6,
+      "text": "Love is not a throne, it is a cross; but those who gladly offer themselves to it attain the very highest throne.",
+      "path": "audio/1970-141/07.mp3",
+      "start": 34.424399,
+      "end": 42.055329
+    },
+    {
+      "index": 7,
+      "text": "The cross can be seen, the throne cannot - it is always hidden behind the cross.",
+      "path": "audio/1970-141/08.mp3",
+      "start": 43.20254,
+      "end": 47.963446999999995
+    },
+    {
+      "index": 8,
+      "text": "And even Jesus hesitated for a moment; even his heart cried out: Father, why hast thou forsaken me?",
+      "path": "audio/1970-141/09.mp3",
+      "start": 49.161111000000005,
+      "end": 56.926054
+    },
+    {
+      "index": 9,
+      "text": "But the next moment he remembered and said: Thy will be done.",
+      "path": "audio/1970-141/10.mp3",
+      "start": 58.821088,
+      "end": 63.84
+    }
+  ]
+}

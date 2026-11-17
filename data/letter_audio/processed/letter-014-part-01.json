@@ -1,0 +1,79 @@
+{
+  "key": "letter-014-part-01",
+  "number": 14,
+  "generationId": "01a1e4e9-69eb-7b2d-b497-d11f359f973b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1964-14/01.mp3",
+      "start": 0.0,
+      "end": 0.614082
+    },
+    {
+      "index": 1,
+      "text": "I have received your very affectionate letter.",
+      "path": "audio/1964-14/02.mp3",
+      "start": 1.878707,
+      "end": 4.188322
+    },
+    {
+      "index": 2,
+      "text": "You write that my words ring in your ears; what I want is for their echo to carry you into that space where everything is silent, empty.",
+      "path": "audio/1964-14/03.mp3",
+      "start": 5.572404,
+      "end": 12.704398999999999
+    },
+    {
+      "index": 3,
+      "text": "This is the way from words to emptiness.",
+      "path": "audio/1964-14/04.mp3",
+      "start": 14.075601,
+      "end": 16.195873000000002
+    },
+    {
+      "index": 4,
+      "text": "There one meets oneself.",
+      "path": "audio/1964-14/05.mp3",
+      "start": 17.538254,
+      "end": 19.10737
+    },
+    {
+      "index": 5,
+      "text": "I am in bliss.",
+      "path": "audio/1964-14/06.mp3",
+      "start": 20.307211,
+      "end": 21.358753
+    },
+    {
+      "index": 6,
+      "text": "Take my love I have nothing else to offer, it is my only wealth.",
+      "path": "audio/1964-14/07.mp3",
+      "start": 22.783447,
+      "end": 26.177778
+    },
+    {
+      "index": 7,
+      "text": "The marvel of it is that the more of it you give the more it becomes.",
+      "path": "audio/1964-14/08.mp3",
+      "start": 27.418685,
+      "end": 30.738571
+    },
+    {
+      "index": 8,
+      "text": "Real wealth is like that - it grows as you give it away; and if it diminishes - it is not wealth at all.",
+      "path": "audio/1964-14/09.mp3",
+      "start": 32.028662000000004,
+      "end": 38.835828
+    },
+    {
+      "index": 9,
+      "text": "Write again, for not only do you wait for my letters, I too wait for yours.",
+      "path": "audio/1964-14/10.mp3",
+      "start": 40.4378,
+      "end": 45.32
+    }
+  ]
+}

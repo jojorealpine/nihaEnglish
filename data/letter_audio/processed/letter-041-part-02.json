@@ -1,0 +1,23 @@
+{
+  "key": "letter-041-part-02",
+  "number": 41,
+  "generationId": "01a1e4ed-79e1-7aad-955f-97e93321d73b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "I shall be coming soon now.",
+      "path": "audio/1966-41/11.mp3",
+      "start": 0.0,
+      "end": 1.616463
+    },
+    {
+      "index": 11,
+      "text": "The rest when we meet.",
+      "path": "audio/1966-41/12.mp3",
+      "start": 3.077302,
+      "end": 4.62
+    }
+  ]
+}

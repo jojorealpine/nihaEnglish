@@ -1,0 +1,37 @@
+{
+  "key": "letter-117-part-01",
+  "number": 117,
+  "generationId": "01a1e671-cdeb-783f-8198-60a08ccadd0c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-117/01.mp3",
+      "start": 0.0,
+      "end": 0.700884
+    },
+    {
+      "index": 1,
+      "text": "There is no greater power than trusting, oneself - its fragrance is not of this world; peace, bliss and truth flow from, this fragrance He who trusts himself is in heaven and he who mistrists himself holds the keys of helt in his hands.",
+      "path": "audio/1970-117/02.mp3",
+      "start": 2.141655,
+      "end": 19.786599000000002
+    },
+    {
+      "index": 2,
+      "text": "The Scottish philosopher David Hume was an atheist, but every Sunday he made it a point to attend the sermon of John Brown, a confirmed theist When people pointed out that going to church was against his own principles he laughed and replied: I have no faith whatever in what John Brown says, but John Brown has total faith in what John Brown says.",
+      "path": "audio/1970-117/03.mp3",
+      "start": 21.189002,
+      "end": 44.987347
+    },
+    {
+      "index": 3,
+      "text": "So once a week I make a point of hearing a man who has total faith in himselff",
+      "path": "audio/1970-117/04.mp3",
+      "start": 46.406689,
+      "end": 50.99
+    }
+  ]
+}

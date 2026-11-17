@@ -1,0 +1,115 @@
+{
+  "sourceHash": "d941680c5b8d192616bdd3f84e5dcd1109addddcbeb9841eeb787eeedf62beff",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "너의 에너지가 잠들어 있는 것을 얼마나 더 계속할 거니?",
+        "explanation": "에너지가 잠들어 있다는 표현을 통해 잠재력이나 활동력이 활용되지 않고 있다는 의미를 전달합니다.",
+        "grammar": "「will you go」에서 조동사 will 뒤에 동사원형 「go」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "longer",
+            "meaning": "더 오래",
+            "note": "시간의 지속성을 나타내며, 현재 상태가 계속될 것이라는 의문을 제기합니다."
+          },
+          {
+            "word": "letting",
+            "meaning": "허락하다, 방치하다",
+            "note": "에너지를 활용하지 않고 방치하는 상태를 표현합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "progressive",
+      "notes": {
+        "korean": "너는 얼마나 더 자신의 위대함을 깨닫지 못하고 있을 거니?",
+        "explanation": "자신의 내면적 가치나 중요성을 인식하지 못하고 있는 상태가 얼마나 지속될 것인지 묻는 문장입니다.",
+        "grammar": "「are you going」는 be동사 + -ing로 만든 현재진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "oblivious",
+            "meaning": "의식하지 못하는",
+            "note": "자신의 중요성이나 가치를 깨닫지 못하고 있다는 의미를 담고 있습니다."
+          },
+          {
+            "word": "immensity",
+            "meaning": "위대함",
+            "note": "자신의 본질이나 가치가 얼마나 크고 중요한지를 강조합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "갈등에 시간을 낭비하지 말고 의심에 시간을 지체하지 마라 - 시간은 다시 찾아올 수 없고, 기회를 놓치면 다시 얻기까지 많은 삶이 걸릴 수 있다.",
+        "explanation": "시간을 갈등이나 의심으로 낭비하지 말고, 기회를 놓치면 다시 얻기까지 오랜 시간이 걸릴 수 있다는 경고적인 메시지를 전달한다.",
+        "grammar": "「Don't waste」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "conflict",
+            "meaning": "갈등",
+            "note": "상호 간의 충돌이나 불화를 의미한다."
+          },
+          {
+            "word": "recovered",
+            "meaning": "회복된",
+            "note": "잃어버린 시간을 다시 찾을 수 없다는 의미에서 사용되었다."
+          },
+          {
+            "word": "opportunity",
+            "meaning": "기회",
+            "note": "중요한 순간이나 가능성을 놓치면 다시 얻기까지 오랜 시간이 걸린다는 의미."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Don't waste time",
+            "meaning": "시간을 낭비하지 마라",
+            "explanation": "시간을 효율적으로 사용하라는 의미로 사용되었다."
+          },
+          {
+            "expression": "lose no time",
+            "meaning": "시간을 지체하지 마라",
+            "explanation": "중요한 순간을 놓치지 말고 신속하게 행동하라는 의미."
+          }
+        ]
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

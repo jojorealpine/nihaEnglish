@@ -1,0 +1,37 @@
+{
+  "key": "letter-302-part-02",
+  "number": 302,
+  "generationId": "01a1e906-d1bf-7afa-9991-73896fbca832",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "The policeman sent a man to tell the woman of her misfortune.",
+      "path": "audio/1971-302/11.mp3",
+      "start": 0.0,
+      "end": 3.822268
+    },
+    {
+      "index": 11,
+      "text": "But break the news gently, he said.",
+      "path": "audio/1971-302/12.mp3",
+      "start": 5.384943,
+      "end": 8.001859
+    },
+    {
+      "index": 12,
+      "text": "She thinks a lot of this dog.",
+      "path": "audio/1971-302/13.mp3",
+      "start": 9.603424,
+      "end": 11.627528
+    },
+    {
+      "index": 13,
+      "text": "The man rapped on the mansion door and when the woman appeared, he said: Sorry, lady, but part of your dog has been run over.",
+      "path": "audio/1971-302/14.mp3",
+      "start": 13.191769,
+      "end": 22.15
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "key": "letter-222-part-01",
+  "number": 222,
+  "generationId": "01a1e8f3-7bda-76c3-b905-94c74a287a59",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-222/01.mp3",
+      "start": 0.0,
+      "end": 0.5925849999999999
+    },
+    {
+      "index": 1,
+      "text": "Always be positive, in each and every situation - that helps meditative awareness very much.",
+      "path": "audio/1971-222/02.mp3",
+      "start": 1.729501,
+      "end": 7.4735830000000005
+    },
+    {
+      "index": 2,
+      "text": "Negative attitudes negate the whole effort.",
+      "path": "audio/1971-222/03.mp3",
+      "start": 8.552426,
+      "end": 10.740248999999999
+    },
+    {
+      "index": 3,
+      "text": "Diogenes was looking for an honest man in New Delhi.",
+      "path": "audio/1971-222/04.mp3",
+      "start": 11.845057,
+      "end": 14.530952
+    },
+    {
+      "index": 4,
+      "text": "Any luck? asked a wayfarer.",
+      "path": "audio/1971-222/05.mp3",
+      "start": 15.813923,
+      "end": 17.729524
+    },
+    {
+      "index": 5,
+      "text": "Oh, pretty fair, sir, replied Diogenes.",
+      "path": "audio/1971-222/06.mp3",
+      "start": 18.888277,
+      "end": 21.729184
+    },
+    {
+      "index": 6,
+      "text": "I still have my lantern.",
+      "path": "audio/1971-222/07.mp3",
+      "start": 23.230272,
+      "end": 24.74
+    }
+  ]
+}

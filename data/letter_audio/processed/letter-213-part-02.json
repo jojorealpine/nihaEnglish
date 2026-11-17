@@ -1,0 +1,37 @@
+{
+  "key": "letter-213-part-02",
+  "number": 213,
+  "generationId": "01a1e8f1-2d20-799a-b8c1-6c13aeb4d519",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "So learn how to unlearn.",
+      "path": "audio/1971-213/11.mp3",
+      "start": 0.0,
+      "end": 1.920998
+    },
+    {
+      "index": 11,
+      "text": "So learn how to be beyond the mind.",
+      "path": "audio/1971-213/12.mp3",
+      "start": 3.685442,
+      "end": 5.927438
+    },
+    {
+      "index": 12,
+      "text": "Do not cling to the known and the master key will be in your hands.",
+      "path": "audio/1971-213/13.mp3",
+      "start": 7.667052,
+      "end": 12.257527999999999
+    },
+    {
+      "index": 13,
+      "text": "Be open and vulnerable, always living and flowing into the unknown, and you will be in meditation - you will be meditation.",
+      "path": "audio/1971-213/14.mp3",
+      "start": 14.198322000000001,
+      "end": 23.72
+    }
+  ]
+}

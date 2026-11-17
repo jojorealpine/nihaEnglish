@@ -1,0 +1,221 @@
+{
+  "sourceHash": "43a936fedb8d6990eadfe4419db00683665ef21bfc1878c281a1504388119deb",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "perfect",
+      "notes": {
+        "korean": "값어치 높은 말씀이야! - 희망을 포기하지 않았다는 거야!",
+        "explanation": "문장은 희망의 지속에 대한 강력한 메시지를 전달하며, 특히 '값어치 높은 말씀'이라는 표현은 그 메시지의 중요성과 감동을 강조한다.",
+        "grammar": "「have never given up」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "priceless",
+            "meaning": "값어치 높은",
+            "note": "이 단어는 말의 가치나 중요성이 매우 크다는 것을 강조한다."
+          },
+          {
+            "word": "words",
+            "meaning": "말씀",
+            "note": "여기서는 특정한 중요한 메시지나 발언을 가리킨다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "passive",
+      "notes": {
+        "korean": "생존의 희망이 없을 때만 개봉하라 적혀 있었다.",
+        "explanation": "편지에 적힌 지시문을 한국어로 번역한 내용입니다.",
+        "grammar": "「was written」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "written",
+            "meaning": "적혀 있다",
+            "note": "편지에 기록되어 있다는 의미입니다."
+          },
+          {
+            "word": "survival",
+            "meaning": "생존",
+            "note": "편지에서 언급된 생존의 희망이 없는 상황을 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "어둠과 외로움으로 가득 찬 삶의 길은 확실히 그러하지만, 희망이 없는 사람들에게만 그렇다.",
+        "explanation": "어둠과 외로움 속에서 살아가는 삶의 길은 희망이 없는 사람들에게만 해당된다는 의미를 전달한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "lonely",
+            "meaning": "외로운",
+            "note": "혼자이고 외로움을 느끼는 상태를 나타낸다."
+          },
+          {
+            "word": "certainly",
+            "meaning": "확실히",
+            "note": "이 문맥에서는 「확실히」의 뜻으로 읽습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "쉰 해가 지났지만 맥밀런은 봉투를 그대로 밀봉된 상태로 보관했다.",
+        "explanation": "쉰 해가 지났음에도 불구하고 맥밀런은 봉투의 상태를 바꾸지 않고 그대로 밀봉된 채로 유지했다.",
+        "grammar": "동사 「remained」는 remain의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "envelope",
+            "meaning": "봉투",
+            "note": "편지 또는 문서를 넣어 보내는 종이로 만든 겉포장."
+          },
+          {
+            "word": "remained",
+            "meaning": "남아 있었다",
+            "note": "시간이 지나도 변하지 않고 그대로 유지된 상태를 나타냄."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "progressive",
+      "notes": {
+        "korean": "유명한 지리 탐험가 도널드 맥밀런은 북극으로 향하는 여정을 준비하던 중 편지를 받았습니다.",
+        "explanation": "도널드 맥밀런이 북극 탐사를 앞두고 있었지만, 그 순간에 편지를 받게 되었다는 내용입니다.",
+        "grammar": "「was preparing」는 be동사 + -ing로 만든 과거진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "geographical",
+            "meaning": "지리적인",
+            "note": "장소나 지역에 관한 특성이나 특징을 설명할 때 사용됩니다."
+          },
+          {
+            "word": "explorer",
+            "meaning": "탐험가",
+            "note": "미지의 지역이나 분야를 탐사하고 연구하는 사람을 가리킵니다."
+          },
+          {
+            "word": "preparing",
+            "meaning": "준비하다",
+            "note": "어떤 활동이나 상황에 대비하여 필요한 것들을 갖추거나 준비하는 과정을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "누군가 그 이유를 물어보자 그는 이렇게 답했다: 첫째로 미지의 발신인과의 신뢰를 지키고 싶고, 또 다른 이유로는 결코 포기하지 않았기 때문이다.",
+        "explanation": "누군가가 그에게 봉투를 밀봉한 이유를 묻자, 그는 신뢰와 희망을 유지하려는 이유를 설명한다.",
+        "grammar": "동사 「asked」는 ask의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "reason",
+            "meaning": "이유",
+            "note": "왜 그렇게 행동하는지에 대한 설명의 근거"
+          },
+          {
+            "word": "replied",
+            "meaning": "대답하다",
+            "note": "질문에 대한 직접적인 답변을 제공"
+          },
+          {
+            "word": "unknown",
+            "meaning": "알려지지 않은",
+            "note": "발신인이 누구인지 확실하지 않은 상황을 나타냄"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "신을 향한 길에서 유일한 영양분은 끝없는 희망입니다 - 어둠 속에서 북극성처럼 빛나는 희망, 고독 속에서 그림자처럼 함께하는 희망입니다.",
+        "explanation": "신앙의 여정에서 희망의 중요성을 강조하는 문장입니다. 희망은 어둠 속에서 길을 비추는 북극성과 같이, 고독 속에서 동반자 역할을 하는 그림자와 같이 항상 함께해야 함을 말합니다.",
+        "grammar": "동사 「hope」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "sustenance",
+            "meaning": "영양분",
+            "note": "여기서는 신앙의 여정에서 필요한 근본적인 요소를 의미합니다."
+          },
+          {
+            "word": "infinite",
+            "meaning": "무한한",
+            "note": "끝없이 지속되는, 제한이 없는 희망을 나타냅니다."
+          },
+          {
+            "word": "loneliness",
+            "meaning": "고독",
+            "note": "외로움이나 혼자 있는 상태를 의미합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "like the north star",
+            "meaning": "북극성처럼",
+            "explanation": "길잡이 역할을 하는 것을 비유적으로 표현합니다."
+          },
+          {
+            "expression": "like a shadow",
+            "meaning": "그림자처럼",
+            "explanation": "항상 함께하며 위로와 동반자 역할을 하는 것을 나타냅니다."
+          }
+        ]
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "key": "letter-206-part-01",
+  "number": 206,
+  "generationId": "01a1e8ee-2e14-7185-8846-05dff4ea5540",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-206/01.mp3",
+      "start": 0.0,
+      "end": 0.642222
+    },
+    {
+      "index": 1,
+      "text": "To be religious is to be a yea-sayer: yes to everything - yes to life and yes to death, yes to light and yes to darkness.",
+      "path": "audio/1971-206/02.mp3",
+      "start": 1.7895690000000002,
+      "end": 8.336621
+    },
+    {
+      "index": 2,
+      "text": "Total acceptance is religion.",
+      "path": "audio/1971-206/03.mp3",
+      "start": 9.544580000000002,
+      "end": 11.22322
+    },
+    {
+      "index": 3,
+      "text": "Says Nicolas De Cusa: Yes God!",
+      "path": "audio/1971-206/04.mp3",
+      "start": 12.425397,
+      "end": 14.672381
+    },
+    {
+      "index": 4,
+      "text": "Yes God!",
+      "path": "audio/1971-206/05.mp3",
+      "start": 15.850136000000001,
+      "end": 16.652177000000002
+    },
+    {
+      "index": 5,
+      "text": "Yes, yes and always yes.",
+      "path": "audio/1971-206/06.mp3",
+      "start": 17.809773,
+      "end": 19.239637000000002
+    },
+    {
+      "index": 6,
+      "text": "Say yes - and feel it, and you have entered the temple of the divine.",
+      "path": "audio/1971-206/07.mp3",
+      "start": 20.377755,
+      "end": 23.82551
+    },
+    {
+      "index": 7,
+      "text": "Say no and you yourself have closed the doors - or closed yourself to the divine.",
+      "path": "audio/1971-206/08.mp3",
+      "start": 25.371156,
+      "end": 31.073175000000003
+    },
+    {
+      "index": 8,
+      "text": "No is suicidal, no is poisonous - know this and be a yea-sayer.",
+      "path": "audio/1971-206/09.mp3",
+      "start": 32.522132,
+      "end": 37.848865999999994
+    },
+    {
+      "index": 9,
+      "text": "Let your heart say yes with every beat.",
+      "path": "audio/1971-206/10.mp3",
+      "start": 39.373175,
+      "end": 42.29
+    }
+  ]
+}

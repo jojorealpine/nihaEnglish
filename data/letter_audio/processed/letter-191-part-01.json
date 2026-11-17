@@ -1,0 +1,79 @@
+{
+  "key": "letter-191-part-01",
+  "number": 191,
+  "generationId": "01a1e8ea-1160-7187-882f-76f1f6e44a4b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-191/01.mp3",
+      "start": 0.0,
+      "end": 0.657483
+    },
+    {
+      "index": 1,
+      "text": "The new world revealed in meditation is not something added from the outside.",
+      "path": "audio/1971-191/02.mp3",
+      "start": 1.938345,
+      "end": 6.165828
+    },
+    {
+      "index": 2,
+      "text": "It has always been there - within, is in being itself.",
+      "path": "audio/1971-191/03.mp3",
+      "start": 7.439864,
+      "end": 11.115488
+    },
+    {
+      "index": 3,
+      "text": "It is being itself.",
+      "path": "audio/1971-191/04.mp3",
+      "start": 12.363900000000001,
+      "end": 13.803175
+    },
+    {
+      "index": 4,
+      "text": "One may know it or not, but it is there - as a seed, of course, as a potentiality.",
+      "path": "audio/1971-191/05.mp3",
+      "start": 14.989320000000001,
+      "end": 20.003175000000002
+    },
+    {
+      "index": 5,
+      "text": "One has to make it actual, that is all.",
+      "path": "audio/1971-191/06.mp3",
+      "start": 21.231723,
+      "end": 23.626032000000002
+    },
+    {
+      "index": 6,
+      "text": "That is why when it is revealed, when it flowers, one laughs uproariously because it has always been there and one never knew it.",
+      "path": "audio/1971-191/07.mp3",
+      "start": 25.261224,
+      "end": 33.681881999999995
+    },
+    {
+      "index": 7,
+      "text": "To work towards meditation is just like sculpturing because as the sculptor chisels out a figure deeply buried in a mass of inert matter, so the meditator transforms his own inert potentialities into living, dynamic and conscious creations.",
+      "path": "audio/1971-191/08.mp3",
+      "start": 35.239138000000004,
+      "end": 53.304489999999994
+    },
+    {
+      "index": 8,
+      "text": "Of course, here the creator and the creation and the means of creation are not different but one because the meditator himself is all.",
+      "path": "audio/1971-191/09.mp3",
+      "start": 54.719637000000006,
+      "end": 65.243673
+    },
+    {
+      "index": 9,
+      "text": "And that is why I call meditation the greatest art.",
+      "path": "audio/1971-191/10.mp3",
+      "start": 66.721542,
+      "end": 70.71000000000001
+    }
+  ]
+}

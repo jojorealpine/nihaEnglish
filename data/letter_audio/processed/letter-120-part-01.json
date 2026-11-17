@@ -1,0 +1,79 @@
+{
+  "key": "letter-120-part-01",
+  "number": 120,
+  "generationId": "01a1e683-93d9-7d8e-9e41-92fb905836de",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-120/01.mp3",
+      "start": 0.0,
+      "end": 0.797302
+    },
+    {
+      "index": 1,
+      "text": "The search for meaning is disastrous; it has brought nothing but meaninglessness.",
+      "path": "audio/1970-120/02.mp3",
+      "start": 2.216576,
+      "end": 6.744694
+    },
+    {
+      "index": 2,
+      "text": "To see that there is no meaning - is to have the real meaning where meaninglessness cannot be, where meaning doesn't matter and so its disasters are avoided.",
+      "path": "audio/1970-120/03.mp3",
+      "start": 8.128662,
+      "end": 18.156825
+    },
+    {
+      "index": 3,
+      "text": "What remains just is, and what is, is and what is not, is not and that's all.",
+      "path": "audio/1970-120/04.mp3",
+      "start": 19.593242999999998,
+      "end": 25.46415
+    },
+    {
+      "index": 4,
+      "text": "You ask for a clear statement about motivelessness.",
+      "path": "audio/1970-120/05.mp3",
+      "start": 26.662063,
+      "end": 29.281542
+    },
+    {
+      "index": 5,
+      "text": "Your attempt to understand cannot succeed because it is motivated!",
+      "path": "audio/1970-120/06.mp3",
+      "start": 30.442947999999998,
+      "end": 34.083061
+    },
+    {
+      "index": 6,
+      "text": "Why bother about understanding?",
+      "path": "audio/1970-120/07.mp3",
+      "start": 35.278095,
+      "end": 36.786871
+    },
+    {
+      "index": 7,
+      "text": "Look, isn't the thing clear before you there?",
+      "path": "audio/1970-120/08.mp3",
+      "start": 37.901565000000005,
+      "end": 40.439251999999996
+    },
+    {
+      "index": 8,
+      "text": "All things are open!",
+      "path": "audio/1970-120/09.mp3",
+      "start": 41.975079,
+      "end": 43.323423999999996
+    },
+    {
+      "index": 9,
+      "text": "All things are clear!",
+      "path": "audio/1970-120/10.mp3",
+      "start": 44.939274000000005,
+      "end": 46.42
+    }
+  ]
+}

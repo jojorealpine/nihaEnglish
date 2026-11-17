@@ -1,0 +1,16 @@
+{
+  "key": "letter-174-part-02",
+  "number": 174,
+  "generationId": "01a1e8e5-ab01-7186-88fa-99b480fe08af",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "And all flowering is in relaxation, and all benediction.",
+      "path": "audio/1971-174/11.mp3",
+      "start": 0.0,
+      "end": 4.44
+    }
+  ]
+}

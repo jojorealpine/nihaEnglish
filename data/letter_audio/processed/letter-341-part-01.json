@@ -1,0 +1,79 @@
+{
+  "key": "letter-341-part-01",
+  "number": 341,
+  "generationId": "01a1e913-d713-7ecb-a63c-4f3578bf85de",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-341/01.mp3",
+      "start": 0.0,
+      "end": 0.811088
+    },
+    {
+      "index": 1,
+      "text": "Don't take life so seriously, because seriousness is a great dis-ease, and not only a disease but a suicide also.",
+      "path": "audio/1971-341/02.mp3",
+      "start": 2.2797959999999997,
+      "end": 9.942381
+    },
+    {
+      "index": 2,
+      "text": "Be playful - totally, because that is the only way to be living.",
+      "path": "audio/1971-341/03.mp3",
+      "start": 11.357302,
+      "end": 15.434263
+    },
+    {
+      "index": 3,
+      "text": "Life is a play, a leela, and to know it as such is religion, and to live it as such is sannyas - renunciation.",
+      "path": "audio/1971-341/04.mp3",
+      "start": 16.768141,
+      "end": 24.716281000000002
+    },
+    {
+      "index": 4,
+      "text": "If you can act and live as if acting and living in a dream and still be a witness to it then you will be in the cosmic flow, the tao.",
+      "path": "audio/1971-341/05.mp3",
+      "start": 26.097914,
+      "end": 33.710363
+    },
+    {
+      "index": 5,
+      "text": "And to be in the cosmic flow is to be free - free from oneself, the ego.",
+      "path": "audio/1971-341/06.mp3",
+      "start": 35.053197000000004,
+      "end": 40.167097999999996
+    },
+    {
+      "index": 6,
+      "text": "The ego is the seriousness, the disease, and the tao, the egoless existence, is the bliss, the ecstasy.",
+      "path": "audio/1971-341/07.mp3",
+      "start": 41.346939000000006,
+      "end": 49.184762
+    },
+    {
+      "index": 7,
+      "text": "That is why I have given you such an absurd name!",
+      "path": "audio/1971-341/08.mp3",
+      "start": 50.571293000000004,
+      "end": 52.972721
+    },
+    {
+      "index": 8,
+      "text": "But I have given it to you knowingly.",
+      "path": "audio/1971-341/09.mp3",
+      "start": 54.168231000000006,
+      "end": 55.867028999999995
+    },
+    {
+      "index": 9,
+      "text": "I have given it to you so that you may never be identified with it.",
+      "path": "audio/1971-341/10.mp3",
+      "start": 57.205488,
+      "end": 61.44
+    }
+  ]
+}

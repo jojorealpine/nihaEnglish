@@ -1,0 +1,44 @@
+{
+  "key": "letter-347-part-01",
+  "number": 347,
+  "generationId": "01a1e915-e291-7587-b633-bfd0e312679e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-347/01.mp3",
+      "start": 0.0,
+      "end": 0.8305669999999999
+    },
+    {
+      "index": 1,
+      "text": "Everything belongs to the man who wants nothing.",
+      "path": "audio/1971-347/02.mp3",
+      "start": 2.3858729999999997,
+      "end": 5.223039
+    },
+    {
+      "index": 2,
+      "text": "Having nothing, he possesses all things in life: renouncing all he becomes the master of all.",
+      "path": "audio/1971-347/03.mp3",
+      "start": 6.774286,
+      "end": 14.286757
+    },
+    {
+      "index": 3,
+      "text": "But why?",
+      "path": "audio/1971-347/04.mp3",
+      "start": 15.928005,
+      "end": 16.815986000000002
+    },
+    {
+      "index": 4,
+      "text": "Because into his emptiness enters the divine.",
+      "path": "audio/1971-347/05.mp3",
+      "start": 18.446915999999998,
+      "end": 22.47
+    }
+  ]
+}

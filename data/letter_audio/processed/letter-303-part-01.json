@@ -1,0 +1,79 @@
+{
+  "key": "letter-303-part-01",
+  "number": 303,
+  "generationId": "01a1e906-fa88-7ebd-87e2-156d2298c94a",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-303/01.mp3",
+      "start": 0.0,
+      "end": 0.680522
+    },
+    {
+      "index": 1,
+      "text": "Artificial and outward discipline have no use - the inner and natural discipline is enough.",
+      "path": "audio/1971-303/02.mp3",
+      "start": 1.802857,
+      "end": 7.527188
+    },
+    {
+      "index": 2,
+      "text": "But what is the inner discipline?",
+      "path": "audio/1971-303/03.mp3",
+      "start": 8.730317000000001,
+      "end": 10.629795999999999
+    },
+    {
+      "index": 3,
+      "text": "In one word: acceptance - total acceptance.",
+      "path": "audio/1971-303/04.mp3",
+      "start": 11.770204000000001,
+      "end": 15.011904999999999
+    },
+    {
+      "index": 4,
+      "text": "And acceptance can be only total because partial acceptance is just a contradiction in terms.",
+      "path": "audio/1971-303/05.mp3",
+      "start": 16.205533,
+      "end": 21.211746
+    },
+    {
+      "index": 5,
+      "text": "If you live - live!",
+      "path": "audio/1971-303/06.mp3",
+      "start": 22.451269999999997,
+      "end": 24.03737
+    },
+    {
+      "index": 6,
+      "text": "If you die - die!",
+      "path": "audio/1971-303/07.mp3",
+      "start": 25.322585,
+      "end": 26.988821
+    },
+    {
+      "index": 7,
+      "text": "If you suffer - suffer!",
+      "path": "audio/1971-303/08.mp3",
+      "start": 28.346280999999998,
+      "end": 29.982834
+    },
+    {
+      "index": 8,
+      "text": "And then there is no problem and no anxiety and no anguish - and what freedom!",
+      "path": "audio/1971-303/09.mp3",
+      "start": 31.303628,
+      "end": 35.948004999999995
+    },
+    {
+      "index": 9,
+      "text": "A Zen master was once asked: It is terribly hot, how shall we escape it?",
+      "path": "audio/1971-303/10.mp3",
+      "start": 37.235261,
+      "end": 42.16
+    }
+  ]
+}

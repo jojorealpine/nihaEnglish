@@ -1,0 +1,58 @@
+{
+  "key": "letter-130-part-01",
+  "number": 130,
+  "generationId": "01a1e6cc-7868-7aa0-8dd2-2003d359a3ba",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-130/01.mp3",
+      "start": 0.0,
+      "end": 0.826712
+    },
+    {
+      "index": 1,
+      "text": "I have received your letter.",
+      "path": "audio/1970-130/02.mp3",
+      "start": 2.109683,
+      "end": 3.58381
+    },
+    {
+      "index": 2,
+      "text": "There is a great difference between love and pity.",
+      "path": "audio/1970-130/03.mp3",
+      "start": 4.968299,
+      "end": 7.534875
+    },
+    {
+      "index": 3,
+      "text": "There is pity in love but there is no love in pity.",
+      "path": "audio/1970-130/04.mp3",
+      "start": 8.942971,
+      "end": 11.905600999999999
+    },
+    {
+      "index": 4,
+      "text": "Therefore it is important to know things as they are: love as love, pity as pity To take one for the other is to create unnecessary worry.",
+      "path": "audio/1970-130/05.mp3",
+      "start": 13.362404000000002,
+      "end": 22.349909
+    },
+    {
+      "index": 5,
+      "text": "Ordinarily, love has become impossible because as he is man cannot be loving: to be in love the mind must be completely empty and we love only with our minds, so that when our love is at its lowest it is sex and at its highest it is compassion, but love is a transcendence of both sex and compassion.",
+      "path": "audio/1970-130/06.mp3",
+      "start": 23.956803,
+      "end": 46.404739
+    },
+    {
+      "index": 6,
+      "text": "Therefore understand what is and do not strive for what should be - what should be flows out of the acceptance and understanding of what is.",
+      "path": "audio/1970-130/07.mp3",
+      "start": 48.121542000000005,
+      "end": 57.52
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "key": "letter-119-part-01",
+  "number": 119,
+  "generationId": "01a1e672-207d-7944-9aaa-d360673e1de2",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-119/01.mp3",
+      "start": 0.0,
+      "end": 0.642925
+    },
+    {
+      "index": 1,
+      "text": "Truth is discovered not through swimming but through drowning.",
+      "path": "audio/1970-119/02.mp3",
+      "start": 2.383583,
+      "end": 6.499433
+    },
+    {
+      "index": 2,
+      "text": "Swimming is a surface happening, drowning takes you to the infinite depths.",
+      "path": "audio/1970-119/03.mp3",
+      "start": 7.9515649999999996,
+      "end": 14.52
+    }
+  ]
+}

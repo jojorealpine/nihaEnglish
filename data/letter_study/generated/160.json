@@ -1,0 +1,334 @@
+{
+  "sourceHash": "fba566b6bd479ceefa427aef1f973b3152c2895b6132aca193b219b8e1b5782e",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "13": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "지금 이 순간만이 실재한다.",
+        "explanation": "현재의 순간만이 진정으로 존재하며 과거나 미래의 순간은 허상임을 강조한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "moment",
+            "meaning": "순간",
+            "note": "현재의 매우 짧은 시간을 의미하며, 이 문장에서는 실재하는 유일한 시간으로 강조된다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "11": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "reviewed-grammar",
+      "notes": {
+        "korean": "오늘을 살리고, 지금 여기서 살아가세요.",
+        "explanation": "현재 순간에 집중하고 살아가라는 의미",
+        "grammar": "「Live」는 주어 you를 생략한 명령문의 동사원형입니다. today와 now는 시간, here는 장소를 나타내며 and로 나열되어 있습니다.",
+        "vocabulary": [
+          {
+            "word": "Live",
+            "meaning": "살다",
+            "note": "현재 순간에 대한 적극적인 참여와 경험을 강조"
+          },
+          {
+            "word": "today",
+            "meaning": "오늘",
+            "note": "현재 순간의 중요성을 부각"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "14": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "지금 이 순간만이 영원하다.",
+        "explanation": "현재의 순간이 시간의 제약을 초월하여 영원히 지속된다는 의미",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "moment",
+            "meaning": "순간",
+            "note": "특정한 시간의 짧은 기간을 가리키며, 여기서는 현재의 중요한 순간을 강조한다."
+          },
+          {
+            "word": "eternal",
+            "meaning": "영원한",
+            "note": "시간의 제약 없이 영원히 지속되는 상태를 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "두려움 없이 살아가세요.",
+        "explanation": "죽음이 삶의 끝이 아니라 완성이라고 말하는 이유는 삶을 두려움 없이 살아가라는 메시지 때문입니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "live",
+            "meaning": "살다",
+            "note": "이 문맥에서는 「살다」의 뜻으로 읽습니다."
+          },
+          {
+            "word": "fearlessly",
+            "meaning": "두려움 없이",
+            "note": "용기를 내어 행동하거나 선택한다는 의미를 담고 있습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "사실, 우리는 죽음을 두려워하는 것이 아니라 삶 자체를 두려워한다.",
+        "explanation": "문장은 삶의 어려움이나 불확실성 때문에 죽음에 대한 두려움이 생긴다는 의미를 전달한다.",
+        "grammar": "동사 「fear」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "fact",
+            "meaning": "사실",
+            "note": "문장의 주장이나 근거를 강조하는 역할을 한다."
+          },
+          {
+            "word": "death",
+            "meaning": "죽음",
+            "note": "문장에서 두려움의 대상으로 언급된다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "과거의 짐을 벗어던지세요: 사람들은 두려움 때문에 과거를 계속 짊어지고 있습니다.",
+        "explanation": "과거에 얽매이지 말고 현재에 집중해야 한다는 메시지를 전달합니다. 두려움이 과거에서 벗어나지 못하게 한다는 점도 강조하고 있습니다.",
+        "grammar": "동사 「goes」는 go의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "past",
+            "meaning": "과거",
+            "note": "이전의 경험이나 사건들을 의미합니다."
+          },
+          {
+            "word": "carrying",
+            "meaning": "짊어지다",
+            "note": "심리적으로 과거의 부담이나 상처를 계속 간직하고 있다는 의미입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "죽음만 두려워하는 것이 아니라 삶 자체에도 두려움을 느낀다.",
+        "explanation": "문장은 삶에 대한 두려움이 죽음에 대한 두려움만큼이나 크다는 의미를 전달한다.",
+        "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "afraid",
+            "meaning": "두려워하다",
+            "note": "삶이나 죽음에 대한 부정적인 감정을 나타낸다."
+          },
+          {
+            "word": "death",
+            "meaning": "죽음",
+            "note": "삶의 반대 개념으로 사용되어 삶의 유한성과 관련된 두려움을 표현한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "지루함은 삶 속에 있지 않고, 오히려 삶을 살아가는 것에 대한 두려움에서 비롯된다.",
+        "explanation": "문장은 삶의 지루함이 실제로 삶 자체의 문제가 아니라 삶을 적극적으로 살아가는 데 대한 두려움에서 생긴다는 개념을 전달한다.",
+        "grammar": "동사 「comes」는 come의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "comes",
+            "meaning": "발생하다",
+            "note": "여기서는 지루함의 근원이 무엇인지 설명하며 사용되었다."
+          },
+          {
+            "word": "living",
+            "meaning": "살아가다",
+            "note": "삶을 적극적으로 체험하거나 참여하는 행위를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "그렇지 않으면 죽음은 삶의 끝이 아니라 삶의 완성이다.",
+        "explanation": "죽음이 삶의 종결이 아니라 오히려 삶의 완성 단계임을 강조하는 문장입니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "death",
+            "meaning": "죽음",
+            "note": "이 문맥에서는 삶의 종결이나 끝이 아닌 새로운 시작이나 변화를 상징합니다."
+          },
+          {
+            "word": "completion",
+            "meaning": "완성",
+            "note": "삶의 과정이 마무리되고 완성된 상태를 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "우리는 삶을 살아가지 않고, 그저 따라 움직이기만 해서 지루해하는 거야.",
+        "explanation": "문장은 삶에 적극적으로 참여하지 않고 수동적으로 살아가는 것이 지루함의 원인이라고 설명합니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "living",
+            "meaning": "살아가다",
+            "note": "삶을 적극적으로 경험하고 참여하는 것을 의미합니다."
+          },
+          {
+            "word": "bored",
+            "meaning": "지루하다",
+            "note": "흥미 부족이나 활동의 단조로움으로 인한 감정 상태를 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "우리는 삶을 충분히 이해하지 못하기 때문에 지루함을 느낀다. 삶을 기계적으로 만들기 때문에 지루함을 느낀다.",
+        "explanation": "문장은 삶에 대한 무지와 삶을 지나치게 구조화하거나 예측 가능하게 만드는 태도가 지루함을 초래한다는 의미를 전달한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "bored",
+            "meaning": "지루함",
+            "note": "활동이나 상황에 대한 흥미 상실이나 지루함을 표현한다."
+          },
+          {
+            "word": "mechanical",
+            "meaning": "기계적인",
+            "note": "규칙적이고 예측 가능하며 창의성이나 유연성이 부족한 상태를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "10": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "그리고 미래의 꿈을 부르지 마세요. 왜냐하면 오늘을 살아가는 대신 미래를 위해 계획하기 때문입니다.",
+        "explanation": "미래에 대한 기대나 상상을 하지 말라는 조언입니다. 현재에 집중하지 않고 미래만을 바라보면 현재의 삶을 소홀히 하게 된다는 의미입니다.",
+        "grammar": "「do not invite」는 do not + 동사원형으로 만든 부정 명령문입니다. 행동의 주체인 you를 따로 쓰지 않고, 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "invite",
+            "meaning": "부르다",
+            "note": "여기서는 비유적으로 미래에 대한 생각이나 기대를 끌어들이는 것을 의미합니다."
+          },
+          {
+            "word": "dreams",
+            "meaning": "꿈",
+            "note": "미래에 대한 희망이나 기대를 상징적으로 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "12": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "내일은 속임수야 - 이미 지나간 어제의 내일뿐만 아니라 아직 오지 않은 내일까지도 그렇지.",
+        "explanation": "문장은 미래의 '내일'이 항상 실현되지 않거나 기대와 다르게 나타날 수 있다는 의미를 전달합니다. 과거의 실패한 기대와 미래에 대한 불확실성을 동시에 비판합니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "deception",
+            "meaning": "속임수",
+            "note": "미래에 대한 잘못된 기대나 희망이 실제로 이루어지지 않을 때 사용되는 부정적인 의미."
+          },
+          {
+            "word": "yesterday",
+            "meaning": "어제",
+            "note": "'어제의 내일'이라는 표현에서 과거에 실패한 기대를 상징합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

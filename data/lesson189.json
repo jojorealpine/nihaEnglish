@@ -1,0 +1,334 @@
+{
+  "id": "1971-189",
+  "title": "1971 / 189",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "boundaries",
+      "meaning": "경계",
+      "note": "마음의 제한이나 한계를 나타냄",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "infinite",
+      "meaning": "무한한",
+      "note": "끝없이 넓고 큰 상태를 의미함",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thoughtless",
+      "meaning": "무념의",
+      "note": "생각이나 고민이 없는 상태를 나타냄.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "awareness",
+      "meaning": "깨달음",
+      "note": "깊은 인식이나 깨달음의 상태를 의미함.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "great",
+      "meaning": "매우 큰, 엄청난",
+      "note": "규모나 정도가 매우 크다는 것을 강조합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "energy",
+      "meaning": "에너지",
+      "note": "활력, 힘, 동기부여 등을 의미합니다.",
+      "sentenceIds": [
+        4,
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "wipes",
+      "meaning": "없애다",
+      "note": "강력하게 제거하거나 없애는 의미를 담고 있습니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "karmic",
+      "meaning": "업(karma)",
+      "note": "개인의 행동과 선택이 미래에 영향을 미치는 인과응보의 개념을 의미한다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "effort",
+      "meaning": "노력",
+      "note": "특정 목표를 달성하기 위해 필요한 시간과 에너지의 투입을 나타낸다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "greater",
+      "meaning": "더 큰",
+      "note": "비교에서 더 큰 규모나 정도를 나타냄",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "untouched",
+      "meaning": "변화 없이",
+      "note": "어떤 영향이나 변화 없이 그대로 유지된 상태를 의미함",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-189/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "With thought the mind has boundaries but without thought the mind is just infinite space.",
+      "korean": "생각이 있으면 마음에는 경계가 있지만 생각이 없으면 마음은 무한한 공간과 같다.",
+      "explanation": "생각의 존재 여부에 따라 마음의 상태가 경계가 있는 유한 공간에서 무한한 공간으로 변한다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-189/02.mp3",
+      "vocabulary": [
+        {
+          "word": "boundaries",
+          "meaning": "경계",
+          "note": "마음의 제한이나 한계를 나타냄"
+        },
+        {
+          "word": "infinite",
+          "meaning": "무한한",
+          "note": "끝없이 넓고 큰 상태를 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "That is why in thoughtless awareness one stops being a drop and becomes oceanic.",
+      "korean": "무념의 깨달음 속에서 개인은 물방울에서 벗어나 바다와 하나가 된다.",
+      "explanation": "무념의 상태에서 개인의 경계가 사라지고 무한한 존재인 바다와 통합됨을 의미한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-189/03.mp3",
+      "vocabulary": [
+        {
+          "word": "thoughtless",
+          "meaning": "무념의",
+          "note": "생각이나 고민이 없는 상태를 나타냄."
+        },
+        {
+          "word": "awareness",
+          "meaning": "깨달음",
+          "note": "깊은 인식이나 깨달음의 상태를 의미함."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "And then there is great energy.",
+      "korean": "그리고 그곳에는 엄청난 힘이 있습니다.",
+      "explanation": "문장은 어떤 상태나 상황에서 강력한 힘이나 활력이 발생함을 나타냅니다.",
+      "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1971-189/04.mp3",
+      "vocabulary": [
+        {
+          "word": "great",
+          "meaning": "매우 큰, 엄청난",
+          "note": "규모나 정도가 매우 크다는 것을 강조합니다."
+        },
+        {
+          "word": "energy",
+          "meaning": "에너지",
+          "note": "활력, 힘, 동기부여 등을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "This energy wipes out everything which is dead.",
+      "korean": "이 에너지는 모든 죽은 것을 없애버립니다.",
+      "explanation": "에너지가 생명력을 가지고 모든 무생물적 또는 죽은 요소를 제거하거나 없애는 힘을 가짐을 나타냅니다.",
+      "grammar": "동사 「wipes」는 wipe의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-189/05.mp3",
+      "vocabulary": [
+        {
+          "word": "energy",
+          "meaning": "에너지",
+          "note": "여기서는 생명력이나 힘을 의미합니다."
+        },
+        {
+          "word": "wipes",
+          "meaning": "없애다",
+          "note": "강력하게 제거하거나 없애는 의미를 담고 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "It wipes out the whole karmic past - and with no effort at all.",
+      "korean": "이 에너지는 모든 과거 업을 없애버린다 - 아무런 노력도 필요 없다.",
+      "explanation": "이 문장은 특정 에너지가 과거의 업(karmic past)을 완전히 제거하며, 이를 이루는 데 특별한 노력이 필요하지 않다는 의미를 전달한다.",
+      "grammar": "동사 「wipes」는 wipe의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-189/06.mp3",
+      "vocabulary": [
+        {
+          "word": "karmic",
+          "meaning": "업(karma)",
+          "note": "개인의 행동과 선택이 미래에 영향을 미치는 인과응보의 개념을 의미한다."
+        },
+        {
+          "word": "effort",
+          "meaning": "노력",
+          "note": "특정 목표를 달성하기 위해 필요한 시간과 에너지의 투입을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "The greater absorbs the lesser and remains untouched.",
+      "korean": "더 큰 것이 작은 것을 흡수하고 변화 없이 남아있다.",
+      "explanation": "더 큰 개념이나 상태가 작은 것을 포용하거나 극복하여 영향을 받지 않는 상황을 설명한다.",
+      "grammar": "동사 「absorbs」는 absorb의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-189/07.mp3",
+      "vocabulary": [
+        {
+          "word": "greater",
+          "meaning": "더 큰",
+          "note": "비교에서 더 큰 규모나 정도를 나타냄"
+        },
+        {
+          "word": "untouched",
+          "meaning": "변화 없이",
+          "note": "어떤 영향이나 변화 없이 그대로 유지된 상태를 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "생각이 있으면 마음에는 경계가 있지만 생각이 없으면 마음은 무한한 공간과 같다. 무념의 깨달음 속에서 개인은 물방울에서 벗어나 바다와 하나가 된다. 그리고 그곳에는 엄청난 힘이 있습니다. 이 에너지는 모든 죽은 것을 없애버립니다. 이 에너지는 모든 과거 업을 없애버린다 - 아무런 노력도 필요 없다. 더 큰 것이 작은 것을 흡수하고 변화 없이 남아있다."
+  ],
+  "fullAudio": "audio/1971-189/script_all.mp3",
+  "originalText": "Love.\n\nWith thought the mind has boundaries\nbut without thought the mind is just infinite space.\nThat is why in thoughtless awareness\none stops being a drop\nand becomes oceanic.\nAnd then there is great energy.\nThis energy wipes out everything which is dead.\nIt wipes out the whole karmic past -\nand with no effort at all.\nThe greater absorbs the lesser and remains untouched.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 189,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0849 2.JPG",
+        "side": "left",
+        "printedPage": 148
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

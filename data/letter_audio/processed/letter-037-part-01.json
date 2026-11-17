@@ -1,0 +1,65 @@
+{
+  "key": "letter-037-part-01",
+  "number": 37,
+  "generationId": "01a1e4ec-baef-7ccb-90c7-efd329a4a26c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1966-37/01.mp3",
+      "start": 0.0,
+      "end": 0.780295
+    },
+    {
+      "index": 1,
+      "text": "It is good that you are forgetting the past - it will open up an altogether new dimension of life.",
+      "path": "audio/1966-37/02.mp3",
+      "start": 2.0023359999999997,
+      "end": 7.6497280000000005
+    },
+    {
+      "index": 2,
+      "text": "To live completely in the present is freedom.",
+      "path": "audio/1966-37/03.mp3",
+      "start": 8.953605000000001,
+      "end": 11.916666999999999
+    },
+    {
+      "index": 3,
+      "text": "The past does not exist apart from memory and nor does the future apart from castles in the air.",
+      "path": "audio/1966-37/04.mp3",
+      "start": 13.196395,
+      "end": 18.877052000000003
+    },
+    {
+      "index": 4,
+      "text": "What is, is always present, and if you start living unreservedly in the present you live in God Once you are free of past and future the mind turns empty and peaceful, its waves die down and what is left is limitless, endless.",
+      "path": "audio/1966-37/05.mp3",
+      "start": 20.246077,
+      "end": 37.058639
+    },
+    {
+      "index": 5,
+      "text": "This is the ocean of truth - and may your river reach it!",
+      "path": "audio/1966-37/06.mp3",
+      "start": 38.323923,
+      "end": 42.849954999999994
+    },
+    {
+      "index": 6,
+      "text": "P.S. I shall probably go to Ahmedabad in January, can you come with me?",
+      "path": "audio/1966-37/07.mp3",
+      "start": 44.479002,
+      "end": 50.109274
+    },
+    {
+      "index": 7,
+      "text": "It would be good if we traveled together for a few days.",
+      "path": "audio/1966-37/08.mp3",
+      "start": 51.671315,
+      "end": 54.99
+    }
+  ]
+}

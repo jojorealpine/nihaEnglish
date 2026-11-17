@@ -1,0 +1,72 @@
+{
+  "key": "letter-169-part-02",
+  "number": 169,
+  "generationId": "01a1e8e4-9d6a-7534-b54f-5deaeb554195",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "In the meantime he stood unmoved like a statue.",
+      "path": "audio/1971-169/11.mp3",
+      "start": 0.0,
+      "end": 3.6816780000000002
+    },
+    {
+      "index": 11,
+      "text": "Po-Hun Wu-Jen said: The technique of your shooting is fine, but it is still a technique.",
+      "path": "audio/1971-169/12.mp3",
+      "start": 5.270227,
+      "end": 11.272653
+    },
+    {
+      "index": 12,
+      "text": "You look just like a statue from without.",
+      "path": "audio/1971-169/13.mp3",
+      "start": 12.779048000000001,
+      "end": 15.349863999999998
+    },
+    {
+      "index": 13,
+      "text": "Now let us go up to a high mountain and stand on a rock projecting over a precipice and then you try to shoot.",
+      "path": "audio/1971-169/14.mp3",
+      "start": 16.77,
+      "end": 23.605193
+    },
+    {
+      "index": 14,
+      "text": "They climbed up a mountain.",
+      "path": "audio/1971-169/15.mp3",
+      "start": 25.259138,
+      "end": 26.862313
+    },
+    {
+      "index": 15,
+      "text": "Standing on a rock projecting over a precipice ten thousand feet high Po-Hun Wu-Jen stepped backward until one third of his feet was hanging over the rock.",
+      "path": "audio/1971-169/16.mp3",
+      "start": 28.295759999999998,
+      "end": 38.548866
+    },
+    {
+      "index": 16,
+      "text": "He then motioned to Lieh-Tzu to come forward Lieh-Tzu fell to the ground with perspiration running down to his heels.",
+      "path": "audio/1971-169/17.mp3",
+      "start": 40.02805,
+      "end": 47.386485
+    },
+    {
+      "index": 17,
+      "text": "Po-Hun Wu-Jen said: The perfect man soars up above the blue sky or dives down to the yellow springs, or wanders about all over the eight limits of the world, yet shows no signs of change in his spirit.",
+      "path": "audio/1971-169/18.mp3",
+      "start": 48.923311000000005,
+      "end": 64.75678
+    },
+    {
+      "index": 18,
+      "text": "But you betray a sign of trepidation and your eyes are dazed How can you expect to hit the target?",
+      "path": "audio/1971-169/19.mp3",
+      "start": 66.39859399999999,
+      "end": 73.82
+    }
+  ]
+}

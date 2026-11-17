@@ -1,0 +1,79 @@
+{
+  "key": "letter-233-part-01",
+  "number": 233,
+  "generationId": "01a1e8f6-a7ad-7b64-b1c2-bd2ae0e2818e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-233/01.mp3",
+      "start": 0.0,
+      "end": 0.6351019999999999
+    },
+    {
+      "index": 1,
+      "text": "The mind always thinks in terms of the self.",
+      "path": "audio/1971-233/02.mp3",
+      "start": 1.959342,
+      "end": 4.359524
+    },
+    {
+      "index": 2,
+      "text": "It is egocentric.",
+      "path": "audio/1971-233/03.mp3",
+      "start": 5.74585,
+      "end": 7.1158280000000005
+    },
+    {
+      "index": 3,
+      "text": "During the French revolution a man from Paris stopped at a village and was asked by a friend what was happening.",
+      "path": "audio/1971-233/04.mp3",
+      "start": 8.584104,
+      "end": 14.005714
+    },
+    {
+      "index": 4,
+      "text": "They are cutting off heads by the thousands, said the visitor.",
+      "path": "audio/1971-233/05.mp3",
+      "start": 15.406848,
+      "end": 18.683605
+    },
+    {
+      "index": 5,
+      "text": "How terrible! cried the villager.",
+      "path": "audio/1971-233/06.mp3",
+      "start": 20.048299,
+      "end": 22.316395
+    },
+    {
+      "index": 6,
+      "text": "That could ruin my hat business!",
+      "path": "audio/1971-233/07.mp3",
+      "start": 23.664444,
+      "end": 25.507052
+    },
+    {
+      "index": 7,
+      "text": "But this is the way of the mind, and because of this it is never in tune with the cosmos, so how can it know life?",
+      "path": "audio/1971-233/08.mp3",
+      "start": 26.942335999999997,
+      "end": 33.564898
+    },
+    {
+      "index": 8,
+      "text": "It cannot know it because it cannot be one with it.",
+      "path": "audio/1971-233/09.mp3",
+      "start": 34.988571,
+      "end": 37.831111
+    },
+    {
+      "index": 9,
+      "text": "Really with the mind there is no knowing but only superficial acquaintance.",
+      "path": "audio/1971-233/10.mp3",
+      "start": 39.295737,
+      "end": 43.73
+    }
+  ]
+}

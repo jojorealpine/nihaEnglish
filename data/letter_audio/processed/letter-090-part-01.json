@@ -1,0 +1,72 @@
+{
+  "key": "letter-090-part-01",
+  "number": 90,
+  "generationId": "01a1e630-f8c0-78fb-b355-d1da5a7beeb7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-90/01.mp3",
+      "start": 0.0,
+      "end": 0.637188
+    },
+    {
+      "index": 1,
+      "text": "Do not look for results in meditation - this is an obstruction.",
+      "path": "audio/1970-90/02.mp3",
+      "start": 1.919728,
+      "end": 5.605692
+    },
+    {
+      "index": 2,
+      "text": "Do not seek to repeat any meditative experience, for this too is a hindrance.",
+      "path": "audio/1970-90/03.mp3",
+      "start": 6.881519,
+      "end": 11.713152
+    },
+    {
+      "index": 3,
+      "text": "When meditating, just meditate; the rest then happens by itself.",
+      "path": "audio/1970-90/04.mp3",
+      "start": 12.985533,
+      "end": 17.220000000000002
+    },
+    {
+      "index": 4,
+      "text": "The way to God does not lie in our hands so leave yourself in his.",
+      "path": "audio/1970-90/05.mp3",
+      "start": 18.490634999999997,
+      "end": 22.308934
+    },
+    {
+      "index": 5,
+      "text": "Surrender, surrender, surrender!",
+      "path": "audio/1970-90/06.mp3",
+      "start": 23.792177,
+      "end": 26.507914
+    },
+    {
+      "index": 6,
+      "text": "Remember always - surrender!",
+      "path": "audio/1970-90/07.mp3",
+      "start": 27.971905,
+      "end": 30.570227000000003
+    },
+    {
+      "index": 7,
+      "text": "Sleeping or waking - remember!",
+      "path": "audio/1970-90/08.mp3",
+      "start": 31.965442,
+      "end": 35.360816
+    },
+    {
+      "index": 8,
+      "text": "Surrender is the only door to God Emptiness is the only boat that sails to him.",
+      "path": "audio/1970-90/09.mp3",
+      "start": 36.841814,
+      "end": 42.53
+    }
+  ]
+}

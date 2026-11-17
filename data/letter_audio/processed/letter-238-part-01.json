@@ -1,0 +1,79 @@
+{
+  "key": "letter-238-part-01",
+  "number": 238,
+  "generationId": "01a1e8f7-9f12-7844-9051-3482d27b5c66",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-238/01.mp3",
+      "start": 0.0,
+      "end": 0.734626
+    },
+    {
+      "index": 1,
+      "text": "Bhakti needs only time to absorb the shock she has come across in her deep meditations; remember - only time and nothing else.",
+      "path": "audio/1971-238/02.mp3",
+      "start": 2.080567,
+      "end": 9.801995
+    },
+    {
+      "index": 2,
+      "text": "The shock is nothing new.",
+      "path": "audio/1971-238/03.mp3",
+      "start": 11.082721000000001,
+      "end": 12.46356
+    },
+    {
+      "index": 3,
+      "text": "It happens whenever the deeper layers of the unconscious are encountered.",
+      "path": "audio/1971-238/04.mp3",
+      "start": 13.887438000000001,
+      "end": 17.47102
+    },
+    {
+      "index": 4,
+      "text": "Before any mutation this is absolutely necessary.",
+      "path": "audio/1971-238/05.mp3",
+      "start": 18.884670999999997,
+      "end": 22.217755
+    },
+    {
+      "index": 5,
+      "text": "Be grateful to the divine because this is a good omen.",
+      "path": "audio/1971-238/06.mp3",
+      "start": 23.549887,
+      "end": 26.887256
+    },
+    {
+      "index": 6,
+      "text": "Bhakti needed it badly, and when she is out of it she will be a totally new person.",
+      "path": "audio/1971-238/07.mp3",
+      "start": 28.206008999999998,
+      "end": 32.946236
+    },
+    {
+      "index": 7,
+      "text": "Soon she will be twice-born.",
+      "path": "audio/1971-238/08.mp3",
+      "start": 34.343265,
+      "end": 36.134443999999995
+    },
+    {
+      "index": 8,
+      "text": "At present she is passing through a great spiritual crisis, so you be with her - but just as if you are not.",
+      "path": "audio/1971-238/09.mp3",
+      "start": 37.53551,
+      "end": 44.767891
+    },
+    {
+      "index": 9,
+      "text": "Be present, but with absolute absence.",
+      "path": "audio/1971-238/10.mp3",
+      "start": 46.327098,
+      "end": 49.45
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "status": "stopped",
+  "generatedParts": 101,
+  "totalParts": 544,
+  "newCompletedParts": 15,
+  "issues": [
+    {
+      "key": "letter-067-part-01",
+      "generationId": "01a1e5b9-9b6e-7ec5-9994-b1b0c04f2b82",
+      "response": {
+        "status": "unknown"
+      }
+    }
+  ]
+}

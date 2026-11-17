@@ -1,0 +1,37 @@
+{
+  "key": "letter-308-part-01",
+  "number": 308,
+  "generationId": "01a1e908-3d91-759e-9e31-da10e9479859",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-308/01.mp3",
+      "start": 0.0,
+      "end": 0.637256
+    },
+    {
+      "index": 1,
+      "text": "Meditate, pray and wait.",
+      "path": "audio/1971-308/02.mp3",
+      "start": 2.0658279999999998,
+      "end": 4.413447
+    },
+    {
+      "index": 2,
+      "text": "Do not will anything, for in you there is strength greater than any strength of your own.",
+      "path": "audio/1971-308/03.mp3",
+      "start": 6.177778,
+      "end": 11.725532999999999
+    },
+    {
+      "index": 3,
+      "text": "But it works only when your will is at rest.",
+      "path": "audio/1971-308/04.mp3",
+      "start": 13.272245000000002,
+      "end": 16.43
+    }
+  ]
+}

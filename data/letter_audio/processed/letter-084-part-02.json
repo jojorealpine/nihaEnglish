@@ -1,0 +1,44 @@
+{
+  "key": "letter-084-part-02",
+  "number": 84,
+  "generationId": "01a1e62f-ac9a-7b75-acf9-543bbda66055",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Stop and see!",
+      "path": "audio/1970-84/11.mp3",
+      "start": 0.0,
+      "end": 1.2221319999999998
+    },
+    {
+      "index": 11,
+      "text": "To do is to run, not to do is to halt.",
+      "path": "audio/1970-84/12.mp3",
+      "start": 2.718617,
+      "end": 6.1675510000000004
+    },
+    {
+      "index": 12,
+      "text": "Yes!",
+      "path": "audio/1970-84/13.mp3",
+      "start": 7.723832,
+      "end": 8.473695999999999
+    },
+    {
+      "index": 13,
+      "text": "If he were far away we could run to meet him, but he is the nearest of the near!",
+      "path": "audio/1970-84/14.mp3",
+      "start": 10.018730000000001,
+      "end": 15.240226999999999
+    },
+    {
+      "index": 14,
+      "text": "If we had lost him we could search for and find him, but to us he has never been lost!",
+      "path": "audio/1970-84/15.mp3",
+      "start": 16.731541999999997,
+      "end": 22.39
+    }
+  ]
+}

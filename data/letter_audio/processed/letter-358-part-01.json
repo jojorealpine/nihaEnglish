@@ -1,0 +1,72 @@
+{
+  "key": "letter-358-part-01",
+  "number": 358,
+  "generationId": "01a1e917-d4ea-706e-bf82-de23f803c322",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-358/01.mp3",
+      "start": 0.0,
+      "end": 0.695011
+    },
+    {
+      "index": 1,
+      "text": "Life is not a detective story, and you do not have to deduce a thing.",
+      "path": "audio/1971-358/02.mp3",
+      "start": 1.935215,
+      "end": 6.081338
+    },
+    {
+      "index": 2,
+      "text": "Life is before your eyes as clear as the sun and as open as the sky.",
+      "path": "audio/1971-358/03.mp3",
+      "start": 7.364467,
+      "end": 12.063673
+    },
+    {
+      "index": 3,
+      "text": "Just be out of your thinking disease and open your eyes, and nothing is hidden at all.",
+      "path": "audio/1971-358/04.mp3",
+      "start": 13.422086,
+      "end": 18.019456
+    },
+    {
+      "index": 4,
+      "text": "Even the hidden one is not hidden then.",
+      "path": "audio/1971-358/05.mp3",
+      "start": 19.354376,
+      "end": 21.375057
+    },
+    {
+      "index": 5,
+      "text": "I have heard a dialogue between Sherlock Holmes and Watson: Holmes: Ah, Watson, I see you have put on your winter underwear.",
+      "path": "audio/1971-358/06.mp3",
+      "start": 22.501859,
+      "end": 29.670635
+    },
+    {
+      "index": 6,
+      "text": "Watson: Marvellous, Holmes, marvellous!",
+      "path": "audio/1971-358/07.mp3",
+      "start": 30.805125,
+      "end": 33.714512
+    },
+    {
+      "index": 7,
+      "text": "How did you ever deduce that?",
+      "path": "audio/1971-358/08.mp3",
+      "start": 34.932018,
+      "end": 36.218911999999996
+    },
+    {
+      "index": 8,
+      "text": "Holmes: Well, you have forgotten to put on your trousers.",
+      "path": "audio/1971-358/09.mp3",
+      "start": 37.365873,
+      "end": 41.27
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "english": "Ethics alone are negative and nothing enduring can be constructed on negation.",
+  "error": "No vocabulary grounded in English source",
+  "response": "```json\n{\n  \"korean\": \"윤리만으로는 부정적이어서 지속 가능한 것을 구축할 수 없다.\",\n  \"explanation\": \"윤리적 행동만으로는 장기적이고 견고한 가치나 성과를 만들 수 없다는 의미이다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"윤리\",\n      \"meaning\": \"윤리\",\n      \"note\": \"도덕적 가치나 행동 원칙을 의미하며, 이 문맥에서는 단순히 도덕적 행동만으로는 충분하지 않다는 것을 나타낸다.\"\n    },\n    {\n      \"word\": \"부정적\",\n      \"meaning\": \"부정적\",\n      \"note\": \"반대되는 의미나 상태를 가리키며, 여기서는 윤리적 행동만으로는 긍정적이고 지속 가능한 결과를 만들기 어렵다는 뉘앙스를 담고 있다.\"\n    },\n    {\n      \"word\": \"구축\",\n      \"meaning\": \"구축\",\n      \"note\": \"새로운 것을 세우거나 형성한다는 의미로, 이 문맥에서는 지속 가능한 가치나 성과를 만들어낸다는 의미이다.\"\n    }\n  ],\n  \"expressions\": [\n    {\n      \"expression\": \"nothing enduring\",\n      \"meaning\": \"지속 가능한 것\",\n      \"explanation\": \"장기적으로 유지될 수 있는 가치나 성과를 의미한다.\"\n    }\n  ]\n}\n```"
+}

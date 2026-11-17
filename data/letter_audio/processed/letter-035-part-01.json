@@ -1,0 +1,79 @@
+{
+  "key": "letter-035-part-01",
+  "number": 35,
+  "generationId": "01a1e4ec-7934-7c02-9c17-90f707ac16d0",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1965-35/01.mp3",
+      "start": 0.0,
+      "end": 0.758209
+    },
+    {
+      "index": 1,
+      "text": "It was just this time of night, two days ago that I left you at Chittor.",
+      "path": "audio/1965-35/02.mp3",
+      "start": 2.0405439999999997,
+      "end": 6.314853
+    },
+    {
+      "index": 2,
+      "text": "I can see now the love and bliss filling your eyes.",
+      "path": "audio/1965-35/03.mp3",
+      "start": 7.68644,
+      "end": 10.57322
+    },
+    {
+      "index": 3,
+      "text": "The secret of all prayer and worship is hidden in the overflow of those tears.",
+      "path": "audio/1965-35/04.mp3",
+      "start": 11.947234,
+      "end": 16.672676000000003
+    },
+    {
+      "index": 4,
+      "text": "They are sacred God fills the heart of those he blesses with tears of love, and what to say about the calamity of those whose hearts are filled instead with thorns of hate?",
+      "path": "audio/1965-35/05.mp3",
+      "start": 18.039818999999998,
+      "end": 29.421111
+    },
+    {
+      "index": 5,
+      "text": "Tears flowing in love are offerings of flowers at the feet of God and the eyes from which they flow are blessed with divine vision.",
+      "path": "audio/1965-35/06.mp3",
+      "start": 30.884082,
+      "end": 39.680589999999995
+    },
+    {
+      "index": 6,
+      "text": "Only eyes filled with love can see God.",
+      "path": "audio/1965-35/07.mp3",
+      "start": 41.219184000000006,
+      "end": 43.969524
+    },
+    {
+      "index": 7,
+      "text": "Love is the only energy that transcends the inertia of nature and takes one to the shores of ultimate awareness.",
+      "path": "audio/1965-35/08.mp3",
+      "start": 45.563288,
+      "end": 52.884127
+    },
+    {
+      "index": 8,
+      "text": "I think that by the time this letter reaches you you will already have left for Kashidham.",
+      "path": "audio/1965-35/09.mp3",
+      "start": 54.503855,
+      "end": 59.430068
+    },
+    {
+      "index": 9,
+      "text": "I don't know how your journey was but I hope it passed in song and laughter.",
+      "path": "audio/1965-35/10.mp3",
+      "start": 60.849705,
+      "end": 65.88
+    }
+  ]
+}

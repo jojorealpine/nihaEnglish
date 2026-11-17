@@ -1,0 +1,58 @@
+{
+  "key": "letter-129-part-01",
+  "number": 129,
+  "generationId": "01a1e6c0-75f8-73db-bea5-7bdc27bc03ca",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-129/01.mp3",
+      "start": 0.0,
+      "end": 0.631655
+    },
+    {
+      "index": 1,
+      "text": "In sannyas, samsara is just a drama; to know the world as a play is sannyas.",
+      "path": "audio/1970-129/02.mp3",
+      "start": 1.863991,
+      "end": 7.233719
+    },
+    {
+      "index": 2,
+      "text": "Then no one is small, no one great, no Ram and no enemy, Ravan, and everything is a Ram-leela, God's play.",
+      "path": "audio/1970-129/03.mp3",
+      "start": 8.357800000000001,
+      "end": 16.122517000000002
+    },
+    {
+      "index": 3,
+      "text": "Whichever part you are given play it well.",
+      "path": "audio/1970-129/04.mp3",
+      "start": 17.348865999999997,
+      "end": 19.560794
+    },
+    {
+      "index": 4,
+      "text": "The part is not you and as long as we identify with our part in the play self-knowledge is impossible.",
+      "path": "audio/1970-129/05.mp3",
+      "start": 20.743423999999997,
+      "end": 26.522063
+    },
+    {
+      "index": 5,
+      "text": "And from the day that this identification is broken ignorance becomes impossible.",
+      "path": "audio/1970-129/06.mp3",
+      "start": 28.151746,
+      "end": 32.987483
+    },
+    {
+      "index": 6,
+      "text": "Play your part but know well it isn't you.",
+      "path": "audio/1970-129/07.mp3",
+      "start": 34.52093,
+      "end": 37.98
+    }
+  ]
+}

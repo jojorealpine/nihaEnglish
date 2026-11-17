@@ -1,0 +1,58 @@
+{
+  "key": "letter-208-part-01",
+  "number": 208,
+  "generationId": "01a1e8ef-c9bd-7b06-9505-f0040217a7ae",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-208/01.mp3",
+      "start": 0.0,
+      "end": 0.625488
+    },
+    {
+      "index": 1,
+      "text": "The forms of existence are finite - all forms.",
+      "path": "audio/1971-208/02.mp3",
+      "start": 1.93254,
+      "end": 5.245011
+    },
+    {
+      "index": 2,
+      "text": "Really, to have a form means to be finite.",
+      "path": "audio/1971-208/03.mp3",
+      "start": 6.574059,
+      "end": 9.450771
+    },
+    {
+      "index": 3,
+      "text": "But existence is infinite because only the formless can be infinite, and existence is formlessness, that is why it can take all forms.",
+      "path": "audio/1971-208/04.mp3",
+      "start": 10.778821,
+      "end": 18.944059
+    },
+    {
+      "index": 4,
+      "text": "But to take form in any way is to allow death in because form is a death sentence, whilst existence itself is eternal life.",
+      "path": "audio/1971-208/05.mp3",
+      "start": 20.26483,
+      "end": 28.766916000000002
+    },
+    {
+      "index": 5,
+      "text": "Do not be identified with the form: this identification creates the fear of death - in fact, all fear.",
+      "path": "audio/1971-208/06.mp3",
+      "start": 30.17737,
+      "end": 37.486008999999996
+    },
+    {
+      "index": 6,
+      "text": "Remember the formless and you will know immortality because you will be that - then.",
+      "path": "audio/1971-208/07.mp3",
+      "start": 39.032381,
+      "end": 45.14
+    }
+  ]
+}

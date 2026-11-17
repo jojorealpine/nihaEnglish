@@ -1,0 +1,5 @@
+{
+  "english": "My love to all.",
+  "error": "No vocabulary grounded in English source",
+  "response": "```json\n{\n  \"korean\": \"모든 사람에게 사랑을 주세요.\",\n  \"explanation\": \"이 문장은 사랑의 보편적인 표현을 강조하며, 특정 개인이 아닌 모든 사람에게 사랑을 베풀 것을 권유합니다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"사랑\",\n      \"meaning\": \"사랑\",\n      \"note\": \"여기서는 모든 사람에게 향한 긍정적이고 포용적인 감정을 나타냅니다.\"\n    },\n    {\n      \"word\": \"모두\",\n      \"meaning\": \"모두\",\n      \"note\": \"특정 개인을 제외하고 모든 사람을 포함하는 포괄적인 의미입니다.\"\n    }\n  ],\n  \"expressions\": []\n}\n```"
+}

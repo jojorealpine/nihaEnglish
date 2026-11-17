@@ -1,0 +1,37 @@
+{
+  "key": "letter-146-part-01",
+  "number": 146,
+  "generationId": "01a1e6d6-817b-7e42-aaac-092017e071c9",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-146/01.mp3",
+      "start": 0.0,
+      "end": 0.620816
+    },
+    {
+      "index": 1,
+      "text": "Dreams too are true because what we call truth is only a dream - it is just the difference between open and closed eyes.",
+      "path": "audio/1970-146/02.mp3",
+      "start": 2.044717,
+      "end": 10.203831999999998
+    },
+    {
+      "index": 2,
+      "text": "Understand this fully and then one can go beyond both, and the way lies beyond both.",
+      "path": "audio/1970-146/03.mp3",
+      "start": 11.587687,
+      "end": 17.957891
+    },
+    {
+      "index": 3,
+      "text": "Both are the seen and beyond both is the seer.",
+      "path": "audio/1970-146/04.mp3",
+      "start": 19.255464999999997,
+      "end": 23.72
+    }
+  ]
+}

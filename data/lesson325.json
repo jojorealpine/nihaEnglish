@@ -1,0 +1,847 @@
+{
+  "id": "1971-325",
+  "title": "1971 / 325",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "gone",
+      "meaning": "사라졌다, 죽었다",
+      "note": "여기서는 생명력이나 활력이 사라졌음을 의미",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "imitation",
+      "meaning": "모방",
+      "note": "진정한 요가의 정신을 따르지 않고 외형만을 따라하는 행위를 지칭",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "imitate",
+      "meaning": "모방하다",
+      "note": "다른 것의 특징이나 행동을 흉내내는 것을 의미합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "real",
+      "meaning": "진정한",
+      "note": "진솔하고 본래적인 상태를 가리킵니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "spontaneous",
+      "meaning": "자발적인",
+      "note": "즉흥적이고 계획 없이 자연스럽게 일어나는 것을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "practice",
+      "meaning": "연습하다",
+      "note": "특정 기술이나 상태를 반복적으로 익히는 것을 의미합니다.",
+      "sentenceIds": [
+        4,
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "mind",
+      "meaning": "마음",
+      "note": "과거와 현재의 생각, 기억, 그리고 고정관념을 포함하는 정신적 상태를 나타낸다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thing",
+      "meaning": "것",
+      "note": "여기서는 추상적인 개념으로 해석되어, 마음과 과거의 제약에서 벗어나야 할 대상이나 상태를 지칭한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "explosion",
+      "meaning": "폭발",
+      "note": "강렬하고 급격한 변화나 해방을 상징합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "tricks",
+      "meaning": "속임수",
+      "note": "마음이 일으키는 착각이나 기만적인 요소를 의미합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "teacher",
+      "meaning": "선생님, 스승",
+      "note": "여기서는 명상을 가르치는 전문가를 의미합니다.",
+      "sentenceIds": [
+        7,
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meditation",
+      "meaning": "명상",
+      "note": "마음의 평온과 집중을 위해 수행하는 정신적 연습을 의미합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "concentrate",
+      "meaning": "집중하다",
+      "note": "특정 대상이나 생각에 마음을 모으는 것을 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "later",
+      "meaning": "나중에",
+      "note": "시간적 경과를 나타내며, 마미야가 떠났다가 다시 돌아온 시점을 설명한다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "shaking",
+      "meaning": "흔들다",
+      "note": "마미야가 머리를 움직여 어떤 부정적인 결론이나 혼란을 표현하고 있음을 나타낸다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "could",
+      "meaning": "할 수 있었다",
+      "note": "가능성이나 능력을 나타내지만, 여기서는 부정적 맥락에서 '이해할 수 있었다'는 의미가 부정되어 '이해할 수 없었다'는 뜻으로 사용됨.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "not",
+      "meaning": "아니다",
+      "note": "부정을 나타내며, 'could not'에서 부정의 역할을 함.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "said",
+      "meaning": "말하다",
+      "note": "직접적인 발화 행위를 나타냅니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "master",
+      "meaning": "장인, 선생님",
+      "note": "특정 분야의 전문가나 지도자를 가리킵니다.",
+      "sentenceIds": [
+        11,
+        16,
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "trying",
+      "meaning": "노력하다",
+      "note": "어떤 목표나 과제에 대해 최선을 다해 임하는 상태를 나타냅니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "hard",
+      "meaning": "충분히",
+      "note": "여기서는 '충분히'라는 의미로 사용되어, 노력의 정도가 부족하다는 것을 강조합니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "think",
+      "meaning": "생각하다",
+      "note": "여기서는 특정 대상(돈, 음식, 즐거움)에 대한 집중이나 집착을 의미한다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "pleasure",
+      "meaning": "즐거움",
+      "note": "물질적 만족이나 감각적 즐거움에 대한 집착을 나타낸다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "better",
+      "meaning": "더 나았을지도",
+      "note": "상황이나 상태가 더 좋았을 것이라는 가정을 나타내며, 여기서는 비판적인 맥락에서 사용되었다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "answer",
+      "meaning": "진정한 답",
+      "note": "단순히 질문에 대한 답변이 아닌, 깊은 이해나 깨달음을 의미한다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "week",
+      "meaning": "주",
+      "note": "시간의 단위로, 일주일을 의미합니다.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "came",
+      "meaning": "돌아오다",
+      "note": "이전에 떠났던 곳으로 다시 돌아오는 상황을 나타냅니다.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "clutched",
+      "meaning": "가슴을 꽉 쥐다",
+      "note": "강한 두려움이나 충격으로 인해 신체적 반응을 나타내는 동사.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "groaned",
+      "meaning": "신음하다",
+      "note": "고통이나 절망을 표현하는 소리를 내는 동사로, 주인공의 심리적 상태를 강조한다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "advice",
+      "meaning": "조언",
+      "note": "선생님이 제자에게 준 지침이나 충고를 의미한다.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "opened",
+      "meaning": "열다, 뜨다",
+      "note": "여기서는 눈을 뜨는 동작을 의미한다.",
+      "sentenceIds": [
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "solved",
+      "meaning": "해결하다",
+      "note": "아직 해결하지 못한 문제에 대한 언급으로 사용되었다.",
+      "sentenceIds": [
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Get",
+      "meaning": "일어나다, 떠나다",
+      "note": "명령형에서 행동을 촉구하는 동사로 사용되어 즉각적인 행동을 요구합니다.",
+      "sentenceIds": [
+        19
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "and",
+      "meaning": "그리고",
+      "note": "두 가지 행동을 연결하는 접속사로, 여기서는 '일어나서'와 '나가서'를 연결합니다.",
+      "sentenceIds": [
+        19
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    [
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-325/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "The whole of Yoga has gone dead because of imitation.",
+      "korean": "요가 전체가 모방 때문에 죽어버렸어.",
+      "explanation": "요가의 본질이 모방으로 인해 상실되어 현재는 생명력을 잃었다는 의미",
+      "grammar": "「has gone」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1971-325/02.mp3",
+      "vocabulary": [
+        {
+          "word": "gone",
+          "meaning": "사라졌다, 죽었다",
+          "note": "여기서는 생명력이나 활력이 사라졌음을 의미"
+        },
+        {
+          "word": "imitation",
+          "meaning": "모방",
+          "note": "진정한 요가의 정신을 따르지 않고 외형만을 따라하는 행위를 지칭"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "One cannot imitate anything that is real.",
+      "korean": "진정한 것은 모방할 수 없다.",
+      "explanation": "진정한 것은 복제하거나 모방할 수 없다는 의미입니다.",
+      "grammar": "「cannot imitate」에서 조동사 can 뒤에 동사원형 「imitate」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1971-325/03.mp3",
+      "vocabulary": [
+        {
+          "word": "imitate",
+          "meaning": "모방하다",
+          "note": "다른 것의 특징이나 행동을 흉내내는 것을 의미합니다."
+        },
+        {
+          "word": "real",
+          "meaning": "진정한",
+          "note": "진솔하고 본래적인 상태를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "The real is always spontaneous: one can jump into it but one cannot practice it.",
+      "korean": "현실은 항상 자발적이어서, 그 안으로 뛰어들 수는 있지만 연습할 수는 없다.",
+      "explanation": "현실은 자연스럽고 예측 불가능한 특성을 가지고 있어 반복적인 연습을 통해 얻을 수 없다는 의미입니다.",
+      "grammar": "「can jump」에서 조동사 can 뒤에 동사원형 「jump」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1971-325/04.mp3",
+      "vocabulary": [
+        {
+          "word": "spontaneous",
+          "meaning": "자발적인",
+          "note": "즉흥적이고 계획 없이 자연스럽게 일어나는 것을 의미합니다."
+        },
+        {
+          "word": "practice",
+          "meaning": "연습하다",
+          "note": "특정 기술이나 상태를 반복적으로 익히는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Any practice is of the mind and by the mind - and the mind is the past, the dead The mind is the thing one has to jump out of.",
+      "korean": "실제는 항상 자발적이야: 누구든 그 안으로 뛰어들 수는 있지만, 그걸 연습할 수는 없어. 마음으로 이루어진 모든 연습은 과거와 죽은 것에 기반하고 있으며, 그런 마음에서 벗어나야 해.",
+      "explanation": "문장은 진정한 경험이나 상태는 마음의 조작이나 과거의 제약에서 벗어나 자발적으로 일어나야 함을 강조하고 있다. 마음과 과거의 제약에서 벗어나는 것이 진정한 경험을 위한 필수 조건임을 설명한다.",
+      "grammar": "「has to jump」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+      "audio": "audio/1971-325/05.mp3",
+      "vocabulary": [
+        {
+          "word": "practice",
+          "meaning": "연습, 수행",
+          "note": "여기서는 마음으로 이루어지는 정신적 노력이나 활동을 의미한다."
+        },
+        {
+          "word": "mind",
+          "meaning": "마음",
+          "note": "과거와 현재의 생각, 기억, 그리고 고정관념을 포함하는 정신적 상태를 나타낸다."
+        },
+        {
+          "word": "thing",
+          "meaning": "것",
+          "note": "여기서는 추상적인 개념으로 해석되어, 마음과 과거의 제약에서 벗어나야 할 대상이나 상태를 지칭한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Out of the mind is the explosion, so be aware of the mind and its tricks!",
+      "korean": "마음에서 벗어나는 것이 폭발이므로, 마음과 그 속임수에 주의하세요!",
+      "explanation": "마음을 벗어나는 과정이 강렬하고 급격한 변화를 의미하며, 그러한 과정에서 마음의 속임수나 착각에 주의해야 한다는 경고입니다.",
+      "grammar": "동사원형 「be」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-325/06.mp3",
+      "vocabulary": [
+        {
+          "word": "explosion",
+          "meaning": "폭발",
+          "note": "강렬하고 급격한 변화나 해방을 상징합니다."
+        },
+        {
+          "word": "tricks",
+          "meaning": "속임수",
+          "note": "마음이 일으키는 착각이나 기만적인 요소를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Mamiya went to a great teacher to learn meditation.",
+      "korean": "마미이는 명상을 배우기 위해 훌륭한 스승을 찾아갔다.",
+      "explanation": "마미이가 명상을 배우기 위해 지혜롭고 능력 있는 스승을 찾았다는 내용입니다.",
+      "grammar": "동사 「went」는 go의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-325/07.mp3",
+      "vocabulary": [
+        {
+          "word": "teacher",
+          "meaning": "선생님, 스승",
+          "note": "여기서는 명상을 가르치는 전문가를 의미합니다."
+        },
+        {
+          "word": "meditation",
+          "meaning": "명상",
+          "note": "마음의 평온과 집중을 위해 수행하는 정신적 연습을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "The teacher told him to concentrate on the famous koan: What is the sound of one hand?",
+      "korean": "선생님은 그에게 유명한 공안 '한 손의 소리는 무엇인가?'에 집중하라고 말씀하셨습니다.",
+      "explanation": "선생님이 제자에게 특정 명상 연습인 공안에 집중하도록 지시한 내용을 전달합니다.",
+      "grammar": "동사 「told」는 tell의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-325/08.mp3",
+      "vocabulary": [
+        {
+          "word": "teacher",
+          "meaning": "선생님",
+          "note": "지도자 또는 지식을 가르치는 사람을 의미합니다."
+        },
+        {
+          "word": "concentrate",
+          "meaning": "집중하다",
+          "note": "특정 대상이나 생각에 마음을 모으는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "Mamiya went away and came back a week later shaking his head.",
+      "korean": "마미야는 떠났다가 일주일 후에 머리를 흔들며 돌아왔다.",
+      "explanation": "마미야가 잠시 떠났다가 나중에 다시 돌아와 머리를 흔들며 어떤 결정이나 이해를 표현했다.",
+      "grammar": "동사 「went」는 go의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-325/09.mp3",
+      "vocabulary": [
+        {
+          "word": "later",
+          "meaning": "나중에",
+          "note": "시간적 경과를 나타내며, 마미야가 떠났다가 다시 돌아온 시점을 설명한다."
+        },
+        {
+          "word": "shaking",
+          "meaning": "흔들다",
+          "note": "마미야가 머리를 움직여 어떤 부정적인 결론이나 혼란을 표현하고 있음을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "He could not get it.",
+      "korean": "이해할 수 없었다.",
+      "explanation": "그는 그것을 이해하지 못했다.",
+      "grammar": "「could not get」에서 조동사 could 뒤에 동사원형 「get」가 옵니다. could은 문맥에 따라 과거의 능력·가능성·정중함 등을 나타냅니다.",
+      "audio": "audio/1971-325/10.mp3",
+      "vocabulary": [
+        {
+          "word": "could",
+          "meaning": "할 수 있었다",
+          "note": "가능성이나 능력을 나타내지만, 여기서는 부정적 맥락에서 '이해할 수 있었다'는 의미가 부정되어 '이해할 수 없었다'는 뜻으로 사용됨."
+        },
+        {
+          "word": "not",
+          "meaning": "아니다",
+          "note": "부정을 나타내며, 'could not'에서 부정의 역할을 함."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "Get out! said the master.",
+      "korean": "장인이 외쳤다, '나가!'",
+      "explanation": "장인이 강하게 명령하거나 경고하는 상황에서 '나가!'라고 말했다는 의미입니다.",
+      "grammar": "동사원형 「Get」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-325/11.mp3",
+      "vocabulary": [
+        {
+          "word": "said",
+          "meaning": "말하다",
+          "note": "직접적인 발화 행위를 나타냅니다."
+        },
+        {
+          "word": "master",
+          "meaning": "장인, 선생님",
+          "note": "특정 분야의 전문가나 지도자를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "You are not trying hard enough.",
+      "korean": "충분히 노력하고 있지 않아요.",
+      "explanation": "선생님이 제자에게 더 열심히 노력하라고 말하는 내용입니다.",
+      "grammar": "「are not trying」는 be동사 + -ing로 만든 현재진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+      "audio": "audio/1971-325/12.mp3",
+      "vocabulary": [
+        {
+          "word": "trying",
+          "meaning": "노력하다",
+          "note": "어떤 목표나 과제에 대해 최선을 다해 임하는 상태를 나타냅니다."
+        },
+        {
+          "word": "hard",
+          "meaning": "충분히",
+          "note": "여기서는 '충분히'라는 의미로 사용되어, 노력의 정도가 부족하다는 것을 강조합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "You still think of money and food and pleasure.",
+      "korean": "돈과 음식, 즐거움만 생각하고 있니?",
+      "explanation": "원문에서 표현된 내용처럼, 현재 상태에서 더 깊은 차원이나 목표로의 집중이 부족하다는 비판을 담고 있다.",
+      "grammar": "동사 「think」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1971-325/13.mp3",
+      "vocabulary": [
+        {
+          "word": "think",
+          "meaning": "생각하다",
+          "note": "여기서는 특정 대상(돈, 음식, 즐거움)에 대한 집중이나 집착을 의미한다."
+        },
+        {
+          "word": "pleasure",
+          "meaning": "즐거움",
+          "note": "물질적 만족이나 감각적 즐거움에 대한 집착을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "It would be better if you died, then you might learn the answer.",
+      "korean": "더 나았을지도 모르는 것은 네가 죽어야 진정한 답을 배울 수 있다는 것이다.",
+      "explanation": "죽음을 통해 진정한 깨달음이나 배움을 얻을 수 있다는 강한 비판적 메시지를 전달한다.",
+      "grammar": "「would be」에서 조동사 would 뒤에 동사원형 「be」가 옵니다. would은 문맥에 따라 가정·의지·정중함 등을 나타냅니다.",
+      "audio": "audio/1971-325/14.mp3",
+      "vocabulary": [
+        {
+          "word": "better",
+          "meaning": "더 나았을지도",
+          "note": "상황이나 상태가 더 좋았을 것이라는 가정을 나타내며, 여기서는 비판적인 맥락에서 사용되었다."
+        },
+        {
+          "word": "answer",
+          "meaning": "진정한 답",
+          "note": "단순히 질문에 대한 답변이 아닌, 깊은 이해나 깨달음을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "The next week Mamiya came back again.",
+      "korean": "다음 주에 다시 마미야가 돌아왔다.",
+      "explanation": "다음 주에 마미야라는 사람이 다시 나타났다는 의미입니다.",
+      "grammar": "동사 「came」는 come의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-325/15.mp3",
+      "vocabulary": [
+        {
+          "word": "week",
+          "meaning": "주",
+          "note": "시간의 단위로, 일주일을 의미합니다."
+        },
+        {
+          "word": "came",
+          "meaning": "돌아오다",
+          "note": "이전에 떠났던 곳으로 다시 돌아오는 상황을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "When the master asked him: Well, what is the sound of one hand? - he clutched at his heart, groaned and fell down as if dead.",
+      "korean": "선생님이 물었을 때: '한 손의 소리는 무엇인가?'라고 묻자, 그는 가슴을 꽉 쥐고 신음하며 마치 죽은 듯 쓰러졌다.",
+      "explanation": "선생님의 질문에 대한 반응으로 주인공의 강한 두려움이나 충격을 표현하고 있다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-325/16.mp3",
+      "vocabulary": [
+        {
+          "word": "master",
+          "meaning": "선생님",
+          "note": "지도자나 스승을 의미하며, 이 문맥에서는 수행이나 가르침을 주도하는 사람을 가리킨다."
+        },
+        {
+          "word": "clutched",
+          "meaning": "가슴을 꽉 쥐다",
+          "note": "강한 두려움이나 충격으로 인해 신체적 반응을 나타내는 동사."
+        },
+        {
+          "word": "groaned",
+          "meaning": "신음하다",
+          "note": "고통이나 절망을 표현하는 소리를 내는 동사로, 주인공의 심리적 상태를 강조한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 17,
+      "english": "Well, you have taken my advice and died, said the master, but what about the sound?",
+      "korean": "선생님이 말씀하셨다: 잘했어, 내 조언을 받아들였고 죽었구나, 하지만 소리는 어떨까?",
+      "explanation": "선생님이 제자의 반응을 보고 조언을 따랐음을 인정하면서도 여전히 핵심 질문인 '한 손의 소리'에 대해 의문을 제기한다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-325/17.mp3",
+      "vocabulary": [
+        {
+          "word": "advice",
+          "meaning": "조언",
+          "note": "선생님이 제자에게 준 지침이나 충고를 의미한다."
+        },
+        {
+          "word": "master",
+          "meaning": "선생님",
+          "note": "특정 분야의 전문가나 지도자를 가리킨다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 18,
+      "english": "Mamiya opened one eye: I have not solved that yet, he said Dead men don't speak, said the master.",
+      "korean": "마미야는 한쪽 눈을 떴다: 아직 그 문제를 해결하지 않았다고 말했다, 그러나 선생님은 '죽은 사람들은 말하지 않는다'고 했다.",
+      "explanation": "마미야가 한쪽 눈을 뜨고 아직 해결하지 못한 문제에 대해 언급했지만, 선생님은 죽은 자는 말하지 않는다는 점을 강조했다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-325/18.mp3",
+      "vocabulary": [
+        {
+          "word": "opened",
+          "meaning": "열다, 뜨다",
+          "note": "여기서는 눈을 뜨는 동작을 의미한다."
+        },
+        {
+          "word": "solved",
+          "meaning": "해결하다",
+          "note": "아직 해결하지 못한 문제에 대한 언급으로 사용되었다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 19,
+      "english": "Get up and get out!",
+      "korean": "일어나서 나가!",
+      "explanation": "명령형 문장으로, 누군가에게 즉시 일어나서 방이나 장소를 떠나라는 강한 요구를 전달합니다.",
+      "grammar": "동사원형 「Get」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-325/19.mp3",
+      "vocabulary": [
+        {
+          "word": "Get",
+          "meaning": "일어나다, 떠나다",
+          "note": "명령형에서 행동을 촉구하는 동사로 사용되어 즉각적인 행동을 요구합니다."
+        },
+        {
+          "word": "and",
+          "meaning": "그리고",
+          "note": "두 가지 행동을 연결하는 접속사로, 여기서는 '일어나서'와 '나가서'를 연결합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "요가 전체가 모방 때문에 죽어버렸어. 진정한 것은 모방할 수 없다. 현실은 항상 자발적이어서, 그 안으로 뛰어들 수는 있지만 연습할 수는 없다.",
+    "실제는 항상 자발적이야: 누구든 그 안으로 뛰어들 수는 있지만, 그걸 연습할 수는 없어. 마음으로 이루어진 모든 연습은 과거와 죽은 것에 기반하고 있으며, 그런 마음에서 벗어나야 해.",
+    "마음에서 벗어나는 것이 폭발이므로, 마음과 그 속임수에 주의하세요!",
+    "마미이는 명상을 배우기 위해 훌륭한 스승을 찾아갔다. 선생님은 그에게 유명한 공안 '한 손의 소리는 무엇인가?'에 집중하라고 말씀하셨습니다. 마미야는 떠났다가 일주일 후에 머리를 흔들며 돌아왔다. 이해할 수 없었다. 장인이 외쳤다, '나가!' 충분히 노력하고 있지 않아요. 돈과 음식, 즐거움만 생각하고 있니? 더 나았을지도 모르는 것은 네가 죽어야 진정한 답을 배울 수 있다는 것이다.",
+    "다음 주에 다시 마미야가 돌아왔다. 선생님이 물었을 때: '한 손의 소리는 무엇인가?'라고 묻자, 그는 가슴을 꽉 쥐고 신음하며 마치 죽은 듯 쓰러졌다. 선생님이 말씀하셨다: 잘했어, 내 조언을 받아들였고 죽었구나, 하지만 소리는 어떨까? 마미야는 한쪽 눈을 떴다: 아직 그 문제를 해결하지 않았다고 말했다, 그러나 선생님은 '죽은 사람들은 말하지 않는다'고 했다. 일어나서 나가!"
+  ],
+  "fullAudio": "audio/1971-325/script_all.mp3",
+  "originalText": "Love.\n\nThe whole of Yoga has gone dead because of imitation.\nOne cannot imitate anything that is real.\nThe real is always spontaneous:\none can jump into it but one cannot practice it.\n\nAny practice is of the mind and by the mind -\nand the mind is the past, the dead\nThe mind is the thing one has to jump out of.\n\nOut of the mind is the explosion,\nso be aware of the mind and its tricks!\n\nMamiya went to a great teacher to learn meditation.\nThe teacher told him to concentrate on the famous koan:\nWhat is the sound of one hand?\nMamiya went away\nand came back a week later shaking his head.\nHe could not get it.\nGet out! said the master. You are not trying hard enough.\nYou still think of money and food and pleasure.\nIt would be better if you died,\nthen you might learn the answer.\n\nThe next week Mamiya came back again.\nWhen the master asked him:\nWell, what is the sound of one hand? -\nhe clutched at his heart, groaned\nand fell down as if dead.\nWell, you have taken my advice and died,\nsaid the master,\nbut what about the sound?\nMamiya opened one eye:\nI have not solved that yet, he said\nDead men don't speak, said the master.\nGet up and get out!",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 325,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0899 2.JPG",
+        "side": "right",
+        "printedPage": 249
+      },
+      {
+        "file": "IMG_0900 2.JPG",
+        "side": "left",
+        "printedPage": 250
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

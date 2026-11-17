@@ -1,0 +1,65 @@
+{
+  "key": "letter-097-part-01",
+  "number": 97,
+  "generationId": "01a1e632-7421-7de6-933d-b8b1e0e0a7ec",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-97/01.mp3",
+      "start": 0.0,
+      "end": 0.637438
+    },
+    {
+      "index": 1,
+      "text": "I was traveling, then on my return, there was your letter.",
+      "path": "audio/1970-97/02.mp3",
+      "start": 2.018163,
+      "end": 5.639683
+    },
+    {
+      "index": 2,
+      "text": "You can meet friends of Jeevan Jagruti Kendra and begin working for Yuvak Kranti Dal (Revolutionary Youth Force).",
+      "path": "audio/1970-97/03.mp3",
+      "start": 7.0746709999999995,
+      "end": 14.052608
+    },
+    {
+      "index": 3,
+      "text": "There are no rules about it - there can never be rules in revolution.",
+      "path": "audio/1970-97/04.mp3",
+      "start": 15.550975000000001,
+      "end": 19.568277000000002
+    },
+    {
+      "index": 4,
+      "text": "There needs to be an awakening of understanding among the youth, with scientific studies replacing blind faith - this is all I wish for.",
+      "path": "audio/1970-97/05.mp3",
+      "start": 20.922517,
+      "end": 30.644739
+    },
+    {
+      "index": 5,
+      "text": "Do meet me this time when I come to Indore.",
+      "path": "audio/1970-97/06.mp3",
+      "start": 32.034762,
+      "end": 34.351633
+    },
+    {
+      "index": 6,
+      "text": "Everything is fine.",
+      "path": "audio/1970-97/07.mp3",
+      "start": 35.778753,
+      "end": 37.175577999999994
+    },
+    {
+      "index": 7,
+      "text": "My regards to everyone there.",
+      "path": "audio/1970-97/08.mp3",
+      "start": 38.600658,
+      "end": 41.4
+    }
+  ]
+}

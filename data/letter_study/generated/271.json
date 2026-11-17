@@ -1,0 +1,364 @@
+{
+  "sourceHash": "0eabafdbff9084d9dc23660b98c205f907c03f9e84fbd93549d70f95c70924ae",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "14": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "이것이 내 증거야!",
+        "explanation": "주장이나 사실을 뒷받침하기 위해 제시하는 증거를 강조하는 문장입니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "evidence",
+            "meaning": "증거",
+            "note": "어떤 주장이나 사실이 옳다는 것을 증명하기 위해 제시되는 사실이나 자료."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "제가 직접 썼어요!",
+        "explanation": "저자가 자신이 작성한 내용임을 강조하는 문장",
+        "grammar": "동사 「wrote」는 write의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "wrote",
+            "meaning": "쓰다",
+            "note": "문장에서 작성자 본인의 창작을 주장하는 데 사용됨"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "이것이 모두 신의 증거들이다.",
+        "explanation": "신의 존재나 특성을 보여주는 모든 증거나 근거를 지칭한다.",
+        "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "proofs",
+            "meaning": "증거, 증명",
+            "note": "여기서는 신의 존재나 특성을 입증하는 다양한 근거나 증거를 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "progressive",
+      "notes": {
+        "korean": "그는 신의 존재를 증명하기 위해 논쟁하고 있었습니다.",
+        "explanation": "신의 존재를 논리적으로 입증하려고 노력하고 있음을 나타냅니다.",
+        "grammar": "「was arguing」는 be동사 + -ing로 만든 과거진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "arguing",
+            "meaning": "논쟁하다",
+            "note": "다른 사람과 의견 차이를 좁히기 위해 논리를 펼치는 상황을 나타냅니다."
+          },
+          {
+            "word": "existence",
+            "meaning": "존재",
+            "note": "특정 대상이나 개념이 실제로 존재한다는 의미입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "15": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "품질을 살펴보세요 - 저는 직접 집을 지었습니다!",
+        "explanation": "품질을 꼼꼼히 검토하거나 평가하라는 의미와 함께 집을 스스로 지었다는 사실을 강조합니다.",
+        "grammar": "동사원형 「Examine」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "Examine",
+            "meaning": "자세히 살펴보다, 검토하다",
+            "note": "주의 깊게 분석하거나 검토하라는 명령형 표현입니다."
+          },
+          {
+            "word": "quality",
+            "meaning": "품질, 수준",
+            "note": "어떤 대상의 상태나 수준을 평가하거나 검토할 때 사용되는 단어입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "어느 날 차집에서 나스루딘은 여행하는 학자의 말을 들었다.",
+        "explanation": "나스루딘이 차집에서 여행 중인 학자의 대화를 듣게 된 상황을 설명합니다.",
+        "grammar": "동사 「heard」는 hear의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "teahouse",
+            "meaning": "차집",
+            "note": "차를 마시며 대화를 나누는 장소를 의미합니다."
+          },
+          {
+            "word": "traveling",
+            "meaning": "여행하는",
+            "note": "이동 중이며 다른 장소를 방문하는 상태를 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "글을 쓸 수 있는 사람은 드물었고, 책을 쓴 사람이라니...!",
+        "explanation": "글을 읽고 쓸 수 있는 능력이 드문 시대적 배경 속에서 책을 출판한 사람에 대한 놀라움을 표현합니다.",
+        "grammar": "「was」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "rarity",
+            "meaning": "희귀함",
+            "note": "일반적으로 흔하지 않고 드물게 발견되는 상태를 의미합니다."
+          },
+          {
+            "word": "written",
+            "meaning": "쓰여진",
+            "note": "이 문맥에서는 「쓰여진」의 뜻으로 읽습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "증명할 수 없는 것들이 있으며, 그들은 자명하기 때문에 증거가 없다.",
+        "explanation": "문장은 자명한 진리나 개념은 증명이 필요하지 않다는 의미를 전달한다.",
+        "grammar": "「There are」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 are는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "evidence",
+            "meaning": "증거",
+            "note": "어떤 주장이나 사실을 뒷받침하는 정보나 증거를 의미한다."
+          },
+          {
+            "word": "evident",
+            "meaning": "자명한",
+            "note": "보거나 생각만으로도 쉽게 이해되거나 명백하게 알 수 있는 상태를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "11": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "몇 일 후에 Mulla Nasrudin은 찻집에 나타나 집을 사려고 할지 물어봤다.",
+        "explanation": "Mulla Nasrudin이 찻집에 방문하여 집 구매 의사를 묻는 상황을 설명합니다.",
+        "grammar": "동사 「appeared」는 appear의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "appeared",
+            "meaning": "나타나다",
+            "note": "이 문맥에서는 Mulla Nasrudin이 특정 장소에 모습을 드러낸 것을 의미합니다."
+          },
+          {
+            "word": "teahouse",
+            "meaning": "찻집",
+            "note": "주인공이 방문한 장소로, 주로 차를 마시며 대화를 나누는 공간을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "증명하려는 것은 어리석고, 그런 노력은 그것들을 잘 모르고 있다는 것을 보여준다.",
+        "explanation": "증명할 수 없는 것들에 대해 증명하려는 시도는 무의미하며, 그러한 시도는 해당 개념에 대한 이해 부족을 드러낸다.",
+        "grammar": "동사 「shows」는 show의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "ridiculous",
+            "meaning": "어리석은, 무의미한",
+            "note": "증명하려는 행위가 가치가 없고 어리석음을 나타냄"
+          },
+          {
+            "word": "acquainted",
+            "meaning": "익숙한, 잘 아는",
+            "note": "해당 개념에 대한 충분한 이해가 없다는 의미"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "10": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "마을 사람들은 지혜로운 선생님을 깊이 존경했고, 물론 나스레딘도 감명을 받았다.",
+        "explanation": "마을 사람들이 지혜로운 선생님을 매우 존중하게 대하고, 그 상황에서 나스레딘도 그 존경심에 영향을 받아 감명을 받았다는 내용입니다.",
+        "grammar": "동사 「treated」는 treat의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "villagers",
+            "meaning": "마을 사람들",
+            "note": "특정 지역 사회의 주민들을 가리킵니다."
+          },
+          {
+            "word": "impressed",
+            "meaning": "감명을 받다",
+            "note": "어떤 사람이나 상황에 의해 긍정적인 감정을 느끼고 깊은 인상을 받는 것을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "12": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "사람들은 뮬라에게 그 집에 대해 이야기해 달라고 요청했습니다. 우리는 뮬라가 자신의 집을 가지고 있다는 것조차 몰랐거든요.",
+        "explanation": "사람들이 뮬라에게 그의 집에 대한 정보를 요청하며, 자신들이 뮬라의 집 소유 사실을 몰랐다는 점을 강조합니다.",
+        "grammar": "동사원형 「Tell」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "people",
+            "meaning": "사람들",
+            "note": "대화의 주체, 이 경우 뮬라에게 질문을 던지는 집단을 의미합니다."
+          },
+          {
+            "word": "asked",
+            "meaning": "요청했습니다",
+            "note": "대화에서 정보를 얻기 위해 질문을 던지는 행동을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "학자는 회사 동료의 질문에 대답하기 위해 주머니에서 책을 꺼내 탁자에 내려놓으며 이렇게 말했다: 이것이 내 증거다.",
+        "explanation": "학자가 질문에 대응하며 자신의 주장을 뒷받침하기 위해 책을 제시하는 장면을 설명한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "Questioned",
+            "meaning": "질문받다",
+            "note": "누군가로부터 의문이나 질문을 받는 상황을 나타낸다."
+          },
+          {
+            "word": "company",
+            "meaning": "회사",
+            "note": "학자가 속한 조직이나 기업을 의미한다."
+          },
+          {
+            "word": "evidence",
+            "meaning": "증거",
+            "note": "주장이나 주장의 타당성을 뒷받침하는 사실이나 자료를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "13": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "말보다 행동이 더 말한다! 라고 뮬라는 외쳤고, 그는 주머니에서 벽돌을 꺼내 테이블 위에 던졌다.",
+        "explanation": "뮬라는 말보다 행동의 중요성을 강조하며, 이를 직접적인 행동으로 보여주었다.",
+        "grammar": "동사 「speak」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "Actions",
+            "meaning": "행동",
+            "note": "이 문맥에서는 말보다 실제 행동이 더 중요하다는 의미를 전달한다."
+          },
+          {
+            "word": "louder",
+            "meaning": "더",
+            "note": "여기서는 강조의 의미로 사용되어 '말보다 행동이 더 중요하다'는 메시지를 강조한다."
+          },
+          {
+            "word": "shouted",
+            "meaning": "외쳤다",
+            "note": "강한 감정이나 강조를 표현하며, 뮬라의 열정적인 태도를 보여준다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Actions speak louder than words!",
+            "meaning": "말보다 행동이 더 중요하다",
+            "explanation": "이 관용구는 행동의 가치를 강조하며, 말로 표현하는 것보다 실제로 행동하는 것이 더 신뢰할 수 있고 중요하다는 의미를 담고 있다."
+          }
+        ]
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

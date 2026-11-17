@@ -1,0 +1,353 @@
+{
+  "id": "1971-274",
+  "title": "1971 / 274",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ideological",
+      "meaning": "이념적인",
+      "note": "특정 사상이나 철학 체계를 의미하며, 개인이나 사회의 행동과 사고에 영향을 미칩니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "orientation",
+      "meaning": "입장이나 방향",
+      "note": "여기서는 개인이나 집단의 이념적 입장이나 가치관을 가리킵니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "conflicts",
+      "meaning": "갈등",
+      "note": "다양한 이념적 입장이 서로 충돌하여 생기는 사회적, 개인적 문제를 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "boundaries",
+      "meaning": "경계",
+      "note": "개인이나 집단 간의 구분이나 분리를 의미합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "prejudices",
+      "meaning": "편견",
+      "note": "미리 정해진 생각이나 판단으로 인해 생기는 부정적인 태도나 견해를 의미합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Thought",
+      "meaning": "생각",
+      "note": "여기서는 편견과 구분을 만드는 원인으로 사용됨",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ideologies",
+      "meaning": "이념",
+      "note": "특정 가치관이나 신념 체계를 의미하며, 이 문장에서는 그러한 체계들이 생각의 한계로 인해 실패한다고 설명",
+      "sentenceIds": [
+        4,
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "religious",
+      "meaning": "종교적인",
+      "note": "신앙이나 종교와 관련된 것을 나타낸다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "tethered",
+      "meaning": "매달리다, 얽매이다",
+      "note": "이 문장에서는 마음이 특정 이념에 얽매여 자유롭지 못하다는 의미를 나타냅니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "understandings",
+      "meaning": "이해들",
+      "note": "다양한 관점이나 개념에 대한 인식이나 이해를 의미합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "freedom",
+      "meaning": "자유",
+      "note": "마음이 제약 없이 움직일 수 있는 상태를 의미합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "beautiful",
+      "meaning": "아름다운",
+      "note": "미적 가치나 긍정적인 특성을 가진 것을 지칭합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-274/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "No ideology can help to create a new world or a new mind or a new human being, because ideological orientation itself is the root cause of all the conflicts and all the miseries.",
+      "korean": "어떤 이념도 새로운 세상이나 새로운 마음, 새로운 인간을 만들 수 없습니다. 왜냐하면 이념적 입장 자체가 모든 갈등과 모든 고통의 근본 원인이기 때문입니다.",
+      "explanation": "이념적 입장이 개인과 사회의 문제의 근본 원인임을 강조하며, 새로운 변화를 이루는 데 한계가 있음을 설명합니다.",
+      "grammar": "「can help」에서 조동사 can 뒤에 동사원형 「help」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1971-274/02.mp3",
+      "vocabulary": [
+        {
+          "word": "ideological",
+          "meaning": "이념적인",
+          "note": "특정 사상이나 철학 체계를 의미하며, 개인이나 사회의 행동과 사고에 영향을 미칩니다."
+        },
+        {
+          "word": "orientation",
+          "meaning": "입장이나 방향",
+          "note": "여기서는 개인이나 집단의 이념적 입장이나 가치관을 가리킵니다."
+        },
+        {
+          "word": "conflicts",
+          "meaning": "갈등",
+          "note": "다양한 이념적 입장이 서로 충돌하여 생기는 사회적, 개인적 문제를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Thought creates boundaries, thought creates divisions and thought creates prejudices.",
+      "korean": "생각은 경계를 만들고, 생각은 분열을 일으키며, 생각은 편견을 낳습니다.",
+      "explanation": "생각이 개인이나 집단 간의 분리와 편견을 형성한다는 의미입니다.",
+      "grammar": "동사 「creates」는 create의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-274/03.mp3",
+      "vocabulary": [
+        {
+          "word": "boundaries",
+          "meaning": "경계",
+          "note": "개인이나 집단 간의 구분이나 분리를 의미합니다."
+        },
+        {
+          "word": "prejudices",
+          "meaning": "편견",
+          "note": "미리 정해진 생각이나 판단으로 인해 생기는 부정적인 태도나 견해를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Thought itself cannot bridge them; that is why all ideologies fail.",
+      "korean": "생각 자체로는 그 경계를 넘을 수 없어 모든 이념이 실패하는 이유야.",
+      "explanation": "생각만으로는 편견이나 구분을 넘어서기 어렵기 때문에 모든 이념이 궁극적으로 실패한다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-274/04.mp3",
+      "vocabulary": [
+        {
+          "word": "Thought",
+          "meaning": "생각",
+          "note": "여기서는 편견과 구분을 만드는 원인으로 사용됨"
+        },
+        {
+          "word": "ideologies",
+          "meaning": "이념",
+          "note": "특정 가치관이나 신념 체계를 의미하며, 이 문장에서는 그러한 체계들이 생각의 한계로 인해 실패한다고 설명"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Now man must learn to live without ideologies: religious, political or otherwise.",
+      "korean": "이제 인간은 종교적, 정치적 또는 다른 이념 없이 살아가는 법을 배워야 한다.",
+      "explanation": "인간이 다양한 형태의 이념 없이 살아가는 방법을 배워야 함을 강조한다.",
+      "grammar": "「must learn」에서 조동사 must 뒤에 동사원형 「learn」가 옵니다. must은 문맥에 따라 의무·강한 추측 등을 나타냅니다.",
+      "audio": "audio/1971-274/05.mp3",
+      "vocabulary": [
+        {
+          "word": "ideologies",
+          "meaning": "이념",
+          "note": "사회, 정치, 종교 등 다양한 분야에서 나타나는 특정 신념 체계나 이론 체계를 의미한다."
+        },
+        {
+          "word": "religious",
+          "meaning": "종교적인",
+          "note": "신앙이나 종교와 관련된 것을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "When the mind is not tethered to any ideology it is free to move to new understandings.",
+      "korean": "마음이 어떤 이념에도 얽매이지 않으면 새로운 이해로 자유롭게 이동할 수 있다.",
+      "explanation": "마음이 특정 이념에 얽매이지 않을 때, 더 넓은 시각으로 새로운 개념이나 이해를 받아들일 수 있다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-274/06.mp3",
+      "vocabulary": [
+        {
+          "word": "tethered",
+          "meaning": "매달리다, 얽매이다",
+          "note": "이 문장에서는 마음이 특정 이념에 얽매여 자유롭지 못하다는 의미를 나타냅니다."
+        },
+        {
+          "word": "understandings",
+          "meaning": "이해들",
+          "note": "다양한 관점이나 개념에 대한 인식이나 이해를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "And in that freedom flowers all that is good and all that is beautiful.",
+      "korean": "그 자유로움 속에서 아름다움과 선한 모든 것이 피어난다.",
+      "explanation": "마음이 어떤 이념에도 얽매이지 않을 때, 그 자유로움 속에서 긍정적이고 아름다운 모든 것이 꽃피어난다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-274/07.mp3",
+      "vocabulary": [
+        {
+          "word": "freedom",
+          "meaning": "자유",
+          "note": "마음이 제약 없이 움직일 수 있는 상태를 의미합니다."
+        },
+        {
+          "word": "beautiful",
+          "meaning": "아름다운",
+          "note": "미적 가치나 긍정적인 특성을 가진 것을 지칭합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "어떤 이념도 새로운 세상이나 새로운 마음, 새로운 인간을 만들 수 없습니다. 왜냐하면 이념적 입장 자체가 모든 갈등과 모든 고통의 근본 원인이기 때문입니다. 생각은 경계를 만들고, 생각은 분열을 일으키며, 생각은 편견을 낳습니다. 생각 자체로는 그 경계를 넘을 수 없어 모든 이념이 실패하는 이유야. 이제 인간은 종교적, 정치적 또는 다른 이념 없이 살아가는 법을 배워야 한다. 마음이 어떤 이념에도 얽매이지 않으면 새로운 이해로 자유롭게 이동할 수 있다. 그 자유로움 속에서 아름다움과 선한 모든 것이 피어난다."
+  ],
+  "fullAudio": "audio/1971-274/script_all.mp3",
+  "originalText": "Love.\n\nNo ideology can help to create a new world\nor a new mind\nor a new human being,\nbecause ideological orientation itself\nis the root cause of all the conflicts and all the miseries.\nThought creates boundaries,\nthought creates divisions\nand thought creates prejudices.\nThought itself cannot bridge them;\nthat is why all ideologies fail.\nNow man must learn to live without ideologies:\nreligious, political or otherwise.\nWhen the mind is not tethered to any ideology\nit is free to move to new understandings.\nAnd in that freedom flowers all that is good\nand all that is beautiful.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 274,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0882 2.JPG",
+        "side": "left",
+        "printedPage": 214
+      },
+      {
+        "file": "IMG_0882 2.JPG",
+        "side": "right",
+        "printedPage": 215
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

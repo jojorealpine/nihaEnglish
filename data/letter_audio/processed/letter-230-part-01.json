@@ -1,0 +1,65 @@
+{
+  "key": "letter-230-part-01",
+  "number": 230,
+  "generationId": "01a1e8f5-c5eb-7805-a56d-26b7e27bfcd4",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-230/01.mp3",
+      "start": 0.0,
+      "end": 0.664966
+    },
+    {
+      "index": 1,
+      "text": "Thought is divisive, it divides ad infinitum,",
+      "path": "audio/1971-230/02.mp3",
+      "start": 2.167551,
+      "end": 5.707846
+    },
+    {
+      "index": 2,
+      "text": "so thought can never come to the total, to the whole.",
+      "path": "audio/1971-230/03.mp3",
+      "start": 6.9918819999999995,
+      "end": 9.846893
+    },
+    {
+      "index": 3,
+      "text": "And the whole is while the parts are not - or they are only for the mind - and if there is no mind then there are no parts.",
+      "path": "audio/1971-230/04.mp3",
+      "start": 11.177710000000001,
+      "end": 18.478141
+    },
+    {
+      "index": 4,
+      "text": "With the mind and because of the mind the one becomes many - or appears so; and with the mind and through the mind, to conceive the one is impossible.",
+      "path": "audio/1971-230/05.mp3",
+      "start": 19.821088,
+      "end": 29.440635
+    },
+    {
+      "index": 5,
+      "text": "Of course it can think about the one, but that one is nothing but a putting together of all the parts, and that one is quite different from the one which is.",
+      "path": "audio/1971-230/06.mp3",
+      "start": 30.992766,
+      "end": 39.980861999999995
+    },
+    {
+      "index": 6,
+      "text": "The one which is conceptualized by the mind is just a mathematical construct: it is not a living whole, it is not organic, and unless one experiences the cosmos as an organic whole one has not known anything at all.",
+      "path": "audio/1971-230/07.mp3",
+      "start": 41.461587,
+      "end": 58.423288
+    },
+    {
+      "index": 7,
+      "text": "This is not possible with thought, but this is possible with no-thought.",
+      "path": "audio/1971-230/08.mp3",
+      "start": 59.921587,
+      "end": 64.39
+    }
+  ]
+}

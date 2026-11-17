@@ -1,0 +1,79 @@
+{
+  "key": "letter-302-part-01",
+  "number": 302,
+  "generationId": "01a1e906-a893-78b9-b069-a597705c09da",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-302/01.mp3",
+      "start": 0.0,
+      "end": 0.560975
+    },
+    {
+      "index": 1,
+      "text": "In life everything is whole, and organically whole.",
+      "path": "audio/1971-302/02.mp3",
+      "start": 1.591701,
+      "end": 4.385079
+    },
+    {
+      "index": 2,
+      "text": "You cannot divide it or take it in parts.",
+      "path": "audio/1971-302/03.mp3",
+      "start": 5.46966,
+      "end": 7.396621
+    },
+    {
+      "index": 3,
+      "text": "Love is like that and meditation is also like that.",
+      "path": "audio/1971-302/04.mp3",
+      "start": 8.483651,
+      "end": 11.704989
+    },
+    {
+      "index": 4,
+      "text": "Even death is like that.",
+      "path": "audio/1971-302/05.mp3",
+      "start": 12.850748000000001,
+      "end": 14.293197
+    },
+    {
+      "index": 5,
+      "text": "That is why I say: Death is not dead but organically one with life.",
+      "path": "audio/1971-302/06.mp3",
+      "start": 15.388481,
+      "end": 19.848594000000002
+    },
+    {
+      "index": 6,
+      "text": "You cannot die partially! - either you die or you do not die.",
+      "path": "audio/1971-302/07.mp3",
+      "start": 20.911655,
+      "end": 25.271497
+    },
+    {
+      "index": 7,
+      "text": "Nor can you die gradually.",
+      "path": "audio/1971-302/08.mp3",
+      "start": 26.820952,
+      "end": 28.595397000000002
+    },
+    {
+      "index": 8,
+      "text": "Please remember this always when you are in meditation or in prayer or in worship.",
+      "path": "audio/1971-302/09.mp3",
+      "start": 30.120725999999998,
+      "end": 34.880475999999994
+    },
+    {
+      "index": 9,
+      "text": "A very valuable dachshund owned by a wealthy woman was run over.",
+      "path": "audio/1971-302/10.mp3",
+      "start": 36.479796,
+      "end": 41.4
+    }
+  ]
+}

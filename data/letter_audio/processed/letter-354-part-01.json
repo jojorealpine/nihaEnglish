@@ -1,0 +1,44 @@
+{
+  "key": "letter-354-part-01",
+  "number": 354,
+  "generationId": "01a1e917-14cc-7495-8a30-aa722b9978aa",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-354/01.mp3",
+      "start": 0.0,
+      "end": 0.681134
+    },
+    {
+      "index": 1,
+      "text": "In this world everything is upside down and anyone who is meditating will have to put everything right side up!",
+      "path": "audio/1971-354/02.mp3",
+      "start": 2.3643989999999997,
+      "end": 9.201519
+    },
+    {
+      "index": 2,
+      "text": "One should not try to know life but to know death, and then the mysteries of life are revealed to him.",
+      "path": "audio/1971-354/03.mp3",
+      "start": 10.972472000000002,
+      "end": 17.198889
+    },
+    {
+      "index": 3,
+      "text": "One should not ask for any security and then there is no insecurity at all.",
+      "path": "audio/1971-354/04.mp3",
+      "start": 18.775805,
+      "end": 23.772812000000002
+    },
+    {
+      "index": 4,
+      "text": "Bunan says in a poem: While living be a dead man, be thoroughly dead, and then behave as you like because then all is well.",
+      "path": "audio/1971-354/05.mp3",
+      "start": 25.494898,
+      "end": 35.11
+    }
+  ]
+}

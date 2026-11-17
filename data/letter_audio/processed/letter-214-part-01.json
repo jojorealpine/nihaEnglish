@@ -1,0 +1,65 @@
+{
+  "key": "letter-214-part-01",
+  "number": 214,
+  "generationId": "01a1e8f1-54cd-7c6a-9c94-220898335bd3",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-214/01.mp3",
+      "start": 0.0,
+      "end": 0.934036
+    },
+    {
+      "index": 1,
+      "text": "Three men made their way to the circle of a Sufi seeking admission to his teachings.",
+      "path": "audio/1971-214/02.mp3",
+      "start": 2.397982,
+      "end": 7.286122
+    },
+    {
+      "index": 2,
+      "text": "Almost at once one of them detached himself from the group, angered by the erratic behavior of the master.",
+      "path": "audio/1971-214/03.mp3",
+      "start": 8.760884,
+      "end": 15.856326999999999
+    },
+    {
+      "index": 3,
+      "text": "On the master's instructions the second was told by a disciple that the sage was a fraud He withdrew soon afterwards.",
+      "path": "audio/1971-214/04.mp3",
+      "start": 17.415442,
+      "end": 25.145918
+    },
+    {
+      "index": 4,
+      "text": "The third was allowed to talk but was offered no teaching for so long that he lost patience and left the circle.",
+      "path": "audio/1971-214/05.mp3",
+      "start": 26.67034,
+      "end": 33.998776
+    },
+    {
+      "index": 5,
+      "text": "When they had all gone away the teacher instructed his circle thus: The first man was an illustration of the principle: Do not judge fundamental things through seeing.",
+      "path": "audio/1971-214/06.mp3",
+      "start": 35.471701,
+      "end": 47.726960999999996
+    },
+    {
+      "index": 6,
+      "text": "The second was an illustration of the injunction, Do not judge things of deep importance through hearing The third was an example of the dictum: Never judge by speech or the lack of it.",
+      "path": "audio/1971-214/07.mp3",
+      "start": 49.251134,
+      "end": 61.422993
+    },
+    {
+      "index": 7,
+      "text": "When asked by a disciple why the applicants could not have been instructed in this matter the master retorted: I am here to give real knowledge, not to teach what people pretend that they have already learned at their mother's knees.",
+      "path": "audio/1971-214/08.mp3",
+      "start": 62.955556,
+      "end": 76.9
+    }
+  ]
+}

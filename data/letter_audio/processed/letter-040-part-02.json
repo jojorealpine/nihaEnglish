@@ -1,0 +1,65 @@
+{
+  "key": "letter-040-part-02",
+  "number": 40,
+  "generationId": "01a1e4ed-58ea-7528-9a8f-bbd2f670e795",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "The tender seed breaks through the hardest of rocks!",
+      "path": "audio/1966-40/11.mp3",
+      "start": 0.0,
+      "end": 2.904399
+    },
+    {
+      "index": 11,
+      "text": "Why?",
+      "path": "audio/1966-40/12.mp3",
+      "start": 4.248957,
+      "end": 4.806531
+    },
+    {
+      "index": 12,
+      "text": "Because no matter how strong and powerful the rock, it is dead, and because it is dead it has no will.",
+      "path": "audio/1966-40/13.mp3",
+      "start": 6.26,
+      "end": 12.365374
+    },
+    {
+      "index": 13,
+      "text": "The seed is tender, it is weak, but alive!",
+      "path": "audio/1966-40/14.mp3",
+      "start": 13.770113,
+      "end": 16.947982
+    },
+    {
+      "index": 14,
+      "text": "Remember, where there is will there is life and where there is no will there is no life.",
+      "path": "audio/1966-40/15.mp3",
+      "start": 18.306485,
+      "end": 23.925238
+    },
+    {
+      "index": 15,
+      "text": "The seed's will becomes its power. and with this power its tiny roots sprout, enter the rock and spread out, until one day they break the rock.",
+      "path": "audio/1966-40/16.mp3",
+      "start": 25.395692,
+      "end": 34.656552999999995
+    },
+    {
+      "index": 16,
+      "text": "Life always wins over death.",
+      "path": "audio/1966-40/17.mp3",
+      "start": 36.187551,
+      "end": 38.306939
+    },
+    {
+      "index": 17,
+      "text": "The living force within has never been defeated by the dead obstacles without - and never will be.",
+      "path": "audio/1966-40/18.mp3",
+      "start": 39.816349,
+      "end": 46.39
+    }
+  ]
+}

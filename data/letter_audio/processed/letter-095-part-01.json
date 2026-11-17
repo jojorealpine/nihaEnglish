@@ -1,0 +1,58 @@
+{
+  "key": "letter-095-part-01",
+  "number": 95,
+  "generationId": "01a1e631-f4b4-7c42-bfc2-878a39b1964e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-95/01.mp3",
+      "start": 0.0,
+      "end": 0.589093
+    },
+    {
+      "index": 1,
+      "text": "Don't float with the current of thoughts, just be aware of them.",
+      "path": "audio/1970-95/02.mp3",
+      "start": 2.522608,
+      "end": 5.8361
+    },
+    {
+      "index": 2,
+      "text": "Know that you are separate from them, distinct, distant, just an observer.",
+      "path": "audio/1970-95/03.mp3",
+      "start": 7.636848,
+      "end": 12.431201999999999
+    },
+    {
+      "index": 3,
+      "text": "Just watch the flow of thoughts like traffic, watch them as you watch the dry leaves flying everywhere in the fall.",
+      "path": "audio/1970-95/04.mp3",
+      "start": 13.853016,
+      "end": 20.556508
+    },
+    {
+      "index": 4,
+      "text": "Don't be the one who makes them happen, don't be the one to whom they happen.",
+      "path": "audio/1970-95/05.mp3",
+      "start": 22.027392,
+      "end": 26.304558
+    },
+    {
+      "index": 5,
+      "text": "Then the rest takes place by itself.",
+      "path": "audio/1970-95/06.mp3",
+      "start": 27.830658,
+      "end": 30.167438
+    },
+    {
+      "index": 6,
+      "text": "This rest is what I call meditation.",
+      "path": "audio/1970-95/07.mp3",
+      "start": 31.710544,
+      "end": 35.11
+    }
+  ]
+}

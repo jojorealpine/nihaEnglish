@@ -1,0 +1,402 @@
+{
+  "sourceHash": "1a2dac259b02c90eddfaad7810ee14480e7ddd44af7611e367b1f851938a0644",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "12": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "의심은 수행이다",
+        "explanation": "의심은 진리에 이르는 길의 시작점이며, 이를 통해 수행의 과정이 시작된다는 의미",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "doubt",
+            "meaning": "의심",
+            "note": "진리나 사실에 대한 불확실성이나 의문을 의미함"
+          },
+          {
+            "word": "sadhana",
+            "meaning": "수행",
+            "note": "종교적 또는 정신적 성장을 위한 노력이나 연습을 의미함"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "15": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "주의하세요! 모든 종교를!",
+        "explanation": "주의를 환기시키며 모든 종교에 대해 경계하라는 의미",
+        "grammar": "동사원형 「beware」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "beware",
+            "meaning": "주의하라",
+            "note": "경고하거나 주의를 환기시키는 의미"
+          },
+          {
+            "word": "religions",
+            "meaning": "종교",
+            "note": "다양한 종교를 포괄적으로 지칭"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "더 깊게 무신론에 빠져들어라.",
+        "explanation": "문장은 화자가 상대방에게 무신론에 대한 이해와 탐구를 더 깊게 하도록 권유하는 내용을 담고 있다.",
+        "grammar": "동사 「say」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "deeper",
+            "meaning": "더 깊게",
+            "note": "깊이 들어가거나 더 철저히 이해하려는 의미를 담고 있다."
+          },
+          {
+            "word": "atheism",
+            "meaning": "무신론",
+            "note": "신의 존재를 부정하거나 믿지 않는 철학적 입장이나 태도를 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "의심은 유익하지만 그것이 전부는 아니다.",
+        "explanation": "의심은 긍정적인 역할을 할 수 있지만, 무신론 자체를 정의하는 것은 아니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "doubt",
+            "meaning": "의심",
+            "note": "불확실성이나 의문을 표현하며, 여기서는 긍정적인 측면과 함께 사용된다."
+          },
+          {
+            "word": "good",
+            "meaning": "유익한",
+            "note": "의심이 긍정적인 영향을 미칠 수 있음을 나타낸다."
+          },
+          {
+            "word": "isn't",
+            "meaning": "아니다",
+            "note": "부정을 나타내며, 의심이 무신론의 전부가 아니라는 의미를 전달한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "10": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "실제로는 의심이 신뢰를 찾는 과정이야.",
+        "explanation": "문장은 의심이 단순히 부정적인 것이 아니라 신뢰를 향한 탐구 과정임을 설명하고 있다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "Actually",
+            "meaning": "실제로",
+            "note": "문장의 맥락에서 강조나 전환을 나타냄"
+          },
+          {
+            "word": "doubt",
+            "meaning": "의심",
+            "note": "신뢰의 부재나 불확실성에 대한 의문을 나타냄"
+          },
+          {
+            "word": "search",
+            "meaning": "탐색",
+            "note": "의심을 통해 진실이나 신뢰를 찾는 과정을 의미함"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "무신론은 단순히 의심하는 것일 뿐입니다.",
+        "explanation": "무신론은 단순히 신의 존재에 대한 의심만을 의미하며, 더 깊은 신념이나 실천으로 이어지지 않는다는 의미입니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "Atheism",
+            "meaning": "무신론",
+            "note": "신의 존재를 부정하거나 믿지 않는 철학적 입장이나 태도를 의미합니다."
+          },
+          {
+            "word": "doubting",
+            "meaning": "의심하다",
+            "note": "특정 주장이나 사실에 대해 확신이 없거나 확신하지 않는 상태를 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "16": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "진정한 종교의 길을 방해하는 것은 오직 종교들뿐이다.",
+        "explanation": "진정한 종교적 깨달음이나 길을 다른 종교들이 방해하거나 가로막는다는 의미입니다.",
+        "grammar": "동사 「obstruct」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "religions",
+            "meaning": "종교들",
+            "note": "여러 종교나 신앙 체계를 가리킵니다."
+          },
+          {
+            "word": "obstruct",
+            "meaning": "방해하다",
+            "note": "길이나 진전을 가로막거나 방해하는 의미입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "무신론은 유신론으로 향하는 첫걸음이며 필수적인 과정이다.",
+        "explanation": "무신론에서 유신론으로의 이행 과정을 설명하며, 이 과정이 중요하다는 의미를 담고 있다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "Atheism",
+            "meaning": "무신론",
+            "note": "신의 존재를 부정하거나 믿지 않는 철학적 입장."
+          },
+          {
+            "word": "theism",
+            "meaning": "유신론",
+            "note": "신의 존재와 그 영향력을 인정하는 철학적 입장."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "13": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "결국 의심은 반박할 수 없는 진실을 드러내기 때문입니다.",
+        "explanation": "의심이 결국에는 확실한 진실을 드러내게 된다는 의미입니다.",
+        "grammar": "동사 「exposes」는 expose의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "eventually",
+            "meaning": "결국",
+            "note": "시간이 지나면서 어떤 결과가 나타난다는 의미입니다."
+          },
+          {
+            "word": "incontestable",
+            "meaning": "반박할 수 없는",
+            "note": "절대적이거나 확실하여 의심의 여지가 없는 상태를 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "11": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "그러니 여정을 시작하세요, 진실의 길은 이 의심에서 시작됩니다.",
+        "explanation": "여정을 시작함으로써 진실을 향한 여정이 시작된다는 의미입니다. 의심에서 출발하는 것이 진실을 찾는 첫걸음임을 강조합니다.",
+        "grammar": "동사원형 「go」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "journey",
+            "meaning": "여정의길",
+            "note": "여기서는 내면적 성장이나 깨달음을 향한 과정을 의미합니다."
+          },
+          {
+            "word": "starts",
+            "meaning": "시작하다",
+            "note": "진실을 향한 여정이 이제 시작된다는 의미입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "진정한 거절의 힘을 갖추지 못했다면, 네가 하는 모든 '예'는 항상 무력할 것이다.",
+        "explanation": "거절의 진정한 힘이 없으면 긍정적인 응답이나 행동이 효과적이지 못하다는 의미",
+        "grammar": "동사 「have」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "strength",
+            "meaning": "힘",
+            "note": "여기서는 정신적 또는 도덕적 힘을 의미하며, 특히 거절이나 고집스러운 태도를 유지하는 데 필요한 힘을 가리킴"
+          },
+          {
+            "word": "impotent",
+            "meaning": "무력한",
+            "note": "효과적이지 못하거나 힘을 발휘하지 못하는 상태를 나타냄"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "만약 무신론의 시험을 겪어보지 않았다면, 유신론의 빛을 알 수 없을 것이다.",
+        "explanation": "무신론을 경험하지 않으면 유신론의 진정한 의미나 가치를 이해할 수 없다는 의미",
+        "grammar": "「'll never know」에서 조동사 'll 뒤에 동사원형 「know」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "atheism",
+            "meaning": "무신론",
+            "note": "신이 존재하지 않는다는 믿음이나 입장"
+          },
+          {
+            "word": "theism",
+            "meaning": "유신론",
+            "note": "신의 존재를 믿는 입장이나 철학"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "그래서 당신이 무신론자임을 기뻐합니다 - 이것은 오직 신을 믿는 사람만이 말할 수 있는 것입니다.",
+        "explanation": "문장은 무신론자임을 긍정적으로 받아들이며, 이 상태를 표현할 수 있는 자격이 신을 믿는 사람에게만 있다는 점을 강조합니다.",
+        "grammar": "「am」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "atheist",
+            "meaning": "신을 믿지 않는 사람",
+            "note": "문장에서 무신론자의 입장을 나타냅니다."
+          },
+          {
+            "word": "theist",
+            "meaning": "신을 믿는 사람",
+            "note": "무신론자의 상태를 설명할 수 있는 자격을 가진 사람으로 묘사됩니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "얕은 생각은 안 돼, 단순히 무신론을 생각하는 것이 아니라 삶으로 받아들여야 해. 그렇게 되면 결국 신에 이르게 될 거야.",
+        "explanation": "문장은 무신론을 단순히 이론적으로 받아들이는 것이 아니라 삶의 방식으로 깊이 체험해야 함을 강조하고, 그러한 태도가 궁극적으로는 신과의 연결로 이어진다는 메시지를 전달한다.",
+        "grammar": "「don't just think」는 do not + 동사원형으로 만든 부정 명령문입니다. 행동의 주체인 you를 따로 쓰지 않고, 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "Superficiality",
+            "meaning": "얕음",
+            "note": "단순히 표면적인 이해나 태도를 의미하며, 깊이 있는 체험이나 이해를 요구한다."
+          },
+          {
+            "word": "ultimately",
+            "meaning": "궁극적으로",
+            "note": "결국에는 어떤 결과나 상태에 도달하게 된다는 의미로 사용되었다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "14": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "bound-to",
+      "notes": {
+        "korean": "의심의 씨앗 안에는 신뢰의 나무가 자라는데, 의심을 심고 가꾸면 결국 신뢰라는 수확을 얻게 된다.",
+        "explanation": "의심을 통해 결국 확실한 진실이 드러나며, 의심을 통해 질문을 하고 노력하면 신뢰를 얻게 된다는 의미",
+        "grammar": "「are bound to harvest」는 be bound to + 동사원형의 구조로, 어떤 일이 반드시 일어나리라는 강한 확신을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "doubt",
+            "meaning": "의심",
+            "note": "문장에서 의심이 신뢰의 성장을 위한 씨앗 역할을 한다는 의미를 담고 있음"
+          },
+          {
+            "word": "questioning",
+            "meaning": "질문",
+            "note": "의심을 통해 질문을 하고 탐구하는 과정을 나타냄"
+          },
+          {
+            "word": "harvest",
+            "meaning": "수확",
+            "note": "의심과 질문의 과정을 통해 얻게 되는 결과로서 신뢰를 의미함"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

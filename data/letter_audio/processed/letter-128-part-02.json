@@ -1,0 +1,23 @@
+{
+  "key": "letter-128-part-02",
+  "number": 128,
+  "generationId": "01a1e6c0-54c8-7ff2-b92f-76a6e200ed38",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "This is your sadhana.",
+      "path": "audio/1970-128/11.mp3",
+      "start": 0.0,
+      "end": 1.302041
+    },
+    {
+      "index": 11,
+      "text": "Let the storms come and go.",
+      "path": "audio/1970-128/12.mp3",
+      "start": 2.769433,
+      "end": 4.68
+    }
+  ]
+}

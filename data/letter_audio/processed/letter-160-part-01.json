@@ -1,0 +1,79 @@
+{
+  "key": "letter-160-part-01",
+  "number": 160,
+  "generationId": "01a1e8e2-10d4-7181-bc62-14de925eb923",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-160/01.mp3",
+      "start": 0.0,
+      "end": 0.567596
+    },
+    {
+      "index": 1,
+      "text": "We just do not know life, that is why we get bored We make life mechanical, that is why we get bored.",
+      "path": "audio/1970-160/02.mp3",
+      "start": 1.828957,
+      "end": 8.659818999999999
+    },
+    {
+      "index": 2,
+      "text": "We are not living life, we only drag along with it, that is why we get bored.",
+      "path": "audio/1970-160/03.mp3",
+      "start": 9.962177,
+      "end": 15.280068
+    },
+    {
+      "index": 3,
+      "text": "Boredom is not in life, rather it comes out of our fear of living.",
+      "path": "audio/1970-160/04.mp3",
+      "start": 16.551769,
+      "end": 20.472857
+    },
+    {
+      "index": 4,
+      "text": "We are not only afraid of death - we are afraid of life as well.",
+      "path": "audio/1970-160/05.mp3",
+      "start": 21.678186,
+      "end": 24.969864
+    },
+    {
+      "index": 5,
+      "text": "In fact, we fear death because we fear life.",
+      "path": "audio/1970-160/06.mp3",
+      "start": 26.202222,
+      "end": 29.235011
+    },
+    {
+      "index": 6,
+      "text": "Otherwise, death is not the end of life - it is the completion of life.",
+      "path": "audio/1970-160/07.mp3",
+      "start": 30.363536999999997,
+      "end": 34.148866
+    },
+    {
+      "index": 7,
+      "text": "This is why I say: live - live fearlessly.",
+      "path": "audio/1970-160/08.mp3",
+      "start": 35.306531,
+      "end": 38.801451
+    },
+    {
+      "index": 8,
+      "text": "Let go of the past: man goes on carrying it because of fear.",
+      "path": "audio/1970-160/09.mp3",
+      "start": 40.457823000000005,
+      "end": 45.477438
+    },
+    {
+      "index": 9,
+      "text": "And do not invite dreams of the future, because in order to avoid living today man plans for living in the future.",
+      "path": "audio/1970-160/10.mp3",
+      "start": 47.025102000000004,
+      "end": 55.41
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": "letter-311-part-01",
+  "number": 311,
+  "generationId": "01a1e908-cb2b-7186-890e-441adeca395b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-311/01.mp3",
+      "start": 0.0,
+      "end": 0.53034
+    },
+    {
+      "index": 1,
+      "text": "Be in the crowd as if you are alone and vice versa.",
+      "path": "audio/1971-311/02.mp3",
+      "start": 2.071701,
+      "end": 5.050794
+    },
+    {
+      "index": 2,
+      "text": "Receive a guest with the same attitude you have when alone, and when alone maintain the same attitude you have in receiving guests.",
+      "path": "audio/1971-311/03.mp3",
+      "start": 6.81229,
+      "end": 14.180204
+    },
+    {
+      "index": 3,
+      "text": "In this way the drop drops into the ocean.",
+      "path": "audio/1971-311/04.mp3",
+      "start": 15.631066,
+      "end": 18.756825000000003
+    },
+    {
+      "index": 4,
+      "text": "On retiring, sleep as if you have entered your last sleep, and upon awakening be reborn again.",
+      "path": "audio/1971-311/05.mp3",
+      "start": 20.187165999999998,
+      "end": 26.865079
+    },
+    {
+      "index": 5,
+      "text": "In this way the ocean drops into the drop.",
+      "path": "audio/1971-311/06.mp3",
+      "start": 28.501043,
+      "end": 31.48
+    }
+  ]
+}

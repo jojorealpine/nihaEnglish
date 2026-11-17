@@ -1,0 +1,79 @@
+{
+  "key": "letter-344-part-01",
+  "number": 344,
+  "generationId": "01a1e914-b8c0-711e-9c16-018ea4f8d4b1",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-344/01.mp3",
+      "start": 0.0,
+      "end": 0.720204
+    },
+    {
+      "index": 1,
+      "text": "Meditation is the master key.",
+      "path": "audio/1971-344/02.mp3",
+      "start": 2.093628,
+      "end": 4.048912
+    },
+    {
+      "index": 2,
+      "text": "It can open the doors of the infinite and it can unlock the mystery of the unknown.",
+      "path": "audio/1971-344/03.mp3",
+      "start": 5.3976869999999995,
+      "end": 9.393740999999999
+    },
+    {
+      "index": 3,
+      "text": "But just by possessing the key nothing is attained, unless one uses it.",
+      "path": "audio/1971-344/04.mp3",
+      "start": 10.658662000000001,
+      "end": 14.884965999999999
+    },
+    {
+      "index": 4,
+      "text": "Idries Shah tells a dervish tale: There was once a wise and very rich man who had a son.",
+      "path": "audio/1971-344/05.mp3",
+      "start": 16.233741,
+      "end": 21.784853000000002
+    },
+    {
+      "index": 5,
+      "text": "He said to him: My son, here is a jewelled ring.",
+      "path": "audio/1971-344/06.mp3",
+      "start": 23.166372,
+      "end": 27.678934
+    },
+    {
+      "index": 6,
+      "text": "Keep it is a sign that you are my successor, and pass it down on for posterity.",
+      "path": "audio/1971-344/07.mp3",
+      "start": 29.083288,
+      "end": 34.389388
+    },
+    {
+      "index": 7,
+      "text": "It is of value, of fine appearance, and it has the added capacity of opening a certain door to wealth.",
+      "path": "audio/1971-344/08.mp3",
+      "start": 35.828549,
+      "end": 42.239342
+    },
+    {
+      "index": 8,
+      "text": "Some years later he had another son.",
+      "path": "audio/1971-344/09.mp3",
+      "start": 43.794263,
+      "end": 46.472789
+    },
+    {
+      "index": 9,
+      "text": "When the son was old enough the wise man gave him another ring with the same advice.",
+      "path": "audio/1971-344/10.mp3",
+      "start": 48.059478000000006,
+      "end": 53.32
+    }
+  ]
+}

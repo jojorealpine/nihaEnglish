@@ -1,0 +1,58 @@
+{
+  "key": "letter-078-part-01",
+  "number": 78,
+  "generationId": "01a1e62b-c3c5-7bf2-8837-f9a82c110da7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-78/01.mp3",
+      "start": 0.0,
+      "end": 0.534104
+    },
+    {
+      "index": 1,
+      "text": "Samsara is nirvana, sound is mantra, and all living beings are God.",
+      "path": "audio/1970-78/02.mp3",
+      "start": 1.6987070000000002,
+      "end": 5.957347
+    },
+    {
+      "index": 2,
+      "text": "It depends on how you look.",
+      "path": "audio/1970-78/03.mp3",
+      "start": 7.163583,
+      "end": 8.541654999999999
+    },
+    {
+      "index": 3,
+      "text": "The world is nothing but how one sees it.",
+      "path": "audio/1970-78/04.mp3",
+      "start": 9.951406,
+      "end": 11.973923
+    },
+    {
+      "index": 4,
+      "text": "See! Open your eyes and see!",
+      "path": "audio/1970-78/05.mp3",
+      "start": 13.168798,
+      "end": 15.66771
+    },
+    {
+      "index": 5,
+      "text": "Where is darkness? - there is only light.",
+      "path": "audio/1970-78/06.mp3",
+      "start": 16.896145,
+      "end": 19.361293
+    },
+    {
+      "index": 6,
+      "text": "Where is death? - there is only deathlessness.",
+      "path": "audio/1970-78/07.mp3",
+      "start": 20.621700999999998,
+      "end": 23.72
+    }
+  ]
+}

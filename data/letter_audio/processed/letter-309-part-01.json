@@ -1,0 +1,44 @@
+{
+  "key": "letter-309-part-01",
+  "number": 309,
+  "generationId": "01a1e908-7460-76ba-997d-ffc18069c78b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-309/01.mp3",
+      "start": 0.0,
+      "end": 0.565465
+    },
+    {
+      "index": 1,
+      "text": "Be free at the center; let the center relax and die: be only a circumference - and this is the only renunciation I know.",
+      "path": "audio/1971-309/02.mp3",
+      "start": 1.7806350000000002,
+      "end": 9.386327
+    },
+    {
+      "index": 2,
+      "text": "No man is free until he is free at the center.",
+      "path": "audio/1971-309/03.mp3",
+      "start": 10.604308000000001,
+      "end": 13.673015999999999
+    },
+    {
+      "index": 3,
+      "text": "When he lets go then he is really free - and then life is not anguish and then life is not agony",
+      "path": "audio/1971-309/04.mp3",
+      "start": 14.998095000000001,
+      "end": 21.622971
+    },
+    {
+      "index": 4,
+      "text": "because no hell can exist without the self, the center.",
+      "path": "audio/1971-309/05.mp3",
+      "start": 23.0122,
+      "end": 27.01
+    }
+  ]
+}

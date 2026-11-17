@@ -1,0 +1,79 @@
+{
+  "key": "letter-313-part-01",
+  "number": 313,
+  "generationId": "01a1e909-49ab-713e-b740-76a1e591b1b0",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-313/01.mp3",
+      "start": 0.0,
+      "end": 0.579501
+    },
+    {
+      "index": 1,
+      "text": "Come here whenever it is possible.",
+      "path": "audio/1971-313/02.mp3",
+      "start": 1.778753,
+      "end": 3.96458
+    },
+    {
+      "index": 2,
+      "text": "You will always be welcomed.",
+      "path": "audio/1971-313/03.mp3",
+      "start": 5.152381,
+      "end": 6.681973
+    },
+    {
+      "index": 3,
+      "text": "And stay with me a little longer, and let me help.",
+      "path": "audio/1971-313/04.mp3",
+      "start": 7.929388,
+      "end": 11.22068
+    },
+    {
+      "index": 4,
+      "text": "It will be difficult for you because you will have to let go of yourself completely.",
+      "path": "audio/1971-313/05.mp3",
+      "start": 12.378163,
+      "end": 16.957959000000002
+    },
+    {
+      "index": 5,
+      "text": "But it is not impossible - and for you especially because I have seen in you the great potential that is awaiting its opportunity.",
+      "path": "audio/1971-313/06.mp3",
+      "start": 18.182381,
+      "end": 27.07458
+    },
+    {
+      "index": 6,
+      "text": "With you much that is impossible is possible.",
+      "path": "audio/1971-313/07.mp3",
+      "start": 28.491678,
+      "end": 31.531315
+    },
+    {
+      "index": 7,
+      "text": "There is a seed which is longing to explode.",
+      "path": "audio/1971-313/08.mp3",
+      "start": 32.899048,
+      "end": 35.615736999999996
+    },
+    {
+      "index": 8,
+      "text": "Its very longing is the source of your search, its longing is the tension that you are today and its longing will be the freedom that you will be tomorrow.",
+      "path": "audio/1971-313/09.mp3",
+      "start": 36.974875000000004,
+      "end": 46.278866
+    },
+    {
+      "index": 9,
+      "text": "The essence is there and the existence will follow if you so wish.",
+      "path": "audio/1971-313/10.mp3",
+      "start": 48.014943,
+      "end": 53.5
+    }
+  ]
+}

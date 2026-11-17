@@ -1,0 +1,58 @@
+{
+  "key": "letter-186-part-01",
+  "number": 186,
+  "generationId": "01a1e8e9-40ce-705e-b134-daeaad77869e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-186/01.mp3",
+      "start": 0.0,
+      "end": 0.68551
+    },
+    {
+      "index": 1,
+      "text": "Religion is not a promise for the future but an experience here and now.",
+      "path": "audio/1971-186/02.mp3",
+      "start": 1.9666889999999997,
+      "end": 6.405374
+    },
+    {
+      "index": 2,
+      "text": "But through the priesthood it has become promises and promises and promises.",
+      "path": "audio/1971-186/03.mp3",
+      "start": 7.753379,
+      "end": 12.575714
+    },
+    {
+      "index": 3,
+      "text": "At an examination of a class in First Aid a member, who was also a priest, was asked: What would you do if you found a man in a fainting condition?",
+      "path": "audio/1971-186/04.mp3",
+      "start": 13.797483000000001,
+      "end": 24.420408000000002
+    },
+    {
+      "index": 4,
+      "text": "I would give him some brandy, was the answer.",
+      "path": "audio/1971-186/05.mp3",
+      "start": 25.880249,
+      "end": 28.907687
+    },
+    {
+      "index": 5,
+      "text": "And if there was no brandy? he was then asked.",
+      "path": "audio/1971-186/06.mp3",
+      "start": 30.462971,
+      "end": 33.716463
+    },
+    {
+      "index": 6,
+      "text": "I would promise him some, replied the priest.",
+      "path": "audio/1971-186/07.mp3",
+      "start": 35.169569,
+      "end": 38.64
+    }
+  ]
+}

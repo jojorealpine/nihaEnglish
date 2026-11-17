@@ -1,0 +1,435 @@
+{
+  "id": "1971-214",
+  "title": "1971 / 214",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "admission",
+      "meaning": "참여나 가입",
+      "note": "여기서는 특정 가르침이나 단체에 참여하려는 의도를 나타낸다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "teachings",
+      "meaning": "가르침",
+      "note": "수피즘 스승이 전하는 철학이나 수행 방법을 의미한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "detached",
+      "meaning": "떨어져 나와",
+      "note": "그룹이나 상황에서 분리되거나 이탈하는 것을 의미한다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "behavior",
+      "meaning": "행동",
+      "note": "스승의 행동이나 태도를 가리킨다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "instructions",
+      "meaning": "지시",
+      "note": "어떤 행동을 취하도록 명령하거나 안내하는 말이나 행동",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "disciple",
+      "meaning": "제자",
+      "note": "스승이나 지도자로부터 가르침을 받는 사람",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "teaching",
+      "meaning": "가르침",
+      "note": "지식이나 기술을 전달하는 과정을 의미한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "patience",
+      "meaning": "인내심",
+      "note": "어려움이나 불편함을 견디는 능력을 나타낸다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "instructed",
+      "meaning": "가르쳤다",
+      "note": "선생님이 제자들에게 가르침을 전달한 행위를 나타냅니다.",
+      "sentenceIds": [
+        6,
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "illustration",
+      "meaning": "예시",
+      "note": "원칙을 이해하기 쉽게 설명하기 위해 사용된 구체적인 사례를 의미합니다.",
+      "sentenceIds": [
+        6,
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fundamental",
+      "meaning": "기본적인",
+      "note": "원칙이나 원리가 기반이 되는 핵심적인 개념을 설명합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "injunction",
+      "meaning": "명령이나 금지",
+      "note": "여기서는 '중요한 것을 듣기만으로 판단하지 말라'는 금지의 의미로 사용됩니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "importance",
+      "meaning": "중요성",
+      "note": "사례에서 중요한 사안이나 가치를 판단하는 데 있어 핵심적인 요소를 나타냅니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "applicants",
+      "meaning": "지원자들",
+      "note": "이 문맥에서는 가르침을 받으려는 사람들을 의미한다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "knowledge",
+      "meaning": "지식",
+      "note": "진정한 지식과 거짓된 지식을 구분하는 핵심 개념이다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "Do not judge things of deep importance through hearing",
+      "meaning": "중요한 것을 듣기만으로 판단하지 말라",
+      "explanation": "중요한 사안에 대해 단순히 듣는 것만으로 결론을 내리지 말라는 의미입니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5,
+      6,
+      7
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-214/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Three men made their way to the circle of a Sufi seeking admission to his teachings.",
+      "korean": "세 명의 남자가 수피즘의 가르침에 참여하기 위해 그의 둘레로 향했다.",
+      "explanation": "세 명의 남자가 수피즘 스승의 가르침에 참여하려는 의도로 그 주변으로 이동하는 상황을 설명한다.",
+      "grammar": "동사 「made」는 make의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-214/02.mp3",
+      "vocabulary": [
+        {
+          "word": "admission",
+          "meaning": "참여나 가입",
+          "note": "여기서는 특정 가르침이나 단체에 참여하려는 의도를 나타낸다."
+        },
+        {
+          "word": "teachings",
+          "meaning": "가르침",
+          "note": "수피즘 스승이 전하는 철학이나 수행 방법을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Almost at once one of them detached himself from the group, angered by the erratic behavior of the master.",
+      "korean": "거의 순간에 한 명이 그룹에서 떨어져 나와 스승의 불안정한 행동에 분노했다.",
+      "explanation": "거의 즉시 한 남자가 다른 두 사람과 떨어져 나와 스승의 예측 불가능한 행동에 화를 냈다.",
+      "grammar": "동사 「detached」는 detach의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-214/03.mp3",
+      "vocabulary": [
+        {
+          "word": "detached",
+          "meaning": "떨어져 나와",
+          "note": "그룹이나 상황에서 분리되거나 이탈하는 것을 의미한다."
+        },
+        {
+          "word": "behavior",
+          "meaning": "행동",
+          "note": "스승의 행동이나 태도를 가리킨다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "On the master's instructions the second was told by a disciple that the sage was a fraud He withdrew soon afterwards.",
+      "korean": "선생님의 지시에 따라 제자가 그 스승이 속임수라고 말하자마자 그는 곧 떠났다.",
+      "explanation": "선생님의 지시로 제자가 스승에 대해 부정적인 말을 하자마자 그 사람이 떠났다는 내용입니다.",
+      "grammar": "「was told」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-214/04.mp3",
+      "vocabulary": [
+        {
+          "word": "instructions",
+          "meaning": "지시",
+          "note": "어떤 행동을 취하도록 명령하거나 안내하는 말이나 행동"
+        },
+        {
+          "word": "disciple",
+          "meaning": "제자",
+          "note": "스승이나 지도자로부터 가르침을 받는 사람"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "The third was allowed to talk but was offered no teaching for so long that he lost patience and left the circle.",
+      "korean": "세 번째 사람은 말할 기회를 얻었지만 오랫동안 가르침을 받지 못해 인내심을 잃고 모임을 떠났다.",
+      "explanation": "세 번째 참가자는 발언 기회를 가졌지만, 긴 시간 동안 가르침을 받지 못하자 인내심을 잃고 모임을 떠났다.",
+      "grammar": "「was allowed」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-214/05.mp3",
+      "vocabulary": [
+        {
+          "word": "teaching",
+          "meaning": "가르침",
+          "note": "지식이나 기술을 전달하는 과정을 의미한다."
+        },
+        {
+          "word": "patience",
+          "meaning": "인내심",
+          "note": "어려움이나 불편함을 견디는 능력을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "When they had all gone away the teacher instructed his circle thus: The first man was an illustration of the principle: Do not judge fundamental things through seeing.",
+      "korean": "선생님은 모두 떠난 후 제자들에게 이렇게 가르쳤습니다: 첫 번째 사람은 이런 원칙을 보여주는 예시였습니다: 근본적인 것을 보는 것만으로 판단하지 마세요.",
+      "explanation": "선생님이 제자들에게 특정 원칙을 설명하며 첫 번째 사람의 사례를 통해 그 의미를 전달한 내용입니다.",
+      "grammar": "「Do not judge」는 do not + 동사원형으로 만든 부정 명령문입니다. 행동의 주체인 you를 따로 쓰지 않고, 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1971-214/06.mp3",
+      "vocabulary": [
+        {
+          "word": "instructed",
+          "meaning": "가르쳤다",
+          "note": "선생님이 제자들에게 가르침을 전달한 행위를 나타냅니다."
+        },
+        {
+          "word": "illustration",
+          "meaning": "예시",
+          "note": "원칙을 이해하기 쉽게 설명하기 위해 사용된 구체적인 사례를 의미합니다."
+        },
+        {
+          "word": "fundamental",
+          "meaning": "기본적인",
+          "note": "원칙이나 원리가 기반이 되는 핵심적인 개념을 설명합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "The second was an illustration of the injunction, Do not judge things of deep importance through hearing The third was an example of the dictum: Never judge by speech or the lack of it.",
+      "korean": "두 번째 사람은 다음과 같은 가르침을 보여주었습니다: 중요한 것을 듣기만으로 판단하지 말라.",
+      "explanation": "두 번째 사람의 사례는 중요한 사안을 단순히 듣기만으로 평가하지 말라는 가르침을 강조합니다.",
+      "grammar": "「was」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-214/07.mp3",
+      "vocabulary": [
+        {
+          "word": "illustration",
+          "meaning": "예시",
+          "note": "이 문맥에서는 특정 가르침이나 원칙을 설명하기 위한 사례를 의미합니다."
+        },
+        {
+          "word": "injunction",
+          "meaning": "명령이나 금지",
+          "note": "여기서는 '중요한 것을 듣기만으로 판단하지 말라'는 금지의 의미로 사용됩니다."
+        },
+        {
+          "word": "importance",
+          "meaning": "중요성",
+          "note": "사례에서 중요한 사안이나 가치를 판단하는 데 있어 핵심적인 요소를 나타냅니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Do not judge things of deep importance through hearing",
+          "meaning": "중요한 것을 듣기만으로 판단하지 말라",
+          "explanation": "중요한 사안에 대해 단순히 듣는 것만으로 결론을 내리지 말라는 의미입니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "When asked by a disciple why the applicants could not have been instructed in this matter the master retorted: I am here to give real knowledge, not to teach what people pretend that they have already learned at their mother's knees.",
+      "korean": "제자가 이 주제에 대해 가르침을 받지 못한 이유를 묻자 스승은 이렇게 대답했다: 나는 진정한 지식을 전수하기 위해 여기 있으며, 사람들이 어머니 곁에서 이미 배웠다고 속이는 것을 가르치는 것이 아니다.",
+      "explanation": "스승이 진정한 지식 전수의 목적을 강조하며, 거짓된 학습을 비판하는 내용",
+      "grammar": "동사 「retorted」는 retort의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-214/08.mp3",
+      "vocabulary": [
+        {
+          "word": "applicants",
+          "meaning": "지원자들",
+          "note": "이 문맥에서는 가르침을 받으려는 사람들을 의미한다."
+        },
+        {
+          "word": "instructed",
+          "meaning": "가르침을 받다",
+          "note": "이 주제에 대한 가르침을 받지 못한 상태를 나타낸다."
+        },
+        {
+          "word": "knowledge",
+          "meaning": "지식",
+          "note": "진정한 지식과 거짓된 지식을 구분하는 핵심 개념이다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "세 명의 남자가 수피즘의 가르침에 참여하기 위해 그의 둘레로 향했다. 거의 순간에 한 명이 그룹에서 떨어져 나와 스승의 불안정한 행동에 분노했다. 선생님의 지시에 따라 제자가 그 스승이 속임수라고 말하자마자 그는 곧 떠났다.",
+    "세 번째 사람은 말할 기회를 얻었지만 오랫동안 가르침을 받지 못해 인내심을 잃고 모임을 떠났다.",
+    "선생님은 모두 떠난 후 제자들에게 이렇게 가르쳤습니다: 첫 번째 사람은 이런 원칙을 보여주는 예시였습니다: 근본적인 것을 보는 것만으로 판단하지 마세요. 두 번째 사람은 다음과 같은 가르침을 보여주었습니다: 중요한 것을 듣기만으로 판단하지 말라. 제자가 이 주제에 대해 가르침을 받지 못한 이유를 묻자 스승은 이렇게 대답했다: 나는 진정한 지식을 전수하기 위해 여기 있으며, 사람들이 어머니 곁에서 이미 배웠다고 속이는 것을 가르치는 것이 아니다."
+  ],
+  "fullAudio": "audio/1971-214/script_all.mp3",
+  "originalText": "Love.\n\nThree men made their way to the circle of a Sufi\nseeking admission to his teachings.\nAlmost at once one of them\ndetached himself from the group,\nangered by the erratic behavior of the master.\nOn the master's instructions\nthe second was told by a disciple\nthat the sage was a fraud\nHe withdrew soon afterwards.\n\nThe third was allowed to talk\nbut was offered no teaching for so\nlong that he lost patience and left the circle.\n\nWhen they had all gone away\nthe teacher instructed his circle thus:\nThe first man was an illustration of the principle:\nDo not judge fundamental things through seeing.\nThe second was an illustration of the injunction,\nDo not judge things of deep importance\nthrough hearing\nThe third was an example of the dictum:\nNever judge by speech or the lack of it.\nWhen asked by a disciple\nwhy the applicants could not have been\ninstructed in this matter\nthe master retorted: I am here to give real knowledge,\nnot to teach what people pretend\nthat they have already learned at their mother's knees.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 214,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0858 2.JPG",
+        "side": "right",
+        "printedPage": 167
+      },
+      {
+        "file": "IMG_0859 2.JPG",
+        "side": "left",
+        "printedPage": 168
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

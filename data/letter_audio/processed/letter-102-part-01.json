@@ -1,0 +1,72 @@
+{
+  "key": "letter-102-part-01",
+  "number": 102,
+  "generationId": "01a1e633-9a63-79ca-99a7-18bd4f86e21b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-102/01.mp3",
+      "start": 0.0,
+      "end": 0.608027
+    },
+    {
+      "index": 1,
+      "text": "Existence is a play of sun and shade of hope and despair, of happiness and sorrow, of life and death.",
+      "path": "audio/1970-102/02.mp3",
+      "start": 1.916327,
+      "end": 8.243151999999998
+    },
+    {
+      "index": 2,
+      "text": "So existence is duality - a tension of opposite poles, a music of contrary notes.",
+      "path": "audio/1970-102/03.mp3",
+      "start": 9.453741,
+      "end": 15.021790999999999
+    },
+    {
+      "index": 3,
+      "text": "To know it, to recognize it, to experience it as such, is to go beyond it.",
+      "path": "audio/1970-102/04.mp3",
+      "start": 16.290408,
+      "end": 20.993696
+    },
+    {
+      "index": 4,
+      "text": "This transcendence is the real sadhana, the real achievement.",
+      "path": "audio/1970-102/05.mp3",
+      "start": 22.325056999999997,
+      "end": 25.961882
+    },
+    {
+      "index": 5,
+      "text": "The key to this transcendence is the witness state. Bid goodbye to the doer.",
+      "path": "audio/1970-102/06.mp3",
+      "start": 27.272993,
+      "end": 31.724399000000002
+    },
+    {
+      "index": 6,
+      "text": "Live in the witness state. Watch the drama.",
+      "path": "audio/1970-102/07.mp3",
+      "start": 32.958776,
+      "end": 36.165532999999996
+    },
+    {
+      "index": 7,
+      "text": "Don't drown in it, rather be drowned in observing. Then happiness and sorrow; birth and death, remain just a play; they do not affect you; they cannot affect you.",
+      "path": "audio/1970-102/08.mp3",
+      "start": 37.47941,
+      "end": 50.210499
+    },
+    {
+      "index": 8,
+      "text": "All error, all ignorance, comes from identification.",
+      "path": "audio/1970-102/09.mp3",
+      "start": 51.777642,
+      "end": 56.97
+    }
+  ]
+}

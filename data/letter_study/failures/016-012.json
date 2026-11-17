@@ -1,0 +1,5 @@
+{
+  "english": "See this, fill yourself with love and see.",
+  "error": "No vocabulary grounded in English source",
+  "response": "```json\n{\n  \"korean\": \"이것을 보세요, 사랑으로 가득 채우고 다시 보세요.\",\n  \"explanation\": \"이 문장은 관찰자에게 특정 현상이나 상황(이것을 보세요)을 주의 깊게 바라보고, 그 과정에서 사랑의 감정을 느끼며 다시 관찰하라는 권유를 담고 있습니다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"사랑\",\n      \"meaning\": \"사랑\",\n      \"note\": \"이 문맥에서는 감정적인 포용과 긍정적인 마음가짐을 의미합니다.\"\n    },\n    {\n      \"word\": \"가득 채우다\",\n      \"meaning\": \"가득 채우다\",\n      \"note\": \"여기서는 마음이나 정신을 특정 감정(사랑)으로 충만하게 만드는 것을 의미합니다.\"\n    }\n  ],\n  \"expressions\": [\n    {\n      \"expression\": \"다시 보세요\",\n      \"meaning\": \"다시 보다\",\n      \"explanation\": \"이전과는 다른 관점이나 감정 상태에서 다시 관찰하거나 이해하려는 의미입니다.\"\n    }\n  ]\n}\n```"
+}

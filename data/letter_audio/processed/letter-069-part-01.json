@@ -1,0 +1,58 @@
+{
+  "key": "letter-069-part-01",
+  "number": 69,
+  "generationId": "01a1e628-4ba1-7047-9574-14dab927fce4",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-69/01.mp3",
+      "start": 0.0,
+      "end": 0.522834
+    },
+    {
+      "index": 1,
+      "text": "Truth is like the sky: eternal, everlasting, boundless.",
+      "path": "audio/1969-69/02.mp3",
+      "start": 1.673628,
+      "end": 5.400385
+    },
+    {
+      "index": 2,
+      "text": "Is there a door to enter the sky?",
+      "path": "audio/1969-69/03.mp3",
+      "start": 6.525442,
+      "end": 8.211043
+    },
+    {
+      "index": 3,
+      "text": "Then how can there be one to enter into truth?",
+      "path": "audio/1969-69/04.mp3",
+      "start": 9.335533000000002,
+      "end": 11.596803
+    },
+    {
+      "index": 4,
+      "text": "If our eyes are closed, the sky exists not.",
+      "path": "audio/1969-69/05.mp3",
+      "start": 12.724762,
+      "end": 15.593288
+    },
+    {
+      "index": 5,
+      "text": "The same holds good for truth.",
+      "path": "audio/1969-69/06.mp3",
+      "start": 16.680363,
+      "end": 18.364240000000002
+    },
+    {
+      "index": 6,
+      "text": "Opening the eyes is the door to truth; to close the eyes is to close that door to truth.",
+      "path": "audio/1969-69/07.mp3",
+      "start": 19.479364999999998,
+      "end": 25.16
+    }
+  ]
+}

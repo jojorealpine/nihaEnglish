@@ -1,0 +1,9 @@
+{
+  "status": "partial",
+  "provider": "Artlist",
+  "voice": "Views",
+  "speed": 0.9,
+  "completedGenerationParts": 538,
+  "remainingGenerationParts": 6,
+  "reason": "provider_content_restrictions"
+}

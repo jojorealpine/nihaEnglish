@@ -1,0 +1,72 @@
+{
+  "key": "letter-352-part-01",
+  "number": 352,
+  "generationId": "01a1e916-b14f-75f6-ac6c-cb49037427d3",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-352/01.mp3",
+      "start": 0.0,
+      "end": 0.658095
+    },
+    {
+      "index": 1,
+      "text": "Remember always the one who is inside the body.",
+      "path": "audio/1971-352/02.mp3",
+      "start": 1.973696,
+      "end": 4.708957
+    },
+    {
+      "index": 2,
+      "text": "Walking, sitting, eating or doing anything, remember the one who is neither walking nor sitting nor eating.",
+      "path": "audio/1971-352/03.mp3",
+      "start": 6.060726,
+      "end": 12.667755
+    },
+    {
+      "index": 3,
+      "text": "All doing is on the surface, and beyond all doing is the being; so be aware of the non-doer in the doing. of the non-mover in the moving.",
+      "path": "audio/1971-352/04.mp3",
+      "start": 13.947279,
+      "end": 23.772834
+    },
+    {
+      "index": 4,
+      "text": "One day Mulla Nasrudin's wife, hearing a tremendous thump ran to his room.",
+      "path": "audio/1971-352/05.mp3",
+      "start": 24.953515,
+      "end": 29.240454
+    },
+    {
+      "index": 5,
+      "text": "Nothing to worry about, said the Mulla.",
+      "path": "audio/1971-352/06.mp3",
+      "start": 30.500794,
+      "end": 32.518820999999996
+    },
+    {
+      "index": 6,
+      "text": "It was only my cloak which fell to the ground.",
+      "path": "audio/1971-352/07.mp3",
+      "start": 33.837506000000005,
+      "end": 35.984942999999994
+    },
+    {
+      "index": 7,
+      "text": "What!",
+      "path": "audio/1971-352/08.mp3",
+      "start": 37.208526,
+      "end": 37.77898
+    },
+    {
+      "index": 8,
+      "text": "And made a noise like that? asked his wife Yes - I was inside it at the time, said the Mulla.",
+      "path": "audio/1971-352/09.mp3",
+      "start": 39.110136000000004,
+      "end": 47.18
+    }
+  ]
+}

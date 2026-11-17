@@ -1,0 +1,1566 @@
+{
+  "id": "1970-75",
+  "title": "1970 / 75",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "supreme",
+      "meaning": "최고의",
+      "note": "가장 중요하거나 우월한 상태를 나타낸다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "medium",
+      "meaning": "수단",
+      "note": "목표를 달성하기 위한 방법이나 도구를 의미한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "relaxation",
+      "meaning": "휴식",
+      "note": "편안함과 긴장 해소의 상태를 의미합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "complete",
+      "meaning": "완전한",
+      "note": "전체적인 또는 어떠한 부족함도 없는 상태를 나타냅니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "life",
+      "meaning": "삶",
+      "note": "전체적인 삶의 경험이나 과정을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "effort",
+      "meaning": "노력",
+      "note": "목표 달성이나 성장을 위해 기울이는 노력이나 수고를 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "philosophy",
+      "meaning": "철학",
+      "note": "인간의 존재, 지식, 가치 등에 대한 근본적인 질문과 탐구를 다루는 학문.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "religion",
+      "meaning": "종교",
+      "note": "신이나 초자연적인 힘에 대한 믿음과 그에 따른 윤리적 규범 및 의식을 포함하는 신념 체계.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "available",
+      "meaning": "접근 가능한",
+      "note": "누구에게나 쉽게 이용 가능하다는 의미",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "technology",
+      "meaning": "기술",
+      "note": "과학적 지식을 실제 응용으로 구현하는 방법이나 도구를 의미",
+      "sentenceIds": [
+        6,
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "favor",
+      "meaning": "지지",
+      "note": "어떤 것에 대해 긍정적인 입장이나 지지를 나타냄",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "attribute",
+      "meaning": "부여하다",
+      "note": "여기서는 노동에 가치를 부여한다는 의미로 사용되었다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "intrinsic",
+      "meaning": "본질적인",
+      "note": "노동의 본질적인 가치를 강조하며, 이 가치를 존중하는 사람들이 기계 사용을 반대한다는 의미를 담고 있다.",
+      "sentenceIds": [
+        8,
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "contrary",
+      "meaning": "반대의",
+      "note": "노동을 부담으로 본다는 주장이 본질적 가치를 부정하는 입장과 대조적임을 나타냅니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "prerequisite",
+      "meaning": "필수 조건",
+      "note": "어떤 것을 이루거나 얻기 위해 반드시 먼저 충족되어야 하는 조건을 의미합니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "blissful",
+      "meaning": "행복한",
+      "note": "매우 행복하고 기쁨으로 가득 찬 상태를 나타냅니다.",
+      "sentenceIds": [
+        10,
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "voluntarily",
+      "meaning": "자발적으로",
+      "note": "강제나 의무가 아닌 스스로의 선택으로 인해 일어난다는 뉘앙스",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "rest",
+      "meaning": "휴식",
+      "note": "여기서는 신체적 또는 정신적인 평온한 상태를 의미합니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sin",
+      "meaning": "죄",
+      "note": "종교적 또는 도덕적으로 잘못된 행동을 의미합니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "support",
+      "meaning": "옹호하다, 지지하다",
+      "note": "여기서는 어떤 행동이나 개념을 긍정적으로 받아들이는 의미로 사용되었다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sacrifice",
+      "meaning": "희생",
+      "note": "자신의 이익이나 권리를 포기하고 다른 사람이나 목적을 위해 헌신하는 행위를 의미한다.",
+      "sentenceIds": [
+        13,
+        20,
+        25
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "generation",
+      "meaning": "세대",
+      "note": "특정 시기에 태어난 사람들의 집단을 가리키며, 이 문장에서는 시간적 연속성을 가진 집단 간의 관계를 설명한다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sacrifices",
+      "meaning": "희생",
+      "note": "어떤 가치나 이익을 포기하고 다른 것을 위해 헌신하는 행위를 의미한다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "inhuman",
+      "meaning": "인간이 아닌",
+      "note": "비인간적인 수준이나 정도를 가리키며, 일반적인 인간의 감정이나 가치를 벗어난다는 뉘앙스를 담고 있다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fathers",
+      "meaning": "아버지들",
+      "note": "부모 중 남성을 지칭하며, 이 문맥에서는 부모로서의 역할과 기대치를 나타냅니다.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "impossible",
+      "meaning": "불가능한",
+      "note": "현실적으로 달성하기 어려운 또는 이론적으로 존재하지 않는 것을 의미합니다.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "father",
+      "meaning": "아버지",
+      "note": "부모 중 한 명으로서 자녀를 양육하고 지도하는 역할을 하는 남성을 의미합니다.",
+      "sentenceIds": [
+        16,
+        17,
+        19
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "lives",
+      "meaning": "살다",
+      "note": "이 문맥에서는 「살다」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "potential",
+      "meaning": "잠재력, 가능성",
+      "note": "미래에 이루어질 수 있는 역할이나 상태를 나타냅니다.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "happiness",
+      "meaning": "행복",
+      "note": "개인의 만족감과 긍정적인 감정 상태를 의미합니다.",
+      "sentenceIds": [
+        18,
+        19
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "state",
+      "meaning": "상태",
+      "note": "여기서는 주로 내면의 평온함이나 정신적 안정 상태를 가리킵니다.",
+      "sentenceIds": [
+        18,
+        30
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "renunciation",
+      "meaning": "포기",
+      "note": "원하는 것을 거부하거나 포기하는 행위를 의미한다.",
+      "sentenceIds": [
+        20
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "naturally",
+      "meaning": "자연스럽게",
+      "note": "본질적으로, 강요 없이 자연스럽게 일어나는 것을 나타낸다.",
+      "sentenceIds": [
+        20
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "expectations",
+      "meaning": "기대",
+      "note": "부모가 자식에게 바라는 바 또는 희망 사항을 의미한다.",
+      "sentenceIds": [
+        21
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "pressure",
+      "meaning": "압력",
+      "note": "자식에게 과도한 요구나 부담을 주는 상황을 나타낸다.",
+      "sentenceIds": [
+        21
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fulfilled",
+      "meaning": "충족된",
+      "note": "기대나 목표가 달성되었다는 의미이다.",
+      "sentenceIds": [
+        21
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "person",
+      "meaning": "사람",
+      "note": "이 문장에서는 특정 개인이나 집단을 가리키는 일반적인 용어로 사용된다.",
+      "sentenceIds": [
+        22
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "selfish",
+      "meaning": "이기적인",
+      "note": "자신의 이익이나 욕구를 우선시하는 태도를 나타낸다.",
+      "sentenceIds": [
+        22
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Altruistic",
+      "meaning": "자비로운",
+      "note": "다른 사람을 위해 자신의 이익을 포기하는 성질이나 행동을 의미함",
+      "sentenceIds": [
+        23
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "teachings",
+      "meaning": "가르침",
+      "note": "특정 철학이나 이념을 전달하는 교훈이나 가르침을 의미함",
+      "sentenceIds": [
+        23
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unhappy",
+      "meaning": "행복하지 않은, 슬픈",
+      "note": "이 문맥에서는 「행복하지 않은, 슬픈」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        24
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sorrow",
+      "meaning": "슬픔",
+      "note": "슬픔이라는 감정을 직접적으로 표현합니다.",
+      "sentenceIds": [
+        24
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "present",
+      "meaning": "현재",
+      "note": "현재의 순간이나 시간을 가리킵니다.",
+      "sentenceIds": [
+        25,
+        26,
+        27,
+        33,
+        34,
+        35
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "totally",
+      "meaning": "완전히",
+      "note": "전체적인 상태나 정도를 강조하며, 여기서는 완전한 몰입을 의미한다.",
+      "sentenceIds": [
+        26
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sacrificing",
+      "meaning": "희생하다",
+      "note": "현재의 이익이나 가치를 미래의 이익을 위해 포기하는 행위를 나타냄",
+      "sentenceIds": [
+        27
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "future",
+      "meaning": "미래",
+      "note": "아직 오지 않은 시간이나 상태를 의미함",
+      "sentenceIds": [
+        27,
+        28,
+        33,
+        35,
+        36
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Finally",
+      "meaning": "마지막으로",
+      "note": "문장의 마지막 부분에서 질문을 제기하는 시점을 나타냅니다.",
+      "sentenceIds": [
+        28
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "work",
+      "meaning": "일하다",
+      "note": "여기서는 직업이나 특정 활동에 참여하지 않는 상태를 의미합니다.",
+      "sentenceIds": [
+        29
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "flows",
+      "meaning": "흘러나오다",
+      "note": "행동이나 상태가 자연스럽게 나타나는 것을 나타냄",
+      "sentenceIds": [
+        30
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "swim",
+      "meaning": "수영하다",
+      "note": "활동적인 움직임으로 물 속에서 이동하는 것을 의미합니다.",
+      "sentenceIds": [
+        31
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "float",
+      "meaning": "떠 있다",
+      "note": "외부 힘 없이 물이나 공기 중에서 자연스럽게 떠 있는 상태를 나타냅니다.",
+      "sentenceIds": [
+        31
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "happens",
+      "meaning": "발생하다",
+      "note": "어떤 사건이나 상황이 일어나는 것을 의미한다.",
+      "sentenceIds": [
+        32
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "doer",
+      "meaning": "행동자",
+      "note": "어떤 행동이나 행위를 직접적으로 수행하는 사람을 가리킨다.",
+      "sentenceIds": [
+        32
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "passed",
+      "meaning": "지나간",
+      "note": "과거에 이미 일어난 일이나 시간을 의미합니다.",
+      "sentenceIds": [
+        34
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "bother",
+      "meaning": "걱정하다",
+      "note": "현재에 집중하는 태도를 강조하기 위해 사용되었습니다.",
+      "sentenceIds": [
+        36
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "amazing",
+      "meaning": "놀랍다",
+      "note": "상황의 예상치 못한 변화나 결과에 대한 놀람을 표현한다.",
+      "sentenceIds": [
+        37
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "worrying",
+      "meaning": "걱정하다",
+      "note": "불안이나 우려로 인해 마음이 불편한 상태를 나타낸다.",
+      "sentenceIds": [
+        37
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "regards",
+      "meaning": "인사, 존경의 표현",
+      "note": "이 단어는 편지에서 친근하면서도 존중하는 인사말로 사용됩니다.",
+      "sentenceIds": [
+        38
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "inhuman expectations",
+      "meaning": "비인간적인 기대",
+      "explanation": "과도하거나 비현실적인 부모의 기대를 의미한다.",
+      "sentenceIds": [
+        21
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "out of... being",
+      "meaning": "본성에 따라",
+      "explanation": "행동이나 결과가 자연스럽게 그 사람의 본질이나 상태에서 비롯된다는 의미이다.",
+      "sentenceIds": [
+        21
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      4,
+      5,
+      6
+    ],
+    [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    [
+      12,
+      13,
+      14
+    ],
+    [
+      15,
+      16,
+      17
+    ],
+    [
+      18,
+      19,
+      20
+    ],
+    [
+      21,
+      22,
+      23
+    ],
+    [
+      24,
+      25,
+      26
+    ],
+    [
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    [
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    [
+      37
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-75/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Rest is the supreme goal, work is the medium.",
+      "korean": "최고의 목표는 휴식이며, 일은 그 수단이다.",
+      "explanation": "휴식이 가장 중요한 목표이고, 일은 그 목표를 이루기 위한 수단이라는 의미를 담고 있다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-75/02.mp3",
+      "vocabulary": [
+        {
+          "word": "supreme",
+          "meaning": "최고의",
+          "note": "가장 중요하거나 우월한 상태를 나타낸다."
+        },
+        {
+          "word": "medium",
+          "meaning": "수단",
+          "note": "목표를 달성하기 위한 방법이나 도구를 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Total relaxation, with complete freedom from effort, is the supreme goal.",
+      "korean": "완전한 노력에서 벗어난 총 휴식이 최고의 목표입니다.",
+      "explanation": "완전한 휴식 상태를 최고의 목표로 정의하며, 이는 어떠한 노력도 필요 없는 상태를 의미합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-75/03.mp3",
+      "vocabulary": [
+        {
+          "word": "relaxation",
+          "meaning": "휴식",
+          "note": "편안함과 긴장 해소의 상태를 의미합니다."
+        },
+        {
+          "word": "complete",
+          "meaning": "완전한",
+          "note": "전체적인 또는 어떠한 부족함도 없는 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Then life is a play, and then even effort becomes play.",
+      "korean": "그러면 삶은 연극이 되고, 노력조차 연극이 된다.",
+      "explanation": "노력 없이 완전한 이완이 최고의 목표라면, 삶 자체가 즐거움과 자유로움으로 가득 찬 연극과 같아지고, 그 과정에서의 노력마저도 이러한 즐거움의 일부가 된다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-75/04.mp3",
+      "vocabulary": [
+        {
+          "word": "life",
+          "meaning": "삶",
+          "note": "전체적인 삶의 경험이나 과정을 의미합니다."
+        },
+        {
+          "word": "effort",
+          "meaning": "노력",
+          "note": "목표 달성이나 성장을 위해 기울이는 노력이나 수고를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Poetry, philosophy, religion are the fruits of repose.",
+      "korean": "고요함의 열매는 시가, 철학, 종교이다.",
+      "explanation": "고요함 속에서 얻어지는 결과물들이 시, 철학, 종교임을 나타냄.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-75/05.mp3",
+      "vocabulary": [
+        {
+          "word": "philosophy",
+          "meaning": "철학",
+          "note": "인간의 존재, 지식, 가치 등에 대한 근본적인 질문과 탐구를 다루는 학문."
+        },
+        {
+          "word": "religion",
+          "meaning": "종교",
+          "note": "신이나 초자연적인 힘에 대한 믿음과 그에 따른 윤리적 규범 및 의식을 포함하는 신념 체계."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "This has not been available to everyone, but technology and science will make it so in the near future.",
+      "korean": "모든 사람들이 쉽게 접할 수 있게 되는 것은 아직 아니지만, 가까운 미래에 기술과 과학이 이를 가능하게 할 것입니다.",
+      "explanation": "기술과 과학의 발전이 특정 자원이나 상태를 더 많은 사람들이 접근할 수 있게 만들 것이라는 미래 예측",
+      "grammar": "「has not been」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1970-75/06.mp3",
+      "vocabulary": [
+        {
+          "word": "available",
+          "meaning": "접근 가능한",
+          "note": "누구에게나 쉽게 이용 가능하다는 의미"
+        },
+        {
+          "word": "technology",
+          "meaning": "기술",
+          "note": "과학적 지식을 실제 응용으로 구현하는 방법이나 도구를 의미"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "That is why I am in favor of technology.",
+      "korean": "그래서 저는 기술을 지지합니다.",
+      "explanation": "기술이 목표 달성에 중요한 역할을 한다는 이유로 기술을 지지하는 입장을 나타냅니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-75/07.mp3",
+      "vocabulary": [
+        {
+          "word": "favor",
+          "meaning": "지지",
+          "note": "어떤 것에 대해 긍정적인 입장이나 지지를 나타냄"
+        },
+        {
+          "word": "technology",
+          "meaning": "기술",
+          "note": "과학적 지식을 이용해 실제적인 도구, 방법, 과정 등을 개발하고 활용하는 것을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "Those who attribute intrinsic value to labor oppose the use of machines - they have to.",
+      "korean": "노동에 본질적인 가치를 부여하는 사람들은 기계 사용을 반대해야 한다.",
+      "explanation": "본질적인 가치를 부여하는 사람들은 기계의 사용을 반대하는데, 이는 그들의 입장에서 자연스러운 반응이다.",
+      "grammar": "동사 「have」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1970-75/08.mp3",
+      "vocabulary": [
+        {
+          "word": "attribute",
+          "meaning": "부여하다",
+          "note": "여기서는 노동에 가치를 부여한다는 의미로 사용되었다."
+        },
+        {
+          "word": "intrinsic",
+          "meaning": "본질적인",
+          "note": "노동의 본질적인 가치를 강조하며, 이 가치를 존중하는 사람들이 기계 사용을 반대한다는 의미를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "For me, labor has no such intrinsic value: on the contrary, I see it as a burden.",
+      "korean": "나에게 노동은 본질적인 가치가 없으며 오히려 부담으로 보인다.",
+      "explanation": "주어진 문장에서 노동에 대한 저자의 관점을 한국어로 표현한 내용입니다. 저자는 노동을 본질적으로 가치 있는 것으로 보지 않고 오히려 부담으로 인식한다고 말하고 있습니다.",
+      "grammar": "동사 「see」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1970-75/09.mp3",
+      "vocabulary": [
+        {
+          "word": "intrinsic",
+          "meaning": "본질적인",
+          "note": "노동의 내재적 가치에 대한 부정적인 관점을 나타냅니다."
+        },
+        {
+          "word": "contrary",
+          "meaning": "반대의",
+          "note": "노동을 부담으로 본다는 주장이 본질적 가치를 부정하는 입장과 대조적임을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "As long as work is a prerequisite for rest it cannot be blissful.",
+      "korean": "일이 휴식의 전제 조건이라면 그것은 행복할 수 없다.",
+      "explanation": "일이 휴식을 위한 필수 조건이라면, 그 자체로 행복하거나 기쁨을 줄 수 없다는 의미입니다.",
+      "grammar": "「cannot be」에서 조동사 can 뒤에 동사원형 「be」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1970-75/10.mp3",
+      "vocabulary": [
+        {
+          "word": "prerequisite",
+          "meaning": "필수 조건",
+          "note": "어떤 것을 이루거나 얻기 위해 반드시 먼저 충족되어야 하는 조건을 의미합니다."
+        },
+        {
+          "word": "blissful",
+          "meaning": "행복한",
+          "note": "매우 행복하고 기쁨으로 가득 찬 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "When work flows out of a state of rest voluntarily, then it is blissful.",
+      "korean": "자발적으로 휴식에서 일이 흘러나올 때 그것은 행복할 것이다.",
+      "explanation": "일이 휴식의 선행 조건이 아닌 자발적인 선택으로 이루어질 때 진정한 행복을 느낄 수 있다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-75/11.mp3",
+      "vocabulary": [
+        {
+          "word": "voluntarily",
+          "meaning": "자발적으로",
+          "note": "강제나 의무가 아닌 스스로의 선택으로 인해 일어난다는 뉘앙스"
+        },
+        {
+          "word": "blissful",
+          "meaning": "행복한",
+          "note": "극도의 행복감이나 만족감을 느끼는 상태를 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "So I cannot call rest a sin.",
+      "korean": "휴식을 죄라고 부를 수 없다.",
+      "explanation": "휴식을 수행이나 노력의 자발적인 흐름과 대비시켜 죄로 간주할 수 없다는 의미입니다.",
+      "grammar": "「cannot call」에서 조동사 can 뒤에 동사원형 「call」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1970-75/12.mp3",
+      "vocabulary": [
+        {
+          "word": "rest",
+          "meaning": "휴식",
+          "note": "여기서는 신체적 또는 정신적인 평온한 상태를 의미합니다."
+        },
+        {
+          "word": "sin",
+          "meaning": "죄",
+          "note": "종교적 또는 도덕적으로 잘못된 행동을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "Nor do I support sacrifice I do not want anyone to live for anybody else, or one generation to sacrifice itself for another.",
+      "korean": "나는 희생을 옹호하지 않아. 누구도 다른 사람을 위해 살지 않기를 바라며, 한 세대가 다른 세대를 위해 자신의 삶을 바치는 것을 원하지 않아.",
+      "explanation": "문장은 개인의 자율성과 세대 간의 상호 존중을 강조하며, 강요된 희생이나 다른 사람이나 세대를 위한 삶의 포기를 반대하는 내용을 담고 있다.",
+      "grammar": "조동사 「do」가 본동사 「support」와 함께 쓰였습니다. 의문문을 만들거나 동작을 강조할 때 do/does/did 뒤의 본동사는 원형을 유지합니다.",
+      "audio": "audio/1970-75/13.mp3",
+      "vocabulary": [
+        {
+          "word": "support",
+          "meaning": "옹호하다, 지지하다",
+          "note": "여기서는 어떤 행동이나 개념을 긍정적으로 받아들이는 의미로 사용되었다."
+        },
+        {
+          "word": "sacrifice",
+          "meaning": "희생",
+          "note": "자신의 이익이나 권리를 포기하고 다른 사람이나 목적을 위해 헌신하는 행위를 의미한다."
+        },
+        {
+          "word": "generation",
+          "meaning": "세대",
+          "note": "특정 시기에 태어난 사람들의 집단을 가리키며, 이 문장에서는 시간적 연속성을 가진 집단 간의 관계를 설명한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "Such sacrifices turn out to be very costly - those who make them expect an inhuman return.",
+      "korean": "이러한 희생은 매우 큰 대가를 치르게 만든다 - 그들은 인간이 아닌 수준의 보상을 기대한다.",
+      "explanation": "희생이 큰 비용을 초래하며, 그 결과는 인간의 기준을 벗어난다는 의미를 담고 있다.",
+      "grammar": "동사 「turn」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1970-75/14.mp3",
+      "vocabulary": [
+        {
+          "word": "sacrifices",
+          "meaning": "희생",
+          "note": "어떤 가치나 이익을 포기하고 다른 것을 위해 헌신하는 행위를 의미한다."
+        },
+        {
+          "word": "inhuman",
+          "meaning": "인간이 아닌",
+          "note": "비인간적인 수준이나 정도를 가리키며, 일반적인 인간의 감정이나 가치를 벗어난다는 뉘앙스를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "This is why fathers expect the impossible from their sons.",
+      "korean": "이것이 아버지들이 아들들에게 불가능한 것을 기대하게 만드는 이유입니다.",
+      "explanation": "아버지들이 자녀들에게 현실적으로 달성하기 어려운 기대치를 세우는 배경이나 이유를 설명합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-75/15.mp3",
+      "vocabulary": [
+        {
+          "word": "fathers",
+          "meaning": "아버지들",
+          "note": "부모 중 남성을 지칭하며, 이 문맥에서는 부모로서의 역할과 기대치를 나타냅니다."
+        },
+        {
+          "word": "impossible",
+          "meaning": "불가능한",
+          "note": "현실적으로 달성하기 어려운 또는 이론적으로 존재하지 않는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "If each father lives for his son who will live for himself?",
+      "korean": "아버지가 아들을 위해 무엇을 기대하는지 알기 때문에, 아버지가 자신을 위해 살지 않는다면 아들은 어떻게 살아갈까요?",
+      "explanation": "아버지의 기대와 아들의 삶의 방향성에 대한 질문을 담고 있으며, 원래 문장의 의미를 유지하면서 자연스러운 한국어로 재구성하였습니다.",
+      "grammar": "동사 「lives」는 live의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-75/16.mp3",
+      "vocabulary": [
+        {
+          "word": "father",
+          "meaning": "아버지",
+          "note": "부모 중 한 명으로서 자녀를 양육하고 지도하는 역할을 하는 남성을 의미합니다."
+        },
+        {
+          "word": "lives",
+          "meaning": "살다",
+          "note": "이 문맥에서는 「살다」의 뜻으로 읽습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 17,
+      "english": "For every son is a potential father.",
+      "korean": "모든 아들은 잠재적인 아버지이다.",
+      "explanation": "아들들은 미래에 아버지가 될 가능성이 있다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-75/17.mp3",
+      "vocabulary": [
+        {
+          "word": "potential",
+          "meaning": "잠재력, 가능성",
+          "note": "미래에 이루어질 수 있는 역할이나 상태를 나타냅니다."
+        },
+        {
+          "word": "father",
+          "meaning": "아버지",
+          "note": "부모 중 한 명으로서 자녀를 양육하는 사람을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 18,
+      "english": "No, I want everyone to live for himself - for his own happiness, his own state of rest.",
+      "korean": "아니요, 저는 모든 사람이 자신을 위해 살아가길 원합니다 - 자신의 행복과 평온함을 위해.",
+      "explanation": "주어진 문장의 의미를 한국어로 자연스럽게 전달합니다. 개인의 행복과 내면의 평온함을 추구하는 삶을 강조합니다.",
+      "grammar": "동사 「want」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1970-75/18.mp3",
+      "vocabulary": [
+        {
+          "word": "happiness",
+          "meaning": "행복",
+          "note": "개인의 만족감과 긍정적인 감정 상태를 의미합니다."
+        },
+        {
+          "word": "state",
+          "meaning": "상태",
+          "note": "여기서는 주로 내면의 평온함이나 정신적 안정 상태를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 19,
+      "english": "When a father is happy he does much more for his sor and easily, because it comes out of his happiness.",
+      "korean": "아버지가 행복할 때 자녀를 위해 훨씬 더 많은 일을 쉽게 해낼 수 있어요. 그것은 아버지의 행복에서 비롯되기 때문이에요.",
+      "explanation": "아버지의 행복이 자녀에 대한 관심과 행동에 긍정적인 영향을 미친다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-75/19.mp3",
+      "vocabulary": [
+        {
+          "word": "father",
+          "meaning": "아버지",
+          "note": "문장에서 부모 중 한 명으로서의 역할과 행복이 자녀에게 미치는 영향을 나타냅니다."
+        },
+        {
+          "word": "happiness",
+          "meaning": "행복",
+          "note": "아버지의 내면 상태가 외부 행동에 긍정적인 영향을 미친다는 개념을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 20,
+      "english": "Then there is neither sacrifice nor renunciation; what he does comes naturally out of his being a father - and a happy father at that.",
+      "korean": "그러면 희생도 포기도 없다; 아버지로서의 자연스러운 행동은 행복한 아버지라는 본질에서 비롯된다.",
+      "explanation": "행복한 아버지의 자연스러운 행동은 특별한 희생이나 포기 없이 나타난다.",
+      "grammar": "동사 「comes」는 come의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-75/20.mp3",
+      "vocabulary": [
+        {
+          "word": "sacrifice",
+          "meaning": "희생",
+          "note": "어떤 가치나 이익을 포기하고 다른 것을 위해 바치는 행위를 의미한다."
+        },
+        {
+          "word": "renunciation",
+          "meaning": "포기",
+          "note": "원하는 것을 거부하거나 포기하는 행위를 의미한다."
+        },
+        {
+          "word": "naturally",
+          "meaning": "자연스럽게",
+          "note": "본질적으로, 강요 없이 자연스럽게 일어나는 것을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 21,
+      "english": "Then he has no inhuman expectations of his son, and where there is no pressure from expectations, expectations are fulfilled - out of the son being a son.",
+      "korean": "그는 아들에게 비인간적인 기대를 하지 않으며, 기대의 압박이 없는 곳에서는 아들이 아들로서 자연스럽게 기대가 이루어진다.",
+      "explanation": "문장은 아버지가 아들에게 과도한 기대를 하지 않고, 그러한 압박이 없을 때 아들의 본성에 따라 자연스럽게 기대가 충족된다는 내용을 전달한다.",
+      "grammar": "「are fulfilled」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1970-75/21.mp3",
+      "vocabulary": [
+        {
+          "word": "expectations",
+          "meaning": "기대",
+          "note": "부모가 자식에게 바라는 바 또는 희망 사항을 의미한다."
+        },
+        {
+          "word": "pressure",
+          "meaning": "압력",
+          "note": "자식에게 과도한 요구나 부담을 주는 상황을 나타낸다."
+        },
+        {
+          "word": "fulfilled",
+          "meaning": "충족된",
+          "note": "기대나 목표가 달성되었다는 의미이다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "inhuman expectations",
+          "meaning": "비인간적인 기대",
+          "explanation": "과도하거나 비현실적인 부모의 기대를 의미한다."
+        },
+        {
+          "expression": "out of... being",
+          "meaning": "본성에 따라",
+          "explanation": "행동이나 결과가 자연스럽게 그 사람의 본질이나 상태에서 비롯된다는 의미이다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 22,
+      "english": "In short, I teach each person to be selfish.",
+      "korean": "간단히 말해, 나는 각자에게 이기적인 삶을 가르치는 거야.",
+      "explanation": "문장은 가르치는 행위가 개인의 이기적인 삶을 지향한다는 의미를 전달한다.",
+      "grammar": "동사 「teach」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1970-75/22.mp3",
+      "vocabulary": [
+        {
+          "word": "person",
+          "meaning": "사람",
+          "note": "이 문장에서는 특정 개인이나 집단을 가리키는 일반적인 용어로 사용된다."
+        },
+        {
+          "word": "selfish",
+          "meaning": "이기적인",
+          "note": "자신의 이익이나 욕구를 우선시하는 태도를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 23,
+      "english": "Altruistic teachings have taught man nothing but suicide, and a suicidal man is always homicidal.",
+      "korean": "자비로운 가르침은 인간에게 자살만 가르쳤고, 자살을 생각하는 사람은 항상 살인을 꿈꾸는 법이다.",
+      "explanation": "자비로운 가르침이 인간에게 아무런 도움이 되지 않고 오히려 자살을 유도하며, 이런 상태의 사람들은 폭력적인 행동을 보일 가능성이 크다는 의미",
+      "grammar": "「have taught」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1970-75/23.mp3",
+      "vocabulary": [
+        {
+          "word": "Altruistic",
+          "meaning": "자비로운",
+          "note": "다른 사람을 위해 자신의 이익을 포기하는 성질이나 행동을 의미함"
+        },
+        {
+          "word": "teachings",
+          "meaning": "가르침",
+          "note": "특정 철학이나 이념을 전달하는 교훈이나 가르침을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 24,
+      "english": "The unhappy sow their sorrow amongst others.",
+      "korean": "불행한 돼지들은 슬픔을 다른 사람들과 함께 나눕니다.",
+      "explanation": "슬픔을 공유하거나 드러내는 행위를 묘사합니다.",
+      "grammar": "「the unhappy」는 the + 형용사로 불행한 사람들을 가리키며 복수 주어로 쓰였습니다. 「sow」는 씨를 뿌리다라는 동사의 현재형으로, 여기서는 슬픔을 퍼뜨리는 일에 비유합니다.",
+      "audio": "audio/1970-75/24.mp3",
+      "vocabulary": [
+        {
+          "word": "unhappy",
+          "meaning": "행복하지 않은, 슬픈",
+          "note": "이 문맥에서는 「행복하지 않은, 슬픈」의 뜻으로 읽습니다."
+        },
+        {
+          "word": "sorrow",
+          "meaning": "슬픔",
+          "note": "슬픔이라는 감정을 직접적으로 표현합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 25,
+      "english": "I am also against the sacrifice of the present for the future, because what is is always present.",
+      "korean": "현재를 미래에 희생하는 것에 대해서도 반대합니다. 왜냐하면 현재가 항상 존재하기 때문입니다.",
+      "explanation": "현재를 미래의 이익을 위해 포기하는 것에 대한 반대 의견을 표현하고 있습니다. 현재의 가치를 미래의 이익보다 우선시해야 한다는 의미입니다.",
+      "grammar": "「am」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-75/25.mp3",
+      "vocabulary": [
+        {
+          "word": "sacrifice",
+          "meaning": "희생",
+          "note": "어떤 가치나 이익을 위해 다른 가치를 포기하는 것을 의미합니다."
+        },
+        {
+          "word": "present",
+          "meaning": "현재",
+          "note": "현재의 순간이나 시간을 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 26,
+      "english": "If you live in it totally the future will be born out of it - and when it comes it too will be the present.",
+      "korean": "완전히 그곳에 산다면 미래는 그곳에서 탄생할 것이고, 그것이 도래하면 역시 현재가 될 것이다.",
+      "explanation": "현재의 완전한 몰입이 미래를 형성하며, 미래가 도래하면 그 순간 역시 현재가 된다는 의미",
+      "grammar": "「will be born」는 조동사 + be + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1970-75/26.mp3",
+      "vocabulary": [
+        {
+          "word": "totally",
+          "meaning": "완전히",
+          "note": "전체적인 상태나 정도를 강조하며, 여기서는 완전한 몰입을 의미한다."
+        },
+        {
+          "word": "present",
+          "meaning": "현재",
+          "note": "문장에서 현재의 상태와 미래가 현재가 되는 순간을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 27,
+      "english": "For he who has the habit of sacrificing the present for the future, the future never comes because whatever comes is again always sacrificed for that which has not yet come.",
+      "korean": "현재를 미래에 희생하는 습관이 있는 사람에게는 미래가 오지 않으며, 오는 것이라도 다시 현재를 위해 희생되기 때문에 진정한 미래는 찾아오지 않는다.",
+      "explanation": "현재를 미래를 위해 희생하는 태도는 결국 진정한 미래를 맞이하지 못하게 한다는 의미",
+      "grammar": "동사 「comes」는 come의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-75/27.mp3",
+      "vocabulary": [
+        {
+          "word": "sacrificing",
+          "meaning": "희생하다",
+          "note": "현재의 이익이나 가치를 미래의 이익을 위해 포기하는 행위를 나타냄"
+        },
+        {
+          "word": "present",
+          "meaning": "현재",
+          "note": "현재 순간이나 현재 상태를 의미함"
+        },
+        {
+          "word": "future",
+          "meaning": "미래",
+          "note": "아직 오지 않은 시간이나 상태를 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 28,
+      "english": "Finally, you ask why I too work for others and for the future.",
+      "korean": "마지막으로, 왜 나도 다른 사람들과 미래를 위해 일하는지 물어보는 거야?",
+      "explanation": "문장은 질문자가 자신의 노력이 현재의 이익보다 미래의 이익을 위해 이루어지는 이유를 묻는 상황을 설명합니다.",
+      "grammar": "동사 「ask」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1970-75/28.mp3",
+      "vocabulary": [
+        {
+          "word": "Finally",
+          "meaning": "마지막으로",
+          "note": "문장의 마지막 부분에서 질문을 제기하는 시점을 나타냅니다."
+        },
+        {
+          "word": "future",
+          "meaning": "미래",
+          "note": "문장에서 미래를 위한 노력과 희생에 대한 주제를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 29,
+      "english": "First of all, I do not work.",
+      "korean": "먼저, 나는 일하지 않아요.",
+      "explanation": "문장의 의미: 화자는 자신이 일하지 않는다는 것을 강조하고 있습니다.",
+      "grammar": "「do not work」는 현재의 부정 표현입니다. do/does/did 뒤에서는 본동사 「work」를 원형으로 씁니다.",
+      "audio": "audio/1970-75/29.mp3",
+      "vocabulary": [
+        {
+          "word": "work",
+          "meaning": "일하다",
+          "note": "여기서는 직업이나 특정 활동에 참여하지 않는 상태를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 30,
+      "english": "Whatever I do flows out of my state of rest.",
+      "korean": "내가 하는 모든 행동은 휴식 상태에서 흘러나온다.",
+      "explanation": "행동이나 활동이 근본적으로 내면의 평온한 상태에서 비롯된다는 의미",
+      "grammar": "동사 「flows」는 flow의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-75/30.mp3",
+      "vocabulary": [
+        {
+          "word": "flows",
+          "meaning": "흘러나오다",
+          "note": "행동이나 상태가 자연스럽게 나타나는 것을 나타냄"
+        },
+        {
+          "word": "state",
+          "meaning": "상태",
+          "note": "여기서는 내면의 평온한 상태나 마음가짐을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 31,
+      "english": "I do not swim, I just float.",
+      "korean": "나는 수영하지 않고 그냥 떠 있을 뿐이야.",
+      "explanation": "주어진 문장의 의미를 한국어로 자연스럽게 번역한 내용입니다.",
+      "grammar": "동사 「float」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1970-75/31.mp3",
+      "vocabulary": [
+        {
+          "word": "swim",
+          "meaning": "수영하다",
+          "note": "활동적인 움직임으로 물 속에서 이동하는 것을 의미합니다."
+        },
+        {
+          "word": "float",
+          "meaning": "떠 있다",
+          "note": "외부 힘 없이 물이나 공기 중에서 자연스럽게 떠 있는 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 32,
+      "english": "No one can ever do anything for another but if something happens to others out of what I am, that is something else, and there too I am not the doer.",
+      "korean": "누구도 다른 사람을 위해 무언가 할 수 없지만, 내가 아닌 다른 이유로 다른 사람에게 일이 생긴다면, 그것은 또 다른 영역이며 그곳에서도 나는 행동자가 아니다.",
+      "explanation": "문장은 개인의 행동이나 개입이 다른 사람의 운명이나 상황에 직접적인 영향을 미치지 않는다는 철학적인 관점을 전달한다.",
+      "grammar": "「can ever do」에서 조동사 can 뒤에 동사원형 「do」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1970-75/32.mp3",
+      "vocabulary": [
+        {
+          "word": "happens",
+          "meaning": "발생하다",
+          "note": "어떤 사건이나 상황이 일어나는 것을 의미한다."
+        },
+        {
+          "word": "doer",
+          "meaning": "행동자",
+          "note": "어떤 행동이나 행위를 직접적으로 수행하는 사람을 가리킨다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 33,
+      "english": "As for the future - for me, the present is everything.",
+      "korean": "미래에 관해서는 - 내게 있어서 현재가 전부입니다.",
+      "explanation": "미래에 대한 생각이나 관심이 현재에 집중되어 있다는 의미를 전달합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-75/33.mp3",
+      "vocabulary": [
+        {
+          "word": "future",
+          "meaning": "미래",
+          "note": "앞으로 일어날 일이나 시기에 대한 개념을 나타냅니다."
+        },
+        {
+          "word": "present",
+          "meaning": "현재",
+          "note": "지금 이 순간이나 현재의 상태에 초점을 맞추고 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 34,
+      "english": "And the past too is also a present - that has passed away.",
+      "korean": "과거의 순간들도 현재와 같아요 - 이미 지나간 것들이죠.",
+      "explanation": "과거의 순간들도 현재와 동등하게 여겨지며, 이미 흘러간 시간임을 강조합니다.",
+      "grammar": "「has passed away」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1970-75/34.mp3",
+      "vocabulary": [
+        {
+          "word": "present",
+          "meaning": "현재",
+          "note": "현재의 순간이나 상태를 가리킵니다."
+        },
+        {
+          "word": "passed",
+          "meaning": "지나간",
+          "note": "과거에 이미 일어난 일이나 시간을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 35,
+      "english": "And the future too - that is a present that is yet to come.",
+      "korean": "그리고 미래 또한 현재가 될 것이다 - 아직 오지 않은 현재이다.",
+      "explanation": "문장은 미래가 현재가 될 것이라는 개념을 전달하며, 시간의 연속성과 미래가 현재로 다가오는 과정을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-75/35.mp3",
+      "vocabulary": [
+        {
+          "word": "future",
+          "meaning": "미래",
+          "note": "앞으로 일어날 사건이나 시기를 의미한다."
+        },
+        {
+          "word": "present",
+          "meaning": "현재",
+          "note": "현재 진행 중인 순간이나 시기를 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 36,
+      "english": "Life is always here and now so I do not bother about past and future.",
+      "korean": "삶은 언제나 지금 여기에 있어서 과거와 미래에 대해 걱정하지 않아요.",
+      "explanation": "현재에 집중하고 과거와 미래에 대한 걱정을 하지 않는 삶의 태도를 표현합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-75/36.mp3",
+      "vocabulary": [
+        {
+          "word": "bother",
+          "meaning": "걱정하다",
+          "note": "현재에 집중하는 태도를 강조하기 위해 사용되었습니다."
+        },
+        {
+          "word": "future",
+          "meaning": "미래",
+          "note": "과거와 대비되는 개념으로 사용되어 현재에 대한 집중을 강조합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 37,
+      "english": "And it is amazing that ever since I stopped worrying about them they have begun to worry about me!",
+      "korean": "놀랍게도, 과거와 미래에 대해 걱정을 멈추자마자 그들이 나를 걱정하기 시작했다는 것이 놀랍다.",
+      "explanation": "문장은 과거와 미래에 대한 걱정을 멈추자마자 상황이 바뀌어 상대방이 자신을 걱정하기 시작했다는 놀라운 변화를 표현한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-75/37.mp3",
+      "vocabulary": [
+        {
+          "word": "amazing",
+          "meaning": "놀랍다",
+          "note": "상황의 예상치 못한 변화나 결과에 대한 놀람을 표현한다."
+        },
+        {
+          "word": "worrying",
+          "meaning": "걱정하다",
+          "note": "불안이나 우려로 인해 마음이 불편한 상태를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 38,
+      "english": "My regards to all there.",
+      "korean": "모든 분들께 인사드립니다.",
+      "explanation": "문장은 발신자가 여러 사람에게 인사를 전하는 내용을 담고 있습니다.",
+      "grammar": "명사 「regards」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1970-75/38.mp3",
+      "vocabulary": [
+        {
+          "word": "regards",
+          "meaning": "인사, 존경의 표현",
+          "note": "이 단어는 편지에서 친근하면서도 존중하는 인사말로 사용됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "최고의 목표는 휴식이며, 일은 그 수단이다. 완전한 노력에서 벗어난 총 휴식이 최고의 목표입니다. 그러면 삶은 연극이 되고, 노력조차 연극이 된다.",
+    "고요함의 열매는 시가, 철학, 종교이다. 모든 사람들이 쉽게 접할 수 있게 되는 것은 아직 아니지만, 가까운 미래에 기술과 과학이 이를 가능하게 할 것입니다. 그래서 저는 기술을 지지합니다.",
+    "노동에 본질적인 가치를 부여하는 사람들은 기계 사용을 반대해야 한다. 나에게 노동은 본질적인 가치가 없으며 오히려 부담으로 보인다. 일이 휴식의 전제 조건이라면 그것은 행복할 수 없다. 자발적으로 휴식에서 일이 흘러나올 때 그것은 행복할 것이다. 휴식을 죄라고 부를 수 없다.",
+    "나는 희생을 옹호하지 않아. 누구도 다른 사람을 위해 살지 않기를 바라며, 한 세대가 다른 세대를 위해 자신의 삶을 바치는 것을 원하지 않아. 이러한 희생은 매우 큰 대가를 치르게 만든다 - 그들은 인간이 아닌 수준의 보상을 기대한다. 이것이 아버지들이 아들들에게 불가능한 것을 기대하게 만드는 이유입니다.",
+    "아버지가 아들을 위해 무엇을 기대하는지 알기 때문에, 아버지가 자신을 위해 살지 않는다면 아들은 어떻게 살아갈까요? 모든 아들은 잠재적인 아버지이다. 아니요, 저는 모든 사람이 자신을 위해 살아가길 원합니다 - 자신의 행복과 평온함을 위해.",
+    "아버지가 행복할 때 자녀를 위해 훨씬 더 많은 일을 쉽게 해낼 수 있어요. 그것은 아버지의 행복에서 비롯되기 때문이에요. 그러면 희생도 포기도 없다; 아버지로서의 자연스러운 행동은 행복한 아버지라는 본질에서 비롯된다. 그는 아들에게 비인간적인 기대를 하지 않으며, 기대의 압박이 없는 곳에서는 아들이 아들로서 자연스럽게 기대가 이루어진다.",
+    "간단히 말해, 나는 각자에게 이기적인 삶을 가르치는 거야. 자비로운 가르침은 인간에게 자살만 가르쳤고, 자살을 생각하는 사람은 항상 살인을 꿈꾸는 법이다. 불행한 돼지들은 슬픔을 다른 사람들과 함께 나눕니다.",
+    "현재를 미래에 희생하는 것에 대해서도 반대합니다. 왜냐하면 현재가 항상 존재하기 때문입니다. 완전히 그곳에 산다면 미래는 그곳에서 탄생할 것이고, 그것이 도래하면 역시 현재가 될 것이다. 현재를 미래에 희생하는 습관이 있는 사람에게는 미래가 오지 않으며, 오는 것이라도 다시 현재를 위해 희생되기 때문에 진정한 미래는 찾아오지 않는다.",
+    "마지막으로, 왜 나도 다른 사람들과 미래를 위해 일하는지 물어보는 거야? 먼저, 나는 일하지 않아요. 내가 하는 모든 행동은 휴식 상태에서 흘러나온다. 나는 수영하지 않고 그냥 떠 있을 뿐이야. 누구도 다른 사람을 위해 무언가 할 수 없지만, 내가 아닌 다른 이유로 다른 사람에게 일이 생긴다면, 그것은 또 다른 영역이며 그곳에서도 나는 행동자가 아니다.",
+    "미래에 관해서는 - 내게 있어서 현재가 전부입니다. 과거의 순간들도 현재와 같아요 - 이미 지나간 것들이죠. 그리고 미래 또한 현재가 될 것이다 - 아직 오지 않은 현재이다. 삶은 언제나 지금 여기에 있어서 과거와 미래에 대해 걱정하지 않아요. 놀랍게도, 과거와 미래에 대해 걱정을 멈추자마자 그들이 나를 걱정하기 시작했다는 것이 놀랍다.",
+    "모든 분들께 인사드립니다."
+  ],
+  "fullAudio": "audio/1970-75/script_all.mp3",
+  "originalText": "Love.\n\nRest is the supreme goal, work is the medium.\nTotal relaxation, with complete freedom from effort,\nis the supreme goal.\nThen life is a play, and then even effort becomes play.\n\nPoetry, philosophy, religion are the fruits of repose.\nThis has not been available to everyone,\nbut technology and science will make it so\nin the near future.\nThat is why I am in favor of technology.\n\nThose who attribute intrinsic value to labor oppose the\nuse of machines - they have to.\nFor me, labor has no such intrinsic value: on the contrary,\nI see it as a burden.\nAs long as work is a prerequisite for rest\nit cannot be blissful.\nWhen work flows out of a state of rest voluntarily,\nthen it is blissful.\nSo I cannot call rest a sin.\n\nNor do I support sacrifice\nI do not want anyone to live for anybody else, or one\ngeneration to sacrifice itself for another.\nSuch sacrifices turn out to be very costly - those who\nmake them expect an inhuman return.\nThis is why fathers expect the impossible\nfrom their sons.\n\nIf each father lives for his son who will live for himself?\nFor every son is a potential father.\nNo, I want everyone to live for himself -\nfor his own happiness, his own state of rest.\n\nWhen a father is happy he does much more for his sor\nand easily, because it comes out of his happiness.\nThen there is neither sacrifice nor renunciation;\nwhat he does comes naturally out of his being a father -\nand a happy father at that.\nThen he has no inhuman expectations of his son,\nand where there is no pressure from expectations,\nexpectations are fulfilled - out of the son being a son.\n\nIn short, I teach each person to be selfish.\nAltruistic teachings have taught man nothing but suicide,\nand a suicidal man is always homicidal.\nThe unhappy sow their sorrow amongst others.\n\nI am also against the sacrifice of the present for the\nfuture, because what is is always present.\nIf you live in it totally the future will be born out of it -\nand when it comes it too will be the present.\nFor he who has the habit of sacrificing the present for the\nfuture, the future never comes because whatever comes is\nagain always sacrificed for that which has not yet come.\n\nFinally, you ask why I too work for others\nand for the future.\nFirst of all, I do not work.\nWhatever I do flows out of my state of rest.\nI do not swim, I just float.\nNo one can ever do anything for another\nbut if something happens to others out of what I am,\nthat is something else,\nand there too I am not the doer.\n\nAs for the future -\nfor me, the present is everything.\nAnd the past too is also a present - that has passed away.\nAnd the future too - that is a present that is yet to come.\nLife is always here and now\nso I do not bother about past and future.\nAnd it is amazing that ever since I stopped worrying\nabout them they have begun to worry about me!\n\nMy regards to all there.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 75,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0807 2.JPG",
+        "side": "left",
+        "printedPage": 64
+      },
+      {
+        "file": "IMG_0807 2.JPG",
+        "side": "right",
+        "printedPage": 65
+      },
+      {
+        "file": "IMG_0808 2.JPG",
+        "side": "left",
+        "printedPage": 66
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

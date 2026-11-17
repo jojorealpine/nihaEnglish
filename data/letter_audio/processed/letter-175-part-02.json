@@ -1,0 +1,51 @@
+{
+  "key": "letter-175-part-02",
+  "number": 175,
+  "generationId": "01a1e8e6-13a2-7b85-a028-a5146c5674b4",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "The identification with life creates the gap.",
+      "path": "audio/1971-175/11.mp3",
+      "start": 0.0,
+      "end": 2.889796
+    },
+    {
+      "index": 11,
+      "text": "And death has nothing to do with the future, it is always here and now.",
+      "path": "audio/1971-175/12.mp3",
+      "start": 4.126009,
+      "end": 8.834330999999999
+    },
+    {
+      "index": 12,
+      "text": "Every moment, it is.",
+      "path": "audio/1971-175/13.mp3",
+      "start": 10.131406,
+      "end": 12.056189999999999
+    },
+    {
+      "index": 13,
+      "text": "And when one ceases to regard it as something outside oneself and, so to speak, draws it into his consciousness and assimilates the idea of it, one is completely changed.",
+      "path": "audio/1971-175/14.mp3",
+      "start": 13.295465,
+      "end": 24.802676
+    },
+    {
+      "index": 14,
+      "text": "He is in all truth born again.",
+      "path": "audio/1971-175/15.mp3",
+      "start": 26.528140999999998,
+      "end": 28.922177
+    },
+    {
+      "index": 15,
+      "text": "And then there is no fear because then there is no gap.",
+      "path": "audio/1971-175/16.mp3",
+      "start": 30.797143,
+      "end": 34.69
+    }
+  ]
+}

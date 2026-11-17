@@ -1,0 +1,44 @@
+{
+  "key": "letter-283-part-02",
+  "number": 283,
+  "generationId": "01a1e901-c4cd-757a-aa20-817bba8cba8f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "That is the way of the mind and its nature.",
+      "path": "audio/1971-283/11.mp3",
+      "start": 0.0,
+      "end": 3.13771
+    },
+    {
+      "index": 11,
+      "text": "Please do not fight with it nor be identified with it.",
+      "path": "audio/1971-283/12.mp3",
+      "start": 4.625964,
+      "end": 7.93712
+    },
+    {
+      "index": 12,
+      "text": "These are the obvious alternatives, but both are false, and aspects of the same coin.",
+      "path": "audio/1971-283/13.mp3",
+      "start": 9.432698,
+      "end": 15.110180999999999
+    },
+    {
+      "index": 13,
+      "text": "You will have to walk in between.",
+      "path": "audio/1971-283/14.mp3",
+      "start": 16.602268,
+      "end": 18.656327
+    },
+    {
+      "index": 14,
+      "text": "Come and be with me, and you will understand.",
+      "path": "audio/1971-283/15.mp3",
+      "start": 20.113899999999997,
+      "end": 23.12
+    }
+  ]
+}

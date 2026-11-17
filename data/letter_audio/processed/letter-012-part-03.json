@@ -1,0 +1,37 @@
+{
+  "key": "letter-012-part-03",
+  "number": 12,
+  "generationId": "01a1e4e9-27af-73c1-bcd5-eac3352cfa89",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 20,
+      "text": "What was I!",
+      "path": "audio/1963-12/21.mp3",
+      "start": 0.0,
+      "end": 0.866349
+    },
+    {
+      "index": 21,
+      "text": "What have I become!",
+      "path": "audio/1963-12/22.mp3",
+      "start": 2.548934,
+      "end": 3.8071200000000003
+    },
+    {
+      "index": 22,
+      "text": "Compared to the results all the effort seems negligible.",
+      "path": "audio/1963-12/23.mp3",
+      "start": 5.2953969999999995,
+      "end": 9.134694
+    },
+    {
+      "index": 23,
+      "text": "My love to all.",
+      "path": "audio/1963-12/24.mp3",
+      "start": 10.657483000000001,
+      "end": 12.96
+    }
+  ]
+}

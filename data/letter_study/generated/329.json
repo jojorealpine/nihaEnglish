@@ -1,0 +1,195 @@
+{
+  "sourceHash": "5ac73068c024e51e8f614533b83d250e255b22d8957760311eef1a15abe01e84",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "reviewed-grammar",
+      "notes": {
+        "korean": "모든 사람은 의식하든 하지 않든 그것을 갈망한다.",
+        "explanation": "문장은 모든 인간이 어떤 것을 갈망한다는 내용을 전달하며, 그 갈망이 의식적이든 무의식적이든 상관없이 적용된다는 의미를 담고 있다.",
+        "grammar": "「long for」는 여기서 간절히 바라다라는 뜻의 동사구이며, 복수 주어 all men에 현재형 long이 이어집니다. knowingly와 unknowingly는 or로 연결된 부사입니다.",
+        "vocabulary": [
+          {
+            "word": "Knowingly",
+            "meaning": "의식적으로",
+            "note": "누군가가 의도적으로 행동하거나 느끼는 것을 나타낸다."
+          },
+          {
+            "word": "Unknowingly",
+            "meaning": "무의식적으로",
+            "note": "누군가가 의도하지 않았지만 그렇게 행동하거나 느끼는 것을 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "parallel",
+      "notes": {
+        "korean": "단지 몇몇만 점진적으로 따르게 된다.",
+        "explanation": "문장은 매우 제한된 수의 사람들이 특정한 것을 따르는 과정을 설명하며, 그 중에서도 점점 더 깊이 따르는 사람들이 더욱 적다는 의미를 담고 있다.",
+        "grammar": "「a few」와 「fewer」는 각각 소수의 사람들과 그보다 더 적은 사람들을 가리키며 주어 역할을 합니다. 「enter」와 「follow」는 and로 연결된 두 절의 현재형 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "progressively",
+            "meaning": "점진적으로",
+            "note": "시간이 지남에 따라 점차적으로 행동하거나 발전한다는 의미."
+          },
+          {
+            "word": "follow",
+            "meaning": "따르다",
+            "note": "특정한 가르침이나 길을 계속해서 따르는 행위를 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "마치 구석에 가까이 있다고 할 수 있어요.",
+        "explanation": "해당 문장은 목표나 방법이 가까이에 있으며, 쉽게 찾을 수 있다는 의미를 전달합니다. '마치 구석에 가까이 있다'는 표현을 통해 접근 가능성과 가까움을 강조하고 있습니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "corner",
+            "meaning": "구석",
+            "note": "문장에서 목표나 방법이 가까이에 있다는 것을 비유적으로 표현하는 데 사용되었습니다."
+          },
+          {
+            "word": "speak",
+            "meaning": "말하다",
+            "note": "여기서는 비유적인 표현으로 사용되어 '마치 ~처럼'이라는 의미를 전달합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "네, 방법은 있지만 많은 사람들이 그것을 찾을 의지가 부족하다.",
+        "explanation": "문장은 의지의 중요성을 강조하며, 모든 사람이 특정 방법이나 길을 찾을 수 있는 잠재력이 있지만, 실제로 그것을 추구하는 의지가 부족하다는 의미를 담고 있다.",
+        "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "lacking",
+            "meaning": "부족한",
+            "note": "여기서는 의지가 부족하다는 의미로 사용되었다."
+          },
+          {
+            "word": "find",
+            "meaning": "찾다",
+            "note": "특정 방법이나 길을 탐색하거나 발견하려는 행위를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "전체적인 존재로 그것을 따르는 이들은 그 길이 목표 자체임을 깨닫는다.",
+        "explanation": "전체적인 존재로 목표나 길을 따르는 사람들은 그 과정 자체가 궁극적인 목표임을 이해하게 된다.",
+        "grammar": "동사 「follow」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "follow",
+            "meaning": "따르다",
+            "note": "여기서는 어떤 길, 원칙, 또는 목표를 전념하여 따르는 것을 의미한다."
+          },
+          {
+            "word": "realize",
+            "meaning": "깨닫다",
+            "note": "깊은 이해나 인식을 통해 그 길이 궁극적인 목표와 동일하다는 것을 인식하게 된다는 의미이다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "정말, 삶 전체는 그것을 갈망하는 것이며, 그것 없이는 도달도 없고, 번성도 없으며, 만족도 없다.",
+        "explanation": "삶의 본질적인 갈망에 대해 설명하며, 그 갈망이 없을 때 삶의 중요한 측면들이 이루어지지 않는다는 의미를 담고 있다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "flowering",
+            "meaning": "번성, 개화",
+            "note": "이 문맥에서는 삶의 번성 또는 성공을 상징한다."
+          },
+          {
+            "word": "fulfillment",
+            "meaning": "만족, 충족",
+            "note": "삶에서 얻는 만족감이나 목적의 달성을 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "그러나 대부분의 사람들이 그것을 찾지 않고, 그것을 올바르게 추구하는 사람은 더욱 적으며, 그것을 찾는 사람들 중에서도 진정한 진입은 거의 없다.",
+        "explanation": "문장은 삶의 본질적인 요소를 찾는 것이 얼마나 어려운지 강조하며, 진정한 이해와 추구가 얼마나 드문지를 설명합니다.",
+        "grammar": "동사 「seek」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "fewer",
+            "meaning": "더 적은",
+            "note": "비교를 나타내며, 이전 범주에 비해 상대적으로 적은 수를 의미합니다."
+          },
+          {
+            "word": "rightly",
+            "meaning": "올바르게",
+            "note": "방법이나 태도가 적절하고 정확하게 이루어짐을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

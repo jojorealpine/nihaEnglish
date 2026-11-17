@@ -1,0 +1,58 @@
+{
+  "key": "letter-189-part-01",
+  "number": 189,
+  "generationId": "01a1e8e9-b906-7222-8809-9c299f2b437c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-189/01.mp3",
+      "start": 0.0,
+      "end": 0.732086
+    },
+    {
+      "index": 1,
+      "text": "With thought the mind has boundaries but without thought the mind is just infinite space.",
+      "path": "audio/1971-189/02.mp3",
+      "start": 2.065714,
+      "end": 6.583764
+    },
+    {
+      "index": 2,
+      "text": "That is why in thoughtless awareness one stops being a drop and becomes oceanic.",
+      "path": "audio/1971-189/03.mp3",
+      "start": 8.019297,
+      "end": 12.915351
+    },
+    {
+      "index": 3,
+      "text": "And then there is great energy.",
+      "path": "audio/1971-189/04.mp3",
+      "start": 14.374943,
+      "end": 16.385351
+    },
+    {
+      "index": 4,
+      "text": "This energy wipes out everything which is dead.",
+      "path": "audio/1971-189/05.mp3",
+      "start": 17.913265,
+      "end": 20.39678
+    },
+    {
+      "index": 5,
+      "text": "It wipes out the whole karmic past - and with no effort at all.",
+      "path": "audio/1971-189/06.mp3",
+      "start": 21.949433,
+      "end": 26.105669000000002
+    },
+    {
+      "index": 6,
+      "text": "The greater absorbs the lesser and remains untouched.",
+      "path": "audio/1971-189/07.mp3",
+      "start": 27.569274,
+      "end": 31.37
+    }
+  ]
+}

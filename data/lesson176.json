@@ -1,0 +1,696 @@
+{
+  "id": "1971-176",
+  "title": "1971 / 176",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "necessary",
+      "meaning": "필수적인",
+      "note": "필수적인 요소임을 강조하며, 부족함을 나타냄",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "philosopher",
+      "meaning": "철학자",
+      "note": "키르케고르의 비유에서 삶의 실천을 놓치는 이론적인 태도를 상징",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "mentioned",
+      "meaning": "언급하다",
+      "note": "키르케고르의 특정 철학자를 지칭하며 문맥을 구체화",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "constructed",
+      "meaning": "짓다, 건설하다",
+      "note": "여기서는 건물이나 구조물을 만드는 행위를 의미합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "including",
+      "meaning": "포함하여",
+      "note": "자신도 다른 사람들과 함께 포함된다는 의미를 전달합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Meditation",
+      "meaning": "명상",
+      "note": "정신적 평화와 깨달음을 얻기 위한 정신 집중 기법.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thinking",
+      "meaning": "생각",
+      "note": "머리로 하는 사고 과정이나 고민.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "daily",
+      "meaning": "매일",
+      "note": "매일 꾸준히 수행하거나 실천해야 함을 강조합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "moment",
+      "meaning": "순간",
+      "note": "현재 순간에 집중하고 그 순간을 소중히 여기라는 의미입니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "distinctions",
+      "meaning": "구분",
+      "note": "여기서는 마음에서 만들어진 개념적인 차이를 의미한다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "speculative",
+      "meaning": "추상적인",
+      "note": "이론적이고 실제적인 경험과는 거리가 먼 개념적인 사고를 가리킨다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "existential",
+      "meaning": "실존적인",
+      "note": "현실 세계에서 직접 경험하고 실천하는 것을 의미한다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "everyday",
+      "meaning": "일상의",
+      "note": "일반적인 일상 활동이나 상황을 가리킨다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "totally",
+      "meaning": "완전히",
+      "note": "전체적으로, 전적으로라는 의미로 사용되어 일상 생활을 완벽하게 포용한다는 뉘앙스를 담고 있다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "truth",
+      "meaning": "진리",
+      "note": "진실은 본질적으로 올바른 상태나 사실을 의미한다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "people",
+      "meaning": "사람들",
+      "note": "일반적인 인간 집단이나 개인을 가리킨다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "asked",
+      "meaning": "묻다",
+      "note": "누군가에게 질문을 던지는 행위를 나타냅니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "replies",
+      "meaning": "대답하다",
+      "note": "질문에 대한 답변을 제공하는 행위를 나타냅니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "hungry",
+      "meaning": "배고픈",
+      "note": "기본적인 생리적 욕구를 나타내며, 음식 섭취의 필요성을 강조한다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thirsty",
+      "meaning": "목마른자",
+      "note": "수분 섭취의 필요성을 나타내며, 목마름을 해결하기 위한 행동을 설명한다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "means",
+      "meaning": "의미하다",
+      "note": "이 단어는 어떤 상황이나 문맥에서의 의도나 설명된 내용의 핵심적인 의미를 전달한다.",
+      "sentenceIds": [
+        11,
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "wondrous",
+      "meaning": "경이로운",
+      "note": "무언가가 놀랍도록 아름답거나 놀라운 상태를 나타냄.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "mysterious",
+      "meaning": "신비로운",
+      "note": "이해하기 어려운 비밀스러움이나 미지의 요소를 가짐.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "carry",
+      "meaning": "운반하다",
+      "note": "어떤 물체를 이동시키거나 옮기는 행위를 나타냅니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "water",
+      "meaning": "물",
+      "note": "생명 유지에 필수적인 액체를 의미합니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "mean",
+      "meaning": "의미하다",
+      "note": "말이나 행동 뒤에 숨은 의도나 본질적인 내용을 전달합니다.",
+      "sentenceIds": [
+        15,
+        16
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "doomed not to live in it",
+      "meaning": "그곳에 살지 못하도록 운명지어지다",
+      "explanation": "이론만 추구하고 실제 삶의 경험을 놓치는 결과를 나타냄",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-176/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Thinking is necessary but not enough, one must know living also, otherwise one becomes like the philosopher mentioned by Soren Kierkegaard who builds a fine palace but is doomed not to live in it.",
+      "korean": "생각만으로는 부족하다. 삶을 알아야 진정한 지혜를 얻을 수 있다. 그렇지 않으면 소렌 키르케고르가 말한 철학자처럼 멋진 궁전을 짓지만 살아보지 못하는 처지가 된다.",
+      "explanation": "문장은 생각의 중요성을 인정하면서도 실제 삶의 경험 없이는 완전한 지혜를 얻을 수 없다는 메시지를 전달한다. 비유를 통해 삶을 살지 않고 이론만 추구하는 태도의 비극을 강조한다.",
+      "grammar": "동사 「becomes」는 become의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-176/02.mp3",
+      "vocabulary": [
+        {
+          "word": "necessary",
+          "meaning": "필수적인",
+          "note": "필수적인 요소임을 강조하며, 부족함을 나타냄"
+        },
+        {
+          "word": "philosopher",
+          "meaning": "철학자",
+          "note": "키르케고르의 비유에서 삶의 실천을 놓치는 이론적인 태도를 상징"
+        },
+        {
+          "word": "mentioned",
+          "meaning": "언급하다",
+          "note": "키르케고르의 특정 철학자를 지칭하며 문맥을 구체화"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "doomed not to live in it",
+          "meaning": "그곳에 살지 못하도록 운명지어지다",
+          "explanation": "이론만 추구하고 실제 삶의 경험을 놓치는 결과를 나타냄"
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "He has a shed for himself next door to what he has constructed for others, including himself, to look at!",
+      "korean": "그는 옆집에 자신을 위한 작은 창고를 두고 있으며, 다른 사람들을 위해 그리고 자신도 포함해서 만든 아름다운 건물들을 바라보게 되어 있다!",
+      "explanation": "그 사람이 다른 사람들을 위해 만든 아름다운 건물 옆에 자신을 위한 작은 창고를 가지고 있다는 의미입니다. 이는 자신의 필요와 타인의 필요 사이의 간극을 시사합니다.",
+      "grammar": "동사 「has」는 have의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-176/03.mp3",
+      "vocabulary": [
+        {
+          "word": "constructed",
+          "meaning": "짓다, 건설하다",
+          "note": "여기서는 건물이나 구조물을 만드는 행위를 의미합니다."
+        },
+        {
+          "word": "including",
+          "meaning": "포함하여",
+          "note": "자신도 다른 사람들과 함께 포함된다는 의미를 전달합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Meditation is not thinking, but living.",
+      "korean": "명상은 생각하는 것이 아니라 살아가는 것이다.",
+      "explanation": "명상은 단순히 마음을 비우거나 생각을 멈추는 것이 아니라, 더욱 깊이 있는 인식과 삶의 방식으로 이해되어야 한다는 의미입니다.",
+      "grammar": "「is not thinking」는 be동사 + -ing로 만든 현재진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+      "audio": "audio/1971-176/04.mp3",
+      "vocabulary": [
+        {
+          "word": "Meditation",
+          "meaning": "명상",
+          "note": "정신적 평화와 깨달음을 얻기 위한 정신 집중 기법."
+        },
+        {
+          "word": "thinking",
+          "meaning": "생각",
+          "note": "머리로 하는 사고 과정이나 고민."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Live it daily, moment to moment; that is, live in it or let it live in you.",
+      "korean": "매일매일 순간 순간 살아가세요; 즉, 그것 속에서 살아가거나 그것이 당신 안에서 살아가게 하세요.",
+      "explanation": "매일 꾸준히 수행하거나 그 순간에 집중하여 삶을 살아가라는 의미입니다.",
+      "grammar": "동사원형 「live」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-176/05.mp3",
+      "vocabulary": [
+        {
+          "word": "daily",
+          "meaning": "매일",
+          "note": "매일 꾸준히 수행하거나 실천해야 함을 강조합니다."
+        },
+        {
+          "word": "moment",
+          "meaning": "순간",
+          "note": "현재 순간에 집중하고 그 순간을 소중히 여기라는 의미입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "It is not something other-worldly either, because all such distinctions are from the mind: they are speculative and not existential, and meditation is existential.",
+      "korean": "구분은 마음에서 비롯된 것이므로, 명상은 실제적인 것이지 상상 속의 것이 아니다.",
+      "explanation": "명상은 현실 세계에 기반한 실천이며, 추상적인 사고나 이론적인 구분과는 다르다는 의미를 담고 있다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-176/06.mp3",
+      "vocabulary": [
+        {
+          "word": "distinctions",
+          "meaning": "구분",
+          "note": "여기서는 마음에서 만들어진 개념적인 차이를 의미한다."
+        },
+        {
+          "word": "speculative",
+          "meaning": "추상적인",
+          "note": "이론적이고 실제적인 경험과는 거리가 먼 개념적인 사고를 가리킨다."
+        },
+        {
+          "word": "existential",
+          "meaning": "실존적인",
+          "note": "현실 세계에서 직접 경험하고 실천하는 것을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "It is no more than one's everyday life lived totally.",
+      "korean": "완전히 일상 생활 그대로의 것이다.",
+      "explanation": "일상 생활을 완전히 포용하고 실천하는 것을 의미한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-176/07.mp3",
+      "vocabulary": [
+        {
+          "word": "everyday",
+          "meaning": "일상의",
+          "note": "일반적인 일상 활동이나 상황을 가리킨다."
+        },
+        {
+          "word": "totally",
+          "meaning": "완전히",
+          "note": "전체적으로, 전적으로라는 의미로 사용되어 일상 생활을 완벽하게 포용한다는 뉘앙스를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "When Mencius says: The truth is near and people seek it far away, he means this.",
+      "korean": "멘토이가 말하길, 진리가 가까이 있음에도 사람들이 그것을 멀리 찾는다고 할 때, 그 의미는 이러하다.",
+      "explanation": "멘토이가 진리의 가까움과 사람들의 멀리 찾는 경향 사이의 대조를 설명하고 있다.",
+      "grammar": "동사 「means」는 mean의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-176/08.mp3",
+      "vocabulary": [
+        {
+          "word": "truth",
+          "meaning": "진리",
+          "note": "진실은 본질적으로 올바른 상태나 사실을 의미한다."
+        },
+        {
+          "word": "people",
+          "meaning": "사람들",
+          "note": "일반적인 인간 집단이나 개인을 가리킨다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "When Tokusan is asked about it he replies:",
+      "korean": "토쿠스안이 그것에 대해 묻자 대답하기를:",
+      "explanation": "토쿠스안이 질문에 대한 답변을 제공하는 상황을 설명합니다.",
+      "grammar": "동사 「replies」는 reply의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-176/09.mp3",
+      "vocabulary": [
+        {
+          "word": "asked",
+          "meaning": "묻다",
+          "note": "누군가에게 질문을 던지는 행위를 나타냅니다."
+        },
+        {
+          "word": "replies",
+          "meaning": "대답하다",
+          "note": "질문에 대한 답변을 제공하는 행위를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "When you are hungry you eat, when you are thirsty you drink, and when you meet a friend you greet him.",
+      "korean": "배고플 때는 먹고, 목마를 때는 마시며, 친구를 만났을 때는 인사한다.",
+      "explanation": "기본적인 욕구 충족 행동과 사회적 상호작용의 예시를 통해 자연스러운 행동 패턴을 설명한다.",
+      "grammar": "동사 「eat」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1971-176/10.mp3",
+      "vocabulary": [
+        {
+          "word": "hungry",
+          "meaning": "배고픈",
+          "note": "기본적인 생리적 욕구를 나타내며, 음식 섭취의 필요성을 강조한다."
+        },
+        {
+          "word": "thirsty",
+          "meaning": "목마른자",
+          "note": "수분 섭취의 필요성을 나타내며, 목마름을 해결하기 위한 행동을 설명한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "He means this.",
+      "korean": "그는 이렇게 말하고 있다.",
+      "explanation": "문장에서 언급된 내용을 직접적으로 전달하는 표현으로, 'means'는 특정 상황이나 문맥에서의 의미나 의도를 설명한다.",
+      "grammar": "동사 「means」는 mean의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-176/11.mp3",
+      "vocabulary": [
+        {
+          "word": "means",
+          "meaning": "의미하다",
+          "note": "이 단어는 어떤 상황이나 문맥에서의 의도나 설명된 내용의 핵심적인 의미를 전달한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "Ho Koji sings: How wondrous this, how mysterious!",
+      "korean": "호 코지로 노래해: 얼마나 경이롭고 신비로운가!",
+      "explanation": "호 코지로가 노래하며 경이로움과 신비로움을 표현하고 있다.",
+      "grammar": "「sings」는 sing의 3인칭 단수 현재형입니다. 인용된 「How wondrous」와 「how mysterious」는 how + 형용사로 놀라움을 나타내는 감탄 표현입니다.",
+      "audio": "audio/1971-176/12.mp3",
+      "vocabulary": [
+        {
+          "word": "wondrous",
+          "meaning": "경이로운",
+          "note": "무언가가 놀랍도록 아름답거나 놀라운 상태를 나타냄."
+        },
+        {
+          "word": "mysterious",
+          "meaning": "신비로운",
+          "note": "이해하기 어려운 비밀스러움이나 미지의 요소를 가짐."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "I carry fuel, I draw water.",
+      "korean": "연료를 운반하고 물을 길어온다.",
+      "explanation": "연료를 운반하고 물을 얻기 위해 노력하거나 행동한다는 의미입니다.",
+      "grammar": "동사 「draw」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1971-176/13.mp3",
+      "vocabulary": [
+        {
+          "word": "carry",
+          "meaning": "운반하다",
+          "note": "어떤 물체를 이동시키거나 옮기는 행위를 나타냅니다."
+        },
+        {
+          "word": "water",
+          "meaning": "물",
+          "note": "생명 유지에 필수적인 액체를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "He also means this.",
+      "korean": "그는 또한 이것을 의미한다.",
+      "explanation": "문장은 누군가가 특정 개념이나 상황을 표현하거나 나타내는 것을 설명한다.",
+      "grammar": "동사 「means」는 mean의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-176/14.mp3",
+      "vocabulary": [
+        {
+          "word": "means",
+          "meaning": "의미하다",
+          "note": "어떤 개념이나 상황을 표현하거나 나타내는 것을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "And when you are near me whatsoever I may say I always mean this.",
+      "korean": "그리고 내 곁에 있을 때, 내가 무엇을 말하든 항상 이것을 의미해.",
+      "explanation": "주어(당신)가 화자(그/그녀)와 가까이 있을 때, 화자의 모든 말에는 특정한 의미(이것)가 내재되어 있다는 의미입니다.",
+      "grammar": "「may say」에서 조동사 may 뒤에 동사원형 「say」가 옵니다. may은 문맥에 따라 가능성·허락 등을 나타냅니다.",
+      "audio": "audio/1971-176/15.mp3",
+      "vocabulary": [
+        {
+          "word": "mean",
+          "meaning": "의미하다",
+          "note": "말이나 행동 뒤에 숨은 의도나 본질적인 내용을 전달합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "Or I may not say anything - but then too I always mean this.",
+      "korean": "말씀하지 않더라도 항상 이런 뜻입니다.",
+      "explanation": "주어진 문장에서 화자가 말하지 않더라도 자신의 의도나 의미가 변함없이 유지된다는 것을 강조합니다.",
+      "grammar": "「may not say」에서 조동사 may 뒤에 동사원형 「say」가 옵니다. may은 문맥에 따라 가능성·허락 등을 나타냅니다.",
+      "audio": "audio/1971-176/16.mp3",
+      "vocabulary": [
+        {
+          "word": "mean",
+          "meaning": "의미하다",
+          "note": "여기서는 화자의 의도나 숨겨진 메시지를 전달하는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "생각만으로는 부족하다. 삶을 알아야 진정한 지혜를 얻을 수 있다. 그렇지 않으면 소렌 키르케고르가 말한 철학자처럼 멋진 궁전을 짓지만 살아보지 못하는 처지가 된다. 그는 옆집에 자신을 위한 작은 창고를 두고 있으며, 다른 사람들을 위해 그리고 자신도 포함해서 만든 아름다운 건물들을 바라보게 되어 있다! 명상은 생각하는 것이 아니라 살아가는 것이다. 매일매일 순간 순간 살아가세요; 즉, 그것 속에서 살아가거나 그것이 당신 안에서 살아가게 하세요. 구분은 마음에서 비롯된 것이므로, 명상은 실제적인 것이지 상상 속의 것이 아니다. 완전히 일상 생활 그대로의 것이다.",
+    "멘토이가 말하길, 진리가 가까이 있음에도 사람들이 그것을 멀리 찾는다고 할 때, 그 의미는 이러하다. 토쿠스안이 그것에 대해 묻자 대답하기를:",
+    "배고플 때는 먹고, 목마를 때는 마시며, 친구를 만났을 때는 인사한다. 그는 이렇게 말하고 있다.",
+    "호 코지로 노래해: 얼마나 경이롭고 신비로운가! 연료를 운반하고 물을 길어온다. 그는 또한 이것을 의미한다. 그리고 내 곁에 있을 때, 내가 무엇을 말하든 항상 이것을 의미해. 말씀하지 않더라도 항상 이런 뜻입니다."
+  ],
+  "fullAudio": "audio/1971-176/script_all.mp3",
+  "originalText": "Love.\n\nThinking is necessary but not enough,\none must know living also,\notherwise one becomes like the philosopher\nmentioned by Soren Kierkegaard\nwho builds a fine palace\nbut is doomed not to live in it.\nHe has a shed for himself next door to what\nhe has constructed for others,\nincluding himself, to look at!\nMeditation is not thinking, but living.\nLive it daily, moment to moment;\nthat is, live in it or let it live in you.\nIt is not something other-worldly either,\nbecause all such distinctions are from the mind:\nthey are speculative and not existential,\nand meditation is existential.\nIt is no more than one's everyday life lived totally.\n\nWhen Mencius says: The truth is near\nand people seek it far away,\nhe means this.\nWhen Tokusan is asked about it he replies:\n\nWhen you are hungry you eat,\nwhen you are thirsty you drink,\nand when you meet a friend you greet him.\nHe means this.\n\nHo Koji sings: How wondrous this, how mysterious!\nI carry fuel, I draw water.\nHe also means this.\nAnd when you are near me\nwhatsoever I may say I always mean this.\nOr I may not say anything -\nbut then too I always mean this.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 176,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0843 2.JPG",
+        "side": "right",
+        "printedPage": 137
+      },
+      {
+        "file": "IMG_0844 2.JPG",
+        "side": "left",
+        "printedPage": 138
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

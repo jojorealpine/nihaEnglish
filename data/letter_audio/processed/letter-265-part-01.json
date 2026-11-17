@@ -1,0 +1,79 @@
+{
+  "key": "letter-265-part-01",
+  "number": 265,
+  "generationId": "01a1e8fd-c598-78bb-8d5c-315c6e8c42ca",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-265/01.mp3",
+      "start": 0.0,
+      "end": 0.604807
+    },
+    {
+      "index": 1,
+      "text": "Be empty and you will know.",
+      "path": "audio/1971-265/02.mp3",
+      "start": 1.944989,
+      "end": 3.7081630000000003
+    },
+    {
+      "index": 2,
+      "text": "Be empty and you will be the mirror.",
+      "path": "audio/1971-265/03.mp3",
+      "start": 5.0206349999999995,
+      "end": 7.030839
+    },
+    {
+      "index": 3,
+      "text": "Only total nothingness is capable of knowing all!",
+      "path": "audio/1971-265/04.mp3",
+      "start": 8.360385,
+      "end": 12.019433
+    },
+    {
+      "index": 4,
+      "text": "I have heard that the nun Chiyono studied for years and meditated for years on the ultimate questions of existence but was unable to find the light.",
+      "path": "audio/1971-265/05.mp3",
+      "start": 13.362948000000001,
+      "end": 21.791882
+    },
+    {
+      "index": 5,
+      "text": "The thinking was filling her so much that she could not be a passage for the divine.",
+      "path": "audio/1971-265/06.mp3",
+      "start": 23.314035999999998,
+      "end": 28.574762
+    },
+    {
+      "index": 6,
+      "text": "She was so filled with herself that she could not be a host to the divine guest, and the more she longed for enlightenment the further off it was.",
+      "path": "audio/1971-265/07.mp3",
+      "start": 30.061315,
+      "end": 39.285396999999996
+    },
+    {
+      "index": 7,
+      "text": "But one moonlit night she was carrying an old pail filled with water - and the thing happened!",
+      "path": "audio/1971-265/08.mp3",
+      "start": 40.800363000000004,
+      "end": 47.37161
+    },
+    {
+      "index": 8,
+      "text": "She was watching the full moon reflected in her pail of water when the bamboo strip that held the pail staves broke.",
+      "path": "audio/1971-265/09.mp3",
+      "start": 48.776054,
+      "end": 56.491315
+    },
+    {
+      "index": 9,
+      "text": "The pail fell all apart, the water ran out, the moon's reflection disappeared - and with it Chiyono herself disappeared.",
+      "path": "audio/1971-265/10.mp3",
+      "start": 58.055170000000004,
+      "end": 69.33
+    }
+  ]
+}

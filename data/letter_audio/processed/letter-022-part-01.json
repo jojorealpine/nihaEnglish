@@ -1,0 +1,65 @@
+{
+  "key": "letter-022-part-01",
+  "number": 22,
+  "generationId": "01a1e4ea-d8ac-7303-92db-2f626725574c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1965-22/01.mp3",
+      "start": 0.0,
+      "end": 0.730204
+    },
+    {
+      "index": 1,
+      "text": "I have only just arrived here, the train was five hours late.",
+      "path": "audio/1965-22/02.mp3",
+      "start": 2.0172559999999997,
+      "end": 5.6842630000000005
+    },
+    {
+      "index": 2,
+      "text": "You wanted me to write as soon as I got here so I am doing so.",
+      "path": "audio/1965-22/03.mp3",
+      "start": 7.04932,
+      "end": 10.574511999999999
+    },
+    {
+      "index": 3,
+      "text": "Throughout the journey I thought of you and of the tears falling from your eyes.",
+      "path": "audio/1965-22/04.mp3",
+      "start": 12.015034,
+      "end": 16.171338000000002
+    },
+    {
+      "index": 4,
+      "text": "Nothing in the world is more sacred than tears of love and joy.",
+      "path": "audio/1965-22/05.mp3",
+      "start": 17.465964,
+      "end": 21.857029
+    },
+    {
+      "index": 5,
+      "text": "Such tears, so pure, are not of this world.",
+      "path": "audio/1965-22/06.mp3",
+      "start": 23.329387999999998,
+      "end": 26.677868
+    },
+    {
+      "index": 6,
+      "text": "Though part of the body, they express something which is not.",
+      "path": "audio/1965-22/07.mp3",
+      "start": 28.320045,
+      "end": 32.046236
+    },
+    {
+      "index": 7,
+      "text": "Whatever can I give you in return?",
+      "path": "audio/1965-22/08.mp3",
+      "start": 33.560907,
+      "end": 35.71
+    }
+  ]
+}

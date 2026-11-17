@@ -1,0 +1,79 @@
+{
+  "key": "letter-193-part-01",
+  "number": 193,
+  "generationId": "01a1e8ea-97f7-71cc-afcc-cd42912eb383",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-193/01.mp3",
+      "start": 0.0,
+      "end": 0.679864
+    },
+    {
+      "index": 1,
+      "text": "Meditation does not require any application of the mind or use of effort.",
+      "path": "audio/1971-193/02.mp3",
+      "start": 1.9807709999999998,
+      "end": 6.023628
+    },
+    {
+      "index": 2,
+      "text": "It descends upon you as effortlessly as sleep.",
+      "path": "audio/1971-193/03.mp3",
+      "start": 7.328594,
+      "end": 10.290726
+    },
+    {
+      "index": 3,
+      "text": "You cannot try to sleep, nor can you try to meditate.",
+      "path": "audio/1971-193/04.mp3",
+      "start": 11.622993000000001,
+      "end": 14.718435
+    },
+    {
+      "index": 4,
+      "text": "On the contrary, every effort hinders its smooth and silent coming.",
+      "path": "audio/1971-193/05.mp3",
+      "start": 16.089615,
+      "end": 20.303878
+    },
+    {
+      "index": 5,
+      "text": "There is no place in it for action or aggression - and action is always aggressive.",
+      "path": "audio/1971-193/06.mp3",
+      "start": 21.663175,
+      "end": 26.017324000000002
+    },
+    {
+      "index": 6,
+      "text": "Meditation is passive receptivity.",
+      "path": "audio/1971-193/07.mp3",
+      "start": 27.265306,
+      "end": 29.518639
+    },
+    {
+      "index": 7,
+      "text": "Mind is aggressive, meditation is passive.",
+      "path": "audio/1971-193/08.mp3",
+      "start": 30.834376,
+      "end": 33.962177
+    },
+    {
+      "index": 8,
+      "text": "Be passive and receptive and open and vulnerable and wait.",
+      "path": "audio/1971-193/09.mp3",
+      "start": 35.269478,
+      "end": 38.967414999999995
+    },
+    {
+      "index": 9,
+      "text": "The real miracle happens through waiting.",
+      "path": "audio/1971-193/10.mp3",
+      "start": 40.337438000000006,
+      "end": 43.05
+    }
+  ]
+}

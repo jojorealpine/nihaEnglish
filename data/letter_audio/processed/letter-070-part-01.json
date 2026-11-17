@@ -1,0 +1,44 @@
+{
+  "key": "letter-070-part-01",
+  "number": 70,
+  "generationId": "01a1e629-154e-7b9d-8fbc-4518a0f97b54",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-70/01.mp3",
+      "start": 0.0,
+      "end": 0.688277
+    },
+    {
+      "index": 1,
+      "text": "Where to find truth?",
+      "path": "audio/1969-70/02.mp3",
+      "start": 2.2130609999999997,
+      "end": 3.713152
+    },
+    {
+      "index": 2,
+      "text": "Well, it has to be sought within one's own self, within one's own self within one's own self within one's own self.",
+      "path": "audio/1969-70/03.mp3",
+      "start": 5.1997729999999995,
+      "end": 13.419092999999998
+    },
+    {
+      "index": 3,
+      "text": "It is definitely there.",
+      "path": "audio/1969-70/04.mp3",
+      "start": 14.969705000000001,
+      "end": 16.686825000000002
+    },
+    {
+      "index": 4,
+      "text": "One who seeks it elsewhere loses it.",
+      "path": "audio/1969-70/05.mp3",
+      "start": 18.147029,
+      "end": 21.03
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "key": "letter-166-part-02",
+  "number": 166,
+  "generationId": "01a1e8e3-e6c4-76ce-a734-a873ac1ad1af",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "I wonder what precautions Nasrudin will take.",
+      "path": "audio/1971-166/11.mp3",
+      "start": 0.0,
+      "end": 2.573424
+    },
+    {
+      "index": 11,
+      "text": "Nasrudin looked in his knapsack and took out a coil of rope.",
+      "path": "audio/1971-166/12.mp3",
+      "start": 3.9977549999999997,
+      "end": 7.491043
+    },
+    {
+      "index": 12,
+      "text": "This he handed to his companion.",
+      "path": "audio/1971-166/13.mp3",
+      "start": 8.894694000000001,
+      "end": 10.716757
+    },
+    {
+      "index": 13,
+      "text": "Excellent, thought the companion.",
+      "path": "audio/1971-166/14.mp3",
+      "start": 12.022154,
+      "end": 13.930112999999999
+    },
+    {
+      "index": 14,
+      "text": "We will bind him up if he becomes violent.",
+      "path": "audio/1971-166/15.mp3",
+      "start": 15.230794000000001,
+      "end": 17.691905000000002
+    },
+    {
+      "index": 15,
+      "text": "The philosopher saw that Nasrudin meant: Ordinary humanity tries to find truth by methods as unsuitable as attempting to climb into the sky with a rope.",
+      "path": "audio/1971-166/16.mp3",
+      "start": 19.005305999999997,
+      "end": 29.25619
+    },
+    {
+      "index": 16,
+      "text": "Now can you remain content with the fact of Mulla Nasrudin giving the rope to his companion without any interpretation whatsoever?",
+      "path": "audio/1971-166/17.mp3",
+      "start": 30.739751,
+      "end": 38.931768999999996
+    },
+    {
+      "index": 17,
+      "text": "Remain with the fact, and you will be in meditation.",
+      "path": "audio/1971-166/18.mp3",
+      "start": 40.432653,
+      "end": 44.3
+    }
+  ]
+}

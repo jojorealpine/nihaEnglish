@@ -1,0 +1,394 @@
+{
+  "id": "1971-240",
+  "title": "1971 / 240",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "embraces",
+      "meaning": "껴안다",
+      "note": "부처와의 깊은 영적 결합이나 애정을 나타낸다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sleeping",
+      "meaning": "잠자는",
+      "note": "수면 상태를 나타내며, 이 문맥에서는 깊은 명상 상태를 의미할 수 있다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Speaking",
+      "meaning": "말하기",
+      "note": "여기서는 말하는 행위 자체를 나타내며, 의사소통이나 표현의 수단을 의미한다.",
+      "sentenceIds": [
+        3,
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "moment",
+      "meaning": "순간",
+      "note": "매우 짧은 시간 간격을 강조하며, 분리되지 않는 지속적인 상태를 나타낸다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "shadow",
+      "meaning": "그림자",
+      "note": "본체와 항상 함께하며 붙어 있는 관계를 비유적으로 표현한다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "whereabouts",
+      "meaning": "처지, 위치",
+      "note": "여기서는 부처님의 위치나 거처를 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sound",
+      "meaning": "소리",
+      "note": "이 문맥에서는 목소리를 의미하며, 내면의 목소리나 깨달음의 소리를 상징적으로 표현하고 있습니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "understand",
+      "meaning": "이해하다",
+      "note": "이 문맥에서는 「이해하다」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        6,
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "question",
+      "meaning": "질문",
+      "note": "핵심 주제를 탐구하려는 의도를 나타냅니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "raised",
+      "meaning": "제기된",
+      "note": "시간이 흐르면서도 계속해서 중요성이 유지된 질문임을 보여줍니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "answered",
+      "meaning": "대답된",
+      "note": "현재까지 해당 질문에 대한 해결책이나 답변이 없음을 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "time",
+      "meaning": "시간",
+      "note": "이 문맥에서는 「시간」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-240/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Fu Ta Shih says: Each night one embraces a Buddha while sleeping, each morning one gets up again with him.",
+      "korean": "푸타시는 말한다: 매일 밤 잠들 때마다 한 사람은 부처를 껴안고, 아침이면 다시 함께 일어난다.",
+      "explanation": "푸타시가 부처와의 깊은 연결을 강조하며, 수면 중에도 영적 결합이 유지된다는 의미를 전달한다.",
+      "grammar": "동사 「says」는 say의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-240/02.mp3",
+      "vocabulary": [
+        {
+          "word": "embraces",
+          "meaning": "껴안다",
+          "note": "부처와의 깊은 영적 결합이나 애정을 나타낸다."
+        },
+        {
+          "word": "sleeping",
+          "meaning": "잠자는",
+          "note": "수면 상태를 나타내며, 이 문맥에서는 깊은 명상 상태를 의미할 수 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Rising or sitting - both watch and follow one another Speaking or not speaking - they are in the same place.",
+      "korean": "말하든 안 하든, 그들은 같은 자리에 머물러 있다.",
+      "explanation": "Fu Ta Shih의 가르침에서 말하는 행위와 침묵하는 행위가 서로 상호작용하며 공존한다는 의미를 전달한다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-240/03.mp3",
+      "vocabulary": [
+        {
+          "word": "Speaking",
+          "meaning": "말하기",
+          "note": "여기서는 말하는 행위 자체를 나타내며, 의사소통이나 표현의 수단을 의미한다."
+        },
+        {
+          "word": "Speaking",
+          "meaning": "말하기",
+          "note": "두 번째 사용에서는 침묵과 대비되는 개념으로, 활동적인 상태를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "They never part even for a moment but are like the body and its shadow.",
+      "korean": "그들은 단 한 순간도 떨어지지 않고 몸과 그림자처럼 항상 함께한다.",
+      "explanation": "두 존재가 끊임없이 함께하며 분리되지 않는 상태를 묘사한다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-240/04.mp3",
+      "vocabulary": [
+        {
+          "word": "moment",
+          "meaning": "순간",
+          "note": "매우 짧은 시간 간격을 강조하며, 분리되지 않는 지속적인 상태를 나타낸다."
+        },
+        {
+          "word": "shadow",
+          "meaning": "그림자",
+          "note": "본체와 항상 함께하며 붙어 있는 관계를 비유적으로 표현한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "If you wish to know the Buddha's whereabouts, in the sound of your own voice there be is.",
+      "korean": "부처님의 거처를 알고 싶다면, 당신의 목소리 속에 답이 있습니다.",
+      "explanation": "부처님의 위치를 알고 싶다면, 자신의 목소리를 통해 그 답을 찾을 수 있다는 의미입니다.",
+      "grammar": "동사 「wish」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1971-240/05.mp3",
+      "vocabulary": [
+        {
+          "word": "whereabouts",
+          "meaning": "처지, 위치",
+          "note": "여기서는 부처님의 위치나 거처를 의미합니다."
+        },
+        {
+          "word": "sound",
+          "meaning": "소리",
+          "note": "이 문맥에서는 목소리를 의미하며, 내면의 목소리나 깨달음의 소리를 상징적으로 표현하고 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Do you understand this?",
+      "korean": "이해하십니까?",
+      "explanation": "문장의 의미: 상대방이 주어진 내용을 이해하고 있는지 묻는 질문입니다.",
+      "grammar": "조동사 「Do」가 본동사 「understand」와 함께 쓰였습니다. 의문문을 만들거나 동작을 강조할 때 do/does/did 뒤의 본동사는 원형을 유지합니다.",
+      "audio": "audio/1971-240/06.mp3",
+      "vocabulary": [
+        {
+          "word": "understand",
+          "meaning": "이해하다",
+          "note": "이 문맥에서는 「이해하다」의 뜻으로 읽습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "If not now - when will you understand?",
+      "korean": "지금 이해하지 못한다면 언제 이해하게 될까요?",
+      "explanation": "현재 시점에서 이해하지 못한다면 미래의 시점을 묻는 질문입니다.",
+      "grammar": "「will you understand」에서 조동사 will 뒤에 동사원형 「understand」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+      "audio": "audio/1971-240/07.mp3",
+      "vocabulary": [
+        {
+          "word": "understand",
+          "meaning": "이해하다",
+          "note": "이 문맥에서는 개념이나 상황을 파악하거나 인지하는 능력을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "And this is not being asked for the first time, but many many times in many many lives the same question has been raised - and you have not yet answered!",
+      "korean": "이것은 처음 묻는 질문이 아닙니다. 수많은 삶에서 여러 번 제기된 질문이지만, 아직 답하지 않았습니다!",
+      "explanation": "문장은 과거와 현재를 넘어서 반복적으로 제기된 중요한 질문에 대해 언급하며, 그 질문에 대한 답변이 아직 이루어지지 않았음을 강조합니다.",
+      "grammar": "「is not being asked」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-240/08.mp3",
+      "vocabulary": [
+        {
+          "word": "question",
+          "meaning": "질문",
+          "note": "핵심 주제를 탐구하려는 의도를 나타냅니다."
+        },
+        {
+          "word": "raised",
+          "meaning": "제기된",
+          "note": "시간이 흐르면서도 계속해서 중요성이 유지된 질문임을 보여줍니다."
+        },
+        {
+          "word": "answered",
+          "meaning": "대답된",
+          "note": "현재까지 해당 질문에 대한 해결책이나 답변이 없음을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "Now, is it not time enough?",
+      "korean": "이제 충분한 시간이 아닌가요?",
+      "explanation": "질문자가 주어진 시간이 충분한지 묻고 있는 문장입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-240/09.mp3",
+      "vocabulary": [
+        {
+          "word": "time",
+          "meaning": "시간",
+          "note": "이 문맥에서는 「시간」의 뜻으로 읽습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "푸타시는 말한다: 매일 밤 잠들 때마다 한 사람은 부처를 껴안고, 아침이면 다시 함께 일어난다. 말하든 안 하든, 그들은 같은 자리에 머물러 있다. 그들은 단 한 순간도 떨어지지 않고 몸과 그림자처럼 항상 함께한다. 부처님의 거처를 알고 싶다면, 당신의 목소리 속에 답이 있습니다.",
+    "이해하십니까? 지금 이해하지 못한다면 언제 이해하게 될까요?",
+    "이것은 처음 묻는 질문이 아닙니다. 수많은 삶에서 여러 번 제기된 질문이지만, 아직 답하지 않았습니다!",
+    "이제 충분한 시간이 아닌가요?"
+  ],
+  "fullAudio": "audio/1971-240/script_all.mp3",
+  "originalText": "Love.\n\nFu Ta Shih says:\nEach night one embraces a Buddha while sleeping,\neach morning one gets up again with him.\nRising or sitting -\nboth watch and follow one another\nSpeaking or not speaking -\nthey are in the same place.\nThey never part even for a moment\nbut are like the body and its shadow.\nIf you wish to know the Buddha's whereabouts,\nin the sound of your own voice\nthere be is.\n\nDo you understand this?\nIf not now - when will you understand?\n\nAnd this is not being asked for the first time,\nbut many many times in many many lives\nthe same question has been raised -\nand you have not yet answered!\n\nNow, is it not time enough?",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 240,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0869 2.JPG",
+        "side": "right",
+        "printedPage": 189
+      },
+      {
+        "file": "IMG_0870 2.JPG",
+        "side": "left",
+        "printedPage": 190
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

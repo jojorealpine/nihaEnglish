@@ -1,0 +1,30 @@
+{
+  "key": "letter-303-part-02",
+  "number": 303,
+  "generationId": "01a1e907-2386-7a4f-851e-02bd79d8792c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Why not go, answered the master, to the place where it is neither - neither hot nor cold?",
+      "path": "audio/1971-303/11.mp3",
+      "start": 0.0,
+      "end": 6.148118
+    },
+    {
+      "index": 11,
+      "text": "Where is that place?",
+      "path": "audio/1971-303/12.mp3",
+      "start": 7.661519,
+      "end": 9.033786999999998
+    },
+    {
+      "index": 12,
+      "text": "And then the master laughed and said: In summer we sweat and in winter we shiver.",
+      "path": "audio/1971-303/13.mp3",
+      "start": 10.549773,
+      "end": 15.88
+    }
+  ]
+}

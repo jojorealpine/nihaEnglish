@@ -1,0 +1,79 @@
+{
+  "key": "letter-320-part-01",
+  "number": 320,
+  "generationId": "01a1e90c-e0dd-7770-8d9a-1429f5c7105e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-320/01.mp3",
+      "start": 0.0,
+      "end": 0.720816
+    },
+    {
+      "index": 1,
+      "text": "What is meditation?",
+      "path": "audio/1971-320/02.mp3",
+      "start": 1.879365,
+      "end": 3.190726
+    },
+    {
+      "index": 2,
+      "text": "Hsu Yun says: Meditation lies in laying down.",
+      "path": "audio/1971-320/03.mp3",
+      "start": 4.643356,
+      "end": 8.402902
+    },
+    {
+      "index": 3,
+      "text": "But laying down what?",
+      "path": "audio/1971-320/04.mp3",
+      "start": 9.562676000000002,
+      "end": 10.828367
+    },
+    {
+      "index": 4,
+      "text": "Laying down yourself - because nothing less will do.",
+      "path": "audio/1971-320/05.mp3",
+      "start": 11.997007,
+      "end": 14.985306
+    },
+    {
+      "index": 5,
+      "text": "Have you ever been at the bedside of a dead man?",
+      "path": "audio/1971-320/06.mp3",
+      "start": 16.14839,
+      "end": 18.147460000000002
+    },
+    {
+      "index": 6,
+      "text": "If you try to scold him he will not be excited, and even if you hit him with a staff he will not hit back.",
+      "path": "audio/1971-320/07.mp3",
+      "start": 19.282947999999998,
+      "end": 24.655601
+    },
+    {
+      "index": 7,
+      "text": "He also indulged once in the same things everyone indulges in.",
+      "path": "audio/1971-320/08.mp3",
+      "start": 26.142608,
+      "end": 30.753741
+    },
+    {
+      "index": 8,
+      "text": "He also longed for reputation and wealth.",
+      "path": "audio/1971-320/09.mp3",
+      "start": 32.284490000000005,
+      "end": 34.872516999999995
+    },
+    {
+      "index": 9,
+      "text": "But now he is without any longing whatsoever.",
+      "path": "audio/1971-320/10.mp3",
+      "start": 36.463628,
+      "end": 39.55
+    }
+  ]
+}

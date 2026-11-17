@@ -1,0 +1,79 @@
+{
+  "key": "letter-075-part-02",
+  "number": 75,
+  "generationId": "01a1e62a-dfc3-7fc0-98dc-4f842781b9a2",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "When work flows out of a state of rest voluntarily, then it is blissful.",
+      "path": "audio/1970-75/11.mp3",
+      "start": 0.0,
+      "end": 4.512154
+    },
+    {
+      "index": 11,
+      "text": "So I cannot call rest a sin.",
+      "path": "audio/1970-75/12.mp3",
+      "start": 5.968798,
+      "end": 8.223650999999998
+    },
+    {
+      "index": 12,
+      "text": "Nor do I support sacrifice I do not want anyone to live for anybody else, or one generation to sacrifice itself for another.",
+      "path": "audio/1970-75/13.mp3",
+      "start": 9.663605,
+      "end": 17.724195
+    },
+    {
+      "index": 13,
+      "text": "Such sacrifices turn out to be very costly - those who make them expect an inhuman return.",
+      "path": "audio/1970-75/14.mp3",
+      "start": 19.228821,
+      "end": 25.223583
+    },
+    {
+      "index": 14,
+      "text": "This is why fathers expect the impossible from their sons.",
+      "path": "audio/1970-75/15.mp3",
+      "start": 26.553991,
+      "end": 29.698458000000002
+    },
+    {
+      "index": 15,
+      "text": "If each father lives for his son who will live for himself?",
+      "path": "audio/1970-75/16.mp3",
+      "start": 31.004626,
+      "end": 34.061043
+    },
+    {
+      "index": 16,
+      "text": "For every son is a potential father.",
+      "path": "audio/1970-75/17.mp3",
+      "start": 35.332993,
+      "end": 37.455102
+    },
+    {
+      "index": 17,
+      "text": "No, I want everyone to live for himself - for his own happiness, his own state of rest.",
+      "path": "audio/1970-75/18.mp3",
+      "start": 38.929841,
+      "end": 45.009546
+    },
+    {
+      "index": 18,
+      "text": "When a father is happy he does much more for his sor and easily, because it comes out of his happiness.",
+      "path": "audio/1970-75/19.mp3",
+      "start": 46.378776,
+      "end": 52.606825
+    },
+    {
+      "index": 19,
+      "text": "Then there is neither sacrifice nor renunciation; what he does comes naturally out of his being a father - and a happy father at that.",
+      "path": "audio/1970-75/20.mp3",
+      "start": 54.065488,
+      "end": 63.29
+    }
+  ]
+}

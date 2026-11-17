@@ -1,0 +1,79 @@
+{
+  "key": "letter-305-part-01",
+  "number": 305,
+  "generationId": "01a1e907-84d9-77c0-bedd-f9ab049b3ad3",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-305/01.mp3",
+      "start": 0.0,
+      "end": 0.622472
+    },
+    {
+      "index": 1,
+      "text": "There is no answer to man's ultimate questions because the questions are absurd, and moreover there is no one to answer them.",
+      "path": "audio/1971-305/02.mp3",
+      "start": 2.039297,
+      "end": 9.142743999999999
+    },
+    {
+      "index": 2,
+      "text": "Existence is silent and has always been so, so do not ask",
+      "path": "audio/1971-305/03.mp3",
+      "start": 10.604399,
+      "end": 14.695601
+    },
+    {
+      "index": 3,
+      "text": "but be silent and live it and know it, because there is no knowing except living.",
+      "path": "audio/1971-305/04.mp3",
+      "start": 16.019683,
+      "end": 21.375238
+    },
+    {
+      "index": 4,
+      "text": "The search for answers is meaningless.",
+      "path": "audio/1971-305/05.mp3",
+      "start": 22.83288,
+      "end": 24.995488
+    },
+    {
+      "index": 5,
+      "text": "A patient in a mental hospital placed his ear to the wall of his room, listening intently.",
+      "path": "audio/1971-305/06.mp3",
+      "start": 26.502948,
+      "end": 31.946576
+    },
+    {
+      "index": 6,
+      "text": "Quiet! he whispered to an orderly and pointed to the wall.",
+      "path": "audio/1971-305/07.mp3",
+      "start": 33.336961,
+      "end": 37.455714
+    },
+    {
+      "index": 7,
+      "text": "The attendant pressed his ear against the wall, listened, and then said: I don't hear anything.",
+      "path": "audio/1971-305/08.mp3",
+      "start": 38.920227000000004,
+      "end": 44.917755
+    },
+    {
+      "index": 8,
+      "text": "No, replied the patient.",
+      "path": "audio/1971-305/09.mp3",
+      "start": 46.315692000000006,
+      "end": 48.367732
+    },
+    {
+      "index": 9,
+      "text": "It's awful, it's always been this way!",
+      "path": "audio/1971-305/10.mp3",
+      "start": 49.94381,
+      "end": 53.86
+    }
+  ]
+}

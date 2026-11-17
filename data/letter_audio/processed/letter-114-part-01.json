@@ -1,0 +1,79 @@
+{
+  "key": "letter-114-part-01",
+  "number": 114,
+  "generationId": "01a1e636-26f6-7d8c-8a7e-70e730429b5e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-114/01.mp3",
+      "start": 0.0,
+      "end": 0.652336
+    },
+    {
+      "index": 1,
+      "text": "The decision to take sannyas is propitious - and sadhana follows decision like a shadow.",
+      "path": "audio/1970-114/02.mp3",
+      "start": 1.9324719999999997,
+      "end": 7.400113
+    },
+    {
+      "index": 2,
+      "text": "Seeds have to be sown in the mind as well; there too - as we sow we reap.",
+      "path": "audio/1970-114/03.mp3",
+      "start": 8.708662,
+      "end": 14.372789
+    },
+    {
+      "index": 3,
+      "text": "The way has to be carved out of the mind too.",
+      "path": "audio/1970-114/04.mp3",
+      "start": 15.695079000000002,
+      "end": 18.209955
+    },
+    {
+      "index": 4,
+      "text": "The temple of God is close but the mind is like a dense forest we have to hack our way through to reach it.",
+      "path": "audio/1970-114/05.mp3",
+      "start": 19.53542,
+      "end": 26.128186
+    },
+    {
+      "index": 5,
+      "text": "The first steps have to be taken from where you are.",
+      "path": "audio/1970-114/06.mp3",
+      "start": 27.841565,
+      "end": 30.795556
+    },
+    {
+      "index": 6,
+      "text": "Even for a long journey the first steps have to be taken just close by, and in every journey, not only that towards truth, the beginning is not different from the end - they are two ends of the same span, two poles of the same entity.",
+      "path": "audio/1970-114/07.mp3",
+      "start": 32.338707,
+      "end": 48.558094999999994
+    },
+    {
+      "index": 7,
+      "text": "Yet often you cannot guess from the first step where you will end up; those first steps may seem quite unrelated to the last!",
+      "path": "audio/1970-114/08.mp3",
+      "start": 50.063787000000005,
+      "end": 58.853673
+    },
+    {
+      "index": 8,
+      "text": "Charles Catering recollects this interesting incident: Once I bet a friend that if I bought him a birdcage to hang in his sitting-room he would have to buy a bird.",
+      "path": "audio/1970-114/09.mp3",
+      "start": 60.284444,
+      "end": 71.38009100000001
+    },
+    {
+      "index": 9,
+      "text": "The friend laughed and said he could keep a cage without a bird - there was nothing to it!",
+      "path": "audio/1970-114/10.mp3",
+      "start": 72.826689,
+      "end": 80.01
+    }
+  ]
+}

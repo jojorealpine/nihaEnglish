@@ -1,0 +1,51 @@
+{
+  "key": "letter-333-part-02",
+  "number": 333,
+  "generationId": "01a1e91b-abad-77bb-8ad1-4eaed6cfdb67",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 9,
+      "text": "The monkey tried to run away, but because his hand was, as he thought, stuck in the bottle, he could not move fast enough to escape.",
+      "path": "audio/1971-333/10.mp3",
+      "start": 0.0,
+      "end": 8.599772999999999
+    },
+    {
+      "index": 10,
+      "text": "But as be thought he still had hold of the cherry, he consoled himself The hunter picked him up and tapped the monkey sharply on the elbow making him suddenly relax his hold on the fruit.",
+      "path": "audio/1971-333/11.mp3",
+      "start": 10.096757,
+      "end": 21.554966
+    },
+    {
+      "index": 11,
+      "text": "The monkey was now free - but he was captured The hunter had used the cherry and the bottle and he still had them.",
+      "path": "audio/1971-333/12.mp3",
+      "start": 22.966576,
+      "end": 31.072812000000003
+    },
+    {
+      "index": 12,
+      "text": "This monkey-way of thinking is the mind-way also!",
+      "path": "audio/1971-333/13.mp3",
+      "start": 32.486032,
+      "end": 35.846463
+    },
+    {
+      "index": 13,
+      "text": "And in the end when death, the hunter, comes, everyone is found caught in his own bottle.",
+      "path": "audio/1971-333/14.mp3",
+      "start": 37.354717,
+      "end": 43.192584999999994
+    },
+    {
+      "index": 14,
+      "text": "Remember, before the hunter comes make sure your hand is out of the bottle!",
+      "path": "audio/1971-333/15.mp3",
+      "start": 44.686032000000004,
+      "end": 50.89
+    }
+  ]
+}

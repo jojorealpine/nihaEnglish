@@ -1,0 +1,514 @@
+{
+  "id": "1970-111",
+  "title": "1970 / 111",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "morning",
+      "meaning": "아침",
+      "note": "시간적 맥락을 제공하며, 명상의 시작 시점을 나타냅니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meditation",
+      "meaning": "명상",
+      "note": "마음의 평온과 집중 상태를 이루는 행위를 의미합니다.",
+      "sentenceIds": [
+        2,
+        3,
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fragrance",
+      "meaning": "향기",
+      "note": "명상이 시작될 때 느끼는 정신적이고 감각적인 긍정적인 감정을 상징적으로 표현합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "consciousness",
+      "meaning": "의식",
+      "note": "내면의 인식이나 자각 상태를 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "takes",
+      "meaning": "발생하다",
+      "note": "여기서는 어떤 상황이나 사건이 일어나거나 진행된다는 의미입니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "beginning",
+      "meaning": "시작",
+      "note": "전체 과정이나 이야기의 초기 단계를 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Ultimately",
+      "meaning": "결국",
+      "note": "결국 어떤 상황이나 결과가 도달하게 된다는 의미로, 최종적인 결과나 결론을 강조한다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "disappears",
+      "meaning": "사라지다",
+      "note": "어떤 것이 존재하지 않게 되거나 더 이상 보이지 않게 되는 상태를 나타낸다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "appears",
+      "meaning": "나타나다",
+      "note": "이 단어는 내면의 공간이 존재하게 되는 순간이나 상태를 설명한다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "formless",
+      "meaning": "형태가 없는",
+      "note": "내면의 공간이 구체적인 형태를 갖추지 않고 무형의 상태임을 나타낸다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Wait",
+      "meaning": "기다리다",
+      "note": "어떤 일이 일어날 때까지 시간을 내는 행동을 나타냅니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Long",
+      "meaning": "갈망하다, 갈망",
+      "note": "강한 욕구 또는 갈망을 표현하며, 주로 추상적인 대상이나 상태에 대해 사용됨",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "waste",
+      "meaning": "낭비하다",
+      "note": "여기서는 시간을 무의미하게 소비하지 말라는 의미로 사용되었습니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "moment",
+      "meaning": "순간",
+      "note": "시간의 극히 짧은 기간을 의미하며, 이 문장에서는 시간의 낭비를 경계하는 맥락에서 사용되었습니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "signs",
+      "meaning": "신호",
+      "note": "여기서는 상황이나 조건을 나타내는 긍정적인 징후를 의미합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "good",
+      "meaning": "좋다",
+      "note": "긍정적인 상태나 조건을 나타내며, 여기서는 신호들이 긍정적임을 강조합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "always",
+      "meaning": "항상",
+      "note": "지속적인 상태나 행동을 나타냅니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "with",
+      "meaning": "함께",
+      "note": "누군가와 함께 있음을 나타냅니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4,
+      5
+    ],
+    [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-111/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "As the birds sing each morning at sunrise, the heart fills with song at the dawn of meditation.",
+      "korean": "새들이 아침 일출 때마다 노래하듯이, 명상의 새벽이 되면 마음도 노래로 가득 찬다.",
+      "explanation": "새들의 아침 노래처럼 명상의 시작 순간에 마음이 기쁨이나 평온으로 가득 차는 상태를 묘사합니다.",
+      "grammar": "동사 「fills」는 fill의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-111/02.mp3",
+      "vocabulary": [
+        {
+          "word": "morning",
+          "meaning": "아침",
+          "note": "시간적 맥락을 제공하며, 명상의 시작 시점을 나타냅니다."
+        },
+        {
+          "word": "meditation",
+          "meaning": "명상",
+          "note": "마음의 평온과 집중 상태를 이루는 행위를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "As flowers bloom in spring, the soul is drenched in fragrance as meditation is born.",
+      "korean": "봄에 꽃이 피듯이, 명상이 시작될 때 영혼은 향기에 젖는다.",
+      "explanation": "봄의 꽃이 피는 것처럼, 명상이 시작될 때 영혼이 향기로 가득 찬다는 의미를 전달합니다.",
+      "grammar": "「is drenched」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1970-111/03.mp3",
+      "vocabulary": [
+        {
+          "word": "fragrance",
+          "meaning": "향기",
+          "note": "명상이 시작될 때 느끼는 정신적이고 감각적인 긍정적인 감정을 상징적으로 표현합니다."
+        },
+        {
+          "word": "meditation",
+          "meaning": "명상",
+          "note": "영혼의 평온과 깨달음을 얻기 위한 정신적 활동을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "As everything glistens green beneath the rain, consciousness shines with many colors as meditation showers.",
+      "korean": "비가 내리는 듯 세상이 푸르게 빛나는 가운데, 의식은 다채로운 색으로 빛나며 명상이 쏟아진다.",
+      "explanation": "비가 내리는 상황을 통해 생명력과 활력이 넘치는 모습을 묘사하고, 이와 대비되거나 병행하여 명상이 주는 내면의 변화와 깨달음을 다채로운 색으로 표현한 문장입니다.",
+      "grammar": "동사 「shines」는 shin의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-111/04.mp3",
+      "vocabulary": [
+        {
+          "word": "consciousness",
+          "meaning": "의식",
+          "note": "내면의 인식이나 자각 상태를 의미합니다."
+        },
+        {
+          "word": "meditation",
+          "meaning": "명상",
+          "note": "내면의 평화와 깨달음을 얻기 위한 정신 집중 활동을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "All this and much more takes place, and this is only the beginning.",
+      "korean": "모든 것이 지금 시작일 뿐이며, 앞으로 더 많은 일들이 일어날 것입니다.",
+      "explanation": "문장은 현재 상황이 초기 단계에 불과하며 앞으로 더 많은 사건이나 변화가 있을 것이라는 의미를 전달합니다.",
+      "grammar": "동사 「takes」는 take의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-111/05.mp3",
+      "vocabulary": [
+        {
+          "word": "takes",
+          "meaning": "발생하다",
+          "note": "여기서는 어떤 상황이나 사건이 일어나거나 진행된다는 의미입니다."
+        },
+        {
+          "word": "beginning",
+          "meaning": "시작",
+          "note": "전체 과정이나 이야기의 초기 단계를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Ultimately everything goes; fragrance, color, light, music - everything disappears",
+      "korean": "결국 모든 것이 사라지네; 향기, 색깔, 빛, 음악 - 모든 것이 없어진다네",
+      "explanation": "결국 모든 것이 사라지고 없어진다는 의미를 전달하며, 다양한 감각적 요소들이 시간의 흐름에 따라 사라진다는 내용을 담고 있다.",
+      "grammar": "동사 「disappears」는 disappear의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-111/06.mp3",
+      "vocabulary": [
+        {
+          "word": "Ultimately",
+          "meaning": "결국",
+          "note": "결국 어떤 상황이나 결과가 도달하게 된다는 의미로, 최종적인 결과나 결론을 강조한다."
+        },
+        {
+          "word": "disappears",
+          "meaning": "사라지다",
+          "note": "어떤 것이 존재하지 않게 되거나 더 이상 보이지 않게 되는 상태를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "And an inner space, like the sky, appears - empty, formless, without quality.",
+      "korean": "마치 하늘처럼 빈 공간이 나타나는데, 형태가 없고 질이 없는 상태가 된다.",
+      "explanation": "문장은 내면의 공간이 하늘과 같이 비어 있고 형태나 특징이 없는 상태로 나타난다는 의미를 전달한다.",
+      "grammar": "동사 「appears」는 appear의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-111/07.mp3",
+      "vocabulary": [
+        {
+          "word": "appears",
+          "meaning": "나타나다",
+          "note": "이 단어는 내면의 공간이 존재하게 되는 순간이나 상태를 설명한다."
+        },
+        {
+          "word": "formless",
+          "meaning": "형태가 없는",
+          "note": "내면의 공간이 구체적인 형태를 갖추지 않고 무형의 상태임을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "Wait for that.",
+      "korean": "기다려.",
+      "explanation": "특정 상황이나 정보가 준비될 때까지 시간을 내는 것을 의미합니다.",
+      "grammar": "동사원형 「Wait」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-111/08.mp3",
+      "vocabulary": [
+        {
+          "word": "Wait",
+          "meaning": "기다리다",
+          "note": "어떤 일이 일어날 때까지 시간을 내는 행동을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "Long for that.",
+      "korean": "그것을 갈망하다",
+      "explanation": "어떤 것을 간절히 바라거나 원하는 상태를 나타냄",
+      "grammar": "「Long for」는 간절히 바라다라는 뜻의 동사구입니다. 동사원형 long으로 시작하고 주어 you를 생략한 명령문입니다.",
+      "audio": "audio/1970-111/09.mp3",
+      "vocabulary": [
+        {
+          "word": "Long",
+          "meaning": "갈망하다, 갈망",
+          "note": "강한 욕구 또는 갈망을 표현하며, 주로 추상적인 대상이나 상태에 대해 사용됨"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "I, so do not waste even a moment.",
+      "korean": "시간을 낭비하지 마세요.",
+      "explanation": "주어진 문장의 의미를 한국어로 자연스럽게 번역한 내용입니다.",
+      "grammar": "「do not waste」는 현재의 부정 표현입니다. do/does/did 뒤에서는 본동사 「waste」를 원형으로 씁니다.",
+      "audio": "audio/1970-111/10.mp3",
+      "vocabulary": [
+        {
+          "word": "waste",
+          "meaning": "낭비하다",
+          "note": "여기서는 시간을 무의미하게 소비하지 말라는 의미로 사용되었습니다."
+        },
+        {
+          "word": "moment",
+          "meaning": "순간",
+          "note": "시간의 극히 짧은 기간을 의미하며, 이 문장에서는 시간의 낭비를 경계하는 맥락에서 사용되었습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "The signs are good Go on!",
+      "korean": "신호들이 좋으니 계속해!",
+      "explanation": "신호들이 긍정적이므로 진행하거나 계속하라는 격려의 의미",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-111/11.mp3",
+      "vocabulary": [
+        {
+          "word": "signs",
+          "meaning": "신호",
+          "note": "여기서는 상황이나 조건을 나타내는 긍정적인 징후를 의미합니다."
+        },
+        {
+          "word": "good",
+          "meaning": "좋다",
+          "note": "긍정적인 상태나 조건을 나타내며, 여기서는 신호들이 긍정적임을 강조합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "I am always with you.",
+      "korean": "항상 너와 함께할게.",
+      "explanation": "항상 함께 있다는 약속이나 의지를 표현합니다.",
+      "grammar": "「am」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-111/12.mp3",
+      "vocabulary": [
+        {
+          "word": "always",
+          "meaning": "항상",
+          "note": "지속적인 상태나 행동을 나타냅니다."
+        },
+        {
+          "word": "with",
+          "meaning": "함께",
+          "note": "누군가와 함께 있음을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "새들이 아침 일출 때마다 노래하듯이, 명상의 새벽이 되면 마음도 노래로 가득 찬다. 봄에 꽃이 피듯이, 명상이 시작될 때 영혼은 향기에 젖는다.",
+    "비가 내리는 듯 세상이 푸르게 빛나는 가운데, 의식은 다채로운 색으로 빛나며 명상이 쏟아진다. 모든 것이 지금 시작일 뿐이며, 앞으로 더 많은 일들이 일어날 것입니다. 결국 모든 것이 사라지네; 향기, 색깔, 빛, 음악 - 모든 것이 없어진다네",
+    "마치 하늘처럼 빈 공간이 나타나는데, 형태가 없고 질이 없는 상태가 된다. 기다려. 그것을 갈망하다 시간을 낭비하지 마세요. 신호들이 좋으니 계속해! 항상 너와 함께할게."
+  ],
+  "fullAudio": "audio/1970-111/script_all.mp3",
+  "originalText": "Love.\n\nAs the birds sing each morning at sunrise,\nthe heart fills with song at the dawn of meditation.\nAs flowers bloom in spring,\nthe soul is drenched in fragrance\nas meditation is born.\n\nAs everything glistens green beneath the rain,\nconsciousness shines with many colors\nas meditation showers.\nAll this and much more takes place,\nand this is only the beginning.\nUltimately everything goes;\nfragrance, color, light, music -\neverything disappears\n\nAnd an inner space, like the sky, appears -\nempty, formless, without quality.\nWait for that. Long for that.\nI, so do not waste even a moment.\nThe signs are good\nGo on! I am always with you.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 111,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0818 2.JPG",
+        "side": "left",
+        "printedPage": 86
+      },
+      {
+        "file": "IMG_0818 2.JPG",
+        "side": "right",
+        "printedPage": 87
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

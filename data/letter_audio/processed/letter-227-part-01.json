@@ -1,0 +1,58 @@
+{
+  "key": "letter-227-part-01",
+  "number": 227,
+  "generationId": "01a1e8f4-a097-7797-8593-2eaf9f47d4d1",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-227/01.mp3",
+      "start": 0.0,
+      "end": 0.759456
+    },
+    {
+      "index": 1,
+      "text": "Do not believe in thinking because that is the greatest of all superstitions - but well hidden because it pretends to be anti-superstitious!",
+      "path": "audio/1971-227/02.mp3",
+      "start": 2.2237869999999997,
+      "end": 11.910317
+    },
+    {
+      "index": 2,
+      "text": "Thinking is nothing but dust in a blind mind because you cannot think that which is not known - and you need not think that which is already known.",
+      "path": "audio/1971-227/03.mp3",
+      "start": 13.4939,
+      "end": 23.708662
+    },
+    {
+      "index": 3,
+      "text": "The encounter is always with the unknown.",
+      "path": "audio/1971-227/04.mp3",
+      "start": 25.191542,
+      "end": 27.897506
+    },
+    {
+      "index": 4,
+      "text": "The unknown is everywhere, within and without, and thinking is always in the known and of the known.",
+      "path": "audio/1971-227/05.mp3",
+      "start": 29.392449,
+      "end": 36.168844
+    },
+    {
+      "index": 5,
+      "text": "You can never be in contact with the unknown through the known so throw the known and be in contact with the unknown.",
+      "path": "audio/1971-227/06.mp3",
+      "start": 37.646916000000004,
+      "end": 44.9578
+    },
+    {
+      "index": 6,
+      "text": "And this is what I call meditation.",
+      "path": "audio/1971-227/07.mp3",
+      "start": 46.511701,
+      "end": 49.03
+    }
+  ]
+}

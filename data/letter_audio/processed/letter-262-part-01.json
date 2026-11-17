@@ -1,0 +1,23 @@
+{
+  "key": "letter-262-part-01",
+  "number": 262,
+  "generationId": "01a1e8fd-4e19-7bd8-8a7b-bca35d9b2233",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-262/01.mp3",
+      "start": 0.0,
+      "end": 0.656077
+    },
+    {
+      "index": 1,
+      "text": "Never to have seen the truth is better than to have seen it and not to have acted on it.",
+      "path": "audio/1971-262/02.mp3",
+      "start": 2.101247,
+      "end": 7.42
+    }
+  ]
+}

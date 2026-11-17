@@ -1,0 +1,79 @@
+{
+  "key": "letter-150-part-01",
+  "number": 150,
+  "generationId": "01a1e6d7-209e-7e7e-b88e-cca35de186e0",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-150/01.mp3",
+      "start": 0.0,
+      "end": 0.668821
+    },
+    {
+      "index": 1,
+      "text": "God is testing you every moment.",
+      "path": "audio/1970-150/02.mp3",
+      "start": 2.071678,
+      "end": 3.946939
+    },
+    {
+      "index": 2,
+      "text": "Laugh and take the test - it is beautiful that he considers you worth testing!",
+      "path": "audio/1970-150/03.mp3",
+      "start": 5.378821,
+      "end": 10.258526
+    },
+    {
+      "index": 3,
+      "text": "But don't be in a hurry for the more you hurry the more some goals recede, and without doubt the temple of God is a goal like that.",
+      "path": "audio/1970-150/04.mp3",
+      "start": 11.984626,
+      "end": 19.727347
+    },
+    {
+      "index": 4,
+      "text": "He who travels with patience travels fastest on this journey.",
+      "path": "audio/1970-150/05.mp3",
+      "start": 21.173469,
+      "end": 24.599637
+    },
+    {
+      "index": 5,
+      "text": "The mind will roam again and again - that is its way; the day its roaming stops it will be dead.",
+      "path": "audio/1970-150/06.mp3",
+      "start": 25.970136,
+      "end": 32.081224
+    },
+    {
+      "index": 6,
+      "text": "Sometimes it sleeps - do not mistake this for death.",
+      "path": "audio/1970-150/07.mp3",
+      "start": 33.416689000000005,
+      "end": 37.074875
+    },
+    {
+      "index": 7,
+      "text": "Sometimes it gets tired - don't mistake this for death either.",
+      "path": "audio/1970-150/08.mp3",
+      "start": 38.289297000000005,
+      "end": 42.151247
+    },
+    {
+      "index": 8,
+      "text": "Some rest and sleep and it is strong and alive again.",
+      "path": "audio/1970-150/09.mp3",
+      "start": 43.634240000000005,
+      "end": 47.745146999999996
+    },
+    {
+      "index": 9,
+      "text": "So stop bothering about it altogether for even this worry gives it strength.",
+      "path": "audio/1970-150/10.mp3",
+      "start": 49.298753000000005,
+      "end": 54.28
+    }
+  ]
+}

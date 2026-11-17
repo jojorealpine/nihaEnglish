@@ -1,0 +1,30 @@
+{
+  "key": "letter-127-part-02",
+  "number": 127,
+  "generationId": "01a1e6c0-0757-706d-8b97-d8e9093acefb",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Encountering it leads you to unique experiences.",
+      "path": "audio/1970-127/11.mp3",
+      "start": 0.0,
+      "end": 3.236395
+    },
+    {
+      "index": 11,
+      "text": "And whatever you have learned or heard about celibacy - throw it once and for all into the dustbin, for there is no way other than this of reaching to brahmacharya.",
+      "path": "audio/1970-127/12.mp3",
+      "start": 4.696395,
+      "end": 15.748911999999999
+    },
+    {
+      "index": 12,
+      "text": "My regards to all there.",
+      "path": "audio/1970-127/13.mp3",
+      "start": 17.206667,
+      "end": 19.3
+    }
+  ]
+}

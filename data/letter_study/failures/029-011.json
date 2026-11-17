@@ -1,0 +1,5 @@
+{
+  "english": "Isn't one's love help enough?",
+  "error": "Grammar does not refer to the English sentence",
+  "response": "```json\n{\n  \"korean\": \"사랑의 도움이 충분하지 않나요?\",\n  \"explanation\": \"이 문장은 사랑이 주는 지원이나 도움이 이미 충분하다는 의문을 제기합니다. 즉, 추가적인 도움이나 참여가 필요하지 않다는 의미입니다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"love\",\n      \"meaning\": \"사랑\",\n      \"note\": \"여기서는 감정적인 애정이나 배려를 의미합니다.\"\n    },\n    {\n      \"word\": \"help\",\n      \"meaning\": \"도움\",\n      \"note\": \"사랑을 통해 이미 제공되는 지원이나 배려를 가리킵니다.\"\n    }\n  ],\n  \"expressions\": []\n}\n```"
+}

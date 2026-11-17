@@ -1,0 +1,221 @@
+{
+  "sourceHash": "65bf122fb1387920ec0cdfed13df9bea5bb44869ba80195cf17b9850ecc1b9f5",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "그래서 현재에 살고 매 순간 과거에 죽어야 한다고 주장하는 거야.",
+        "explanation": "현재에 집중하고 과거에 얽매이지 않으려는 의지를 표현하고 있다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "insist",
+            "meaning": "주장하다",
+            "note": "강한 의지나 확신을 나타내며, 상대방이 동의하도록 강요하는 뉘앙스가 있다."
+          },
+          {
+            "word": "present",
+            "meaning": "현재",
+            "note": "특정 시점이나 상황을 가리키며, 시간적 흐름 속에서 현재 순간의 중요성을 강조한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "현재가 과거와 연속적일 뿐이라면, 그것은 진정한 현재가 아니게 된다.",
+        "explanation": "현재의 의미와 시제에 대한 고찰로, 현재가 단순히 과거와 연속되어 있다는 가정 하에 현재의 독특성과 독립성을 강조한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "present",
+            "meaning": "현재",
+            "note": "문장에서 시간의 흐름 중 가장 최근의 순간을 지칭한다."
+          },
+          {
+            "word": "continuous",
+            "meaning": "연속적인",
+            "note": "과거와 현재 사이의 연결성을 나타내며, 시간의 흐름이 끊이지 않고 이어진다는 의미를 담고 있다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "우리의 모든 활동은 과거나 미래에서 비롯됩니다 - 그것은 사실상 과거의 희미한 울림일 뿐입니다.",
+        "explanation": "문장은 인간의 행동과 생각이 현재보다는 과거의 경험이나 미래에 대한 기대에 크게 의존한다는 의미를 전달합니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "activity",
+            "meaning": "활동",
+            "note": "여기서는 개인의 행동이나 노력, 또는 사고 과정을 의미합니다."
+          },
+          {
+            "word": "springs",
+            "meaning": "기원하다",
+            "note": "활동의 원천이나 출발점이 과거나 미래에 있다는 것을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "지금은 영원하지만, 우리는 과거에 살거나 미래에 살고 있으며, 미래는 과거의 희미한 메아리에 불과하다.",
+        "explanation": "현재는 영원하지만 인간의 삶은 과거나 미래에 초점을 맞추고 있으며, 미래는 사실상 과거의 반복이나 영향을 받은 것에 불과하다는 의미입니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "eternal",
+            "meaning": "영원한",
+            "note": "시간의 제약 없이 계속되는 상태를 의미합니다."
+          },
+          {
+            "word": "future",
+            "meaning": "미래",
+            "note": "현재와 과거에 대비되는 시간 개념으로, 이 문장에서는 과거의 영향을 받은 것으로 묘사됩니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "순간순간으로 살아가면 삶의 질이 완전히 달라져, 신성한 질을 갖게 됩니다.",
+        "explanation": "현재 순간에 집중하고 과거에 얽매이지 않으면 삶의 질이 근본적으로 변한다는 의미입니다.",
+        "grammar": "동사원형 「Live」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "atomically",
+            "meaning": "원자적으로",
+            "note": "매우 세밀하고 기본적인 단위로, 여기서는 순간마다 완전히 집중한다는 의미입니다."
+          },
+          {
+            "word": "totally",
+            "meaning": "완전히",
+            "note": "변화의 정도가 전적으로 다르다는 강조입니다."
+          },
+          {
+            "word": "different",
+            "meaning": "다른",
+            "note": "삶의 질이 근본적으로 변한다는 의미입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "현재는 거짓이고 죽은 것이므로, 현재가 거짓이면 우리는 진실된 존재가 될 수 없고, 현재가 죽은 상태라면 우리는 살아있을 수 없다.",
+        "explanation": "현재 순간이 진실되지 않고 생명력이 없다면, 그 상태에서는 진정한 삶이나 존재가 불가능하다는 의미를 전달한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "present",
+            "meaning": "현재",
+            "note": "문장에서 현재 순간의 상태를 나타내며, 진실성과 생명력의 기준으로 사용된다."
+          },
+          {
+            "word": "false",
+            "meaning": "거짓",
+            "note": "현재가 진실되지 않다는 의미로, 존재의 진정성을 부정한다."
+          },
+          {
+            "word": "alive",
+            "meaning": "살아있다",
+            "note": "현재가 생명력이 없다는 의미로, 살아있는 상태를 부정한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "현재가 과거와 단절되지 않는다면, 그것은 진정한 현재가 아니며, 단절될 때만 젊음과 신선함, 새로운 것이 되어 시간의 일부가 아닌 영원 자체가 된다.",
+        "explanation": "현재가 진정한 의미에서 존재하려면 과거와 구분되어야 하며, 그럴 때만 새롭고 영원한 상태를 갖게 된다는 의미입니다.",
+        "grammar": "「must be」에서 조동사 must 뒤에 동사원형 「be」가 옵니다. must은 문맥에 따라 의무·강한 추측 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "present",
+            "meaning": "현재",
+            "note": "문장에서 시간의 현재 순간을 가리킵니다."
+          },
+          {
+            "word": "discontinuous",
+            "meaning": "단절된",
+            "note": "과거와 분리되거나 구분되어야 함을 의미합니다."
+          },
+          {
+            "word": "eternity",
+            "meaning": "영원",
+            "note": "시간의 제약을 벗어난 무한한 상태를 나타냅니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "be present",
+            "meaning": "현재가 되다",
+            "explanation": "특정 순간이나 상태가 현재의 특성을 갖게 되는 것을 의미합니다."
+          },
+          {
+            "expression": "discontinuous with the past",
+            "meaning": "과거와 단절된",
+            "explanation": "과거와 구분되거나 분리된 상태를 나타냅니다."
+          }
+        ]
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

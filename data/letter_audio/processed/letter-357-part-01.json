@@ -1,0 +1,58 @@
+{
+  "key": "letter-357-part-01",
+  "number": 357,
+  "generationId": "01a1e917-a491-7496-8d6d-7b79eec435c9",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-357/01.mp3",
+      "start": 0.0,
+      "end": 0.872902
+    },
+    {
+      "index": 1,
+      "text": "It is impossible to conceive of the divine intellectually, and that is why the intellect denies it or creates fictitious systems about it, which is even more dangerous than plain denial.",
+      "path": "audio/1971-357/02.mp3",
+      "start": 2.214558,
+      "end": 14.908366999999998
+    },
+    {
+      "index": 2,
+      "text": "The mind works only in the circle of the known; it cannot transcend the world of the known.",
+      "path": "audio/1971-357/03.mp3",
+      "start": 16.328526,
+      "end": 22.294014
+    },
+    {
+      "index": 3,
+      "text": "For the mind the unknown is not.",
+      "path": "audio/1971-357/04.mp3",
+      "start": 23.577234,
+      "end": 26.011927
+    },
+    {
+      "index": 4,
+      "text": "Says Attar: You know nothing of your real self here and in this state.",
+      "path": "audio/1971-357/05.mp3",
+      "start": 27.300566999999997,
+      "end": 32.078957
+    },
+    {
+      "index": 5,
+      "text": "You are like the wax in the honeycomb - what does it know of fire or guttering?",
+      "path": "audio/1971-357/06.mp3",
+      "start": 33.406508,
+      "end": 38.161701
+    },
+    {
+      "index": 6,
+      "text": "But when it gets to the stage of the waxen candle and when light is emitted then it knows.",
+      "path": "audio/1971-357/07.mp3",
+      "start": 39.492902,
+      "end": 45.58
+    }
+  ]
+}

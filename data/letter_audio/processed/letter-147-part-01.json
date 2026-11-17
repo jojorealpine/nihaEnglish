@@ -1,0 +1,37 @@
+{
+  "key": "letter-147-part-01",
+  "number": 147,
+  "generationId": "01a1e6d6-a995-701d-b163-4fe694fc74b9",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-147/01.mp3",
+      "start": 0.0,
+      "end": 0.587664
+    },
+    {
+      "index": 1,
+      "text": "Not only is a seed a seed, man is also a seed.",
+      "path": "audio/1970-147/02.mp3",
+      "start": 2.057574,
+      "end": 5.931587
+    },
+    {
+      "index": 2,
+      "text": "Not only seeds bloom, man also blooms.",
+      "path": "audio/1970-147/03.mp3",
+      "start": 7.398639,
+      "end": 11.971677999999999
+    },
+    {
+      "index": 3,
+      "text": "Not only seeds blossom into flowers.",
+      "path": "audio/1970-147/04.mp3",
+      "start": 13.442404000000002,
+      "end": 16.54
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "letter-012-part-01",
+  "number": 12,
+  "generationId": "01a1e4e9-1a88-7eba-a6a8-520d9c24fd61",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "My respects to you.",
+      "path": "audio/1963-12/01.mp3",
+      "start": 0.0,
+      "end": 1.476213
+    },
+    {
+      "index": 1,
+      "text": "All your letters arrived in good time but as I have been busy I could not reply sooner.",
+      "path": "audio/1963-12/02.mp3",
+      "start": 2.748322,
+      "end": 7.9961
+    },
+    {
+      "index": 2,
+      "text": "I have been out most of the time and I have just returned after speaking in Jaipur, Burhanpur, Hoshangabad, Chanda and other places.",
+      "path": "audio/1963-12/03.mp3",
+      "start": 9.35068,
+      "end": 18.376236000000002
+    },
+    {
+      "index": 3,
+      "text": "How thirsty people are for spiritual life!",
+      "path": "audio/1963-12/04.mp3",
+      "start": 19.706349,
+      "end": 22.378798
+    },
+    {
+      "index": 4,
+      "text": "Seeing this I am surprised that some people say man has lost all interest in religion.",
+      "path": "audio/1963-12/05.mp3",
+      "start": 23.676983999999997,
+      "end": 28.515918000000003
+    },
+    {
+      "index": 5,
+      "text": "This can never be.",
+      "path": "audio/1963-12/06.mp3",
+      "start": 29.804308,
+      "end": 30.953379
+    },
+    {
+      "index": 6,
+      "text": "No interest in religion means no interest in life, bliss, the ultimate.",
+      "path": "audio/1963-12/07.mp3",
+      "start": 32.255873,
+      "end": 36.457868
+    },
+    {
+      "index": 7,
+      "text": "Consciousness is by nature God-oriented and it can only be satisfied by attaining God - the state of satchitananda, the truth-awareness-bliss state of being.",
+      "path": "audio/1963-12/08.mp3",
+      "start": 37.842721000000004,
+      "end": 48.901042999999994
+    },
+    {
+      "index": 8,
+      "text": "Hidden within one in the form of a seed is the very source of religious birth, therefore whilst religions may come and go religion can never die.",
+      "path": "audio/1963-12/09.mp3",
+      "start": 50.584966,
+      "end": 59.746235999999996
+    },
+    {
+      "index": 9,
+      "text": "I am glad to know that you feel patient about your progress towards the light.",
+      "path": "audio/1963-12/10.mp3",
+      "start": 61.175079000000004,
+      "end": 65.8
+    }
+  ]
+}

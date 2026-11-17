@@ -1,0 +1,79 @@
+{
+  "key": "letter-182-part-01",
+  "number": 182,
+  "generationId": "01a1e8e7-e1d2-7d09-87d2-64ca7237b6b7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-182/01.mp3",
+      "start": 0.0,
+      "end": 0.6163270000000001
+    },
+    {
+      "index": 1,
+      "text": "God is when you are not.",
+      "path": "audio/1971-182/02.mp3",
+      "start": 1.7178680000000002,
+      "end": 3.259683
+    },
+    {
+      "index": 2,
+      "text": "When you are it is not because you are nothing but a blindness.",
+      "path": "audio/1971-182/03.mp3",
+      "start": 4.600975,
+      "end": 7.496893
+    },
+    {
+      "index": 3,
+      "text": "The ego cannot see, the ego cannot be aware, the ego exists only as a by-product of unconscious living.",
+      "path": "audio/1971-182/04.mp3",
+      "start": 8.774739,
+      "end": 15.818344999999999
+    },
+    {
+      "index": 4,
+      "text": "One goes on living as if in sleep.",
+      "path": "audio/1971-182/05.mp3",
+      "start": 17.089205999999997,
+      "end": 19.212381
+    },
+    {
+      "index": 5,
+      "text": "In this sleep the part begins to dream that it is the whole, and this dreaming becomes a barrier to knowing the whole.",
+      "path": "audio/1971-182/06.mp3",
+      "start": 20.480952,
+      "end": 27.533152
+    },
+    {
+      "index": 6,
+      "text": "Begin to be aware, aware of your actions, thoughts and emotions, just aware.",
+      "path": "audio/1971-182/07.mp3",
+      "start": 29.030068,
+      "end": 34.716485
+    },
+    {
+      "index": 7,
+      "text": "Because if you condemn or appreciate you will not be aware - in any choice the awareness is contaminated and the darkness of unawareness comes in.",
+      "path": "audio/1971-182/08.mp3",
+      "start": 36.071519,
+      "end": 45.561383
+    },
+    {
+      "index": 8,
+      "text": "So just be aware without any choice; then awareness is pure and innocent, and then awareness is a mirror.",
+      "path": "audio/1971-182/09.mp3",
+      "start": 47.033311000000005,
+      "end": 55.319184
+    },
+    {
+      "index": 9,
+      "text": "In this mirror-like awareness one never finds oneself but one finds that-which-is.",
+      "path": "audio/1971-182/10.mp3",
+      "start": 56.936780000000006,
+      "end": 63.97
+    }
+  ]
+}

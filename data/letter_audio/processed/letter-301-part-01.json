@@ -1,0 +1,79 @@
+{
+  "key": "letter-301-part-01",
+  "number": 301,
+  "generationId": "01a1e906-7802-7871-b4e3-734f76f67e7a",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-301/01.mp3",
+      "start": 0.0,
+      "end": 0.6924939999999999
+    },
+    {
+      "index": 1,
+      "text": "Man is unaware of himself He does not know what is happening to him, nor does he know the state of his being.",
+      "path": "audio/1971-301/02.mp3",
+      "start": 2.0573699999999997,
+      "end": 9.578209
+    },
+    {
+      "index": 2,
+      "text": "A man cut down a tree one day.",
+      "path": "audio/1971-301/03.mp3",
+      "start": 10.990295000000001,
+      "end": 13.160136
+    },
+    {
+      "index": 3,
+      "text": "A Sufi who saw this taking place said: Look at this fresh branch which is full of sap, and happy because it does not know yet that it has been cut off.",
+      "path": "audio/1971-301/04.mp3",
+      "start": 14.649592,
+      "end": 24.228503
+    },
+    {
+      "index": 4,
+      "text": "But his companion said: Yes, it may be ignorant of the damage it has suffered, but it will know in due time.",
+      "path": "audio/1971-301/05.mp3",
+      "start": 25.737959,
+      "end": 32.603333
+    },
+    {
+      "index": 5,
+      "text": "Hearing this the Sufi laughed and said: Meanwhile you cannot reason with it.",
+      "path": "audio/1971-301/06.mp3",
+      "start": 34.078322,
+      "end": 38.965669
+    },
+    {
+      "index": 6,
+      "text": "This reverence is the state of man. this ignorance is the state of man - and meanwhile you cannot reason with him!",
+      "path": "audio/1971-301/07.mp3",
+      "start": 40.555941000000004,
+      "end": 48.54542
+    },
+    {
+      "index": 7,
+      "text": "Or can you?",
+      "path": "audio/1971-301/08.mp3",
+      "start": 50.003651000000005,
+      "end": 50.989591999999995
+    },
+    {
+      "index": 8,
+      "text": "But this is irrelevant.",
+      "path": "audio/1971-301/09.mp3",
+      "start": 52.573129,
+      "end": 54.059160999999996
+    },
+    {
+      "index": 9,
+      "text": "If you can reason with yourself that is more than enough!",
+      "path": "audio/1971-301/10.mp3",
+      "start": 55.591429000000005,
+      "end": 59.35
+    }
+  ]
+}

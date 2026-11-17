@@ -1,0 +1,44 @@
+{
+  "key": "letter-314-part-01",
+  "number": 314,
+  "generationId": "01a1e909-a2ff-78e8-85d1-1bff8f9c0b63",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-314/01.mp3",
+      "start": 0.0,
+      "end": 0.74254
+    },
+    {
+      "index": 1,
+      "text": "Life is non-fragmentary, but mind makes it appear fragmentary; and this fragmentation creates all the problems.",
+      "path": "audio/1971-314/02.mp3",
+      "start": 2.289252,
+      "end": 10.540113
+    },
+    {
+      "index": 2,
+      "text": "Beware of fragments and always look beyond them and below them and through them - then you will be able to see the ocean in spite of all the waves.",
+      "path": "audio/1971-314/03.mp3",
+      "start": 11.962177,
+      "end": 20.42737
+    },
+    {
+      "index": 3,
+      "text": "The waves are in the ocean but the waves are not the ocean.",
+      "path": "audio/1971-314/04.mp3",
+      "start": 21.86551,
+      "end": 26.260249
+    },
+    {
+      "index": 4,
+      "text": "The ocean can be without the waves but the waves cannot be without the ocean.",
+      "path": "audio/1971-314/05.mp3",
+      "start": 27.740726,
+      "end": 33.93
+    }
+  ]
+}

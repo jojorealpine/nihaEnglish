@@ -1,0 +1,79 @@
+{
+  "key": "letter-169-part-01",
+  "number": 169,
+  "generationId": "01a1e8e4-72b6-7e1b-a78d-957fc3a218dc",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-169/01.mp3",
+      "start": 0.0,
+      "end": 0.539161
+    },
+    {
+      "index": 1,
+      "text": "Things go on changing without.",
+      "path": "audio/1971-169/02.mp3",
+      "start": 1.9049209999999999,
+      "end": 4.030816
+    },
+    {
+      "index": 2,
+      "text": "You must mirror them, you must reflect them, but remember always that the mirror remains the same.",
+      "path": "audio/1971-169/03.mp3",
+      "start": 5.432562,
+      "end": 12.038186
+    },
+    {
+      "index": 3,
+      "text": "Mirroring does not change the mirror.",
+      "path": "audio/1971-169/04.mp3",
+      "start": 13.239705,
+      "end": 15.419818999999999
+    },
+    {
+      "index": 4,
+      "text": "Do not be identified with mirroring.",
+      "path": "audio/1971-169/05.mp3",
+      "start": 16.743492,
+      "end": 18.790839000000002
+    },
+    {
+      "index": 5,
+      "text": "Remember yourself as the mirror - that is what is meant by witnessing.",
+      "path": "audio/1971-169/06.mp3",
+      "start": 19.988163,
+      "end": 24.074422000000002
+    },
+    {
+      "index": 6,
+      "text": "And witnessing is meditation.",
+      "path": "audio/1971-169/07.mp3",
+      "start": 25.384082,
+      "end": 27.368639
+    },
+    {
+      "index": 7,
+      "text": "Lieh-Tzu exhibited his skill in archery to Po-Hun Wu-Jen.",
+      "path": "audio/1971-169/08.mp3",
+      "start": 28.798685,
+      "end": 32.766825
+    },
+    {
+      "index": 8,
+      "text": "When the bow was drawn to its full length a cup of water was placed on his elbow and he began to shoot.",
+      "path": "audio/1971-169/09.mp3",
+      "start": 34.119841,
+      "end": 39.787437999999995
+    },
+    {
+      "index": 9,
+      "text": "As soon as the first arrow was let fly a second one was already on the string and a third followed",
+      "path": "audio/1971-169/10.mp3",
+      "start": 41.272676000000004,
+      "end": 48.3
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "key": "letter-265-part-02",
+  "number": 265,
+  "generationId": "01a1e8fd-ee59-7295-9502-abeef66dc18c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "She was not - but the enlightenment was there!",
+      "path": "audio/1971-265/11.mp3",
+      "start": 0.0,
+      "end": 3.079229
+    },
+    {
+      "index": 11,
+      "text": "She wrote this verse: This way and that way I tried to keep the pail together, hoping the weak bamboo would never break.",
+      "path": "audio/1971-265/12.mp3",
+      "start": 4.481043,
+      "end": 13.327867999999999
+    },
+    {
+      "index": 12,
+      "text": "But suddenly the bottom fell out: no more water no more moon in the water - and emptiness in my hand!",
+      "path": "audio/1971-265/13.mp3",
+      "start": 14.851383,
+      "end": 23.72
+    }
+  ]
+}

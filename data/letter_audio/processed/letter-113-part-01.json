@@ -1,0 +1,79 @@
+{
+  "key": "letter-113-part-01",
+  "number": 113,
+  "generationId": "01a1e635-d6f0-714f-849f-699dca83cc22",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-113/01.mp3",
+      "start": 0.0,
+      "end": 0.554807
+    },
+    {
+      "index": 1,
+      "text": "What is truth?",
+      "path": "audio/1970-113/02.mp3",
+      "start": 1.708141,
+      "end": 2.775147
+    },
+    {
+      "index": 2,
+      "text": "This much at least can be said: It cannot be defined So forget about all definitions, drop all evaluations and interpretations - these are all mind games, all creatures of thought.",
+      "path": "audio/1970-113/03.mp3",
+      "start": 4.026304,
+      "end": 15.190498999999999
+    },
+    {
+      "index": 3,
+      "text": "What is, is beyond the mind",
+      "path": "audio/1970-113/04.mp3",
+      "start": 16.400385,
+      "end": 18.467460000000003
+    },
+    {
+      "index": 4,
+      "text": "Thoughts are as unaware of reality as the waves are of the peace of the lake.",
+      "path": "audio/1970-113/05.mp3",
+      "start": 19.713061,
+      "end": 24.189615
+    },
+    {
+      "index": 5,
+      "text": "With waves the lake loses its tranquility; when the lake is calm then the waves cannot exist.",
+      "path": "audio/1970-113/06.mp3",
+      "start": 25.614670999999998,
+      "end": 31.480794
+    },
+    {
+      "index": 6,
+      "text": "One has to know that-which-is.",
+      "path": "audio/1970-113/07.mp3",
+      "start": 32.727438,
+      "end": 34.683741
+    },
+    {
+      "index": 7,
+      "text": "Its interpretation is very different from knowing it.",
+      "path": "audio/1970-113/08.mp3",
+      "start": 36.120295000000006,
+      "end": 38.856077
+    },
+    {
+      "index": 8,
+      "text": "Interpretations take one astray - they are as illusory as scarecrows.",
+      "path": "audio/1970-113/09.mp3",
+      "start": 40.369342,
+      "end": 45.344853
+    },
+    {
+      "index": 9,
+      "text": "The seeker of truth has to be wary of words.",
+      "path": "audio/1970-113/10.mp3",
+      "start": 46.851678,
+      "end": 50.29
+    }
+  ]
+}

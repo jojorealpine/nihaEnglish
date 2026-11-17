@@ -1,0 +1,364 @@
+{
+  "id": "1971-334",
+  "title": "1971 / 334",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meditation",
+      "meaning": "명상",
+      "note": "정신적 평화와 깨달음을 얻기 위한 마음 집중 연습",
+      "sentenceIds": [
+        2,
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "landscape",
+      "meaning": "풍경",
+      "note": "넓은 지역의 자연 모습",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "whispering",
+      "meaning": "속삭이다",
+      "note": "조용하게 말하거나 속삭이는 소리",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "knows",
+      "meaning": "알고 있다",
+      "note": "이 문맥에서는 「알고 있다」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "lives",
+      "meaning": "살아가다",
+      "note": "어떻게 살아가는지에 대한 방식을 나타내며, 여기서는 삶의 방식이나 경험을 통해 이해한다는 의미.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "But",
+      "meaning": "그러나",
+      "note": "이전 문장이나 상황과 대조를 이루거나 의문을 제기하는 연결어입니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "this",
+      "meaning": "이것",
+      "note": "이전 문맥에서 언급된 특정 상황이나 현상을 가리킵니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unoccupied",
+      "meaning": "비어있는",
+      "note": "마음이 활동이나 생각으로부터 자유로워진 상태.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "existence",
+      "meaning": "존재",
+      "note": "생명체가 존재하는 본질적인 상태나 경험.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "totally",
+      "meaning": "완전히",
+      "note": "정도의 강조를 나타내며, 여기서는 내면의 비움이 완벽해야 함을 강조합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "vacant",
+      "meaning": "비어 있는",
+      "note": "내면이 비어 있어야 함을 의미하며, 이는 마음의 평온과 집중을 상징합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "occupied mind",
+      "meaning": "집중된 마음",
+      "explanation": "활동적이고 생각으로 가득 찬 마음의 상태.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "ecstasy of sheer existence",
+      "meaning": "순수한 존재의 기쁨",
+      "explanation": "존재 자체의 본질적인 만족감이나 행복을 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      5
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-334/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "A life without meditation is like a winter landscape with the sun hidden, the flowers frozen and the wind whispering through the withered leaves.",
+      "korean": "명상 없이 살아가는 것은 겨울 풍경과 같아요. 햇빛이 숨어 있고 꽃들은 얼어붙었으며, 바람은 시들어진 잎 사이로 속삭입니다.",
+      "explanation": "명상을 하지 않는 삶의 모습을 겨울 풍경에 비유하여 설명하고 있습니다.",
+      "grammar": "동사 「frozen」는 freeze의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-334/02.mp3",
+      "vocabulary": [
+        {
+          "word": "meditation",
+          "meaning": "명상",
+          "note": "정신적 평화와 깨달음을 얻기 위한 마음 집중 연습"
+        },
+        {
+          "word": "landscape",
+          "meaning": "풍경",
+          "note": "넓은 지역의 자연 모습"
+        },
+        {
+          "word": "whispering",
+          "meaning": "속삭이다",
+          "note": "조용하게 말하거나 속삭이는 소리"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "And everyone knows it because everyone lives it that way, though no one needs to live it that way.",
+      "korean": "모두가 그걸 알고 있지만, 누구도 그렇게 살아갈 필요는 없다.",
+      "explanation": "문장은 모든 사람이 삶의 방식을 통해 어떤 진리나 상태를 이해하고 있지만, 실제로 그렇게 살아갈 필요는 없다는 의미를 전달한다.",
+      "grammar": "동사 「knows」는 know의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-334/03.mp3",
+      "vocabulary": [
+        {
+          "word": "knows",
+          "meaning": "알고 있다",
+          "note": "이 문맥에서는 「알고 있다」의 뜻으로 읽습니다."
+        },
+        {
+          "word": "lives",
+          "meaning": "살아가다",
+          "note": "어떻게 살아가는지에 대한 방식을 나타내며, 여기서는 삶의 방식이나 경험을 통해 이해한다는 의미."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "But why is this so?",
+      "korean": "그런데 왜 이렇게 되는 걸까요?",
+      "explanation": "문장은 질문을 통해 주어진 상황이나 현상의 이유를 탐구하려는 의도를 나타냅니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-334/04.mp3",
+      "vocabulary": [
+        {
+          "word": "But",
+          "meaning": "그러나",
+          "note": "이전 문장이나 상황과 대조를 이루거나 의문을 제기하는 연결어입니다."
+        },
+        {
+          "word": "this",
+          "meaning": "이것",
+          "note": "이전 문맥에서 언급된 특정 상황이나 현상을 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "This is so because life's needs require an occupied mind and meditation means being unoccupied We train ourselves to be occupied and then forget that one needs to be unoccupied sometimes to know the ecstasy of sheer existence.",
+      "korean": "생명의 요구는 집중된 마음을 필요로 하지만, 명상은 비어있는 마음을 의미합니다. 우리는 집중된 상태를 훈련받지만 때때로 존재의 순수한 기쁨을 알기 위해 비어있는 상태가 필요하다는 것을 잊습니다.",
+      "explanation": "생명의 필요성은 마음이 활동적이어야 함을 요구하지만, 명상은 마음이 비어있는 상태를 의미합니다. 그럼에도 불구하고 우리는 집중된 상태를 익히면서도 때때로 존재의 본질적인 즐거움을 이해하기 위해 마음이 비어있는 순간의 중요성을 간과합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-334/05.mp3",
+      "vocabulary": [
+        {
+          "word": "meditation",
+          "meaning": "명상",
+          "note": "마음을 집중시키고 평온하게 하기 위한 정신적 연습."
+        },
+        {
+          "word": "unoccupied",
+          "meaning": "비어있는",
+          "note": "마음이 활동이나 생각으로부터 자유로워진 상태."
+        },
+        {
+          "word": "existence",
+          "meaning": "존재",
+          "note": "생명체가 존재하는 본질적인 상태나 경험."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "occupied mind",
+          "meaning": "집중된 마음",
+          "explanation": "활동적이고 생각으로 가득 찬 마음의 상태."
+        },
+        {
+          "expression": "ecstasy of sheer existence",
+          "meaning": "순수한 존재의 기쁨",
+          "explanation": "존재 자체의 본질적인 만족감이나 행복을 의미합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "One is to be totally vacant inside because only then is one a host to the divine guest.",
+      "korean": "완전히 비어 있어야 합니다. 그래야 신성한 손님을 맞이할 수 있습니다.",
+      "explanation": "완전히 내면이 비어 있어야 신성한 존재를 받아들일 수 있다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-334/06.mp3",
+      "vocabulary": [
+        {
+          "word": "totally",
+          "meaning": "완전히",
+          "note": "정도의 강조를 나타내며, 여기서는 내면의 비움이 완벽해야 함을 강조합니다."
+        },
+        {
+          "word": "vacant",
+          "meaning": "비어 있는",
+          "note": "내면이 비어 있어야 함을 의미하며, 이는 마음의 평온과 집중을 상징합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "명상 없이 살아가는 것은 겨울 풍경과 같아요. 햇빛이 숨어 있고 꽃들은 얼어붙었으며, 바람은 시들어진 잎 사이로 속삭입니다.",
+    "모두가 그걸 알고 있지만, 누구도 그렇게 살아갈 필요는 없다.",
+    "그런데 왜 이렇게 되는 걸까요? 생명의 요구는 집중된 마음을 필요로 하지만, 명상은 비어있는 마음을 의미합니다. 우리는 집중된 상태를 훈련받지만 때때로 존재의 순수한 기쁨을 알기 위해 비어있는 상태가 필요하다는 것을 잊습니다.",
+    "완전히 비어 있어야 합니다. 그래야 신성한 손님을 맞이할 수 있습니다."
+  ],
+  "fullAudio": "audio/1971-334/script_all.mp3",
+  "originalText": "Love\n\nA life without meditation\nis like a winter landscape with the sun hidden,\nthe flowers frozen and the wind whispering\nthrough the withered leaves.\n\nAnd everyone knows it\nbecause everyone lives it that way,\nthough no one needs to live it that way.\n\nBut why is this so?\nThis is so because life's needs require an occupied mind\nand meditation means being unoccupied\nWe train ourselves to be occupied\nand then forget that one needs to be unoccupied\nsometimes\nto know the ecstasy of sheer existence.\n\nOne is to be totally vacant inside\nbecause only then is one a host to the divine guest.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 334,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0904 2.JPG",
+        "side": "right",
+        "printedPage": 259
+      },
+      {
+        "file": "IMG_0905 2.JPG",
+        "side": "left",
+        "printedPage": 260
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

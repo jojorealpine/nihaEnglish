@@ -1,0 +1,58 @@
+{
+  "key": "letter-092-part-02",
+  "number": 92,
+  "generationId": "01a1e631-7e87-790e-9022-359a10f84896",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Ego cannot live unless fed by rejection.",
+      "path": "audio/1970-92/11.mp3",
+      "start": 0.0,
+      "end": 2.346871
+    },
+    {
+      "index": 11,
+      "text": "Acceptance can never be brought about by action, only understanding life can bring it about.",
+      "path": "audio/1970-92/12.mp3",
+      "start": 3.537029,
+      "end": 8.702357999999998
+    },
+    {
+      "index": 12,
+      "text": "Look, look at life.",
+      "path": "audio/1970-92/13.mp3",
+      "start": 9.94805,
+      "end": 11.69839
+    },
+    {
+      "index": 13,
+      "text": "What is is, it is as it is.",
+      "path": "audio/1970-92/14.mp3",
+      "start": 12.955125,
+      "end": 15.431633
+    },
+    {
+      "index": 14,
+      "text": "Things are such - do not ask for them to be otherwise because they cannot be even if you so desire.",
+      "path": "audio/1970-92/15.mp3",
+      "start": 16.676236,
+      "end": 22.739615
+    },
+    {
+      "index": 15,
+      "text": "Desire is altogether impotent.",
+      "path": "audio/1970-92/16.mp3",
+      "start": 24.220679999999998,
+      "end": 26.976644
+    },
+    {
+      "index": 16,
+      "text": "Ah, how can there be restlessness without desire?",
+      "path": "audio/1970-92/17.mp3",
+      "start": 28.445465,
+      "end": 32.73
+    }
+  ]
+}

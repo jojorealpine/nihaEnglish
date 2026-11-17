@@ -1,0 +1,79 @@
+{
+  "key": "letter-151-part-01",
+  "number": 151,
+  "generationId": "01a1e6e7-5230-705b-b249-6deae1f97233",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-151/01.mp3",
+      "start": 0.0,
+      "end": 0.599569
+    },
+    {
+      "index": 1,
+      "text": "God is far off because we don't know how to see him close by.",
+      "path": "audio/1970-151/02.mp3",
+      "start": 1.7905440000000001,
+      "end": 4.840091
+    },
+    {
+      "index": 2,
+      "text": "Actually there is nothing closer than him.",
+      "path": "audio/1970-151/03.mp3",
+      "start": 6.363787,
+      "end": 8.783401
+    },
+    {
+      "index": 3,
+      "text": "More than that - he is the here and now.",
+      "path": "audio/1970-151/04.mp3",
+      "start": 10.008776000000001,
+      "end": 12.551701
+    },
+    {
+      "index": 4,
+      "text": "The name God is just for those who can't find the here and now.",
+      "path": "audio/1970-151/05.mp3",
+      "start": 13.894104,
+      "end": 17.101338000000002
+    },
+    {
+      "index": 5,
+      "text": "Words, names, doctrines, scriptures, religion, philosophy, all these are created for those who can see him only at a distance.",
+      "path": "audio/1970-151/06.mp3",
+      "start": 18.425442,
+      "end": 26.041542
+    },
+    {
+      "index": 6,
+      "text": "Hence they have no connection with God but only with those who are blind to the near.",
+      "path": "audio/1970-151/07.mp3",
+      "start": 27.367981999999998,
+      "end": 31.637732
+    },
+    {
+      "index": 7,
+      "text": "That's why I say: Drop the distant.",
+      "path": "audio/1970-151/08.mp3",
+      "start": 32.983560000000004,
+      "end": 35.350431
+    },
+    {
+      "index": 8,
+      "text": "Drop paradises in the sky.",
+      "path": "audio/1970-151/09.mp3",
+      "start": 36.648617,
+      "end": 38.902924999999996
+    },
+    {
+      "index": 9,
+      "text": "Drop hopes in the future, and see the near in time and in space.",
+      "path": "audio/1970-151/10.mp3",
+      "start": 40.404603,
+      "end": 45.45
+    }
+  ]
+}

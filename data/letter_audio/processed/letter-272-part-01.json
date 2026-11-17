@@ -1,0 +1,51 @@
+{
+  "key": "letter-272-part-01",
+  "number": 272,
+  "generationId": "01a1e8ff-801e-7a5e-bf13-3213fd6b4dab",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love",
+      "path": "audio/1971-272/01.mp3",
+      "start": 0.0,
+      "end": 0.5185489999999999
+    },
+    {
+      "index": 1,
+      "text": "When you are with me be completely at ease and relaxed; that is, be totally yourself.",
+      "path": "audio/1971-272/02.mp3",
+      "start": 1.776145,
+      "end": 7.7158500000000005
+    },
+    {
+      "index": 2,
+      "text": "If you feel like crying, then cry; if you feel like weeping, then weep - but just be continually aware.",
+      "path": "audio/1971-272/03.mp3",
+      "start": 9.019819,
+      "end": 16.01229
+    },
+    {
+      "index": 3,
+      "text": "Do not think about what you are doing, just be the doing.",
+      "path": "audio/1971-272/04.mp3",
+      "start": 17.346531,
+      "end": 20.363175000000002
+    },
+    {
+      "index": 4,
+      "text": "And when your senses are shaken like leaves in the wind, enter this shaking, because only in such situations is the being revealed.",
+      "path": "audio/1971-272/05.mp3",
+      "start": 21.718253999999998,
+      "end": 30.620658000000002
+    },
+    {
+      "index": 5,
+      "text": "If a feeling against someone or for someone arises do not project it on the person in question but remain centered in yourself, and you will know a transcendence which is not of this world at all.",
+      "path": "audio/1971-272/06.mp3",
+      "start": 32.120363000000005,
+      "end": 45.37
+    }
+  ]
+}

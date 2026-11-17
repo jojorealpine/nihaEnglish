@@ -1,0 +1,79 @@
+{
+  "key": "letter-074-part-01",
+  "number": 74,
+  "generationId": "01a1e62a-4b00-7be1-91e2-1139fa3f2019",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-74/01.mp3",
+      "start": 0.0,
+      "end": 0.622948
+    },
+    {
+      "index": 1,
+      "text": "Your letter has been received.",
+      "path": "audio/1970-74/02.mp3",
+      "start": 2.203583,
+      "end": 3.682562
+    },
+    {
+      "index": 2,
+      "text": "Why seek at all for a purpose?",
+      "path": "audio/1970-74/03.mp3",
+      "start": 4.918549,
+      "end": 6.91127
+    },
+    {
+      "index": 3,
+      "text": "If you seek this you will never find it because it is eternally hidden in the seeker.",
+      "path": "audio/1970-74/04.mp3",
+      "start": 8.143583000000001,
+      "end": 12.023083999999999
+    },
+    {
+      "index": 4,
+      "text": "Life is without purpose - life is its own purpose, therefore he who lives without purpose truly lives.",
+      "path": "audio/1970-74/05.mp3",
+      "start": 13.224331000000001,
+      "end": 19.279592
+    },
+    {
+      "index": 5,
+      "text": "Live!",
+      "path": "audio/1970-74/06.mp3",
+      "start": 20.611293,
+      "end": 21.306621
+    },
+    {
+      "index": 6,
+      "text": "Isn't living itself enough?",
+      "path": "audio/1970-74/07.mp3",
+      "start": 22.77805,
+      "end": 24.728753
+    },
+    {
+      "index": 7,
+      "text": "The desire to have more than just life is a result of not properly living - and that is why the fear of death grips the human mind, for what is death to one who is really alive!",
+      "path": "audio/1970-74/08.mp3",
+      "start": 26.246893,
+      "end": 37.04381
+    },
+    {
+      "index": 8,
+      "text": "Where living is intense and total there is no time to fear death - and there is no time for death, either.",
+      "path": "audio/1970-74/09.mp3",
+      "start": 38.543129,
+      "end": 45.240862
+    },
+    {
+      "index": 9,
+      "text": "Do not think in the language of purpose - that language is diseased in itself The sky exists without purpose.",
+      "path": "audio/1970-74/10.mp3",
+      "start": 46.836395,
+      "end": 55.25
+    }
+  ]
+}

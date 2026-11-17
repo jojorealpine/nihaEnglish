@@ -1,0 +1,79 @@
+{
+  "key": "letter-268-part-01",
+  "number": 268,
+  "generationId": "01a1e8fe-5703-7801-9167-197b189f047a",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-268/01.mp3",
+      "start": 0.0,
+      "end": 0.570499
+    },
+    {
+      "index": 1,
+      "text": "The mind exists to raise questions, but only questions.",
+      "path": "audio/1971-268/02.mp3",
+      "start": 1.7839459999999998,
+      "end": 5.7241040000000005
+    },
+    {
+      "index": 2,
+      "text": "It never answers, and it can never answer.",
+      "path": "audio/1971-268/03.mp3",
+      "start": 6.923197,
+      "end": 9.569229
+    },
+    {
+      "index": 3,
+      "text": "That is beyond it, it is not meant for that, that is not its function.",
+      "path": "audio/1971-268/04.mp3",
+      "start": 10.785261,
+      "end": 14.920022999999999
+    },
+    {
+      "index": 4,
+      "text": "But it tries to answer, and the result is the mess called philosophy!",
+      "path": "audio/1971-268/05.mp3",
+      "start": 16.160204,
+      "end": 20.257075
+    },
+    {
+      "index": 5,
+      "text": "Meditation never questions, but it answers.",
+      "path": "audio/1971-268/06.mp3",
+      "start": 21.442404,
+      "end": 24.192608
+    },
+    {
+      "index": 6,
+      "text": "It is the answer, because it is life, because it is existence.",
+      "path": "audio/1971-268/07.mp3",
+      "start": 25.763288,
+      "end": 30.551383
+    },
+    {
+      "index": 7,
+      "text": "Question - and there is no answer.",
+      "path": "audio/1971-268/08.mp3",
+      "start": 31.967913999999997,
+      "end": 35.075441999999995
+    },
+    {
+      "index": 8,
+      "text": "Do not question - and you are the answer.",
+      "path": "audio/1971-268/09.mp3",
+      "start": 36.482109,
+      "end": 39.748776
+    },
+    {
+      "index": 9,
+      "text": "Why is it so?",
+      "path": "audio/1971-268/10.mp3",
+      "start": 41.162018,
+      "end": 42.48
+    }
+  ]
+}

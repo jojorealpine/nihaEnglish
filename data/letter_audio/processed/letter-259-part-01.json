@@ -1,0 +1,72 @@
+{
+  "key": "letter-259-part-01",
+  "number": 259,
+  "generationId": "01a1e8fc-7c26-776b-9c3b-36aa817d1c3b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-259/01.mp3",
+      "start": 0.0,
+      "end": 0.619002
+    },
+    {
+      "index": 1,
+      "text": "Life becomes more authentic in the direct encountering of death.",
+      "path": "audio/1971-259/02.mp3",
+      "start": 2.1704309999999998,
+      "end": 5.993401
+    },
+    {
+      "index": 2,
+      "text": "But we always try to escape the fact of death, and so life becomes pseudo and phony.",
+      "path": "audio/1971-259/03.mp3",
+      "start": 7.381587,
+      "end": 12.607211
+    },
+    {
+      "index": 3,
+      "text": "Even death, when authentic, has a beauty of its own while pseudo-life is just ugly.",
+      "path": "audio/1971-259/04.mp3",
+      "start": 14.045986000000001,
+      "end": 19.51059
+    },
+    {
+      "index": 4,
+      "text": "Meditate on death because there is no way to know life unless you stand face to face with death.",
+      "path": "audio/1971-259/05.mp3",
+      "start": 20.992313,
+      "end": 26.347143000000003
+    },
+    {
+      "index": 5,
+      "text": "And it is everywhere; wherever life is death is also.",
+      "path": "audio/1971-259/06.mp3",
+      "start": 27.579501,
+      "end": 32.114717
+    },
+    {
+      "index": 6,
+      "text": "They are really two aspects of one and the same phenomenon,",
+      "path": "audio/1971-259/07.mp3",
+      "start": 33.420975000000006,
+      "end": 36.739591999999995
+    },
+    {
+      "index": 7,
+      "text": "and when one comes to know this, one transcends both.",
+      "path": "audio/1971-259/08.mp3",
+      "start": 38.03381,
+      "end": 42.318934
+    },
+    {
+      "index": 8,
+      "text": "Only in that transcendence is the total flowering of consciousness and the ecstasy of being.",
+      "path": "audio/1971-259/09.mp3",
+      "start": 43.866599,
+      "end": 50.42
+    }
+  ]
+}

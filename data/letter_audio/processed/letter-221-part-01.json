@@ -1,0 +1,58 @@
+{
+  "key": "letter-221-part-01",
+  "number": 221,
+  "generationId": "01a1e8f3-51b1-7df0-9c85-2618f20ed0ef",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-221/01.mp3",
+      "start": 0.0,
+      "end": 0.602426
+    },
+    {
+      "index": 1,
+      "text": "Be a stranger to yourself.",
+      "path": "audio/1971-221/02.mp3",
+      "start": 1.8395009999999998,
+      "end": 3.603288
+    },
+    {
+      "index": 2,
+      "text": "See life as a river flowing through time.",
+      "path": "audio/1971-221/03.mp3",
+      "start": 4.821179,
+      "end": 7.657778
+    },
+    {
+      "index": 3,
+      "text": "Stand on the bank, neither curious nor concerned.",
+      "path": "audio/1971-221/04.mp3",
+      "start": 8.849388000000001,
+      "end": 12.211678
+    },
+    {
+      "index": 4,
+      "text": "Glance or gaze at the driftwood of your past floating in your memory - just like the incidents one reads about in the paper.",
+      "path": "audio/1971-221/05.mp3",
+      "start": 13.392268000000001,
+      "end": 19.901156
+    },
+    {
+      "index": 5,
+      "text": "Detached and indifferent remember that nothing matters.",
+      "path": "audio/1971-221/06.mp3",
+      "start": 21.133423999999998,
+      "end": 24.661882000000002
+    },
+    {
+      "index": 6,
+      "text": "Only exist - and the explosion.",
+      "path": "audio/1971-221/07.mp3",
+      "start": 26.202199999999998,
+      "end": 29.81
+    }
+  ]
+}

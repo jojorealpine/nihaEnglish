@@ -1,0 +1,23 @@
+{
+  "key": "letter-263-part-01",
+  "number": 263,
+  "generationId": "01a1e8fd-7eb5-7215-9f0a-ed80157ff100",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-263/01.mp3",
+      "start": 0.0,
+      "end": 0.696009
+    },
+    {
+      "index": 1,
+      "text": "One should never be afraid of rising thoughts or desires but only of the delay in being aware of them.",
+      "path": "audio/1971-263/02.mp3",
+      "start": 2.101066,
+      "end": 8.67
+    }
+  ]
+}

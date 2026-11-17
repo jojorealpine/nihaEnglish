@@ -1,0 +1,79 @@
+{
+  "key": "letter-289-part-01",
+  "number": 289,
+  "generationId": "01a1e903-1c06-7ef1-a111-d2803e3d1705",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-289/01.mp3",
+      "start": 0.0,
+      "end": 0.728073
+    },
+    {
+      "index": 1,
+      "text": "Takuan says: You cannot bathe in solid ice, nor can you live in a frozen consciousness - and what is the mind except that?",
+      "path": "audio/1971-289/02.mp3",
+      "start": 1.8836049999999998,
+      "end": 9.862357999999999
+    },
+    {
+      "index": 2,
+      "text": "Go in and find out.",
+      "path": "audio/1971-289/03.mp3",
+      "start": 11.031769,
+      "end": 12.645442
+    },
+    {
+      "index": 3,
+      "text": "Do not ask anybody, do not go to the scriptures, go in and find out.",
+      "path": "audio/1971-289/04.mp3",
+      "start": 13.81746,
+      "end": 18.436327000000002
+    },
+    {
+      "index": 4,
+      "text": "Do not think about it because that is absurd - how can you think against the mind?",
+      "path": "audio/1971-289/05.mp3",
+      "start": 19.599591999999998,
+      "end": 23.839161
+    },
+    {
+      "index": 5,
+      "text": "Any conclusion out of thinking can only strengthen the mind.",
+      "path": "audio/1971-289/06.mp3",
+      "start": 25.093740999999998,
+      "end": 28.654762
+    },
+    {
+      "index": 6,
+      "text": "Do not think because thinking is stopping, halting and freezing.",
+      "path": "audio/1971-289/07.mp3",
+      "start": 29.842177,
+      "end": 33.697210999999996
+    },
+    {
+      "index": 7,
+      "text": "Thinking is the disease.",
+      "path": "audio/1971-289/08.mp3",
+      "start": 35.020091,
+      "end": 36.657415
+    },
+    {
+      "index": 8,
+      "text": "Go in and find out - immediately.",
+      "path": "audio/1971-289/09.mp3",
+      "start": 37.876735000000004,
+      "end": 40.415079
+    },
+    {
+      "index": 9,
+      "text": "A moment's thinking and you are again in the old rut.",
+      "path": "audio/1971-289/10.mp3",
+      "start": 41.901202000000005,
+      "end": 45.32
+    }
+  ]
+}

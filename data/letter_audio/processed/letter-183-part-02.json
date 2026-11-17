@@ -1,0 +1,23 @@
+{
+  "key": "letter-183-part-02",
+  "number": 183,
+  "generationId": "01a1e8e8-7545-7d00-aa6c-2fa2f8c98937",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 9,
+      "text": "When there are no ripples of thought and emotion in the consciousness, then and only then does the third form of knowledge dawn, and this third is the only real knowledge.",
+      "path": "audio/1971-183/10.mp3",
+      "start": 0.0,
+      "end": 11.131450999999998
+    },
+    {
+      "index": 10,
+      "text": "Out of it religion is born, and out of it is total transformation.",
+      "path": "audio/1971-183/11.mp3",
+      "start": 12.621587000000002,
+      "end": 18.16
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "key": "letter-251-part-01",
+  "number": 251,
+  "generationId": "01a1e8fa-c492-7959-b2cb-aabce1e26494",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-251/01.mp3",
+      "start": 0.0,
+      "end": 0.657483
+    },
+    {
+      "index": 1,
+      "text": "Be as if dead, and then dualisms will not contaminate you and you will reach the state of the non-arising of thought.",
+      "path": "audio/1971-251/02.mp3",
+      "start": 2.194082,
+      "end": 9.457732
+    },
+    {
+      "index": 2,
+      "text": "The brightness of self-nature will appear in full - and when this happens you are no more.",
+      "path": "audio/1971-251/03.mp3",
+      "start": 10.916440000000001,
+      "end": 16.751247
+    },
+    {
+      "index": 3,
+      "text": "This disappearance is the appearance of the divine, so please - disappear!",
+      "path": "audio/1971-251/04.mp3",
+      "start": 18.138073,
+      "end": 23.72
+    }
+  ]
+}

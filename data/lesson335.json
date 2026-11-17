@@ -1,0 +1,611 @@
+{
+  "id": "1971-335",
+  "title": "1971 / 335",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Meditation",
+      "meaning": "명상",
+      "note": "정신적 집중과 내면의 평화를 추구하는 행위",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "knowledge",
+      "meaning": "지식",
+      "note": "정보, 사실, 이해 등을 포함하는 인지적 이해",
+      "sentenceIds": [
+        2,
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "know",
+      "meaning": "알다, 이해하다",
+      "note": "여기서는 지식이나 인지적 이해의 한계를 강조하며, 경험적 차원으로의 이동을 시사한다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "superficial",
+      "meaning": "표면적인",
+      "note": "깊이 없이 겉으로만 보이는 것을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "acquaintance",
+      "meaning": "친분",
+      "note": "여기서는 지식이나 이해가 외부에서 온 관계나 경험이라는 의미를 담고 있다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "outside",
+      "meaning": "외부",
+      "note": "지식이나 이해가 외부 세계나 경험이라는 맥락에서 사용되었다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thing",
+      "meaning": "대상, 개념",
+      "note": "문장에서는 구체적인 대상이나 개념을 가리키며, 본질적인 가치보다는 맥락 내에서의 역할에 초점을 맞춘다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Chinese",
+      "meaning": "중국의",
+      "note": "특정 황제나 문화를 지칭하는 형용사입니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ultimate",
+      "meaning": "궁극적인",
+      "note": "최고 수준이나 가장 중요한 것을 의미합니다.",
+      "sentenceIds": [
+        7,
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "laughed",
+      "meaning": "웃었다",
+      "note": "보디다르마의 태도를 나타내며, 질문에 대한 답변이 가볍거나 농담처럼 들릴 수 있음을 시사",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "emptiness",
+      "meaning": "공허함",
+      "note": "불교 용어로, 모든 존재의 본질적인 성질이 비어 있다는 의미로 해석되며, 여기서는 궁극적인 진리나 거룩함의 본질을 설명",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "present",
+      "meaning": "현재의",
+      "note": "시간적 맥락에서 현재 상황을 강조",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "confronting",
+      "meaning": "대치하고 있는",
+      "note": "상대방과 직접적인 대치 상황을 나타냄",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "simply",
+      "meaning": "단순히",
+      "note": "행동이나 말이 매우 간단하거나 직접적인 방식으로 이루어졌음을 나타냅니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "said",
+      "meaning": "말했다",
+      "note": "이 문맥에서는 「말했다」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "beauty",
+      "meaning": "아름다움",
+      "note": "물리적 또는 정신적 아름다움을 가리키며, 문맥에 따라 해석이 달라질 수 있음",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "truth",
+      "meaning": "진리, 사실",
+      "note": "이 문맥에서는 「진리, 사실」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "innocence",
+      "meaning": "무죄의 상태, 순수함",
+      "note": "이 단어는 주로 도덕적 또는 정신적 순수함을 가리키며, 여기서는 질문의 맥락에서 어떤 상황이나 개인의 순수함을 묻는 것으로 해석됩니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "holiness",
+      "meaning": "성스러움, 신성함",
+      "note": "이 단어는 신성하거나 성스러운 상태나 특성을 나타냅니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fullness",
+      "meaning": "완전함, 충족",
+      "note": "이 단어는 어떤 것이 완전히 채워져 있거나 모든 요소가 포함된 상태를 나타냅니다.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "absolutely",
+      "meaning": "절대적으로",
+      "note": "완전하고 무조건적인 상태를 강조합니다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4,
+      5
+    ],
+    [
+      6,
+      7,
+      8,
+      9
+    ],
+    [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-335/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Meditation is beyond knowledge.",
+      "korean": "명상은 지식을 넘어선다.",
+      "explanation": "명상은 단순히 지식으로 이해하거나 설명할 수 없는 깊이와 차원을 지닌다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-335/02.mp3",
+      "vocabulary": [
+        {
+          "word": "Meditation",
+          "meaning": "명상",
+          "note": "정신적 집중과 내면의 평화를 추구하는 행위"
+        },
+        {
+          "word": "knowledge",
+          "meaning": "지식",
+          "note": "정보, 사실, 이해 등을 포함하는 인지적 이해"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "You can be it but you cannot know it.",
+      "korean": "그것을 경험할 수는 있지만 알 수는 없다.",
+      "explanation": "명상이나 깊은 내면의 상태는 지식이나 이해로 완전히 설명될 수 없다는 의미",
+      "grammar": "「can be」에서 조동사 can 뒤에 동사원형 「be」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1971-335/03.mp3",
+      "vocabulary": [
+        {
+          "word": "know",
+          "meaning": "알다, 이해하다",
+          "note": "여기서는 지식이나 인지적 이해의 한계를 강조하며, 경험적 차원으로의 이동을 시사한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "All knowledge is superficial.",
+      "korean": "모든 지식은 표면적이야.",
+      "explanation": "문장의 의미: 모든 지식이 깊이가 없고 겉으로 드러나는 것에 불과하다는 뜻입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-335/04.mp3",
+      "vocabulary": [
+        {
+          "word": "knowledge",
+          "meaning": "지식",
+          "note": "일반적인 정보나 이해를 의미합니다."
+        },
+        {
+          "word": "superficial",
+          "meaning": "표면적인",
+          "note": "깊이 없이 겉으로만 보이는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "It is never anything else but an acquaintance from outside.",
+      "korean": "외부에서 온 친분일 뿐이다.",
+      "explanation": "지식은 외부에서 온 친분에 불과하다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-335/05.mp3",
+      "vocabulary": [
+        {
+          "word": "acquaintance",
+          "meaning": "친분",
+          "note": "여기서는 지식이나 이해가 외부에서 온 관계나 경험이라는 의미를 담고 있다."
+        },
+        {
+          "word": "outside",
+          "meaning": "외부",
+          "note": "지식이나 이해가 외부 세계나 경험이라는 맥락에서 사용되었다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "It is always about but never the thing itself,",
+      "korean": "그것은 항상 본질적인 것이 아니라 주변의 관계에 불과하다.",
+      "explanation": "문장은 어떤 대상이나 개념이 그 자체의 본질보다는 주변 상황이나 관계 속에서만 의미를 갖는다는 것을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-335/06.mp3",
+      "vocabulary": [
+        {
+          "word": "thing",
+          "meaning": "대상, 개념",
+          "note": "문장에서는 구체적인 대상이나 개념을 가리키며, 본질적인 가치보다는 맥락 내에서의 역할에 초점을 맞춘다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "When the Chinese emperor Wu came to meet Bodhidharma he asked the master: What is the holy, ultimate truth?",
+      "korean": "중국 황제 무제가 보리다르마를 만나 진리의 본질을 물었다: 신성하고 궁극적인 진리는 무엇인가?",
+      "explanation": "중국 황제 무제가 보리다르마에게 진리의 본질에 대해 질문하는 장면을 묘사합니다.",
+      "grammar": "동사 「asked」는 ask의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-335/07.mp3",
+      "vocabulary": [
+        {
+          "word": "Chinese",
+          "meaning": "중국의",
+          "note": "특정 황제나 문화를 지칭하는 형용사입니다."
+        },
+        {
+          "word": "ultimate",
+          "meaning": "궁극적인",
+          "note": "최고 수준이나 가장 중요한 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "Bodhidharma laughed and replied: Nothing holy, sir, and it is emptiness itself.",
+      "korean": "보디다르마는 웃으며 대답했다: 거룩함이란 아무것도 아니며, 그것은 공허함 자체이다.",
+      "explanation": "보디다르마가 웃으면서 거룩함이나 궁극적인 진리에 대한 질문에 대해 공허함을 강조한 대답",
+      "grammar": "동사 「laughed」는 laugh의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-335/08.mp3",
+      "vocabulary": [
+        {
+          "word": "laughed",
+          "meaning": "웃었다",
+          "note": "보디다르마의 태도를 나타내며, 질문에 대한 답변이 가볍거나 농담처럼 들릴 수 있음을 시사"
+        },
+        {
+          "word": "emptiness",
+          "meaning": "공허함",
+          "note": "불교 용어로, 모든 존재의 본질적인 성질이 비어 있다는 의미로 해석되며, 여기서는 궁극적인 진리나 거룩함의 본질을 설명"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "Of course Wu was taken aback, but he asked again: Then who is the one who at present stands confronting me?",
+      "korean": "물론 우는 당황했지만 다시 물었다: 지금 당장 나와 대치하고 있는 자는 누구인가?",
+      "explanation": "현재 상황에서 상대방을 묻는 질문",
+      "grammar": "「was taken」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-335/09.mp3",
+      "vocabulary": [
+        {
+          "word": "present",
+          "meaning": "현재의",
+          "note": "시간적 맥락에서 현재 상황을 강조"
+        },
+        {
+          "word": "confronting",
+          "meaning": "대치하고 있는",
+          "note": "상대방과 직접적인 대치 상황을 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "Bodhidharma simply said: I don't know.",
+      "korean": "보디다르마는 단순히 말했다: 모르겠다.",
+      "explanation": "보디다르마가 질문에 대해 간결하게 대답하며 무지를 표현한 내용입니다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-335/10.mp3",
+      "vocabulary": [
+        {
+          "word": "simply",
+          "meaning": "단순히",
+          "note": "행동이나 말이 매우 간단하거나 직접적인 방식으로 이루어졌음을 나타냅니다."
+        },
+        {
+          "word": "said",
+          "meaning": "말했다",
+          "note": "이 문맥에서는 「말했다」의 뜻으로 읽습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "Do you see the beauty of it?",
+      "korean": "그것의 아름다움을 보나요?",
+      "explanation": "상대방에게 어떤 것의 아름다움을 인식하고 있는지 묻는 질문",
+      "grammar": "조동사 「Do」가 본동사 「see」와 함께 쓰였습니다. 의문문을 만들거나 동작을 강조할 때 do/does/did 뒤의 본동사는 원형을 유지합니다.",
+      "audio": "audio/1971-335/11.mp3",
+      "vocabulary": [
+        {
+          "word": "beauty",
+          "meaning": "아름다움",
+          "note": "물리적 또는 정신적 아름다움을 가리키며, 문맥에 따라 해석이 달라질 수 있음"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "And the truth?",
+      "korean": "그리고 진실은 어떨까요?",
+      "explanation": "문장은 질문의 맥락에서 '진실'에 대해 의문을 제기하며, 주어진 문맥의 아름다움이나 깊이에 대한 탐구를 이어가려는 의도를 나타냅니다.",
+      "grammar": "명사 「truth」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1971-335/12.mp3",
+      "vocabulary": [
+        {
+          "word": "truth",
+          "meaning": "진리, 사실",
+          "note": "이 문맥에서는 「진리, 사실」의 뜻으로 읽습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "And the innocence?",
+      "korean": "그리고 그 순수함은 어떨까요?",
+      "explanation": "문장은 질문 형태로 순수함 또는 무죄의 상태나 의미에 대해 탐구하려는 의도를 나타냅니다.",
+      "grammar": "명사 「innocence」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1971-335/13.mp3",
+      "vocabulary": [
+        {
+          "word": "innocence",
+          "meaning": "무죄의 상태, 순수함",
+          "note": "이 단어는 주로 도덕적 또는 정신적 순수함을 가리키며, 여기서는 질문의 맥락에서 어떤 상황이나 개인의 순수함을 묻는 것으로 해석됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "And the holiness?",
+      "korean": "그리고 신성함은 어떨까요?",
+      "explanation": "문장은 질문 형태로 신성함(holiness)에 대해 언급하고 있습니다.",
+      "grammar": "명사 「holiness」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1971-335/14.mp3",
+      "vocabulary": [
+        {
+          "word": "holiness",
+          "meaning": "성스러움, 신성함",
+          "note": "이 단어는 신성하거나 성스러운 상태나 특성을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "And the fullness?",
+      "korean": "완전함은 어떨까요?",
+      "explanation": "문장은 어떤 상태나 개념의 완전성이나 충족 상태에 대해 질문하고 있습니다.",
+      "grammar": "명사 「fullness」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1971-335/15.mp3",
+      "vocabulary": [
+        {
+          "word": "fullness",
+          "meaning": "완전함, 충족",
+          "note": "이 단어는 어떤 것이 완전히 채워져 있거나 모든 요소가 포함된 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "And how absolutely ultimate it is?",
+      "korean": "그리고 얼마나 절대적으로 궁극적인가?",
+      "explanation": "문장은 어떤 상태나 개념이 완벽하게 궁극적이고 절대적인 정도를 묻고 있습니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-335/16.mp3",
+      "vocabulary": [
+        {
+          "word": "absolutely",
+          "meaning": "절대적으로",
+          "note": "완전하고 무조건적인 상태를 강조합니다."
+        },
+        {
+          "word": "ultimate",
+          "meaning": "궁극적인",
+          "note": "최고 수준이나 최종적인 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "명상은 지식을 넘어선다. 그것을 경험할 수는 있지만 알 수는 없다.",
+    "모든 지식은 표면적이야. 외부에서 온 친분일 뿐이다. 그것은 항상 본질적인 것이 아니라 주변의 관계에 불과하다.",
+    "중국 황제 무제가 보리다르마를 만나 진리의 본질을 물었다: 신성하고 궁극적인 진리는 무엇인가? 보디다르마는 웃으며 대답했다: 거룩함이란 아무것도 아니며, 그것은 공허함 자체이다. 물론 우는 당황했지만 다시 물었다: 지금 당장 나와 대치하고 있는 자는 누구인가? 보디다르마는 단순히 말했다: 모르겠다.",
+    "그것의 아름다움을 보나요? 그리고 진실은 어떨까요? 그리고 그 순수함은 어떨까요? 그리고 신성함은 어떨까요? 완전함은 어떨까요? 그리고 얼마나 절대적으로 궁극적인가?"
+  ],
+  "fullAudio": "audio/1971-335/script_all.mp3",
+  "originalText": "Love.\n\nMeditation is beyond knowledge.\nYou can be it but you cannot know it.\n\nAll knowledge is superficial.\nIt is never anything else\nbut an acquaintance from outside.\nIt is always about\nbut never the thing itself,\n\nWhen the Chinese emperor Wu\ncame to meet Bodhidharma\nhe asked the master:\nWhat is the holy, ultimate truth?\nBodhidharma laughed and replied:\nNothing holy, sir,\nand it is emptiness itself.\nOf course Wu was taken aback, but he asked again:\nThen who is the one who at present\nstands confronting me?\nBodhidharma simply said:\nI don't know.\n\nDo you see the beauty of it?\nAnd the truth?\nAnd the innocence?\nAnd the holiness?\nAnd the fullness?\nAnd how absolutely ultimate it is?",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 335,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0905 2.JPG",
+        "side": "left",
+        "printedPage": 260
+      },
+      {
+        "file": "IMG_0905 2.JPG",
+        "side": "right",
+        "printedPage": 261
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

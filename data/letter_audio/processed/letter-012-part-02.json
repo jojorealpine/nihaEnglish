@@ -1,0 +1,79 @@
+{
+  "key": "letter-012-part-02",
+  "number": 12,
+  "generationId": "01a1e4e9-2216-7203-a207-5cf4d35b57c3",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Patience is the most important thing of all in spiritual life.",
+      "path": "audio/1963-12/11.mp3",
+      "start": 0.0,
+      "end": 3.991542
+    },
+    {
+      "index": 11,
+      "text": "How long one must wait after sowing the seed!",
+      "path": "audio/1963-12/12.mp3",
+      "start": 5.42229,
+      "end": 8.596893
+    },
+    {
+      "index": 12,
+      "text": "At first all the effort seems wasted, nothing seems to happen, and then one day the waiting ends and there is actuality - the seed breaks, pushes through the earth, into a plant!",
+      "path": "audio/1963-12/13.mp3",
+      "start": 10.006531,
+      "end": 23.542268
+    },
+    {
+      "index": 13,
+      "text": "But remember that even when nothing seemed to be happening the seed was working away under the soil.",
+      "path": "audio/1963-12/14.mp3",
+      "start": 24.957369999999997,
+      "end": 30.733855000000002
+    },
+    {
+      "index": 14,
+      "text": "It is the same with the seeker for truth - when nothing appears to be happening much is happening.",
+      "path": "audio/1963-12/15.mp3",
+      "start": 32.109660000000005,
+      "end": 37.621156
+    },
+    {
+      "index": 15,
+      "text": "The fact is that all growth of life-energy is unseen and unknown.",
+      "path": "audio/1963-12/16.mp3",
+      "start": 38.929025,
+      "end": 43.431155999999994
+    },
+    {
+      "index": 16,
+      "text": "Only the results can be observed not the progress.",
+      "path": "audio/1963-12/17.mp3",
+      "start": 44.694512,
+      "end": 47.859477999999996
+    },
+    {
+      "index": 17,
+      "text": "I am in bliss.",
+      "path": "audio/1963-12/18.mp3",
+      "start": 49.094354,
+      "end": 50.317755
+    },
+    {
+      "index": 18,
+      "text": "I want you to come closer to God Forget about results, just keep going on your path; let the fruits come by themselves.",
+      "path": "audio/1963-12/19.mp3",
+      "start": 51.568776,
+      "end": 60.038481
+    },
+    {
+      "index": 19,
+      "text": "One day one wonders: What has happened!",
+      "path": "audio/1963-12/20.mp3",
+      "start": 61.540816,
+      "end": 65.2
+    }
+  ]
+}

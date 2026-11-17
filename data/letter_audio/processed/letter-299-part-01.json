@@ -1,0 +1,44 @@
+{
+  "key": "letter-299-part-01",
+  "number": 299,
+  "generationId": "01a1e905-a725-7db9-bba9-3af2a676fdd3",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-299/01.mp3",
+      "start": 0.0,
+      "end": 0.739229
+    },
+    {
+      "index": 1,
+      "text": "The more deeply you go within yourself the less you will find yourself - and yet that is the very heart of your being.",
+      "path": "audio/1971-299/02.mp3",
+      "start": 2.231451,
+      "end": 9.582040999999998
+    },
+    {
+      "index": 2,
+      "text": "And vice versa also: because the more you go without the more you will find yourself - and yet that is the very heart of your non-being.",
+      "path": "audio/1971-299/03.mp3",
+      "start": 10.995828000000001,
+      "end": 20.572109
+    },
+    {
+      "index": 3,
+      "text": "These are the two ways in which you can go.",
+      "path": "audio/1971-299/04.mp3",
+      "start": 22.064082,
+      "end": 24.586281
+    },
+    {
+      "index": 4,
+      "text": "The first is the way of meditation, and the second is the way of the mind.",
+      "path": "audio/1971-299/05.mp3",
+      "start": 26.062925,
+      "end": 30.82
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "key": "letter-287-part-01",
+  "number": 287,
+  "generationId": "01a1e902-9b90-71ac-b472-ac98d3877379",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love",
+      "path": "audio/1971-287/01.mp3",
+      "start": 0.0,
+      "end": 0.651247
+    },
+    {
+      "index": 1,
+      "text": "From sound to soundlessness is the path.",
+      "path": "audio/1971-287/02.mp3",
+      "start": 1.6870980000000002,
+      "end": 4.200975
+    },
+    {
+      "index": 2,
+      "text": "Intone a sound like A-U-M, slowly, and as sound enters soundlessness so do you.",
+      "path": "audio/1971-287/03.mp3",
+      "start": 5.313787,
+      "end": 10.74059
+    },
+    {
+      "index": 3,
+      "text": "Or: remain in the gap between any two sounds and you yourself will become soundlessness.",
+      "path": "audio/1971-287/04.mp3",
+      "start": 11.746871,
+      "end": 16.382063000000002
+    },
+    {
+      "index": 4,
+      "text": "Or: bathe in the continuous sound of a waterfall, or any other.",
+      "path": "audio/1971-287/05.mp3",
+      "start": 17.465079,
+      "end": 21.685079
+    },
+    {
+      "index": 5,
+      "text": "Or: by putting your fingers in your ears hear the source of all sounds - and there will be a sudden explosion of the silent music of the cosmos.",
+      "path": "audio/1971-287/06.mp3",
+      "start": 23.094535,
+      "end": 33.288526
+    },
+    {
+      "index": 6,
+      "text": "Using any way fall into the abyss of soundlessness and you will achieve the divine.",
+      "path": "audio/1971-287/07.mp3",
+      "start": 34.745079000000004,
+      "end": 40.36
+    }
+  ]
+}

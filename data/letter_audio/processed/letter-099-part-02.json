@@ -1,0 +1,16 @@
+{
+  "key": "letter-099-part-02",
+  "number": 99,
+  "generationId": "01a1e632-ff3a-7ada-9c09-f5605377eb3a",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Commit yourself to this great work, join in the building of this great bridge!",
+      "path": "audio/1970-99/11.mp3",
+      "start": 0.0,
+      "end": 4.55
+    }
+  ]
+}

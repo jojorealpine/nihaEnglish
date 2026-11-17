@@ -1,0 +1,79 @@
+{
+  "key": "letter-009-part-01",
+  "number": 9,
+  "generationId": "01a1e4e8-8314-7036-bb48-87430e2c8693",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love",
+      "path": "audio/1963-09/01.mp3",
+      "start": 0.0,
+      "end": 0.566667
+    },
+    {
+      "index": 1,
+      "text": "I read your letter on the way here.",
+      "path": "audio/1963-09/02.mp3",
+      "start": 1.84551,
+      "end": 3.542698
+    },
+    {
+      "index": 2,
+      "text": "It has touched my heart.",
+      "path": "audio/1963-09/03.mp3",
+      "start": 5.056531,
+      "end": 6.553787
+    },
+    {
+      "index": 3,
+      "text": "If your desire to know life's truth becomes strong then what is longing today becomes one day the attainment.",
+      "path": "audio/1963-09/04.mp3",
+      "start": 8.020839,
+      "end": 14.561973
+    },
+    {
+      "index": 4,
+      "text": "Burning desire is all that is needed and nothing else.",
+      "path": "audio/1963-09/05.mp3",
+      "start": 16.058571,
+      "end": 18.97102
+    },
+    {
+      "index": 5,
+      "text": "As rivers seek out the ocean so man if he wants to can find the truth.",
+      "path": "audio/1963-09/06.mp3",
+      "start": 20.465985999999997,
+      "end": 24.578594000000002
+    },
+    {
+      "index": 6,
+      "text": "No peak, no mountain can stop him, in fact their challenge awakens his sense of adventure.",
+      "path": "audio/1963-09/07.mp3",
+      "start": 25.94941,
+      "end": 31.505147
+    },
+    {
+      "index": 7,
+      "text": "Truth is within everyone.",
+      "path": "audio/1963-09/08.mp3",
+      "start": 32.881315,
+      "end": 34.515668999999995
+    },
+    {
+      "index": 8,
+      "text": "Rivers have to find the ocean but our ocean is inside us - it is a wonder that so many remain thirsty still without it.",
+      "path": "audio/1963-09/09.mp3",
+      "start": 35.894671,
+      "end": 43.004739
+    },
+    {
+      "index": 9,
+      "text": "Actually they cannot really want it.",
+      "path": "audio/1963-09/10.mp3",
+      "start": 44.478005,
+      "end": 46.94
+    }
+  ]
+}

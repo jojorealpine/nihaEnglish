@@ -1,0 +1,79 @@
+{
+  "key": "letter-087-part-01",
+  "number": 87,
+  "generationId": "01a1e630-2966-79fe-9bd5-0dc6fef81671",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-87/01.mp3",
+      "start": 0.0,
+      "end": 0.547302
+    },
+    {
+      "index": 1,
+      "text": "The time is ripe.",
+      "path": "audio/1970-87/02.mp3",
+      "start": 1.6986850000000002,
+      "end": 2.770295
+    },
+    {
+      "index": 2,
+      "text": "The hour draws nearer every day.",
+      "path": "audio/1970-87/03.mp3",
+      "start": 3.9629250000000003,
+      "end": 5.836871
+    },
+    {
+      "index": 3,
+      "text": "Innumerable souls are restless.",
+      "path": "audio/1970-87/04.mp3",
+      "start": 7.1147849999999995,
+      "end": 8.95746
+    },
+    {
+      "index": 4,
+      "text": "A path has to be created for them.",
+      "path": "audio/1970-87/05.mp3",
+      "start": 10.105465,
+      "end": 11.814036
+    },
+    {
+      "index": 5,
+      "text": "So hurry!",
+      "path": "audio/1970-87/06.mp3",
+      "start": 12.971633,
+      "end": 13.7922
+    },
+    {
+      "index": 6,
+      "text": "Work hard!",
+      "path": "audio/1970-87/07.mp3",
+      "start": 15.002109,
+      "end": 15.850952
+    },
+    {
+      "index": 7,
+      "text": "Surrender totally!",
+      "path": "audio/1970-87/08.mp3",
+      "start": 16.976167999999998,
+      "end": 18.242426000000002
+    },
+    {
+      "index": 8,
+      "text": "Forget yourself!",
+      "path": "audio/1970-87/09.mp3",
+      "start": 19.49102,
+      "end": 20.429819000000002
+    },
+    {
+      "index": 9,
+      "text": "Plunge into God's work like a madman.",
+      "path": "audio/1970-87/10.mp3",
+      "start": 21.593152,
+      "end": 23.72
+    }
+  ]
+}

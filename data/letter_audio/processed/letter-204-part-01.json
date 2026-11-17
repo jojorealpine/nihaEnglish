@@ -1,0 +1,37 @@
+{
+  "key": "letter-204-part-01",
+  "number": 204,
+  "generationId": "01a1e8ed-88a7-7a9d-b53c-0a83655bc2ba",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-204/01.mp3",
+      "start": 0.0,
+      "end": 0.858753
+    },
+    {
+      "index": 1,
+      "text": "John Burroughs remembers: One day my boy killed what an old hunter told him was a mock duck.",
+      "path": "audio/1971-204/02.mp3",
+      "start": 2.301633,
+      "end": 8.827867999999999
+    },
+    {
+      "index": 2,
+      "text": "It looked like a duck, it acted like a duck, but when it was placed on the table - it mocked us!",
+      "path": "audio/1971-204/03.mp3",
+      "start": 10.250816,
+      "end": 16.516825
+    },
+    {
+      "index": 3,
+      "text": "Remember to make a clearcut distinction between your self and your mock-selves - the masks, otherwise in the end they will all mock you!",
+      "path": "audio/1971-204/04.mp3",
+      "start": 18.0639,
+      "end": 26.7
+    }
+  ]
+}

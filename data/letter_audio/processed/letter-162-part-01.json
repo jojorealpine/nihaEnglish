@@ -1,0 +1,79 @@
+{
+  "key": "letter-162-part-01",
+  "number": 162,
+  "generationId": "01a1e8e2-c557-71be-a209-793109354dd2",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-162/01.mp3",
+      "start": 0.0,
+      "end": 0.68059
+    },
+    {
+      "index": 1,
+      "text": "Society is only a collectivity of individuals.",
+      "path": "audio/1970-162/02.mp3",
+      "start": 1.838413,
+      "end": 4.913061
+    },
+    {
+      "index": 2,
+      "text": "Hence, finally and essentially, it is a reflection of the minds of the individuals.",
+      "path": "audio/1970-162/03.mp3",
+      "start": 6.140635,
+      "end": 11.621882
+    },
+    {
+      "index": 3,
+      "text": "If the individual mind is without peace, the society cannot be at peace.",
+      "path": "audio/1970-162/04.mp3",
+      "start": 12.865147,
+      "end": 17.821678000000002
+    },
+    {
+      "index": 4,
+      "text": "Only a radical transformation of the individual mind can become the peace of the society.",
+      "path": "audio/1970-162/05.mp3",
+      "start": 19.082857,
+      "end": 24.298798
+    },
+    {
+      "index": 5,
+      "text": "There is no other alternative.",
+      "path": "audio/1970-162/06.mp3",
+      "start": 25.56034,
+      "end": 27.074966
+    },
+    {
+      "index": 6,
+      "text": "Nor is there any shortcut.",
+      "path": "audio/1970-162/07.mp3",
+      "start": 28.399704999999997,
+      "end": 30.161927000000002
+    },
+    {
+      "index": 7,
+      "text": "The technique for individual transformation is meditation.",
+      "path": "audio/1970-162/08.mp3",
+      "start": 31.477142999999998,
+      "end": 35.107642
+    },
+    {
+      "index": 8,
+      "text": "With more and more people moving into meditation; only then is something possible.",
+      "path": "audio/1970-162/09.mp3",
+      "start": 36.399048,
+      "end": 41.386348999999996
+    },
+    {
+      "index": 9,
+      "text": "To take shelter in the divine is the only way.",
+      "path": "audio/1970-162/10.mp3",
+      "start": 42.993832000000005,
+      "end": 46.39
+    }
+  ]
+}

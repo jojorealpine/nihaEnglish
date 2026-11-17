@@ -1,0 +1,79 @@
+{
+  "key": "letter-254-part-01",
+  "number": 254,
+  "generationId": "01a1e8fb-68f0-7be0-a25d-f8c9a6bbd011",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-254/01.mp3",
+      "start": 0.0,
+      "end": 0.665737
+    },
+    {
+      "index": 1,
+      "text": "Life is movement, process, fluidity; but ideas become fixed, so they become also anti-life.",
+      "path": "audio/1971-254/02.mp3",
+      "start": 1.658821,
+      "end": 7.5523810000000005
+    },
+    {
+      "index": 2,
+      "text": "They become dead blocks.",
+      "path": "audio/1971-254/03.mp3",
+      "start": 8.620998,
+      "end": 9.878706999999999
+    },
+    {
+      "index": 3,
+      "text": "Do not remain with them.",
+      "path": "audio/1971-254/04.mp3",
+      "start": 10.997188000000001,
+      "end": 12.223764
+    },
+    {
+      "index": 4,
+      "text": "Move.",
+      "path": "audio/1971-254/05.mp3",
+      "start": 13.241542,
+      "end": 13.878345
+    },
+    {
+      "index": 5,
+      "text": "And do not fear inconsistency because life is not a syllogism, life is not a theory but a mystery.",
+      "path": "audio/1971-254/06.mp3",
+      "start": 14.931293,
+      "end": 20.472041
+    },
+    {
+      "index": 6,
+      "text": "Someone asked Mulla Nasrudin: How old are you, Mulla?",
+      "path": "audio/1971-254/07.mp3",
+      "start": 22.026643999999997,
+      "end": 25.516621
+    },
+    {
+      "index": 7,
+      "text": "Forty.",
+      "path": "audio/1971-254/08.mp3",
+      "start": 27.208911999999998,
+      "end": 27.881338
+    },
+    {
+      "index": 8,
+      "text": "But you said the same last time I asked you, five years ago!",
+      "path": "audio/1971-254/09.mp3",
+      "start": 29.510476,
+      "end": 33.519751
+    },
+    {
+      "index": 9,
+      "text": "Yes, I am always consistent and always stand by what I have said.",
+      "path": "audio/1971-254/10.mp3",
+      "start": 35.080771000000006,
+      "end": 40.36
+    }
+  ]
+}

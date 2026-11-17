@@ -1,0 +1,23 @@
+{
+  "key": "letter-362-part-02",
+  "number": 362,
+  "generationId": "01a1e919-153c-7249-ab55-d079575f70e9",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "And then suddenly there will be no dreaming.",
+      "path": "audio/1971-362/11.mp3",
+      "start": 0.0,
+      "end": 2.893605
+    },
+    {
+      "index": 11,
+      "text": "Only you and illumination.",
+      "path": "audio/1971-362/12.mp3",
+      "start": 4.254898,
+      "end": 6.77
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "key": "letter-136-part-02",
+  "number": 136,
+  "generationId": "01a1e6ce-3d3f-778e-8577-3943ca4fc9a7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Strong, bold and resolute is the soul of sannyas.",
+      "path": "audio/1970-136/11.mp3",
+      "start": 0.0,
+      "end": 3.19
+    }
+  ]
+}

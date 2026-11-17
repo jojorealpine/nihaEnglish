@@ -1,0 +1,58 @@
+{
+  "key": "letter-036-part-01",
+  "number": 36,
+  "generationId": "01a1e4ec-b36c-7d7f-9082-6d1e4fac844e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1966-36/01.mp3",
+      "start": 0.0,
+      "end": 0.704036
+    },
+    {
+      "index": 1,
+      "text": "I was very happy to meet you the other day.",
+      "path": "audio/1966-36/02.mp3",
+      "start": 1.975533,
+      "end": 4.1358500000000005
+    },
+    {
+      "index": 2,
+      "text": "I felt the stirrings of your heart and the longing of your soul.",
+      "path": "audio/1966-36/03.mp3",
+      "start": 5.450703,
+      "end": 8.864398999999999
+    },
+    {
+      "index": 3,
+      "text": "You have not yet flowered as you were born to: the seed is ready to sprout and the soil is right.",
+      "path": "audio/1966-36/04.mp3",
+      "start": 10.248821000000001,
+      "end": 16.465556
+    },
+    {
+      "index": 4,
+      "text": "You will not have long to wait.",
+      "path": "audio/1966-36/05.mp3",
+      "start": 17.882132,
+      "end": 19.543016
+    },
+    {
+      "index": 5,
+      "text": "But now you have to work with great determination.",
+      "path": "audio/1966-36/06.mp3",
+      "start": 20.906983999999998,
+      "end": 24.13034
+    },
+    {
+      "index": 6,
+      "text": "It is only a matter of starting the journey, God's gravitational pull does the rest.",
+      "path": "audio/1966-36/07.mp3",
+      "start": 25.659252,
+      "end": 31.43
+    }
+  ]
+}

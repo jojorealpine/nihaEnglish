@@ -1,0 +1,58 @@
+{
+  "key": "letter-112-part-01",
+  "number": 112,
+  "generationId": "01a1e635-af1f-7da4-b254-92f64f3dd676",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-112/01.mp3",
+      "start": 0.0,
+      "end": 0.671293
+    },
+    {
+      "index": 1,
+      "text": "Thirst is good, longing is good, an aching heart is good, because he comes through the vale of tears.",
+      "path": "audio/1970-112/02.mp3",
+      "start": 1.8282539999999998,
+      "end": 7.571497
+    },
+    {
+      "index": 2,
+      "text": "Weep so much that only the tears remain, not you.",
+      "path": "audio/1970-112/03.mp3",
+      "start": 8.829773000000001,
+      "end": 12.090815999999998
+    },
+    {
+      "index": 3,
+      "text": "If the tears alone remain and he who weeps vanishes then God comes by himself.",
+      "path": "audio/1970-112/04.mp3",
+      "start": 13.266689000000001,
+      "end": 18.112018000000003
+    },
+    {
+      "index": 4,
+      "text": "That is why I let you go, not stopping you.",
+      "path": "audio/1970-112/05.mp3",
+      "start": 19.301474,
+      "end": 22.074694
+    },
+    {
+      "index": 5,
+      "text": "I knew you would regret it - but this regret is good.",
+      "path": "audio/1970-112/06.mp3",
+      "start": 23.506847999999998,
+      "end": 27.326281
+    },
+    {
+      "index": 6,
+      "text": "I knew you would weep but these tears have their usefulness - can there be a profounder prayer than tears?",
+      "path": "audio/1970-112/07.mp3",
+      "start": 28.874762,
+      "end": 36.36
+    }
+  ]
+}

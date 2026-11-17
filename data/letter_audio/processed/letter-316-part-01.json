@@ -1,0 +1,79 @@
+{
+  "key": "letter-316-part-01",
+  "number": 316,
+  "generationId": "01a1e90b-6912-7423-9481-7b7eb02795d4",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-316/01.mp3",
+      "start": 0.0,
+      "end": 0.647868
+    },
+    {
+      "index": 1,
+      "text": "The real thing is not to fight with your thoughts or desires or instincts because that is negative and the negative cannot help.",
+      "path": "audio/1971-316/02.mp3",
+      "start": 2.216576,
+      "end": 9.932585
+    },
+    {
+      "index": 2,
+      "text": "The real thing is to grow in awareness, in meditation, because then one wins without any fight whatsoever.",
+      "path": "audio/1971-316/03.mp3",
+      "start": 11.553878000000001,
+      "end": 18.782585
+    },
+    {
+      "index": 3,
+      "text": "And to win through conflict is not a real victory because that which has been suppressed will have to be suppressed again and again.",
+      "path": "audio/1971-316/04.mp3",
+      "start": 20.380997999999998,
+      "end": 28.212880000000002
+    },
+    {
+      "index": 4,
+      "text": "Through conflict there is no end to conflict and through fight only more fight is born.",
+      "path": "audio/1971-316/05.mp3",
+      "start": 29.713651,
+      "end": 35.476395
+    },
+    {
+      "index": 5,
+      "text": "But there is a victory without any conflict, fight or suppression.",
+      "path": "audio/1971-316/06.mp3",
+      "start": 37.014943,
+      "end": 41.242109
+    },
+    {
+      "index": 6,
+      "text": "That victory comes through positive growth in awareness.",
+      "path": "audio/1971-316/07.mp3",
+      "start": 42.793946000000005,
+      "end": 46.096576
+    },
+    {
+      "index": 7,
+      "text": "Do not fight with yourself but grow in awareness and understanding and silence, and all that is negative and diseased will have withered away by itself.",
+      "path": "audio/1971-316/08.mp3",
+      "start": 47.638413,
+      "end": 57.102154
+    },
+    {
+      "index": 8,
+      "text": "Suzuki tells a story: Chi Hsing Tzu was raising a fighting cock for his lord.",
+      "path": "audio/1971-316/09.mp3",
+      "start": 58.64712,
+      "end": 64.495714
+    },
+    {
+      "index": 9,
+      "text": "Ten days passed and the lord asked: Is he ready?",
+      "path": "audio/1971-316/10.mp3",
+      "start": 66.00535099999999,
+      "end": 70.16
+    }
+  ]
+}

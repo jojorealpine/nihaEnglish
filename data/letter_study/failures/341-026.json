@@ -1,0 +1,5 @@
+{
+  "english": "Please!",
+  "error": "No vocabulary grounded in English source",
+  "response": "```json\n{\n  \"korean\": \"제발요!\",\n  \"explanation\": \"간청하거나 요청할 때 사용하는 말로, 상대방의 주의를 끌거나 행동을 유도하기 위한 강한 요청을 나타냅니다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"Please\",\n      \"meaning\": \"간청이나 요청을 나타내는 말\",\n      \"note\": \" politely asking for something or emphasizing a request\"\n    }\n  ],\n  \"expressions\": []\n}\n```"
+}

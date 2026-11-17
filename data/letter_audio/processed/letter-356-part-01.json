@@ -1,0 +1,58 @@
+{
+  "key": "letter-356-part-01",
+  "number": 356,
+  "generationId": "01a1e917-7a4a-7cb6-b238-9d5b706cbc19",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-356/01.mp3",
+      "start": 0.0,
+      "end": 0.59712
+    },
+    {
+      "index": 1,
+      "text": "Never suppress any thought, or fight with it, otherwise you will never be without it.",
+      "path": "audio/1971-356/02.mp3",
+      "start": 1.867029,
+      "end": 6.457234
+    },
+    {
+      "index": 2,
+      "text": "Fight it, and you invite it more.",
+      "path": "audio/1971-356/03.mp3",
+      "start": 7.8564169999999995,
+      "end": 10.51254
+    },
+    {
+      "index": 3,
+      "text": "Suppress it, and it will be back with double the force.",
+      "path": "audio/1971-356/04.mp3",
+      "start": 11.76068,
+      "end": 15.30712
+    },
+    {
+      "index": 4,
+      "text": "I have heard that someone advertised something for women but with the heading, Only For Men.",
+      "path": "audio/1971-356/05.mp3",
+      "start": 16.626735,
+      "end": 21.741791000000003
+    },
+    {
+      "index": 5,
+      "text": "It is reported that out of ninety thousand women who came across it eighty-nine thousand nine hundred and ninety-four read the advertisement.",
+      "path": "audio/1971-356/06.mp3",
+      "start": 23.210203999999997,
+      "end": 32.751338
+    },
+    {
+      "index": 6,
+      "text": "The other six were blind.",
+      "path": "audio/1971-356/07.mp3",
+      "start": 34.343628,
+      "end": 36.26
+    }
+  ]
+}

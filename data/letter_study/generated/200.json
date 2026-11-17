@@ -1,0 +1,232 @@
+{
+  "sourceHash": "5954a079b57ca34d018ef73d8fda8b349ea9ec7b4d7063c1e95bd458fa1276db",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "gerund-object",
+      "notes": {
+        "korean": "명상에서는 아무것도 하지 않는 것을 즐겨보세요.",
+        "explanation": "명상 중에 활동하지 않고 평온함을 즐기라는 의미",
+        "grammar": "「enjoy」는 주어 you가 생략된 명령문 동사입니다. enjoy는 행동을 목적어로 받을 때 「doing」처럼 동명사 -ing형을 사용합니다.",
+        "vocabulary": [
+          {
+            "word": "meditation",
+            "meaning": "명상",
+            "note": "정신적 평온과 집중을 위해 수행하는 행위"
+          },
+          {
+            "word": "enjoy",
+            "meaning": "즐기다",
+            "note": "활동을 긍정적이고 편안하게 경험한다는 의미"
+          },
+          {
+            "word": "nothing",
+            "meaning": "아무것도",
+            "note": "활동이나 행동이 없다는 의미"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "자아는 끊임없이 회전하는 생각의 형태들의 중심고리와 같다.",
+        "explanation": "자아는 생각의 흐름이 끊임없이 움직이는 중심점 역할을 한다는 의미입니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "whirlpool",
+            "meaning": "물의 소용돌이",
+            "note": "자아를 물의 소용돌이에 비유하여 끊임없이 움직이고 중심을 이루는 존재임을 나타냅니다."
+          },
+          {
+            "word": "constantly",
+            "meaning": "끊임없이",
+            "note": "생각의 형태들이 지속적으로 움직이고 변화한다는 것을 강조합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "완벽하게 조용한 수동 상태에 머무르면 세상과 조화를 이룰 수 있습니다.",
+        "explanation": "명상에서 완벽한 조용함과 수동 상태를 유지함으로써 세상과의 조화를 이룬다는 의미",
+        "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "perfectly",
+            "meaning": "완벽하게",
+            "note": "정도나 상태가 최대한으로 잘 이루어졌음을 강조"
+          },
+          {
+            "word": "passivity",
+            "meaning": "수동 상태",
+            "note": "능동적인 행동 없이 조용하고 반응이 적은 상태를 의미"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "만약 네가 그곳에 없다면 명상은 존재하지 않고, 명상이 존재한다면 네가 그곳에 없다는 뜻이다.",
+        "explanation": "명상이 진정한 의미를 갖기 위해서는 수행자(자신)가 존재하지 않는 상태가 필요하다는 의미를 전달합니다.",
+        "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "meditation",
+            "meaning": "명상",
+            "note": "심리적, 정신적 안정과 집중을 위한 수행 행위를 의미합니다."
+          },
+          {
+            "word": "there",
+            "meaning": "그곳",
+            "note": "구체적인 장소를 가리키며, 문맥상 명상의 상태나 상태의 존재 여부를 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "명상이 진정으로 이루어지는 것은 명상자가 존재하지 않을 때이다.",
+        "explanation": "명상이 진정한 깊이를 얻는 순간은 명상하는 주체가 없어지는 상태에서임을 강조한다.",
+        "grammar": "동사원형 「remember」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "meditator",
+            "meaning": "명상하는 사람",
+            "note": "명상을 수행하는 주체를 가리킨다."
+          },
+          {
+            "word": "meditation",
+            "meaning": "명상",
+            "note": "마음의 평온과 집중을 통해 정신적 성장을 추구하는 행위를 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "수동 상태에 머무르세요, 즉 절대적인 무행동 상태에 있으세요. 그리고 명상은 중재자가 존재하지 않는 깊은 곳까지 깊어집니다.",
+        "explanation": "수동 상태와 무행동 상태를 유지하면서 명상을 통해 깊은 내면의 경지에 도달하는 것을 설명합니다.",
+        "grammar": "동사원형 「Remain」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "passivity",
+            "meaning": "수동 상태",
+            "note": "행동하지 않고 단순히 존재하는 상태를 의미합니다."
+          },
+          {
+            "word": "nothingness",
+            "meaning": "무존재",
+            "note": "모든 것이 사라진 순수한 상태를 가리킵니다."
+          },
+          {
+            "word": "meditation",
+            "meaning": "명상",
+            "note": "내면의 평화와 깊은 집중 상태에 도달하기 위한 정신적 연습입니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "state of absolute doing-nothingness",
+            "meaning": "절대적인 무행동 상태",
+            "explanation": "모든 행동을 멈추고 순수한 존재 상태에 머무는 것을 의미합니다."
+          },
+          {
+            "expression": "deepens to the depths",
+            "meaning": "깊이 파고들다",
+            "explanation": "명상의 수준이 점점 더 깊은 내면의 경지로 들어간다는 의미입니다."
+          }
+        ]
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "자동으로 생각의 형태들이 사라지는데, 이는 완전한 수동 상태에서는 존재할 수 없기 때문입니다. 생각에 집착하는 마음의 형태이며, 이로 인해 자아도 사라집니다. 자아는 생각의 형태 없이는 존재할 수 없기 때문입니다.",
+        "explanation": "완전한 수동 상태에서는 생각의 형태들이 자연스럽게 사라지며, 이는 활동적인 마음의 특성 때문이며 동시에 자아도 이러한 과정을 통해 사라진다는 의미입니다.",
+        "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "automatically",
+            "meaning": "자동으로",
+            "note": "어떤 과정이 외부 개입 없이 자연스럽게 일어나는 것을 의미합니다."
+          },
+          {
+            "word": "passivity",
+            "meaning": "수동 상태",
+            "note": "활동하지 않고 반응하지 않는 상태를 가리킵니다."
+          },
+          {
+            "word": "dissolves",
+            "meaning": "사라진다",
+            "note": "생각의 형태와 자아의 개념이 더 이상 존재하지 않게 되는 것을 의미합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "thought-forms",
+            "meaning": "생각의 형태",
+            "explanation": "마음 속에서 형성되는 생각이나 개념의 집합을 의미합니다."
+          },
+          {
+            "expression": "activity-addicted mind",
+            "meaning": "생각에 집착하는 마음",
+            "explanation": "끊임없이 생각하고 활동하는 마음의 상태를 나타냅니다."
+          }
+        ]
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

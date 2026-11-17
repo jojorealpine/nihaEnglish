@@ -1,0 +1,638 @@
+{
+  "id": "1971-288",
+  "title": "1971 / 288",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thrilled",
+      "meaning": "매우 흥분된",
+      "note": "강한 긍정적 감정을 나타냅니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "expectations",
+      "meaning": "기대",
+      "note": "미래에 대한 긍정적인 전망이나 바람을 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "happen",
+      "meaning": "일어나다",
+      "note": "여기서는 변화나 사건이 발생한다는 의미로 사용되었습니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "verge",
+      "meaning": "절반의 상태, 직전",
+      "note": "여기서는 어떤 중요한 사건이나 변화가 일어날 직전의 상태를 의미한다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "explosion",
+      "meaning": "폭발",
+      "note": "비유적으로 사용되어 큰 변화나 격동을 나타낸다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "lonely",
+      "meaning": "외로운",
+      "note": "일반적인 외로움의 감정을 나타냅니다.",
+      "sentenceIds": [
+        5,
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "aloneness",
+      "meaning": "고독",
+      "note": "더 깊고 본질적인 고독의 상태를 의미하며, 단순히 외로움을 넘어 내면의 고요함이나 성찰의 시간을 포함할 수 있습니다.",
+      "sentenceIds": [
+        5,
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meditation",
+      "meaning": "수행",
+      "note": "정신적 집중과 내면의 평화를 추구하는 정신적 활동을 의미한다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Loneliness",
+      "meaning": "고립",
+      "note": "혼자 있음으로 인한 외로움이나 고독감을 의미한다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "negative",
+      "meaning": "부정적인",
+      "note": "좋지 않거나 바람직하지 않은 상태를 나타낸다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "absence",
+      "meaning": "부재",
+      "note": "여기서는 다른 사람들의 존재가 없는 상황을 의미한다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "positive",
+      "meaning": "긍정적인",
+      "note": "마음가짐이나 상태가 긍정적인 측면을 강조한다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "presence",
+      "meaning": "존재",
+      "note": "자신의 내면적 존재나 존재감을 의미한다.",
+      "sentenceIds": [
+        9,
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "aware",
+      "meaning": "의식하다, 인지하다",
+      "note": "자신의 상태나 존재에 대해 지각하고 이해하는 상태를 나타냅니다.",
+      "sentenceIds": [
+        10,
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "happening",
+      "meaning": "일어나는 일, 사건",
+      "note": "예상치 못한 사건이나 변화를 가리키며, 그 순간을 기다리라는 의미를 담고 있다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Near",
+      "meaning": "가까움",
+      "note": "시간적 가까움을 나타냅니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "moment",
+      "meaning": "순간",
+      "note": "특정한 중요한 순간을 의미합니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "remember",
+      "meaning": "기억하다",
+      "note": "이 문맥에서는 신의 지속적인 존재와 보호를 상기시키는 의미를 담고 있습니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "always",
+      "meaning": "항상",
+      "note": "지속성과 불변성을 나타내며, 신의 변함없는 존재를 강조합니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "with",
+      "meaning": "함께",
+      "note": "공동체나 동반자로서의 관계를 나타내며, 신의 동반을 의미합니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "know",
+      "meaning": "알다",
+      "note": "이 문맥에서는 신의 존재를 인식하지 못했던 시기를 나타낸다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "feel",
+      "meaning": "느끼다",
+      "note": "감정이나 감각을 체험하는 것을 의미함",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "blessings",
+      "meaning": "축복",
+      "note": "신성한 은총이나 행운을 나타냄",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    [
+      14
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-288/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "I am thrilled with great expectations about you.",
+      "korean": "너에 대한 큰 기대와 함께 매우 기쁩니다.",
+      "explanation": "원문에서 전달되는 긍정적이고 흥분된 감정과 미래에 대한 긍정적인 전망을 한국어로 표현했습니다.",
+      "grammar": "「am」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-288/02.mp3",
+      "vocabulary": [
+        {
+          "word": "thrilled",
+          "meaning": "매우 흥분된",
+          "note": "강한 긍정적 감정을 나타냅니다."
+        },
+        {
+          "word": "expectations",
+          "meaning": "기대",
+          "note": "미래에 대한 긍정적인 전망이나 바람을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Much is to happen within you and without also.",
+      "korean": "당신 안에서도 밖에서도 많은 일이 일어날 것입니다.",
+      "explanation": "문장은 개인의 내면적 변화와 외부적 사건 모두에 대해 큰 변화와 활동이 있을 것이라는 기대감을 표현합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-288/03.mp3",
+      "vocabulary": [
+        {
+          "word": "happen",
+          "meaning": "일어나다",
+          "note": "여기서는 변화나 사건이 발생한다는 의미로 사용되었습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "You are on the verge of the explosion, so be alone.",
+      "korean": "폭발 직전이니 혼자 있어야 해.",
+      "explanation": "문장은 개인이 중요한 변화나 격동의 시기에 처해 있으며, 그러한 상황에서는 혼자 있는 것이 바람직하다는 조언을 담고 있다.",
+      "grammar": "동사원형 「be」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-288/04.mp3",
+      "vocabulary": [
+        {
+          "word": "verge",
+          "meaning": "절반의 상태, 직전",
+          "note": "여기서는 어떤 중요한 사건이나 변화가 일어날 직전의 상태를 의미한다."
+        },
+        {
+          "word": "explosion",
+          "meaning": "폭발",
+          "note": "비유적으로 사용되어 큰 변화나 격동을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Not lonely but alone, and live with that aloneness.",
+      "korean": "외로움이 아닌 고독 속에서 살아가세요.",
+      "explanation": "외로움이 아닌 진정한 고독의 상태를 받아들이고 살아가라는 의미입니다.",
+      "grammar": "「not lonely but alone」은 not A but B의 대조 구조입니다. 이어지는 「live」는 주어 you를 생략한 명령문의 동사원형입니다.",
+      "audio": "audio/1971-288/05.mp3",
+      "vocabulary": [
+        {
+          "word": "lonely",
+          "meaning": "외로운",
+          "note": "일반적인 외로움의 감정을 나타냅니다."
+        },
+        {
+          "word": "aloneness",
+          "meaning": "고독",
+          "note": "더 깊고 본질적인 고독의 상태를 의미하며, 단순히 외로움을 넘어 내면의 고요함이나 성찰의 시간을 포함할 수 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Rather, be that aloneness; that is the only meditation for you now.",
+      "korean": "지금 네가 해야 할 유일한 수행은 바로 그 고독이야.",
+      "explanation": "문장은 현재의 상태로서의 고독을 받아들이고 그것을 수행의 핵심으로 삼아야 함을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-288/06.mp3",
+      "vocabulary": [
+        {
+          "word": "aloneness",
+          "meaning": "고독",
+          "note": "개인이 주변으로부터 분리되어 느끼는 외로움이나 고독의 상태를 의미한다."
+        },
+        {
+          "word": "meditation",
+          "meaning": "수행",
+          "note": "정신적 집중과 내면의 평화를 추구하는 정신적 활동을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Loneliness is negative:",
+      "korean": "고립은 부정적인 것이 아니다: 오히려 지금 당신에게 필요한 것은 그런 고독이다.",
+      "explanation": "문장은 고립이 항상 부정적인 것이 아니라, 특정 상황에서는 내면의 성찰이나 성장을 위한 긍정적인 요소가 될 수 있음을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-288/07.mp3",
+      "vocabulary": [
+        {
+          "word": "Loneliness",
+          "meaning": "고립",
+          "note": "혼자 있음으로 인한 외로움이나 고독감을 의미한다."
+        },
+        {
+          "word": "negative",
+          "meaning": "부정적인",
+          "note": "좋지 않거나 바람직하지 않은 상태를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "to be lonely is to be aware of the absence of others.",
+      "korean": "다른 사람들의 부재를 인식하는 것이 외로움이다.",
+      "explanation": "외로움의 정의를 설명하며, 외로움이 단순히 혼자 있다는 것을 넘어 다른 사람들과의 연결 부재를 인지하는 상태임을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-288/08.mp3",
+      "vocabulary": [
+        {
+          "word": "lonely",
+          "meaning": "외로운",
+          "note": "혼자 있다는 상태를 넘어 다른 사람들과의 연결이 부족하다는 느낌을 포함한다."
+        },
+        {
+          "word": "absence",
+          "meaning": "부재",
+          "note": "여기서는 다른 사람들의 존재가 없는 상황을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "But to be alone is the most positive state of mind: it is to be aware of the presence of oneself.",
+      "korean": "혼자 있다는 것은 자신의 존재를 인식하는 가장 긍정적인 마음가짐이다.",
+      "explanation": "문장은 혼자 있는 상태를 긍정적으로 바라보며, 그 상태에서 자신의 존재를 인식하는 것이 중요하다는 의미를 전달한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-288/09.mp3",
+      "vocabulary": [
+        {
+          "word": "positive",
+          "meaning": "긍정적인",
+          "note": "마음가짐이나 상태가 긍정적인 측면을 강조한다."
+        },
+        {
+          "word": "presence",
+          "meaning": "존재",
+          "note": "자신의 내면적 존재나 존재감을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "Be aware of the presence that is you.",
+      "korean": "자신의 존재를 인식하라.",
+      "explanation": "자신의 존재에 대한 인식을 강조하는 문장입니다.",
+      "grammar": "동사원형 「Be」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-288/10.mp3",
+      "vocabulary": [
+        {
+          "word": "aware",
+          "meaning": "의식하다, 인지하다",
+          "note": "자신의 상태나 존재에 대해 지각하고 이해하는 상태를 나타냅니다."
+        },
+        {
+          "word": "presence",
+          "meaning": "존재, 나타남",
+          "note": "여기서는 개인의 존재나 존재감을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "Just be aware and wait, wait for the happening.",
+      "korean": "그저 존재를 인지하고 기다려라, 일어나는 일을 기다려라.",
+      "explanation": "문장은 현재 상태를 유지하고 변화나 사건이 일어날 때까지 인내하라는 조언을 담고 있다.",
+      "grammar": "동사원형 「wait」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-288/11.mp3",
+      "vocabulary": [
+        {
+          "word": "aware",
+          "meaning": "인지하다, 알아차린다",
+          "note": "자신의 상태나 상황을 인식하고 이해하는 것을 의미한다."
+        },
+        {
+          "word": "happening",
+          "meaning": "일어나는 일, 사건",
+          "note": "예상치 못한 사건이나 변화를 가리키며, 그 순간을 기다리라는 의미를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "Near, very near is the moment.",
+      "korean": "매우 가까운 순간이 다가오고 있습니다.",
+      "explanation": "매우 가까운 미래의 순간이 임박했다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-288/12.mp3",
+      "vocabulary": [
+        {
+          "word": "Near",
+          "meaning": "가까움",
+          "note": "시간적 가까움을 나타냅니다."
+        },
+        {
+          "word": "moment",
+          "meaning": "순간",
+          "note": "특정한 중요한 순간을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "And remember that I am always with you.",
+      "korean": "항상 너와 함께 있다는 것을 기억해.",
+      "explanation": "항상 누군가와 함께 있다는 신의 약속이나 존재를 강조하는 문장입니다.",
+      "grammar": "동사원형 「remember」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-288/13.mp3",
+      "vocabulary": [
+        {
+          "word": "remember",
+          "meaning": "기억하다",
+          "note": "이 문맥에서는 신의 지속적인 존재와 보호를 상기시키는 의미를 담고 있습니다."
+        },
+        {
+          "word": "always",
+          "meaning": "항상",
+          "note": "지속성과 불변성을 나타내며, 신의 변함없는 존재를 강조합니다."
+        },
+        {
+          "word": "with",
+          "meaning": "함께",
+          "note": "공동체나 동반자로서의 관계를 나타내며, 신의 동반을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "I have always been with you even when you did not know me.",
+      "korean": "항상 네 곁에 있었음을 기억해. 심지어 네가 나를 알지 못했을 때도 그랬어.",
+      "explanation": "문장은 신의 존재와 지속적인 동반을 강조하며, 그 존재가 인식되기 이전부터 함께였음을 언급한다.",
+      "grammar": "「have always been」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1971-288/14.mp3",
+      "vocabulary": [
+        {
+          "word": "know",
+          "meaning": "알다",
+          "note": "이 문맥에서는 신의 존재를 인식하지 못했던 시기를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "And always feel my blessings.",
+      "korean": "항상 나의 은총을 느껴보세요.",
+      "explanation": "항상 나의 은총을 경험하고 느끼라는 권유적인 표현",
+      "grammar": "동사 「feel」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1971-288/15.mp3",
+      "vocabulary": [
+        {
+          "word": "feel",
+          "meaning": "느끼다",
+          "note": "감정이나 감각을 체험하는 것을 의미함"
+        },
+        {
+          "word": "blessings",
+          "meaning": "축복",
+          "note": "신성한 은총이나 행운을 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "너에 대한 큰 기대와 함께 매우 기쁩니다. 당신 안에서도 밖에서도 많은 일이 일어날 것입니다. 폭발 직전이니 혼자 있어야 해. 외로움이 아닌 고독 속에서 살아가세요. 지금 네가 해야 할 유일한 수행은 바로 그 고독이야. 고립은 부정적인 것이 아니다: 오히려 지금 당신에게 필요한 것은 그런 고독이다.",
+    "다른 사람들의 부재를 인식하는 것이 외로움이다. 혼자 있다는 것은 자신의 존재를 인식하는 가장 긍정적인 마음가짐이다.",
+    "자신의 존재를 인식하라. 그저 존재를 인지하고 기다려라, 일어나는 일을 기다려라. 매우 가까운 순간이 다가오고 있습니다. 항상 너와 함께 있다는 것을 기억해. 항상 네 곁에 있었음을 기억해. 심지어 네가 나를 알지 못했을 때도 그랬어.",
+    "항상 나의 은총을 느껴보세요."
+  ],
+  "fullAudio": "audio/1971-288/script_all.mp3",
+  "originalText": "Love.\n\nI am thrilled with great expectations about you.\nMuch is to happen within you and without also.\nYou are on the verge of the explosion,\nso be alone.\nNot lonely but alone,\nand live with that aloneness.\nRather, be that aloneness;\nthat is the only meditation for you now.\nLoneliness is negative:\n\nto be lonely is to be aware of the absence of others.\nBut to be alone is the most positive state of mind:\nit is to be aware of the presence of oneself.\n\nBe aware of the presence that is you.\nJust be aware and wait,\nwait for the happening.\nNear, very near is the moment.\nAnd remember that I am always with you.\nI have always been with you\neven when you did not know me.\n\nAnd always feel my blessings.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 288,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0886 2.JPG",
+        "side": "right",
+        "printedPage": 223
+      },
+      {
+        "file": "IMG_0887 2.JPG",
+        "side": "left",
+        "printedPage": null
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

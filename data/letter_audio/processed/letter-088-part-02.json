@@ -1,0 +1,58 @@
+{
+  "key": "letter-088-part-02",
+  "number": 88,
+  "generationId": "01a1e630-9f5b-7d16-824f-328e432d0daf",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Ileft my begging bowl in your tent, he said.",
+      "path": "audio/1970-88/11.mp3",
+      "start": 0.0,
+      "end": 2.583016
+    },
+    {
+      "index": 11,
+      "text": "What shall I do without it?",
+      "path": "audio/1970-88/12.mp3",
+      "start": 4.054989,
+      "end": 5.426372
+    },
+    {
+      "index": 12,
+      "text": "Please wait here while I go and fetch it.",
+      "path": "audio/1970-88/13.mp3",
+      "start": 6.905193,
+      "end": 8.905736999999998
+    },
+    {
+      "index": 13,
+      "text": "The Sufi laughed.",
+      "path": "audio/1970-88/14.mp3",
+      "start": 10.268413,
+      "end": 11.411586999999999
+    },
+    {
+      "index": 14,
+      "text": "My friend, he said, the gold pegs of my tent were stuck in the earth not in my heart, but your begging bowl is still chasing after you!",
+      "path": "audio/1970-88/15.mp3",
+      "start": 12.841315000000002,
+      "end": 21.528027
+    },
+    {
+      "index": 15,
+      "text": "To be in the world is not attachment.",
+      "path": "audio/1970-88/16.mp3",
+      "start": 23.035577999999997,
+      "end": 25.751814
+    },
+    {
+      "index": 16,
+      "text": "The presence of the world in the mind is the attachment, and when the world disappears from the mind - this is non-attachment.",
+      "path": "audio/1970-88/17.mp3",
+      "start": 27.363787,
+      "end": 36.62
+    }
+  ]
+}

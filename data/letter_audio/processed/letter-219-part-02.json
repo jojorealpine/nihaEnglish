@@ -1,0 +1,23 @@
+{
+  "key": "letter-219-part-02",
+  "number": 219,
+  "generationId": "01a1e8f2-cb36-7b73-8e23-5318a22ae0d8",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Awareness acts as a catalytic agent - and then anger does not change into its opposite, it is not that violence becomes non-violence, but there is no-anger, there is no-violence.",
+      "path": "audio/1971-219/11.mp3",
+      "start": 0.0,
+      "end": 12.186236
+    },
+    {
+      "index": 11,
+      "text": "And when there is no-violence there is no-mind, and an altogether different dimension opens its door: the dimension of the spontaneous, the dimension of the divine.",
+      "path": "audio/1971-219/12.mp3",
+      "start": 13.672721000000001,
+      "end": 25.81
+    }
+  ]
+}

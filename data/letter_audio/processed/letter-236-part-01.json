@@ -1,0 +1,58 @@
+{
+  "key": "letter-236-part-01",
+  "number": 236,
+  "generationId": "01a1e8f7-4d69-767b-a8f0-bc1c6aae8973",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-236/01.mp3",
+      "start": 0.0,
+      "end": 0.751224
+    },
+    {
+      "index": 1,
+      "text": "No more principles are needed.",
+      "path": "audio/1971-236/02.mp3",
+      "start": 2.010249,
+      "end": 4.066349
+    },
+    {
+      "index": 2,
+      "text": "The world is already much too burdened with principles and people who are men of principle.",
+      "path": "audio/1971-236/03.mp3",
+      "start": 5.363787,
+      "end": 10.285782
+    },
+    {
+      "index": 3,
+      "text": "I have heard that once a priest was consoling a widow.",
+      "path": "audio/1971-236/04.mp3",
+      "start": 11.722018,
+      "end": 14.733196999999999
+    },
+    {
+      "index": 4,
+      "text": "He said with much feeling that her dead husband was a man of principle That he was, sighed the widow.",
+      "path": "audio/1971-236/05.mp3",
+      "start": 16.127188,
+      "end": 23.191814
+    },
+    {
+      "index": 5,
+      "text": "Every Saturday night for these past twenty years the poor man would come home and faithfully hand me his pay envelope - he never missed doing that.",
+      "path": "audio/1971-236/06.mp3",
+      "start": 24.784534999999998,
+      "end": 33.604195
+    },
+    {
+      "index": 6,
+      "text": "Of course the envelope was always empty, but mind you, he was loyal to the principle of the thing.",
+      "path": "audio/1971-236/07.mp3",
+      "start": 35.204444,
+      "end": 41.87
+    }
+  ]
+}

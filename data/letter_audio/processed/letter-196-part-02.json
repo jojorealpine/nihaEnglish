@@ -1,0 +1,16 @@
+{
+  "key": "letter-196-part-02",
+  "number": 196,
+  "generationId": "01a1e8eb-ab4d-734a-b36a-04da2225e5ca",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Or out there, where there is more light?",
+      "path": "audio/1971-196/11.mp3",
+      "start": 0.0,
+      "end": 2.17
+    }
+  ]
+}

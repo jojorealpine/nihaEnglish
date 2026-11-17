@@ -1,0 +1,79 @@
+{
+  "key": "letter-198-part-01",
+  "number": 198,
+  "generationId": "01a1e8eb-fad7-7e1d-95bc-7359533bd05a",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-198/01.mp3",
+      "start": 0.0,
+      "end": 0.620249
+    },
+    {
+      "index": 1,
+      "text": "The way of meditation is above the self; its base is surrendering.",
+      "path": "audio/1971-198/02.mp3",
+      "start": 1.8386619999999998,
+      "end": 5.853424
+    },
+    {
+      "index": 2,
+      "text": "Surrender the self to your own no-self; Be as if you are not.",
+      "path": "audio/1971-198/03.mp3",
+      "start": 7.084807,
+      "end": 10.81678
+    },
+    {
+      "index": 3,
+      "text": "Oh, the benediction when one just leaves everything to the no-self!",
+      "path": "audio/1971-198/04.mp3",
+      "start": 12.120068000000002,
+      "end": 15.483310999999999
+    },
+    {
+      "index": 4,
+      "text": "Buddha called this phenomenon anatma or anatta (no-selfhood).",
+      "path": "audio/1971-198/05.mp3",
+      "start": 16.776643999999997,
+      "end": 21.163787
+    },
+    {
+      "index": 5,
+      "text": "One must turn oneself into a puppet in the hands of the no-self, and then everything begins to flow naturally and spontaneously just like a river flowing to the sea or like a cloud wandering in the sky.",
+      "path": "audio/1971-198/06.mp3",
+      "start": 22.544603,
+      "end": 36.051700999999994
+    },
+    {
+      "index": 6,
+      "text": "Lao Tzu says this is doing by non-doing.",
+      "path": "audio/1971-198/07.mp3",
+      "start": 38.487664,
+      "end": 41.276939
+    },
+    {
+      "index": 7,
+      "text": "One ceases to be one's own master and becomes an instrument of the unknown - and what nonsense it is to be one's own master because there is no one to be so!",
+      "path": "audio/1971-198/08.mp3",
+      "start": 42.686145,
+      "end": 51.657891
+    },
+    {
+      "index": 8,
+      "text": "Do not search and you will continue to believe in it.",
+      "path": "audio/1971-198/09.mp3",
+      "start": 52.966848000000006,
+      "end": 55.823423999999996
+    },
+    {
+      "index": 9,
+      "text": "Search and it is nowhere to be found",
+      "path": "audio/1971-198/10.mp3",
+      "start": 57.277868000000005,
+      "end": 59.79
+    }
+  ]
+}

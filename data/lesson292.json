@@ -1,0 +1,829 @@
+{
+  "id": "1971-292",
+  "title": "1971 / 292",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Search",
+      "meaning": "찾다",
+      "note": "어떤 것을 찾아내거나 알아보려는 행위를 의미합니다.",
+      "sentenceIds": [
+        2,
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ego",
+      "meaning": "자아",
+      "note": "개인의 주체적인 의식이나 정체성을 나타냅니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "motivation",
+      "meaning": "동기",
+      "note": "행동이나 결정을 이끌어내는 내적 힘이나 이유를 나타냄",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "find",
+      "meaning": "발견하다",
+      "note": "여기서는 어떤 사실이나 상태를 인식하거나 이해하게 되는 과정을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "realize",
+      "meaning": "깨닫다, 이해하다",
+      "note": "자신의 상황이나 진실을 인식하고 깊이 이해하게 되는 것을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "realization",
+      "meaning": "깨달음",
+      "note": "깊은 이해나 인식의 상태를 의미하며, 여기서는 내면의 진실을 깨닫는 것을 가리킵니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "going",
+      "meaning": "넘어선다",
+      "note": "물리적 이동이 아닌, 개념적으로나 정신적으로 한계를 넘어서는 것을 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "neighbor",
+      "meaning": "이웃",
+      "note": "대화의 상대방을 지칭하며, 친밀한 관계나 공동체 내의 관계를 나타낸다.",
+      "sentenceIds": [
+        6,
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "collecting",
+      "meaning": "모으다",
+      "note": "돈이나 자원을 모으는 행위를 의미하며, 이 경우 빚을 갚기 위한 자금 조달을 나타낸다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "obligations",
+      "meaning": "의무/빚",
+      "note": "특정 사람이 이행해야 하는 의무나 빚을 의미하며, 여기서는 가난한 사람이 갚지 못한 빚을 지칭한다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "commendable",
+      "meaning": "칭찬할 만하다",
+      "note": "행동이나 태도가 훌륭하고 칭찬받을 만하다는 의미입니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "said",
+      "meaning": "말했다",
+      "note": "대화나 발언을 전달하는 동사입니다.",
+      "sentenceIds": [
+        7,
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "person",
+      "meaning": "사람",
+      "note": "문장에서 특정한 정체성이 밝혀지지 않은 개인을 지칭합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "hurried",
+      "meaning": "서두르다",
+      "note": "행동의 긴급성이나 빠른 속도를 나타냅니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "weeks",
+      "meaning": "주",
+      "note": "시간의 경과를 나타내며, 이 경우 몇 주 후라는 시간적 간격을 의미한다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "later",
+      "meaning": "후에",
+      "note": "시간적 순서를 나타내며, 이전 사건이나 상황 이후에 발생한 일을 설명한다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "trusting",
+      "meaning": "믿음이 많은",
+      "note": "상대방을 쉽게 믿는 성격을 나타냅니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "am",
+      "meaning": "현재 존재하거나 상태를 나타냄",
+      "note": "이 문장에서는 주로 상태나 존재를 현재 시점에서 확인하는 역할을 합니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "suppose",
+      "meaning": "가정하다, 가령",
+      "note": "상황을 가정하거나 예시를 제시할 때 사용합니다.",
+      "sentenceIds": [
+        13,
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "contribution",
+      "meaning": "기여금, 기부",
+      "note": "돈이나 자원을 제공하여 도움을 주는 행위를 의미합니다.",
+      "sentenceIds": [
+        13,
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "That",
+      "meaning": "그것",
+      "note": "이전 문맥이나 상황에 대한 언급이나 확인",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "is",
+      "meaning": "이다",
+      "note": "이 문맥에서는 「이다」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "money",
+      "meaning": "돈",
+      "note": "경제적 의무나 빚과 관련된 대상을 지칭합니다.",
+      "sentenceIds": [
+        15,
+        19
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "time",
+      "meaning": "때, 시기",
+      "note": "여기서는 특정 상황이나 사건을 지칭하며, 이번에는 해당 의무나 책임이 없다는 뉘앙스를 담고 있습니다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "glad",
+      "meaning": "기뻐하다, 만족해하다",
+      "note": "긍정적인 감정을 나타내며, 상황에 대한 행복감이나 만족감을 전달합니다.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "hear",
+      "meaning": "듣다",
+      "note": "정보나 소식을 듣는 행위를 의미하며, 여기서는 좋은 소식을 듣게 되어 기뻐하는 맥락입니다.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "pocketed",
+      "meaning": "주머니에 넣다",
+      "note": "돈이나 작은 물건을 손의 주머니에 넣는 동작을 나타냅니다.",
+      "sentenceIds": [
+        19
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "humanitarian",
+      "meaning": "인도주의적인",
+      "note": "다른 사람을 돕고자 하는 마음이나 행동을 나타냄",
+      "sentenceIds": [
+        20
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sentiments",
+      "meaning": "감정",
+      "note": "특히 인도주의적 행동이나 생각에 대한 감정을 의미함",
+      "sentenceIds": [
+        20
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "creditor",
+      "meaning": "채권자",
+      "note": "이 단어는 돈이나 물건을 빌려주고 그 대가를 받을 권리가 있는 사람을 의미합니다.",
+      "sentenceIds": [
+        21
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6,
+      7,
+      8
+    ],
+    [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-292/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Search - and the ego is always somewhere behind.",
+      "korean": "항상 어딘가에 자아는 존재한다.",
+      "explanation": "자아는 항상 어딘가 뒤에 존재하며 찾는 과정에서도 그 존재를 확인하게 된다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-292/02.mp3",
+      "vocabulary": [
+        {
+          "word": "Search",
+          "meaning": "찾다",
+          "note": "어떤 것을 찾아내거나 알아보려는 행위를 의미합니다."
+        },
+        {
+          "word": "ego",
+          "meaning": "자아",
+          "note": "개인의 주체적인 의식이나 정체성을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Search - and in every act the ego is the motivation.",
+      "korean": "모든 행동마다 자아는 동기가 된다.",
+      "explanation": "자아가 모든 행동의 원동력이 된다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-292/03.mp3",
+      "vocabulary": [
+        {
+          "word": "Search",
+          "meaning": "탐색",
+          "note": "이 문맥에서는 직접적인 의미보다는 행동이나 탐구의 과정에서 자아의 역할을 강조하는 데 사용됨"
+        },
+        {
+          "word": "motivation",
+          "meaning": "동기",
+          "note": "행동이나 결정을 이끌어내는 내적 힘이나 이유를 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "But if one can find that this is so and can realize it,",
+      "korean": "만약 누군가 이것이 사실임을 발견하고 깨달을 수 있다면",
+      "explanation": "만약 특정 조건이나 상태가 진실임을 인식하고 이해할 수 있다면",
+      "grammar": "「can find」에서 조동사 can 뒤에 동사원형 「find」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1971-292/04.mp3",
+      "vocabulary": [
+        {
+          "word": "find",
+          "meaning": "발견하다",
+          "note": "여기서는 어떤 사실이나 상태를 인식하거나 이해하게 되는 과정을 의미합니다."
+        },
+        {
+          "word": "realize",
+          "meaning": "깨닫다, 이해하다",
+          "note": "자신의 상황이나 진실을 인식하고 깊이 이해하게 되는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "one goes beyond it, because the very realization is the going beyond",
+      "korean": "그 깨달음 자체가 그것을 넘어서는 것이기 때문에, 깨닫게 되면 그것을 넘어선다.",
+      "explanation": "깨달음을 통해 본질적인 한계를 극복하게 된다는 의미",
+      "grammar": "동사 「goes」는 go의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-292/05.mp3",
+      "vocabulary": [
+        {
+          "word": "realization",
+          "meaning": "깨달음",
+          "note": "깊은 이해나 인식의 상태를 의미하며, 여기서는 내면의 진실을 깨닫는 것을 가리킵니다."
+        },
+        {
+          "word": "going",
+          "meaning": "넘어선다",
+          "note": "물리적 이동이 아닌, 개념적으로나 정신적으로 한계를 넘어서는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Brother, said Mulla Nasrudin to a neighbor, I am collecting to pay the debt of a poor man who cannot meet his obligations.",
+      "korean": "형제여, Mulla Nasrudin이 이웃에게 말했다, 나는 가난한 사람의 빚을 갚기 위해 돈을 모으고 있다네. 그 사람은 빚을 갚을 여력이 없단다.",
+      "explanation": "Mulla Nasrudin이 자신의 행동이 가난한 사람을 돕는다는 목적을 설명하며 이웃에게 이야기하고 있다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-292/06.mp3",
+      "vocabulary": [
+        {
+          "word": "neighbor",
+          "meaning": "이웃",
+          "note": "대화의 상대방을 지칭하며, 친밀한 관계나 공동체 내의 관계를 나타낸다."
+        },
+        {
+          "word": "collecting",
+          "meaning": "모으다",
+          "note": "돈이나 자원을 모으는 행위를 의미하며, 이 경우 빚을 갚기 위한 자금 조달을 나타낸다."
+        },
+        {
+          "word": "obligations",
+          "meaning": "의무/빚",
+          "note": "특정 사람이 이행해야 하는 의무나 빚을 의미하며, 여기서는 가난한 사람이 갚지 못한 빚을 지칭한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Very commendable said the other, and gave him a coin.",
+      "korean": "매우 칭찬할 만하다고 말하며 동전을 주었다.",
+      "explanation": "다른 사람이 Mulla Nasrudin의 행동을 긍정적으로 평가하고 동전을 주는 장면을 설명합니다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-292/07.mp3",
+      "vocabulary": [
+        {
+          "word": "commendable",
+          "meaning": "칭찬할 만하다",
+          "note": "행동이나 태도가 훌륭하고 칭찬받을 만하다는 의미입니다."
+        },
+        {
+          "word": "said",
+          "meaning": "말했다",
+          "note": "대화나 발언을 전달하는 동사입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "Who is this person?",
+      "korean": "이 사람은 누구인가요?",
+      "explanation": "문장에서 언급된 미지의 인물에 대한 질문입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-292/08.mp3",
+      "vocabulary": [
+        {
+          "word": "person",
+          "meaning": "사람",
+          "note": "문장에서 특정한 정체성이 밝혀지지 않은 개인을 지칭합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "Me, said Nasrudin as he hurried away.",
+      "korean": "나는 말했다, 나스로딘이 서두르며 떠났다.",
+      "explanation": "나스로딘이 말을 하고는 서둘러 떠났다는 내용을 전달합니다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-292/09.mp3",
+      "vocabulary": [
+        {
+          "word": "said",
+          "meaning": "말하다",
+          "note": "직접적인 발화 행위를 나타냅니다."
+        },
+        {
+          "word": "hurried",
+          "meaning": "서두르다",
+          "note": "행동의 긴급성이나 빠른 속도를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "A few weeks later he was at the door again.",
+      "korean": "몇 주 후에 다시 문 앞에 있었다.",
+      "explanation": "문장은 Nasrudin이 몇 주 후에 다시 어떤 장소의 문 앞에 나타났음을 설명한다.",
+      "grammar": "「was」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-292/10.mp3",
+      "vocabulary": [
+        {
+          "word": "weeks",
+          "meaning": "주",
+          "note": "시간의 경과를 나타내며, 이 경우 몇 주 후라는 시간적 간격을 의미한다."
+        },
+        {
+          "word": "later",
+          "meaning": "후에",
+          "note": "시간적 순서를 나타내며, 이전 사건이나 상황 이후에 발생한 일을 설명한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "I suppose you are calling about a debt, said the trusting neighbor.",
+      "korean": "믿음이 많은 이웃이라고 생각하셨나요? 빚에 관해 전화하신 거죠?",
+      "explanation": "믿음이 많은 이웃이 전화를 걸어온 것에 대해 의문을 제기하며 빚 문제를 언급합니다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-292/11.mp3",
+      "vocabulary": [
+        {
+          "word": "trusting",
+          "meaning": "믿음이 많은",
+          "note": "상대방을 쉽게 믿는 성격을 나타냅니다."
+        },
+        {
+          "word": "neighbor",
+          "meaning": "이웃",
+          "note": "가까운 거리에 사는 사람을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "I am.",
+      "korean": "있습니다.",
+      "explanation": "주어가 현재 상태나 존재를 나타내는 동사로, 문맥에서는 이웃이 빚에 대한 전화를 받고 있다는 것을 인정하는 의미를 담고 있습니다.",
+      "grammar": "「am」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-292/12.mp3",
+      "vocabulary": [
+        {
+          "word": "am",
+          "meaning": "현재 존재하거나 상태를 나타냄",
+          "note": "이 문장에서는 주로 상태나 존재를 현재 시점에서 확인하는 역할을 합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "I suppose someone can't pay a debt and you want a contribution?",
+      "korean": "누군가 빚을 갚을 수 없어서 돈을 기부받고 싶어하는 거야?",
+      "explanation": "문장은 누군가가 빚을 갚을 수 없는 상황에서 돈을 기부받고자 하는 의도를 묻는 내용입니다.",
+      "grammar": "동사 「suppose」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1971-292/13.mp3",
+      "vocabulary": [
+        {
+          "word": "suppose",
+          "meaning": "가정하다, 가령",
+          "note": "상황을 가정하거나 예시를 제시할 때 사용합니다."
+        },
+        {
+          "word": "contribution",
+          "meaning": "기여금, 기부",
+          "note": "돈이나 자원을 제공하여 도움을 주는 행위를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "That is so.",
+      "korean": "그렇군요.",
+      "explanation": "주어진 문장의 간결한 의미 전달, 동의나 인정의 표현",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-292/14.mp3",
+      "vocabulary": [
+        {
+          "word": "That",
+          "meaning": "그것",
+          "note": "이전 문맥이나 상황에 대한 언급이나 확인"
+        },
+        {
+          "word": "is",
+          "meaning": "이다",
+          "note": "이 문맥에서는 「이다」의 뜻으로 읽습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "I suppose it is you who owes the money?",
+      "korean": "돈을 빚진 사람이 당신인가요?",
+      "explanation": "문장은 누군가에게 돈을 빚진 것에 대한 의문을 제기하고 있습니다.",
+      "grammar": "동사 「suppose」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1971-292/15.mp3",
+      "vocabulary": [
+        {
+          "word": "suppose",
+          "meaning": "가정하다",
+          "note": "이 문맥에서는 추측이나 가정을 나타내며, 확실하지 않은 상황에 대해 질문하는 데 사용됩니다."
+        },
+        {
+          "word": "money",
+          "meaning": "돈",
+          "note": "경제적 의무나 빚과 관련된 대상을 지칭합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "Not this time.",
+      "korean": "이번에는 아니야.",
+      "explanation": "이번 번째 상황이나 사건에서는 해당 의무나 책임이 없다는 의미입니다.",
+      "grammar": "명사 「time」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1971-292/16.mp3",
+      "vocabulary": [
+        {
+          "word": "time",
+          "meaning": "때, 시기",
+          "note": "여기서는 특정 상황이나 사건을 지칭하며, 이번에는 해당 의무나 책임이 없다는 뉘앙스를 담고 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 17,
+      "english": "Well, I am glad to hear it.",
+      "korean": "글쎄, 그렇게 듣게 되어 기쁩니다.",
+      "explanation": "원문에서의 긍정적인 반응이나 만족감을 표현합니다.",
+      "grammar": "「am」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-292/17.mp3",
+      "vocabulary": [
+        {
+          "word": "glad",
+          "meaning": "기뻐하다, 만족해하다",
+          "note": "긍정적인 감정을 나타내며, 상황에 대한 행복감이나 만족감을 전달합니다."
+        },
+        {
+          "word": "hear",
+          "meaning": "듣다",
+          "note": "정보나 소식을 듣는 행위를 의미하며, 여기서는 좋은 소식을 듣게 되어 기뻐하는 맥락입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 18,
+      "english": "Take this contribution.",
+      "korean": "이 기여를 받으세요.",
+      "explanation": "주어진 기여를 받아들이라는 의미입니다.",
+      "grammar": "동사원형 「Take」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-292/18.mp3",
+      "vocabulary": [
+        {
+          "word": "contribution",
+          "meaning": "기여",
+          "note": "어떤 목표나 공동체를 위해 제공하는 노력이나 자원을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 19,
+      "english": "Nasrudin pocketed the money.",
+      "korean": "나스트루딘은 그 돈을 주머니에 넣었다.",
+      "explanation": "나스트루딘이 돈을 주머니에 넣는 행동을 묘사한 문장입니다.",
+      "grammar": "동사 「pocketed」는 pocket의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-292/19.mp3",
+      "vocabulary": [
+        {
+          "word": "pocketed",
+          "meaning": "주머니에 넣다",
+          "note": "돈이나 작은 물건을 손의 주머니에 넣는 동작을 나타냅니다."
+        },
+        {
+          "word": "money",
+          "meaning": "돈",
+          "note": "재정적 가치를 지닌 화폐를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 20,
+      "english": "Just one thing, Mulla - what prompts your humanitarian sentiments in this particular case?",
+      "korean": "이번 경우에 너의 인도주의적 감정을 일으키는 건 뭐야, 나슬루딘아?",
+      "explanation": "인도주의적 감정을 일으키는 동기나 이유를 묻는 질문",
+      "grammar": "동사 「prompts」는 prompt의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-292/20.mp3",
+      "vocabulary": [
+        {
+          "word": "humanitarian",
+          "meaning": "인도주의적인",
+          "note": "다른 사람을 돕고자 하는 마음이나 행동을 나타냄"
+        },
+        {
+          "word": "sentiments",
+          "meaning": "감정",
+          "note": "특히 인도주의적 행동이나 생각에 대한 감정을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 21,
+      "english": "Well, you see...I am the creditor!",
+      "korean": "아니요, 보세요... 저는 채권자입니다.",
+      "explanation": "이 문장은 화자가 자신의 입장을 강조하며, 상황에서 자신이 이익을 보는 위치에 있음을 설명하고 있습니다.",
+      "grammar": "「am」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-292/21.mp3",
+      "vocabulary": [
+        {
+          "word": "creditor",
+          "meaning": "채권자",
+          "note": "이 단어는 돈이나 물건을 빌려주고 그 대가를 받을 권리가 있는 사람을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "항상 어딘가에 자아는 존재한다. 모든 행동마다 자아는 동기가 된다. 만약 누군가 이것이 사실임을 발견하고 깨달을 수 있다면",
+    "그 깨달음 자체가 그것을 넘어서는 것이기 때문에, 깨닫게 되면 그것을 넘어선다.",
+    "형제여, Mulla Nasrudin이 이웃에게 말했다, 나는 가난한 사람의 빚을 갚기 위해 돈을 모으고 있다네. 그 사람은 빚을 갚을 여력이 없단다.",
+    "매우 칭찬할 만하다고 말하며 동전을 주었다. 이 사람은 누구인가요? 나는 말했다, 나스로딘이 서두르며 떠났다.",
+    "몇 주 후에 다시 문 앞에 있었다. 믿음이 많은 이웃이라고 생각하셨나요? 빚에 관해 전화하신 거죠? 있습니다. 누군가 빚을 갚을 수 없어서 돈을 기부받고 싶어하는 거야? 그렇군요. 돈을 빚진 사람이 당신인가요? 이번에는 아니야. 글쎄, 그렇게 듣게 되어 기쁩니다. 이 기여를 받으세요. 나스트루딘은 그 돈을 주머니에 넣었다. 이번 경우에 너의 인도주의적 감정을 일으키는 건 뭐야, 나슬루딘아? 아니요, 보세요... 저는 채권자입니다."
+  ],
+  "fullAudio": "audio/1971-292/script_all.mp3",
+  "originalText": "Love.\n\nSearch - and the ego is always somewhere behind.\nSearch - and in every act the ego is the motivation.\nBut if one can find that this is so\nand can realize it,\n\none goes beyond it, because the very realization\nis the going beyond\n\nBrother, said Mulla Nasrudin to a neighbor,\nI am collecting to pay the debt of a poor man\nwho cannot meet his obligations.\n\nVery commendable said the other, and gave him a coin.\nWho is this person?\nMe, said Nasrudin as he hurried away.\n\nA few weeks later he was at the door again.\nI suppose you are calling about a debt,\nsaid the trusting neighbor.\nI am.\nI suppose someone can't pay a debt\nand you want a contribution?\nThat is so.\nI suppose it is you who owes the money?\nNot this time.\nWell, I am glad to hear it.\nTake this contribution.\nNasrudin pocketed the money.\nJust one thing, Mulla -\nwhat prompts your humanitarian sentiments\nin this particular case?\nWell, you see...I am the creditor!",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 292,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0888 2.JPG",
+        "side": "left",
+        "printedPage": 226
+      },
+      {
+        "file": "IMG_0888 2.JPG",
+        "side": "right",
+        "printedPage": 227
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

@@ -1,0 +1,58 @@
+{
+  "key": "letter-067-part-01",
+  "number": 67,
+  "generationId": "01a1e5b9-9b6e-7ec5-9994-b1b0c04f2b82",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-67/01.mp3",
+      "start": 0.0,
+      "end": 0.618503
+    },
+    {
+      "index": 1,
+      "text": "I say: Die, so that you can live!",
+      "path": "audio/1969-67/02.mp3",
+      "start": 1.695306,
+      "end": 3.5514740000000002
+    },
+    {
+      "index": 2,
+      "text": "When the seed destroys itself, it becomes the tree; when the drop loses itself, it becomes the ocean.",
+      "path": "audio/1969-67/03.mp3",
+      "start": 4.654989,
+      "end": 10.028253999999999
+    },
+    {
+      "index": 3,
+      "text": "But man - man refuses to lose himself.",
+      "path": "audio/1969-67/04.mp3",
+      "start": 11.065828000000002,
+      "end": 13.59254
+    },
+    {
+      "index": 4,
+      "text": "How then can God manifest in him?",
+      "path": "audio/1969-67/05.mp3",
+      "start": 14.612993000000001,
+      "end": 16.35093
+    },
+    {
+      "index": 5,
+      "text": "Man is the seed, God is the tree.",
+      "path": "audio/1969-67/06.mp3",
+      "start": 17.379184,
+      "end": 19.634082
+    },
+    {
+      "index": 6,
+      "text": "Man is the drop, God is the ocean.",
+      "path": "audio/1969-67/07.mp3",
+      "start": 20.655873,
+      "end": 23.72
+    }
+  ]
+}

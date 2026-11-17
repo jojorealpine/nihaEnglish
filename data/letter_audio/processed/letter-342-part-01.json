@@ -1,0 +1,51 @@
+{
+  "key": "letter-342-part-01",
+  "number": 342,
+  "generationId": "01a1e914-64b1-752d-ac2e-d5f915b427ae",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-342/01.mp3",
+      "start": 0.0,
+      "end": 0.635329
+    },
+    {
+      "index": 1,
+      "text": "Man is free to decide, but not free not to decide - because not to decide is to decide, to waver is to decide, to postpone and evade decision is to decide.",
+      "path": "audio/1971-342/02.mp3",
+      "start": 1.9316329999999997,
+      "end": 12.110862
+    },
+    {
+      "index": 2,
+      "text": "There is no escape: one must say yes or no.",
+      "path": "audio/1971-342/03.mp3",
+      "start": 13.491950000000001,
+      "end": 17.169048
+    },
+    {
+      "index": 3,
+      "text": "And there are a thousand ways of saying no, only one way of saying yes, and no way of not saying anything at all.",
+      "path": "audio/1971-342/04.mp3",
+      "start": 18.483038999999998,
+      "end": 25.028458
+    },
+    {
+      "index": 4,
+      "text": "This is the human situation, and the seeker of truth must be aware of it, otherwise life is wasted unnecessarily.",
+      "path": "audio/1971-342/05.mp3",
+      "start": 26.556893,
+      "end": 33.668141
+    },
+    {
+      "index": 5,
+      "text": "A single moment lost cannot be regained - and we have wasted so many lives - so decide to decide, and decide to transform and transcend With the decision comes crystallization, and then one is ready to take the jump into the unknown.",
+      "path": "audio/1971-342/06.mp3",
+      "start": 35.215488,
+      "end": 53.21
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "sourceHash": "d04e724a9f78c7a08a8f884b3c8acdcd7adc7672d0ea6efed854ecc5da2462d5",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "자유롭게 살아라!",
+        "explanation": "욕망에 얽매이지 않고 목표를 추구하지 않는 삶을 살라는 의미",
+        "grammar": "동사원형 「Live」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "Live",
+            "meaning": "살다",
+            "note": "이 문맥에서는 「살다」의 뜻으로 읽습니다."
+          },
+          {
+            "word": "free",
+            "meaning": "자유로운",
+            "note": "제약이나 제한 없이 행동할 수 있는 상태를 나타냄"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "reviewed-grammar",
+      "notes": {
+        "korean": "순간순간 자유롭게 살아라!",
+        "explanation": "현재 순간에 집중하며 자유롭게 살아가라는 의미",
+        "grammar": "「Live」는 주어 you를 생략한 명령문의 동사원형입니다. 「from moment to moment」는 매 순간 이어지는 시간을 나타내는 어구입니다.",
+        "vocabulary": [
+          {
+            "word": "Live",
+            "meaning": "살다",
+            "note": "현재의 삶의 방식이나 상태를 강조"
+          },
+          {
+            "word": "moment",
+            "meaning": "순간",
+            "note": "현재의 순간에 집중하라는 의미를 담고 있음"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "행복을 갈망하지 마세요. 갈망은 오히려 방해가 됩니다.",
+        "explanation": "행복을 추구하는 욕망이 오히려 목표 달성을 방해할 수 있다는 의미",
+        "grammar": "「Do not desire」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "desire",
+            "meaning": "갈망, 갈망",
+            "note": "특정 대상이나 상태를 얻고자 하는 강한 욕구를 나타냄"
+          },
+          {
+            "word": "bliss",
+            "meaning": "행복, 기쁨",
+            "note": "극도의 행복이나 만족감을 의미함"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "infinitive",
+      "notes": {
+        "korean": "욕망에 얽매이지 않고 목표를 바라보지 않은 삶을 살아라.",
+        "explanation": "욕망에 얽매이지 않고 미래의 목표에 집착하지 않고 현재에 집중하는 삶의 태도를 강조하는 문장입니다.",
+        "grammar": "「to desire」는 to + 동사원형으로 된 to부정사입니다. 문맥에 따라 행동의 내용·목적·설명 등을 나타내는 데 쓰입니다.",
+        "vocabulary": [
+          {
+            "word": "unchained",
+            "meaning": "제약 없이 자유롭게",
+            "note": "욕망이나 제약으로부터 자유로워진 상태를 나타냅니다."
+          },
+          {
+            "word": "desire",
+            "meaning": "욕망",
+            "note": "특정한 것을 원하거나 추구하는 마음의 상태를 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "인생의 문에 거지처럼 접근하지 마세요. 결코 구걸하러 가지 마세요, 왜냐하면 그 문은 거지에게는 절대 열리지 않기 때문입니다!",
+        "explanation": "인생의 기회나 가치를 구걸하듯이 요구하지 말라는 경고문입니다.",
+        "grammar": "동사원형 「approach」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "approach",
+            "meaning": "접근하다",
+            "note": "여기서는 인생의 기회나 가치에 대한 태도나 방법을 의미합니다."
+          },
+          {
+            "word": "begging",
+            "meaning": "구걸",
+            "note": "거지처럼 요구하거나 기대하지 말라는 의미를 담고 있습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "두려움을 버리고 두려움에서 벗어나세요. 잃을 것도 없고 얻을 것도 없으니, 이것을 깨닫는 순간 삶의 전체성이 손안에 들어옵니다.",
+        "explanation": "문장은 두려움을 극복하고 현재 순간에 집중함으로써 삶의 진정한 의미를 깨닫게 된다는 메시지를 전달합니다.",
+        "grammar": "「don't be」는 do not + 동사원형으로 만든 부정 명령문입니다. 행동의 주체인 you를 따로 쓰지 않고, 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "realize",
+            "meaning": "깨닫다, 이해하다",
+            "note": "문장에서 깊은 인식이나 깨달음을 의미합니다."
+          },
+          {
+            "word": "totality",
+            "meaning": "전체성, 완전성",
+            "note": "삶의 모든 측면을 포괄하는 완전한 상태를 나타냅니다."
+          },
+          {
+            "word": "attained",
+            "meaning": "얻다, 획득하다",
+            "note": "삶의 완전한 이해나 경험을 얻는 것을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

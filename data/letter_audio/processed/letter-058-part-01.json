@@ -1,0 +1,79 @@
+{
+  "key": "letter-058-part-01",
+  "number": 58,
+  "generationId": "01a1e5b2-7fb7-7643-ac6d-47d71432ac31",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-58/01.mp3",
+      "start": 0.0,
+      "end": 0.490862
+    },
+    {
+      "index": 1,
+      "text": "Your letter has filled my heart with joy.",
+      "path": "audio/1969-58/02.mp3",
+      "start": 1.8797510000000002,
+      "end": 3.989229
+    },
+    {
+      "index": 2,
+      "text": "You are at the threshold of a great revolution; now, even if you want to run away I will not let you.",
+      "path": "audio/1969-58/03.mp3",
+      "start": 5.273696,
+      "end": 10.882268
+    },
+    {
+      "index": 3,
+      "text": "You will certainly have to perish in it so that you can be reborn.",
+      "path": "audio/1969-58/04.mp3",
+      "start": 12.058277,
+      "end": 15.577392
+    },
+    {
+      "index": 4,
+      "text": "Gold has to pass through fire - only then is it purified.",
+      "path": "audio/1969-58/05.mp3",
+      "start": 16.72356,
+      "end": 20.542902
+    },
+    {
+      "index": 5,
+      "text": "Love is fire for you, and I pray to God that your ego burns in it.",
+      "path": "audio/1969-58/06.mp3",
+      "start": 21.662653,
+      "end": 26.146304
+    },
+    {
+      "index": 6,
+      "text": "Then if love comes, prayer can come too; without love prayer is not possible.",
+      "path": "audio/1969-58/07.mp3",
+      "start": 27.387459999999997,
+      "end": 32.473084
+    },
+    {
+      "index": 7,
+      "text": "Remember that body and soul are not two.",
+      "path": "audio/1969-58/08.mp3",
+      "start": 33.587596000000005,
+      "end": 36.17068
+    },
+    {
+      "index": 8,
+      "text": "The part of the person that can be seen is the body, the part that cannot be seen is the soul.",
+      "path": "audio/1969-58/09.mp3",
+      "start": 37.309002,
+      "end": 42.584534999999995
+    },
+    {
+      "index": 9,
+      "text": "The same holds true for God and matter: God made visible is matter, and what cannot be seen is God Take life easily and naturally, just as it comes.",
+      "path": "audio/1969-58/10.mp3",
+      "start": 44.093424000000006,
+      "end": 54.33
+    }
+  ]
+}

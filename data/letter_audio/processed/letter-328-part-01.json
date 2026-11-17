@@ -1,0 +1,72 @@
+{
+  "key": "letter-328-part-01",
+  "number": 328,
+  "generationId": "01a1e90f-9759-7541-a303-6a154a831eac",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-328/01.mp3",
+      "start": 0.0,
+      "end": 0.678866
+    },
+    {
+      "index": 1,
+      "text": "Information is not knowledge because information is not transformation and can never be - and knowledge comes only through transformation.",
+      "path": "audio/1971-328/02.mp3",
+      "start": 2.031927,
+      "end": 11.220091
+    },
+    {
+      "index": 2,
+      "text": "Information is adding something to the same old mind.",
+      "path": "audio/1971-328/03.mp3",
+      "start": 12.66483,
+      "end": 16.091882000000002
+    },
+    {
+      "index": 3,
+      "text": "It is quantitative; there is no qualitative change because the mind behind it remains the same.",
+      "path": "audio/1971-328/04.mp3",
+      "start": 17.488616999999998,
+      "end": 24.209002
+    },
+    {
+      "index": 4,
+      "text": "That is why all that is called education just proves to be superficial.",
+      "path": "audio/1971-328/05.mp3",
+      "start": 25.665101999999997,
+      "end": 30.182449000000002
+    },
+    {
+      "index": 5,
+      "text": "Mind must go through a qualitative change, otherwise there is no wisdom; and to go on adding information to ignorance is fatal.",
+      "path": "audio/1971-328/06.mp3",
+      "start": 31.503583,
+      "end": 40.593650999999994
+    },
+    {
+      "index": 6,
+      "text": "I call meditation the method for mind's total mutation.",
+      "path": "audio/1971-328/07.mp3",
+      "start": 41.990658,
+      "end": 45.84585
+    },
+    {
+      "index": 7,
+      "text": "First let there be a transformation of the very quality of the mind and only then education can be educative.",
+      "path": "audio/1971-328/08.mp3",
+      "start": 47.402494000000004,
+      "end": 54.632448999999994
+    },
+    {
+      "index": 8,
+      "text": "In ancient times the king of a certain country was concerned because his son was something of a fool The king's counselors urged that the son be sent away to a great university in another land in the hope that the boy would acquire learning and wisdom.",
+      "path": "audio/1971-328/09.mp3",
+      "start": 56.190295000000006,
+      "end": 72.67
+    }
+  ]
+}

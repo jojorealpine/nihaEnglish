@@ -1,0 +1,79 @@
+{
+  "key": "letter-030-part-01",
+  "number": 30,
+  "generationId": "01a1e4eb-b4c2-7a1f-bbad-4f5aae4d164b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1965-30/01.mp3",
+      "start": 0.0,
+      "end": 0.714739
+    },
+    {
+      "index": 1,
+      "text": "and lots of it.",
+      "path": "audio/1965-30/02.mp3",
+      "start": 1.9379369999999998,
+      "end": 2.900499
+    },
+    {
+      "index": 2,
+      "text": "I looked at once for your letter amongst the pile waiting for me on my return.",
+      "path": "audio/1965-30/03.mp3",
+      "start": 4.279093,
+      "end": 7.838005
+    },
+    {
+      "index": 3,
+      "text": "I can't tell you how glad I was to get it - written by hand, too.",
+      "path": "audio/1965-30/04.mp3",
+      "start": 8.97907,
+      "end": 12.240635
+    },
+    {
+      "index": 4,
+      "text": "You write: Now your presence is felt in your absence.",
+      "path": "audio/1965-30/05.mp3",
+      "start": 13.507528,
+      "end": 17.274082
+    },
+    {
+      "index": 5,
+      "text": "Love really is presence.",
+      "path": "audio/1965-30/06.mp3",
+      "start": 18.384603,
+      "end": 20.062676
+    },
+    {
+      "index": 6,
+      "text": "Where there is love space and time vanish, and where there is no love even what is near in space and time keeps immeasurably apart.",
+      "path": "audio/1965-30/07.mp3",
+      "start": 21.294739,
+      "end": 29.068073000000002
+    },
+    {
+      "index": 7,
+      "text": "Only lovelessness separates and love is the only nearness.",
+      "path": "audio/1965-30/08.mp3",
+      "start": 30.466915999999998,
+      "end": 34.32678
+    },
+    {
+      "index": 8,
+      "text": "Those who find total love discover everything within themselves.",
+      "path": "audio/1965-30/09.mp3",
+      "start": 35.784853000000005,
+      "end": 39.649387999999995
+    },
+    {
+      "index": 9,
+      "text": "The whole world then is inside, not outside and the moon and stars lie in the inner sky.",
+      "path": "audio/1965-30/10.mp3",
+      "start": 41.094966,
+      "end": 48.01
+    }
+  ]
+}

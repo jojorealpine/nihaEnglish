@@ -1,0 +1,186 @@
+{
+  "sourceHash": "a9e796cbda987355276a33f706d7d980d0078799853426eac2f5007de25c4a81",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "마음과 명상은 같은 본질이나 에너지의 두 가지 이름입니다.",
+        "explanation": "마음과 명상이 동일한 본질이나 에너지를 가리키는 다른 표현임을 설명합니다.",
+        "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "substance",
+            "meaning": "본질",
+            "note": "여기서는 마음이나 에너지의 근본적인 성질을 의미합니다."
+          },
+          {
+            "word": "meditation",
+            "meaning": "명상",
+            "note": "마음을 집중시키고 이해하는 정신적 연습을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "사고가 없는 에너지는 차원이 없는 영역의 문을 열어줍니다.",
+        "explanation": "사고가 없는 상태에서 에너지가 특정 차원을 넘어서는 상태로 변화하며, 그 결과로 차원이 정의되지 않은 영역에 접근하게 된다는 의미입니다.",
+        "grammar": "동사 「opens」는 open의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "dimensionless",
+            "meaning": "차원이 없는",
+            "note": "일반적으로 물리적 차원을 의미하지 않고, 추상적 또는 정신적 차원을 가리키는 표현입니다."
+          },
+          {
+            "word": "dimension",
+            "meaning": "차원",
+            "note": "물리적 공간의 차원을 의미할 수도 있고, 여기서는 정신적 또는 추상적 차원을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "사고는 이분법 없이는 불가능하며, 그래서 명상은 사고를 넘어서라고 요구합니다.",
+        "explanation": "이분법 없이는 사고가 불가능하다는 개념과 명상이 이를 극복하도록 이끈다는 내용을 담고 있습니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "impossible",
+            "meaning": "불가능한",
+            "note": "이분법 없이 사고가 이루어질 수 없다는 의미를 전달합니다."
+          },
+          {
+            "word": "meditation",
+            "meaning": "명상",
+            "note": "이분법을 넘어서 사고를 초월하는 과정을 이끄는 행위를 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "생각이 없거나 단 한 번의 생각의 흔적도 없을 때, 에너지는 통합되고 질적인 변화가 생깁니다.",
+        "explanation": "생각이 멈추는 순간, 에너지의 상태가 조화롭게 합쳐지고 그 본질적인 성질이 변한다는 의미입니다.",
+        "grammar": "동사 「becomes」는 become의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "thinking",
+            "meaning": "생각",
+            "note": "여기서는 의식적인 사고 과정을 가리킵니다."
+          },
+          {
+            "word": "integrated",
+            "meaning": "통합된",
+            "note": "에너지나 상태가 조화롭게 합쳐져 하나로 통합된 상태를 의미합니다."
+          },
+          {
+            "word": "qualitative",
+            "meaning": "질적인",
+            "note": "상태나 성질의 본질적인 변화를 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "마음은 이분법과 갈등 속에서 흐르는 에너지이고, 명상은 자기와 조화를 이루며 편안한 상태의 에너지이다.",
+        "explanation": "마음과 명상이 에너지의 다른 표현임을 설명하며, 마음은 갈등과 불일치 속에서 에너지가 흐르는 반면 명상은 조화롭고 편안한 상태의 에너지임을 강조한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "dualisms",
+            "meaning": "이분법",
+            "note": "두 가지 상반된 요소나 상태의 대립을 의미한다."
+          },
+          {
+            "word": "conflict",
+            "meaning": "갈등",
+            "note": "서로 충돌하거나 대립하는 상태를 나타낸다."
+          },
+          {
+            "word": "meditation",
+            "meaning": "명상",
+            "note": "마음을 집중시키고 평온함을 찾는 정신적 연습을 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "따라서 깨달음이나 부처가 되려는 노력조차 삼가야 합니다. 어떤 형태로든 추구하는 순간부터 생각의 메커니즘이 작동하여 이분법이 만들어지기 때문입니다.",
+        "explanation": "문장은 깨달음이나 부처가 되려는 추구 행위 자체가 생각의 과정을 유발하고, 그로 인해 이분법적인 사고가 생겨나므로 삼가야 함을 강조합니다.",
+        "grammar": "동사원형 「refrain」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "refrain",
+            "meaning": "삼가다, 자제하다",
+            "note": "행동이나 생각을 멈추거나 피하라는 의미입니다."
+          },
+          {
+            "word": "mechanism",
+            "meaning": "메커니즘",
+            "note": "생각의 과정이나 작동 방식을 의미하며, 여기서는 사고 과정이 어떻게 작동하는지 설명합니다."
+          },
+          {
+            "word": "dualisms",
+            "meaning": "이분법",
+            "note": "두 가지 대립되는 개념이나 상태를 의미하며, 이 문장에서는 생각이 만들어내는 대립 관계를 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

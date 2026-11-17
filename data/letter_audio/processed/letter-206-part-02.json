@@ -1,0 +1,44 @@
+{
+  "key": "letter-206-part-02",
+  "number": 206,
+  "generationId": "01a1e8ee-5914-7798-8745-81a04c2b0483",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Breathe yes in and out and you will feel the divine all around you within and without.",
+      "path": "audio/1971-206/11.mp3",
+      "start": 0.0,
+      "end": 5.077959
+    },
+    {
+      "index": 11,
+      "text": "He is always present but he cannot enter through a no sign, He cannot trespass on you.",
+      "path": "audio/1971-206/12.mp3",
+      "start": 6.520045,
+      "end": 11.818866
+    },
+    {
+      "index": 12,
+      "text": "With a no you are an ego but with a yes you are just egolessness.",
+      "path": "audio/1971-206/13.mp3",
+      "start": 13.192426000000001,
+      "end": 18.267234000000002
+    },
+    {
+      "index": 13,
+      "text": "Ego is a Leibnizian monad without any doors or windows, and egolessness is the gate.",
+      "path": "audio/1971-206/14.mp3",
+      "start": 19.548776,
+      "end": 25.756281
+    },
+    {
+      "index": 14,
+      "text": "Be a gate - the divine is waiting to enter you from eternity.",
+      "path": "audio/1971-206/15.mp3",
+      "start": 27.385782,
+      "end": 32.21
+    }
+  ]
+}

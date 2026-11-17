@@ -1,0 +1,1070 @@
+{
+  "id": "1970-159",
+  "title": "1970 / 159",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "divided",
+      "meaning": "나누어진",
+      "note": "여기서는 시간이나 공간으로 인해 분리되지 않는다는 의미입니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "space",
+      "meaning": "공간",
+      "note": "물리적인 공간을 의미하며, 이 문장에서는 존재의 영역 전체를 포괄합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "undividedness",
+      "meaning": "나뉨 없음",
+      "note": "생명이나 경험이 어떠한 구분이나 분할 없이 통합되어 있다는 의미입니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "undivided",
+      "meaning": "나뉨 없는",
+      "note": "어떠한 요소나 부분으로 나뉘지 않은 상태를 나타냅니다.",
+      "sentenceIds": [
+        3,
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "past",
+      "meaning": "과거",
+      "note": "이전의 시기나 사건을 가리킨다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "present",
+      "meaning": "현재",
+      "note": "지금 일어나고 있는 순간을 가리킨다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "future",
+      "meaning": "미래",
+      "note": "아직 오지 않은 미래의 시기나 사건을 가리킨다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "minds",
+      "meaning": "마음, 생각",
+      "note": "사람들의 내면적 사고나 인식을 나타냄",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "men",
+      "meaning": "사람들, 인간",
+      "note": "일반적인 인간 집단을 지칭",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Mind",
+      "meaning": "마음",
+      "note": "개인의 정신 상태, 사고, 감정 등 내면의 세계를 나타낸다.",
+      "sentenceIds": [
+        6,
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "time",
+      "meaning": "시간",
+      "note": "변화와 흐름의 개념을 나타내며, 여기서는 마음의 변화나 발전이 시간의 흐름 속에서 이루어진다는 의미를 담고 있다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Similarly",
+      "meaning": "마찬가지로",
+      "note": "이전 문장과 유사한 맥락에서 사용되어 논리적 연결을 나타낸다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "body",
+      "meaning": "몸",
+      "note": "문장에서 개인의 물리적 존재나 상태를 나타냅니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "limit",
+      "meaning": "한계",
+      "note": "개인의 가능성이나 제약의 경계를 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "dividing",
+      "meaning": "나누다",
+      "note": "개념이나 생각을 구분하고 분석하는 행위를 의미함",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "divide",
+      "meaning": "나누다",
+      "note": "문장에서 마음의 작용을 설명하는 핵심 동사로, 복잡한 개념을 분리하고 이해하는 과정을 나타냅니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "function",
+      "meaning": "기능",
+      "note": "프리즘의 역할을 설명하며, 여기서는 마음이 나누는 행위의 본질적인 목적이나 역할을 의미합니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Passing",
+      "meaning": "통과하다",
+      "note": "빛이나 에너지가 어떤 경계나 구조를 지나가는 동작을 나타냅니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "existence",
+      "meaning": "존재",
+      "note": "빛이 통과하는 주체로서, 여기서는 존재의 본질이나 빛 자체를 의미합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "root",
+      "meaning": "근본, 근원",
+      "note": "문장에서 기본적인 시작점이나 근원을 의미함.",
+      "sentenceIds": [
+        12,
+        15,
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "branches",
+      "meaning": "가지, 가지들",
+      "note": "근본에서 나뉘어져 나온 여러 부분이나 결과를 나타냄.",
+      "sentenceIds": [
+        12,
+        14,
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "eternal",
+      "meaning": "영원한",
+      "note": "시간의 제약 없이 영원히 지속되는 상태를 의미한다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "beginningless",
+      "meaning": "시작이 없는",
+      "note": "시작점이 없어 과거로 거슬러 올라갈 수 없는 상태를 나타낸다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "beginning",
+      "meaning": "시작",
+      "note": "가지가 생겨나는 시점을 나타내며, 시간의 개념을 강조한다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "lasting",
+      "meaning": "지속되는, 영원히 지속되는",
+      "note": "영원히 지속된다는 강한 뉘앙스를 가지고 있습니다.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "changes",
+      "meaning": "변한다",
+      "note": "변화의 가능성이나 실제로 일어나는 변화를 나타냅니다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "changed",
+      "meaning": "변경되다",
+      "note": "이 문맥에서는 상태나 본질이 바뀌는 것을 의미한다.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "inevitably",
+      "meaning": "필연적으로",
+      "note": "결과가 확실하게 발생할 것이라는 강한 확신을 나타낸다.",
+      "sentenceIds": [
+        17,
+        19
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "changing",
+      "meaning": "변해가다",
+      "note": "지속적인 변화 과정을 나타내며, 변화의 능동적인 진행을 의미한다.",
+      "sentenceIds": [
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "certainly",
+      "meaning": "확실히",
+      "note": "강한 확신이나 확실성을 나타냄",
+      "sentenceIds": [
+        19
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "transforms",
+      "meaning": "변한다",
+      "note": "상태나 성질이 바뀌는 것을 의미함",
+      "sentenceIds": [
+        19
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "failure",
+      "meaning": "실패",
+      "note": "목표 달성에 이르지 못하거나 기대에 부응하지 못하는 상황을 의미합니다.",
+      "sentenceIds": [
+        20,
+        21
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "anguish",
+      "meaning": "고통",
+      "note": "정신적 고통이나 깊은 슬픔을 나타냅니다.",
+      "sentenceIds": [
+        20,
+        21
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "succeeds",
+      "meaning": "성공하다",
+      "note": "목표를 달성하거나 기대에 부응하는 것을 의미함",
+      "sentenceIds": [
+        22
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fulfilled",
+      "meaning": "충족되다",
+      "note": "목표 달성 뿐 아니라 내면적인 만족감이나 행복감을 느끼는 상태를 의미함",
+      "sentenceIds": [
+        22
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "intransient",
+      "meaning": "변하지 않는, 영속적인",
+      "note": "뒤의 transient와 대조되어 변화하지 않는 근원을 가리킵니다.",
+      "sentenceIds": [
+        23
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "lopsided",
+      "meaning": "한쪽으로 기운, 불균형한",
+      "note": "한쪽 면이나 관점에만 치우친 상태를 뜻하는 형용사입니다.",
+      "sentenceIds": [
+        23
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "arched",
+      "meaning": "아치형의",
+      "note": "위쪽이 둥근 곡선을 이루는 구조를 나타내는 형용사입니다.",
+      "sentenceIds": [
+        23
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "truth",
+      "meaning": "진실",
+      "note": "이 문맥에서는 인생의 본질이나 핵심적인 특성을 가리킨다.",
+      "sentenceIds": [
+        24
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "pluralism",
+      "meaning": "다원주의",
+      "note": "다양한 관점이나 요소가 공존하고 상호작용하는 상태를 의미한다.",
+      "sentenceIds": [
+        24
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "stream",
+      "meaning": "흐름, 흐름의 양상",
+      "note": "여기서는 삶의 진행 방식이나 경향을 의미한다.",
+      "sentenceIds": [
+        25
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "opposite",
+      "meaning": "반대의, 정반대의",
+      "note": "대조적인 개념이나 상태를 나타내며, 삶의 양면성을 설명한다.",
+      "sentenceIds": [
+        25
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "neither be polar nor lopsided",
+      "meaning": "양극단으로 치우치지도, 한쪽으로 기울지도 않는",
+      "explanation": "neither A nor B는 서로 대등한 두 선택지나 상태를 모두 부정하는 표현입니다.",
+      "sentenceIds": [
+        23
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-159/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Life is not divided, either in time or in space.",
+      "korean": "시간이나 공간으로 나뉘지 않아요.",
+      "explanation": "생명은 시간과 공간의 구분 없이 존재한다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-159/02.mp3",
+      "vocabulary": [
+        {
+          "word": "divided",
+          "meaning": "나누어진",
+          "note": "여기서는 시간이나 공간으로 인해 분리되지 않는다는 의미입니다."
+        },
+        {
+          "word": "space",
+          "meaning": "공간",
+          "note": "물리적인 공간을 의미하며, 이 문장에서는 존재의 영역 전체를 포괄합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "If life is anything, it is undividedness - it is an undivided flow.",
+      "korean": "생명이 무엇이든, 그것은 나뉨 없음일 것이다 - 그것은 나뉨 없는 흐름이다.",
+      "explanation": "생명의 본질이 나뉨이나 구분 없이 흐르는 것임을 강조하는 문장입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-159/03.mp3",
+      "vocabulary": [
+        {
+          "word": "undividedness",
+          "meaning": "나뉨 없음",
+          "note": "생명이나 경험이 어떠한 구분이나 분할 없이 통합되어 있다는 의미입니다."
+        },
+        {
+          "word": "undivided",
+          "meaning": "나뉨 없는",
+          "note": "어떠한 요소나 부분으로 나뉘지 않은 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Past, present, future - these are human lines drawn on the undivided flow of time.",
+      "korean": "과거, 현재, 미래는 시간의 나뉘지 않은 흐름에 인간이 그은 선들일 뿐이다.",
+      "explanation": "문장은 시간의 연속성을 강조하며, 인간이 시간을 과거, 현재, 미래로 구분하는 것은 자연스러운 흐름을 인위적으로 나누는 행위임을 설명한다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-159/04.mp3",
+      "vocabulary": [
+        {
+          "word": "past",
+          "meaning": "과거",
+          "note": "이전의 시기나 사건을 가리킨다."
+        },
+        {
+          "word": "present",
+          "meaning": "현재",
+          "note": "지금 일어나고 있는 순간을 가리킨다."
+        },
+        {
+          "word": "future",
+          "meaning": "미래",
+          "note": "아직 오지 않은 미래의 시기나 사건을 가리킨다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Indeed, they are nowhere except in the minds of men.",
+      "korean": "실제로는 사람들의 마음속에만 존재한다.",
+      "explanation": "과거, 현재, 미래는 시간의 흐름에 인간이 그은 선일 뿐, 실제로는 인간의 인식 속에만 존재한다는 의미",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-159/05.mp3",
+      "vocabulary": [
+        {
+          "word": "minds",
+          "meaning": "마음, 생각",
+          "note": "사람들의 내면적 사고나 인식을 나타냄"
+        },
+        {
+          "word": "men",
+          "meaning": "사람들, 인간",
+          "note": "일반적인 인간 집단을 지칭"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Mind is time.",
+      "korean": "마음은 시간이다.",
+      "explanation": "마음과 시간이 본질적으로 연결되어 있으며, 마음의 작용이나 변화가 시간의 흐름과 밀접하게 연관되어 있다는 의미를 담고 있다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-159/06.mp3",
+      "vocabulary": [
+        {
+          "word": "Mind",
+          "meaning": "마음",
+          "note": "개인의 정신 상태, 사고, 감정 등 내면의 세계를 나타낸다."
+        },
+        {
+          "word": "time",
+          "meaning": "시간",
+          "note": "변화와 흐름의 개념을 나타내며, 여기서는 마음의 변화나 발전이 시간의 흐름 속에서 이루어진다는 의미를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Similarly, space is also undivided.",
+      "korean": "마찬가지로 공간 또한 나눌 수 없다.",
+      "explanation": "문장은 공간의 본질적인 통합성과 불가분성을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-159/07.mp3",
+      "vocabulary": [
+        {
+          "word": "Similarly",
+          "meaning": "마찬가지로",
+          "note": "이전 문장과 유사한 맥락에서 사용되어 논리적 연결을 나타낸다."
+        },
+        {
+          "word": "undivided",
+          "meaning": "나눌 수 없는",
+          "note": "공간이 분리될 수 없는 본질적인 특성을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "The body is not one's limit - in fact, the limit or non-limit of the whole is one's limit.",
+      "korean": "몸은 한계가 아니다 - 사실 전체의 한계 또는 한계가 아닌 것이 바로 개인의 한계이다.",
+      "explanation": "몸이 개인의 제약이 아니며, 전체의 경계 또는 경계가 아닌 상태가 개인의 경계를 결정한다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-159/08.mp3",
+      "vocabulary": [
+        {
+          "word": "body",
+          "meaning": "몸",
+          "note": "문장에서 개인의 물리적 존재나 상태를 나타냅니다."
+        },
+        {
+          "word": "limit",
+          "meaning": "한계",
+          "note": "개인의 가능성이나 제약의 경계를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "But, the mind does not rest without dividing.",
+      "korean": "그러나 마음은 나누지 않으면 평온을 찾지 못한다.",
+      "explanation": "마음이 평온을 유지하기 위해서는 생각이나 개념을 구분하고 분석하는 과정이 필요하다는 의미",
+      "grammar": "「does not rest」는 현재의 부정 표현입니다. do/does/did 뒤에서는 본동사 「rest」를 원형으로 씁니다.",
+      "audio": "audio/1970-159/09.mp3",
+      "vocabulary": [
+        {
+          "word": "mind",
+          "meaning": "마음",
+          "note": "정신적 상태나 사고 과정을 나타냄"
+        },
+        {
+          "word": "dividing",
+          "meaning": "나누다",
+          "note": "개념이나 생각을 구분하고 분석하는 행위를 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "It is like a prism; to divide is its function.",
+      "korean": "그것은 프리즘과 같아서 나누는 것이 그 기능입니다.",
+      "explanation": "마음이 나누는 과정을 프리즘에 비유하며, 나누는 것이 그 본질적인 역할임을 설명합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-159/10.mp3",
+      "vocabulary": [
+        {
+          "word": "divide",
+          "meaning": "나누다",
+          "note": "문장에서 마음의 작용을 설명하는 핵심 동사로, 복잡한 개념을 분리하고 이해하는 과정을 나타냅니다."
+        },
+        {
+          "word": "function",
+          "meaning": "기능",
+          "note": "프리즘의 역할을 설명하며, 여기서는 마음이 나누는 행위의 본질적인 목적이나 역할을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "Passing through it the ray of existence becomes divided into many rays and many colors.",
+      "korean": "존재의 빛이 그것을 통과하면서 여러 빛과 색깔로 나뉘어진다.",
+      "explanation": "존재의 빛이 특정 구조나 현상을 통과하면서 다양한 빛과 색깔로 분산되는 모습을 묘사합니다.",
+      "grammar": "동사 「becomes」는 become의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-159/11.mp3",
+      "vocabulary": [
+        {
+          "word": "Passing",
+          "meaning": "통과하다",
+          "note": "빛이나 에너지가 어떤 경계나 구조를 지나가는 동작을 나타냅니다."
+        },
+        {
+          "word": "existence",
+          "meaning": "존재",
+          "note": "빛이 통과하는 주체로서, 여기서는 존재의 본질이나 빛 자체를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "What is one at the root becomes many at the branches.",
+      "korean": "근본이 되는 하나가 가지 끝에서는 여럿이 된다.",
+      "explanation": "존재의 빛이 근본에서 시작하여 가지 끝에서는 다양하게 나뉘어짐을 나타냄.",
+      "grammar": "동사 「becomes」는 become의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-159/12.mp3",
+      "vocabulary": [
+        {
+          "word": "root",
+          "meaning": "근본, 근원",
+          "note": "문장에서 기본적인 시작점이나 근원을 의미함."
+        },
+        {
+          "word": "branches",
+          "meaning": "가지, 가지들",
+          "note": "근본에서 나뉘어져 나온 여러 부분이나 결과를 나타냄."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "The root is eternal - beginningless, endless.",
+      "korean": "뿌리는 시작이 없고 끝이 없는 영원하다.",
+      "explanation": "뿌리가 시간의 제약 없이 항상 존재한다는 의미를 전달한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-159/13.mp3",
+      "vocabulary": [
+        {
+          "word": "eternal",
+          "meaning": "영원한",
+          "note": "시간의 제약 없이 영원히 지속되는 상태를 의미한다."
+        },
+        {
+          "word": "beginningless",
+          "meaning": "시작이 없는",
+          "note": "시작점이 없어 과거로 거슬러 올라갈 수 없는 상태를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "Branches are in time - they have their beginning, they have their end Branches are change.",
+      "korean": "가지들은 시간 속에 존재하며 시작과 끝이 있다. 가지들은 변화를 나타낸다.",
+      "explanation": "문장은 영원하고 시작과 끝이 없는 뿌리와 달리 가지들은 시간의 흐름 속에서 생겨나고 사라지며, 변화의 본질을 지닌다고 설명한다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-159/14.mp3",
+      "vocabulary": [
+        {
+          "word": "Branches",
+          "meaning": "가지",
+          "note": "뿌리에서 뻗어나온 부분을 의미하며, 변화와 시간의 흐름을 상징한다."
+        },
+        {
+          "word": "beginning",
+          "meaning": "시작",
+          "note": "가지가 생겨나는 시점을 나타내며, 시간의 개념을 강조한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "The root is ever-lasting.",
+      "korean": "뿌리는 영원히 지속된다.",
+      "explanation": "뿌리는 시간의 제약을 받지 않고 지속적으로 존재한다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-159/15.mp3",
+      "vocabulary": [
+        {
+          "word": "root",
+          "meaning": "근본, 근원",
+          "note": "여기서는 나무의 근본이나 어떤 개념의 기본적인 부분을 의미합니다."
+        },
+        {
+          "word": "lasting",
+          "meaning": "지속되는, 영원히 지속되는",
+          "note": "영원히 지속된다는 강한 뉘앙스를 가지고 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "Neither the root changes nor can it be changed.",
+      "korean": "뿌리는 변하지 않고 변할 수도 없습니다.",
+      "explanation": "문장의 의미: 뿌리는 불변의 상태를 유지하며 어떠한 변화도 겪지 않고, 어떠한 외부 요인으로도 변하지 않는다는 의미입니다.",
+      "grammar": "「can it be changed」는 조동사 + be + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1970-159/16.mp3",
+      "vocabulary": [
+        {
+          "word": "root",
+          "meaning": "근본, 근원",
+          "note": "여기서는 어떤 것의 기본적인 본질이나 근원을 의미합니다."
+        },
+        {
+          "word": "changes",
+          "meaning": "변한다",
+          "note": "변화의 가능성이나 실제로 일어나는 변화를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 17,
+      "english": "Yes - one can desire it to be changed, and then such a desire inevitably takes one into failure and anguish.",
+      "korean": "변화시키고 싶은 욕망이 생기면 결국 실패와 고통으로 이어지게 된다.",
+      "explanation": "변화를 원하는 욕망이 생기면 그 결과로 실패와 고통을 겪게 된다는 의미",
+      "grammar": "「can desire」에서 조동사 can 뒤에 동사원형 「desire」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1970-159/17.mp3",
+      "vocabulary": [
+        {
+          "word": "changed",
+          "meaning": "변경되다",
+          "note": "이 문맥에서는 상태나 본질이 바뀌는 것을 의미한다."
+        },
+        {
+          "word": "inevitably",
+          "meaning": "필연적으로",
+          "note": "결과가 확실하게 발생할 것이라는 강한 확신을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 18,
+      "english": "Branches go on changing They cannot be stopped from changing.",
+      "korean": "가지들은 계속해서 변해간다. 변화를 막을 수 없다.",
+      "explanation": "문장은 자연스러운 변화의 불가피성을 강조하며, 변화를 저지할 수 없다는 점을 설명한다.",
+      "grammar": "동사 「go」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1970-159/18.mp3",
+      "vocabulary": [
+        {
+          "word": "Branches",
+          "meaning": "가지들",
+          "note": "여기서는 주로 나무의 가지를 의미하지만, 비유적으로 변화의 흐름을 나타낼 수도 있다."
+        },
+        {
+          "word": "changing",
+          "meaning": "변해가다",
+          "note": "지속적인 변화 과정을 나타내며, 변화의 능동적인 진행을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 19,
+      "english": "But certainly it can be desired that they don't change, and then such a desire inevitably transforms itself into failure and anguish.",
+      "korean": "그러나 확실히 그러한 변화를 막기를 바랄 수 있지만, 그러한 바람은 결국 실패와 고통으로 변하게 된다.",
+      "explanation": "문장은 변화의 불가피성을 인정하면서도, 변화를 막으려는 욕망이 결국 부정적인 결과를 초래한다는 내용을 전달한다.",
+      "grammar": "「can be desired」는 조동사 + be + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1970-159/19.mp3",
+      "vocabulary": [
+        {
+          "word": "certainly",
+          "meaning": "확실히",
+          "note": "강한 확신이나 확실성을 나타냄"
+        },
+        {
+          "word": "inevitably",
+          "meaning": "필연적으로",
+          "note": "결과가 불가피하거나 피할 수 없음을 나타냄"
+        },
+        {
+          "word": "transforms",
+          "meaning": "변한다",
+          "note": "상태나 성질이 바뀌는 것을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 20,
+      "english": "The West is in the first kind of failure and anguish.",
+      "korean": "서양은 첫 번째 종류의 실패와 고통에 처해 있습니다.",
+      "explanation": "서양 사회가 특정 변화 과정에서 겪고 있는 초기 단계의 어려움과 고통을 나타냅니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-159/20.mp3",
+      "vocabulary": [
+        {
+          "word": "failure",
+          "meaning": "실패",
+          "note": "목표 달성에 이르지 못하거나 기대에 부응하지 못하는 상황을 의미합니다."
+        },
+        {
+          "word": "anguish",
+          "meaning": "고통",
+          "note": "정신적 고통이나 깊은 슬픔을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 21,
+      "english": "The East is in the second kind of failure and anguish.",
+      "korean": "동쪽은 두 번째 종류의 실패와 고통을 겪고 있습니다.",
+      "explanation": "동쪽 지역이나 문화가 특정한 형태의 어려움과 고통을 경험하고 있다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-159/21.mp3",
+      "vocabulary": [
+        {
+          "word": "failure",
+          "meaning": "실패",
+          "note": "목표나 기대에 도달하지 못한 상황을 의미합니다."
+        },
+        {
+          "word": "anguish",
+          "meaning": "고통",
+          "note": "심리적 고통이나 심각한 어려움을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 22,
+      "english": "And so far man has not been able to give birth to such a culture which not only succeeds but becomes fulfilled too.",
+      "korean": "아직까지 인간은 성공할 뿐 아니라 충족감도 느낄 수 있는 그런 문화를 만들어내지 못했다.",
+      "explanation": "인간이 단순히 성공하는 것을 넘어 진정한 만족감을 경험하는 문화를 창조하지 못했다는 의미",
+      "grammar": "「has not been」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1970-159/22.mp3",
+      "vocabulary": [
+        {
+          "word": "succeeds",
+          "meaning": "성공하다",
+          "note": "목표를 달성하거나 기대에 부응하는 것을 의미함"
+        },
+        {
+          "word": "fulfilled",
+          "meaning": "충족되다",
+          "note": "목표 달성 뿐 아니라 내면적인 만족감이나 행복감을 느끼는 상태를 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 23,
+      "english": "The two realities I have talked about above - the reality of the root and the reality of the branches; the law of the intransient and the law of the transient - it is only in the harmonious balance of these two that such a culture can be born which will neither be polar nor lopsided, which will use the tension of the opposite poles, the same as architecture uses opposing bricks in creation of an arched door.",
+      "korean": "앞서 이야기한 두 현실, 곧 뿌리의 현실과 가지의 현실, 변하지 않는 것의 법칙과 변하는 것의 법칙이 조화롭게 균형을 이룰 때에만, 양극단으로 치우치거나 한쪽으로 기울지 않는 문화가 탄생할 수 있습니다. 그런 문화는 아치형 문을 만들 때 서로 맞서는 벽돌을 이용하듯, 상반된 두 극 사이의 긴장을 활용할 것입니다.",
+      "explanation": "변하지 않는 근원과 변화하는 삶을 함께 포용하는 문화를 아치의 균형에 빗대어 설명합니다.",
+      "grammar": "it is only in ... that ...은 조화로운 균형이라는 조건을 강조하는 분열문 구조입니다. culture를 수식하는 which절들이 이어지며, neither be polar nor lopsided는 두 상태를 모두 부정하고 as절은 건축에 빗댄 비교를 나타냅니다.",
+      "audio": "audio/1970-159/23.mp3",
+      "vocabulary": [
+        {
+          "word": "intransient",
+          "meaning": "변하지 않는, 영속적인",
+          "note": "뒤의 transient와 대조되어 변화하지 않는 근원을 가리킵니다."
+        },
+        {
+          "word": "lopsided",
+          "meaning": "한쪽으로 기운, 불균형한",
+          "note": "한쪽 면이나 관점에만 치우친 상태를 뜻하는 형용사입니다."
+        },
+        {
+          "word": "arched",
+          "meaning": "아치형의",
+          "note": "위쪽이 둥근 곡선을 이루는 구조를 나타내는 형용사입니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "neither be polar nor lopsided",
+          "meaning": "양극단으로 치우치지도, 한쪽으로 기울지도 않는",
+          "explanation": "neither A nor B는 서로 대등한 두 선택지나 상태를 모두 부정하는 표현입니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 24,
+      "english": "The truth of life is pluralism.",
+      "korean": "인생의 진실은 다원주의이다.",
+      "explanation": "인생의 본질이나 진실이 다양한 관점이나 요소를 포함하는 다원주의임을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-159/24.mp3",
+      "vocabulary": [
+        {
+          "word": "truth",
+          "meaning": "진실",
+          "note": "이 문맥에서는 인생의 본질이나 핵심적인 특성을 가리킨다."
+        },
+        {
+          "word": "pluralism",
+          "meaning": "다원주의",
+          "note": "다양한 관점이나 요소가 공존하고 상호작용하는 상태를 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 25,
+      "english": "And, the stream of life always flows taking the opposite poles as its banks.",
+      "korean": "삶의 흐름은 항상 양극단을 강둑으로 삼으며 흐른다.",
+      "explanation": "삶의 흐름은 항상 대조적인 개념이나 상태를 경계로 삼아 진행된다는 의미",
+      "grammar": "동사 「flows」는 flow의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-159/25.mp3",
+      "vocabulary": [
+        {
+          "word": "stream",
+          "meaning": "흐름, 흐름의 양상",
+          "note": "여기서는 삶의 진행 방식이나 경향을 의미한다."
+        },
+        {
+          "word": "opposite",
+          "meaning": "반대의, 정반대의",
+          "note": "대조적인 개념이나 상태를 나타내며, 삶의 양면성을 설명한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "시간이나 공간으로 나뉘지 않아요. 생명이 무엇이든, 그것은 나뉨 없음일 것이다 - 그것은 나뉨 없는 흐름이다. 과거, 현재, 미래는 시간의 나뉘지 않은 흐름에 인간이 그은 선들일 뿐이다. 실제로는 사람들의 마음속에만 존재한다. 마음은 시간이다. 마찬가지로 공간 또한 나눌 수 없다. 몸은 한계가 아니다 - 사실 전체의 한계 또는 한계가 아닌 것이 바로 개인의 한계이다. 그러나 마음은 나누지 않으면 평온을 찾지 못한다. 그것은 프리즘과 같아서 나누는 것이 그 기능입니다. 존재의 빛이 그것을 통과하면서 여러 빛과 색깔로 나뉘어진다. 근본이 되는 하나가 가지 끝에서는 여럿이 된다. 뿌리는 시작이 없고 끝이 없는 영원하다. 가지들은 시간 속에 존재하며 시작과 끝이 있다. 가지들은 변화를 나타낸다. 뿌리는 영원히 지속된다. 뿌리는 변하지 않고 변할 수도 없습니다. 변화시키고 싶은 욕망이 생기면 결국 실패와 고통으로 이어지게 된다. 가지들은 계속해서 변해간다. 변화를 막을 수 없다. 그러나 확실히 그러한 변화를 막기를 바랄 수 있지만, 그러한 바람은 결국 실패와 고통으로 변하게 된다. 서양은 첫 번째 종류의 실패와 고통에 처해 있습니다. 동쪽은 두 번째 종류의 실패와 고통을 겪고 있습니다. 아직까지 인간은 성공할 뿐 아니라 충족감도 느낄 수 있는 그런 문화를 만들어내지 못했다. 앞서 이야기한 두 현실, 곧 뿌리의 현실과 가지의 현실, 변하지 않는 것의 법칙과 변하는 것의 법칙이 조화롭게 균형을 이룰 때에만, 양극단으로 치우치거나 한쪽으로 기울지 않는 문화가 탄생할 수 있습니다. 그런 문화는 아치형 문을 만들 때 서로 맞서는 벽돌을 이용하듯, 상반된 두 극 사이의 긴장을 활용할 것입니다. 인생의 진실은 다원주의이다. 삶의 흐름은 항상 양극단을 강둑으로 삼으며 흐른다."
+  ],
+  "fullAudio": "audio/1970-159/script_all.mp3",
+  "originalText": "Love\n\nLife is not divided, either in time or in space.\nIf life is anything, it is undividedness -\nit is an undivided flow.\nPast, present, future - these are human lines drawn on\nthe undivided flow of time.\nIndeed, they are nowhere except in the minds of men.\nMind is time.\nSimilarly, space is also undivided.\nThe body is not one's limit -\nin fact, the limit or non-limit of the whole is one's limit.\nBut, the mind does not rest without dividing.\nIt is like a prism; to divide is its function.\nPassing through it the ray of existence becomes divided\ninto many rays and many colors.\nWhat is one at the root becomes many at the branches.\nThe root is eternal - beginningless, endless.\nBranches are in time - they have their beginning, they\nhave their end\nBranches are change.\nThe root is ever-lasting.\nNeither the root changes nor can it be changed.\nYes - one can desire it to be changed, and then such a\ndesire inevitably takes one into failure and anguish.\nBranches go on changing\nThey cannot be stopped from changing.\nBut certainly it can be desired that they don't change,\nand then such a desire inevitably\ntransforms itself into failure and anguish.\nThe West is in the first kind of failure and anguish.\nThe East is in the second kind of failure and anguish.\nAnd so far man has not been able to give birth to such a\nculture which not only succeeds but becomes fulfilled too.\nThe two realities I have talked about above - the reality\nof the root and the reality of the branches; the law of the\nintransient and the law of the transient - it is only in the\nharmonious balance of these two that such a culture can\nbe born which will neither be polar nor lopsided, which\nwill use the tension of the opposite poles, the same as\narchitecture uses opposing bricks in creation of\nan arched door.\nThe truth of life is pluralism.\nAnd, the stream of life always flows taking the opposite\npoles as its banks.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 159,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0836 2.JPG",
+        "side": "right",
+        "printedPage": 123
+      },
+      {
+        "file": "IMG_0837 2.JPG",
+        "side": "left",
+        "printedPage": 124
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

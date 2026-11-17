@@ -1,0 +1,16 @@
+{
+  "key": "letter-087-part-02",
+  "number": 87,
+  "generationId": "01a1e630-4fee-779b-96ed-5eea618e6bd7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Here, only madness will do - and there is no greater wisdom than such madness for God.",
+      "path": "audio/1970-87/11.mp3",
+      "start": 0.0,
+      "end": 6.11
+    }
+  ]
+}

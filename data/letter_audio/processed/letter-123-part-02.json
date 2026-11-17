@@ -1,0 +1,23 @@
+{
+  "key": "letter-123-part-02",
+  "number": 123,
+  "generationId": "01a1e694-f573-7ff4-97ce-ec491853b38c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "The only man who ever knew and now he has forgotten!",
+      "path": "audio/1970-123/11.mp3",
+      "start": 0.0,
+      "end": 3.381905
+    },
+    {
+      "index": 11,
+      "text": "Love to all the family.",
+      "path": "audio/1970-123/12.mp3",
+      "start": 4.7630159999999995,
+      "end": 6.77
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "key": "letter-142-part-02",
+  "number": 142,
+  "generationId": "01a1e6d5-7dc0-7373-baba-78c292f980a8",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "It worked like magic.",
+      "path": "audio/1970-142/11.mp3",
+      "start": 0.0,
+      "end": 1.5104540000000002
+    },
+    {
+      "index": 11,
+      "text": "Man's mind works the same way and he becomes trapped by it.",
+      "path": "audio/1970-142/12.mp3",
+      "start": 3.031361,
+      "end": 7.285556
+    },
+    {
+      "index": 12,
+      "text": "Therefore - always be wary of negation, opposition, suppression.",
+      "path": "audio/1970-142/13.mp3",
+      "start": 8.766077000000001,
+      "end": 15.83
+    }
+  ]
+}

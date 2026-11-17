@@ -1,0 +1,15 @@
+{
+  "wordReplacements": {
+    "seck": "seek", "secker": "seeker", "samadbi": "samadhi", "sadbana": "sadhana",
+    "Brabmacharya": "Brahmacharya", "bere": "here", "lite": "life", "nof": "not",
+    "satisty": "satisfy", "sbores": "shores", "bindrance": "hindrance", "talse": "false",
+    "playlul": "playful", "Thave": "I have", "l": "I"
+  },
+  "lineReplacements": [
+    {"file": "IMG_0774 2.JPG", "side": "single", "before": "were canceled", "after": "were canceled."},
+    {"file": "IMG_0774 2.JPG", "side": "single", "before": "becomes one day the attainment", "after": "becomes one day the attainment."},
+    {"file": "IMG_0793 2.JPG", "side": "left", "before": "1 am glad to know", "after": "I am glad to know"},
+    {"file": "IMG_0806 2.JPG", "side": "right", "before": "Livel Isn't living itself enough?", "after": "Live! Isn't living itself enough?"},
+    {"file": "IMG_0828 2.JPG", "side": "right", "before": "Kabir stands in the marketplace, torch in band.", "after": "Kabir stands in the marketplace, torch in hand."}
+  ]
+}

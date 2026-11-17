@@ -1,0 +1,803 @@
+{
+  "id": "1970-140",
+  "title": "1970 / 140",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sadhana",
+      "meaning": "수행",
+      "note": "종교적 또는 정신적 성장을 위한 실천적인 노력이나 행위를 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "nature",
+      "meaning": "본성",
+      "note": "개인의 본질적인 특성이나 본질을 가리킵니다.",
+      "sentenceIds": [
+        2,
+        3,
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "aware",
+      "meaning": "의식하다, 인지하다",
+      "note": "어떤 상태나 사실을 인식하고 이해하는 것을 의미합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Recognizing",
+      "meaning": "인식하다",
+      "note": "어떤 상태나 특성을 이해하거나 인지하는 것을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "freedom",
+      "meaning": "자유",
+      "note": "제약이나 부담에서 벗어난 상태를 가리킵니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "disciple",
+      "meaning": "제자",
+      "note": "뱅케이를 따르는 수행자나 학생을 의미합니다.",
+      "sentenceIds": [
+        5,
+        8,
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "overwhelmed",
+      "meaning": "압도당하다",
+      "note": "분노에 의해 강하게 영향을 받거나 제어 불능 상태에 빠짐을 나타냅니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "want",
+      "meaning": "원하다",
+      "note": "목표나 바람을 나타냄",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "rid",
+      "meaning": "rid of (~을 없애다)",
+      "note": "분노를 없애고자 하는 의도를 표현",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "What",
+      "meaning": "무엇",
+      "note": "질문의 주제를 나타냅니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "shall",
+      "meaning": "해야 할",
+      "note": "의지 또는 의무를 나타내는 표현입니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "minutes",
+      "meaning": "분",
+      "note": "시간의 단위로, 여기서는 짧은 시간 동안의 의미",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "silence",
+      "meaning": "침묵",
+      "note": "소리 없는 상태, 이 문맥에서는 강한 압박감을 주는 침묵",
+      "sentenceIds": [
+        8,
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "courage",
+      "meaning": "용기",
+      "note": "제자가 행동을 취하려는 의지와 그 의지를 실현하는 데 필요한 정신력을 나타낸다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "laughed",
+      "meaning": "웃었다",
+      "note": "상황의 긴장감을 깨는 행동으로, 뱅크이의 내면적 갈등이나 변화를 나타냄",
+      "sentenceIds": [
+        10,
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "strange",
+      "meaning": "이상하다",
+      "note": "뱅크이가 느끼는 혼란이나 예상치 못한 상황에 대한 반응",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "searched",
+      "meaning": "찾아보다",
+      "note": "지속적인 탐색이나 조사를 의미한다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "anger",
+      "meaning": "분노",
+      "note": "강한 불쾌감이나 짜증을 나타내는 감정이다.",
+      "sentenceIds": [
+        11,
+        16,
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "little",
+      "meaning": "조금",
+      "note": "여기서는 '약간의 분노'를 의미하며, 전체가 아닌 일부분만을 요구하는 뉘앙스를 담고 있습니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "said",
+      "meaning": "말했다",
+      "note": "과거에 일어난 말하기 행위를 나타낸다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sudden",
+      "meaning": "갑작스러운",
+      "note": "즉흥적이고 예상치 못한 출현을 나타냄",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "produce",
+      "meaning": "생산하다/만들어내다",
+      "note": "특정 상태나 현상을 만들어내는 능력이나 방법에 대한 의문을 제기",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "remains",
+      "meaning": "남아 있다",
+      "note": "항상 존재하거나 남아 있는 상태를 나타냄",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "born",
+      "meaning": "태어나다",
+      "note": "개인의 삶의 시작을 의미합니다.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "die",
+      "meaning": "죽다",
+      "note": "개인의 삶의 끝을 의미합니다.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "mistake",
+      "meaning": "오류",
+      "note": "행동이나 판단에서 잘못된 부분을 의미합니다.",
+      "sentenceIds": [
+        19
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "search",
+      "meaning": "찾아보다",
+      "note": "정보나 해결책을 찾기 위해 노력하는 행위를 의미합니다.",
+      "sentenceIds": [
+        20
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meditate",
+      "meaning": "명상하다",
+      "note": "마음을 정리하고 집중하기 위해 조용한 상태에서 생각을 정리하는 것을 의미합니다.",
+      "sentenceIds": [
+        20
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      4,
+      5,
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8,
+      9,
+      10,
+      11
+    ],
+    [
+      12,
+      13
+    ],
+    [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-140/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "The meaning of sadhana is to enter into ones own nature, to live in it, to be it.",
+      "korean": "사드하나의 의미는 자신의 본성에 들어가 그것과 하나가 되어 살아가는 것입니다.",
+      "explanation": "사드하나는 수행의 본질을 설명하며, 개인의 본성에 완전히 몰입하고 그것과 일치된 삶을 살아가는 것을 강조합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-140/02.mp3",
+      "vocabulary": [
+        {
+          "word": "sadhana",
+          "meaning": "수행",
+          "note": "종교적 또는 정신적 성장을 위한 실천적인 노력이나 행위를 의미합니다."
+        },
+        {
+          "word": "nature",
+          "meaning": "본성",
+          "note": "개인의 본질적인 특성이나 본질을 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "One must therefore know what is not one's nature so as to be aware what one wants to be free of.",
+      "korean": "따라서 자신의 본성을 알기 위해서는 자신이 자유롭고자 하는 것을 인식해야 합니다.",
+      "explanation": "본성을 이해하기 위해서는 먼저 그것과 다른 것들을 인식해야 함을 강조합니다.",
+      "grammar": "「must therefore know」에서 조동사 must 뒤에 동사원형 「know」가 옵니다. must은 문맥에 따라 의무·강한 추측 등을 나타냅니다.",
+      "audio": "audio/1970-140/03.mp3",
+      "vocabulary": [
+        {
+          "word": "nature",
+          "meaning": "본성, 본질",
+          "note": "개인의 본질적인 특성이나 본성을 의미합니다."
+        },
+        {
+          "word": "aware",
+          "meaning": "의식하다, 인지하다",
+          "note": "어떤 상태나 사실을 인식하고 이해하는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Recognizing it becomes freedom from it.",
+      "korean": "인식함으로써 그것으로부터 자유로워질 수 있다.",
+      "explanation": "인식을 통해 특정 상태나 특성으로부터 자유로워질 수 있다는 의미",
+      "grammar": "동사 「becomes」는 become의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-140/04.mp3",
+      "vocabulary": [
+        {
+          "word": "Recognizing",
+          "meaning": "인식하다",
+          "note": "어떤 상태나 특성을 이해하거나 인지하는 것을 의미합니다."
+        },
+        {
+          "word": "freedom",
+          "meaning": "자유",
+          "note": "제약이나 부담에서 벗어난 상태를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "A disciple of Bankei asked him: I become overwhelmed by anger.",
+      "korean": "뱅케이의 제자가 물었다: 분노에 압도당합니다.",
+      "explanation": "뱅케이의 제자가 분노에 대한 어려움을 뱅크이에게 질문하는 내용입니다.",
+      "grammar": "동사 「asked」는 ask의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-140/05.mp3",
+      "vocabulary": [
+        {
+          "word": "disciple",
+          "meaning": "제자",
+          "note": "뱅케이를 따르는 수행자나 학생을 의미합니다."
+        },
+        {
+          "word": "overwhelmed",
+          "meaning": "압도당하다",
+          "note": "분노에 의해 강하게 영향을 받거나 제어 불능 상태에 빠짐을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "I want to be rid of it but I cannot be.",
+      "korean": "그것을 없애고 싶지만 그럴 수 없어.",
+      "explanation": "분노를 없애고 싶지만 그렇게 할 수 없는 상황을 표현.",
+      "grammar": "동사 「want」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1970-140/06.mp3",
+      "vocabulary": [
+        {
+          "word": "want",
+          "meaning": "원하다",
+          "note": "목표나 바람을 나타냄"
+        },
+        {
+          "word": "rid",
+          "meaning": "rid of (~을 없애다)",
+          "note": "분노를 없애고자 하는 의도를 표현"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "What shall I do?",
+      "korean": "무엇을 해야 할까요?",
+      "explanation": "문장은 고민이나 어려움에 직면했을 때 취할 행동을 묻는 질문입니다.",
+      "grammar": "「shall I do」에서 조동사 shall 뒤에 동사원형 「do」가 옵니다. shall은 문맥에 따라 미래·의지·제안 등을 나타냅니다.",
+      "audio": "audio/1970-140/07.mp3",
+      "vocabulary": [
+        {
+          "word": "What",
+          "meaning": "무엇",
+          "note": "질문의 주제를 나타냅니다."
+        },
+        {
+          "word": "shall",
+          "meaning": "해야 할",
+          "note": "의지 또는 의무를 나타내는 표현입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "Bankei did not say a word, just stared deep into the eyes of the disciple, who began to sweat in those few heavy minutes of silence.",
+      "korean": "은행이는 한마디도 하지 않고 제자의 눈을 깊이 들여다보았고, 그 몇 분 동안의 무거운 침묵 속에 제자는 땀을 흘리기 시작했다.",
+      "explanation": "은행이가 말하지 않고 제자를 바라보며 침묵을 지키자 제자는 긴장하여 땀을 흘렸다.",
+      "grammar": "「did not say」는 과거의 부정 표현입니다. do/does/did 뒤에서는 본동사 「say」를 원형으로 씁니다.",
+      "audio": "audio/1970-140/08.mp3",
+      "vocabulary": [
+        {
+          "word": "disciple",
+          "meaning": "제자",
+          "note": "선생님이나 종교 지도자로부터 가르침을 받는 사람"
+        },
+        {
+          "word": "minutes",
+          "meaning": "분",
+          "note": "시간의 단위로, 여기서는 짧은 시간 동안의 의미"
+        },
+        {
+          "word": "silence",
+          "meaning": "침묵",
+          "note": "소리 없는 상태, 이 문맥에서는 강한 압박감을 주는 침묵"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "He wanted to break the silence but couldn't gather the courage.",
+      "korean": "그는 침묵을 깨고 싶었지만 용기를 낼 수 없었다.",
+      "explanation": "Bankei는 제자의 눈을 뚫어지게 바라보며 말을 하지 않았고, 이 긴 침묵 속에서 제자는 땀을 흘리기 시작했다. 제자는 침묵을 깨고 싶었지만, 그러한 행동을 할 용기를 내지 못했다.",
+      "grammar": "동사 「wanted」는 want의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-140/09.mp3",
+      "vocabulary": [
+        {
+          "word": "silence",
+          "meaning": "침묵",
+          "note": "문장에서 중요한 분위기 조성 요소로, 긴장감과 압박감을 전달한다."
+        },
+        {
+          "word": "courage",
+          "meaning": "용기",
+          "note": "제자가 행동을 취하려는 의지와 그 의지를 실현하는 데 필요한 정신력을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "Then Bankei laughed and said: It's strange!",
+      "korean": "그리고 뱅크이는 웃으며 말했다: 이상하네!",
+      "explanation": "뱅크이가 침묵을 깨고 싶었지만 용기를 내지 못했던 상황에서 갑자기 웃음을 터뜨리며 이상하다는 반응을 보임",
+      "grammar": "동사 「laughed」는 laugh의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-140/10.mp3",
+      "vocabulary": [
+        {
+          "word": "laughed",
+          "meaning": "웃었다",
+          "note": "상황의 긴장감을 깨는 행동으로, 뱅크이의 내면적 갈등이나 변화를 나타냄"
+        },
+        {
+          "word": "strange",
+          "meaning": "이상하다",
+          "note": "뱅크이가 느끼는 혼란이나 예상치 못한 상황에 대한 반응"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "I searched and searched but could find no anger within you.",
+      "korean": "끊임없이 찾아보았지만 네 안에 분노는 없었어.",
+      "explanation": "끊임없이 찾아보았지만 발견하지 못한 상태를 표현하며, 대상의 내면에 존재하지 않는 감정(분노)을 강조한다.",
+      "grammar": "동사 「searched」는 search의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-140/11.mp3",
+      "vocabulary": [
+        {
+          "word": "searched",
+          "meaning": "찾아보다",
+          "note": "지속적인 탐색이나 조사를 의미한다."
+        },
+        {
+          "word": "anger",
+          "meaning": "분노",
+          "note": "강한 불쾌감이나 짜증을 나타내는 감정이다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "Still, show me a little of it, here and now.",
+      "korean": "그럼에도 불구하고 지금 여기서 조금만 보여줘요.",
+      "explanation": "원문에서 요구하는 대로 현재 시점에서 작은 부분이라도 드러내길 바라는 의미를 담고 있습니다.",
+      "grammar": "동사원형 「show」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-140/12.mp3",
+      "vocabulary": [
+        {
+          "word": "little",
+          "meaning": "조금",
+          "note": "여기서는 '약간의 분노'를 의미하며, 전체가 아닌 일부분만을 요구하는 뉘앙스를 담고 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "The disciple said: It is not always here.",
+      "korean": "제자는 말했다: 항상 여기에 있는 것은 아니다.",
+      "explanation": "제자가 자신의 존재나 상태가 항상 현재 순간에 존재하지 않을 수 있음을 표현하고 있다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-140/13.mp3",
+      "vocabulary": [
+        {
+          "word": "disciple",
+          "meaning": "제자",
+          "note": "선생이나 지도자로부터 가르침을 받는 사람을 의미한다."
+        },
+        {
+          "word": "said",
+          "meaning": "말했다",
+          "note": "과거에 일어난 말하기 행위를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "It comes all of a sudden, how can I produce it now?",
+      "korean": "갑자기 나타나는데 지금 어떻게 만들어낼 수 있을까?",
+      "explanation": "갑작스러운 출현에 대한 의문과 그 출현을 현재 어떻게 이룰 수 있을지에 대한 고민을 표현",
+      "grammar": "「can I produce」에서 조동사 can 뒤에 동사원형 「produce」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1970-140/14.mp3",
+      "vocabulary": [
+        {
+          "word": "sudden",
+          "meaning": "갑작스러운",
+          "note": "즉흥적이고 예상치 못한 출현을 나타냄"
+        },
+        {
+          "word": "produce",
+          "meaning": "생산하다/만들어내다",
+          "note": "특정 상태나 현상을 만들어내는 능력이나 방법에 대한 의문을 제기"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "Bankei laughed again and said: Then it is not your true nature.",
+      "korean": "뱅예는 다시 웃으며 말했다: 그렇다면 그것은 네 진정한 본성은 아니야.",
+      "explanation": "뱅예가 다시 웃으면서 상대방의 상태나 상황에 대해 진정한 본성과는 다르다고 지적하는 내용입니다.",
+      "grammar": "동사 「laughed」는 laugh의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-140/15.mp3",
+      "vocabulary": [
+        {
+          "word": "laughed",
+          "meaning": "웃었다",
+          "note": "뱅예의 반응을 나타내며, 상황에 대한 긍정적 또는 경쾌한 태도를 보여줍니다."
+        },
+        {
+          "word": "nature",
+          "meaning": "본성",
+          "note": "개인의 본질적인 특성이나 본질을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "That remains with you always, and if your anger had been part of it you could have shown it to me.",
+      "korean": "그것은 항상 너와 함께 남아 있었고, 네 분노가 그것의 일부였다면 나에게 보여줄 수 있었을 것이다.",
+      "explanation": "문장은 어떤 본질적인 특성이나 상태가 항상 존재하며, 만약 특정 감정(여기서는 분노)이 포함되었다면 그것을 표현하거나 보여줄 수 있었을 것이라는 의미를 전달한다.",
+      "grammar": "동사 「remains」는 remain의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-140/16.mp3",
+      "vocabulary": [
+        {
+          "word": "remains",
+          "meaning": "남아 있다",
+          "note": "항상 존재하거나 남아 있는 상태를 나타냄"
+        },
+        {
+          "word": "anger",
+          "meaning": "분노",
+          "note": "강한 감정적 반응으로, 이 문장에서는 특정 감정의 표현 가능성에 대한 예시로 사용됨"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 17,
+      "english": "When you were born it was not with you, when you die it will not be with you.",
+      "korean": "너가 태어날 때도 없었고, 죽을 때도 함께하지 않을 거야.",
+      "explanation": "문장은 어떤 본질적인 요소나 상태가 개인의 삶 전체에 걸쳐 존재하지 않으며, 탄생과 죽음이라는 삶의 중요한 순간에도 함께하지 않는다는 의미를 전달합니다.",
+      "grammar": "「was」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-140/17.mp3",
+      "vocabulary": [
+        {
+          "word": "born",
+          "meaning": "태어나다",
+          "note": "개인의 삶의 시작을 의미합니다."
+        },
+        {
+          "word": "die",
+          "meaning": "죽다",
+          "note": "개인의 삶의 끝을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 18,
+      "english": "No, this anger is not you.",
+      "korean": "분노는 네 것이 아니다.",
+      "explanation": "이 문장은 분노가 개인의 본질적인 부분이 아니며, 외부 요인에 의해 발생하는 감정임을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-140/18.mp3",
+      "vocabulary": [
+        {
+          "word": "anger",
+          "meaning": "분노",
+          "note": "외부 상황이나 다른 사람에 의해 유발되는 부정적인 감정을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 19,
+      "english": "There is a mistake somewhere.",
+      "korean": "어딘가에 오류가 있어요.",
+      "explanation": "문장은 어떤 상황이나 문맥에서 오류나 잘못된 부분이 존재함을 나타냅니다.",
+      "grammar": "「There is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1970-140/19.mp3",
+      "vocabulary": [
+        {
+          "word": "mistake",
+          "meaning": "오류",
+          "note": "행동이나 판단에서 잘못된 부분을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 20,
+      "english": "Go away and think again, search again, meditate again.",
+      "korean": "다시 떠나서 생각하고, 다시 찾아보고, 다시 삼매에 들어보세요.",
+      "explanation": "실수를 고치기 위해 다른 관점에서 다시 생각하고, 정보를 재검토하며, 마음을 정리하기 위해 명상을 권장하는 내용입니다.",
+      "grammar": "동사원형 「Go」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-140/20.mp3",
+      "vocabulary": [
+        {
+          "word": "search",
+          "meaning": "찾아보다",
+          "note": "정보나 해결책을 찾기 위해 노력하는 행위를 의미합니다."
+        },
+        {
+          "word": "meditate",
+          "meaning": "명상하다",
+          "note": "마음을 정리하고 집중하기 위해 조용한 상태에서 생각을 정리하는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "사드하나의 의미는 자신의 본성에 들어가 그것과 하나가 되어 살아가는 것입니다. 따라서 자신의 본성을 알기 위해서는 자신이 자유롭고자 하는 것을 인식해야 합니다. 인식함으로써 그것으로부터 자유로워질 수 있다.",
+    "뱅케이의 제자가 물었다: 분노에 압도당합니다. 그것을 없애고 싶지만 그럴 수 없어. 무엇을 해야 할까요?",
+    "은행이는 한마디도 하지 않고 제자의 눈을 깊이 들여다보았고, 그 몇 분 동안의 무거운 침묵 속에 제자는 땀을 흘리기 시작했다.",
+    "그는 침묵을 깨고 싶었지만 용기를 낼 수 없었다. 그리고 뱅크이는 웃으며 말했다: 이상하네! 끊임없이 찾아보았지만 네 안에 분노는 없었어. 그럼에도 불구하고 지금 여기서 조금만 보여줘요.",
+    "제자는 말했다: 항상 여기에 있는 것은 아니다. 갑자기 나타나는데 지금 어떻게 만들어낼 수 있을까?",
+    "뱅예는 다시 웃으며 말했다: 그렇다면 그것은 네 진정한 본성은 아니야. 그것은 항상 너와 함께 남아 있었고, 네 분노가 그것의 일부였다면 나에게 보여줄 수 있었을 것이다. 너가 태어날 때도 없었고, 죽을 때도 함께하지 않을 거야. 분노는 네 것이 아니다. 어딘가에 오류가 있어요. 다시 떠나서 생각하고, 다시 찾아보고, 다시 삼매에 들어보세요."
+  ],
+  "fullAudio": "audio/1970-140/script_all.mp3",
+  "originalText": "Love.\n\nThe meaning of sadhana\nis to enter into ones own nature,\nto live in it,\nto be it.\nOne must therefore know what is not one's nature\nso as to be aware what one wants to be free of.\nRecognizing it becomes freedom from it.\n\nA disciple of Bankei asked him:\nI become overwhelmed by anger.\nI want to be rid of it but I cannot be.\nWhat shall I do?\n\nBankei did not say a word,\njust stared deep into the eyes of the disciple,\nwho began to sweat\nin those few heavy minutes of silence.\n\nHe wanted to break the silence\nbut couldn't gather the courage.\nThen Bankei laughed and said: It's strange!\nI searched and searched but could find\nno anger within you.\nStill, show me a little of it, here and now.\n\nThe disciple said: It is not always here.\nIt comes all of a sudden, how can I produce it now?\n\nBankei laughed again and said:\nThen it is not your true nature.\nThat remains with you always,\nand if your anger had been part of it\nyou could have shown it to me.\nWhen you were born it was not with you,\nwhen you die it will not be with you.\nNo, this anger is not you.\nThere is a mistake somewhere.\nGo away and think again,\nsearch again, meditate again.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 140,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0829 2.JPG",
+        "side": "right",
+        "printedPage": 109
+      },
+      {
+        "file": "IMG_0830 2.JPG",
+        "side": "left",
+        "printedPage": 110
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

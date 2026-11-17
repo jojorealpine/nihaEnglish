@@ -1,0 +1,44 @@
+{
+  "key": "letter-244-part-01",
+  "number": 244,
+  "generationId": "01a1e8f9-70da-74c3-8759-f17ad8591536",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-244/01.mp3",
+      "start": 0.0,
+      "end": 0.750181
+    },
+    {
+      "index": 1,
+      "text": "The divine is that from which one cannot depart, and that from which one can depart is not the divine.",
+      "path": "audio/1971-244/02.mp3",
+      "start": 2.1901129999999998,
+      "end": 9.701111
+    },
+    {
+      "index": 2,
+      "text": "So find that from which you have never departed and cannot ever depart from - and then laugh at the absurdity of the human mind and its efforts!",
+      "path": "audio/1971-244/03.mp3",
+      "start": 11.122812000000001,
+      "end": 20.030522
+    },
+    {
+      "index": 3,
+      "text": "Buddha is still laughing because of that.",
+      "path": "audio/1971-244/04.mp3",
+      "start": 21.586961,
+      "end": 23.770635000000002
+    },
+    {
+      "index": 4,
+      "text": "Listen!",
+      "path": "audio/1971-244/05.mp3",
+      "start": 25.35415,
+      "end": 26.23
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "key": "letter-139-part-02",
+  "number": 139,
+  "generationId": "01a1e6ce-ec43-79a2-baa5-058991cc35cd",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "If the gates don't open this time you will have to start from the very beginning next time - and then it is far from sure that I will be with you.",
+      "path": "audio/1970-139/11.mp3",
+      "start": 0.0,
+      "end": 9.16907
+    },
+    {
+      "index": 11,
+      "text": "In your last life you worked for it but the work was not completed; and it was the same in the life before that.",
+      "path": "audio/1970-139/12.mp3",
+      "start": 10.769184000000001,
+      "end": 18.560975000000003
+    },
+    {
+      "index": 12,
+      "text": "For three lives you have repeated the same cycle again and again - it is time now to break it.",
+      "path": "audio/1970-139/13.mp3",
+      "start": 20.222585,
+      "end": 28.347506000000003
+    },
+    {
+      "index": 13,
+      "text": "It is already late, any further delay would be foolish.",
+      "path": "audio/1970-139/14.mp3",
+      "start": 29.960476,
+      "end": 33.960998
+    },
+    {
+      "index": 14,
+      "text": "My regards to all.",
+      "path": "audio/1970-139/15.mp3",
+      "start": 35.373923000000005,
+      "end": 37.28
+    }
+  ]
+}

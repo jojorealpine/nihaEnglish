@@ -1,0 +1,79 @@
+{
+  "key": "letter-008-part-01",
+  "number": 8,
+  "generationId": "01a1e4e1-88cd-7a9b-b6da-979691da0fa3",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "My respects to you.",
+      "path": "audio/1963-08/01.mp3",
+      "start": 0.0,
+      "end": 1.100952
+    },
+    {
+      "index": 1,
+      "text": "Moving around for the whole of May affected my health so all programs for June - Bombay, Calcutta, Jaipur - were canceled.",
+      "path": "audio/1963-08/02.mp3",
+      "start": 2.473356,
+      "end": 11.045736999999999
+    },
+    {
+      "index": 2,
+      "text": "I am glad to hear you are experimenting with samadhi yoga.",
+      "path": "audio/1963-08/03.mp3",
+      "start": 12.407302000000001,
+      "end": 15.436689
+    },
+    {
+      "index": 3,
+      "text": "Don't worry about results, just be with the experimenting.",
+      "path": "audio/1963-08/04.mp3",
+      "start": 16.953107,
+      "end": 20.382063000000002
+    },
+    {
+      "index": 4,
+      "text": "The return is bound to come one day - not gradually but all of a sudden, effortlessly, without one's knowing, it happens.",
+      "path": "audio/1963-08/05.mp3",
+      "start": 21.710862,
+      "end": 30.258821
+    },
+    {
+      "index": 5,
+      "text": "Within a moment life becomes wonderfully different!",
+      "path": "audio/1963-08/06.mp3",
+      "start": 31.636871,
+      "end": 34.613696
+    },
+    {
+      "index": 6,
+      "text": "I am not writing anything on Bhagwan Mahavir at the moment.",
+      "path": "audio/1963-08/07.mp3",
+      "start": 35.909501000000006,
+      "end": 39.165963999999995
+    },
+    {
+      "index": 7,
+      "text": "There is no urge whatsoever in me to write.",
+      "path": "audio/1963-08/08.mp3",
+      "start": 40.611973000000006,
+      "end": 43.781155999999996
+    },
+    {
+      "index": 8,
+      "text": "But if you persuade me it is a different thing!",
+      "path": "audio/1963-08/09.mp3",
+      "start": 45.256576,
+      "end": 48.064059
+    },
+    {
+      "index": 9,
+      "text": "Everything else is fine.",
+      "path": "audio/1963-08/10.mp3",
+      "start": 49.520544,
+      "end": 51.12
+    }
+  ]
+}

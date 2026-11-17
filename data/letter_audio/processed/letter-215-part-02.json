@@ -1,0 +1,51 @@
+{
+  "key": "letter-215-part-02",
+  "number": 215,
+  "generationId": "01a1e8f1-b726-7e11-8e4e-ed7512c07c6e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "It would be very good of you if you could give me a pair of your husband's old pants.",
+      "path": "audio/1971-215/11.mp3",
+      "start": 0.0,
+      "end": 4.453016
+    },
+    {
+      "index": 11,
+      "text": "So she gave him a pair of old pants and smiled at his cleverness.",
+      "path": "audio/1971-215/12.mp3",
+      "start": 6.0168479999999995,
+      "end": 10.743628
+    },
+    {
+      "index": 12,
+      "text": "The young man went behind the barn and changed into the pants given to him.",
+      "path": "audio/1971-215/13.mp3",
+      "start": 12.280816000000002,
+      "end": 17.052200000000003
+    },
+    {
+      "index": 13,
+      "text": "Then he returned to the house and told the woman that the pants were sort of big around the waist, but if she could give him some food he was sure they would fit perfectly.",
+      "path": "audio/1971-215/14.mp3",
+      "start": 18.580816,
+      "end": 28.938889
+    },
+    {
+      "index": 14,
+      "text": "This time the woman burst out laughing and gave him a big dinner.",
+      "path": "audio/1971-215/15.mp3",
+      "start": 30.504762,
+      "end": 34.469048
+    },
+    {
+      "index": 15,
+      "text": "And all because he took one step at a time.",
+      "path": "audio/1971-215/16.mp3",
+      "start": 36.121746,
+      "end": 39.89
+    }
+  ]
+}

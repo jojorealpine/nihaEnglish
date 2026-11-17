@@ -1,0 +1,23 @@
+{
+  "key": "letter-264-part-01",
+  "number": 264,
+  "generationId": "01a1e8fd-9e77-7f01-98f8-2973613ea5b8",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-264/01.mp3",
+      "start": 0.0,
+      "end": 0.731905
+    },
+    {
+      "index": 1,
+      "text": "The purest ore is produced from the hottest furnace; and the brook would lose its song if we removed the rocks.",
+      "path": "audio/1971-264/02.mp3",
+      "start": 2.221587,
+      "end": 9.33
+    }
+  ]
+}

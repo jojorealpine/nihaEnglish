@@ -1,0 +1,72 @@
+{
+  "key": "letter-319-part-01",
+  "number": 319,
+  "generationId": "01a1e90c-b5d6-768b-b0b4-f0995b5c119f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-319/01.mp3",
+      "start": 0.0,
+      "end": 0.658367
+    },
+    {
+      "index": 1,
+      "text": "I know what is happening to you - nothingness is descending, emptiness is increasing.",
+      "path": "audio/1971-319/02.mp3",
+      "start": 1.910952,
+      "end": 7.026395
+    },
+    {
+      "index": 2,
+      "text": "Welcome it, and rejoice in its coming.",
+      "path": "audio/1971-319/03.mp3",
+      "start": 8.317188000000002,
+      "end": 10.558888999999999
+    },
+    {
+      "index": 3,
+      "text": "Dance in ecstasy because there is no other way to welcome it.",
+      "path": "audio/1971-319/04.mp3",
+      "start": 11.878798000000002,
+      "end": 15.459161
+    },
+    {
+      "index": 4,
+      "text": "And the more you dance, the more you will die.",
+      "path": "audio/1971-319/05.mp3",
+      "start": 16.881655,
+      "end": 19.614898
+    },
+    {
+      "index": 5,
+      "text": "And when you are completely dead you will be reborn.",
+      "path": "audio/1971-319/06.mp3",
+      "start": 20.938571,
+      "end": 24.146576
+    },
+    {
+      "index": 6,
+      "text": "And the moment is near, very near - just by the corner.",
+      "path": "audio/1971-319/07.mp3",
+      "start": 25.602472,
+      "end": 29.837120000000002
+    },
+    {
+      "index": 7,
+      "text": "You have passed through the entrance-explosion and now be ready for the ultimate.",
+      "path": "audio/1971-319/08.mp3",
+      "start": 31.336349,
+      "end": 35.923583
+    },
+    {
+      "index": 8,
+      "text": "Look at yourself once more as the river looks at itself before falling into the ocean, because after falling into the ocean there will be no one to look, and no one to be looked at!",
+      "path": "audio/1971-319/09.mp3",
+      "start": 37.447982,
+      "end": 49.58
+    }
+  ]
+}

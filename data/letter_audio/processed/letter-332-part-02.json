@@ -1,0 +1,23 @@
+{
+  "key": "letter-332-part-02",
+  "number": 332,
+  "generationId": "01a1e911-5584-776b-bbc0-bbf945c68221",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "When she finished she said to him: You were so interested, Cicero, that I am sure you want to ask some questions.",
+      "path": "audio/1971-332/11.mp3",
+      "start": 0.0,
+      "end": 6.854535
+    },
+    {
+      "index": 11,
+      "text": "Yes'm, drawled Cicero, I got one to ask Where do those figures go when you rub them off?",
+      "path": "audio/1971-332/12.mp3",
+      "start": 8.496372000000001,
+      "end": 16.01
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "key": "letter-285-part-01",
+  "number": 285,
+  "generationId": "01a1e902-4d79-7376-ad90-a1aa3ab6e702",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-285/01.mp3",
+      "start": 0.0,
+      "end": 0.576508
+    },
+    {
+      "index": 1,
+      "text": "Just drop yourself into the divine and be purified!",
+      "path": "audio/1971-285/02.mp3",
+      "start": 2.00229,
+      "end": 5.221973
+    },
+    {
+      "index": 2,
+      "text": "Surrender and be reborn.",
+      "path": "audio/1971-285/03.mp3",
+      "start": 6.597755,
+      "end": 8.984466999999999
+    },
+    {
+      "index": 3,
+      "text": "Do not resist.",
+      "path": "audio/1971-285/04.mp3",
+      "start": 10.463469,
+      "end": 11.759545999999999
+    },
+    {
+      "index": 4,
+      "text": "Let go!",
+      "path": "audio/1971-285/05.mp3",
+      "start": 13.22873,
+      "end": 14.21
+    }
+  ]
+}

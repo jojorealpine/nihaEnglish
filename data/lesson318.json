@@ -1,0 +1,716 @@
+{
+  "id": "1971-318",
+  "title": "1971 / 318",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "apprenticeship",
+      "meaning": "견습 과정",
+      "note": "특정 기술이나 지식을 배우기 위해 전문가의 지도 아래에서 일하는 기간을 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "worth",
+      "meaning": "값어치",
+      "note": "이 문맥에서는 견습 과정이 겪는 어려움에도 불구하고 얻을 수 있는 이익이나 가치를 나타냅니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "So",
+      "meaning": "그래서",
+      "note": "앞 문장의 내용을 이어받아 계속 진행하라는 권유의 의미를 담고 있음",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "keep",
+      "meaning": "계속하다",
+      "note": "어려움 속에서도 포기하지 말고 지속적으로 노력하라는 의미",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "arduous",
+      "meaning": "고생스럽다",
+      "note": "과정이 힘들고 어려움이 많음을 나타냄",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "treasure",
+      "meaning": "보물",
+      "note": "목표나 성취로 얻는 가치 있는 결과를 의미함",
+      "sentenceIds": [
+        4,
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "longed",
+      "meaning": "오랫동안 갈망하다",
+      "note": "장기간 동안 바라거나 원하던 상태를 나타냅니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "lives",
+      "meaning": "평생",
+      "note": "매우 긴 시간, 즉 한 사람의 전체 인생 기간을 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "courage",
+      "meaning": "용기",
+      "note": "어려움이나 위험에도 불구하고 포기하지 않고 앞으로 나아가는 힘을 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "difficult",
+      "meaning": "어렵다",
+      "note": "목표 달성이나 접근이 쉽지 않음을 나타냅니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unconscious",
+      "meaning": "의식되지 않은",
+      "note": "마음의 깊은 곳에 위치하며, 평소에는 인지하지 못하는 부분을 가리킵니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "layers",
+      "meaning": "층",
+      "note": "마음의 구조를 설명하며, 여러 개의 중첩된 부분으로 이해할 수 있습니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "approach",
+      "meaning": "다가가다, 접근하다",
+      "note": "문맥에서는 특정 상태나 목표에 가까워지는 것을 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "threshold",
+      "meaning": "문턱, 한계",
+      "note": "여기서는 심리적 또는 정신적 상태의 변화의 순간을 가리킵니다.",
+      "sentenceIds": [
+        8,
+        12,
+        13,
+        14,
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "favorable",
+      "meaning": "유리한, 유리한 조건",
+      "note": "수면 주기의 특정 시점이 가장 효과적이거나 유리한 상황을 나타냅니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "probably",
+      "meaning": "아마도",
+      "note": "확실하지 않지만 그럴 가능성이 높다는 의미입니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meditation",
+      "meaning": "명상",
+      "note": "마음을 집중시키고 평온을 찾는 정신적 연습입니다.",
+      "sentenceIds": [
+        9,
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "noticed",
+      "meaning": "알아차렸다",
+      "note": "주변 상황이나 변화를 인지한 것을 나타냅니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "recovering",
+      "meaning": "회복하다",
+      "note": "잠에서 깨어나면서 정신 상태가 안정되는 과정을 의미합니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "aperture",
+      "meaning": "구멍, 틈",
+      "note": "여기서는 비유적으로 눈꺼풀이 열리는 것을 의미합니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "dreams",
+      "meaning": "꿈",
+      "note": "잠에서 본 상상의 내용이나 경험을 의미합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "longer",
+      "meaning": "더 오래",
+      "note": "시간의 지속 기간을 나타내며, 여기서는 꿈이 기억에 남아 있는 시간이 짧다는 의미입니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "approaching",
+      "meaning": "다가가다",
+      "note": "여기서는 잠에 가까워지는 상태를 나타냅니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "significant",
+      "meaning": "중요한, 중요성 있는",
+      "note": "이 상황이나 상태가 내면적 성장이나 깨달음을 추구하는 사람들에게 큰 의미를 지닌다는 것을 나타냅니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unknown",
+      "meaning": "알려지지 않은",
+      "note": "미지의 영역이나 아직 탐험되지 않은 상태를 나타낸다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "witness",
+      "meaning": "관찰자, 증인",
+      "note": "여기서는 그 틈새를 주의 깊게 관찰하고 인지하는 역할을 의미합니다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "interval",
+      "meaning": "간격, 틈",
+      "note": "깨어있음과 수면 사이의 순간적인 시간적 틈을 가리킵니다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-318/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "I know that the apprenticeship is very hard but worth it.",
+      "korean": "나는 견습 과정이 매우 힘들지만 그만한 가치가 있다는 것을 알아.",
+      "explanation": "견습 과정의 어려움을 인정하면서도 그 가치를 강조하는 내용입니다.",
+      "grammar": "동사 「know」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1971-318/02.mp3",
+      "vocabulary": [
+        {
+          "word": "apprenticeship",
+          "meaning": "견습 과정",
+          "note": "특정 기술이나 지식을 배우기 위해 전문가의 지도 아래에서 일하는 기간을 의미합니다."
+        },
+        {
+          "word": "worth",
+          "meaning": "값어치",
+          "note": "이 문맥에서는 견습 과정이 겪는 어려움에도 불구하고 얻을 수 있는 이익이나 가치를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "So keep on.",
+      "korean": "계속해",
+      "explanation": "어려움에도 불구하고 계속 노력하라는 의미",
+      "grammar": "동사원형 「keep」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-318/03.mp3",
+      "vocabulary": [
+        {
+          "word": "So",
+          "meaning": "그래서",
+          "note": "앞 문장의 내용을 이어받아 계속 진행하라는 권유의 의미를 담고 있음"
+        },
+        {
+          "word": "keep",
+          "meaning": "계속하다",
+          "note": "어려움 속에서도 포기하지 말고 지속적으로 노력하라는 의미"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "It is arduous, but one has to pay for everything, and in no other way can you get to the great treasure.",
+      "korean": "고생스럽지만, 모든 것을 얻기 위해서는 그만한 대가를 치러야 하고, 진정한 보물에 도달하는 유일한 방법이야.",
+      "explanation": "문장은 어려움에도 불구하고 목표를 달성하기 위한 필수적인 과정과 그로 인한 보상에 대해 설명하고 있다.",
+      "grammar": "「has to pay」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+      "audio": "audio/1971-318/04.mp3",
+      "vocabulary": [
+        {
+          "word": "arduous",
+          "meaning": "고생스럽다",
+          "note": "과정이 힘들고 어려움이 많음을 나타냄"
+        },
+        {
+          "word": "treasure",
+          "meaning": "보물",
+          "note": "목표나 성취로 얻는 가치 있는 결과를 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "You have longed for it for lives and lives and now when the time is ripe and the key is being given to you do not lose courage.",
+      "korean": "평생 갈망해온 것을, 이제 때가 왔고 열쇠가 당신에게 주어졌을 때 용기를 잃지 마세요.",
+      "explanation": "평생 동안 갈망해온 목표나 성취를 이루기 위한 순간이 도래했음을 강조하며, 그 순간에 포기하지 말고 계속해서 노력하라는 메시지를 전달합니다.",
+      "grammar": "「have longed」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1971-318/05.mp3",
+      "vocabulary": [
+        {
+          "word": "longed",
+          "meaning": "오랫동안 갈망하다",
+          "note": "장기간 동안 바라거나 원하던 상태를 나타냅니다."
+        },
+        {
+          "word": "lives",
+          "meaning": "평생",
+          "note": "매우 긴 시간, 즉 한 사람의 전체 인생 기간을 의미합니다."
+        },
+        {
+          "word": "courage",
+          "meaning": "용기",
+          "note": "어려움이나 위험에도 불구하고 포기하지 않고 앞으로 나아가는 힘을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Access to the treasure is difficult because it is hidden",
+      "korean": "보물에 접근하는 것은 어렵습니다. 왜냐하면 그것은 숨겨져 있기 때문입니다.",
+      "explanation": "보물에 도달하기가 쉽지 않다는 의미로, 보물이 숨겨져 있어 찾기 어렵다는 내용을 담고 있습니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-318/06.mp3",
+      "vocabulary": [
+        {
+          "word": "treasure",
+          "meaning": "보물",
+          "note": "소중한 가치를 지닌 물건이나 목표를 의미합니다."
+        },
+        {
+          "word": "difficult",
+          "meaning": "어렵다",
+          "note": "목표 달성이나 접근이 쉽지 않음을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "in our own unconscious layers of the mind.",
+      "korean": "마음의 무의식적인 층들 속에 숨겨져 있습니다.",
+      "explanation": "무의식적인 마음의 여러 층 중 하나에 보물이 숨겨져 있다는 의미입니다.",
+      "grammar": "명사 「layers」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1971-318/07.mp3",
+      "vocabulary": [
+        {
+          "word": "unconscious",
+          "meaning": "의식되지 않은",
+          "note": "마음의 깊은 곳에 위치하며, 평소에는 인지하지 못하는 부분을 가리킵니다."
+        },
+        {
+          "word": "layers",
+          "meaning": "층",
+          "note": "마음의 구조를 설명하며, 여러 개의 중첩된 부분으로 이해할 수 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "It will be easy if you approach that threshold when the diurnal tide is favorable, that is when you are passing from sleep to waking or from waking to sleep.",
+      "korean": "그 문턱에 수면과 깨어남 사이 또는 깨어있음과 수면 사이의 흐름이 유리할 때 접근한다면 쉽게 이루어질 것입니다.",
+      "explanation": "문맥에서 수면 주기의 특정 시점에 접근하면 목표에 도달하기 쉽다는 의미입니다.",
+      "grammar": "「will be」에서 조동사 will 뒤에 동사원형 「be」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+      "audio": "audio/1971-318/08.mp3",
+      "vocabulary": [
+        {
+          "word": "approach",
+          "meaning": "다가가다, 접근하다",
+          "note": "문맥에서는 특정 상태나 목표에 가까워지는 것을 의미합니다."
+        },
+        {
+          "word": "threshold",
+          "meaning": "문턱, 한계",
+          "note": "여기서는 심리적 또는 정신적 상태의 변화의 순간을 가리킵니다."
+        },
+        {
+          "word": "favorable",
+          "meaning": "유리한, 유리한 조건",
+          "note": "수면 주기의 특정 시점이 가장 효과적이거나 유리한 상황을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "So evening and morning are probably the best times for meditation.",
+      "korean": "저녁과 아침이 명상하기에 가장 좋은 시간대일 것입니다.",
+      "explanation": "저녁과 아침 시간대가 명상에 특히 적합하다는 의미입니다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-318/09.mp3",
+      "vocabulary": [
+        {
+          "word": "probably",
+          "meaning": "아마도",
+          "note": "확실하지 않지만 그럴 가능성이 높다는 의미입니다."
+        },
+        {
+          "word": "meditation",
+          "meaning": "명상",
+          "note": "마음을 집중시키고 평온을 찾는 정신적 연습입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "You might have noticed that when the mind is recovering from sleep it takes at least fifteen minutes to close one aperture and fully open the other.",
+      "korean": "잠에서 깨어나는 데 최소 15분이 걸리며, 한쪽 눈꺼풀이 닫히고 다른 쪽 눈꺼풀이 완전히 열리는 것을 알아차렸을 수도 있어요.",
+      "explanation": "잠에서 깨어나는 과정에서 정신이 안정되기까지 걸리는 시간과 그 과정을 설명하며, 관찰 가능성을 언급합니다.",
+      "grammar": "「might have noticed」는 조동사 + have + 과거분사의 구조입니다. 조동사의 뜻에 따라 기준 시점에 앞선 일에 대한 추측·가능성·가정 등을 나타냅니다.",
+      "audio": "audio/1971-318/10.mp3",
+      "vocabulary": [
+        {
+          "word": "noticed",
+          "meaning": "알아차렸다",
+          "note": "주변 상황이나 변화를 인지한 것을 나타냅니다."
+        },
+        {
+          "word": "recovering",
+          "meaning": "회복하다",
+          "note": "잠에서 깨어나면서 정신 상태가 안정되는 과정을 의미합니다."
+        },
+        {
+          "word": "aperture",
+          "meaning": "구멍, 틈",
+          "note": "여기서는 비유적으로 눈꺼풀이 열리는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "That is why dreams cannot last longer than that in your memory after waking.",
+      "korean": "그래서 꿈은 깨어난 후 기억 속에 오래 지속될 수 없어요.",
+      "explanation": "꿈이 깨어난 후 빠르게 잊혀지는 이유를 설명합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-318/11.mp3",
+      "vocabulary": [
+        {
+          "word": "dreams",
+          "meaning": "꿈",
+          "note": "잠에서 본 상상의 내용이나 경험을 의미합니다."
+        },
+        {
+          "word": "longer",
+          "meaning": "더 오래",
+          "note": "시간의 지속 기간을 나타내며, 여기서는 꿈이 기억에 남아 있는 시간이 짧다는 의미입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "When the mind is approaching sleep it again passes the same threshold.",
+      "korean": "마음이 잠에 들기 시작할 때 다시 같은 한계점을 지나치게 됩니다.",
+      "explanation": "잠에 들기 직전의 마음 상태가 수면으로 진입하는 과정에서 중요한 전환점을 만난다는 의미입니다.",
+      "grammar": "동사 「passes」는 pass의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-318/12.mp3",
+      "vocabulary": [
+        {
+          "word": "approaching",
+          "meaning": "다가가다",
+          "note": "여기서는 잠에 가까워지는 상태를 나타냅니다."
+        },
+        {
+          "word": "threshold",
+          "meaning": "한계점, 문턱",
+          "note": "수면 진입의 결정적인 순간이나 상태를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "Be aware of this threshold because it is very significant for those who are in search of the inner treasure.",
+      "korean": "이 임계점을 주의 깊게 살펴보세요. 왜냐하면 내면의 보물을 찾는 사람들에게 이것은 매우 중요하기 때문입니다.",
+      "explanation": "내면의 성장이나 깨달음을 추구하는 사람들에게 특정 상태(잠에 들기 직전의 마음 상태)의 임계점이 중요한 의미를 지닌다는 경고나 조언입니다.",
+      "grammar": "동사원형 「Be」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-318/13.mp3",
+      "vocabulary": [
+        {
+          "word": "threshold",
+          "meaning": "임계점, 한계점",
+          "note": "특정 상태나 과정에서 중요한 변화가 일어나는 지점을 의미합니다."
+        },
+        {
+          "word": "significant",
+          "meaning": "중요한, 중요성 있는",
+          "note": "이 상황이나 상태가 내면적 성장이나 깨달음을 추구하는 사람들에게 큰 의미를 지닌다는 것을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "This threshold is the gate to the unknown.",
+      "korean": "이 문턱은 알려지지 않은 세계로 가는 관문이다.",
+      "explanation": "문장은 특정 문턱이 개인이 내면의 보물을 찾는 과정에서 매우 중요한 역할을 하며, 그 문턱을 넘어서면 미지의 영역으로 진입하게 된다는 의미를 전달한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-318/14.mp3",
+      "vocabulary": [
+        {
+          "word": "threshold",
+          "meaning": "문턱",
+          "note": "여기서는 중요한 전환점이나 경계를 의미한다."
+        },
+        {
+          "word": "unknown",
+          "meaning": "알려지지 않은",
+          "note": "미지의 영역이나 아직 탐험되지 않은 상태를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "This threshold, this gap between waking and sleep, must be used for meditation.",
+      "korean": "이 경계는 깨어있음과 잠 사이의 틈으로, 명상에 활용되어야 합니다.",
+      "explanation": "문장은 경계(threshold)가 깨어있는 상태와 잠자는 상태 사이의 구분을 의미하며, 이를 명상(meditation)의 도구로 사용해야 한다는 내용을 전달합니다.",
+      "grammar": "「must be used」는 조동사 + be + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-318/15.mp3",
+      "vocabulary": [
+        {
+          "word": "threshold",
+          "meaning": "경계, 한계",
+          "note": "여기서는 깨어있는 상태와 잠자는 상태 사이의 구분을 의미합니다."
+        },
+        {
+          "word": "meditation",
+          "meaning": "명상",
+          "note": "심리적 안정과 내면의 평화를 찾기 위한 정신적 연습을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "Be aware of the gap, be a witness of the interval, and you will be.transformed",
+      "korean": "그 틈새, 깨어있음과 잠 사이의 틈을 인지하고 관찰하면 변화될 것입니다.",
+      "explanation": "깨어있는 상태와 수면 상태 사이의 순간적인 틈을 인식하고 그 순간을 관찰함으로써 개인적인 변화나 성장이 이루어질 것이라는 의미입니다.",
+      "grammar": "동사원형 「Be」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-318/16.mp3",
+      "vocabulary": [
+        {
+          "word": "witness",
+          "meaning": "관찰자, 증인",
+          "note": "여기서는 그 틈새를 주의 깊게 관찰하고 인지하는 역할을 의미합니다."
+        },
+        {
+          "word": "interval",
+          "meaning": "간격, 틈",
+          "note": "깨어있음과 수면 사이의 순간적인 시간적 틈을 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "나는 견습 과정이 매우 힘들지만 그만한 가치가 있다는 것을 알아. 계속해 고생스럽지만, 모든 것을 얻기 위해서는 그만한 대가를 치러야 하고, 진정한 보물에 도달하는 유일한 방법이야. 평생 갈망해온 것을, 이제 때가 왔고 열쇠가 당신에게 주어졌을 때 용기를 잃지 마세요.",
+    "보물에 접근하는 것은 어렵습니다. 왜냐하면 그것은 숨겨져 있기 때문입니다.",
+    "마음의 무의식적인 층들 속에 숨겨져 있습니다. 그 문턱에 수면과 깨어남 사이 또는 깨어있음과 수면 사이의 흐름이 유리할 때 접근한다면 쉽게 이루어질 것입니다. 저녁과 아침이 명상하기에 가장 좋은 시간대일 것입니다. 잠에서 깨어나는 데 최소 15분이 걸리며, 한쪽 눈꺼풀이 닫히고 다른 쪽 눈꺼풀이 완전히 열리는 것을 알아차렸을 수도 있어요. 그래서 꿈은 깨어난 후 기억 속에 오래 지속될 수 없어요. 마음이 잠에 들기 시작할 때 다시 같은 한계점을 지나치게 됩니다. 이 임계점을 주의 깊게 살펴보세요. 왜냐하면 내면의 보물을 찾는 사람들에게 이것은 매우 중요하기 때문입니다. 이 문턱은 알려지지 않은 세계로 가는 관문이다. 이 경계는 깨어있음과 잠 사이의 틈으로, 명상에 활용되어야 합니다. 그 틈새, 깨어있음과 잠 사이의 틈을 인지하고 관찰하면 변화될 것입니다."
+  ],
+  "fullAudio": "audio/1971-318/script_all.mp3",
+  "originalText": "Love.\n\nI know that the apprenticeship\nis very hard but worth it.\nSo keep on. It is arduous,\nbut one has to pay for everything,\nand in no other way can you get to the great treasure.\nYou have longed for it for lives and lives\nand now when the time is ripe\nand the key is being given to you\ndo not lose courage.\n\nAccess to the treasure is difficult\nbecause it is hidden\n\nin our own unconscious layers of the mind.\nIt will be easy if you approach that threshold\nwhen the diurnal tide is favorable,\nthat is when you are passing from sleep to waking\nor from waking to sleep.\nSo evening and morning\nare probably the best times for meditation.\nYou might have noticed that when the mind\nis recovering from sleep it takes at least fifteen minutes\nto close one aperture and fully open the other.\nThat is why dreams\ncannot last longer than that\nin your memory after waking.\nWhen the mind is approaching sleep\nit again passes the same threshold.\nBe aware of this threshold\nbecause it is very significant\nfor those who are in search of the inner treasure.\nThis threshold is the gate to the unknown.\nThis threshold,\nthis gap between waking and sleep,\nmust be used for meditation.\nBe aware of the gap,\nbe a witness of the interval,\nand you will be.transformed",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 318,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0898 2.JPG",
+        "side": "left",
+        "printedPage": 246
+      },
+      {
+        "file": "IMG_0898 2.JPG",
+        "side": "right",
+        "printedPage": 247
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

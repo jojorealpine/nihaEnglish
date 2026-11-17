@@ -1,0 +1,44 @@
+{
+  "key": "letter-315-part-01",
+  "number": 315,
+  "generationId": "01a1e90a-5a1e-701e-9758-770926eb0dc2",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-315/01.mp3",
+      "start": 0.0,
+      "end": 0.704626
+    },
+    {
+      "index": 1,
+      "text": "Mind means duality and meditation, oneness.",
+      "path": "audio/1971-315/02.mp3",
+      "start": 2.148594,
+      "end": 5.692018
+    },
+    {
+      "index": 2,
+      "text": "In Zen they call it - The One Sword.",
+      "path": "audio/1971-315/03.mp3",
+      "start": 7.066281,
+      "end": 9.660815999999999
+    },
+    {
+      "index": 3,
+      "text": "Kusunoki Masashige came to a Zen monastery when he was about to meet the oncoming army of Ashikaga Takanji, and asked the master: When a man is at the parting of the ways between life and death, how should he behave?",
+      "path": "audio/1971-315/04.mp3",
+      "start": 10.988322,
+      "end": 24.363696
+    },
+    {
+      "index": 4,
+      "text": "The master answered: Cut off your dualism and let the one sword stand serenely by itself against the sky!",
+      "path": "audio/1971-315/05.mp3",
+      "start": 25.924149999999997,
+      "end": 32.78
+    }
+  ]
+}

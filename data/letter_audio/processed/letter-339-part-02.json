@@ -1,0 +1,44 @@
+{
+  "key": "letter-339-part-02",
+  "number": 339,
+  "generationId": "01a1e913-5e2f-7b09-af2f-f8b22eff8cdb",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Does this mean that one should not try?",
+      "path": "audio/1971-339/11.mp3",
+      "start": 0.0,
+      "end": 2.3449210000000003
+    },
+    {
+      "index": 11,
+      "text": "No, because that too is a way of trying.",
+      "path": "audio/1971-339/12.mp3",
+      "start": 3.678413,
+      "end": 6.649365
+    },
+    {
+      "index": 12,
+      "text": "Of course, indirect, but still intentional; that too will not help.",
+      "path": "audio/1971-339/13.mp3",
+      "start": 8.129184,
+      "end": 13.194785
+    },
+    {
+      "index": 13,
+      "text": "But just see the dilemma clearly and you are out of it.",
+      "path": "audio/1971-339/14.mp3",
+      "start": 14.790159000000001,
+      "end": 18.06737
+    },
+    {
+      "index": 14,
+      "text": "Are you not?",
+      "path": "audio/1971-339/15.mp3",
+      "start": 19.857778,
+      "end": 20.92
+    }
+  ]
+}

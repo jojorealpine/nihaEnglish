@@ -1,0 +1,16 @@
+{
+  "key": "letter-193-part-02",
+  "number": 193,
+  "generationId": "01a1e8ea-c0a6-7e0f-b7ff-46aadcaabf5d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "The moment that waiting is total there is a happening, and - the explosion.",
+      "path": "audio/1971-193/11.mp3",
+      "start": 0.0,
+      "end": 4.55
+    }
+  ]
+}

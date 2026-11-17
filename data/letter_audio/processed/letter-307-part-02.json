@@ -1,0 +1,30 @@
+{
+  "key": "letter-307-part-02",
+  "number": 307,
+  "generationId": "01a1e908-162c-73f8-9c75-3f8dd81b541e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Dogo said:",
+      "path": "audio/1971-307/11.mp3",
+      "start": 0.0,
+      "end": 1.2252610000000002
+    },
+    {
+      "index": 11,
+      "text": "When you bring me a cup of tea in the morning, I take it; when you serve me a meal, I accept it and when you bow to me I return it with a nod How else do you expect to be taught in meditation?",
+      "path": "audio/1971-307/12.mp3",
+      "start": 2.765918,
+      "end": 15.290747999999999
+    },
+    {
+      "index": 12,
+      "text": "Soshin hung his head and began to think about the puzzling words of the master, but at this the master said again: If you want to see, see, right at once, because when you begin to think you miss the point altogether.",
+      "path": "audio/1971-307/13.mp3",
+      "start": 16.731927,
+      "end": 32.68
+    }
+  ]
+}

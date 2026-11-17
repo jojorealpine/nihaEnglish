@@ -1,0 +1,79 @@
+{
+  "key": "letter-056-part-01",
+  "number": 56,
+  "generationId": "01a1e4f7-a6b5-7eba-aef0-6206e95157b2",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-56/01.mp3",
+      "start": 0.0,
+      "end": 0.700204
+    },
+    {
+      "index": 1,
+      "text": "I have received your letter.",
+      "path": "audio/1969-56/02.mp3",
+      "start": 1.9356009999999997,
+      "end": 3.213991
+    },
+    {
+      "index": 2,
+      "text": "I was very glad indeed to get it, more so since you have sent a blank sheet.",
+      "path": "audio/1969-56/03.mp3",
+      "start": 4.6559859999999995,
+      "end": 8.280793999999998
+    },
+    {
+      "index": 3,
+      "text": "But I have read in it all that you have not written but wanted to write.",
+      "path": "audio/1969-56/04.mp3",
+      "start": 9.73229,
+      "end": 13.018298999999999
+    },
+    {
+      "index": 4,
+      "text": "Besides, what can words say?",
+      "path": "audio/1969-56/05.mp3",
+      "start": 14.314172000000001,
+      "end": 16.446576
+    },
+    {
+      "index": 5,
+      "text": "Even after writing, what you had meant to write remains unwritten.",
+      "path": "audio/1969-56/06.mp3",
+      "start": 17.710295,
+      "end": 21.598798000000002
+    },
+    {
+      "index": 6,
+      "text": "So your silent letter is very lovely.",
+      "path": "audio/1969-56/07.mp3",
+      "start": 23.060204,
+      "end": 25.458141
+    },
+    {
+      "index": 7,
+      "text": "As it is, whenever you come to see me you are mostly silent, but your eyes tell all, and your silence too.",
+      "path": "audio/1969-56/08.mp3",
+      "start": 26.989796,
+      "end": 34.455600999999994
+    },
+    {
+      "index": 8,
+      "text": "Some deep thirst has touched you, some unknown shore has called you Whenever God calls he calls this way - but how long will you go on standing on the shore?",
+      "path": "audio/1969-56/09.mp3",
+      "start": 35.958617000000004,
+      "end": 47.341995
+    },
+    {
+      "index": 9,
+      "text": "Look!",
+      "path": "audio/1969-56/10.mp3",
+      "start": 48.914422,
+      "end": 50.23
+    }
+  ]
+}

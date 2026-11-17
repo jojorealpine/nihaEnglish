@@ -1,0 +1,79 @@
+{
+  "key": "letter-176-part-01",
+  "number": 176,
+  "generationId": "01a1e8e6-3d49-7ed2-b9a6-ee6e3f550c78",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-176/01.mp3",
+      "start": 0.0,
+      "end": 0.685465
+    },
+    {
+      "index": 1,
+      "text": "Thinking is necessary but not enough, one must know living also, otherwise one becomes like the philosopher mentioned by Soren Kierkegaard who builds a fine palace but is doomed not to live in it.",
+      "path": "audio/1971-176/02.mp3",
+      "start": 2.2084349999999997,
+      "end": 15.909728
+    },
+    {
+      "index": 2,
+      "text": "He has a shed for himself next door to what he has constructed for others, including himself, to look at!",
+      "path": "audio/1971-176/03.mp3",
+      "start": 17.748209,
+      "end": 24.458481000000003
+    },
+    {
+      "index": 3,
+      "text": "Meditation is not thinking, but living.",
+      "path": "audio/1971-176/04.mp3",
+      "start": 25.799592,
+      "end": 28.980567
+    },
+    {
+      "index": 4,
+      "text": "Live it daily, moment to moment; that is, live in it or let it live in you.",
+      "path": "audio/1971-176/05.mp3",
+      "start": 30.274988999999998,
+      "end": 36.577914
+    },
+    {
+      "index": 5,
+      "text": "It is not something other-worldly either, because all such distinctions are from the mind: they are speculative and not existential, and meditation is existential.",
+      "path": "audio/1971-176/06.mp3",
+      "start": 37.900317,
+      "end": 48.570136
+    },
+    {
+      "index": 6,
+      "text": "It is no more than one's everyday life lived totally.",
+      "path": "audio/1971-176/07.mp3",
+      "start": 50.097120000000004,
+      "end": 53.689409999999995
+    },
+    {
+      "index": 7,
+      "text": "When Mencius says: The truth is near and people seek it far away, he means this.",
+      "path": "audio/1971-176/08.mp3",
+      "start": 55.254762,
+      "end": 61.450227
+    },
+    {
+      "index": 8,
+      "text": "When Tokusan is asked about it he replies:",
+      "path": "audio/1971-176/09.mp3",
+      "start": 62.968844000000004,
+      "end": 66.188844
+    },
+    {
+      "index": 9,
+      "text": "When you are hungry you eat, when you are thirsty you drink, and when you meet a friend you greet him.",
+      "path": "audio/1971-176/10.mp3",
+      "start": 67.657823,
+      "end": 76.62
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "id": "1971-364",
+  "title": "1971 / 364",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "walking",
+      "meaning": "걷다",
+      "note": "동작의 수행을 의미하며, 여기서는 특별한 상태나 자세를 취하는 것을 나타냅니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "standing",
+      "meaning": "서다",
+      "note": "마찬가지로 특정 자세를 취하는 동작을 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "completely",
+      "meaning": "완전히",
+      "note": "새로운 감정이나 상태가 전적으로, 완전히 다르게 느껴진다는 강조를 나타냅니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "real",
+      "meaning": "진실된, 본질적인",
+      "note": "이 단어는 단순히 사실적인 측면을 넘어, 진정성과 본질적인 가치를 강조합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "remains",
+      "meaning": "그대로 있다",
+      "note": "변화 없이 그대로 유지되는 상태를 나타냄",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "suchness",
+      "meaning": "본질",
+      "note": "자아의 본질적인 상태나 특성을 의미함",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "moment",
+      "meaning": "순간",
+      "note": "특정한 시간의 짧은 기간이나 중요한 순간을 가리킵니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "postpone",
+      "meaning": "연기하다",
+      "note": "어떤 행동이나 일을 현재가 아닌 나중으로 미루는 것을 의미합니다.",
+      "sentenceIds": [
+        5,
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "forever",
+      "meaning": "영원히",
+      "note": "시간의 지속성을 강조하며, 어떤 행동이나 상태가 계속되는 것을 나타낸다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "tomorrow",
+      "meaning": "내일",
+      "note": "미래의 시간을 가리키며, 이 문장에서는 현재 순간의 중요성을 강조하기 위해 대비되는 개념으로 사용된다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-364/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Walk as if you are not walking, stand as if you are not standing, sit as if you are not sitting - and then you will begin to feel something completely new arising within you.",
+      "korean": "마치 걷지 않는 듯 걷고, 서 있지 않은 듯 서고, 앉지 않은 듯 앉으면, 당신 안에서 완전히 새로운 감정이 일어날 것입니다.",
+      "explanation": "걷는 동작을 수행하면서도 그 동작이 실제로 일어나지 않는 것처럼 느끼는 것이 새로운 내면의 경험을 가져올 수 있다는 의미입니다.",
+      "grammar": "동사원형 「Walk」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-364/02.mp3",
+      "vocabulary": [
+        {
+          "word": "walking",
+          "meaning": "걷다",
+          "note": "동작의 수행을 의미하며, 여기서는 특별한 상태나 자세를 취하는 것을 나타냅니다."
+        },
+        {
+          "word": "standing",
+          "meaning": "서다",
+          "note": "마찬가지로 특정 자세를 취하는 동작을 의미합니다."
+        },
+        {
+          "word": "completely",
+          "meaning": "완전히",
+          "note": "새로운 감정이나 상태가 전적으로, 완전히 다르게 느껴진다는 강조를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "This is the real one.",
+      "korean": "이것이 진짜야.",
+      "explanation": "진정한 것, 본질적인 것을 강조하는 문장입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-364/03.mp3",
+      "vocabulary": [
+        {
+          "word": "real",
+          "meaning": "진실된, 본질적인",
+          "note": "이 단어는 단순히 사실적인 측면을 넘어, 진정성과 본질적인 가치를 강조합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "The false you walks, stands and sits, and the real you just remains in suchness.",
+      "korean": "거짓의 너는 걷고 서고 앉지만, 진정한 너는 그대로 존재한다.",
+      "explanation": "거짓된 행동이나 상태를 유지하는 것과 달리, 진정한 자아는 변하지 않고 그대로 존재한다는 의미",
+      "grammar": "동사 「stands」는 stand의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-364/04.mp3",
+      "vocabulary": [
+        {
+          "word": "remains",
+          "meaning": "그대로 있다",
+          "note": "변화 없이 그대로 유지되는 상태를 나타냄"
+        },
+        {
+          "word": "suchness",
+          "meaning": "본질",
+          "note": "자아의 본질적인 상태나 특성을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Feel this — this very moment, because there is no need to postpone it.",
+      "korean": "이 순간을 느껴보세요 — 지금 바로 이 순간을 경험해야 합니다. 미루는 것이 필요 없습니다.",
+      "explanation": "현재의 순간을 체험하고 그 중요성을 강조하며, 미루지 말 것을 권유하는 내용입니다.",
+      "grammar": "동사원형 「Feel」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-364/05.mp3",
+      "vocabulary": [
+        {
+          "word": "moment",
+          "meaning": "순간",
+          "note": "특정한 시간의 짧은 기간이나 중요한 순간을 가리킵니다."
+        },
+        {
+          "word": "postpone",
+          "meaning": "연기하다",
+          "note": "어떤 행동이나 일을 현재가 아닌 나중으로 미루는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "And if you postpone it you postpone it forever because there is no tomorrow for the real one, there is no there for it, it is always here and now.",
+      "korean": "만약 미루면 영원히 미루게 되는 거야. 진짜 내일은 없고, 그 순간은 존재하지 않아. 모든 것이 지금 여기에 있거든.",
+      "explanation": "문장은 현재 순간을 미루면 그 기회를 영원히 잃게 된다는 경고를 담고 있으며, 시간의 흐름과 현재의 중요성을 강조하고 있다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-364/06.mp3",
+      "vocabulary": [
+        {
+          "word": "postpone",
+          "meaning": "연기하다",
+          "note": "어떤 행동이나 결정을 나중으로 미루는 것을 의미한다."
+        },
+        {
+          "word": "forever",
+          "meaning": "영원히",
+          "note": "시간의 지속성을 강조하며, 어떤 행동이나 상태가 계속되는 것을 나타낸다."
+        },
+        {
+          "word": "tomorrow",
+          "meaning": "내일",
+          "note": "미래의 시간을 가리키며, 이 문장에서는 현재 순간의 중요성을 강조하기 위해 대비되는 개념으로 사용된다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "마치 걷지 않는 듯 걷고, 서 있지 않은 듯 서고, 앉지 않은 듯 앉으면, 당신 안에서 완전히 새로운 감정이 일어날 것입니다. 이것이 진짜야. 거짓의 너는 걷고 서고 앉지만, 진정한 너는 그대로 존재한다. 이 순간을 느껴보세요 — 지금 바로 이 순간을 경험해야 합니다. 미루는 것이 필요 없습니다. 만약 미루면 영원히 미루게 되는 거야. 진짜 내일은 없고, 그 순간은 존재하지 않아. 모든 것이 지금 여기에 있거든."
+  ],
+  "fullAudio": "audio/1971-364/script_all.mp3",
+  "originalText": "Love.\n\nWalk as if you are not walking,\nstand as if you are not standing,\nsit as if you are not sitting -\nand then you will begin to feel\nsomething completely new arising within you.\nThis is the real one.\nThe false you walks, stands and sits,\nand the real you just remains in suchness.\nFeel this — this very moment,\nbecause there is no need to postpone it.\nAnd if you postpone it you postpone it forever\nbecause there is no tomorrow for the real one,\nthere is no there for it,\nit is always here and now.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 364,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0917 2.JPG",
+        "side": "left",
+        "printedPage": 284
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

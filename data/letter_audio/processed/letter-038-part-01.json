@@ -1,0 +1,72 @@
+{
+  "key": "letter-038-part-01",
+  "number": 38,
+  "generationId": "01a1e4ec-ec91-7723-959d-7504cc534cbd",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1966-38/01.mp3",
+      "start": 0.0,
+      "end": 0.766531
+    },
+    {
+      "index": 1,
+      "text": "I am glad to see such thirst for God!",
+      "path": "audio/1966-38/02.mp3",
+      "start": 2.105034,
+      "end": 4.3443760000000005
+    },
+    {
+      "index": 2,
+      "text": "To have this thirst is a divine blessing; where there is thirst — there the way is.",
+      "path": "audio/1966-38/03.mp3",
+      "start": 5.800816,
+      "end": 10.672856999999999
+    },
+    {
+      "index": 3,
+      "text": "In fact, intense longing becomes the way.",
+      "path": "audio/1966-38/04.mp3",
+      "start": 12.025261,
+      "end": 14.89576
+    },
+    {
+      "index": 4,
+      "text": "God is summoning us at every moment but because the strings of our heart are slack we don't echo his call.",
+      "path": "audio/1966-38/05.mp3",
+      "start": 16.18551,
+      "end": 21.012676000000003
+    },
+    {
+      "index": 5,
+      "text": "If our eyes are closed then even if the sun is at the door we will be in darkness; and the sun is always at the door - we only have to open our eyes and let it in, that's all!",
+      "path": "audio/1966-38/06.mp3",
+      "start": 22.488004999999998,
+      "end": 32.148230999999996
+    },
+    {
+      "index": 6,
+      "text": "May God give you light, that's my wish.",
+      "path": "audio/1966-38/07.mp3",
+      "start": 33.658912,
+      "end": 36.186236
+    },
+    {
+      "index": 7,
+      "text": "My love and I are always with you.",
+      "path": "audio/1966-38/08.mp3",
+      "start": 37.670272000000004,
+      "end": 40.503152
+    },
+    {
+      "index": 8,
+      "text": "Regards to the family and love to the children.",
+      "path": "audio/1966-38/09.mp3",
+      "start": 41.980748000000006,
+      "end": 45.74
+    }
+  ]
+}

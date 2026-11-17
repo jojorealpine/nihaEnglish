@@ -1,0 +1,72 @@
+{
+  "key": "letter-258-part-01",
+  "number": 258,
+  "generationId": "01a1e8fc-2c5c-75b3-bf3e-8789e68b80cc",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-258/01.mp3",
+      "start": 0.0,
+      "end": 0.863696
+    },
+    {
+      "index": 1,
+      "text": "The real religious experience cannot be organized, taught or transmitted To systematize it is to kill it.",
+      "path": "audio/1971-258/02.mp3",
+      "start": 2.276916,
+      "end": 10.059750999999999
+    },
+    {
+      "index": 2,
+      "text": "It is so living and moving and dynamic that to impose a pattern on it is impossible; and the experience is always so unique and individual that it cannot be put into any category - although it happens when the individual is not.",
+      "path": "audio/1971-258/03.mp3",
+      "start": 11.550567000000001,
+      "end": 27.213469
+    },
+    {
+      "index": 3,
+      "text": "It cannot be followed, for everyone has to find it for himself, and that is the beauty of it, and also its freedom and virginity.",
+      "path": "audio/1971-258/04.mp3",
+      "start": 28.68966,
+      "end": 37.713356
+    },
+    {
+      "index": 4,
+      "text": "It is not new in the sense of any opposition to the old, it is new in the sense of timelessness - that is, eternally fresh and innocent - as every flower is new and every sunrise is new and every love is new.",
+      "path": "audio/1971-258/05.mp3",
+      "start": 39.361338,
+      "end": 54.023469
+    },
+    {
+      "index": 5,
+      "text": "It is not borrowed from the past, it is not based on any tradition, it is not derived from without, it happens within, without any causality.",
+      "path": "audio/1971-258/06.mp3",
+      "start": 55.346621000000006,
+      "end": 64.23281200000001
+    },
+    {
+      "index": 6,
+      "text": "It happens unconditionally.",
+      "path": "audio/1971-258/07.mp3",
+      "start": 65.50691599999999,
+      "end": 67.213741
+    },
+    {
+      "index": 7,
+      "text": "It is not continuous with the mind, it is a discontinuous explosion.",
+      "path": "audio/1971-258/08.mp3",
+      "start": 68.44677999999999,
+      "end": 72.829751
+    },
+    {
+      "index": 8,
+      "text": "There are clouds in the sky and the sky cannot be seen, but there is no causal chain.",
+      "path": "audio/1971-258/09.mp3",
+      "start": 74.16981899999999,
+      "end": 79.91
+    }
+  ]
+}

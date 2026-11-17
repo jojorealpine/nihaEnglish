@@ -1,0 +1,51 @@
+{
+  "key": "letter-321-part-01",
+  "number": 321,
+  "generationId": "01a1e90d-3bab-7309-85bc-b318cbc7cfd6",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-321/01.mp3",
+      "start": 0.0,
+      "end": 0.670862
+    },
+    {
+      "index": 1,
+      "text": "Leave the grasping of things and thoughts.",
+      "path": "audio/1971-321/02.mp3",
+      "start": 2.1104309999999997,
+      "end": 4.63102
+    },
+    {
+      "index": 2,
+      "text": "Open your fist completely because grasping is suffering.",
+      "path": "audio/1971-321/03.mp3",
+      "start": 6.165692,
+      "end": 9.944059
+    },
+    {
+      "index": 3,
+      "text": "Stop! cries Buddha.",
+      "path": "audio/1971-321/04.mp3",
+      "start": 11.448685000000001,
+      "end": 13.579683
+    },
+    {
+      "index": 4,
+      "text": "But the mad mind does not stop.",
+      "path": "audio/1971-321/05.mp3",
+      "start": 15.246213000000001,
+      "end": 17.697415
+    },
+    {
+      "index": 5,
+      "text": "If it stops, it is Enlightenment!",
+      "path": "audio/1971-321/06.mp3",
+      "start": 19.145668999999998,
+      "end": 22.7
+    }
+  ]
+}

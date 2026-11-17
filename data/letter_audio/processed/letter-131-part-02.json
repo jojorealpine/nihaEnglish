@@ -1,0 +1,30 @@
+{
+  "key": "letter-131-part-02",
+  "number": 131,
+  "generationId": "01a1e6cc-ca5b-783f-885d-ed357e72650f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Truth is always received like this.",
+      "path": "audio/1970-131/11.mp3",
+      "start": 0.0,
+      "end": 2.3043080000000002
+    },
+    {
+      "index": 11,
+      "text": "If you don't agree ask Socrates ask Jesus ask Buddha ask Kabir ask Meera",
+      "path": "audio/1970-131/12.mp3",
+      "start": 3.744989,
+      "end": 10.715872999999998
+    },
+    {
+      "index": 12,
+      "text": "My regards to all.",
+      "path": "audio/1970-131/13.mp3",
+      "start": 12.127506,
+      "end": 13.87
+    }
+  ]
+}

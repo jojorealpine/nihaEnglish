@@ -1,0 +1,10 @@
+{
+  "state": "complete",
+  "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+  "sentencesComplete": 3899,
+  "sentencesTotal": 3899,
+  "lessonsComplete": 358,
+  "lessonsTotal": 358,
+  "failures": [],
+  "updatedAt": "2026-11-17T03:40:08+0900"
+}

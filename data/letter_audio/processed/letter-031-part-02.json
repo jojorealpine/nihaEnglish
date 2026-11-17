@@ -1,0 +1,58 @@
+{
+  "key": "letter-031-part-02",
+  "number": 31,
+  "generationId": "01a1e4eb-f4ed-7699-a47d-95da18111823",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "but there is another nearness which is not of the body, and its name is love.",
+      "path": "audio/1965-31/11.mp3",
+      "start": 0.0,
+      "end": 4.199819
+    },
+    {
+      "index": 11,
+      "text": "Once gained it is never lost.",
+      "path": "audio/1965-31/12.mp3",
+      "start": 5.357778,
+      "end": 7.671066
+    },
+    {
+      "index": 12,
+      "text": "Then no separation exists despite vast distances in the visible world.",
+      "path": "audio/1965-31/13.mp3",
+      "start": 9.003039000000001,
+      "end": 14.023672999999999
+    },
+    {
+      "index": 13,
+      "text": "If you can arrive at this distancelessness with even one other it can be found with everybody.",
+      "path": "audio/1965-31/14.mp3",
+      "start": 15.292948,
+      "end": 20.396304
+    },
+    {
+      "index": 14,
+      "text": "One is the door, the all, the goal.",
+      "path": "audio/1965-31/15.mp3",
+      "start": 21.897143,
+      "end": 24.815261
+    },
+    {
+      "index": 15,
+      "text": "The beginning of love is through one, the end is all.",
+      "path": "audio/1965-31/16.mp3",
+      "start": 26.409364999999998,
+      "end": 30.381474
+    },
+    {
+      "index": 16,
+      "text": "The love that unites you with everything, with nothing excluded, I call religion, and the love that stops anywhere I call sin.",
+      "path": "audio/1965-31/17.mp3",
+      "start": 31.946009,
+      "end": 40.86
+    }
+  ]
+}

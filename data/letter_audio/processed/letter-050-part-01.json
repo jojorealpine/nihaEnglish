@@ -1,0 +1,65 @@
+{
+  "key": "letter-050-part-01",
+  "number": 50,
+  "generationId": "01a1e4f1-66bc-777c-8a41-b7628dad5448",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1968-50/01.mp3",
+      "start": 0.0,
+      "end": 0.677279
+    },
+    {
+      "index": 1,
+      "text": "I have got your letter.",
+      "path": "audio/1968-50/02.mp3",
+      "start": 1.871565,
+      "end": 3.1539
+    },
+    {
+      "index": 2,
+      "text": "I know well how your soul thirsts; soon it can be quenched - you are right at the brink of the lake.",
+      "path": "audio/1968-50/03.mp3",
+      "start": 4.3382309999999995,
+      "end": 10.382562
+    },
+    {
+      "index": 3,
+      "text": "You only have to open your eyes, and I can see that the lids are about to lift.",
+      "path": "audio/1968-50/04.mp3",
+      "start": 11.662041,
+      "end": 15.892857
+    },
+    {
+      "index": 4,
+      "text": "I shall be with you then, always with you, so don't worry.",
+      "path": "audio/1968-50/05.mp3",
+      "start": 17.100068,
+      "end": 20.576621
+    },
+    {
+      "index": 5,
+      "text": "Be patient and wait, the seed takes its own time to break and bloom.",
+      "path": "audio/1968-50/06.mp3",
+      "start": 22.124263,
+      "end": 26.912789
+    },
+    {
+      "index": 6,
+      "text": "Give my regards to all.",
+      "path": "audio/1968-50/07.mp3",
+      "start": 28.413128999999998,
+      "end": 30.165306
+    },
+    {
+      "index": 7,
+      "text": "More when we meet.",
+      "path": "audio/1968-50/08.mp3",
+      "start": 31.629751,
+      "end": 33.15
+    }
+  ]
+}

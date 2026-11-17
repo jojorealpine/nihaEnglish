@@ -1,0 +1,79 @@
+{
+  "key": "letter-140-part-02",
+  "number": 140,
+  "generationId": "01a1e6cf-3d2b-7957-a808-5a3e643e4e5a",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "I searched and searched but could find no anger within you.",
+      "path": "audio/1970-140/11.mp3",
+      "start": 0.0,
+      "end": 2.835351
+    },
+    {
+      "index": 11,
+      "text": "Still, show me a little of it, here and now.",
+      "path": "audio/1970-140/12.mp3",
+      "start": 4.065283,
+      "end": 7.285782
+    },
+    {
+      "index": 12,
+      "text": "The disciple said: It is not always here.",
+      "path": "audio/1970-140/13.mp3",
+      "start": 8.617891,
+      "end": 11.688073
+    },
+    {
+      "index": 13,
+      "text": "It comes all of a sudden, how can I produce it now?",
+      "path": "audio/1970-140/14.mp3",
+      "start": 13.024422000000001,
+      "end": 16.396440000000002
+    },
+    {
+      "index": 14,
+      "text": "Bankei laughed again and said: Then it is not your true nature.",
+      "path": "audio/1970-140/15.mp3",
+      "start": 17.654716999999998,
+      "end": 21.259546
+    },
+    {
+      "index": 15,
+      "text": "That remains with you always, and if your anger had been part of it you could have shown it to me.",
+      "path": "audio/1970-140/16.mp3",
+      "start": 22.414717,
+      "end": 27.51424
+    },
+    {
+      "index": 16,
+      "text": "When you were born it was not with you, when you die it will not be with you.",
+      "path": "audio/1970-140/17.mp3",
+      "start": 28.733651,
+      "end": 34.112063
+    },
+    {
+      "index": 17,
+      "text": "No, this anger is not you.",
+      "path": "audio/1970-140/18.mp3",
+      "start": 35.22288,
+      "end": 37.593039
+    },
+    {
+      "index": 18,
+      "text": "There is a mistake somewhere.",
+      "path": "audio/1970-140/19.mp3",
+      "start": 38.814535,
+      "end": 40.414853
+    },
+    {
+      "index": 19,
+      "text": "Go away and think again, search again, meditate again.",
+      "path": "audio/1970-140/20.mp3",
+      "start": 42.000998,
+      "end": 46.21
+    }
+  ]
+}

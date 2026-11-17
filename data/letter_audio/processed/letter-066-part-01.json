@@ -1,0 +1,79 @@
+{
+  "key": "letter-066-part-01",
+  "number": 66,
+  "generationId": "01a1e5b9-4dba-7f17-b721-4c01e831627e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-66/01.mp3",
+      "start": 0.0,
+      "end": 0.61576
+    },
+    {
+      "index": 1,
+      "text": "I received your letter on my return.",
+      "path": "audio/1969-66/02.mp3",
+      "start": 1.912766,
+      "end": 3.840499
+    },
+    {
+      "index": 2,
+      "text": "Just as the seed within the soil waits for the rains so you wait for God.",
+      "path": "audio/1969-66/03.mp3",
+      "start": 5.369229,
+      "end": 9.690045
+    },
+    {
+      "index": 3,
+      "text": "Prayerful, wholehearted surrender is the door leading to him.",
+      "path": "audio/1969-66/04.mp3",
+      "start": 11.081519,
+      "end": 14.525350999999999
+    },
+    {
+      "index": 4,
+      "text": "Let yourself go completely, just like a boat floating on the river.",
+      "path": "audio/1969-66/05.mp3",
+      "start": 15.847574000000002,
+      "end": 19.654467
+    },
+    {
+      "index": 5,
+      "text": "You do not have to row the boat, just let it go loose.",
+      "path": "audio/1969-66/06.mp3",
+      "start": 21.115261,
+      "end": 24.378753
+    },
+    {
+      "index": 6,
+      "text": "You are not to swim, just to float, then the river itself takes you to the ocean.",
+      "path": "audio/1969-66/07.mp3",
+      "start": 25.815896,
+      "end": 30.982653000000003
+    },
+    {
+      "index": 7,
+      "text": "The ocean is very near - but only for those who float but do not swim.",
+      "path": "audio/1969-66/08.mp3",
+      "start": 32.507166000000005,
+      "end": 37.005578
+    },
+    {
+      "index": 8,
+      "text": "Do not be afraid of drowning because that fear makes you swim - and the truth is that he who drowns himself in God is saved forever.",
+      "path": "audio/1969-66/09.mp3",
+      "start": 38.46746,
+      "end": 48.083855
+    },
+    {
+      "index": 9,
+      "text": "And do not have a goal, for he who has a goal begins to swim.",
+      "path": "audio/1969-66/10.mp3",
+      "start": 49.671701000000006,
+      "end": 54.94
+    }
+  ]
+}

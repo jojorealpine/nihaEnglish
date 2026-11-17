@@ -1,0 +1,505 @@
+{
+  "id": "1969-56",
+  "title": "1969 / 56",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "received",
+      "meaning": "받은",
+      "note": "receive의 과거분사로, 여기서는 have와 함께 현재완료를 만듭니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "letter",
+      "meaning": "편지",
+      "note": "문맥상 상대가 보낸 서신을 가리킵니다.",
+      "sentenceIds": [
+        2,
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "blank",
+      "meaning": "비어 있는, 내용이 없는",
+      "note": "여기서는 빈 종이를 의미하며, 내용이 기록되지 않은 상태를 나타냅니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sheet",
+      "meaning": "종이 한 장",
+      "note": "편지 작성에 사용되는 종이 한 장을 의미합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "written",
+      "meaning": "쓰여짐, 작성됨",
+      "note": "여기서는 문서에 담긴 내용이 실제로 작성되어 전달된 것이 아니라, 작성자가 전달하려고 했던 내용을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "wanted",
+      "meaning": "원했다",
+      "note": "작성자가 실제로 전달하지 않았지만 전달하고자 했던 의도를 나타냅니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "words",
+      "meaning": "단어",
+      "note": "이 문맥에서는 인간의 생각이나 감정을 표현하는 수단으로 사용되지만, 그 표현력의 한계를 시사한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "writing",
+      "meaning": "글쓰기",
+      "note": "글을 통해 표현하려는 행위나 과정을 나타냄",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unwritten",
+      "meaning": "쓰여지지 않은",
+      "note": "의도한 내용이 완전히 표현되지 못했거나 누락되었다는 뉘앙스를 담고 있음",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "silent",
+      "meaning": "말하지 않는, 표현되지 않은",
+      "note": "여기서는 직접적으로 말하지 않지만 마음속에 있는 것을 의미합니다.",
+      "sentenceIds": [
+        7,
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "silence",
+      "meaning": "침묵",
+      "note": "주체의 조용함이나 말하지 않는 상태를 강조하며, 문장에서 감정이나 메시지를 전달하는 수단으로 사용됩니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "touched",
+      "meaning": "사로잡히다, 영향을 받다",
+      "note": "여기서는 깊은 갈망이나 감정이 개인에게 미친 영향을 나타냅니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unknown",
+      "meaning": "알려지지 않은",
+      "note": "미지의 영역이나 목표를 의미하며, 변화나 성장의 필요성을 암시합니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "standing",
+      "meaning": "서 있다",
+      "note": "변화나 진전 없이 현재 상태를 유지하는 상황을 나타냅니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Look",
+      "meaning": "보세요",
+      "note": "주의를 끌거나 주목을 요구하는 강한 표현으로, 여기서는 God의 부름에 대한 주의를 환기시키는 역할을 합니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "winds",
+      "meaning": "바람",
+      "note": "여기서는 바람이 돛을 채우려는 활동적인 역할을 합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sails",
+      "meaning": "돛",
+      "note": "배의 움직임에 중요한 역할을 하는 부분으로, 바람을 받아 배를 움직이게 합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "deep thirst",
+      "meaning": "깊은 갈망",
+      "explanation": "내면적 욕구 또는 변화의 갈망을 표현합니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "called you",
+      "meaning": "당신을 불렀다",
+      "explanation": "신의 부름이나 내면의 변화를 촉구하는 신호를 의미합니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1969-56/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "I have received your letter.",
+      "korean": "당신의 편지를 받았습니다.",
+      "explanation": "편지를 받아 지금 그 내용을 알고 있다는 현재의 상황과 연결해 말합니다.",
+      "grammar": "have received는 have와 과거분사 received로 만든 현재완료입니다. 편지를 받은 과거의 일이 현재와 관련 있음을 나타냅니다. your letter는 received의 목적어입니다.",
+      "audio": "audio/1969-56/02.mp3",
+      "vocabulary": [
+        {
+          "word": "received",
+          "meaning": "받은",
+          "note": "receive의 과거분사로, 여기서는 have와 함께 현재완료를 만듭니다."
+        },
+        {
+          "word": "letter",
+          "meaning": "편지",
+          "note": "문맥상 상대가 보낸 서신을 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "I was very glad indeed to get it, more so since you have sent a blank sheet.",
+      "korean": "정말로 기뻤습니다. 특히 빈 종이를 보내주신 것에 더욱 감사했습니다.",
+      "explanation": "원문에서 표현된 기쁨과 빈 종이를 받은 것에 대한 특별한 감사의 감정을 한국어로 전달했습니다.",
+      "grammar": "「was」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-56/03.mp3",
+      "vocabulary": [
+        {
+          "word": "blank",
+          "meaning": "비어 있는, 내용이 없는",
+          "note": "여기서는 빈 종이를 의미하며, 내용이 기록되지 않은 상태를 나타냅니다."
+        },
+        {
+          "word": "sheet",
+          "meaning": "종이 한 장",
+          "note": "편지 작성에 사용되는 종이 한 장을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "But I have read in it all that you have not written but wanted to write.",
+      "korean": "그러나 그 안에는 당신이 쓰고 싶었지만 쓰지 않았던 모든 내용이 읽혔습니다.",
+      "explanation": "문장은 작성자가 받은 문서에 담긴 내용이 실제로는 전달되지 않았지만 작성자가 전달하려고 했던 모든 내용을 포함하고 있다는 것을 나타냅니다.",
+      "grammar": "「have read」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1969-56/04.mp3",
+      "vocabulary": [
+        {
+          "word": "written",
+          "meaning": "쓰여짐, 작성됨",
+          "note": "여기서는 문서에 담긴 내용이 실제로 작성되어 전달된 것이 아니라, 작성자가 전달하려고 했던 내용을 의미합니다."
+        },
+        {
+          "word": "wanted",
+          "meaning": "원했다",
+          "note": "작성자가 실제로 전달하지 않았지만 전달하고자 했던 의도를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Besides, what can words say?",
+      "korean": "게다가, 말로 무엇을 표현할 수 있을까?",
+      "explanation": "이 문장은 언어의 한계를 지적하며, 말로 전달할 수 있는 감정이나 생각의 범위가 제한적임을 강조한다.",
+      "grammar": "「can words say」에서 조동사 can 뒤에 동사원형 「say」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1969-56/05.mp3",
+      "vocabulary": [
+        {
+          "word": "words",
+          "meaning": "단어",
+          "note": "이 문맥에서는 인간의 생각이나 감정을 표현하는 수단으로 사용되지만, 그 표현력의 한계를 시사한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Even after writing, what you had meant to write remains unwritten.",
+      "korean": "글을 쓴 후에도, 쓰려 했던 내용은 여전히 쓰여지지 않았다.",
+      "explanation": "글쓰기 후에도 의도했던 내용이 완전히 표현되지 못했다는 의미",
+      "grammar": "「had meant」는 had + 과거분사로 만든 과거완료 표현입니다. 과거의 기준 시점보다 앞선 일을 나타냅니다.",
+      "audio": "audio/1969-56/06.mp3",
+      "vocabulary": [
+        {
+          "word": "writing",
+          "meaning": "글쓰기",
+          "note": "글을 통해 표현하려는 행위나 과정을 나타냄"
+        },
+        {
+          "word": "unwritten",
+          "meaning": "쓰여지지 않은",
+          "note": "의도한 내용이 완전히 표현되지 못했거나 누락되었다는 뉘앙스를 담고 있음"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "So your silent letter is very lovely.",
+      "korean": "네 숨겨진 글자가 정말 예쁘네.",
+      "explanation": "문장은 상대방의 표현되지 않은 생각이나 감정을 칭찬하는 내용입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-56/07.mp3",
+      "vocabulary": [
+        {
+          "word": "silent",
+          "meaning": "말하지 않는, 표현되지 않은",
+          "note": "여기서는 직접적으로 말하지 않지만 마음속에 있는 것을 의미합니다."
+        },
+        {
+          "word": "letter",
+          "meaning": "글자, 문자",
+          "note": "이 문맥에서는 마음속의 생각이나 감정을 상징적으로 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "As it is, whenever you come to see me you are mostly silent, but your eyes tell all, and your silence too.",
+      "korean": "결국 네가 나를 찾아오면 대부분 말이 없지만 눈빛이 모든 것을 말하고, 네 침묵 또한 그렇다.",
+      "explanation": "주어진 문장의 의미를 한국어로 자연스럽게 번역한 내용입니다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-56/08.mp3",
+      "vocabulary": [
+        {
+          "word": "silent",
+          "meaning": "말 없이 조용히 있는",
+          "note": "문장에서 주로 행동이나 태도를 묘사하는데 사용되며, 여기서는 말하지 않는 상태를 나타냅니다."
+        },
+        {
+          "word": "silence",
+          "meaning": "침묵",
+          "note": "주체의 조용함이나 말하지 않는 상태를 강조하며, 문장에서 감정이나 메시지를 전달하는 수단으로 사용됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "Some deep thirst has touched you, some unknown shore has called you Whenever God calls he calls this way - but how long will you go on standing on the shore?",
+      "korean": "깊은 갈망이 당신을 사로잡았고, 알려지지 않은 땅이 당신을 불렀습니다. 신이 부르실 때는 이렇게 부르시지만, 얼마나 오랫동안 당신은 바닷가에 서 있을 것인가요?",
+      "explanation": "문장은 개인의 내면적 갈망과 변화의 필요성을 강조하며, 신의 부름과 개인의 행동 사이의 대조를 제시합니다.",
+      "grammar": "「has called」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1969-56/09.mp3",
+      "vocabulary": [
+        {
+          "word": "touched",
+          "meaning": "사로잡히다, 영향을 받다",
+          "note": "여기서는 깊은 갈망이나 감정이 개인에게 미친 영향을 나타냅니다."
+        },
+        {
+          "word": "unknown",
+          "meaning": "알려지지 않은",
+          "note": "미지의 영역이나 목표를 의미하며, 변화나 성장의 필요성을 암시합니다."
+        },
+        {
+          "word": "standing",
+          "meaning": "서 있다",
+          "note": "변화나 진전 없이 현재 상태를 유지하는 상황을 나타냅니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "deep thirst",
+          "meaning": "깊은 갈망",
+          "explanation": "내면적 욕구 또는 변화의 갈망을 표현합니다."
+        },
+        {
+          "expression": "called you",
+          "meaning": "당신을 불렀다",
+          "explanation": "신의 부름이나 내면의 변화를 촉구하는 신호를 의미합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "Look!",
+      "korean": "보세요!",
+      "explanation": "주어진 문맥에서 God의 부름에 대한 반응을 촉구하는 강한 초대의 의미를 지닙니다.",
+      "grammar": "동사원형 「Look」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1969-56/10.mp3",
+      "vocabulary": [
+        {
+          "word": "Look",
+          "meaning": "보세요",
+          "note": "주의를 끌거나 주목을 요구하는 강한 표현으로, 여기서는 God의 부름에 대한 주의를 환기시키는 역할을 합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "The sun is out and the winds can't wait to fill the boat's sails!",
+      "korean": "태양이 뜨자 바람들이 배의 돛을 가득 채우려고 서둘러요!",
+      "explanation": "태양이 나타나자마자 바람들이 돛을 최대한 활용하려고 빠르게 움직이는 모습을 묘사합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-56/11.mp3",
+      "vocabulary": [
+        {
+          "word": "winds",
+          "meaning": "바람",
+          "note": "여기서는 바람이 돛을 채우려는 활동적인 역할을 합니다."
+        },
+        {
+          "word": "sails",
+          "meaning": "돛",
+          "note": "배의 움직임에 중요한 역할을 하는 부분으로, 바람을 받아 배를 움직이게 합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "당신의 편지를 받았습니다. 정말로 기뻤습니다. 특히 빈 종이를 보내주신 것에 더욱 감사했습니다. 그러나 그 안에는 당신이 쓰고 싶었지만 쓰지 않았던 모든 내용이 읽혔습니다. 게다가, 말로 무엇을 표현할 수 있을까? 글을 쓴 후에도, 쓰려 했던 내용은 여전히 쓰여지지 않았다. 네 숨겨진 글자가 정말 예쁘네. 결국 네가 나를 찾아오면 대부분 말이 없지만 눈빛이 모든 것을 말하고, 네 침묵 또한 그렇다. 깊은 갈망이 당신을 사로잡았고, 알려지지 않은 땅이 당신을 불렀습니다. 신이 부르실 때는 이렇게 부르시지만, 얼마나 오랫동안 당신은 바닷가에 서 있을 것인가요? 보세요! 태양이 뜨자 바람들이 배의 돛을 가득 채우려고 서둘러요!"
+  ],
+  "fullAudio": "audio/1969-56/script_all.mp3",
+  "originalText": "Love.\n\nI have received your letter.\nI was very glad indeed to get it, more so since you have\nsent a blank sheet.\nBut I have read in it all that you have not written\nbut wanted to write.\nBesides, what can words say?\nEven after writing,\nwhat you had meant to write remains unwritten.\nSo your silent letter is very lovely.\nAs it is, whenever you come to see me you are mostly\nsilent, but your eyes tell all, and your silence too.\nSome deep thirst has touched you, some unknown shore\nhas called you\nWhenever God calls he calls this way -\nbut how long will you go on standing on the shore?\nLook! The sun is out\nand the winds can't wait to fill the boat's sails!",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 56,
+    "year": 1969,
+    "pages": [
+      {
+        "file": "IMG_0800 2.JPG",
+        "side": "right",
+        "printedPage": 51
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "audioVoice": "Views",
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  }
+}

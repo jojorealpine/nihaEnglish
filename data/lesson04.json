@@ -272,7 +272,16 @@
       ],
       "chunkAudio": [
         "audio/1962-04/chunks-views/01-01.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "respects",
+          "meaning": "존경의 인사",
+          "note": "안부나 존경을 전하는 인사에서는 복수형 respects를 씁니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 2,
@@ -288,7 +297,41 @@
       "chunkAudio": [
         "audio/1962-04/chunks-views/02-01.mp3",
         "audio/1962-04/chunks-views/02-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "affectionate",
+          "meaning": "애정 어린, 다정한",
+          "note": "affectionate letter: 따뜻한 마음이 담긴 편지"
+        },
+        {
+          "word": "grateful",
+          "meaning": "감사하는",
+          "note": "be grateful for: ~에 감사하다"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "be grateful for",
+          "meaning": "~에 감사하다",
+          "grammar": "be + 형용사 + for + 명사",
+          "title": "be grateful for",
+          "detailMeaning": "~에 감사하다",
+          "original": "I am grateful for your affectionate letter.",
+          "explanation": "감사한 대상을 `for` 뒤에 붙여요. `grateful to + 사람`을 쓰면 누구에게 감사한지도 말할 수 있어요.",
+          "examples": [
+            {
+              "english": "I am grateful for your kindness.",
+              "korean": "너의 친절에 감사해."
+            },
+            {
+              "english": "She is grateful to her friends for their support.",
+              "korean": "그녀는 지지해 준 친구들에게 감사하고 있어."
+            }
+          ]
+        }
+      ],
+      "studyStatus": "curated"
     },
     {
       "id": 3,
@@ -304,7 +347,16 @@
       "chunkAudio": [
         "audio/1962-04/chunks-views/03-01.mp3",
         "audio/1962-04/chunks-views/03-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "meditating",
+          "meaning": "명상하고 있는",
+          "note": "meditate의 -ing형으로, are meditating은 현재진행형입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 4,
@@ -322,7 +374,16 @@
         "audio/1962-04/chunks-views/04-01.mp3",
         "audio/1962-04/chunks-views/04-02.mp3",
         "audio/1962-04/chunks-views/04-03.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "achieving",
+          "meaning": "성취하기",
+          "note": "of 뒤에서 명사 역할을 하는 동명사입니다. 명상에서 무언가를 얻으려는 태도를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 5,
@@ -336,7 +397,16 @@
       ],
       "chunkAudio": [
         "audio/1962-04/chunks-views/05-01.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "naturally",
+          "meaning": "자연스럽게",
+          "note": "억지로 애쓰지 않는 방식을 나타내는 부사입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 6,
@@ -352,7 +422,36 @@
       "chunkAudio": [
         "audio/1962-04/chunks-views/06-01.mp3",
         "audio/1962-04/chunks-views/06-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "happens",
+          "meaning": "일어난다",
+          "note": "happen은 일이 발생한다는 뜻이며 일반적으로 목적어를 취하지 않습니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "on its own",
+          "meaning": "저절로, 스스로",
+          "grammar": "on + 소유격 + own",
+          "title": "on its own",
+          "detailMeaning": "저절로, 스스로",
+          "original": "what happens, happens on its own.",
+          "explanation": "`on one’s own`은 혼자서 또는 스스로라는 뜻이에요. 본문의 `its`는 일어나는 일을 가리켜 ‘외부에서 억지로 만들지 않아도’라는 느낌을 줘요.",
+          "examples": [
+            {
+              "english": "The problem resolved itself on its own.",
+              "korean": "그 문제는 저절로 해결됐어."
+            },
+            {
+              "english": "The door closed on its own.",
+              "korean": "문이 저절로 닫혔어."
+            }
+          ]
+        }
+      ],
+      "studyStatus": "curated"
     },
     {
       "id": 7,
@@ -370,7 +469,36 @@
         "audio/1962-04/chunks-views/07-01.mp3",
         "audio/1962-04/chunks-views/07-02.mp3",
         "audio/1962-04/chunks-views/07-03.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "effortlessly",
+          "meaning": "힘들이지 않고, 애쓰지 않고",
+          "note": "effort에 -less와 -ly가 붙은 부사"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "by itself",
+          "meaning": "저절로, 그것 혼자서",
+          "grammar": "by + 재귀대명사",
+          "title": "by itself",
+          "detailMeaning": "저절로, 그것 혼자서",
+          "original": "everything starts happening by itself.",
+          "explanation": "재귀대명사는 주어에 맞추어 바뀌어요. 본문에서는 모든 일이 스스로 일어난다는 의미로 `on its own`과 비슷하게 사용해요.",
+          "examples": [
+            {
+              "english": "The wound healed by itself.",
+              "korean": "상처가 저절로 아물었어."
+            },
+            {
+              "english": "The machine stopped by itself.",
+              "korean": "기계가 저절로 멈췄어."
+            }
+          ]
+        }
+      ],
+      "studyStatus": "curated"
     },
     {
       "id": 8,
@@ -386,7 +514,36 @@
       "chunkAudio": [
         "audio/1962-04/chunks-views/08-01.mp3",
         "audio/1962-04/chunks-views/08-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "Effort",
+          "meaning": "노력",
+          "note": "여기서는 명상 상태를 억지로 만들어 내려고 애쓰는 태도를 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "lead to + 명사 / -ing",
+          "meaning": "~로 이어지다",
+          "grammar": "동사 + 전치사 to",
+          "title": "lead to + 명사 / -ing",
+          "detailMeaning": "~로 이어지다",
+          "original": "Effort does not lead to meditation,",
+          "explanation": "여기서 `to`는 전치사예요. 따라서 뒤에는 명사나 동명사가 와요. `lead someone to do`와 연결 방식이 달라요.",
+          "examples": [
+            {
+              "english": "Small changes can lead to a better life.",
+              "korean": "작은 변화들이 더 나은 삶으로 이어질 수 있어."
+            },
+            {
+              "english": "Listening carefully leads to understanding others better.",
+              "korean": "주의 깊게 듣는 것은 다른 사람을 더 잘 이해하는 일로 이어져."
+            }
+          ]
+        }
+      ],
+      "studyStatus": "curated"
     },
     {
       "id": 9,
@@ -402,7 +559,16 @@
       "chunkAudio": [
         "audio/1962-04/chunks-views/09-01.mp3",
         "audio/1962-04/chunks-views/09-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "hindrance",
+          "meaning": "방해물, 장애",
+          "note": "어떤 일을 어렵게 하거나 진행을 막는 것"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 10,
@@ -418,7 +584,16 @@
       "chunkAudio": [
         "audio/1962-04/chunks-views/10-01.mp3",
         "audio/1962-04/chunks-views/10-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "tension",
+          "meaning": "긴장",
+          "note": "본문에서는 성취를 위해 애쓰는 마음의 긴장"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 11,
@@ -436,7 +611,21 @@
         "audio/1962-04/chunks-views/11-01.mp3",
         "audio/1962-04/chunks-views/11-02.mp3",
         "audio/1962-04/chunks-views/11-03.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "expectation",
+          "meaning": "기대",
+          "note": "무언가가 일어나기를 바라거나 예상하는 마음"
+        },
+        {
+          "word": "restlessness",
+          "meaning": "마음의 동요, 안절부절못함",
+          "note": "편히 가라앉지 못하는 상태"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 12,
@@ -450,7 +639,16 @@
       ],
       "chunkAudio": [
         "audio/1962-04/chunks-views/12-01.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "tension",
+          "meaning": "긴장",
+          "note": "본문에서는 성취를 위해 애쓰는 마음의 긴장"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 13,
@@ -466,7 +664,36 @@
       "chunkAudio": [
         "audio/1962-04/chunks-views/13-01.mp3",
         "audio/1962-04/chunks-views/13-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "divine",
+          "meaning": "신성한",
+          "note": "a divine peace: 신성한 평화"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "as soon as",
+          "meaning": "~하자마자",
+          "grammar": "시간 접속사 + 주어 + 동사",
+          "title": "as soon as",
+          "detailMeaning": "~하자마자",
+          "original": "As soon as this happens a divine peace sets in.",
+          "explanation": "어떤 일이 일어난 직후 다른 일이 이어짐을 나타내요. 미래의 일도 시간절에는 보통 현재형을 써요.",
+          "examples": [
+            {
+              "english": "I'll call you as soon as I arrive.",
+              "korean": "도착하자마자 전화할게."
+            },
+            {
+              "english": "As soon as I sat down, I felt calmer.",
+              "korean": "앉자마자 마음이 더 차분해졌어."
+            }
+          ]
+        }
+      ],
+      "studyStatus": "curated"
     },
     {
       "id": 14,
@@ -482,7 +709,16 @@
       "chunkAudio": [
         "audio/1962-04/chunks-views/14-01.mp3",
         "audio/1962-04/chunks-views/14-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "feeling",
+          "meaning": "느끼기, 생각하기",
+          "note": "stop 뒤의 -ing는 하던 행동이나 태도를 멈추라는 뜻을 만듭니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 15,
@@ -500,7 +736,36 @@
         "audio/1962-04/chunks-views/15-01.mp3",
         "audio/1962-04/chunks-views/15-02.mp3",
         "audio/1962-04/chunks-views/15-03.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "realize",
+          "meaning": "깨닫다, 알아차리다",
+          "note": "모르고 있던 사실이나 관점을 분명하게 인식한다는 뜻입니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "leave oneself in the hands of",
+          "meaning": "자신을 ~에게 맡기다",
+          "grammar": "leave + 목적어 + 전치사구",
+          "title": "leave oneself in the hands of",
+          "detailMeaning": "자신을 ~에게 맡기다",
+          "original": "I leave myself in the hands of that-which-is.",
+          "explanation": "`in the hands of`는 어떤 존재나 사람의 돌봄·책임 아래 있다는 뜻이에요. 본문에서는 있는 그대로의 존재에 자신을 내맡기는 비유로 사용해요.",
+          "examples": [
+            {
+              "english": "I left the arrangements in her hands.",
+              "korean": "나는 준비를 그녀에게 맡겼어."
+            },
+            {
+              "english": "You can leave the details in my hands.",
+              "korean": "세부적인 일은 내게 맡겨도 돼."
+            }
+          ]
+        }
+      ],
+      "studyStatus": "curated"
     },
     {
       "id": 16,
@@ -514,7 +779,16 @@
       ],
       "chunkAudio": [
         "audio/1962-04/chunks-views/16-01.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "surrender",
+          "meaning": "내맡기다, 내맡김",
+          "note": "여기서는 통제하려는 마음을 내려놓는 명상적 비유"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 17,
@@ -528,7 +802,16 @@
       ],
       "chunkAudio": [
         "audio/1962-04/chunks-views/17-01.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "surrender",
+          "meaning": "내맡기다, 내맡김",
+          "note": "여기서는 통제하려는 마음을 내려놓는 명상적 비유"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 18,
@@ -544,7 +827,36 @@
       "chunkAudio": [
         "audio/1962-04/chunks-views/18-01.mp3",
         "audio/1962-04/chunks-views/18-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "emptiness",
+          "meaning": "비어 있음, 공허함",
+          "note": "본문에서는 생각이나 의도에 붙잡히지 않는 비어 있는 상태"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "as soon as",
+          "meaning": "~하자마자",
+          "grammar": "시간 접속사 + 주어 + 동사",
+          "title": "as soon as",
+          "detailMeaning": "~하자마자",
+          "original": "As soon as this happens a divine peace sets in.",
+          "explanation": "어떤 일이 일어난 직후 다른 일이 이어짐을 나타내요. 미래의 일도 시간절에는 보통 현재형을 써요.",
+          "examples": [
+            {
+              "english": "I'll call you as soon as I arrive.",
+              "korean": "도착하자마자 전화할게."
+            },
+            {
+              "english": "As soon as I sat down, I felt calmer.",
+              "korean": "앉자마자 마음이 더 차분해졌어."
+            }
+          ]
+        }
+      ],
+      "studyStatus": "curated"
     },
     {
       "id": 19,
@@ -562,7 +874,16 @@
         "audio/1962-04/chunks-views/19-01.mp3",
         "audio/1962-04/chunks-views/19-02.mp3",
         "audio/1962-04/chunks-views/19-03.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "relaxed",
+          "meaning": "이완된, 편안한",
+          "note": "긴장이 풀린 상태를 나타내는 형용사입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 20,
@@ -578,7 +899,16 @@
       "chunkAudio": [
         "audio/1962-04/chunks-views/20-01.mp3",
         "audio/1962-04/chunks-views/20-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "mind",
+          "meaning": "마음",
+          "note": "이 문맥에서는 생각과 심리적 긴장이 일어나는 영역을 뜻합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 21,
@@ -596,7 +926,16 @@
         "audio/1962-04/chunks-views/21-01.mp3",
         "audio/1962-04/chunks-views/21-02.mp3",
         "audio/1962-04/chunks-views/21-03.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "indescribable",
+          "meaning": "말로 표현할 수 없는",
+          "note": "in- + describable: 설명하기 어려운 경험을 나타내는 형용사"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 22,
@@ -614,7 +953,16 @@
         "audio/1962-04/chunks-views/22-01.mp3",
         "audio/1962-04/chunks-views/22-02.mp3",
         "audio/1962-04/chunks-views/22-03.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "both",
+          "meaning": "두 사람 모두",
+          "note": "you both는 편지를 받는 두 사람을 함께 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 23,
@@ -630,7 +978,16 @@
       "chunkAudio": [
         "audio/1962-04/chunks-views/23-01.mp3",
         "audio/1962-04/chunks-views/23-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "purpose",
+          "meaning": "목적, 의도",
+          "note": "without purpose: 특정 성취를 목표로 삼지 않고"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 24,
@@ -646,7 +1003,16 @@
       "chunkAudio": [
         "audio/1962-04/chunks-views/24-01.mp3",
         "audio/1962-04/chunks-views/24-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "Soon",
+          "meaning": "곧, 머지않아",
+          "note": "가까운 미래에 일이 일어날 것임을 나타내는 부사입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 25,
@@ -664,7 +1030,36 @@
         "audio/1962-04/chunks-views/25-01.mp3",
         "audio/1962-04/chunks-views/25-02.mp3",
         "audio/1962-04/chunks-views/25-03.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "quietly",
+          "meaning": "조용히, 차분히",
+          "note": "행동을 하는 방식이나 태도를 나타냅니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "go on with",
+          "meaning": "~을 계속하다",
+          "grammar": "go on + with + 명사",
+          "title": "go on with",
+          "detailMeaning": "~을 계속하다",
+          "original": "go on quietly with what I have told you to do.",
+          "explanation": "`go on with + 명사`는 하던 일을 계속한다는 뜻이에요. `go on -ing`도 계속되는 행동을 표현할 때 사용할 수 있어요.",
+          "examples": [
+            {
+              "english": "Please go on with your story.",
+              "korean": "이야기를 계속해 주세요."
+            },
+            {
+              "english": "We went on practicing quietly.",
+              "korean": "우리는 조용히 연습을 계속했어."
+            }
+          ]
+        }
+      ],
+      "studyStatus": "curated"
     },
     {
       "id": 26,
@@ -678,7 +1073,16 @@
       ],
       "chunkAudio": [
         "audio/1962-04/chunks-views/26-01.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "respects",
+          "meaning": "존경의 인사",
+          "note": "My respects to all은 모든 분께 존경의 인사를 전한다는 말입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     },
     {
       "id": 27,
@@ -694,7 +1098,36 @@
       "chunkAudio": [
         "audio/1962-04/chunks-views/27-01.mp3",
         "audio/1962-04/chunks-views/27-02.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "whenever",
+          "meaning": "~할 때마다, 언제든 ~할 때",
+          "note": "특정한 때로 제한하지 않고 원하는 때를 나타냅니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "whenever you feel like it",
+          "meaning": "그렇게 하고 싶을 때면 언제든지",
+          "grammar": "whenever절 + feel like + 명사",
+          "title": "whenever you feel like it",
+          "detailMeaning": "그렇게 하고 싶을 때면 언제든지",
+          "original": "Write whenever you feel like it.",
+          "explanation": "`whenever`는 언제든 그럴 때마다라는 뜻이에요. `it`은 앞에서 말한 행동을 가리키며, 동사를 직접 붙이면 `feel like writing`처럼 -ing를 써요.",
+          "examples": [
+            {
+              "english": "Call me whenever you feel like it.",
+              "korean": "전화하고 싶을 때 언제든 전화해."
+            },
+            {
+              "english": "I feel like taking a short walk.",
+              "korean": "잠깐 산책하고 싶어."
+            }
+          ]
+        }
+      ],
+      "studyStatus": "curated"
     },
     {
       "id": 28,
@@ -708,7 +1141,16 @@
       ],
       "chunkAudio": [
         "audio/1962-04/chunks-views/28-01.mp3"
-      ]
+      ],
+      "vocabulary": [
+        {
+          "word": "bliss",
+          "meaning": "더없는 행복, 지복",
+          "note": "일상의 즐거움보다 깊고 충만한 행복을 뜻합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "curated"
     }
   ],
   "translations": [

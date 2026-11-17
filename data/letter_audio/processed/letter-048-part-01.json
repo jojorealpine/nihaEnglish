@@ -1,0 +1,79 @@
+{
+  "key": "letter-048-part-01",
+  "number": 48,
+  "generationId": "01a1e4f0-df48-7546-addb-cf2c6d0a5cce",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1968-48/01.mp3",
+      "start": 0.0,
+      "end": 0.677551
+    },
+    {
+      "index": 1,
+      "text": "I have your letter and your question.",
+      "path": "audio/1968-48/02.mp3",
+      "start": 2.095329,
+      "end": 4.482789
+    },
+    {
+      "index": 2,
+      "text": "Wherever I is there is a barrier; In fact, the I-attitude is the one and only barrier, so sleeping, waking, sitting, walking - always be aware of it; see it, recognize it and remember it wherever and whenever it comes, for recognition spells its death.",
+      "path": "audio/1968-48/03.mp3",
+      "start": 5.871224,
+      "end": 23.717619000000003
+    },
+    {
+      "index": 3,
+      "text": "It is not the truth but just a dream, and as soon as one becomes aware of dreaming the dream vanishes.",
+      "path": "audio/1968-48/04.mp3",
+      "start": 25.143763999999997,
+      "end": 31.567846
+    },
+    {
+      "index": 4,
+      "text": "Dreams cannot be renounced - how can you give up that which is not?",
+      "path": "audio/1968-48/05.mp3",
+      "start": 32.89068,
+      "end": 36.837052
+    },
+    {
+      "index": 5,
+      "text": "To be aware of it is enough.",
+      "path": "audio/1968-48/06.mp3",
+      "start": 38.140862000000006,
+      "end": 39.787845999999995
+    },
+    {
+      "index": 6,
+      "text": "Ego is man's dream, his sleep, so those who try to renounce it fall into yet another illusion.",
+      "path": "audio/1968-48/07.mp3",
+      "start": 41.245828,
+      "end": 47.701722999999994
+    },
+    {
+      "index": 7,
+      "text": "Their humility, their egolessness are simply more dreams - like dreaming you are waking whilst still dreaming.",
+      "path": "audio/1968-48/08.mp3",
+      "start": 49.175102,
+      "end": 56.420952
+    },
+    {
+      "index": 8,
+      "text": "Don't fall into this trap.",
+      "path": "audio/1968-48/09.mp3",
+      "start": 57.922676,
+      "end": 59.839999999999996
+    },
+    {
+      "index": 9,
+      "text": "Just keep in mind one thing: Wake up and see!",
+      "path": "audio/1968-48/10.mp3",
+      "start": 61.31356,
+      "end": 65.15
+    }
+  ]
+}

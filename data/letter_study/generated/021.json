@@ -1,0 +1,216 @@
+{
+  "sourceHash": "5d49e8ab14415563f555b39aa42da28d9687c2ab8165e057f37e963e3eb4e2ba",
+  "sentences": {
+    "1": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "nominal-fragment",
+      "notes": {
+        "korean": "사랑하는 사람아!",
+        "explanation": "이 문장은 누군가를 매우 사랑하거나 소중히 여기는 마음을 표현하며, 주로 친밀하거나 애정 어린 상황에서 사용됩니다.",
+        "grammar": "명사 「Beloved」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+        "vocabulary": [
+          {
+            "word": "Beloved",
+            "meaning": "사랑하는 사람",
+            "note": "이 단어는 깊은 애정이나 존경을 표현하며, 주로 편지나 시에서 사용되는 로맨틱하거나 친밀한 용어입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "nominal-fragment",
+      "notes": {
+        "korean": "이런 사랑과 헌신이라니!",
+        "explanation": "문장은 강한 감정적인 반응을 나타내며, 누군가의 사랑과 헌신의 깊이와 진정성을 강조하고 있다.",
+        "grammar": "명사 「love」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+        "vocabulary": [
+          {
+            "word": "love",
+            "meaning": "사랑",
+            "note": "깊은 애정이나 애정 어린 감정을 표현하며, 이 문맥에서는 헌신과 함께 강한 정서적 연결을 나타낸다."
+          },
+          {
+            "word": "devotion",
+            "meaning": "헌신",
+            "note": "특정 대상이나 사람에 대한 깊은 충성심과 전념을 의미하며, 이 문장에서는 사랑과 함께 순수하고 강한 감정을 강조한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "당신의 편지와 사진이 왔어요.",
+        "explanation": "편지와 함께 사진도 수신자에게 도착했다는 의미입니다.",
+        "grammar": "동사 「came」는 come의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "letter",
+            "meaning": "편지",
+            "note": "개인적인 메시지나 정보를 전달하기 위해 작성된 서면."
+          },
+          {
+            "word": "photo",
+            "meaning": "사진",
+            "note": "특정 순간이나 사람을 포착한 시각적 표현."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "wish",
+      "notes": {
+        "korean": "신이 이 순수한 무지함이 자라도록 도와주시기를 바랍니다!",
+        "explanation": "기도를 통해 신의 도움을 청하여 순수함과 무지함이 성장하길 바라는 간절한 소망을 표현하고 있습니다.",
+        "grammar": "문두의 「May」 뒤에 주어와 동사원형을 이어 기원이나 바람을 나타내는 형태로 읽습니다. 일반적인 평서문과 달리 조동사가 주어 앞에 옵니다.",
+        "vocabulary": [
+          {
+            "word": "simple",
+            "meaning": "순수한",
+            "note": "여기서는 무지함과 결합되어 있어, 복잡함이 없는 순수한 상태를 의미합니다."
+          },
+          {
+            "word": "innocence",
+            "meaning": "무지함",
+            "note": "순수함과 함께 사용되어, 경험이나 세상의 복잡함에 대한 무지를 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "사진 속에 정말 단순하고 순수해 보여요!",
+        "explanation": "사진 속 인물의 외모나 모습이 매우 단순하고 순수한 인상을 준다는 의미입니다.",
+        "grammar": "동사 「look」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "simple",
+            "meaning": "단순한",
+            "note": "여기서는 사진 속 인물의 외모나 모습이 복잡하지 않고 간결하다는 뜻입니다."
+          },
+          {
+            "word": "innocent",
+            "meaning": "순수한",
+            "note": "인물이 순진무구하고 오염되지 않은 모습을 표현합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "오늘 당신의 사진을 보니 이 이야기가 떠올랐어요.",
+        "explanation": "사진을 보는 행위를 통해 과거의 특정 이야기를 회상하게 되었다는 의미입니다.",
+        "grammar": "동사 「remembered」는 remember의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "Looking",
+            "meaning": "보는",
+            "note": "이 문맥에서는 사진을 바라보는 행동을 나타냅니다."
+          },
+          {
+            "word": "remembered",
+            "meaning": "기억나다",
+            "note": "과거에 있었던 사건이나 이야기를 떠올리게 되었다는 의미입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "두 천 년 전에 누군가 그리스도에게 물었다: 하늘 나라에 들어갈 수 있는 사람은 누구인가?",
+        "explanation": "과거에 누군가가 그리스도에게 하늘 나라에 진입할 수 있는 자격에 대해 질문했다는 내용입니다.",
+        "grammar": "동사 「asked」는 ask의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "years",
+            "meaning": "년",
+            "note": "시간의 흐름을 나타내며, 이 문맥에서는 과거의 시기를 지칭합니다."
+          },
+          {
+            "word": "kingdom",
+            "meaning": "나라",
+            "note": "특히 여기서는 영적 의미의 하늘 나라를 가리키며, 구원과 관련된 신성한 영역을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "예수께서 작은 아이를 가리키며 말씀하셨다: 마음이 아이처럼 순수한 사람들입니다.",
+        "explanation": "예수는 천국에 들어갈 수 있는 사람들의 특징을 설명하며, 순수함을 가진 마음을 강조한다.",
+        "grammar": "동사 「pointed」는 point의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "pointed",
+            "meaning": "가리키다",
+            "note": "예수가 아이를 통해 특정 상태나 특징을 나타내는 동작을 설명한다."
+          },
+          {
+            "word": "innocent",
+            "meaning": "순수한",
+            "note": "천국에 들어가기 위한 조건 중 하나로, 어린아이의 순수함을 비유적으로 사용한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "사랑으로 정화된 마음은 성전이 되고, 네 사진에서 이를 분명히 볼 수 있어.",
+        "explanation": "사랑을 통해 정화된 마음이 신성한 장소인 성전과 같은 상태가 되며, 이 상태가 사진을 통해 명확하게 드러난다는 의미입니다.",
+        "grammar": "동사 「turns」는 turn의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "purified",
+            "meaning": "정화된",
+            "note": "여기서는 마음이 부정적인 감정이나 생각에서 벗어나 순수해진 상태를 의미합니다."
+          },
+          {
+            "word": "clearly",
+            "meaning": "분명히",
+            "note": "마음의 변화나 상태가 시각적으로 또는 직관적으로 잘 드러난다는 뉘앙스를 담고 있습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

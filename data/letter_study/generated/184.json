@@ -1,0 +1,385 @@
+{
+  "sourceHash": "474e1e0c84d8025622f1cc3cae21aae33d01425847ec9ca67010cc05f502a910",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "have-to",
+      "notes": {
+        "korean": "여정을 떠나야 합니다.",
+        "explanation": "여정을 시작하거나 계속해야 한다는 의미입니다.",
+        "grammar": "「has to go」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "journey",
+            "meaning": "여정",
+            "note": "여행이나 수행과 같은 목표를 향한 길을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "대안이 없다",
+        "explanation": "선택지나 다른 방법이 존재하지 않음을 나타냄",
+        "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "alternative",
+            "meaning": "대안",
+            "note": "이 문맥에서는 「대안」의 뜻으로 읽습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "12": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "망설이지 말고 시작하라.",
+        "explanation": "주저하지 않고 행동을 시작하라는 의미",
+        "grammar": "「Do not hesitate」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "hesitate",
+            "meaning": "망설이다",
+            "note": "행동을 시작하기 전에 주저하거나 망설이지 말라는 의미를 담고 있음"
+          },
+          {
+            "word": "begin",
+            "meaning": "시작하다",
+            "note": "행동이나 과정을 시작하라는 명령형 표현"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "13": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "뒤를 돌아보지 말고 시작해.",
+        "explanation": "과거를 그리워하거나 되돌아가지 말고 새로운 것을 시작하라는 의미",
+        "grammar": "「Do not look」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "look",
+            "meaning": "보다",
+            "note": "여기서는 과거를 돌아보거나 되돌아가지 말라는 의미로 사용됨"
+          },
+          {
+            "word": "begin",
+            "meaning": "시작하다",
+            "note": "새로운 과정이나 행동을 시작하라는 권유"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "11": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "계산하지 말고 바로 시작하라.",
+        "explanation": "시간을 낭비하지 말고 즉시 행동을 시작하라는 의미",
+        "grammar": "「Do not calculate」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "calculate",
+            "meaning": "계산하다",
+            "note": "여기서는 시간을 세세하게 계산하거나 고민하지 말라는 의미로 사용됨"
+          },
+          {
+            "word": "begin",
+            "meaning": "시작하다",
+            "note": "즉시 행동을 취하라는 강한 권유의 의미를 담고 있음"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "10": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "시간 낭비하지 마세요 - 시작하세요.",
+        "explanation": "시간을 허비하지 말고 즉시 행동을 시작하라는 권유",
+        "grammar": "「do not waste」는 do not + 동사원형으로 만든 부정 명령문입니다. 행동의 주체인 you를 따로 쓰지 않고, 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "waste",
+            "meaning": "낭비하다",
+            "note": "시간이나 기회를 무의미하게 소비하지 말라는 의미"
+          },
+          {
+            "word": "begin",
+            "meaning": "시작하다",
+            "note": "즉시 행동을 취하라는 강한 권유의 의미"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "영혼 깊은 곳에 갈망이 뿌리내려 있다.",
+        "explanation": "영혼 깊은 곳에서 비롯된 강한 갈망이나 욕구를 표현한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "need",
+            "meaning": "필요, 갈망",
+            "note": "여기서는 내면적인 강한 욕구를 나타낸다."
+          },
+          {
+            "word": "deep",
+            "meaning": "깊은",
+            "note": "영혼의 가장 안쪽 부분을 가리키며, 그 갈망의 근원이 얼마나 깊은지를 강조한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "길이 멀고 길이 없는 여정입니다.",
+        "explanation": "여정이 매우 길고 안내되는 길이 없다는 의미입니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "journey",
+            "meaning": "여행, 여정",
+            "note": "이 문맥에서는 긴 여정이나 과정을 의미합니다."
+          },
+          {
+            "word": "pathless",
+            "meaning": "길 없는, 안내되지 않은",
+            "note": "여정이 명확한 경로 없이 진행된다는 것을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "피할 수 없고 피할 길도 없다.",
+        "explanation": "문장의 의미: 어떤 상황이나 의무를 피하거나 벗어나는 것이 불가능하다는 것을 강조한다.",
+        "grammar": "「cannot evade」에서 조동사 can 뒤에 동사원형 「evade」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "escape",
+            "meaning": "피하다",
+            "note": "어떤 상황이나 제약에서 자유로워지거나 벗어나려는 시도를 의미한다."
+          },
+          {
+            "word": "evade",
+            "meaning": "피하다",
+            "note": "주로 부정적인 상황이나 의무를 피하려는 의도를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "16": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "passive",
+      "notes": {
+        "korean": "삼천 리 여정은 한 걸음으로 시작된다.",
+        "explanation": "삼천 리의 긴 여정이 단 한 걸음으로 시작된다는 의미를 담고 있다.",
+        "grammar": "「is begun」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "journey",
+            "meaning": "여정, 여행",
+            "note": "긴 거리를 이동하는 행위를 의미한다."
+          },
+          {
+            "word": "single",
+            "meaning": "단일의, 하나의",
+            "note": "여기서는 '한 걸음'이라는 의미로 사용되어, 전체 여정의 시작이 작은 행동에서 비롯된다는 것을 강조한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "목표는 불가능해 보이지만 그 여정을 떠나고자 하는 충동은 본질적이다.",
+        "explanation": "목표가 달성하기 어려워 보여도 그 여정을 떠나려는 본능적인 욕구는 존재한다는 의미",
+        "grammar": "동사 「seems」는 seem의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "impossible",
+            "meaning": "불가능한",
+            "note": "목표나 상황이 실현 불가능하다는 의미"
+          },
+          {
+            "word": "intrinsic",
+            "meaning": "본질적인",
+            "note": "본질적으로 내재되어 있는, 자연스럽게 존재하는 충동이나 특성을 나타냄"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "15": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "passive",
+      "notes": {
+        "korean": "다층적인 탑은 벽돌 하나씩 쌓아서 짓는다.",
+        "explanation": "다층적인 탑의 건설 과정을 설명하며, 벽돌 하나씩 차례대로 쌓아 올리는 방식을 강조한다.",
+        "grammar": "「is built」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "storied",
+            "meaning": "다층적인, 층수가 많은",
+            "note": "탑이 여러 층으로 이루어져 있다는 의미를 나타냄"
+          },
+          {
+            "word": "placing",
+            "meaning": "놓는 것, 배치하는 것",
+            "note": "벽돌을 차례대로 쌓아 올리는 과정을 설명함"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "14": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "항상 옛 노자의 말을 기억하라: 뿌리가 작을 때부터 감싸이는 나무는 양쪽 팔을 모두 뻗어 자라난다.",
+        "explanation": "노자의 가르침을 항상 기억하고, 그 가르침에 따르면 작은 시작부터 성장해나가는 과정의 중요성을 강조한다.",
+        "grammar": "동사원형 「remember」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "remember",
+            "meaning": "기억하다",
+            "note": "항상 옛 노자의 가르침을 마음속에 간직하고 따르라는 의미"
+          },
+          {
+            "word": "encircled",
+            "meaning": "감싸이다",
+            "note": "나무가 완전히 둘러싸여서 성장하는 상황을 묘사"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "정말, 너는 갈망이며, 너는 필요이고 - 이런 도전과 이런 모험 때문에 의식은 그렇게 될 수밖에 없어.",
+        "explanation": "문장은 개인의 내면적 갈망과 필요성이 그 사람의 의식 형성에 결정적인 역할을 한다는 의미를 전달합니다. 도전과 모험이 이러한 내면의 힘을 더욱 부각시킨다는 맥락입니다.",
+        "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "consciousness",
+            "meaning": "의식",
+            "note": "개인의 인식이나 인식 상태를 의미합니다."
+          },
+          {
+            "word": "challenge",
+            "meaning": "도전",
+            "note": "내면의 갈망이나 필요성이 개인에게 주는 어려움이나 시험을 의미합니다."
+          },
+          {
+            "word": "adventure",
+            "meaning": "모험",
+            "note": "내면의 힘과 변화를 이끄는 과정이나 경험을 비유적으로 표현합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "authored correction",
+      "notes": {
+        "korean": "그리고 혼자여야 합니다. 지도도 안내자도 없습니다.",
+        "explanation": "정해진 길이 없는 여정에서 스스로 나아가야 함을 강조합니다.",
+        "grammar": "「has to be」는 have to + 동사원형으로 필요나 필연성을 나타냅니다. 「there is no ...」는 어떤 것이 없음을 나타내는 존재 구문입니다.",
+        "vocabulary": [
+          {
+            "word": "alone",
+            "meaning": "홀로 있는",
+            "note": "도와줄 안내자 없이 스스로 나아가는 상태를 뜻합니다."
+          },
+          {
+            "word": "map",
+            "meaning": "지도",
+            "note": "여기서는 갈 길과 방법을 미리 알려 주는 안내에 빗댄 말입니다."
+          },
+          {
+            "word": "guide",
+            "meaning": "안내자",
+            "note": "길을 알려 주거나 이끌어 주는 사람을 뜻합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "review": "manual; surrounding sentences checked"
+    }
+  }
+}

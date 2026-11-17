@@ -1,0 +1,171 @@
+{
+  "sourceHash": "d76bf94daea018a75ba199f522074872e64108b81d1fc64cdf1c1bd1897adf72",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "나머지 여섯 명은 시각장애인이었습니다.",
+        "explanation": "문장은 전체 여성 중 극히 소수인 여섯 명이 시각장애인임을 나타냅니다.",
+        "grammar": "「were」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "blind",
+            "meaning": "시각장애인",
+            "note": "시각을 잃은 사람을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "그것과 싸우면 오히려 더 많이 끌어들이게 된다.",
+        "explanation": "생각과 맞서 싸우면 그 생각이 더욱 강해지거나 자주 나타나게 된다는 의미",
+        "grammar": "동사원형 「Fight」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "Fight",
+            "meaning": "싸우다",
+            "note": "여기서는 내면의 갈등이나 생각과의 대립을 의미한다."
+          },
+          {
+            "word": "invite",
+            "meaning": "초청하다",
+            "note": "내면의 생각이나 감정을 더욱 자주 나타나게 만드는 결과를 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "억누르면, 두 배의 힘으로 다시 돌아올 것이다.",
+        "explanation": "억압하거나 억누르면 문제나 감정이 더 강해져서 다시 나타날 것이라는 의미입니다.",
+        "grammar": "동사원형 「Suppress」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "Suppress",
+            "meaning": "억압하다",
+            "note": "어떤 감정이나 상황을 억누르거나 억제하려는 행동을 의미합니다."
+          },
+          {
+            "word": "force",
+            "meaning": "힘",
+            "note": "여기서는 감정이나 문제의 강도나 영향력을 나타내며, '두 배의 힘'으로 다시 돌아온다는 의미입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "어떤 생각도 억누르거나 맞서지 마세요. 그렇지 않으면 그 생각에서 벗어날 수 없습니다.",
+        "explanation": "생각을 억누르거나 저항하면 그 생각과 계속해서 함께하게 된다는 의미입니다.",
+        "grammar": "「Never suppress」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "suppress",
+            "meaning": "억누르다",
+            "note": "어떤 생각이나 감정을 억누르거나 억누르려는 행동을 의미합니다."
+          },
+          {
+            "word": "thought",
+            "meaning": "생각",
+            "note": "개인의 마음 속에서 일어나는 사고나 관념을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "perfect",
+      "notes": {
+        "korean": "여성들을 위한 것이라고 광고했지만 제목은 '남성 전용'이었다는 이야기를 들었어요.",
+        "explanation": "광고 내용이 모순적이었다는 의미를 전달합니다.",
+        "grammar": "「have heard」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "advertised",
+            "meaning": "광고하다",
+            "note": "특정 제품이나 서비스를 대중에게 알리기 위해 홍보하는 행위를 의미합니다."
+          },
+          {
+            "word": "heading",
+            "meaning": "제목",
+            "note": "광고에서 주요 내용을 요약하거나 강조하는 부분을 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "passive",
+      "notes": {
+        "korean": "그것은 보도되었는데, 그 광고를 접한 여성 9만 명 중 약 8만 9천 9백 94명이 광고를 읽었다고 합니다.",
+        "explanation": "광고에 노출된 여성들 중 상당수가 광고 내용을 읽었다는 보고가 있었습니다.",
+        "grammar": "「is reported」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "reported",
+            "meaning": "보도되었다",
+            "note": "다른 사람들에 의해 전달되거나 알려진 사실을 나타냅니다."
+          },
+          {
+            "word": "women",
+            "meaning": "여성들",
+            "note": "성별이 여성인 사람들을 가리킵니다."
+          },
+          {
+            "word": "advertisement",
+            "meaning": "광고",
+            "note": "상품이나 서비스를 홍보하기 위해 제작된 메시지입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

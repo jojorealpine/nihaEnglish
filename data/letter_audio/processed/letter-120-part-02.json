@@ -1,0 +1,44 @@
+{
+  "key": "letter-120-part-02",
+  "number": 120,
+  "generationId": "01a1e694-192e-75d6-a8e1-5e6962227dfd",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "But man is so busy understanding no one is left to see what is clear, what is obvious, what is there!",
+      "path": "audio/1970-120/11.mp3",
+      "start": 0.0,
+      "end": 5.664263
+    },
+    {
+      "index": 11,
+      "text": "Confusion is the effort to understand.",
+      "path": "audio/1970-120/12.mp3",
+      "start": 7.024717,
+      "end": 9.734807
+    },
+    {
+      "index": 12,
+      "text": "Ignorance is the effort to know.",
+      "path": "audio/1970-120/13.mp3",
+      "start": 11.126145000000001,
+      "end": 13.438277
+    },
+    {
+      "index": 13,
+      "text": "If you don't try to understand or know, nothing can hide itself from you!",
+      "path": "audio/1970-120/14.mp3",
+      "start": 14.848073000000001,
+      "end": 19.33585
+    },
+    {
+      "index": 14,
+      "text": "Truth is always in front of you, naked, clear.",
+      "path": "audio/1970-120/15.mp3",
+      "start": 20.781655,
+      "end": 23.82
+    }
+  ]
+}

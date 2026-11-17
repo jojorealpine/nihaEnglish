@@ -1,0 +1,79 @@
+{
+  "key": "letter-011-part-01",
+  "number": 11,
+  "generationId": "01a1e4e8-debf-705d-b8c2-6fd49bcbaa14",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "My respects to you.",
+      "path": "audio/1963-11/01.mp3",
+      "start": 0.0,
+      "end": 1.104717
+    },
+    {
+      "index": 1,
+      "text": "I received your letter, I was waiting for it.",
+      "path": "audio/1963-11/02.mp3",
+      "start": 2.649229,
+      "end": 5.179252
+    },
+    {
+      "index": 2,
+      "text": "The trip to Rajnagar was blissful",
+      "path": "audio/1963-11/03.mp3",
+      "start": 6.525125,
+      "end": 8.665873
+    },
+    {
+      "index": 3,
+      "text": "Religion robbed of the spirit of yoga has become a matter of morality only, thereby losing its soul.",
+      "path": "audio/1963-11/04.mp3",
+      "start": 9.954807,
+      "end": 15.932608
+    },
+    {
+      "index": 4,
+      "text": "Morality is negative.",
+      "path": "audio/1963-11/05.mp3",
+      "start": 17.249048,
+      "end": 18.795238
+    },
+    {
+      "index": 5,
+      "text": "Life cannot be based on negation, negation cannot nourish life.",
+      "path": "audio/1963-11/06.mp3",
+      "start": 20.464036,
+      "end": 24.647143
+    },
+    {
+      "index": 6,
+      "text": "The emphasis has to be on attainment not on renunciation.",
+      "path": "audio/1963-11/07.mp3",
+      "start": 25.993945999999998,
+      "end": 29.709841
+    },
+    {
+      "index": 7,
+      "text": "It is not a question of renouncing ignorance but of attaining understanding, it is this that has to be central.",
+      "path": "audio/1963-11/08.mp3",
+      "start": 31.064761999999998,
+      "end": 37.572381
+    },
+    {
+      "index": 8,
+      "text": "Practice has to be positive and this sadhana can happen through yoga.",
+      "path": "audio/1963-11/09.mp3",
+      "start": 38.928866,
+      "end": 43.656076999999996
+    },
+    {
+      "index": 9,
+      "text": "In my talks with Acharya Tulsi, Muni Shri Nathamaljee and others I have stressed this point.",
+      "path": "audio/1963-11/10.mp3",
+      "start": 46.069138,
+      "end": 53.39
+    }
+  ]
+}

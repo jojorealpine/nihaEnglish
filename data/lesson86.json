@@ -1,0 +1,347 @@
+{
+  "id": "1970-86",
+  "title": "1970 / 86",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "man",
+      "meaning": "사람",
+      "note": "일반적으로 남성을 가리키지만, 문맥상 인간 전체를 의미할 수 있음",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "suffer",
+      "meaning": "고통받다",
+      "note": "신체적 고통뿐 아니라 정신적 고통이나 어려움도 포함",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "pandemonium",
+      "meaning": "혼돈, 혼란",
+      "note": "삶의 무질서함이나 혼란스러운 상태를 의미한다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "soundless",
+      "meaning": "조용한",
+      "note": "음악이 조용하고 평온한 상태를 나타낸다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thoughts",
+      "meaning": "생각들",
+      "note": "개인의 머릿속에서 떠오르는 다양한 생각이나 아이디어를 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "emptiness",
+      "meaning": "고요함, 공허함",
+      "note": "정신적 또는 내면적인 고요함이나 평온함을 나타냅니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "turmoil",
+      "meaning": "혼란, 혼란스러운 상태",
+      "note": "여기서는 내면의 감정들이 복잡하게 얽혀 있어 평온하지 않은 상태를 나타냅니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "equanimity",
+      "meaning": "평온, 균형",
+      "note": "평온함이나 감정적 균형을 의미하며, 이 문장에서는 그러한 상태가 부재함을 강조합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "stillness",
+      "meaning": "고요함",
+      "note": "내면의 평온함이나 조용한 상태를 의미한다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "directions",
+      "meaning": "방향",
+      "note": "정신적 또는 내면적 안정의 부재를 상징적으로 표현하며, 내면의 혼란이나 방향성 없는 상태를 나타낸다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "finally",
+      "meaning": "마지막으로",
+      "note": "문장의 결론이나 마지막 요점을 나타냄",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "life",
+      "meaning": "삶",
+      "note": "개인의 경험이나 존재 상태를 지칭",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-86/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Why does man suffer so much?",
+      "korean": "사람은 왜 그렇게 고통받는 걸까?",
+      "explanation": "인간이 왜 많은 고통을 겪는지에 대한 질문",
+      "grammar": "조동사 「does」가 본동사 「suffer」와 함께 쓰였습니다. 의문문을 만들거나 동작을 강조할 때 do/does/did 뒤의 본동사는 원형을 유지합니다.",
+      "audio": "audio/1970-86/02.mp3",
+      "vocabulary": [
+        {
+          "word": "man",
+          "meaning": "사람",
+          "note": "일반적으로 남성을 가리키지만, 문맥상 인간 전체를 의미할 수 있음"
+        },
+        {
+          "word": "suffer",
+          "meaning": "고통받다",
+          "note": "신체적 고통뿐 아니라 정신적 고통이나 어려움도 포함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Because in his life there is pandemonium but no soundless music.",
+      "korean": "인간의 삶에는 혼돈만 있고 조용한 음악은 없기 때문이다.",
+      "explanation": "인간 삶의 혼돈과 조용한 평온함의 부재를 통해 고통의 원인을 설명한다.",
+      "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1970-86/03.mp3",
+      "vocabulary": [
+        {
+          "word": "pandemonium",
+          "meaning": "혼돈, 혼란",
+          "note": "삶의 무질서함이나 혼란스러운 상태를 의미한다."
+        },
+        {
+          "word": "soundless",
+          "meaning": "조용한",
+          "note": "음악이 조용하고 평온한 상태를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Because in his life there is a babble of thoughts but no emptiness.",
+      "korean": "그의 삶에는 생각들의 시끄러운 소리가 있지만 고요함은 없다.",
+      "explanation": "그의 삶은 혼란스러운 생각들로 가득 차 있지만 평온함이나 고요함은 찾아볼 수 없다는 의미입니다.",
+      "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1970-86/04.mp3",
+      "vocabulary": [
+        {
+          "word": "thoughts",
+          "meaning": "생각들",
+          "note": "개인의 머릿속에서 떠오르는 다양한 생각이나 아이디어를 의미합니다."
+        },
+        {
+          "word": "emptiness",
+          "meaning": "고요함, 공허함",
+          "note": "정신적 또는 내면적인 고요함이나 평온함을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Because in his life there is a turmoil of feeling but no equanimity.",
+      "korean": "그의 삶에는 혼란스러운 감정들이 가득하지만 평온함은 없다.",
+      "explanation": "그의 내면 세계는 다양한 감정들로 가득 차 있지만, 그 감정들 사이에서 균형을 이루는 평온함은 찾아볼 수 없다는 의미입니다.",
+      "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1970-86/05.mp3",
+      "vocabulary": [
+        {
+          "word": "turmoil",
+          "meaning": "혼란, 혼란스러운 상태",
+          "note": "여기서는 내면의 감정들이 복잡하게 얽혀 있어 평온하지 않은 상태를 나타냅니다."
+        },
+        {
+          "word": "equanimity",
+          "meaning": "평온, 균형",
+          "note": "평온함이나 감정적 균형을 의미하며, 이 문장에서는 그러한 상태가 부재함을 강조합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Because in his life there is a mad rushing around but no stillness which knows no directions.",
+      "korean": "그의 삶에는 방향 없는 고요함을 모르는 혼란스러운 움직임만이 존재한다.",
+      "explanation": "문장은 개인의 삶이 감정적 혼란으로 가득 차 있지만 평온함이나 내면의 고요함이 결여되어 있다는 의미를 전달한다.",
+      "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1970-86/06.mp3",
+      "vocabulary": [
+        {
+          "word": "stillness",
+          "meaning": "고요함",
+          "note": "내면의 평온함이나 조용한 상태를 의미한다."
+        },
+        {
+          "word": "directions",
+          "meaning": "방향",
+          "note": "정신적 또는 내면적 안정의 부재를 상징적으로 표현하며, 내면의 혼란이나 방향성 없는 상태를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "And finally, because in his life there is much of himself but of God, nothing at all.",
+      "korean": "마지막으로, 그의 삶에는 자신의 모습이 많이 드러나지만 신은 전혀 없으니 아무것도 없다.",
+      "explanation": "문장은 개인의 삶에서 자아의 표현이 강조되지만 신성한 요소나 내면의 평온함이 결여되어 있다는 의미를 전달한다.",
+      "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1970-86/07.mp3",
+      "vocabulary": [
+        {
+          "word": "finally",
+          "meaning": "마지막으로",
+          "note": "문장의 결론이나 마지막 요점을 나타냄"
+        },
+        {
+          "word": "life",
+          "meaning": "삶",
+          "note": "개인의 경험이나 존재 상태를 지칭"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "사람은 왜 그렇게 고통받는 걸까? 인간의 삶에는 혼돈만 있고 조용한 음악은 없기 때문이다. 그의 삶에는 생각들의 시끄러운 소리가 있지만 고요함은 없다. 그의 삶에는 혼란스러운 감정들이 가득하지만 평온함은 없다. 그의 삶에는 방향 없는 고요함을 모르는 혼란스러운 움직임만이 존재한다. 마지막으로, 그의 삶에는 자신의 모습이 많이 드러나지만 신은 전혀 없으니 아무것도 없다."
+  ],
+  "fullAudio": "audio/1970-86/script_all.mp3",
+  "originalText": "Love.\n\nWhy does man suffer so much?\nBecause in his life there is pandemonium\nbut no soundless music.\nBecause in his life there is a babble of thoughts\nbut no emptiness.\nBecause in his life there is a turmoil of feeling\nbut no equanimity.\nBecause in his life there is a mad rushing around\nbut no stillness which knows no directions.\nAnd finally, because in his life there is much of himself\nbut of God, nothing at all.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 86,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0810 2.JPG",
+        "side": "right",
+        "printedPage": 71
+      },
+      {
+        "file": "IMG_0811 2.JPG",
+        "side": "left",
+        "printedPage": 72
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

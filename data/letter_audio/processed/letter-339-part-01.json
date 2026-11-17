@@ -1,0 +1,79 @@
+{
+  "key": "letter-339-part-01",
+  "number": 339,
+  "generationId": "01a1e913-2f51-7535-87d5-da2c4b582475",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love",
+      "path": "audio/1971-339/01.mp3",
+      "start": 0.0,
+      "end": 0.559274
+    },
+    {
+      "index": 1,
+      "text": "Meditation requires understanding and not effort, understanding is essential, not effort, and remember always that you cannot substitute understanding with any effort whatsoever.",
+      "path": "audio/1971-339/02.mp3",
+      "start": 1.7736049999999999,
+      "end": 13.087052
+    },
+    {
+      "index": 2,
+      "text": "But what do I mean by understanding?",
+      "path": "audio/1971-339/03.mp3",
+      "start": 14.476599,
+      "end": 16.549161
+    },
+    {
+      "index": 3,
+      "text": "By understanding I mean - living a natural life.",
+      "path": "audio/1971-339/04.mp3",
+      "start": 17.882652999999998,
+      "end": 21.148027000000003
+    },
+    {
+      "index": 4,
+      "text": "Of course, you cannot try to be natural, that is self-contradictory!",
+      "path": "audio/1971-339/05.mp3",
+      "start": 22.301973,
+      "end": 26.36093
+    },
+    {
+      "index": 5,
+      "text": "You can be natural but you cannot try to be natural.",
+      "path": "audio/1971-339/06.mp3",
+      "start": 27.45873,
+      "end": 30.049524
+    },
+    {
+      "index": 6,
+      "text": "Do you understand this?",
+      "path": "audio/1971-339/07.mp3",
+      "start": 31.131722999999997,
+      "end": 32.259637
+    },
+    {
+      "index": 7,
+      "text": "Suzuki tells a story: A monk once asked one of the old Chinese masters: What is the way?",
+      "path": "audio/1971-339/08.mp3",
+      "start": 33.357914,
+      "end": 39.029500999999996
+    },
+    {
+      "index": 8,
+      "text": "The master replied: The natural one, the ordinary one, is the way How, continued the monk, am I to be in accord with it?",
+      "path": "audio/1971-339/09.mp3",
+      "start": 40.603333,
+      "end": 51.618866
+    },
+    {
+      "index": 9,
+      "text": "When you try to be in accord with it, said the master, then you deviate from it.",
+      "path": "audio/1971-339/10.mp3",
+      "start": 53.204263000000005,
+      "end": 58.46
+    }
+  ]
+}

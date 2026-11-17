@@ -1,0 +1,176 @@
+{
+  "sourceHash": "5dbb46c5e3eebc4eefacd69d6daa133f6869de0d2a3a2fbfb67f0ac9dbd22def",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "믿고 알아라",
+        "explanation": "신앙과 지식의 중요성을 강조하는 간결한 표현",
+        "grammar": "동사원형 「Trust」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "Trust",
+            "meaning": "신뢰",
+            "note": "신앙의 근간이 되는 믿음과 확신을 의미합니다."
+          },
+          {
+            "word": "know",
+            "meaning": "알다",
+            "note": "지식이나 이해를 통해 깊이 있는 인식을 강조합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "reviewed-grammar",
+      "notes": {
+        "korean": "이 신에 대한 신뢰 속에서 축복이 흘러내린다.",
+        "explanation": "신에 대한 신뢰가 깊어질 때, 그 결과로 축복이나 은총이 찾아온다는 의미입니다.",
+        "grammar": "「benediction」이 주어이고 「pours」가 pour의 3인칭 단수 현재형입니다. 앞의 「In this trust in God」는 그 일이 일어나는 배경이나 상태를 나타내는 전치사구입니다.",
+        "vocabulary": [
+          {
+            "word": "trust",
+            "meaning": "신뢰",
+            "note": "신에 대한 믿음과 확신을 의미합니다."
+          },
+          {
+            "word": "benediction",
+            "meaning": "축복",
+            "note": "신의 은총이나 축복을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "감사의 감정이며, 신에 대한 신뢰입니다.",
+        "explanation": "감사의 감정과 신에 대한 신뢰를 표현하는 문장입니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "feeling",
+            "meaning": "감정",
+            "note": "여기서는 감사의 감정을 의미합니다."
+          },
+          {
+            "word": "gratitude",
+            "meaning": "감사",
+            "note": "감사의 감정을 직접적으로 표현합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "불만이 사라지면 기도가 시작된다.",
+        "explanation": "불만이 더 이상 없을 때 기도가 이어진다는 의미",
+        "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "complaining",
+            "meaning": "불만을 표출하다",
+            "note": "어떤 상황이나 대상에 대해 불평하거나 불만을 나타내는 행위를 의미합니다."
+          },
+          {
+            "word": "prayer",
+            "meaning": "기도하다",
+            "note": "신이나 영적인 힘에게 간청하거나 감사의 마음을 표현하는 행위를 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "신뢰하기란 매우 어렵다 - 삶을 그대로 받아들이는 것보다 더 큰 절제는 없다.",
+        "explanation": "삶의 본질을 수용하는 것이 신뢰를 구축하는 데 있어 가장 큰 절제임을 강조하는 문장입니다.",
+        "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "difficult",
+            "meaning": "어려움",
+            "note": "신뢰를 구축하는 과정이 얼마나 힘든지를 나타냅니다."
+          },
+          {
+            "word": "austerity",
+            "meaning": "절제",
+            "note": "극단적인 절제나 자제를 의미하며, 여기서는 삶을 그대로 받아들이는 태도를 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "자아를 포기하면 고통과 슬픔이 사라집니다. 자아는 기본적으로 모든 고통의 원인이기 때문입니다. 모든 것이 신이라는 것을 깨닫는 순간 더 이상 불평할 이유가 없습니다.",
+        "explanation": "자아를 포기함으로써 고통과 슬픔이 사라진다는 의미를 전달합니다. 자아의 본질적인 역할이 고통의 원인임을 강조하고, 신과의 일체감을 통해 불만의 이유가 사라진다는 내용을 담고 있습니다.",
+        "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "surrendered",
+            "meaning": "포기하다",
+            "note": "자아를 통제나 소유에서 벗어나 신이나 더 큰 존재와의 통합을 의미합니다."
+          },
+          {
+            "word": "suffering",
+            "meaning": "고통",
+            "note": "정신적, 육체적 고통을 포함하며, 주로 자아의 작용으로 인한 것으로 설명됩니다."
+          },
+          {
+            "word": "basically",
+            "meaning": "기본적으로",
+            "note": "자아가 고통의 근본 원인임을 강조하는 표현입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

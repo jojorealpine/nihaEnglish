@@ -1,0 +1,47 @@
+{
+  "reason": "Scan-verified OCR corrections before recording unrecorded sentences; originalText retains the OCR archive.",
+  "corrections": [
+    {
+      "lesson": 78,
+      "sentence": 5,
+      "before": "Seel Open your eyes and see!",
+      "after": "See! Open your eyes and see!",
+      "scan": "IMG_0808 2.JPG"
+    },
+    {
+      "lesson": 102,
+      "sentence": 6,
+      "before": "The key to this transcendence- is the witness state Bid goodbye to the doer.",
+      "after": "The key to this transcendence is the witness state. Bid goodbye to the doer.",
+      "scan": "IMG_0815 2.JPG"
+    },
+    {
+      "lesson": 102,
+      "sentence": 7,
+      "before": "Tive in the witness state Watch the drama.",
+      "after": "Live in the witness state. Watch the drama.",
+      "scan": "IMG_0815 2.JPG"
+    },
+    {
+      "lesson": 102,
+      "sentence": 8,
+      "before": "Don't drownin it, rather be drowned un observine Then happiness artd sorrow; birth and death, remain just a, play; they do not affect you they cannot alect you,",
+      "after": "Don't drown in it, rather be drowned in observing. Then happiness and sorrow; birth and death, remain just a play; they do not affect you; they cannot affect you.",
+      "scan": "IMG_0815 2.JPG"
+    },
+    {
+      "lesson": 102,
+      "sentence": 9,
+      "before": "All eíror, all ignorance, comes from identification.",
+      "after": "All error, all ignorance, comes from identification.",
+      "scan": "IMG_0815 2.JPG"
+    },
+    {
+      "lesson": 123,
+      "sentence": 4,
+      "before": "Dance - like the waves on the seal Blossom - like the flowers in spring!",
+      "after": "Dance - like the waves on the sea! Blossom - like the flowers in spring!",
+      "scan": "IMG_0823 2.JPG"
+    }
+  ]
+}

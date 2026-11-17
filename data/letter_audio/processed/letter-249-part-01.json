@@ -1,0 +1,72 @@
+{
+  "key": "letter-249-part-01",
+  "number": 249,
+  "generationId": "01a1e8fa-7e6e-7050-bbea-88aef5c334a0",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-249/01.mp3",
+      "start": 0.0,
+      "end": 0.60932
+    },
+    {
+      "index": 1,
+      "text": "Total acceptance of existence is impossible for the mind because the mind exists as denial.",
+      "path": "audio/1971-249/02.mp3",
+      "start": 1.803016,
+      "end": 7.349728
+    },
+    {
+      "index": 2,
+      "text": "It exists with the no, and with a total yes it dies.",
+      "path": "audio/1971-249/03.mp3",
+      "start": 8.573605,
+      "end": 12.280747999999999
+    },
+    {
+      "index": 3,
+      "text": "So it continues to find reasons to say no even if there are no reasons.",
+      "path": "audio/1971-249/04.mp3",
+      "start": 13.585147000000001,
+      "end": 18.378934
+    },
+    {
+      "index": 4,
+      "text": "Walking with a disciple one day Mulla Nasrudin saw for the first time in his life a beautiful lakeland scene.",
+      "path": "audio/1971-249/05.mp3",
+      "start": 19.704354,
+      "end": 25.960159
+    },
+    {
+      "index": 5,
+      "text": "What a delight! he exclaimed.",
+      "path": "audio/1971-249/06.mp3",
+      "start": 27.212449,
+      "end": 29.253946000000003
+    },
+    {
+      "index": 6,
+      "text": "But if only, if only...",
+      "path": "audio/1971-249/07.mp3",
+      "start": 30.690295,
+      "end": 32.967914
+    },
+    {
+      "index": 7,
+      "text": "If only what, master? asked the disciple.",
+      "path": "audio/1971-249/08.mp3",
+      "start": 34.261746,
+      "end": 37.188753
+    },
+    {
+      "index": 8,
+      "text": "If only they had not put water in it! said the Mulla.",
+      "path": "audio/1971-249/09.mp3",
+      "start": 38.470408,
+      "end": 42.06
+    }
+  ]
+}

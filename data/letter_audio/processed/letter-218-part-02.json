@@ -1,0 +1,16 @@
+{
+  "key": "letter-218-part-02",
+  "number": 218,
+  "generationId": "01a1e8f2-7260-7bca-a3ea-709ad515e40b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Life is not something fixed and finished, life is living what is, a process, just riverlike, flowing always into the unknown, from the shores of the known to the shores of the unknown.",
+      "path": "audio/1971-218/11.mp3",
+      "start": 0.0,
+      "end": 13.14
+    }
+  ]
+}

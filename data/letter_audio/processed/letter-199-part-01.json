@@ -1,0 +1,58 @@
+{
+  "key": "letter-199-part-01",
+  "number": 199,
+  "generationId": "01a1e8ec-53f3-7951-ac90-d90de4010cab",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-199/01.mp3",
+      "start": 0.0,
+      "end": 0.668912
+    },
+    {
+      "index": 1,
+      "text": "There is conflict in the mind - always, because the mind cannot exist without the conflict.",
+      "path": "audio/1971-199/02.mp3",
+      "start": 2.063039,
+      "end": 7.729932
+    },
+    {
+      "index": 2,
+      "text": "It gets strengthened through conflict; even warring against conflict is conflict and struggling to go beyond the mind is mind.",
+      "path": "audio/1971-199/03.mp3",
+      "start": 9.198957,
+      "end": 17.64966
+    },
+    {
+      "index": 3,
+      "text": "See this deeply and immediately without motive, just as if you have come across a snake in the street - and the jump.",
+      "path": "audio/1971-199/04.mp3",
+      "start": 18.972313,
+      "end": 25.721701
+    },
+    {
+      "index": 4,
+      "text": "Then it is not that you jump but - the jump.",
+      "path": "audio/1971-199/05.mp3",
+      "start": 26.970771,
+      "end": 30.237302
+    },
+    {
+      "index": 5,
+      "text": "The jump happens spontaneously, without effort and without conflict.",
+      "path": "audio/1971-199/06.mp3",
+      "start": 31.589592,
+      "end": 36.021066
+    },
+    {
+      "index": 6,
+      "text": "When this happens there is no-mind and no-mind is the door to the divine.",
+      "path": "audio/1971-199/07.mp3",
+      "start": 37.396168,
+      "end": 42.29
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+{
+  "id": "1971-340",
+  "title": "1971 / 340",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "blessings",
+      "meaning": "축복, 행복과 평안을 비는 마음",
+      "note": "blessing의 복수형으로, 여기서는 상대에게 전하는 좋은 소망을 뜻합니다.",
+      "sentenceIds": [
+        1,
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "received",
+      "meaning": "받았다",
+      "note": "receive의 규칙 과거형입니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "letter",
+      "meaning": "편지",
+      "note": "여기서는 알파벳의 글자가 아니라 주고받는 편지를 뜻합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "waiting",
+      "meaning": "기다리다",
+      "note": "편지 도착을 기대하며 지속적으로 기다린 상태를 나타냄",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "daily",
+      "meaning": "매일",
+      "note": "매일 반복적으로 기다렸음을 강조",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "know",
+      "meaning": "알다",
+      "note": "상황 인식과 확신을 나타냄",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "nearness",
+      "meaning": "가까움",
+      "note": "물리적 거리보다는 정신적 가까움을 강조",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "counts",
+      "meaning": "중요하다",
+      "note": "정신적 가까움의 가치를 강조",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "spatial",
+      "meaning": "공간적인",
+      "note": "물리적인 위치나 거리를 의미한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "temporal",
+      "meaning": "시간적인",
+      "note": "시간의 흐름이나 기간을 의미한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meeting",
+      "meaning": "모임, 만남",
+      "note": "여기서는 추상적인 개념의 만남을 의미한다.",
+      "sentenceIds": [
+        6,
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "taken",
+      "meaning": "발생하다, 이루어지다",
+      "note": "이 문맥에서는 만남이 일어났음을 나타낸다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "takes",
+      "meaning": "이루어진다",
+      "note": "특정 방식이나 조건 하에서 이루어진다는 의미를 담고 있다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "illusion",
+      "meaning": "환상",
+      "note": "현실처럼 보이지만 실제로는 존재하지 않거나 진실과 다른 것을 의미함",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Remember",
+      "meaning": "기억하다",
+      "note": "특정 상황이나 사람을 마음속에 간직하거나 떠올리는 것을 의미함",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "need",
+      "meaning": "필요",
+      "note": "어떤 상황이나 도움이 필요한 순간을 가리킴",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Ask",
+      "meaning": "물어보다",
+      "note": "직접적인 질문 행위를 나타냄",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "anything",
+      "meaning": "무엇이든",
+      "note": "제한이나 범위가 없는 광범위한 질문 가능성을 나타냄",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "wait",
+      "meaning": "기다리다",
+      "note": "결과나 답변을 기대하며 시간을 보내는 상태를 나타냄",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "barriers",
+      "meaning": "장벽",
+      "note": "마음속의 제약이나 방해 요소를 의미합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meditative",
+      "meaning": "명상적인",
+      "note": "깊은 집중과 평온함을 동반하는 상태를 가리킵니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "doors",
+      "meaning": "문",
+      "note": "여기서는 상징적으로 신성한 영역이나 상태로의 진입 경로를 의미합니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "divine",
+      "meaning": "신성한",
+      "note": "신성한 힘, 영역, 또는 상태를 가리킵니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "hesitate",
+      "meaning": "망설이다",
+      "note": "행동을 주저하거나 멈추는 것을 의미합니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "plunge",
+      "meaning": "뛰어들다",
+      "note": "과감하게 어떤 행동에 착수하거나 뛰어들라는 의미입니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "completely",
+      "meaning": "완전히",
+      "note": "전체적인 준비 상태를 나타내며, 부족함이나 미심쩍은 부분이 없음을 강조합니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "courageous",
+      "meaning": "용감한",
+      "note": "새로운 도전에 대해 두려움 없이 맞서는 태도를 의미합니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "challenge",
+      "meaning": "도전",
+      "note": "어떤 목표나 상황에 맞서 싸우거나 극복해야 하는 어려움이나 시험을 의미합니다.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fulfilled",
+      "meaning": "충족된",
+      "note": "목표나 기대가 달성되어 만족감이나 행복감을 느끼는 상태를 나타냅니다.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "showered",
+      "meaning": "내리다 (여기서는 비유적으로 사용)",
+      "note": "비유적으로 사용되어 축복이 끊임없이 내리거나 가득 차게 임하는 상황을 나타냅니다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love and blessings",
+      "meaning": "사랑과 축복을 전하며",
+      "explanation": "애정과 축원을 담아 편지나 메시지에서 쓰는 인사말입니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "Ask anything",
+      "meaning": "무엇이든 물어봐",
+      "explanation": "질문의 자유로운 범위를 강조하는 표현",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "Wait and you will be answered",
+      "meaning": "기다리면 대답이 올 것이다",
+      "explanation": "행동(기다리기)과 그 결과(답변 받기) 사이의 인과 관계를 나타냄",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0,
+      1,
+      2,
+      3
+    ],
+    [
+      4,
+      5,
+      6,
+      7
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    [
+      15
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love and blessings.",
+      "korean": "사랑과 축복을 전합니다.",
+      "explanation": "따뜻한 애정과 상대의 평안을 바라는 마음을 함께 담은 인사입니다.",
+      "grammar": "명사 Love와 복수 명사 blessings를 등위접속사 and로 연결한 명사구입니다. 편지의 인사말이므로 주어와 동사가 생략되어도 뜻이 통합니다.",
+      "audio": "audio/1971-340/01.mp3",
+      "vocabulary": [
+        {
+          "word": "blessings",
+          "meaning": "축복, 행복과 평안을 비는 마음",
+          "note": "blessing의 복수형으로, 여기서는 상대에게 전하는 좋은 소망을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love and blessings",
+          "meaning": "사랑과 축복을 전하며",
+          "explanation": "애정과 축원을 담아 편지나 메시지에서 쓰는 인사말입니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "I received your letter.",
+      "korean": "당신의 편지를 받았습니다.",
+      "explanation": "상대방이 보낸 편지를 받았다는 사실을 알리는 문장입니다.",
+      "grammar": "I가 주어, received가 동사, your letter가 목적어인 문장입니다. received는 receive의 과거형으로 이미 편지를 받은 일을 나타냅니다.",
+      "audio": "audio/1971-340/02.mp3",
+      "vocabulary": [
+        {
+          "word": "received",
+          "meaning": "받았다",
+          "note": "receive의 규칙 과거형입니다."
+        },
+        {
+          "word": "letter",
+          "meaning": "편지",
+          "note": "여기서는 알파벳의 글자가 아니라 주고받는 편지를 뜻합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "I was waiting for it daily since you left.",
+      "korean": "당신이 떠난 후 매일 기다렸어요.",
+      "explanation": "편지를 받기 위해 매일 기대하며 기다렸다는 의미",
+      "grammar": "「was waiting」는 be동사 + -ing로 만든 과거진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+      "audio": "audio/1971-340/03.mp3",
+      "vocabulary": [
+        {
+          "word": "waiting",
+          "meaning": "기다리다",
+          "note": "편지 도착을 기대하며 지속적으로 기다린 상태를 나타냄"
+        },
+        {
+          "word": "daily",
+          "meaning": "매일",
+          "note": "매일 반복적으로 기다렸음을 강조"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "I know that you have gone far away from here but I also know that now you cannot go away from me - and that nearness is all that counts.",
+      "korean": "너가 이곳에서 멀리 떠났다는 걸 알아. 하지만 지금은 네가 나에게서 멀어질 수 없다는 걸 알고 있어 - 단지 가까움만이 중요할 뿐이야.",
+      "explanation": "문장은 화자가 상대방이 멀리 떠났음을 인정하면서도, 그들 간의 정신적 가까움이 중요하다는 믿음을 표현하고 있다.",
+      "grammar": "동사 「know」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1971-340/04.mp3",
+      "vocabulary": [
+        {
+          "word": "know",
+          "meaning": "알다",
+          "note": "상황 인식과 확신을 나타냄"
+        },
+        {
+          "word": "nearness",
+          "meaning": "가까움",
+          "note": "물리적 거리보다는 정신적 가까움을 강조"
+        },
+        {
+          "word": "counts",
+          "meaning": "중요하다",
+          "note": "정신적 가까움의 가치를 강조"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "You have come near me in a non-spatial and non-temporal sense.",
+      "korean": "너는 공간적으로나 시간적으로가 아닌 마음으로 나에게 가까워졌어.",
+      "explanation": "문장은 비유적인 의미로, 물리적 거리나 시간의 흐름을 초월한 정신적 가까움을 강조한다.",
+      "grammar": "「have come」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1971-340/05.mp3",
+      "vocabulary": [
+        {
+          "word": "spatial",
+          "meaning": "공간적인",
+          "note": "물리적인 위치나 거리를 의미한다."
+        },
+        {
+          "word": "temporal",
+          "meaning": "시간적인",
+          "note": "시간의 흐름이나 기간을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "The meeting has taken place in the nowhere or in the everywhere - because they mean the same thing.",
+      "korean": "만남은 어디에도 혹은 어디에도 아닌 곳에서 이루어졌다 - 왜냐하면 그것들은 같은 의미를 가지기 때문이다.",
+      "explanation": "만남이 공간적으로나 시간적으로 특정되지 않은 상태에서 이루어졌음을 강조하며, '어디에도 혹은 어디에도 아닌 곳'이라는 표현을 통해 추상적인 개념을 설명하고 있다.",
+      "grammar": "「has taken」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1971-340/06.mp3",
+      "vocabulary": [
+        {
+          "word": "meeting",
+          "meaning": "모임, 만남",
+          "note": "여기서는 추상적인 개념의 만남을 의미한다."
+        },
+        {
+          "word": "taken",
+          "meaning": "발생하다, 이루어지다",
+          "note": "이 문맥에서는 만남이 일어났음을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "And the real meeting takes place only in this way.",
+      "korean": "진짜 만남은 이렇게만 이루어진다.",
+      "explanation": "진정한 만남은 특정 방식으로만 이루어진다는 의미",
+      "grammar": "동사 「takes」는 take의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-340/07.mp3",
+      "vocabulary": [
+        {
+          "word": "meeting",
+          "meaning": "만남",
+          "note": "여기서는 사람들이 모이는 상황을 의미한다."
+        },
+        {
+          "word": "takes",
+          "meaning": "이루어진다",
+          "note": "특정 방식이나 조건 하에서 이루어진다는 의미를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "All else is illusion.",
+      "korean": "모든 것이 환상일 뿐이다.",
+      "explanation": "현실과 구분되지 않는 것들이 실제로는 환상에 불과하다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-340/08.mp3",
+      "vocabulary": [
+        {
+          "word": "illusion",
+          "meaning": "환상",
+          "note": "현실처럼 보이지만 실제로는 존재하지 않거나 진실과 다른 것을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "Remember me whenever you need and you will find me then and there.",
+      "korean": "필요할 때마다 나를 떠올리면 바로 거기서 나를 찾을 수 있을 거야.",
+      "explanation": "필요할 때마다 상대방을 생각하면, 그 순간에 바로 그 장소에서 만날 수 있다는 의미",
+      "grammar": "동사원형 「Remember」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-340/09.mp3",
+      "vocabulary": [
+        {
+          "word": "Remember",
+          "meaning": "기억하다",
+          "note": "특정 상황이나 사람을 마음속에 간직하거나 떠올리는 것을 의미함"
+        },
+        {
+          "word": "need",
+          "meaning": "필요",
+          "note": "어떤 상황이나 도움이 필요한 순간을 가리킴"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "Ask anything and wait - and you will be answered.",
+      "korean": "무엇이든 물어보고 기다려라 - 그러면 답을 받게 될 것이다.",
+      "explanation": "어떤 질문이든 하고 기다리면 그 질문에 대한 답변을 받게 된다는 의미",
+      "grammar": "동사원형 「Ask」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-340/10.mp3",
+      "vocabulary": [
+        {
+          "word": "Ask",
+          "meaning": "물어보다",
+          "note": "직접적인 질문 행위를 나타냄"
+        },
+        {
+          "word": "anything",
+          "meaning": "무엇이든",
+          "note": "제한이나 범위가 없는 광범위한 질문 가능성을 나타냄"
+        },
+        {
+          "word": "wait",
+          "meaning": "기다리다",
+          "note": "결과나 답변을 기대하며 시간을 보내는 상태를 나타냄"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Ask anything",
+          "meaning": "무엇이든 물어봐",
+          "explanation": "질문의 자유로운 범위를 강조하는 표현"
+        },
+        {
+          "expression": "Wait and you will be answered",
+          "meaning": "기다리면 대답이 올 것이다",
+          "explanation": "행동(기다리기)과 그 결과(답변 받기) 사이의 인과 관계를 나타냄"
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "The barriers have fallen from your mind and you have entered the meditative state.",
+      "korean": "마음의 장벽이 무너지고 명상 상태에 들어갔다.",
+      "explanation": "마음속의 장애물이 제거되어 명상 상태를 경험하게 되었다는 의미입니다.",
+      "grammar": "「have fallen」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1971-340/11.mp3",
+      "vocabulary": [
+        {
+          "word": "barriers",
+          "meaning": "장벽",
+          "note": "마음속의 제약이나 방해 요소를 의미합니다."
+        },
+        {
+          "word": "meditative",
+          "meaning": "명상적인",
+          "note": "깊은 집중과 평온함을 동반하는 상태를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "Now the doors of the divine are open.",
+      "korean": "신의 문이 열렸습니다.",
+      "explanation": "신성한 영역이나 상태에 대한 접근이 가능해졌음을 의미합니다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-340/12.mp3",
+      "vocabulary": [
+        {
+          "word": "doors",
+          "meaning": "문",
+          "note": "여기서는 상징적으로 신성한 영역이나 상태로의 진입 경로를 의미합니다."
+        },
+        {
+          "word": "divine",
+          "meaning": "신성한",
+          "note": "신성한 힘, 영역, 또는 상태를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "Do not hesitate, and take the plunge.",
+      "korean": "망설이지 말고 뛰어들어요.",
+      "explanation": "망설이지 않고 과감하게 행동하라는 권유",
+      "grammar": "「Do not hesitate」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1971-340/13.mp3",
+      "vocabulary": [
+        {
+          "word": "hesitate",
+          "meaning": "망설이다",
+          "note": "행동을 주저하거나 멈추는 것을 의미합니다."
+        },
+        {
+          "word": "plunge",
+          "meaning": "뛰어들다",
+          "note": "과감하게 어떤 행동에 착수하거나 뛰어들라는 의미입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "You are completely ready, just be courageous enough to enter the uncharted and the unknown.",
+      "korean": "완전히 준비되어 있으니, 미지의 세계로 용감하게 들어가세요.",
+      "explanation": "문장은 독자에게 이미 모든 준비가 되어 있음을 강조하며, 새로운 도전이나 미지의 영역으로의 진출을 두려워하지 말고 용감하게 임하라는 격려의 메시지를 전달합니다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-340/14.mp3",
+      "vocabulary": [
+        {
+          "word": "completely",
+          "meaning": "완전히",
+          "note": "전체적인 준비 상태를 나타내며, 부족함이나 미심쩍은 부분이 없음을 강조합니다."
+        },
+        {
+          "word": "courageous",
+          "meaning": "용감한",
+          "note": "새로운 도전에 대해 두려움 없이 맞서는 태도를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "The call from beyond has come - now accept the challenge and be fulfilled.",
+      "korean": "저 너머로부터 온 부름이 왔습니다 - 이제 도전을 받아들이고 충족되세요.",
+      "explanation": "저 너머로부터 온 부름에 응답하여 도전을 수락하고 그 결과로 만족감을 얻으라는 메시지입니다.",
+      "grammar": "동사원형 「accept」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-340/15.mp3",
+      "vocabulary": [
+        {
+          "word": "challenge",
+          "meaning": "도전",
+          "note": "어떤 목표나 상황에 맞서 싸우거나 극복해야 하는 어려움이나 시험을 의미합니다."
+        },
+        {
+          "word": "fulfilled",
+          "meaning": "충족된",
+          "note": "목표나 기대가 달성되어 만족감이나 행복감을 느끼는 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "Now close your eyes and feel me and see me and let my blessings be showered on you.",
+      "korean": "이제 눈을 감고 나를 느껴보고 나를 보고 나의 축복이 당신에게 내리도록 하세요.",
+      "explanation": "이제 눈을 감고 신성한 존재나 힘을 느끼고 그 존재를 인식하며, 그로부터 받는 축복이 당신에게 임하도록 허용하라는 권유",
+      "grammar": "동사원형 「close」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-340/16.mp3",
+      "vocabulary": [
+        {
+          "word": "blessings",
+          "meaning": "축복",
+          "note": "신성한 힘이나 존재로부터 받는 행운이나 은총을 의미합니다."
+        },
+        {
+          "word": "showered",
+          "meaning": "내리다 (여기서는 비유적으로 사용)",
+          "note": "비유적으로 사용되어 축복이 끊임없이 내리거나 가득 차게 임하는 상황을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑과 축복을 전합니다. 당신의 편지를 받았습니다. 당신이 떠난 후 매일 기다렸어요. 너가 이곳에서 멀리 떠났다는 걸 알아. 하지만 지금은 네가 나에게서 멀어질 수 없다는 걸 알고 있어 - 단지 가까움만이 중요할 뿐이야.",
+    "너는 공간적으로나 시간적으로가 아닌 마음으로 나에게 가까워졌어. 만남은 어디에도 혹은 어디에도 아닌 곳에서 이루어졌다 - 왜냐하면 그것들은 같은 의미를 가지기 때문이다. 진짜 만남은 이렇게만 이루어진다. 모든 것이 환상일 뿐이다.",
+    "필요할 때마다 나를 떠올리면 바로 거기서 나를 찾을 수 있을 거야. 무엇이든 물어보고 기다려라 - 그러면 답을 받게 될 것이다.",
+    "마음의 장벽이 무너지고 명상 상태에 들어갔다. 신의 문이 열렸습니다. 망설이지 말고 뛰어들어요. 완전히 준비되어 있으니, 미지의 세계로 용감하게 들어가세요. 저 너머로부터 온 부름이 왔습니다 - 이제 도전을 받아들이고 충족되세요.",
+    "이제 눈을 감고 나를 느껴보고 나를 보고 나의 축복이 당신에게 내리도록 하세요."
+  ],
+  "fullAudio": "audio/1971-340/script_all.mp3",
+  "originalText": "Love and blessings.\nI received your letter.\nI was waiting for it daily since you left.\nI know that you have gone far away from here\nbut I also know that now you cannot go away from me -\nand that nearness is all that counts.\n\nYou have come near me in a non-spatial and\nnon-temporal sense.\nThe meeting has taken place in the nowhere\nor in the everywhere -\nbecause they mean the same thing.\nAnd the real meeting takes place only in this way.\nAll else is illusion.\n\nRemember me whenever you need\nand you will find me then and there.\nAsk anything and wait - and you will be answered.\n\nThe barriers have fallen from your mind\nand you have entered the meditative state.\nNow the doors of the divine are open.\nDo not hesitate, and take the plunge.\nYou are completely ready,\njust be courageous enough to enter the uncharted\nand the unknown.\nThe call from beyond has come -\nnow accept the challenge and be fulfilled.\n\nNow close your eyes\nand feel me and see me and let my blessings\nbe showered on you.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 340,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0907 2.JPG",
+        "side": "right",
+        "printedPage": 265
+      },
+      {
+        "file": "IMG_0908 2.JPG",
+        "side": "left",
+        "printedPage": 266
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

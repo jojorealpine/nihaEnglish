@@ -1,0 +1,79 @@
+{
+  "key": "letter-194-part-01",
+  "number": 194,
+  "generationId": "01a1e8ea-e9c4-7fe6-bf09-db66f0a184fd",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-194/01.mp3",
+      "start": 0.0,
+      "end": 0.630522
+    },
+    {
+      "index": 1,
+      "text": "The problem of life is not philosophical, it is existential.",
+      "path": "audio/1971-194/02.mp3",
+      "start": 1.7451699999999999,
+      "end": 5.3322
+    },
+    {
+      "index": 2,
+      "text": "You cannot solve it from the outside; you cannot just be a spectator of it - you are in it, you are it.",
+      "path": "audio/1971-194/03.mp3",
+      "start": 6.631519,
+      "end": 12.273401
+    },
+    {
+      "index": 3,
+      "text": "And moreover, what is philosophy?",
+      "path": "audio/1971-194/04.mp3",
+      "start": 13.60415,
+      "end": 15.458298999999998
+    },
+    {
+      "index": 4,
+      "text": "At the worst a linguistic misunderstanding, or at best a linguistic analysis.",
+      "path": "audio/1971-194/05.mp3",
+      "start": 16.616576,
+      "end": 21.611746
+    },
+    {
+      "index": 5,
+      "text": "And even at its best it leads nowhere because the problem is existential and it cannot be solved through language analysis and grammar.",
+      "path": "audio/1971-194/06.mp3",
+      "start": 23.080726,
+      "end": 32.475147
+    },
+    {
+      "index": 6,
+      "text": "One dark night a dervish was passing a dry well when he heard a cry for help from below.",
+      "path": "audio/1971-194/07.mp3",
+      "start": 33.902494000000004,
+      "end": 39.850431
+    },
+    {
+      "index": 7,
+      "text": "What is the matter? he called down.",
+      "path": "audio/1971-194/08.mp3",
+      "start": 41.329206,
+      "end": 43.607914
+    },
+    {
+      "index": 8,
+      "text": "I am a grammarian, and I have unfortunately fallen, due to my ignorance of the path, into this deep well, in which I am now all but immobilized, responded the other.",
+      "path": "audio/1971-194/09.mp3",
+      "start": 44.938073,
+      "end": 56.82678
+    },
+    {
+      "index": 9,
+      "text": "Hold on, friend, and I'll fetch a ladder and a rope, said the dervish.",
+      "path": "audio/1971-194/10.mp3",
+      "start": 58.447120000000005,
+      "end": 62.82
+    }
+  ]
+}

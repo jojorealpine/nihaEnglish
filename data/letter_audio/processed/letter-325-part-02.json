@@ -1,0 +1,72 @@
+{
+  "key": "letter-325-part-02",
+  "number": 325,
+  "generationId": "01a1e90f-1533-7b96-bd04-02905e1840eb",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Get out! said the master.",
+      "path": "audio/1971-325/11.mp3",
+      "start": 0.0,
+      "end": 1.6263489999999998
+    },
+    {
+      "index": 11,
+      "text": "You are not trying hard enough.",
+      "path": "audio/1971-325/12.mp3",
+      "start": 2.966122,
+      "end": 4.619705
+    },
+    {
+      "index": 12,
+      "text": "You still think of money and food and pleasure.",
+      "path": "audio/1971-325/13.mp3",
+      "start": 5.99415,
+      "end": 8.31644
+    },
+    {
+      "index": 13,
+      "text": "It would be better if you died, then you might learn the answer.",
+      "path": "audio/1971-325/14.mp3",
+      "start": 9.591406000000001,
+      "end": 12.780567
+    },
+    {
+      "index": 14,
+      "text": "The next week Mamiya came back again.",
+      "path": "audio/1971-325/15.mp3",
+      "start": 14.095737000000002,
+      "end": 16.440522
+    },
+    {
+      "index": 15,
+      "text": "When the master asked him: Well, what is the sound of one hand? - he clutched at his heart, groaned and fell down as if dead.",
+      "path": "audio/1971-325/16.mp3",
+      "start": 17.708344999999998,
+      "end": 25.762109000000002
+    },
+    {
+      "index": 16,
+      "text": "Well, you have taken my advice and died, said the master, but what about the sound?",
+      "path": "audio/1971-325/17.mp3",
+      "start": 27.150838999999998,
+      "end": 33.182063
+    },
+    {
+      "index": 17,
+      "text": "Mamiya opened one eye: I have not solved that yet, he said Dead men don't speak, said the master.",
+      "path": "audio/1971-325/18.mp3",
+      "start": 34.535102,
+      "end": 41.712199999999996
+    },
+    {
+      "index": 18,
+      "text": "Get up and get out!",
+      "path": "audio/1971-325/19.mp3",
+      "start": 43.239524,
+      "end": 44.72
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "key": "letter-082-part-01",
+  "number": 82,
+  "generationId": "01a1e62f-32be-7d70-9bda-30991401e0ff",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-82/01.mp3",
+      "start": 0.0,
+      "end": 0.592449
+    },
+    {
+      "index": 1,
+      "text": "I am delighted you have taken sannyas.",
+      "path": "audio/1970-82/02.mp3",
+      "start": 1.9787759999999999,
+      "end": 4.232449
+    },
+    {
+      "index": 2,
+      "text": "A life without the flower of sannyas is like a barren tree.",
+      "path": "audio/1970-82/03.mp3",
+      "start": 5.5184809999999995,
+      "end": 8.822289999999999
+    },
+    {
+      "index": 3,
+      "text": "Sannyas is the supreme music of life.",
+      "path": "audio/1970-82/04.mp3",
+      "start": 10.158254000000001,
+      "end": 12.579092999999999
+    },
+    {
+      "index": 4,
+      "text": "It is not renunciation, on the contrary, it is life's highest enjoyment.",
+      "path": "audio/1970-82/05.mp3",
+      "start": 13.894807,
+      "end": 18.607959
+    },
+    {
+      "index": 5,
+      "text": "Someone who finds diamonds and pearls is not going to bother about pebbles and stones.",
+      "path": "audio/1970-82/06.mp3",
+      "start": 19.855918,
+      "end": 25.125193
+    },
+    {
+      "index": 6,
+      "text": "But note - he does not renounce them, interest simply drops away.",
+      "path": "audio/1970-82/07.mp3",
+      "start": 26.687822999999998,
+      "end": 32.86
+    }
+  ]
+}

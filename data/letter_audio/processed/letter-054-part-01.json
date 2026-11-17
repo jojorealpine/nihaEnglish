@@ -1,0 +1,79 @@
+{
+  "key": "letter-054-part-01",
+  "number": 54,
+  "generationId": "01a1e4f7-36a3-7433-9fd9-986765ce2d92",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-54/01.mp3",
+      "start": 0.0,
+      "end": 1.1620409999999999
+    },
+    {
+      "index": 1,
+      "text": "Can two people ever meet?",
+      "path": "audio/1969-54/02.mp3",
+      "start": 2.28068,
+      "end": 3.431973
+    },
+    {
+      "index": 2,
+      "text": "It is just not possible on this earth, communication seems impossible - but at times the impossible happens.",
+      "path": "audio/1969-54/03.mp3",
+      "start": 4.674762,
+      "end": 10.446371999999998
+    },
+    {
+      "index": 3,
+      "text": "The other day it did.",
+      "path": "audio/1969-54/04.mp3",
+      "start": 11.696463000000001,
+      "end": 12.633287999999999
+    },
+    {
+      "index": 4,
+      "text": "Being with you, I felt meeting is possible, and also communication, and without words, too.",
+      "path": "audio/1969-54/05.mp3",
+      "start": 13.811950000000001,
+      "end": 19.144558
+    },
+    {
+      "index": 5,
+      "text": "Your tears answered me.",
+      "path": "audio/1969-54/06.mp3",
+      "start": 20.687438,
+      "end": 22.120091000000002
+    },
+    {
+      "index": 6,
+      "text": "I am deeply grateful for those tears.",
+      "path": "audio/1969-54/07.mp3",
+      "start": 23.74356,
+      "end": 25.97458
+    },
+    {
+      "index": 7,
+      "text": "Such response is very rare.",
+      "path": "audio/1969-54/08.mp3",
+      "start": 27.518231,
+      "end": 29.617574
+    },
+    {
+      "index": 8,
+      "text": "I have seen your Madhu Shala, seen it again and again.",
+      "path": "audio/1969-54/09.mp3",
+      "start": 31.134717,
+      "end": 34.442676
+    },
+    {
+      "index": 9,
+      "text": "If I could sing I would sing the same song that is there.",
+      "path": "audio/1969-54/10.mp3",
+      "start": 36.01229,
+      "end": 39.05
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "key": "letter-160-part-02",
+  "number": 160,
+  "generationId": "01a1e8e2-42f8-735c-82d7-2906880dcd18",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Live today, and now, and here.",
+      "path": "audio/1970-160/11.mp3",
+      "start": 0.0,
+      "end": 2.627891
+    },
+    {
+      "index": 11,
+      "text": "Tomorrow' is a deception - the 'tomorrow' that has passed as yesterday, as well as the tomorrow that is yet to come.",
+      "path": "audio/1970-160/12.mp3",
+      "start": 4.160272,
+      "end": 11.474262999999999
+    },
+    {
+      "index": 12,
+      "text": "Only this moment is.",
+      "path": "audio/1970-160/13.mp3",
+      "start": 12.895646000000001,
+      "end": 14.788005
+    },
+    {
+      "index": 13,
+      "text": "Only this moment is eternal.",
+      "path": "audio/1970-160/14.mp3",
+      "start": 16.319682999999998,
+      "end": 18.7
+    }
+  ]
+}

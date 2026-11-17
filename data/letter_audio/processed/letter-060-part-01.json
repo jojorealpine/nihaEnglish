@@ -1,0 +1,79 @@
+{
+  "key": "letter-060-part-01",
+  "number": 60,
+  "generationId": "01a1e5b6-20da-7889-95f2-276c5aeae28a",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-60/01.mp3",
+      "start": 0.0,
+      "end": 0.5548299999999999
+    },
+    {
+      "index": 1,
+      "text": "I was overjoyed to receive your letter - as pure and innocent as your heart.",
+      "path": "audio/1969-60/02.mp3",
+      "start": 2.314308,
+      "end": 7.146621
+    },
+    {
+      "index": 2,
+      "text": "You want to write that which cannot be written so you send an unwritten letter.",
+      "path": "audio/1969-60/03.mp3",
+      "start": 8.68805,
+      "end": 12.453719
+    },
+    {
+      "index": 3,
+      "text": "This is good, for it is better to remain silent about that which cannot be expressed But beware, silence also speaks, it speaks and speaks so much!",
+      "path": "audio/1969-60/04.mp3",
+      "start": 13.947460000000001,
+      "end": 23.674444
+    },
+    {
+      "index": 4,
+      "text": "Silence can speak even where words fail.",
+      "path": "audio/1969-60/05.mp3",
+      "start": 24.795714,
+      "end": 27.407937
+    },
+    {
+      "index": 5,
+      "text": "The void envelops even that which lines cannot contain.",
+      "path": "audio/1969-60/06.mp3",
+      "start": 28.638367,
+      "end": 31.729229
+    },
+    {
+      "index": 6,
+      "text": "In fact what can resist the embrace of the great void?",
+      "path": "audio/1969-60/07.mp3",
+      "start": 32.911429000000005,
+      "end": 35.758005
+    },
+    {
+      "index": 7,
+      "text": "Nothing is left unsaid by silence.",
+      "path": "audio/1969-60/08.mp3",
+      "start": 36.872086,
+      "end": 39.251224
+    },
+    {
+      "index": 8,
+      "text": "Where words fail, silence is full of meaning.",
+      "path": "audio/1969-60/09.mp3",
+      "start": 40.868934,
+      "end": 44.958797999999994
+    },
+    {
+      "index": 9,
+      "text": "Where form ends, the formless begins.",
+      "path": "audio/1969-60/10.mp3",
+      "start": 46.55483,
+      "end": 50.0
+    }
+  ]
+}

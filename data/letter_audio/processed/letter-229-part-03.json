@@ -1,0 +1,30 @@
+{
+  "key": "letter-229-part-03",
+  "number": 229,
+  "generationId": "01a1e8f5-9b9d-7568-8512-658b4cb92ce6",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 20,
+      "text": "When he was no more, he returned to the master and without striking the gong he sat down and bowed.",
+      "path": "audio/1971-229/21.mp3",
+      "start": 0.0,
+      "end": 6.8823360000000005
+    },
+    {
+      "index": 21,
+      "text": "He was not saying anything and there was silence.",
+      "path": "audio/1971-229/22.mp3",
+      "start": 8.459705000000001,
+      "end": 11.550498999999999
+    },
+    {
+      "index": 22,
+      "text": "Then the master said: So you have heard the sound without sound!",
+      "path": "audio/1971-229/23.mp3",
+      "start": 13.142222,
+      "end": 19.46
+    }
+  ]
+}

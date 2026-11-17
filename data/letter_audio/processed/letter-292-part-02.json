@@ -1,0 +1,79 @@
+{
+  "key": "letter-292-part-02",
+  "number": 292,
+  "generationId": "01a1e91b-82cc-7ba3-b26f-7abb502b28b3",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "I suppose you are calling about a debt, said the trusting neighbor.",
+      "path": "audio/1971-292/11.mp3",
+      "start": 0.0,
+      "end": 3.1184350000000003
+    },
+    {
+      "index": 11,
+      "text": "I am.",
+      "path": "audio/1971-292/12.mp3",
+      "start": 4.3308159999999996,
+      "end": 4.9479370000000005
+    },
+    {
+      "index": 12,
+      "text": "I suppose someone can't pay a debt and you want a contribution?",
+      "path": "audio/1971-292/13.mp3",
+      "start": 6.101451,
+      "end": 8.653763999999999
+    },
+    {
+      "index": 13,
+      "text": "That is so.",
+      "path": "audio/1971-292/14.mp3",
+      "start": 9.814082,
+      "end": 10.611701
+    },
+    {
+      "index": 14,
+      "text": "I suppose it is you who owes the money?",
+      "path": "audio/1971-292/15.mp3",
+      "start": 11.892381,
+      "end": 13.731202
+    },
+    {
+      "index": 15,
+      "text": "Not this time.",
+      "path": "audio/1971-292/16.mp3",
+      "start": 15.064875,
+      "end": 15.964898
+    },
+    {
+      "index": 16,
+      "text": "Well, I am glad to hear it.",
+      "path": "audio/1971-292/17.mp3",
+      "start": 17.157958999999998,
+      "end": 18.620771
+    },
+    {
+      "index": 17,
+      "text": "Take this contribution.",
+      "path": "audio/1971-292/18.mp3",
+      "start": 19.832834,
+      "end": 21.286145
+    },
+    {
+      "index": 18,
+      "text": "Nasrudin pocketed the money.",
+      "path": "audio/1971-292/19.mp3",
+      "start": 22.91941,
+      "end": 24.792517
+    },
+    {
+      "index": 19,
+      "text": "Just one thing, Mulla - what prompts your humanitarian sentiments in this particular case?",
+      "path": "audio/1971-292/20.mp3",
+      "start": 26.445781999999998,
+      "end": 32.6
+    }
+  ]
+}

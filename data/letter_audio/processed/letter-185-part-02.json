@@ -1,0 +1,23 @@
+{
+  "key": "letter-185-part-02",
+  "number": 185,
+  "generationId": "01a1e8e9-1eec-757f-b76b-d7de49ca80f4",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Do not do anything because any doing will be escaping from this fact of helplessness.",
+      "path": "audio/1971-185/11.mp3",
+      "start": 0.0,
+      "end": 5.246304
+    },
+    {
+      "index": 11,
+      "text": "Do not move at all - and then there is an explosion, and then there is mutation.",
+      "path": "audio/1971-185/12.mp3",
+      "start": 6.666122,
+      "end": 12.25
+    }
+  ]
+}

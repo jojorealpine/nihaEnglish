@@ -1,0 +1,317 @@
+{
+  "sourceHash": "6dac87c13cfe0f971a44c5b1b2cbc5d0c90ea503357383e0c82c55c0fbe52edb",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "바꾸려 하지 마세요.",
+        "explanation": "마음을 바꾸려 하지 말고 그대로 받아들이라는 의미",
+        "grammar": "「Do not try」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "try",
+            "meaning": "시도하다, 바꾸려 하다",
+            "note": "여기서는 마음을 바꾸려는 시도를 의미"
+          },
+          {
+            "word": "change",
+            "meaning": "바꾸다",
+            "note": "마음의 상태나 본질을 바꾸려는 행위를 나타냄"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "마음대로 살아가세요.",
+        "explanation": "자신의 마음 상태를 그대로 받아들이고 살아가라는 의미입니다.",
+        "grammar": "동사원형 「Live」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "Live",
+            "meaning": "살아가다",
+            "note": "현재의 상태나 방식대로 살아가는 것을 의미합니다."
+          },
+          {
+            "word": "mind",
+            "meaning": "마음",
+            "note": "개인의 정신 상태나 생각 방식을 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "반대를 찾는 것은 겁쟁이의 짓이다.",
+        "explanation": "반대를 추구하는 것은 용기가 부족한 행동임을 강조하는 문장입니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "opposite",
+            "meaning": "반대",
+            "note": "문장에서 대비되는 개념이나 상황을 나타냅니다."
+          },
+          {
+            "word": "cowardice",
+            "meaning": "겁쟁이 짓",
+            "note": "용기가 부족하거나 두려움에 굴복하는 행동을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "반대를 찾는 것은 도망칠 방법이다.",
+        "explanation": "반대를 추구하는 것이 문제를 해결하는 대신 회피하는 방식임을 강조한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "opposite",
+            "meaning": "반대",
+            "note": "여기서는 어떤 개념이나 상태의 반대 개념을 의미한다."
+          },
+          {
+            "word": "escape",
+            "meaning": "도망치다",
+            "note": "문제나 상황을 회피하거나 피하려는 행동을 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "용기를 내어 마주하고 이해하라.",
+        "explanation": "문장은 어려움이나 도전 과제에 직면했을 때 용기를 가지고 그것을 받아들이고 깊이 이해하려는 태도를 강조한다.",
+        "grammar": "동사원형 「Be」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "brave",
+            "meaning": "용기 있는",
+            "note": "어려운 상황이나 도전에 맞서 두려움 없이 행동하거나 대처하는 능력을 의미한다."
+          },
+          {
+            "word": "understand",
+            "meaning": "이해하다",
+            "note": "단순히 알게 되는 것을 넘어 깊이 파악하고 공감하는 것을 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "10": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "의식의 빛이 분노나 탐욕이나 질투에 비치면 변화가 생깁니다.",
+        "explanation": "의식의 깨달음이 부정적인 감정에 닿으면 상황이나 마음이 변한다는 의미입니다.",
+        "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "awareness",
+            "meaning": "의식의 깨달음",
+            "note": "자신의 상태나 주변 상황을 깨닫고 인식하는 상태를 의미합니다."
+          },
+          {
+            "word": "change",
+            "meaning": "변화",
+            "note": "기존 상태나 상황이 달라짐을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "반대의 함정에 빠지지 말고 분노, 폭력, 탐욕 등을 직접 이해하라.",
+        "explanation": "반대의 유혹이나 함정을 피하고 직접적인 이해를 통해 문제를 해결하라는 의미입니다.",
+        "grammar": "「Do not fall」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "opposite",
+            "meaning": "반대",
+            "note": "여기서는 특정 개념이나 행동의 부정적인 측면이나 유혹을 가리킵니다."
+          },
+          {
+            "word": "understand",
+            "meaning": "이해하다",
+            "note": "깊이 파악하고 직접적으로 인식하라는 의미입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "항상 반대의 마법에 주의하라: 그것은 문제를 해결하지 않으며, 본질을 회피한다.",
+        "explanation": "반대 개념에 현혹되지 말아야 함을 강조하며, 진정한 해결책이 아닌 회피적인 접근법임을 설명합니다.",
+        "grammar": "동사 「solves」는 solve의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "hypnotic",
+            "meaning": "마법같은, 현혹하는",
+            "note": "여기서는 반대 개념에 대한 강한 영향력이나 착각을 의미합니다."
+          },
+          {
+            "word": "opposite",
+            "meaning": "반대",
+            "note": "문장에서 반대 개념이나 개념의 반대를 가리킵니다."
+          },
+          {
+            "word": "problem",
+            "meaning": "문제",
+            "note": "해결해야 할 본질적인 이슈나 어려움을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "11": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "의식은 촉매제 역할을 합니다 - 분노가 반대 상태로 변하지 않습니다. 폭력이 비폭력이 되는 것이 아니라, 분노가 사라지고 폭력도 사라집니다.",
+        "explanation": "의식이 변화를 촉진하는 역할을 하지만, 분노가 단순히 반대 개념인 비폭력으로 바뀌는 것이 아니라 분노 자체가 사라지고 그로 인한 폭력도 함께 사라진다는 의미입니다.",
+        "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "catalytic",
+            "meaning": "촉매적인",
+            "note": "변화를 촉진하거나 가속화시키는 역할을 함을 의미합니다."
+          },
+          {
+            "word": "opposite",
+            "meaning": "반대의",
+            "note": "반대 개념이나 상태를 가리킵니다."
+          },
+          {
+            "word": "violence",
+            "meaning": "폭력",
+            "note": "물리적 또는 정서적인 공격이나 파괴를 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "12": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "폭력이 없으면 마음도 없어지고, 완전히 다른 차원의 문이 열립니다: 자연스러운 차원, 신성한 차원입니다.",
+        "explanation": "문장은 폭력과 마음의 부재가 새로운 인식의 차원, 특히 자연스럽고 신성한 상태로의 전환을 설명합니다.",
+        "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "altogether",
+            "meaning": "완전히",
+            "note": "전체적으로, 전적으로 변화나 상태가 이루어짐을 강조합니다."
+          },
+          {
+            "word": "different",
+            "meaning": "다른",
+            "note": "기존 차원과 대비되는 새로운 차원을 지칭합니다."
+          },
+          {
+            "word": "spontaneous",
+            "meaning": "자연스러운",
+            "note": "자발적이고 강요되지 않은 상태를 의미하며, 여기서는 신성하고 자연스러운 인식 상태를 나타냅니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "opens its door",
+            "meaning": "문이 열리다",
+            "explanation": "새로운 차원이나 상태가 접근 가능해짐을 비유적으로 표현합니다."
+          }
+        ]
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "passive",
+      "notes": {
+        "korean": "분노, 폭력, 탐욕이나 질투는 그 반대 성질을 기르는 것으로 극복될 수 없다. 왜냐하면 분노 자체가 그 반대 성질을 기르게 되고, 기르려는 비폭력 속에도 폭력의 요소가 남기 때문이다.",
+        "explanation": "분노나 탐욕 같은 부정적인 감정은 단순히 그 반대의 감정을 기르는 것만으로는 해결되지 않으며, 오히려 이러한 노력이 역효과를 낳을 수 있다는 의미",
+        "grammar": "「cannot be overcome」는 조동사 + be + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "cultivation",
+            "meaning": "기르다",
+            "note": "여기서는 부정적인 감정의 반대 성질을 기르는 과정을 의미한다."
+          },
+          {
+            "word": "opposites",
+            "meaning": "반대 성질",
+            "note": "분노의 반대는 평온함, 폭력의 반대는 비폭력 등을 의미한다."
+          },
+          {
+            "word": "cultivated",
+            "meaning": "기른",
+            "note": "부정적인 감정의 반대 성질을 기르는 과정이 완료된 상태를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

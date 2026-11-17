@@ -1,0 +1,30 @@
+{
+  "key": "letter-096-part-02",
+  "number": 96,
+  "generationId": "01a1e632-553c-7e89-9ae9-d642d98ef3e1",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Now the struggle will go on and on.",
+      "path": "audio/1970-96/11.mp3",
+      "start": 0.0,
+      "end": 2.3928570000000002
+    },
+    {
+      "index": 11,
+      "text": "In it your total resolution will be born.",
+      "path": "audio/1970-96/12.mp3",
+      "start": 3.838821,
+      "end": 6.652268
+    },
+    {
+      "index": 12,
+      "text": "Far off I see your destination - the other shore.",
+      "path": "audio/1970-96/13.mp3",
+      "start": 8.066395,
+      "end": 12.43
+    }
+  ]
+}

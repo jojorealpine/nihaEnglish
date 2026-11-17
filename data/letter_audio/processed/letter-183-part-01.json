@@ -1,0 +1,72 @@
+{
+  "key": "letter-183-part-01",
+  "number": 183,
+  "generationId": "01a1e8e8-425e-71c5-ab20-5b49d02fb465",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-183/01.mp3",
+      "start": 0.0,
+      "end": 0.713787
+    },
+    {
+      "index": 1,
+      "text": "There are three forms of knowledge.",
+      "path": "audio/1971-183/02.mp3",
+      "start": 2.23746,
+      "end": 4.317937
+    },
+    {
+      "index": 2,
+      "text": "The first is intellectual knowledge, which is in fact not knowledge but only information and the collection of facts and the use of these to arrive at further intellectual concepts.",
+      "path": "audio/1971-183/03.mp3",
+      "start": 5.770204,
+      "end": 17.083243
+    },
+    {
+      "index": 3,
+      "text": "The second is emotional knowledge, which is also not really knowledge but the mental state in which man feels he has known something, but there is no transformation or mutation of his being.",
+      "path": "audio/1971-183/04.mp3",
+      "start": 18.635533,
+      "end": 29.848413
+    },
+    {
+      "index": 4,
+      "text": "The first is objective, and out of it science is born, and the second is subjective, and is the source of all art.",
+      "path": "audio/1971-183/05.mp3",
+      "start": 31.384308,
+      "end": 39.215804999999996
+    },
+    {
+      "index": 5,
+      "text": "The third is neither, it is beyond both, and this third is the real It is achieved through meditation because meditation does not use thinking and feeling as doors of perception.",
+      "path": "audio/1971-183/06.mp3",
+      "start": 40.698095,
+      "end": 53.511677999999996
+    },
+    {
+      "index": 6,
+      "text": "Really, these are not doors of perception but forces of projection.",
+      "path": "audio/1971-183/07.mp3",
+      "start": 54.908277000000005,
+      "end": 59.732698
+    },
+    {
+      "index": 7,
+      "text": "Through them pure knowing is impossible; whatsoever comes through them is changed and colored by them.",
+      "path": "audio/1971-183/08.mp3",
+      "start": 61.211519,
+      "end": 68.10004500000001
+    },
+    {
+      "index": 8,
+      "text": "So unless one is free of all projections one cannot know that-which-is.",
+      "path": "audio/1971-183/09.mp3",
+      "start": 69.72126999999999,
+      "end": 74.95
+    }
+  ]
+}

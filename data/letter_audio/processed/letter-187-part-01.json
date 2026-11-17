@@ -1,0 +1,58 @@
+{
+  "key": "letter-187-part-01",
+  "number": 187,
+  "generationId": "01a1e8e9-695d-7bd6-9c89-92a614df4ab2",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-187/01.mp3",
+      "start": 0.0,
+      "end": 0.516259
+    },
+    {
+      "index": 1,
+      "text": "Wherever there are words there is no real meaning.",
+      "path": "audio/1971-187/02.mp3",
+      "start": 1.719116,
+      "end": 4.042721
+    },
+    {
+      "index": 2,
+      "text": "But here also are words.",
+      "path": "audio/1971-187/03.mp3",
+      "start": 5.384943,
+      "end": 7.233356
+    },
+    {
+      "index": 3,
+      "text": "Then what to do?",
+      "path": "audio/1971-187/04.mp3",
+      "start": 8.493741,
+      "end": 9.353627999999999
+    },
+    {
+      "index": 4,
+      "text": "Read between the words.",
+      "path": "audio/1971-187/05.mp3",
+      "start": 10.450703,
+      "end": 11.734262999999999
+    },
+    {
+      "index": 5,
+      "text": "Or read that which is said but not written, or that which is shown and not even said, or that which is meant and not even shown.",
+      "path": "audio/1971-187/06.mp3",
+      "start": 12.920204,
+      "end": 19.785442
+    },
+    {
+      "index": 6,
+      "text": "That is - look in, because the words are without but the meaning is within.",
+      "path": "audio/1971-187/07.mp3",
+      "start": 21.23839,
+      "end": 26.23
+    }
+  ]
+}

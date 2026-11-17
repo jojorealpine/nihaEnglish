@@ -1,0 +1,30 @@
+{
+  "key": "letter-323-part-01",
+  "number": 323,
+  "generationId": "01a1e90d-9473-75e3-be10-02aa4b2dfff4",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-323/01.mp3",
+      "start": 0.0,
+      "end": 0.718617
+    },
+    {
+      "index": 1,
+      "text": "Do not be closed to the universe.",
+      "path": "audio/1971-323/02.mp3",
+      "start": 2.188005,
+      "end": 4.270726
+    },
+    {
+      "index": 2,
+      "text": "Open all your doors and windows and let everything pass freely in and out, out and in, because only then will you be able to receive the truth.",
+      "path": "audio/1971-323/03.mp3",
+      "start": 5.7795689999999995,
+      "end": 16.54
+    }
+  ]
+}

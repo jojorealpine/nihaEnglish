@@ -1,0 +1,65 @@
+{
+  "key": "letter-200-part-01",
+  "number": 200,
+  "generationId": "01a1e8ec-7cb1-7de8-adcc-7573c9869ea0",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-200/01.mp3",
+      "start": 0.0,
+      "end": 0.616961
+    },
+    {
+      "index": 1,
+      "text": "In meditation, enjoy doing nothing.",
+      "path": "audio/1971-200/02.mp3",
+      "start": 2.096984,
+      "end": 5.246531
+    },
+    {
+      "index": 2,
+      "text": "Be in a state of perfectly quiet passivity - then you are in harmony with the world.",
+      "path": "audio/1971-200/03.mp3",
+      "start": 6.671769,
+      "end": 11.973016
+    },
+    {
+      "index": 3,
+      "text": "The thought-forms dissolve automatically because they cannot exist with total passivity: they are forms of an activity-addicted mind, and with them dissolves the ego - because it cannot exist without thought-forms.",
+      "path": "audio/1971-200/04.mp3",
+      "start": 13.476848,
+      "end": 27.156054
+    },
+    {
+      "index": 4,
+      "text": "The ego is nothing but a whirlpool center of constantly revolving thought-forms.",
+      "path": "audio/1971-200/05.mp3",
+      "start": 28.630385,
+      "end": 34.463922999999994
+    },
+    {
+      "index": 5,
+      "text": "Remain in passivity, that is, in the state of absolute doing-nothingness, and meditation deepens to the depths where there is no meditator.",
+      "path": "audio/1971-200/06.mp3",
+      "start": 35.840454,
+      "end": 45.864943
+    },
+    {
+      "index": 6,
+      "text": "And remember that only when there is no meditator has meditation really come into being.",
+      "path": "audio/1971-200/07.mp3",
+      "start": 47.369569000000006,
+      "end": 53.339093
+    },
+    {
+      "index": 7,
+      "text": "If you are then there is no meditation, and when there is meditation you are not.",
+      "path": "audio/1971-200/08.mp3",
+      "start": 54.748481000000005,
+      "end": 61.28
+    }
+  ]
+}

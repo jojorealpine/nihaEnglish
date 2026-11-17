@@ -1,0 +1,79 @@
+{
+  "key": "letter-136-part-01",
+  "number": 136,
+  "generationId": "01a1e6ce-0a0b-7842-abdd-1b99e6c93391",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-136/01.mp3",
+      "start": 0.0,
+      "end": 0.669887
+    },
+    {
+      "index": 1,
+      "text": "Sannyas is a pilgrimage to Mt.",
+      "path": "audio/1970-136/02.mp3",
+      "start": 2.030862,
+      "end": 4.292857
+    },
+    {
+      "index": 2,
+      "text": "Everest - naturally there are difficulties on the way.",
+      "path": "audio/1970-136/03.mp3",
+      "start": 5.513492,
+      "end": 8.875193
+    },
+    {
+      "index": 3,
+      "text": "But the fruits of determination are sweet too, so bear everything calmly and joyously but don't give up your commitment.",
+      "path": "audio/1970-136/04.mp3",
+      "start": 10.262472,
+      "end": 17.568934000000002
+    },
+    {
+      "index": 4,
+      "text": "Serve your mother even more than before - sannyas is not a running away from responsibility.",
+      "path": "audio/1970-136/05.mp3",
+      "start": 18.92576,
+      "end": 24.532336
+    },
+    {
+      "index": 5,
+      "text": "Your family is not to be given up, rather you have to make the whole world your family.",
+      "path": "audio/1970-136/06.mp3",
+      "start": 25.935033999999998,
+      "end": 31.811565
+    },
+    {
+      "index": 6,
+      "text": "Encourage your mother to take sannyas too.",
+      "path": "audio/1970-136/07.mp3",
+      "start": 33.224308,
+      "end": 35.608005
+    },
+    {
+      "index": 7,
+      "text": "Tell her: You have seen enough of the world, now raise your eyes towards God",
+      "path": "audio/1970-136/08.mp3",
+      "start": 37.062154,
+      "end": 42.688005
+    },
+    {
+      "index": 8,
+      "text": "But make sure she is caused no trouble on your account.",
+      "path": "audio/1970-136/09.mp3",
+      "start": 44.167052000000005,
+      "end": 47.522721
+    },
+    {
+      "index": 9,
+      "text": "This doesn't mean giving in or compromising - sannyas knows no compromise.",
+      "path": "audio/1970-136/10.mp3",
+      "start": 49.092177,
+      "end": 54.83
+    }
+  ]
+}

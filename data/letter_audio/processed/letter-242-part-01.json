@@ -1,0 +1,65 @@
+{
+  "key": "letter-242-part-01",
+  "number": 242,
+  "generationId": "01a1e8f8-ca4a-76c9-9ea3-02062defbcfd",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-242/01.mp3",
+      "start": 0.0,
+      "end": 0.807211
+    },
+    {
+      "index": 1,
+      "text": "Now man knows more about man than ever and yet no problem is solved.",
+      "path": "audio/1971-242/02.mp3",
+      "start": 2.1596599999999997,
+      "end": 6.779977
+    },
+    {
+      "index": 2,
+      "text": "It seems that something is basically wrong with our so-called knowledge itself.",
+      "path": "audio/1971-242/03.mp3",
+      "start": 8.302517,
+      "end": 12.674399
+    },
+    {
+      "index": 3,
+      "text": "This whole knowledge is derived from analysis, and analysis is incapable of penetrating the depths of consciousness.",
+      "path": "audio/1971-242/04.mp3",
+      "start": 14.148413000000001,
+      "end": 21.535601
+    },
+    {
+      "index": 4,
+      "text": "The analytical method is all right for matter or for things because there is no inside to them, but consciousness is insideness, and to use the analytical method with consciousness is to treat it as an object, while it is not an object at all.",
+      "path": "audio/1971-242/05.mp3",
+      "start": 23.062721,
+      "end": 39.878094999999995
+    },
+    {
+      "index": 5,
+      "text": "And it cannot be made an object; its very nature is subjectivity, its being is subjectivity, so it must not be approached from outside because then whatsoever is known about it is not about it.",
+      "path": "audio/1971-242/06.mp3",
+      "start": 41.477188000000005,
+      "end": 55.208299
+    },
+    {
+      "index": 6,
+      "text": "Consciousness must be approached from inside - and then the method is meditation and not analysis.",
+      "path": "audio/1971-242/07.mp3",
+      "start": 56.845057000000004,
+      "end": 63.874784999999996
+    },
+    {
+      "index": 7,
+      "text": "Meditation is synthetic: it is concerned with the whole and not with the parts, it is subjective and not objective, it is irrational or super-rational and not rational, it is religious or mystic and not scientific.",
+      "path": "audio/1971-242/08.mp3",
+      "start": 65.501111,
+      "end": 82.23
+    }
+  ]
+}

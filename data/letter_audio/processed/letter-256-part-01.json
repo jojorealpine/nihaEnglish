@@ -1,0 +1,65 @@
+{
+  "key": "letter-256-part-01",
+  "number": 256,
+  "generationId": "01a1e8fb-d33a-74e1-9fde-72cbd551b170",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-256/01.mp3",
+      "start": 0.0,
+      "end": 0.6192059999999999
+    },
+    {
+      "index": 1,
+      "text": "Yes, man learns by experience!",
+      "path": "audio/1971-256/02.mp3",
+      "start": 1.9832199999999998,
+      "end": 4.1061
+    },
+    {
+      "index": 2,
+      "text": "Two old drunkards",
+      "path": "audio/1971-256/03.mp3",
+      "start": 5.388413,
+      "end": 6.74576
+    },
+    {
+      "index": 3,
+      "text": "were in the habit of coming together twice a week to the wine-seller to get drunk.",
+      "path": "audio/1971-256/04.mp3",
+      "start": 8.121247,
+      "end": 11.957028999999999
+    },
+    {
+      "index": 4,
+      "text": "After years of this one of them died.",
+      "path": "audio/1971-256/05.mp3",
+      "start": 13.258912,
+      "end": 15.384989
+    },
+    {
+      "index": 5,
+      "text": "His old friend came in on the Saturday and they told him his pal had died - that the whisky had been taken into blood circulation and so saturated his blood and his breath that one night before going to bed the old man went to blow out the candle and his breath caught fire and he was burned to death.",
+      "path": "audio/1971-256/06.mp3",
+      "start": 16.789818999999998,
+      "end": 36.372018
+    },
+    {
+      "index": 6,
+      "text": "The other man promptly called for a Bible and took an oath that from that time forward he would never blow out another candle in his life!",
+      "path": "audio/1971-256/07.mp3",
+      "start": 37.946304000000005,
+      "end": 47.039524
+    },
+    {
+      "index": 7,
+      "text": "Yes, man learns by experience!",
+      "path": "audio/1971-256/08.mp3",
+      "start": 48.497982,
+      "end": 52.01
+    }
+  ]
+}

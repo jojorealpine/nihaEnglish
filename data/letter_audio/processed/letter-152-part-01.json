@@ -1,0 +1,79 @@
+{
+  "key": "letter-152-part-01",
+  "number": 152,
+  "generationId": "01a1e6e7-ab66-734e-abbe-7b6f1e368dde",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-152/01.mp3",
+      "start": 0.0,
+      "end": 0.51034
+    },
+    {
+      "index": 1,
+      "text": "Religion too has to take new birth in every age.",
+      "path": "audio/1970-152/02.mp3",
+      "start": 1.7259859999999998,
+      "end": 4.226757
+    },
+    {
+      "index": 2,
+      "text": "Bodies - all kinds of bodies - grow old and die.",
+      "path": "audio/1970-152/03.mp3",
+      "start": 5.415374,
+      "end": 8.943219999999998
+    },
+    {
+      "index": 3,
+      "text": "Sects are the dead bodies of religion, their souls have left them long ago.",
+      "path": "audio/1970-152/04.mp3",
+      "start": 10.053628000000002,
+      "end": 14.201587
+    },
+    {
+      "index": 4,
+      "text": "Their languages have become out of date.",
+      "path": "audio/1970-152/05.mp3",
+      "start": 15.384014,
+      "end": 17.427664
+    },
+    {
+      "index": 5,
+      "text": "This is why they no longer touch the human heart any more.",
+      "path": "audio/1970-152/06.mp3",
+      "start": 18.674263,
+      "end": 21.693537000000003
+    },
+    {
+      "index": 6,
+      "text": "Nor is their echo heard any more in the human soul.",
+      "path": "audio/1970-152/07.mp3",
+      "start": 23.040475999999998,
+      "end": 26.515442
+    },
+    {
+      "index": 7,
+      "text": "Once Dr. John A.",
+      "path": "audio/1970-152/08.mp3",
+      "start": 27.898141,
+      "end": 29.309002
+    },
+    {
+      "index": 8,
+      "text": "Hutton, while speaking in a gathering of priests asked, \"Why have the preachings of religious leaders turned so lifeless and dull?\"",
+      "path": "audio/1970-152/09.mp3",
+      "start": 30.729523999999998,
+      "end": 38.271972999999996
+    },
+    {
+      "index": 9,
+      "text": "When nobody stood up to answer, he himself answered it by saying: \"They are all dull because preachers are trying to answer questions that nobody is asking.\"",
+      "path": "audio/1970-152/10.mp3",
+      "start": 40.280227000000004,
+      "end": 49.97
+    }
+  ]
+}

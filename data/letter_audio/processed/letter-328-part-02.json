@@ -1,0 +1,72 @@
+{
+  "key": "letter-328-part-02",
+  "number": 328,
+  "generationId": "01a1e90f-c9e0-7dc1-ab55-456bc1308443",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 9,
+      "text": "The king agreed The son studied hard for several years then wrote to his father that he had learned just about everything possible and pleaded to be allowed to return home.",
+      "path": "audio/1971-328/10.mp3",
+      "start": 0.0,
+      "end": 11.159773
+    },
+    {
+      "index": 10,
+      "text": "The king assented When the son arrived at the palace the king was overjoyed.",
+      "path": "audio/1971-328/11.mp3",
+      "start": 12.756848000000002,
+      "end": 18.321769
+    },
+    {
+      "index": 11,
+      "text": "A great feast was prepared and all the great men of the kingdom were invited.",
+      "path": "audio/1971-328/12.mp3",
+      "start": 20.170658,
+      "end": 25.218753
+    },
+    {
+      "index": 12,
+      "text": "At the end of the festivities one of the sages present asked the son what he had learned The young man ticked off the university's curriculum that he had gone through.",
+      "path": "audio/1971-328/13.mp3",
+      "start": 26.857595999999997,
+      "end": 36.529523999999995
+    },
+    {
+      "index": 13,
+      "text": "While the lad was talking the sage slipped a ring off his finger, closed his hand over it, held up his hand and asked: What do I hold in my hand?",
+      "path": "audio/1971-328/14.mp3",
+      "start": 37.858005000000006,
+      "end": 47.173128999999996
+    },
+    {
+      "index": 14,
+      "text": "The son though for a moment and said; It is a round object with a hole in the center.",
+      "path": "audio/1971-328/15.mp3",
+      "start": 48.598005,
+      "end": 55.154331
+    },
+    {
+      "index": 15,
+      "text": "The sage was astonished at such wisdom.",
+      "path": "audio/1971-328/16.mp3",
+      "start": 56.724263,
+      "end": 59.496643999999996
+    },
+    {
+      "index": 16,
+      "text": "Maybe the lad had become a great mind.",
+      "path": "audio/1971-328/17.mp3",
+      "start": 60.967755000000004,
+      "end": 63.392948
+    },
+    {
+      "index": 17,
+      "text": "Will you now name the object? asked the sage.",
+      "path": "audio/1971-328/18.mp3",
+      "start": 65.00605399999999,
+      "end": 69.41
+    }
+  ]
+}

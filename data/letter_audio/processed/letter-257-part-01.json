@@ -1,0 +1,65 @@
+{
+  "key": "letter-257-part-01",
+  "number": 257,
+  "generationId": "01a1e8fb-fc04-7a88-9fc8-889e42e6dda2",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-257/01.mp3",
+      "start": 0.0,
+      "end": 0.629161
+    },
+    {
+      "index": 1,
+      "text": "Do not imitate anyone, do not follow anyone, otherwise you will be just a pseudo existence - and that is worse than suicide.",
+      "path": "audio/1971-257/02.mp3",
+      "start": 1.8943539999999999,
+      "end": 10.349025
+    },
+    {
+      "index": 2,
+      "text": "Be yourself - and only then can you be responsible and authentic and real But ordinarily everyone is just secondhand and borrowed, and that makes everything ugly.",
+      "path": "audio/1971-257/03.mp3",
+      "start": 11.707211000000001,
+      "end": 23.772041
+    },
+    {
+      "index": 3,
+      "text": "Mulla Nasrudin went to a mosque and sat down.",
+      "path": "audio/1971-257/04.mp3",
+      "start": 25.569841,
+      "end": 28.928549
+    },
+    {
+      "index": 4,
+      "text": "His shirt was rather short and the man behind him pulled it lower, thinking it looked unseemly.",
+      "path": "audio/1971-257/05.mp3",
+      "start": 30.447732,
+      "end": 35.938367
+    },
+    {
+      "index": 5,
+      "text": "Nasrudin immediately pulled the shirt of the man in front of him.",
+      "path": "audio/1971-257/06.mp3",
+      "start": 37.896871000000004,
+      "end": 41.463311
+    },
+    {
+      "index": 6,
+      "text": "What are you doing? asked the man in front.",
+      "path": "audio/1971-257/07.mp3",
+      "start": 43.020385000000005,
+      "end": 45.702971
+    },
+    {
+      "index": 7,
+      "text": "Don't ask me, ask the man behind - he started it, said Nasrudin.",
+      "path": "audio/1971-257/08.mp3",
+      "start": 47.684218,
+      "end": 54.05
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "1970-148",
+  "title": "1970 / 148",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "search",
+      "meaning": "탐색",
+      "note": "어떤 것을 찾거나 이해하려고 노력하는 행위를 의미한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "begin",
+      "meaning": "시작하다",
+      "note": "어떤 활동이나 과정이 처음으로 시작되는 것을 나타낸다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "heart",
+      "meaning": "마음, 감정",
+      "note": "여기서는 내면의 감정이나 인식을 상징적으로 표현.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "awaken",
+      "meaning": "깨어나다, 인식하다",
+      "note": "내면의 깨달음이나 인식의 시작을 의미.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Remember",
+      "meaning": "기억하라",
+      "note": "행동이나 사실을 명심하거나 떠올리라는 의미로 사용되었다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "liberates",
+      "meaning": "해방시킨다",
+      "note": "제약이나 제한에서 벗어나 자유롭게 되는 것을 의미한다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-148/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "How can the search begin unless there is doubt?",
+      "korean": "의심이 없으면 탐색은 어떻게 시작될 수 있을까?",
+      "explanation": "탐색이 시작되기 위한 조건으로 의심의 존재를 강조하고 있다.",
+      "grammar": "「can the search begin」에서 조동사 can 뒤에 동사원형 「begin」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1970-148/02.mp3",
+      "vocabulary": [
+        {
+          "word": "search",
+          "meaning": "탐색",
+          "note": "어떤 것을 찾거나 이해하려고 노력하는 행위를 의미한다."
+        },
+        {
+          "word": "begin",
+          "meaning": "시작하다",
+          "note": "어떤 활동이나 과정이 처음으로 시작되는 것을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "How will the heart awaken to know the truth unless there is doubt?",
+      "korean": "진실을 알기 위해 마음이 의심 없이 어떻게 깨어나겠는가?",
+      "explanation": "진실 인식을 위한 내면의 변화가 의심의 존재 없이 일어날 수 있는지 질문함.",
+      "grammar": "「will the heart awaken」에서 조동사 will 뒤에 동사원형 「awaken」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+      "audio": "audio/1970-148/03.mp3",
+      "vocabulary": [
+        {
+          "word": "heart",
+          "meaning": "마음, 감정",
+          "note": "여기서는 내면의 감정이나 인식을 상징적으로 표현."
+        },
+        {
+          "word": "awaken",
+          "meaning": "깨어나다, 인식하다",
+          "note": "내면의 깨달음이나 인식의 시작을 의미."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Remember - belief and faith bind man, doubt liberates him.",
+      "korean": "기억하라 - 믿음과 신뢰는 인간을 묶지만 의심은 그를 해방시킨다.",
+      "explanation": "의심이 없으면 진실을 깨닫는 마음이 깨어나지 못한다는 의미를 전달하며, 믿음과 신뢰가 인간을 제약하는 반면 의심은 자유를 가져다준다는 대조를 보여준다.",
+      "grammar": "동사 「liberates」는 liberate의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-148/04.mp3",
+      "vocabulary": [
+        {
+          "word": "Remember",
+          "meaning": "기억하라",
+          "note": "행동이나 사실을 명심하거나 떠올리라는 의미로 사용되었다."
+        },
+        {
+          "word": "liberates",
+          "meaning": "해방시킨다",
+          "note": "제약이나 제한에서 벗어나 자유롭게 되는 것을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "의심이 없으면 탐색은 어떻게 시작될 수 있을까? 진실을 알기 위해 마음이 의심 없이 어떻게 깨어나겠는가? 기억하라 - 믿음과 신뢰는 인간을 묶지만 의심은 그를 해방시킨다."
+  ],
+  "fullAudio": "audio/1970-148/script_all.mp3",
+  "originalText": "Love.\n\nHow can the search begin unless there is doubt?\nHow will the heart awaken to know the truth\nunless there is doubt?\nRemember - belief and faith bind man,\ndoubt liberates him.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 148,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0832 2.JPG",
+        "side": "right",
+        "printedPage": 115
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

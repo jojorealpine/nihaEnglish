@@ -1,0 +1,51 @@
+{
+  "key": "letter-065-part-01",
+  "number": 65,
+  "generationId": "01a1e5b9-275d-7307-b50f-799dbf0246e0",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-65/01.mp3",
+      "start": 0.0,
+      "end": 0.679274
+    },
+    {
+      "index": 1,
+      "text": "Do not seek nirvana as something opposed to life, rather, turn life itself into nirvana.",
+      "path": "audio/1969-65/02.mp3",
+      "start": 1.7917230000000002,
+      "end": 7.1239680000000005
+    },
+    {
+      "index": 2,
+      "text": "Those who know, do this.",
+      "path": "audio/1969-65/03.mp3",
+      "start": 8.283878000000001,
+      "end": 9.973379
+    },
+    {
+      "index": 3,
+      "text": "Dogen has these beautiful words to say: Do not strive after moksha (liberation); rather, allow all your actions to become liberating.",
+      "path": "audio/1969-65/04.mp3",
+      "start": 11.021451,
+      "end": 19.125261000000002
+    },
+    {
+      "index": 4,
+      "text": "This happens.",
+      "path": "audio/1969-65/05.mp3",
+      "start": 20.575509999999998,
+      "end": 21.522222
+    },
+    {
+      "index": 5,
+      "text": "I can tell you this from my own experience; and the day it happens life becomes as beautiful as a flower in full bloom and brims with fragrance.",
+      "path": "audio/1969-65/06.mp3",
+      "start": 23.008912,
+      "end": 32.44
+    }
+  ]
+}

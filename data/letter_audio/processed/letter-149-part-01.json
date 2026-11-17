@@ -1,0 +1,44 @@
+{
+  "key": "letter-149-part-01",
+  "number": 149,
+  "generationId": "01a1e6d6-f75f-71e0-8c84-00058fd8c62e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-149/01.mp3",
+      "start": 0.0,
+      "end": 0.564694
+    },
+    {
+      "index": 1,
+      "text": "I was glad to receive your letter.",
+      "path": "audio/1970-149/02.mp3",
+      "start": 1.7471199999999998,
+      "end": 3.359569
+    },
+    {
+      "index": 2,
+      "text": "Make love your prayer now Love alone is worship, is God Let there be love with every breath - this is your only sadhana.",
+      "path": "audio/1970-149/03.mp3",
+      "start": 4.485692,
+      "end": 12.69102
+    },
+    {
+      "index": 3,
+      "text": "Sitting, rising, sleeping, waking just remember: love.",
+      "path": "audio/1970-149/04.mp3",
+      "start": 13.901905000000001,
+      "end": 19.912948
+    },
+    {
+      "index": 4,
+      "text": "Then you will see that his temple is not far off",
+      "path": "audio/1970-149/05.mp3",
+      "start": 21.16932,
+      "end": 23.72
+    }
+  ]
+}

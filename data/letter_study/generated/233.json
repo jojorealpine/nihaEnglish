@@ -1,0 +1,267 @@
+{
+  "sourceHash": "5d4390e651ce54ccaf6c8a98e76d3973025137cbbbb5eb54b3bf97300e7443ef",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "자기중심적이다",
+        "explanation": "자신을 중심으로 생각하거나 행동하는 성질을 가짐",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "egocentric",
+            "meaning": "자기중심적인",
+            "note": "자신의 관점이나 이익을 가장 중요하게 생각하고 다른 사람이나 상황을 그 관점에서 해석하는 경향이 있음"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "끔찍하다! 라고 마을 사람이 외쳤다.",
+        "explanation": "마을 사람이 끔찍한 상황에 대해 강한 감정을 표현하며 외쳤다는 의미",
+        "grammar": "동사 「cried」는 cry의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "terrible",
+            "meaning": "끔찍한",
+            "note": "상황이나 사건의 심각성과 공포를 강조하는 형용사"
+          },
+          {
+            "word": "villager",
+            "meaning": "마을 사람",
+            "note": "특정 지역 사회의 주민을 지칭하는 명사"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "내 모자 가게가 망칠 수도 있어!",
+        "explanation": "마을 사람이 모자 사업이 실패하거나 큰 타격을 입을 것을 우려하는 내용",
+        "grammar": "「could ruin」에서 조동사 could 뒤에 동사원형 「ruin」가 옵니다. could은 문맥에 따라 과거의 능력·가능성·정중함 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "ruin",
+            "meaning": "망치다, 파괴하다",
+            "note": "여기서는 어떤 계획이나 사업이 실패하거나 큰 손해를 입는 상황을 의미합니다."
+          },
+          {
+            "word": "business",
+            "meaning": "사업",
+            "note": "특정 상품이나 서비스를 제공하는 경제 활동을 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "마음은 항상 자아 중심으로 생각한다.",
+        "explanation": "마음이나 정신이 항상 자신을 중심으로 사고하고 판단한다는 의미",
+        "grammar": "동사 「thinks」는 think의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "thinks",
+            "meaning": "생각하다",
+            "note": "이 문맥에서는 「생각하다」의 뜻으로 읽습니다."
+          },
+          {
+            "word": "terms",
+            "meaning": "방식, 기준",
+            "note": "'자아 중심으로'라는 사고의 방식이나 기준을 의미함"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "그것은 그것과 하나가 될 수 없기 때문에 알 수 없다.",
+        "explanation": "마음이 우주와 조화를 이루지 못하기 때문에 진정한 삶을 이해할 수 없다는 의미를 전달한다.",
+        "grammar": "「cannot know」에서 조동사 can 뒤에 동사원형 「know」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "know",
+            "meaning": "이해하다, 알다",
+            "note": "여기서는 깊은 이해나 인식을 의미한다."
+          },
+          {
+            "word": "cannot",
+            "meaning": "못하다, ~할 수 없다",
+            "note": "부정의 의미로 사용되어 마음이 삶과 완전히 통합될 수 없다는 것을 나타낸다."
+          },
+          {
+            "word": "be one with",
+            "meaning": "하나가 되다",
+            "note": "마음과 삶이 완전히 통합되거나 일치하는 상태를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "그 방문자는 수천 명의 머리를 자르고 있다고 말했어요.",
+        "explanation": "방문자가 파리에서 온 사람이 마을에서 일어난 일에 대해 친구에게 설명하며 극단적인 폭력 행위를 언급하고 있음을 나타냅니다.",
+        "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "cutting",
+            "meaning": "자르다",
+            "note": "여기서는 비유적으로 폭력적인 처형 행위를 의미합니다."
+          },
+          {
+            "word": "thousands",
+            "meaning": "수천",
+            "note": "규모의 방대함을 강조하며, 폭력의 극단적인 정도를 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "10": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "정말로 마음으로는 진정한 이해는 없고, 단지 표면적인 친숙함만 존재할 뿐이다.",
+        "explanation": "마음으로는 진정한 지식이나 이해보다는 겉으로만 아는 정도에 그친다는 의미입니다.",
+        "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "superficial",
+            "meaning": "표면적인",
+            "note": "겉으로만 보이는 것, 깊이가 없는 것을 의미합니다."
+          },
+          {
+            "word": "acquaintance",
+            "meaning": "친숙함",
+            "note": "단순히 알고 있다는 정도의 관계를 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "그러나 이것이 마음의 도리이며, 이 때문에 우주와 조화를 이루지 못하므로 삶을 알 수 없느니라.",
+        "explanation": "마음의 본질적인 특성 때문에 우주와 조화를 이루지 못하기 때문에 진정한 삶의 이해가 불가능하다는 의미",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "mind",
+            "meaning": "마음",
+            "note": "개인의 정신 상태나 인식 과정을 나타냄"
+          },
+          {
+            "word": "cosmos",
+            "meaning": "우주",
+            "note": "전체적인 자연 세계나 질서를 의미함"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "프랑스 혁명 당시 파리에서 온 남자가 마을에 들렀다가 친구에게 무슨 일이 일어나고 있는지 물었다.",
+        "explanation": "프랑스 혁명이라는 역사적 배경 속에서 파리 출신의 한 남성이 마을을 방문하고 현지 상황에 대해 묻는 상황을 묘사한다.",
+        "grammar": "동사 「stopped」는 stop의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "revolution",
+            "meaning": "혁명",
+            "note": "역사적 변화나 체제 전환을 의미하며, 여기서는 프랑스 혁명을 가리킨다."
+          },
+          {
+            "word": "happening",
+            "meaning": "일어나는 일",
+            "note": "현재 진행 중인 사건이나 상황을 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "11": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "마음이 진정으로 깊이 이해하는 것은 마음의 표면적인 인식만으로는 불가능하며, 진정한 내면의 지식은 무념(no-mind) 상태에서만 얻을 수 있다. 명상은 마음을 무념 상태로 녹이는 과정이다.",
+        "explanation": "진정한 이해와 내면의 지식은 단순히 마음의 표면적인 인식을 넘어서 무념 상태에서만 가능하며, 이를 달성하는 방법 중 하나가 명상을 통한 마음의 해소이다.",
+        "grammar": "동사 「comes」는 come의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "meditation",
+            "meaning": "명상",
+            "note": "마음의 상태를 집중적으로 관찰하고 조절하는 정신적 연습."
+          },
+          {
+            "word": "dissolving",
+            "meaning": "녹이는",
+            "note": "마음의 구조나 경계를 약화시키거나 없애는 과정을 의미함."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

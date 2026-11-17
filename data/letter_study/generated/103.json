@@ -1,0 +1,235 @@
+{
+  "sourceHash": "c52b01f4138300d646c1feaa2f41baedb49a2d71c1ae5bb554864eccf367024a",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "2": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "당신의 편지를 받았습니다.",
+        "explanation": "상대방이 보낸 편지를 받았다는 사실을 알리는 문장입니다.",
+        "grammar": "I가 주어, received가 동사, your letter가 목적어인 문장입니다. received는 receive의 과거형으로 이미 편지를 받은 일을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "received",
+            "meaning": "받았다",
+            "note": "receive의 규칙 과거형입니다."
+          },
+          {
+            "word": "letter",
+            "meaning": "편지",
+            "note": "여기서는 알파벳의 글자가 아니라 주고받는 편지를 뜻합니다."
+          }
+        ],
+        "expressions": []
+      }
+    },
+    "10": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "죽음은 매일 매일, 매 순간 존재한다.",
+        "explanation": "죽음이 항상 존재하며 우리가 이를 간과한다는 의미를 전달한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "death",
+            "meaning": "죽음",
+            "note": "문장에서 죽음의 지속적인 존재를 강조한다."
+          },
+          {
+            "word": "moment",
+            "meaning": "순간",
+            "note": "죽음이 순간마다 항상 존재한다는 점을 강조한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "이것은 어려울 것이나, 혁명은 항상 어려움을 동반한다.",
+        "explanation": "혁명은 항상 어려움과 도전을 수반한다는 의미를 전달한다.",
+        "grammar": "「will be」에서 조동사 will 뒤에 동사원형 「be」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "hard",
+            "meaning": "어려움",
+            "note": "이 문맥에서는 어려움이나 고난을 의미한다."
+          },
+          {
+            "word": "revolution",
+            "meaning": "혁명",
+            "note": "사회적, 정치적 변화를 의미하며, 여기서는 큰 변화나 혁신의 과정에서 겪는 어려움을 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "죽음은 항상 존재하지만 우리는 그것을 잊고 산다.",
+        "explanation": "죽음은 항상 우리 곁에 있지만 사람들은 종종 이를 간과하고 살아간다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "Death",
+            "meaning": "죽음",
+            "note": "항상 존재하는 상태를 나타내며, 문맥에서는 삶의 불가피한 부분을 의미한다."
+          },
+          {
+            "word": "forget",
+            "meaning": "잊다",
+            "note": "죽음의 존재를 인지하지 못하고 간과한다는 의미를 담고 있다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "have-to",
+      "notes": {
+        "korean": "죽음에 대한 인식을 거쳐야 불멸을 얻을 수 있다.",
+        "explanation": "죽음에 대한 인식이 필요하다는 것을 통해 진정한 불멸을 이룰 수 있다는 의미",
+        "grammar": "「has to go」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "awareness",
+            "meaning": "인식",
+            "note": "여기서는 죽음에 대한 깊은 이해나 깨달음을 의미한다."
+          },
+          {
+            "word": "deathlessness",
+            "meaning": "불멸",
+            "note": "영구적인 생명이나 영속성을 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "죽음의 상처를 완전히 느껴보세요: 깨어나서 그것과 함께 살아가세요!",
+        "explanation": "죽음의 아픔을 완전히 인식하고 받아들이라는 메시지",
+        "grammar": "동사원형 「wake」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "wound",
+            "meaning": "상처",
+            "note": "죽음으로 인한 심리적 혹은 감정적 고통을 상징적으로 표현"
+          },
+          {
+            "word": "completely",
+            "meaning": "완전히",
+            "note": "완전한 이해와 감정의 수용을 강조"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "죽음의 압박은 깊지만 마음은 교묘하게 그것을 피한다.",
+        "explanation": "죽음의 위협이나 압박이 매우 강력하지만, 사람의 마음은 그 위협을 피하거나 회피하려는 교묘한 방법을 사용한다.",
+        "grammar": "동사 「goes」는 go의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "cunningly",
+            "meaning": "교묘하게",
+            "note": "마음이 지혜롭고 은밀하게 행동한다는 의미를 담고 있다."
+          },
+          {
+            "word": "evading",
+            "meaning": "피하는",
+            "note": "죽음의 압박이나 위협을 회피하거나 피하려는 행동을 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "어머니의 죽음이 당신 자신을 돌아보게 했다는 것을 알게 되어 기쁩니다.",
+        "explanation": "어머니의 죽음이 개인적인 성찰로 이어진 것에 대한 긍정적인 반응을 표현합니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "consider",
+            "meaning": "심사숙고하다, 생각하다",
+            "note": "어머니의 죽음이 개인적인 성찰이나 반성의 계기가 되었다는 의미입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "그것을 피하지 말고 위로하지 마 - 어떤 위로도 자살과 같아.",
+        "explanation": "죽음을 피하려 하지 말고 위로하지 말 것을 강조하며, 위로 자체가 부정적인 결과를 초래한다는 의미를 담고 있다.",
+        "grammar": "「Don't evade」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "console",
+            "meaning": "위로하다",
+            "note": "상황이나 감정을 달래고 위로하는 행동을 나타낸다."
+          },
+          {
+            "word": "consolation",
+            "meaning": "위로",
+            "note": "주로 슬픔이나 어려움을 겪은 사람에게 주는 위로의 의미로, 이 문맥에서는 부정적인 결과를 초래하는 행위로 해석된다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

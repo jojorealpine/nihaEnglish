@@ -1,0 +1,79 @@
+{
+  "key": "letter-196-part-01",
+  "number": 196,
+  "generationId": "01a1e8eb-79e7-7f5b-a0a2-1cc13f5ae927",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-196/01.mp3",
+      "start": 0.0,
+      "end": 0.67288
+    },
+    {
+      "index": 1,
+      "text": "Mulla Nasrudin was searching for something on the ground What have you lost, Mulla? someone who saw him searching, asked.",
+      "path": "audio/1971-196/02.mp3",
+      "start": 1.984921,
+      "end": 9.098911999999999
+    },
+    {
+      "index": 2,
+      "text": "My key, said the Mulla.",
+      "path": "audio/1971-196/03.mp3",
+      "start": 10.362562,
+      "end": 11.977029
+    },
+    {
+      "index": 3,
+      "text": "So they both went down on their knees and looked for it.",
+      "path": "audio/1971-196/04.mp3",
+      "start": 13.262744000000001,
+      "end": 15.866463
+    },
+    {
+      "index": 4,
+      "text": "After a time the other man asked: Where exactly did you drop it?",
+      "path": "audio/1971-196/05.mp3",
+      "start": 17.098594,
+      "end": 21.130249000000003
+    },
+    {
+      "index": 5,
+      "text": "In my house, said the Mulla.",
+      "path": "audio/1971-196/06.mp3",
+      "start": 22.708209,
+      "end": 25.22449
+    },
+    {
+      "index": 6,
+      "text": "Then why are you looking here?",
+      "path": "audio/1971-196/07.mp3",
+      "start": 27.047981999999998,
+      "end": 28.558798
+    },
+    {
+      "index": 7,
+      "text": "There is more light here than inside my house.",
+      "path": "audio/1971-196/08.mp3",
+      "start": 30.122676,
+      "end": 32.705669
+    },
+    {
+      "index": 8,
+      "text": "I ask you also - where are you looking for the key?",
+      "path": "audio/1971-196/09.mp3",
+      "start": 34.265147000000006,
+      "end": 38.120272
+    },
+    {
+      "index": 9,
+      "text": "Inside the house?",
+      "path": "audio/1971-196/10.mp3",
+      "start": 39.624376000000005,
+      "end": 41.2
+    }
+  ]
+}

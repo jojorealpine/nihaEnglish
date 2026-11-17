@@ -1,0 +1,334 @@
+{
+  "id": "1970-82",
+  "title": "1970 / 82",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "delighted",
+      "meaning": "매우 기뻐하다",
+      "note": "강한 긍정적 감정을 표현하며, 이 경우 산야스를 선택한 것에 대한 기쁨을 나타냅니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sannyas",
+      "meaning": "산야스 (종교적 수행의 길을 선택하는 것을 의미)",
+      "note": "개인이 영적 성장이나 깨달음을 추구하기 위해 특정 종교적 또는 영적 경로를 선택하는 것을 나타냅니다.",
+      "sentenceIds": [
+        2,
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "flower",
+      "meaning": "꽃",
+      "note": "여기서는 '목표'나 '희망'을 상징적으로 나타냄.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "supreme",
+      "meaning": "최고의",
+      "note": "가장 뛰어나거나 중요한 것을 나타냅니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "music",
+      "meaning": "노래",
+      "note": "여기서는 비유적으로 삶의 아름다움이나 조화를 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "renunciation",
+      "meaning": "포기",
+      "note": "일반적으로 물질적 욕망이나 사회적 의무에서 벗어나는 것을 의미하지만, 여기서는 산야스가 단순히 포기가 아니라는 대조적인 개념으로 사용된다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "enjoyment",
+      "meaning": "즐거움",
+      "note": "최고 수준의 만족감이나 행복을 나타내며, 산야스가 삶에서 얻을 수 있는 가장 높은 상태를 설명한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "diamonds",
+      "meaning": "다이아몬드",
+      "note": "매우 가치 있는 보석을 의미합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "pebbles",
+      "meaning": "돌멩이",
+      "note": "상대적으로 가치가 낮은 작은 돌을 의미합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "renounce",
+      "meaning": "포기하다",
+      "note": "이 단어는 완전히 손을 떼거나 더 이상 관심을 갖지 않는 상황을 나타냅니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "interest",
+      "meaning": "흥미",
+      "note": "여기서는 특정 대상이나 가치에 대한 관심이나 열정이 줄어들었다는 의미입니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-82/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "I am delighted you have taken sannyas.",
+      "korean": "당신이 산야스를 선택했다는 사실에 매우 기쁩니다.",
+      "explanation": "주어진 문장의 의미를 한국어로 자연스럽게 전달합니다.",
+      "grammar": "「am」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-82/02.mp3",
+      "vocabulary": [
+        {
+          "word": "delighted",
+          "meaning": "매우 기뻐하다",
+          "note": "강한 긍정적 감정을 표현하며, 이 경우 산야스를 선택한 것에 대한 기쁨을 나타냅니다."
+        },
+        {
+          "word": "sannyas",
+          "meaning": "산야스 (종교적 수행의 길을 선택하는 것을 의미)",
+          "note": "개인이 영적 성장이나 깨달음을 추구하기 위해 특정 종교적 또는 영적 경로를 선택하는 것을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "A life without the flower of sannyas is like a barren tree.",
+      "korean": "사냐스의 꽃이 없는 삶은 열매 없는 나무와 같다.",
+      "explanation": "사냐스를 선택하지 않은 삶의 무의미함을 비유적으로 표현.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-82/03.mp3",
+      "vocabulary": [
+        {
+          "word": "flower",
+          "meaning": "꽃",
+          "note": "여기서는 '목표'나 '희망'을 상징적으로 나타냄."
+        },
+        {
+          "word": "sannyas",
+          "meaning": "산야스",
+          "note": "종교적 수행이나 삶의 방식을 의미하며, 이 문장에서는 삶의 중요한 방향이나 목표를 나타냄."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Sannyas is the supreme music of life.",
+      "korean": "삶의 최고의 노래는 산야스이다.",
+      "explanation": "산야스가 삶에서 가장 중요하고 아름다운 것으로 여겨진다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-82/04.mp3",
+      "vocabulary": [
+        {
+          "word": "supreme",
+          "meaning": "최고의",
+          "note": "가장 뛰어나거나 중요한 것을 나타냅니다."
+        },
+        {
+          "word": "music",
+          "meaning": "노래",
+          "note": "여기서는 비유적으로 삶의 아름다움이나 조화를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "It is not renunciation, on the contrary, it is life's highest enjoyment.",
+      "korean": "포기가 아니라 오히려 삶의 최고의 즐거움이다.",
+      "explanation": "산야스(sannyas)는 포기가 아니라 삶에서 가장 높은 즐거움을 의미한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-82/05.mp3",
+      "vocabulary": [
+        {
+          "word": "renunciation",
+          "meaning": "포기",
+          "note": "일반적으로 물질적 욕망이나 사회적 의무에서 벗어나는 것을 의미하지만, 여기서는 산야스가 단순히 포기가 아니라는 대조적인 개념으로 사용된다."
+        },
+        {
+          "word": "enjoyment",
+          "meaning": "즐거움",
+          "note": "최고 수준의 만족감이나 행복을 나타내며, 산야스가 삶에서 얻을 수 있는 가장 높은 상태를 설명한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Someone who finds diamonds and pearls is not going to bother about pebbles and stones.",
+      "korean": "보석을 찾는 사람은 돌멩이에 신경 쓰지 않을 것이다.",
+      "explanation": "보석을 찾는 사람은 가치가 낮은 돌멩이에 관심을 두지 않을 것이라는 의미입니다.",
+      "grammar": "「is not going」는 be동사 + -ing로 만든 현재진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+      "audio": "audio/1970-82/06.mp3",
+      "vocabulary": [
+        {
+          "word": "diamonds",
+          "meaning": "다이아몬드",
+          "note": "매우 가치 있는 보석을 의미합니다."
+        },
+        {
+          "word": "pebbles",
+          "meaning": "돌멩이",
+          "note": "상대적으로 가치가 낮은 작은 돌을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "But note - he does not renounce them, interest simply drops away.",
+      "korean": "그러나 주목하세요 - 그는 그것들을 포기하지 않습니다. 단지 흥미가 사라질 뿐입니다.",
+      "explanation": "문장은 특정 가치나 대상에 대한 관심이 줄어들었지만, 완전히 포기하지는 않는다는 의미를 전달합니다.",
+      "grammar": "동사 「drops」는 drop의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-82/07.mp3",
+      "vocabulary": [
+        {
+          "word": "renounce",
+          "meaning": "포기하다",
+          "note": "이 단어는 완전히 손을 떼거나 더 이상 관심을 갖지 않는 상황을 나타냅니다."
+        },
+        {
+          "word": "interest",
+          "meaning": "흥미",
+          "note": "여기서는 특정 대상이나 가치에 대한 관심이나 열정이 줄어들었다는 의미입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "당신이 산야스를 선택했다는 사실에 매우 기쁩니다. 사냐스의 꽃이 없는 삶은 열매 없는 나무와 같다. 삶의 최고의 노래는 산야스이다. 포기가 아니라 오히려 삶의 최고의 즐거움이다. 보석을 찾는 사람은 돌멩이에 신경 쓰지 않을 것이다. 그러나 주목하세요 - 그는 그것들을 포기하지 않습니다. 단지 흥미가 사라질 뿐입니다."
+  ],
+  "fullAudio": "audio/1970-82/script_all.mp3",
+  "originalText": "Love.\n\nI am delighted you have taken sannyas.\nA life without the flower of sannyas is like a barren tree.\nSannyas is the supreme music of life.\nIt is not renunciation, on the contrary, it is life's highest\nenjoyment.\nSomeone who finds diamonds and pearls is not going to\nbother about pebbles and stones.\nBut note - he does not renounce them, interest simply\ndrops away.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 82,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0809 2.JPG",
+        "side": "right",
+        "printedPage": 69
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

@@ -1,0 +1,72 @@
+{
+  "key": "letter-293-part-01",
+  "number": 293,
+  "generationId": "01a1e904-5f9d-79bf-b3f7-41c739bf5c94",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love",
+      "path": "audio/1971-293/01.mp3",
+      "start": 0.0,
+      "end": 0.755306
+    },
+    {
+      "index": 1,
+      "text": "Knowledge is through experiencing.",
+      "path": "audio/1971-293/02.mp3",
+      "start": 2.1573469999999997,
+      "end": 4.73805
+    },
+    {
+      "index": 2,
+      "text": "Mere information is not knowledge, on the contrary it cannot give the clarity which knowledge gives to the mind and may confuse one more because a confused mind is still more burdened with it.",
+      "path": "audio/1971-293/03.mp3",
+      "start": 6.18839,
+      "end": 18.061519
+    },
+    {
+      "index": 3,
+      "text": "Two men had played chess regularly together for several years.",
+      "path": "audio/1971-293/04.mp3",
+      "start": 19.551633,
+      "end": 23.708844000000003
+    },
+    {
+      "index": 4,
+      "text": "They were quite evenly matched and there was keen rivalry between them.",
+      "path": "audio/1971-293/05.mp3",
+      "start": 25.225282999999997,
+      "end": 29.659819000000002
+    },
+    {
+      "index": 5,
+      "text": "Then one man began to beat his rival nearly every time they played and the other man was completely at a loss to understand this phenomenon.",
+      "path": "audio/1971-293/06.mp3",
+      "start": 31.141066,
+      "end": 39.698026999999996
+    },
+    {
+      "index": 6,
+      "text": "On the contrary, he was expecting his game to improve because he was reading a four-volume set on How to Play Chess.",
+      "path": "audio/1971-293/07.mp3",
+      "start": 41.494898,
+      "end": 49.219840999999995
+    },
+    {
+      "index": 7,
+      "text": "After much thought he came up with an idea.",
+      "path": "audio/1971-293/08.mp3",
+      "start": 50.735397000000006,
+      "end": 53.814218
+    },
+    {
+      "index": 8,
+      "text": "He sent the books to his friend as a gift - and it was not long before they were evenly matched again!",
+      "path": "audio/1971-293/09.mp3",
+      "start": 55.407143000000005,
+      "end": 62.82
+    }
+  ]
+}

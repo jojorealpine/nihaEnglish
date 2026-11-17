@@ -1,0 +1,37 @@
+{
+  "key": "letter-310-part-01",
+  "number": 310,
+  "generationId": "01a1e908-9b52-7b87-8fec-d0293ca2c353",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-310/01.mp3",
+      "start": 0.0,
+      "end": 0.8729709999999999
+    },
+    {
+      "index": 1,
+      "text": "Do you hear me?",
+      "path": "audio/1971-310/02.mp3",
+      "start": 2.384172,
+      "end": 3.464376
+    },
+    {
+      "index": 2,
+      "text": "Do you see me?",
+      "path": "audio/1971-310/03.mp3",
+      "start": 4.972517,
+      "end": 6.175873
+    },
+    {
+      "index": 3,
+      "text": "I stand at the door and knock, and I knock because of a promise made in another life and another age.",
+      "path": "audio/1971-310/04.mp3",
+      "start": 7.835215,
+      "end": 15.41
+    }
+  ]
+}

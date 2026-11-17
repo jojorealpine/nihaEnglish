@@ -1,0 +1,65 @@
+{
+  "key": "letter-267-part-01",
+  "number": 267,
+  "generationId": "01a1e8fe-2f57-78db-a9af-520f6d9a3415",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-267/01.mp3",
+      "start": 0.0,
+      "end": 0.563855
+    },
+    {
+      "index": 1,
+      "text": "The sun is rising high in the sky.",
+      "path": "audio/1971-267/02.mp3",
+      "start": 1.677279,
+      "end": 3.792789
+    },
+    {
+      "index": 2,
+      "text": "Its light enters the house through an opening The dust is seen moving in the ray of light but the empty space of the room is unmoving.",
+      "path": "audio/1971-267/03.mp3",
+      "start": 5.0310429999999995,
+      "end": 12.147506
+    },
+    {
+      "index": 3,
+      "text": "Now close your eyes and be silent.",
+      "path": "audio/1971-267/04.mp3",
+      "start": 13.398707,
+      "end": 15.849274
+    },
+    {
+      "index": 4,
+      "text": "Then ask yourself: Who am I - the moving dust or the unmoving space of the room?",
+      "path": "audio/1971-267/05.mp3",
+      "start": 17.07093,
+      "end": 23.150499
+    },
+    {
+      "index": 5,
+      "text": "Do not answer intellectually, because intellectual answers are not answers, but wait and realize.",
+      "path": "audio/1971-267/06.mp3",
+      "start": 24.392698,
+      "end": 30.475034
+    },
+    {
+      "index": 6,
+      "text": "Hsu Yun says: The mind is nothing but foreign dust.",
+      "path": "audio/1971-267/07.mp3",
+      "start": 31.729025,
+      "end": 35.242132
+    },
+    {
+      "index": 7,
+      "text": "Who are you — the mind? - the foreign dust? or - ?",
+      "path": "audio/1971-267/08.mp3",
+      "start": 36.511088,
+      "end": 41.2
+    }
+  ]
+}

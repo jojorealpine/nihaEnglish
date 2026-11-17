@@ -1,0 +1,251 @@
+{
+  "sourceHash": "11e0f7f2224df25dcbd3dc7b084053ae439d8ce480168b0ef14224b6afe66892",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "그것에 매달리지 마세요.",
+        "explanation": "자신의 본질이나 특정 개념에서 벗어나거나 집착하지 말라는 의미입니다.",
+        "grammar": "「Do not cling」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "cling",
+            "meaning": "매달리다, 집착하다",
+            "note": "이 단어는 어떤 것에 강하게 의존하거나 집착하는 행동을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "자신은 씨앗의 껍질에 불과하다.",
+        "explanation": "자신을 씨앗의 껍질에 비유하여 본질적인 가치나 진정한 자아를 강조하는 문장입니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "self",
+            "meaning": "자신, 자아",
+            "note": "문장에서 개인의 본질적인 정체성이나 진정한 자아를 가리킵니다."
+          },
+          {
+            "word": "husk",
+            "meaning": "껍질, 겉껍질",
+            "note": "씨앗을 감싸고 있는 겉부분을 의미하며, 여기서는 자아의 겉부분이나 본질적인 가치를 벗어난 부분을 상징합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "자신은 결코 자유로울 수 없다 - 왜냐하면 자신이 바로 굴레이기 때문이다.",
+        "explanation": "자신의 본질이 제약이 된다는 의미를 전달합니다.",
+        "grammar": "「can never be」에서 조동사 can 뒤에 동사원형 「be」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "self",
+            "meaning": "자신",
+            "note": "문장에서 주체적인 존재로서의 개인을 의미합니다."
+          },
+          {
+            "word": "bondage",
+            "meaning": "굴레",
+            "note": "자신이 제약이나 얽매임의 원인이 된다는 의미를 담고 있습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "그러면, 그대 인간아, 너 자신이라고 착각하는 껍질에 집착하겠는가?",
+        "explanation": "인간이 자신의 진정한 본질이 아닌 외부적인 것들에 집착하는 것을 묻는 질문",
+        "grammar": "동사 「seem」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "mortal",
+            "meaning": "인간",
+            "note": "생명이 유한한 존재를 가리키며, 여기서는 인간의 한계나 취약성을 강조"
+          },
+          {
+            "word": "wrongly",
+            "meaning": "잘못해서",
+            "note": "인간이 착각하거나 잘못 이해하고 있다는 의미를 담고 있음"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "have-to",
+      "notes": {
+        "korean": "자신을 자유롭게 만드는 것이 아니라, 오히려 자신으로부터 자유로워져야 한다.",
+        "explanation": "자신의 제약이나 집착에서 벗어나 진정한 자유를 얻어야 한다는 의미",
+        "grammar": "「has to be」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "self",
+            "meaning": "자신, 자아",
+            "note": "문장에서 개인의 내면적 제약이나 집착을 상징적으로 나타냄"
+          },
+          {
+            "word": "contrary",
+            "meaning": "반대의",
+            "note": "문장에서 '자유롭게 만드는 것'과 '자유로워져야 한다'는 개념이 서로 반대임을 나타냄"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "have-to",
+      "notes": {
+        "korean": "씨앗이 자라려면 씨앗으로서의 자아를 잃어야 하고, 기어다니는 것들은 번데기를 거쳐 날개를 얻을 수 있다.",
+        "explanation": "씨앗이 성장하기 위해서는 씨앗으로서의 형태를 버려야 한다는 의미와, 기어다니는 존재들이 변화를 통해 더 높은 단계로 발전할 수 있다는 비유적인 내용을 담고 있다.",
+        "grammar": "「has to grow」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "creep",
+            "meaning": "기어다니다",
+            "note": "여기서는 기어다니는 행동이나 상태를 나타내며, 변화와 성장의 과정을 비유적으로 설명한다."
+          },
+          {
+            "word": "transformed",
+            "meaning": "변형된",
+            "note": "변화를 겪어 새로운 상태나 형태로 바뀌는 것을 의미한다."
+          },
+          {
+            "word": "chrysalis",
+            "meaning": "번데기",
+            "note": "변신 과정을 상징하며, 성장과 변화의 중간 단계를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "이것은 예수의 깊이 있는 말의 의미입니다: 자신의 생명을 구원하려는 자는 그것을 잃게 되고, 자신의 생명을 잃는 자는 풍성한 생명을 알게 됩니다.",
+        "explanation": "예수의 가르침 중 하나를 설명하며, 삶을 보존하려는 노력이 결국에는 손실로 이어질 수 있고, 반대로 삶을 포기하거나 헌신할 때 진정한 의미의 풍성한 생명을 얻을 수 있다는 메시지를 전달합니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "meaning",
+            "meaning": "의미",
+            "note": "이 문장에서 핵심 메시지나 가르침을 나타냅니다."
+          },
+          {
+            "word": "penetrating",
+            "meaning": "깊이 있는",
+            "note": "말이나 가르침이 심오하고 이해하기 어려운 정도를 나타냅니다."
+          },
+          {
+            "word": "abundant",
+            "meaning": "풍부한",
+            "note": "생명의 질이나 양에 있어서 충분하고 넘치는 상태를 의미합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "saveth his life",
+            "meaning": "자신의 생명을 구원하다",
+            "explanation": "자신의 생명을 보존하거나 지키려는 행동을 의미합니다."
+          },
+          {
+            "expression": "loseth his life",
+            "meaning": "자신의 생명을 잃다",
+            "explanation": "생명을 헌신하거나 포기하는 것을 의미합니다."
+          }
+        ]
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "passive",
+      "notes": {
+        "korean": "라오자의 《도덕경》에 나오는 말은 이러하다: 자신을 낮추는 자는 구원받을 것이요, 구부리는 자는 펴질 것이며, 자신을 비우는 자는 채워질 것이다.",
+        "explanation": "라오자의 가르침 중 하나로, 겸손, 유연성, 그리고 비움의 가치를 강조한다.",
+        "grammar": "「shall be made」는 조동사 + be + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "humbles",
+            "meaning": "자신을 낮추다",
+            "note": "자신의 자존심이나 지위를 낮추는 행동을 의미한다."
+          },
+          {
+            "word": "straight",
+            "meaning": "펴지다",
+            "note": "원래의 바른 상태로 돌아가거나 바르게 되는 것을 의미한다."
+          },
+          {
+            "word": "empties",
+            "meaning": "비우다",
+            "note": "물질적으로나 정신적으로 무언가를 비우는 행위를 나타낸다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "He who humbles himself",
+            "meaning": "자신을 낮추는 자는",
+            "explanation": "자신의 자세나 태도를 겸손하게 만드는 사람을 지칭한다."
+          },
+          {
+            "expression": "shall be saved",
+            "meaning": "구원받을 것이다",
+            "explanation": "결국 긍정적인 결과나 보호를 받게 된다는 의미이다."
+          }
+        ]
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

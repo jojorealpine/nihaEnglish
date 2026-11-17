@@ -1,0 +1,37 @@
+{
+  "key": "letter-278-part-01",
+  "number": 278,
+  "generationId": "01a1e900-a382-78ee-8e1e-ba24183f2681",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-278/01.mp3",
+      "start": 0.0,
+      "end": 0.686327
+    },
+    {
+      "index": 1,
+      "text": "Detach yourself from all fixed ideas: they are the killers of all aliveness and innocence - which are musts for illumination.",
+      "path": "audio/1971-278/02.mp3",
+      "start": 2.243651,
+      "end": 9.925737
+    },
+    {
+      "index": 2,
+      "text": "Beware of the trap of preconceptions; they make a stagnant pool of your consciousness, and to meet the ocean you need a dynamic one.",
+      "path": "audio/1971-278/03.mp3",
+      "start": 11.431156000000001,
+      "end": 19.670499
+    },
+    {
+      "index": 3,
+      "text": "Be alive and fluid and flowing - then the goal is not far off.",
+      "path": "audio/1971-278/04.mp3",
+      "start": 21.120703,
+      "end": 26.46
+    }
+  ]
+}

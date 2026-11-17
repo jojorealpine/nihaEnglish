@@ -1,0 +1,72 @@
+{
+  "key": "letter-240-part-01",
+  "number": 240,
+  "generationId": "01a1e8f8-3407-753e-8381-43b122c4b260",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-240/01.mp3",
+      "start": 0.0,
+      "end": 0.67288
+    },
+    {
+      "index": 1,
+      "text": "Fu Ta Shih says: Each night one embraces a Buddha while sleeping, each morning one gets up again with him.",
+      "path": "audio/1971-240/02.mp3",
+      "start": 2.131202,
+      "end": 9.094285999999999
+    },
+    {
+      "index": 2,
+      "text": "Rising or sitting - both watch and follow one another Speaking or not speaking - they are in the same place.",
+      "path": "audio/1971-240/03.mp3",
+      "start": 10.437392000000001,
+      "end": 17.780363
+    },
+    {
+      "index": 3,
+      "text": "They never part even for a moment but are like the body and its shadow.",
+      "path": "audio/1971-240/04.mp3",
+      "start": 19.126803,
+      "end": 23.034376
+    },
+    {
+      "index": 4,
+      "text": "If you wish to know the Buddha's whereabouts, in the sound of your own voice there be is.",
+      "path": "audio/1971-240/05.mp3",
+      "start": 24.486984,
+      "end": 29.107347
+    },
+    {
+      "index": 5,
+      "text": "Do you understand this?",
+      "path": "audio/1971-240/06.mp3",
+      "start": 30.490816,
+      "end": 31.901837
+    },
+    {
+      "index": 6,
+      "text": "If not now - when will you understand?",
+      "path": "audio/1971-240/07.mp3",
+      "start": 33.306531,
+      "end": 36.737663999999995
+    },
+    {
+      "index": 7,
+      "text": "And this is not being asked for the first time, but many many times in many many lives the same question has been raised - and you have not yet answered!",
+      "path": "audio/1971-240/08.mp3",
+      "start": 38.209048,
+      "end": 48.773582999999995
+    },
+    {
+      "index": 8,
+      "text": "Now, is it not time enough?",
+      "path": "audio/1971-240/09.mp3",
+      "start": 50.305079,
+      "end": 53.08
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "key": "letter-217-part-01",
+  "number": 217,
+  "generationId": "01a1e8f2-1478-7ec8-8830-317c1f0aa9fe",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-217/01.mp3",
+      "start": 0.0,
+      "end": 0.660204
+    },
+    {
+      "index": 1,
+      "text": "If one is aware of the present moment then one also becomes aware of the fact that there is no me inside.",
+      "path": "audio/1971-217/02.mp3",
+      "start": 2.074331,
+      "end": 8.917007
+    },
+    {
+      "index": 2,
+      "text": "The me is my past, the me is the dead past The me is not my life because it is not living.",
+      "path": "audio/1971-217/03.mp3",
+      "start": 10.398617000000002,
+      "end": 17.124785
+    },
+    {
+      "index": 3,
+      "text": "The ego can exist only in the past or in the future - which is nothing but a projection of the past.",
+      "path": "audio/1971-217/04.mp3",
+      "start": 18.558163,
+      "end": 25.182653000000002
+    },
+    {
+      "index": 4,
+      "text": "That is why awareness, moment to moment awareness, leads to egolessness - because the ego cannot exist in the present and because awareness cannot exist except in the present.",
+      "path": "audio/1971-217/05.mp3",
+      "start": 26.703764,
+      "end": 39.460136
+    },
+    {
+      "index": 5,
+      "text": "So they cannot exist simultaneously.",
+      "path": "audio/1971-217/06.mp3",
+      "start": 40.977438,
+      "end": 43.940884
+    },
+    {
+      "index": 6,
+      "text": "Ego is unawareness and awareness is egolessness.",
+      "path": "audio/1971-217/07.mp3",
+      "start": 45.361814,
+      "end": 50.65
+    }
+  ]
+}

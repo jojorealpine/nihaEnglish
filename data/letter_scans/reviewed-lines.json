@@ -1,0 +1,95 @@
+{
+  "scope": "Low-confidence OCR lines only; visually compared with the original scans",
+  "lines": [
+    {
+      "file": "IMG_0774 2.JPG",
+      "side": "single",
+      "letter": 8,
+      "text": "samadhi yoga."
+    },
+    {
+      "file": "IMG_0777 2.JPG",
+      "side": "single",
+      "letter": 11,
+      "text": "Muni Shri Nathamaljee and others"
+    },
+    {
+      "file": "IMG_0777 2.JPG",
+      "side": "single",
+      "letter": 12,
+      "text": "Burhanpur, Hoshangabad, Chanda"
+    },
+    {
+      "file": "IMG_0841 2.JPG",
+      "side": "right",
+      "letter": 169,
+      "text": "Po-Hun Wu-Jen said:"
+    },
+    {
+      "file": "IMG_0853 2.JPG",
+      "side": "left",
+      "letter": 198,
+      "text": "(no-selfhood)."
+    },
+    {
+      "file": "IMG_0856 2.JPG",
+      "side": "left",
+      "letter": 206,
+      "text": "Ego is a Leibnizian monad"
+    },
+    {
+      "file": "IMG_0857 2.JPG",
+      "side": "right",
+      "letter": 210,
+      "text": "Mulla Nasrudin's tomb"
+    },
+    {
+      "file": "IMG_0867 2.JPG",
+      "side": "left",
+      "letter": 231,
+      "text": "said Sekkyo."
+    },
+    {
+      "file": "IMG_0868 2.JPG",
+      "side": "left",
+      "letter": 234,
+      "text": "A monk asked Hyakujo Yekai:"
+    },
+    {
+      "file": "IMG_0869 2.JPG",
+      "side": "right",
+      "letter": 239,
+      "text": "with Bahaudin."
+    },
+    {
+      "file": "IMG_0876 2.JPG",
+      "side": "right",
+      "letter": 257,
+      "text": "said Nasrudin."
+    },
+    {
+      "file": "IMG_0896 2.JPG",
+      "side": "right",
+      "letter": 315,
+      "text": "Kusunoki Masashige came to a Zen monastery"
+    },
+    {
+      "file": "IMG_0904 2.JPG",
+      "side": "left",
+      "letter": 333,
+      "text": "moksha or nirvana -"
+    },
+    {
+      "file": "IMG_0907 2.JPG",
+      "side": "left",
+      "letter": 338,
+      "text": "the I-am-not-ness."
+    },
+    {
+      "file": "IMG_0911 2.JPG",
+      "side": "right",
+      "letter": 346,
+      "text": "Be playful."
+    }
+  ]
+}

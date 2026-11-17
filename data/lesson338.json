@@ -1,0 +1,643 @@
+{
+  "id": "1971-338",
+  "title": "1971 / 338",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "search",
+      "meaning": "찾다",
+      "note": "이 문맥에서는 어떤 것을 찾으려는 행위 자체를 의미한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "absurd",
+      "meaning": "어리석다, 무의미하다",
+      "note": "여기서는 찾는 행위가 논리적으로 맞지 않음을 강조한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "absurdity",
+      "meaning": "부조리",
+      "note": "상황이나 개념이 논리적으로나 합리적으로 설명되지 않는 상태를 의미한다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "understood",
+      "meaning": "이해하다",
+      "note": "부조리를 인식하고 그 의미를 파악하는 과정을 나타낸다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "seeking",
+      "meaning": "찾다, 추구하다",
+      "note": "여기서는 목표나 깨달음을 찾는 행위를 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "barrier",
+      "meaning": "장애물, 걸림돌",
+      "note": "목표 달성을 방해하는 요소를 나타냅니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "hindrance",
+      "meaning": "장애",
+      "note": "문장에서 탐색 행위가 목표 달성을 방해하는 요소임을 나타냅니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "illusion",
+      "meaning": "환상",
+      "note": "자아 인식이 실제와 다른 착각이나 오해임을 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "And",
+      "meaning": "그리고",
+      "note": "문장 연결, 앞 문장과의 논리적 연관성 강조",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "not",
+      "meaning": "아니다",
+      "note": "부정어, 자아의 존재를 부정하는 핵심적인 표현",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "seek",
+      "meaning": "찾다",
+      "note": "문장에서 어떤 것을 적극적으로 추구하거나 탐색하는 행위를 의미합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "find",
+      "meaning": "발견하다",
+      "note": "적극적으로 찾는 행위의 결과로 얻게 되는 상태나 존재를 의미합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "nothingness",
+      "meaning": "공허함, 무존재",
+      "note": "이 문맥에서는 존재하지 않는 상태나 본질적인 공허함을 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "gate",
+      "meaning": "관문, 출입구",
+      "note": "이 문장에서는 어떤 상태나 존재로 진입하거나 접근할 수 있는 통로를 나타냅니다.",
+      "sentenceIds": [
+        8,
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "explain",
+      "meaning": "설명하다",
+      "note": "어떤 개념이나 문제를 쉽게 이해할 수 있도록 자세히 이야기하거나 해석하는 것을 의미합니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "problem",
+      "meaning": "문제",
+      "note": "여기서는 불교적 또는 철학적 맥락에서의 특정 개념이나 딜레마를 가리킵니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "gosling",
+      "meaning": "새끼 거위",
+      "note": "거위의 새끼를 의미합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "bottles",
+      "meaning": "병",
+      "note": "거위가 자라는 공간으로 사용되는 병을 의미합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "breaking",
+      "meaning": "깨다",
+      "note": "병을 깨는 행위를 의미합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "shouted",
+      "meaning": "큰 소리로 외치다",
+      "note": "강조와 함께 큰 소리로 말하는 행위를 나타냄",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "great",
+      "meaning": "큰",
+      "note": "박수의 크기나 강도를 강조하는 형용사",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "master",
+      "meaning": "선생님",
+      "note": "지도자나 선생님을 의미하며, 존경의 의미를 담고 있다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "start",
+      "meaning": "놀라거나 당황한 상태",
+      "note": "주로 상황에 대한 즉각적인 반응을 나타낼 때 사용되며, 여기서는 리코가 당황한 모습을 표현한다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "said",
+      "meaning": "말하다",
+      "note": "대화에서 발화자의 말을 전달하는 동사",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "goose",
+      "meaning": "오리",
+      "note": "이 단어는 일반적으로 물새 중 하나인 오리를 가리킵니다.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    [
+      6,
+      7,
+      8
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      11,
+      12,
+      13,
+      14
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-338/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "That which is never lost cannot be found, and to search for it is absurd.",
+      "korean": "잃어버리지 않는 것은 찾을 필요가 없으며, 그것을 찾으려는 것은 어리석다.",
+      "explanation": "절대 잃어버리지 않는 무언가를 찾으려는 행위는 의미가 없고 어리석다는 의미",
+      "grammar": "「cannot be found」는 조동사 + be + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-338/02.mp3",
+      "vocabulary": [
+        {
+          "word": "search",
+          "meaning": "찾다",
+          "note": "이 문맥에서는 어떤 것을 찾으려는 행위 자체를 의미한다."
+        },
+        {
+          "word": "absurd",
+          "meaning": "어리석다, 무의미하다",
+          "note": "여기서는 찾는 행위가 논리적으로 맞지 않음을 강조한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "But the moment this absurdity is understood all seeking stops by itself and that which is never lost is found!",
+      "korean": "그러나 이 부조리를 이해하는 순간 스스로 멈추게 되고, 잃어지지 않는 것이 찾아진다!",
+      "explanation": "문장은 부조리를 깨닫는 순간 더 이상 찾는 행위가 필요 없어지고, 본질적으로 항상 존재하는 것이 자연스럽게 인식된다는 의미를 전달한다.",
+      "grammar": "「is found」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-338/03.mp3",
+      "vocabulary": [
+        {
+          "word": "absurdity",
+          "meaning": "부조리",
+          "note": "상황이나 개념이 논리적으로나 합리적으로 설명되지 않는 상태를 의미한다."
+        },
+        {
+          "word": "understood",
+          "meaning": "이해하다",
+          "note": "부조리를 인식하고 그 의미를 파악하는 과정을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "That is why I say: Seek and you will not find, because the very seeking is the barrier.",
+      "korean": "이것이 바로 내 말의 이유입니다: 찾으려고 하면 찾지 못할 것이니, 찾는 행위 자체가 걸림돌이 되기 때문입니다.",
+      "explanation": "문장은 찾는 행위가 오히려 목표를 찾는 것을 방해한다는 의미를 전달합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-338/04.mp3",
+      "vocabulary": [
+        {
+          "word": "seeking",
+          "meaning": "찾다, 추구하다",
+          "note": "여기서는 목표나 깨달음을 찾는 행위를 의미합니다."
+        },
+        {
+          "word": "barrier",
+          "meaning": "장애물, 걸림돌",
+          "note": "목표 달성을 방해하는 요소를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "The search itself is the hindrance because it creates the seeker, the ego, the illusion that I am.",
+      "korean": "탐색 자체가 방해물인 이유는 그것이 자아, 즉 '나'라는 환상을 만들어내기 때문입니다.",
+      "explanation": "문장은 탐색 행위가 오히려 진정한 발견을 방해하며, 이는 자아 인식이라는 착각을 만들어내기 때문이라고 설명합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-338/05.mp3",
+      "vocabulary": [
+        {
+          "word": "hindrance",
+          "meaning": "장애",
+          "note": "문장에서 탐색 행위가 목표 달성을 방해하는 요소임을 나타냅니다."
+        },
+        {
+          "word": "illusion",
+          "meaning": "환상",
+          "note": "자아 인식이 실제와 다른 착각이나 오해임을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "And I am not.",
+      "korean": "그리고 나는 아니다.",
+      "explanation": "문장은 자아의 존재를 부정하며, 탐색 과정에서 형성된 자아 개념을 해체하려는 의지를 표현한다.",
+      "grammar": "「am」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-338/06.mp3",
+      "vocabulary": [
+        {
+          "word": "And",
+          "meaning": "그리고",
+          "note": "문장 연결, 앞 문장과의 논리적 연관성 강조"
+        },
+        {
+          "word": "not",
+          "meaning": "아니다",
+          "note": "부정어, 자아의 존재를 부정하는 핵심적인 표현"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Do not seek and you will find it: the I-am-not-ness.",
+      "korean": "찾지 않으면 그것을 발견하게 된다: 나는 존재하지 않는다는 것을.",
+      "explanation": "문장은 찾는 행위를 하지 않을 때, 즉 '나는 존재하지 않는다'는 상태를 자연스럽게 발견하게 된다는 의미를 전달합니다.",
+      "grammar": "「Do not seek」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1971-338/07.mp3",
+      "vocabulary": [
+        {
+          "word": "seek",
+          "meaning": "찾다",
+          "note": "문장에서 어떤 것을 적극적으로 추구하거나 탐색하는 행위를 의미합니다."
+        },
+        {
+          "word": "find",
+          "meaning": "발견하다",
+          "note": "적극적으로 찾는 행위의 결과로 얻게 되는 상태나 존재를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "This nothingness is the gate.",
+      "korean": "이 공허함이 관문이다.",
+      "explanation": "공허함이라는 개념이 어떤 상태나 존재로 들어가는 관문 역할을 한다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-338/08.mp3",
+      "vocabulary": [
+        {
+          "word": "nothingness",
+          "meaning": "공허함, 무존재",
+          "note": "이 문맥에서는 존재하지 않는 상태나 본질적인 공허함을 의미합니다."
+        },
+        {
+          "word": "gate",
+          "meaning": "관문, 출입구",
+          "note": "이 문장에서는 어떤 상태나 존재로 진입하거나 접근할 수 있는 통로를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "The Gateless gate.",
+      "korean": "무문관",
+      "explanation": "이 문장은 '무문관'이라는 제목의 책이나 개념을 가리키며, 'nothingness' 즉 무(無)를 통과하는 관문을 의미합니다.",
+      "grammar": "명사 「Gateless」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1971-338/09.mp3",
+      "vocabulary": [
+        {
+          "word": "gate",
+          "meaning": "문관, 관문",
+          "note": "여기서는 추상적인 개념인 무(無)를 통과하는 관문을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "Riko once asked Nansen to explain to him the old problem of the goose in the bottle.",
+      "korean": "리코는 한 번 나센에게 병 속의 거위 문제를 설명해달라고 요청했다.",
+      "explanation": "리코가 나센에게 특정 불교적 또는 철학적 문제, 즉 '병 속의 거위 문제'에 대해 설명을 청했다는 내용입니다.",
+      "grammar": "동사 「asked」는 ask의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-338/10.mp3",
+      "vocabulary": [
+        {
+          "word": "explain",
+          "meaning": "설명하다",
+          "note": "어떤 개념이나 문제를 쉽게 이해할 수 있도록 자세히 이야기하거나 해석하는 것을 의미합니다."
+        },
+        {
+          "word": "problem",
+          "meaning": "문제",
+          "note": "여기서는 불교적 또는 철학적 맥락에서의 특정 개념이나 딜레마를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "If a man puts a gosling into the bottle, he said, and teeds the gosling through the bottles neck until it grows and grows and becomes a goose - and then there is simply no more room inside the bottle, how can the man get it out without killing the goose or breaking the bottle?",
+      "korean": "병에 새끼 거위를 넣고 목을 통해 자라게 해서 결국 거위가 되면 병 안에 들어갈 공간이 없어지는데, 남자가 거위를 죽이지 않고 병도 깨지 않고 거위를 꺼내는 방법은 무엇일까요?",
+      "explanation": "거위가 자라서 병 안에 들어갈 공간이 부족해진 상황에서 거위를 해치지 않고 병을 깨뜨리지 않고 거위를 어떻게 꺼낼 수 있을지 묻는 질문입니다.",
+      "grammar": "「can the man get it out」에서 조동사 can 뒤에 동사원형 「get」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1971-338/11.mp3",
+      "vocabulary": [
+        {
+          "word": "gosling",
+          "meaning": "새끼 거위",
+          "note": "거위의 새끼를 의미합니다."
+        },
+        {
+          "word": "bottles",
+          "meaning": "병",
+          "note": "거위가 자라는 공간으로 사용되는 병을 의미합니다."
+        },
+        {
+          "word": "breaking",
+          "meaning": "깨다",
+          "note": "병을 깨는 행위를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "RIKO! shouted Nansen, and gave a great clap with his hands.",
+      "korean": "리케! 하고 나센이 큰 소리로 외쳤다.",
+      "explanation": "나센이라는 인물이 '리케!'라고 외치며 큰 박수를 쳤다.",
+      "grammar": "동사 「shouted」는 shout의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-338/12.mp3",
+      "vocabulary": [
+        {
+          "word": "shouted",
+          "meaning": "큰 소리로 외치다",
+          "note": "강조와 함께 큰 소리로 말하는 행위를 나타냄"
+        },
+        {
+          "word": "great",
+          "meaning": "큰",
+          "note": "박수의 크기나 강도를 강조하는 형용사"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "Yes master! said Riko with a start.",
+      "korean": "네, 선생님! 이라고 리코가 놀라서 말했다.",
+      "explanation": "리코가 놀라서 '네, 선생님!'이라고 대답한다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-338/13.mp3",
+      "vocabulary": [
+        {
+          "word": "master",
+          "meaning": "선생님",
+          "note": "지도자나 선생님을 의미하며, 존경의 의미를 담고 있다."
+        },
+        {
+          "word": "start",
+          "meaning": "놀라거나 당황한 상태",
+          "note": "주로 상황에 대한 즉각적인 반응을 나타낼 때 사용되며, 여기서는 리코가 당황한 모습을 표현한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "See! said Nansen.",
+      "korean": "보세요!라고 나센이 말했습니다.",
+      "explanation": "나센이 주의를 끌기 위해 말함",
+      "grammar": "동사원형 「See」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-338/14.mp3",
+      "vocabulary": [
+        {
+          "word": "said",
+          "meaning": "말하다",
+          "note": "대화에서 발화자의 말을 전달하는 동사"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "The goose is out!",
+      "korean": "오리가 나왔어요!",
+      "explanation": "오리가 어디에서 나왔다는 의미로, 상황에 따라 오리가 실제로 나왔거나 어떤 상황이 시작되었다는 것을 나타낼 수 있습니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-338/15.mp3",
+      "vocabulary": [
+        {
+          "word": "goose",
+          "meaning": "오리",
+          "note": "이 단어는 일반적으로 물새 중 하나인 오리를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "잃어버리지 않는 것은 찾을 필요가 없으며, 그것을 찾으려는 것은 어리석다. 그러나 이 부조리를 이해하는 순간 스스로 멈추게 되고, 잃어지지 않는 것이 찾아진다! 이것이 바로 내 말의 이유입니다: 찾으려고 하면 찾지 못할 것이니, 찾는 행위 자체가 걸림돌이 되기 때문입니다. 탐색 자체가 방해물인 이유는 그것이 자아, 즉 '나'라는 환상을 만들어내기 때문입니다. 그리고 나는 아니다.",
+    "찾지 않으면 그것을 발견하게 된다: 나는 존재하지 않는다는 것을. 이 공허함이 관문이다. 무문관",
+    "리코는 한 번 나센에게 병 속의 거위 문제를 설명해달라고 요청했다. 병에 새끼 거위를 넣고 목을 통해 자라게 해서 결국 거위가 되면 병 안에 들어갈 공간이 없어지는데, 남자가 거위를 죽이지 않고 병도 깨지 않고 거위를 꺼내는 방법은 무엇일까요?",
+    "리케! 하고 나센이 큰 소리로 외쳤다. 네, 선생님! 이라고 리코가 놀라서 말했다. 보세요!라고 나센이 말했습니다. 오리가 나왔어요!"
+  ],
+  "fullAudio": "audio/1971-338/script_all.mp3",
+  "originalText": "Love.\n\nThat which is never lost cannot be found,\nand to search for it is absurd.\nBut the moment this absurdity is understood\nall seeking stops by itself\nand that which is never lost is found!\nThat is why I say:\nSeek and you will not find,\nbecause the very seeking is the barrier.\nThe search itself is the hindrance\nbecause it creates the seeker, the ego,\nthe illusion that I am.\nAnd I am not.\n\nDo not seek and you will find it:\nthe I-am-not-ness.\nThis nothingness is the gate.\nThe Gateless gate.\n\nRiko once asked Nansen\nto explain to him the old problem of the goose\nin the bottle.\nIf a man puts a gosling into the bottle, he said,\nand teeds the gosling through the bottles neck\nuntil it grows and grows and becomes a goose -\nand then there is simply no more room inside the bottle,\nhow can the man get it out without killing the goose\nor breaking the bottle?\n\nRIKO! shouted Nansen, and gave a great clap\nwith his hands.\nYes master! said Riko with a start.\nSee! said Nansen.\nThe goose is out!",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 338,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0907 2.JPG",
+        "side": "left",
+        "printedPage": 264
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

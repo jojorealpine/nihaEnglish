@@ -1,0 +1,23 @@
+{
+  "key": "letter-080-part-03",
+  "number": 80,
+  "generationId": "01a1e62e-db13-7a8c-b2fe-e283dffdfe61",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 20,
+      "text": "See.",
+      "path": "audio/1970-80/21.mp3",
+      "start": 0.0,
+      "end": 0.673946
+    },
+    {
+      "index": 21,
+      "text": "Just see.",
+      "path": "audio/1970-80/22.mp3",
+      "start": 2.163424,
+      "end": 3.0
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "sourceHash": "386302916eeff0ca10d01b25860a0946ebca74a0ae99a77df270d8e1840c0fc5",
+  "sentences": {
+    "16": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "모든 분께 안부를 전합니다.",
+        "explanation": "편지를 받는 사람뿐 아니라 그 주변 사람들에게도 따뜻한 안부를 전하는 말입니다.",
+        "grammar": "My regards는 안부 인사를 뜻하는 복수 명사구입니다. to all은 그 인사가 향하는 대상을 나타내며, I send 같은 주어와 동사가 생략된 인사말입니다.",
+        "vocabulary": [
+          {
+            "word": "regards",
+            "meaning": "안부, 인사",
+            "note": "이 뜻에서는 복수형으로 쓰며, 무언가를 바라본다는 동사 regard와 구별합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "My regards to all",
+            "meaning": "모두에게 안부를 전합니다",
+            "explanation": "여러 사람에게 안부를 전해 달라고 부탁하거나, 편지를 맺을 때 사용할 수 있습니다."
+          }
+        ]
+      }
+    },
+    "1": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "nominal-fragment",
+      "notes": {
+        "korean": "사랑",
+        "explanation": "이 단어는 깊은 애정, 호감, 또는 강한 정서적 유대감을 나타냅니다.",
+        "grammar": "명사 「Love」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑",
+            "note": "강한 정서적 유대감이나 애정을 의미하며, 개인 간의 깊은 연결감을 표현합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "12": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "기억하세요",
+        "explanation": "이 문장은 삶의 진실에 도달하기 위해서는 오직 그것만을 통해 기억해야 함을 강조합니다.",
+        "grammar": "동사원형 「Remember」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "Remember",
+            "meaning": "기억하다",
+            "note": "이 문맥에서는 삶의 진실을 이해하고 유지하기 위해 지속적으로 회상하거나 명심해야 함을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "nominal-fragment",
+      "notes": {
+        "korean": "그렇게 많은 사랑",
+        "explanation": "이 문장은 큰 양의 사랑을 표현하고 있으며, 주어진 문맥 'Love'와 연관되어 깊은 애정이나 긍정적인 감정을 강조한다.",
+        "grammar": "명사 「love」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+        "vocabulary": [
+          {
+            "word": "love",
+            "meaning": "사랑",
+            "note": "여기서는 깊은 애정이나 긍정적인 감정을 나타내며, 문맥에 따라 개인적인 사랑이나 더 넓은 의미의 애정을 의미할 수 있다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "14": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "이것은 영원한 법칙이다.",
+        "explanation": "이 문장은 어떤 원칙이나 규칙이 시간의 제약 없이 항상 적용된다는 의미를 전달한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "eternal",
+            "meaning": "영원한",
+            "note": "시간의 제약 없이 영원히 지속되는 것을 의미한다."
+          },
+          {
+            "word": "law",
+            "meaning": "법칙",
+            "note": "특정 상황이나 상태에서 항상 적용되는 원칙이나 규칙을 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "15": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "passive",
+      "notes": {
+        "korean": "하나님을 향한 어떠한 행동도 헛되지 않습니다.",
+        "explanation": "하나님을 향한 어떠한 노력이나 행동이라도 의미가 없어지지 않고 결국에는 가치가 있다는 의미입니다.",
+        "grammar": "「is ever wasted」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "taken",
+            "meaning": "취해진",
+            "note": "여기서는 어떤 행동이나 노력이 이루어졌음을 나타냅니다."
+          },
+          {
+            "word": "wasted",
+            "meaning": "헛되이 쓰인",
+            "note": "행동이나 노력이 아무런 성과 없이 무의미하게 쓰였다는 의미입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "perfect",
+      "notes": {
+        "korean": "나는 예전에도 그곳에 있었고, 나 역시 그 고통을 겪었다.",
+        "explanation": "이 문장은 화자가 과거에 비슷한 어려움이나 고통을 직접 경험했음을 강조하며, 공감과 연대의 메시지를 전달한다.",
+        "grammar": "「have suffered」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "suffered",
+            "meaning": "고통받다",
+            "note": "이 문맥에서는 과거에 겪었던 어려움이나 고통을 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "이 타오르는 것은 새로운 삶의 탄생을 가져온다.",
+        "explanation": "고통이나 어려움이 결국 긍정적인 변화나 새로운 기회로 이어질 수 있다는 의미입니다.",
+        "grammar": "동사 「brings」는 bring의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "burning",
+            "meaning": "타오르는",
+            "note": "여기서는 극심한 감정이나 고통을 비유적으로 표현합니다."
+          },
+          {
+            "word": "brings",
+            "meaning": "가져온다",
+            "note": "결과나 영향을 의미하며, 고통이 새로운 삶의 시작으로 이어진다는 것을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "11": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "진리를 얻기 위해서는 오직 그것만으로 나아갈 수 있다.",
+        "explanation": "진리를 이해하거나 도달하기 위해서는 특정한 방법, 즉 명상이나 수행과 같은 것에만 집중해야 한다는 의미입니다.",
+        "grammar": "「can one reach」에서 조동사 can 뒤에 동사원형 「reach」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "reach",
+            "meaning": "도달하다",
+            "note": "이 문맥에서는 어떤 목표나 상태에 도달하거나 이해하는 것을 의미합니다."
+          },
+          {
+            "word": "truth",
+            "meaning": "진리",
+            "note": "깊은 명상이나 수행을 통해 얻을 수 있는 본질적인 진실이나 깨달음을 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "물방울이 바다가 되려면 존재를 멈춰야 한다.",
+        "explanation": "물방울이 개별적인 존재에서 벗어나 전체적인 맥락 속에서 무한한 규모의 바다로 변화하는 과정을 설명한다.",
+        "grammar": "「can only become」에서 조동사 can 뒤에 동사원형 「become」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "ocean",
+            "meaning": "바다",
+            "note": "전체적인 규모와 깊이를 가진 물웅덩이를 의미하며, 여기서는 개별적인 물방울이 무한한 규모의 바다로 변모하는 개념을 나타낸다."
+          },
+          {
+            "word": "ceases",
+            "meaning": "멈추다",
+            "note": "물방울이 독립적인 존재에서 벗어나 더 큰 전체의 일부가 되는 과정을 나타내며, 이는 변화와 통합의 메타포를 담고 있다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "나는 네 열정이 너의 영혼을 얼마나 뜨겁게 달구는지와 눈물로 변하는 갈망을 잘 알고 있다.",
+        "explanation": "이 문장은 작성자가 수신자의 강한 감정과 갈망을 깊이 이해하고 있다는 것을 나타냅니다.",
+        "grammar": "동사 「know」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "fervor",
+            "meaning": "열정",
+            "note": "여기서는 강한 감정이나 열정을 의미합니다."
+          },
+          {
+            "word": "thirst",
+            "meaning": "갈망",
+            "note": "물리적인 목마름이 아닌, 강한 욕구 또는 갈망을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "편지를 받았을 때, 당신의 말을 통해 당신의 마음의 열정을 느낄 수 있었습니다.",
+        "explanation": "편지를 통해 보낸 사람의 진심 어린 감정을 이해하고 느꼈다는 의미입니다.",
+        "grammar": "동사 「received」는 receive의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "received",
+            "meaning": "받았다",
+            "note": "편지를 받는 행위를 나타냅니다."
+          },
+          {
+            "word": "letter",
+            "meaning": "편지",
+            "note": "감정이나 메시지를 전달하는 수단으로 사용됩니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "10": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "have-to",
+      "notes": {
+        "korean": "명상에 계속 노력하세요; 더 깊이 파고들어야 합니다 - 이것이 유일한 방법입니다.",
+        "explanation": "명상에 지속적으로 참여하고 깊이를 더해 나가야만 진정한 진전을 이룰 수 있다는 의미입니다.",
+        "grammar": "「have to go」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "Continue",
+            "meaning": "계속하다",
+            "note": "행동이나 상태를 지속적으로 유지하거나 이어가는 것을 의미합니다."
+          },
+          {
+            "word": "meditation",
+            "meaning": "명상",
+            "note": "마음을 집중시키고 내면의 평화와 깨달음을 추구하는 정신적 연습을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "13": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "bound-to",
+      "notes": {
+        "korean": "수행에 몰두하고 완전히 헌신하며 포기하는 자세를 갖춘다면 진리에 도달하게 될 것입니다.",
+        "explanation": "수행을 통해 깊은 집중과 완전한 헌신, 그리고 모든 것을 맡기는 태도를 유지하면 결국 진리를 깨닫게 된다는 의미입니다.",
+        "grammar": "「are bound to reach」는 be bound to + 동사원형의 구조로, 어떤 일이 반드시 일어나리라는 강한 확신을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "committed",
+            "meaning": "헌신된",
+            "note": "어떤 목표나 활동에 완전히 몰두하고 전념하는 상태를 의미합니다."
+          },
+          {
+            "word": "surrendered",
+            "meaning": "포기한",
+            "note": "모든 것을 맡기고 통제를 내려놓는 상태를 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "have-to",
+      "notes": {
+        "korean": "나도 같은 갈망을 겪어 보았으며, 그것이 언젠가 격렬한 불꽃으로 변해 자신을 삼켜야 하는 상황이 되는 것을 경험했다.",
+        "explanation": "이 문장은 화자가 과거에 비슷한 갈망을 느꼈고, 그 갈망이 시간이 지나면서 강렬해져 자신을 변화시키거나 압도하는 힘으로 변모했다는 것을 설명한다.",
+        "grammar": "「has to consume」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "experienced",
+            "meaning": "경험하다",
+            "note": "과거의 직접적인 체험이나 참여를 나타낸다."
+          },
+          {
+            "word": "longing",
+            "meaning": "갈망, 갈망",
+            "note": "특정 목표나 상태를 향한 강한 욕구나 갈망을 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "have-to",
+      "notes": {
+        "korean": "당신의 마음을 잘 이해할 수 있어요. 왜냐하면 저도 신을 향한 여정에서 비슷한 길을 걸었거든요.",
+        "explanation": "이 문장은 화자가 상대방의 경험과 감정을 공감하고 이해할 수 있다는 것을 나타냅니다. 화자는 과거에 비슷한 여정을 겪었기 때문에 현재 상대방이 겪고 있는 상황을 잘 이해할 수 있다고 말합니다.",
+        "grammar": "「have to take」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "understand",
+            "meaning": "이해하다",
+            "note": "상대방의 감정이나 상황을 공감하고 파악하는 능력을 의미합니다."
+          },
+          {
+            "word": "traveled",
+            "meaning": "여행하다, 겪다",
+            "note": "여기서는 신을 향한 여정이나 경험을 비유적으로 표현한 것으로, 어려움이나 시련을 겪은 경험을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

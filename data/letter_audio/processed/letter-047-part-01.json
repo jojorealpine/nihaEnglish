@@ -1,0 +1,79 @@
+{
+  "key": "letter-047-part-01",
+  "number": 47,
+  "generationId": "01a1e4f0-d0f9-71dc-82c0-4c2b873d9127",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1968-47/01.mp3",
+      "start": 0.0,
+      "end": 0.586122
+    },
+    {
+      "index": 1,
+      "text": "I was glad to receive your letter.",
+      "path": "audio/1968-47/02.mp3",
+      "start": 1.7488890000000001,
+      "end": 3.426122
+    },
+    {
+      "index": 2,
+      "text": "Truth is unknown, and to know it one has to die to the known.",
+      "path": "audio/1968-47/03.mp3",
+      "start": 4.80941,
+      "end": 8.195488
+    },
+    {
+      "index": 3,
+      "text": "Once the banks of the known are left behind one enters the ocean of the unknown.",
+      "path": "audio/1968-47/04.mp3",
+      "start": 9.437800000000001,
+      "end": 13.362834
+    },
+    {
+      "index": 4,
+      "text": "Be brave and take the jump!",
+      "path": "audio/1968-47/05.mp3",
+      "start": 14.556961000000001,
+      "end": 16.219433000000002
+    },
+    {
+      "index": 5,
+      "text": "Into emptiness, the great emptiness!",
+      "path": "audio/1968-47/06.mp3",
+      "start": 17.492901999999997,
+      "end": 19.5961
+    },
+    {
+      "index": 6,
+      "text": "Because that's where God lives.",
+      "path": "audio/1968-47/07.mp3",
+      "start": 21.092993,
+      "end": 22.791701
+    },
+    {
+      "index": 7,
+      "text": "Love to all, or to the only one!",
+      "path": "audio/1968-47/08.mp3",
+      "start": 24.255692,
+      "end": 26.677415
+    },
+    {
+      "index": 8,
+      "text": "For only the one is.",
+      "path": "audio/1968-47/09.mp3",
+      "start": 28.269887,
+      "end": 29.764172000000002
+    },
+    {
+      "index": 9,
+      "text": "He alone is.",
+      "path": "audio/1968-47/10.mp3",
+      "start": 31.32576,
+      "end": 33.28
+    }
+  ]
+}

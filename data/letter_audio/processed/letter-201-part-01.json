@@ -1,0 +1,79 @@
+{
+  "key": "letter-201-part-01",
+  "number": 201,
+  "generationId": "01a1e8ec-a661-7438-bc41-70c704e541c7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-201/01.mp3",
+      "start": 0.0,
+      "end": 0.702971
+    },
+    {
+      "index": 1,
+      "text": "It is tragic but true that few people ever possess their souls.",
+      "path": "audio/1971-201/02.mp3",
+      "start": 2.062653,
+      "end": 6.6609300000000005
+    },
+    {
+      "index": 2,
+      "text": "They possess everything except themselves, and then naturally they just become a thing among their other things.",
+      "path": "audio/1971-201/03.mp3",
+      "start": 8.063673000000001,
+      "end": 13.936416999999999
+    },
+    {
+      "index": 3,
+      "text": "The possessor becomes the possessed.",
+      "path": "audio/1971-201/04.mp3",
+      "start": 15.339229000000001,
+      "end": 17.739478000000002
+    },
+    {
+      "index": 4,
+      "text": "Nothing is more rare in any man, says Emerson, than an act of his own.",
+      "path": "audio/1971-201/05.mp3",
+      "start": 19.084739,
+      "end": 23.586281
+    },
+    {
+      "index": 5,
+      "text": "But this is just what can be expected because no one is their own, no one is themself.",
+      "path": "audio/1971-201/06.mp3",
+      "start": 25.082948,
+      "end": 30.300431
+    },
+    {
+      "index": 6,
+      "text": "Most people are other people.",
+      "path": "audio/1971-201/07.mp3",
+      "start": 31.642608,
+      "end": 33.297301999999995
+    },
+    {
+      "index": 7,
+      "text": "They are not living but only acting roles given to them by others.",
+      "path": "audio/1971-201/08.mp3",
+      "start": 34.721474,
+      "end": 38.427279
+    },
+    {
+      "index": 8,
+      "text": "Their thoughts are someone else's opinions and their faces are just masks.",
+      "path": "audio/1971-201/09.mp3",
+      "start": 40.02,
+      "end": 44.503152
+    },
+    {
+      "index": 9,
+      "text": "They are faceless.",
+      "path": "audio/1971-201/10.mp3",
+      "start": 46.110907000000005,
+      "end": 48.3
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "letter-184-part-01",
+  "number": 184,
+  "generationId": "01a1e8e8-9d46-736a-bd87-a961556de36c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-184/01.mp3",
+      "start": 0.0,
+      "end": 0.626145
+    },
+    {
+      "index": 1,
+      "text": "The journey is long and the path is pathless.",
+      "path": "audio/1971-184/02.mp3",
+      "start": 1.771429,
+      "end": 4.0561
+    },
+    {
+      "index": 2,
+      "text": "And one has to be alone - there is no map and no guide.",
+      "path": "audio/1971-184/03.mp3",
+      "start": 5.178367,
+      "end": 8.544262999999999
+    },
+    {
+      "index": 3,
+      "text": "But there is no alternative.",
+      "path": "audio/1971-184/04.mp3",
+      "start": 9.69644,
+      "end": 10.941633
+    },
+    {
+      "index": 4,
+      "text": "One cannot escape it, one cannot evade it.",
+      "path": "audio/1971-184/05.mp3",
+      "start": 12.086916,
+      "end": 14.390906999999999
+    },
+    {
+      "index": 5,
+      "text": "One has to go on the journey.",
+      "path": "audio/1971-184/06.mp3",
+      "start": 15.528798,
+      "end": 16.80941
+    },
+    {
+      "index": 6,
+      "text": "The goal seems impossible but the urge to go on it is intrinsic.",
+      "path": "audio/1971-184/07.mp3",
+      "start": 17.948843999999998,
+      "end": 22.049161
+    },
+    {
+      "index": 7,
+      "text": "The need is deep in the soul.",
+      "path": "audio/1971-184/08.mp3",
+      "start": 23.575419999999998,
+      "end": 25.510363
+    },
+    {
+      "index": 8,
+      "text": "Really, you are the urge, you are the need - and consciousness cannot be otherwise because of this challenge and because of this adventure.",
+      "path": "audio/1971-184/09.mp3",
+      "start": 27.130816,
+      "end": 35.066032
+    },
+    {
+      "index": 9,
+      "text": "So do not waste time - begin.",
+      "path": "audio/1971-184/10.mp3",
+      "start": 36.585329,
+      "end": 39.71
+    }
+  ]
+}

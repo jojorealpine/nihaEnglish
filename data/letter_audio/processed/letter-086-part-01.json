@@ -1,0 +1,58 @@
+{
+  "key": "letter-086-part-01",
+  "number": 86,
+  "generationId": "01a1e62f-fe6e-7b0e-8863-9b3f0eeddc39",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-86/01.mp3",
+      "start": 0.0,
+      "end": 0.633968
+    },
+    {
+      "index": 1,
+      "text": "Why does man suffer so much?",
+      "path": "audio/1970-86/02.mp3",
+      "start": 2.130658,
+      "end": 4.031565
+    },
+    {
+      "index": 2,
+      "text": "Because in his life there is pandemonium but no soundless music.",
+      "path": "audio/1970-86/03.mp3",
+      "start": 5.441791,
+      "end": 9.175033999999998
+    },
+    {
+      "index": 3,
+      "text": "Because in his life there is a babble of thoughts but no emptiness.",
+      "path": "audio/1970-86/04.mp3",
+      "start": 10.781519000000001,
+      "end": 14.386076999999998
+    },
+    {
+      "index": 4,
+      "text": "Because in his life there is a turmoil of feeling but no equanimity.",
+      "path": "audio/1970-86/05.mp3",
+      "start": 15.825079,
+      "end": 19.75458
+    },
+    {
+      "index": 5,
+      "text": "Because in his life there is a mad rushing around but no stillness which knows no directions.",
+      "path": "audio/1970-86/06.mp3",
+      "start": 21.213537,
+      "end": 27.598594000000002
+    },
+    {
+      "index": 6,
+      "text": "And finally, because in his life there is much of himself but of God, nothing at all.",
+      "path": "audio/1970-86/07.mp3",
+      "start": 29.152562,
+      "end": 36.39
+    }
+  ]
+}

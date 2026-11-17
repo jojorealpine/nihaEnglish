@@ -1,0 +1,65 @@
+{
+  "key": "letter-269-part-01",
+  "number": 269,
+  "generationId": "01a1e8fe-a68b-755d-84be-930d350fec19",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-269/01.mp3",
+      "start": 0.0,
+      "end": 0.629841
+    },
+    {
+      "index": 1,
+      "text": "If the present is just continuous with the past then it is not present at all.",
+      "path": "audio/1971-269/02.mp3",
+      "start": 1.966122,
+      "end": 6.686961
+    },
+    {
+      "index": 2,
+      "text": "To be present, the present must be discontinuous with the past, only then is it young, fresh and new - and then it is not a part of time but is eternity itself",
+      "path": "audio/1971-269/03.mp3",
+      "start": 8.104535,
+      "end": 18.831950000000003
+    },
+    {
+      "index": 3,
+      "text": "The now is eternal but we live in the past or in the future - which is nothing but a faint echo of the past itself.",
+      "path": "audio/1971-269/04.mp3",
+      "start": 20.171633,
+      "end": 27.719705
+    },
+    {
+      "index": 4,
+      "text": "Our whole activity springs from the past or the future - which is the same thing.",
+      "path": "audio/1971-269/05.mp3",
+      "start": 29.114127,
+      "end": 34.378594
+    },
+    {
+      "index": 5,
+      "text": "Then the present is false and dead: and if the present is false then we cannot be real, and if the present is dead then we cannot be alive.",
+      "path": "audio/1971-269/06.mp3",
+      "start": 35.726259000000006,
+      "end": 44.52068
+    },
+    {
+      "index": 6,
+      "text": "That is why I insist on living in the present and dying each moment to the past.",
+      "path": "audio/1971-269/07.mp3",
+      "start": 46.027370000000005,
+      "end": 51.376281
+    },
+    {
+      "index": 7,
+      "text": "Live atomically - moment to moment - and then your life will have a totally different quality: the quality of the divine.",
+      "path": "audio/1971-269/08.mp3",
+      "start": 53.102698000000004,
+      "end": 62.77
+    }
+  ]
+}

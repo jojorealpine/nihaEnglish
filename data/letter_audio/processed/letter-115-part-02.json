@@ -1,0 +1,65 @@
+{
+  "key": "letter-115-part-02",
+  "number": 115,
+  "generationId": "01a1e671-4e7a-726c-8e57-d91cec048da6",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Everyone is lying under their dreams in the same way.",
+      "path": "audio/1970-115/11.mp3",
+      "start": 0.0,
+      "end": 2.830454
+    },
+    {
+      "index": 11,
+      "text": "If this president had looked within, what would he have found?",
+      "path": "audio/1970-115/12.mp3",
+      "start": 4.3804989999999995,
+      "end": 7.905397
+    },
+    {
+      "index": 12,
+      "text": "Is not every capital a great madhouse?",
+      "path": "audio/1970-115/13.mp3",
+      "start": 9.429478000000001,
+      "end": 12.142676
+    },
+    {
+      "index": 13,
+      "text": "But one cannot see one's own madness - this is a sure trait of madness When someone starts doubting himself, seeing his madness, know well that the time has come for his insanity to go.",
+      "path": "audio/1970-115/14.mp3",
+      "start": 13.651247000000001,
+      "end": 26.812676
+    },
+    {
+      "index": 14,
+      "text": "Awareness of madness marks the end of madness.",
+      "path": "audio/1970-115/15.mp3",
+      "start": 28.010158999999998,
+      "end": 30.688639000000002
+    },
+    {
+      "index": 15,
+      "text": "Awareness of ignorance heralds its end.",
+      "path": "audio/1970-115/16.mp3",
+      "start": 31.851564999999997,
+      "end": 34.17102
+    },
+    {
+      "index": 16,
+      "text": "Awareness of dreaming brings dreams to an end.",
+      "path": "audio/1970-115/17.mp3",
+      "start": 35.383379000000005,
+      "end": 38.181518999999994
+    },
+    {
+      "index": 17,
+      "text": "What is left is truth.",
+      "path": "audio/1970-115/18.mp3",
+      "start": 39.477891,
+      "end": 41.87
+    }
+  ]
+}

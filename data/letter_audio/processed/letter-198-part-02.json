@@ -1,0 +1,37 @@
+{
+  "key": "letter-198-part-02",
+  "number": 198,
+  "generationId": "01a1e8ec-2b36-7892-8205-998b5f0a065e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "The self exists only in ignorance.",
+      "path": "audio/1971-198/11.mp3",
+      "start": 0.0,
+      "end": 2.270635
+    },
+    {
+      "index": 11,
+      "text": "It is ignorance.",
+      "path": "audio/1971-198/12.mp3",
+      "start": 3.751406,
+      "end": 5.280476
+    },
+    {
+      "index": 12,
+      "text": "In knowing there is no self because there is no knower.",
+      "path": "audio/1971-198/13.mp3",
+      "start": 6.7787299999999995,
+      "end": 10.347482999999999
+    },
+    {
+      "index": 13,
+      "text": "Then knowing is enough unto itself.",
+      "path": "audio/1971-198/14.mp3",
+      "start": 11.911995000000001,
+      "end": 14.39
+    }
+  ]
+}

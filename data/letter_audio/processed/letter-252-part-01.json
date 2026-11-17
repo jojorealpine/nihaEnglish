@@ -1,0 +1,72 @@
+{
+  "key": "letter-252-part-01",
+  "number": 252,
+  "generationId": "01a1e8fa-f10e-7c65-80be-1bf8075aeeb3",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-252/01.mp3",
+      "start": 0.0,
+      "end": 0.6944899999999999
+    },
+    {
+      "index": 1,
+      "text": "Existence exists in order to exist - and likewise life.",
+      "path": "audio/1971-252/02.mp3",
+      "start": 2.063039,
+      "end": 5.861791
+    },
+    {
+      "index": 2,
+      "text": "There is no meaning to it beyond itself so never posit any meaning, otherwise you will feel its meaninglessness.",
+      "path": "audio/1971-252/03.mp3",
+      "start": 7.201497,
+      "end": 14.180567
+    },
+    {
+      "index": 3,
+      "text": "It is not meaningless and it cannot be so because there is no meaning in it all!",
+      "path": "audio/1971-252/04.mp3",
+      "start": 15.512177000000001,
+      "end": 20.086576
+    },
+    {
+      "index": 4,
+      "text": "The very search for meaning is mean and ugly because it comes from the utilitarian mind of man.",
+      "path": "audio/1971-252/05.mp3",
+      "start": 21.464762,
+      "end": 27.959297
+    },
+    {
+      "index": 5,
+      "text": "Existence simply is and likewise life: there is no purpose in it and there is no end to it Feel it here and now!",
+      "path": "audio/1971-252/06.mp3",
+      "start": 29.36068,
+      "end": 37.856961
+    },
+    {
+      "index": 6,
+      "text": "Please do not practice it because that is the way of the utilitarian mind.",
+      "path": "audio/1971-252/07.mp3",
+      "start": 39.255556000000006,
+      "end": 44.395669
+    },
+    {
+      "index": 7,
+      "text": "Be playful and only then will you know the playfulness of the universe.",
+      "path": "audio/1971-252/08.mp3",
+      "start": 45.869773,
+      "end": 50.249568999999994
+    },
+    {
+      "index": 8,
+      "text": "And to know that is to be religious.",
+      "path": "audio/1971-252/09.mp3",
+      "start": 51.858322,
+      "end": 54.99
+    }
+  ]
+}

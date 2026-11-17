@@ -1,0 +1,296 @@
+{
+  "sourceHash": "687ef6ac7eb1ed5343cd8d59e771c6c3a3e6b8fe287b6f8de2c75e325fa34f60",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "10": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "눈을 감고 보세요.",
+        "explanation": "눈을 감은 상태에서 무언가를 관찰하거나 상상하라는 의미입니다.",
+        "grammar": "동사원형 「Close」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "Close",
+            "meaning": "닫다, 닫다 (여기서는 눈을 감다라는 의미)",
+            "note": "명령형으로 사용되어 행동을 유도합니다."
+          },
+          {
+            "word": "eyes",
+            "meaning": "눈",
+            "note": "이 문맥에서는 「눈」의 뜻으로 읽습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "11": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "그리고 눈을 뜨고 봐.",
+        "explanation": "처음에 눈을 감고 상상하거나 무언가를 바라보라고 한 후, 이제 눈을 뜨고 현실을 확인하라는 의미입니다.",
+        "grammar": "동사원형 「open」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "open",
+            "meaning": "열다, 뜨다",
+            "note": "여기서는 눈을 뜨는 동작을 의미합니다."
+          },
+          {
+            "word": "eyes",
+            "meaning": "눈",
+            "note": "시각을 통해 세상을 인식하라는 지시의 대상입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "사람은 신이 아닌 것만 알 수 있다.",
+        "explanation": "사람의 지식은 신의 영역을 제외한 것들에 국한된다는 의미",
+        "grammar": "「can only know」에서 조동사 can 뒤에 동사원형 「know」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "Man",
+            "meaning": "사람",
+            "note": "일반적인 인간을 지칭하며, 특정 개인을 지칭하는 것은 아님"
+          },
+          {
+            "word": "know",
+            "meaning": "알다",
+            "note": "지식이나 이해의 의미를 담고 있으며, 신의 영역에 대한 무지를 강조"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "신은 지금 여기에 계시며, 언제나 지금 여기에 계신다.",
+        "explanation": "문장은 신의 존재가 현재 순간에 국한되지 않고 항상 현재적이고 특정한 장소에 존재한다는 의미를 전달한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "always",
+            "meaning": "항상",
+            "note": "지속성을 나타내며, 시간의 흐름 속에서도 변하지 않는 상태를 강조한다."
+          },
+          {
+            "word": "here",
+            "meaning": "여기",
+            "note": "특정한 장소를 지칭하며, 신의 현존이 구체적인 공간에 국한된다는 의미를 담고 있다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "12": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "눈을 감지도, 뜨지도 않고 보려고 하지 마.",
+        "explanation": "문장은 독자에게 눈을 감거나 뜨지 않고서도 무언가를 인식하거나 이해하려는 시도를 하지 말 것을 권유하고 있습니다.",
+        "grammar": "동사원형 「close」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "close",
+            "meaning": "닫다, 감기다",
+            "note": "여기서는 '눈을 감다'는 의미로 사용되었습니다."
+          },
+          {
+            "word": "eyes",
+            "meaning": "눈",
+            "note": "문장에서 직접적인 시각적 인식과 관련된 단어입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "그 이유 때문에 그 차원에서는 앎과 존재가 동일합니다.",
+        "explanation": "문장은 특정 차원에서는 '앎'과 '존재'가 구분되지 않고 하나로 융합된다는 개념을 전달합니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "dimension",
+            "meaning": "차원",
+            "note": "물리적 공간이나 시간을 넘어서는 추상적인 영역이나 상태를 의미합니다."
+          },
+          {
+            "word": "knowing",
+            "meaning": "앎",
+            "note": "지식이나 인식의 상태를 나타냅니다. 여기서는 깊은 내면적 이해나 깨달음을 의미할 수 있습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "신을 알 수 없지만, 그 차원에서 존재할 수 있고, 그곳이 유일한 깨달음의 영역이다.",
+        "explanation": "신의 본질을 이해하거나 알 수 없지만, 신과 관련된 차원에서 살아가는 경험을 통해 깨달음을 얻을 수 있다는 의미입니다.",
+        "grammar": "「cannot know」에서 조동사 can 뒤에 동사원형 「know」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "dimension",
+            "meaning": "차원",
+            "note": "물리적 공간을 넘어 정신적 또는 영적인 영역을 가리키는 데 사용됩니다."
+          },
+          {
+            "word": "knowing",
+            "meaning": "깨달음",
+            "note": "깊은 이해나 영적 인식을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "신이 무엇인지 알기는 불가능하다. 왜냐하면 그것이 존재의 영역이 시작되는 곳이기 때문이다.",
+        "explanation": "신의 본질이나 본질적인 특성을 인간이 이해하거나 알 수 없다는 의미를 전달한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "impossible",
+            "meaning": "불가능한",
+            "note": "인간이 신을 완전히 이해하거나 알 수 없다는 강한 부정적 의미를 담고 있다."
+          },
+          {
+            "word": "begins",
+            "meaning": "시작되다",
+            "note": "신의 영역이 인간의 이해 범위를 벗어난 시작점임을 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "지식 자체가 이미 죽은 상태이기 때문에 지식이라는 개념 자체가 존재하지 않는다.",
+        "explanation": "문장은 어떤 차원이나 상태에서는 '지식'이라는 개념이 더 이상 의미를 갖지 못하고, 이미 '죽은 것'으로 간주되어 실체화될 수 없다는 의미를 전달한다.",
+        "grammar": "「There is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "knowledge",
+            "meaning": "지식",
+            "note": "여기서는 특정 차원이나 상태에서 지식이 더 이상 활성화되거나 의미 있는 역할을 하지 못함을 나타낸다."
+          },
+          {
+            "word": "thing",
+            "meaning": "것",
+            "note": "'지식'이 실체화되지 않고 추상적인 개념으로만 남아 있다는 의미를 강조한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "또한 지식은 항상 과거의 것이며, 신은 과거에도 미래에도 존재하지 않는다.",
+        "explanation": "지식은 항상 과거의 상태에 머물러 있으며, 신은 시간의 흐름 속에 존재하지 않는다는 의미를 담고 있다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "knowledge",
+            "meaning": "지식",
+            "note": "특정 정보나 이해의 범위를 의미하며, 이 문장에서는 과거에 국한된 상태를 나타낸다."
+          },
+          {
+            "word": "future",
+            "meaning": "미래",
+            "note": "앞으로 올 시기를 의미하며, 이 문장에서는 신이 존재하지 않는 시간의 범주를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "그러나 그 지식은 우리의 다른 모든 지식과는 전혀 다르다. 왜냐하면 그 지식에는 알고자 하는 주체도, 알려지는 대상도 없고, 오직 지식 자체만 존재하기 때문이다.",
+        "explanation": "그 지식은 다른 지식과 근본적으로 다르며, 주체와 대상이 없이 순수하게 지식 자체만 존재한다는 의미를 전달한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "knowing",
+            "meaning": "지식",
+            "note": "여기서는 신성한 지식이나 특별한 인식 상태를 의미한다."
+          },
+          {
+            "word": "altogether",
+            "meaning": "완전히",
+            "note": "다른 지식과는 전혀 다르다는 강조를 위해 사용된다."
+          },
+          {
+            "word": "different",
+            "meaning": "다른",
+            "note": "특성상 다른 지식과 구별되는 점을 강조한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "sourceHash": "0b434612a59be4a0a3cece508f5a46c8e2fbb8f9df4efb7e7ef536e6e0a0c7bc",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "마음에는 알려지지 않은 것이 없다.",
+        "explanation": "마음은 알려지지 않은 영역을 인정하지 않는다는 의미입니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "mind",
+            "meaning": "마음",
+            "note": "여기서는 인식이나 사고의 주체를 의미합니다."
+          },
+          {
+            "word": "unknown",
+            "meaning": "알려지지 않은",
+            "note": "모르거나 이해하지 못하는 상태를 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "아타르는 말한다: 여기와 이 상태에서 진정한 자아에 대해 아무것도 모른다고 한다.",
+        "explanation": "아타르가 진정한 자아에 대한 무지를 강조하고 있다.",
+        "grammar": "동사 「Says」는 say의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "Says",
+            "meaning": "말한다",
+            "note": "누군가의 발언이나 말을 전달한다."
+          },
+          {
+            "word": "state",
+            "meaning": "상태",
+            "note": "특정 상황이나 조건을 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "그러나 촛불이 되어 빛을 내뿜을 때 비로소 알게 된다.",
+        "explanation": "촛불이 되어 빛을 내는 순간에서야 불의 본질을 이해하게 된다는 의미입니다.",
+        "grammar": "동사 「knows」는 know의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "candle",
+            "meaning": "촛불",
+            "note": "빛을 내는 도구로, 이 문맥에서는 비유적인 대상입니다."
+          },
+          {
+            "word": "emitted",
+            "meaning": "내뿜다",
+            "note": "빛을 방출하거나 내보내는 행위를 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "do-support",
+      "notes": {
+        "korean": "꿀벌집 속의 밀랍처럼, 불이나 연기에 대해 무엇을 알겠는가?",
+        "explanation": "자신의 진정한 본질을 모르는 상태를 비유적으로 표현하고 있습니다. 밀랍이 벌집 안에서 불이나 연기의 본질을 이해하지 못하는 것처럼, 자신도 진정한 자아를 이해하지 못하고 있다는 의미입니다.",
+        "grammar": "조동사 「does」가 본동사 「know」와 함께 쓰였습니다. 의문문을 만들거나 동작을 강조할 때 do/does/did 뒤의 본동사는 원형을 유지합니다.",
+        "vocabulary": [
+          {
+            "word": "honeycomb",
+            "meaning": "꿀벌집",
+            "note": "밀랍이 들어있는 벌집을 의미하며, 비유적으로 인간의 본질을 가리킵니다."
+          },
+          {
+            "word": "guttering",
+            "meaning": "연기",
+            "note": "불로 인해 생기는 연기를 의미하며, 인간이 이해하기 어려운 본질적인 요소를 상징합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "마음은 알려진 영역 안에서만 작동하며, 알려진 세계를 넘어서는 것이 불가능하다.",
+        "explanation": "마음은 항상 익숙하고 이해할 수 있는 범위 내에서만 작용하며, 그 경계를 넘어서는 것은 불가능하다는 의미입니다.",
+        "grammar": "「cannot transcend」에서 조동사 can 뒤에 동사원형 「transcend」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "circle",
+            "meaning": "범위, 영역",
+            "note": "여기서는 마음이 작용하는 제한된 영역이나 범위를 의미합니다."
+          },
+          {
+            "word": "transcend",
+            "meaning": "넘어서다, 초월하다",
+            "note": "알려진 세계를 넘어서는 것을 의미하며, 이 경우 마음의 한계를 벗어난다는 뜻입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "신성을 지적으로 이해하는 것은 불가능하며, 이 때문에 지성은 그것을 부인하거나 그것에 대해 허구적인 체계를 만들어내는데, 이는 단순한 부인보다 더 위험하다.",
+        "explanation": "신성 개념을 이성으로 완전히 이해할 수 없다는 주장과 그로 인해 지성이 신성을 부인하거나 허구적인 설명을 만들어내는 것이 더 위험하다는 내용을 담고 있다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "impossible",
+            "meaning": "불가능한",
+            "note": "어떤 행동이나 상태가 실제로 이루어질 수 없다는 의미"
+          },
+          {
+            "word": "intellectually",
+            "meaning": "지적으로",
+            "note": "이성적으로나 사고적으로라는 의미"
+          },
+          {
+            "word": "fictitious",
+            "meaning": "허구적인",
+            "note": "실제로 존재하지 않고 상상이나 허구로 만들어진 것을 의미"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "key": "letter-049-part-02",
+  "number": 49,
+  "generationId": "01a1e4f1-291d-7521-9eb8-aee53c7efcda",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "How can love's contact be so?",
+      "path": "audio/1968-49/11.mp3",
+      "start": 0.0,
+      "end": 1.6386850000000002
+    },
+    {
+      "index": 11,
+      "text": "Love turns even a moment into eternity.",
+      "path": "audio/1968-49/12.mp3",
+      "start": 2.773628,
+      "end": 5.409274
+    },
+    {
+      "index": 12,
+      "text": "Where there is love there is nothing momentary, where there is love there is eternity.",
+      "path": "audio/1968-49/13.mp3",
+      "start": 6.584966,
+      "end": 11.946803
+    },
+    {
+      "index": 13,
+      "text": "Is a drop just a drop?",
+      "path": "audio/1968-49/14.mp3",
+      "start": 13.069138,
+      "end": 14.385646
+    },
+    {
+      "index": 14,
+      "text": "No!",
+      "path": "audio/1968-49/15.mp3",
+      "start": 15.411814000000001,
+      "end": 15.961746
+    },
+    {
+      "index": 15,
+      "text": "No!",
+      "path": "audio/1968-49/16.mp3",
+      "start": 17.030091,
+      "end": 17.59
+    },
+    {
+      "index": 16,
+      "text": "It is the ocean!",
+      "path": "audio/1968-49/17.mp3",
+      "start": 18.644671,
+      "end": 19.687279
+    },
+    {
+      "index": 17,
+      "text": "The drop seen through eyes of love becomes the ocean!",
+      "path": "audio/1968-49/18.mp3",
+      "start": 20.798797999999998,
+      "end": 23.72
+    }
+  ]
+}

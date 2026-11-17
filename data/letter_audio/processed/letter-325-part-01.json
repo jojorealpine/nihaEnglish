@@ -1,0 +1,79 @@
+{
+  "key": "letter-325-part-01",
+  "number": 325,
+  "generationId": "01a1e90e-ec1f-79bf-bfd0-ab65d5780c28",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-325/01.mp3",
+      "start": 0.0,
+      "end": 0.620839
+    },
+    {
+      "index": 1,
+      "text": "The whole of Yoga has gone dead because of imitation.",
+      "path": "audio/1971-325/02.mp3",
+      "start": 1.9112239999999998,
+      "end": 4.848662
+    },
+    {
+      "index": 2,
+      "text": "One cannot imitate anything that is real.",
+      "path": "audio/1971-325/03.mp3",
+      "start": 5.994943,
+      "end": 8.610975
+    },
+    {
+      "index": 3,
+      "text": "The real is always spontaneous: one can jump into it but one cannot practice it.",
+      "path": "audio/1971-325/04.mp3",
+      "start": 9.896893,
+      "end": 15.059296999999999
+    },
+    {
+      "index": 4,
+      "text": "Any practice is of the mind and by the mind - and the mind is the past, the dead The mind is the thing one has to jump out of.",
+      "path": "audio/1971-325/05.mp3",
+      "start": 16.339116,
+      "end": 25.313878000000003
+    },
+    {
+      "index": 5,
+      "text": "Out of the mind is the explosion, so be aware of the mind and its tricks!",
+      "path": "audio/1971-325/06.mp3",
+      "start": 26.838299,
+      "end": 31.720726000000003
+    },
+    {
+      "index": 6,
+      "text": "Mamiya went to a great teacher to learn meditation.",
+      "path": "audio/1971-325/07.mp3",
+      "start": 33.145442,
+      "end": 36.150248999999995
+    },
+    {
+      "index": 7,
+      "text": "The teacher told him to concentrate on the famous koan: What is the sound of one hand?",
+      "path": "audio/1971-325/08.mp3",
+      "start": 37.528866,
+      "end": 42.677369999999996
+    },
+    {
+      "index": 8,
+      "text": "Mamiya went away and came back a week later shaking his head.",
+      "path": "audio/1971-325/09.mp3",
+      "start": 44.166236000000005,
+      "end": 47.889184
+    },
+    {
+      "index": 9,
+      "text": "He could not get it.",
+      "path": "audio/1971-325/10.mp3",
+      "start": 49.378844,
+      "end": 50.7
+    }
+  ]
+}

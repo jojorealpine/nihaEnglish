@@ -1,0 +1,79 @@
+{
+  "key": "letter-075-part-01",
+  "number": 75,
+  "generationId": "01a1e62a-ad47-7f21-8a97-c73a999d52bb",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-75/01.mp3",
+      "start": 0.0,
+      "end": 0.644762
+    },
+    {
+      "index": 1,
+      "text": "Rest is the supreme goal, work is the medium.",
+      "path": "audio/1970-75/02.mp3",
+      "start": 1.77712,
+      "end": 4.844127
+    },
+    {
+      "index": 2,
+      "text": "Total relaxation, with complete freedom from effort, is the supreme goal.",
+      "path": "audio/1970-75/03.mp3",
+      "start": 6.0378,
+      "end": 11.097574
+    },
+    {
+      "index": 3,
+      "text": "Then life is a play, and then even effort becomes play.",
+      "path": "audio/1970-75/04.mp3",
+      "start": 12.189796000000001,
+      "end": 15.38966
+    },
+    {
+      "index": 4,
+      "text": "Poetry, philosophy, religion are the fruits of repose.",
+      "path": "audio/1970-75/05.mp3",
+      "start": 16.51229,
+      "end": 19.717846
+    },
+    {
+      "index": 5,
+      "text": "This has not been available to everyone, but technology and science will make it so in the near future.",
+      "path": "audio/1970-75/06.mp3",
+      "start": 20.844649,
+      "end": 26.836916000000002
+    },
+    {
+      "index": 6,
+      "text": "That is why I am in favor of technology.",
+      "path": "audio/1970-75/07.mp3",
+      "start": 28.205737,
+      "end": 30.827211000000002
+    },
+    {
+      "index": 7,
+      "text": "Those who attribute intrinsic value to labor oppose the use of machines - they have to.",
+      "path": "audio/1970-75/08.mp3",
+      "start": 32.220862000000004,
+      "end": 37.938707
+    },
+    {
+      "index": 8,
+      "text": "For me, labor has no such intrinsic value: on the contrary, I see it as a burden.",
+      "path": "audio/1970-75/09.mp3",
+      "start": 39.330703,
+      "end": 45.966553
+    },
+    {
+      "index": 9,
+      "text": "As long as work is a prerequisite for rest it cannot be blissful.",
+      "path": "audio/1970-75/10.mp3",
+      "start": 47.441905000000006,
+      "end": 52.01
+    }
+  ]
+}

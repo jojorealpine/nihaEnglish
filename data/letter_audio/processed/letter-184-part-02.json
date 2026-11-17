@@ -1,0 +1,51 @@
+{
+  "key": "letter-184-part-02",
+  "number": 184,
+  "generationId": "01a1e8e8-c6f4-7471-8f2a-8ef7e690ea67",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Do not calculate - begin.",
+      "path": "audio/1971-184/11.mp3",
+      "start": 0.0,
+      "end": 1.786984
+    },
+    {
+      "index": 11,
+      "text": "Do not hesitate - begin.",
+      "path": "audio/1971-184/12.mp3",
+      "start": 2.9845349999999997,
+      "end": 4.816304
+    },
+    {
+      "index": 12,
+      "text": "Do not look back - begin.",
+      "path": "audio/1971-184/13.mp3",
+      "start": 6.017211,
+      "end": 7.887234
+    },
+    {
+      "index": 13,
+      "text": "And always remember old Lao Tzu's words: A tree that takes both arms to be encircled grows from a tiny root.",
+      "path": "audio/1971-184/14.mp3",
+      "start": 9.220544,
+      "end": 15.743129
+    },
+    {
+      "index": 14,
+      "text": "A many-storied pagoda is built by placing one brick upon another brick.",
+      "path": "audio/1971-184/15.mp3",
+      "start": 16.910794,
+      "end": 20.879592000000002
+    },
+    {
+      "index": 15,
+      "text": "A journey of three thousand miles is begun by a single step.",
+      "path": "audio/1971-184/16.mp3",
+      "start": 22.373016,
+      "end": 27.19
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": "letter-231-part-02",
+  "number": 231,
+  "generationId": "01a1e8f6-2431-78be-a450-a85428cae5ae",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "You have not got anything in there.",
+      "path": "audio/1971-231/11.mp3",
+      "start": 0.0,
+      "end": 1.796077
+    },
+    {
+      "index": 11,
+      "text": "Well, master, said the monk, please show me the right way.",
+      "path": "audio/1971-231/12.mp3",
+      "start": 3.050726,
+      "end": 6.130295
+    },
+    {
+      "index": 12,
+      "text": "Thereupon Sekkyo seized the monk's nose and gave it a great yank.",
+      "path": "audio/1971-231/13.mp3",
+      "start": 7.4525619999999995,
+      "end": 11.188616999999999
+    },
+    {
+      "index": 13,
+      "text": "Ouch! yelled the monk.",
+      "path": "audio/1971-231/14.mp3",
+      "start": 12.543016000000001,
+      "end": 14.484558
+    },
+    {
+      "index": 14,
+      "text": "You hurt me!",
+      "path": "audio/1971-231/15.mp3",
+      "start": 15.906440000000002,
+      "end": 16.952063000000003
+    },
+    {
+      "index": 15,
+      "text": "I cannot help it, because that is the only way to get hold of emptiness! said Sekkyo.",
+      "path": "audio/1971-231/16.mp3",
+      "start": 18.310159,
+      "end": 23.72
+    }
+  ]
+}

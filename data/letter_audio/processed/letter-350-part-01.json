@@ -1,0 +1,37 @@
+{
+  "key": "letter-350-part-01",
+  "number": 350,
+  "generationId": "01a1e91b-e5d0-7033-a881-169df66e8cc1",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-350/01.mp3",
+      "start": 0.0,
+      "end": 0.736032
+    },
+    {
+      "index": 1,
+      "text": "Buddha says: If the mind does not arise all things are blameless.",
+      "path": "audio/1971-350/02.mp3",
+      "start": 2.279864,
+      "end": 7.469206
+    },
+    {
+      "index": 2,
+      "text": "What more is there to be said?",
+      "path": "audio/1971-350/03.mp3",
+      "start": 9.055102000000002,
+      "end": 10.977822999999999
+    },
+    {
+      "index": 3,
+      "text": "And even this much is enough to blame everything!",
+      "path": "audio/1971-350/04.mp3",
+      "start": 12.505624000000001,
+      "end": 15.54
+    }
+  ]
+}

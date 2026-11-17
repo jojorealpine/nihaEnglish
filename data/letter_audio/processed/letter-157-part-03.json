@@ -1,0 +1,23 @@
+{
+  "key": "letter-157-part-03",
+  "number": 157,
+  "generationId": "01a1e6f5-56be-7c50-90e1-ac4bb15bbf4c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 20,
+      "text": "Disappearance of mind is meditation.",
+      "path": "audio/1970-157/21.mp3",
+      "start": 0.0,
+      "end": 2.767755
+    },
+    {
+      "index": 21,
+      "text": "This is why I say: strive for meditation.",
+      "path": "audio/1970-157/22.mp3",
+      "start": 4.2313149999999995,
+      "end": 7.97
+    }
+  ]
+}

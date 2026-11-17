@@ -1,0 +1,79 @@
+{
+  "key": "letter-207-part-01",
+  "number": 207,
+  "generationId": "01a1e8ee-83bf-75ae-bd17-ddea288e66d9",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-207/01.mp3",
+      "start": 0.0,
+      "end": 0.6140140000000001
+    },
+    {
+      "index": 1,
+      "text": "Begin to live positively - that is, with positive emotions.",
+      "path": "audio/1971-207/02.mp3",
+      "start": 1.778435,
+      "end": 5.6799550000000005
+    },
+    {
+      "index": 2,
+      "text": "To be negative is to be self-destructive and ultimately suicidal.",
+      "path": "audio/1971-207/03.mp3",
+      "start": 6.862494,
+      "end": 11.606757
+    },
+    {
+      "index": 3,
+      "text": "But ordinarily the mind works that way because it is only an instrument for safety and security; it detects only death and not life.",
+      "path": "audio/1971-207/04.mp3",
+      "start": 12.862268,
+      "end": 21.288866000000002
+    },
+    {
+      "index": 4,
+      "text": "So to be completely positive is to transcend mind.",
+      "path": "audio/1971-207/05.mp3",
+      "start": 22.641292999999997,
+      "end": 26.526576000000002
+    },
+    {
+      "index": 5,
+      "text": "Some fakir was asked to talk to a group about the negative nature of the mind He tacked up on the wall a large sheet of perfectly white paper.",
+      "path": "audio/1971-207/06.mp3",
+      "start": 27.981315,
+      "end": 36.653583
+    },
+    {
+      "index": 6,
+      "text": "He made a black spot in the paper with a pencil.",
+      "path": "audio/1971-207/07.mp3",
+      "start": 38.116372000000005,
+      "end": 41.332381
+    },
+    {
+      "index": 7,
+      "text": "Then he asked each man to say what he saw.",
+      "path": "audio/1971-207/08.mp3",
+      "start": 42.891565,
+      "end": 45.449841
+    },
+    {
+      "index": 8,
+      "text": "Each man replied: A black spot.",
+      "path": "audio/1971-207/09.mp3",
+      "start": 46.951723,
+      "end": 50.30254
+    },
+    {
+      "index": 9,
+      "text": "The fakir then said: Yes, there is a little black spot.",
+      "path": "audio/1971-207/10.mp3",
+      "start": 51.804875,
+      "end": 56.97
+    }
+  ]
+}

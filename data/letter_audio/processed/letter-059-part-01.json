@@ -1,0 +1,72 @@
+{
+  "key": "letter-059-part-01",
+  "number": 59,
+  "generationId": "01a1e5b5-f2f7-73ad-9637-694a89dda657",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-59/01.mp3",
+      "start": 0.0,
+      "end": 0.706531
+    },
+    {
+      "index": 1,
+      "text": "Be aware in the waking state, don't try to become aware in sleep or dreams.",
+      "path": "audio/1969-59/02.mp3",
+      "start": 2.024943,
+      "end": 6.602766
+    },
+    {
+      "index": 2,
+      "text": "If you become aware in the waking state awareness in dreams and sleep comes easily - but you don't have to do anything for it.",
+      "path": "audio/1969-59/03.mp3",
+      "start": 7.969931999999999,
+      "end": 15.045577999999999
+    },
+    {
+      "index": 3,
+      "text": "Doing only creates difficulties.",
+      "path": "audio/1969-59/04.mp3",
+      "start": 16.442902,
+      "end": 18.589546000000002
+    },
+    {
+      "index": 4,
+      "text": "Sleep reflects the waking state: what we are when awake we are in sleep.",
+      "path": "audio/1969-59/05.mp3",
+      "start": 19.879818999999998,
+      "end": 25.143878
+    },
+    {
+      "index": 5,
+      "text": "If we are asleep in the waking state only then is sleep really sleep, the stream of thoughts during the waking state becomes the web of dreams in sleep.",
+      "path": "audio/1969-59/06.mp3",
+      "start": 26.654806999999998,
+      "end": 36.616327
+    },
+    {
+      "index": 6,
+      "text": "Being aware in the waking state will begin to reflect itself in sleep too, and if there are no thoughts in the waking state dreams disappear altogether in sleep.",
+      "path": "audio/1969-59/07.mp3",
+      "start": 38.119546,
+      "end": 48.537347
+    },
+    {
+      "index": 7,
+      "text": "Everything else is fine.",
+      "path": "audio/1969-59/08.mp3",
+      "start": 50.027551,
+      "end": 51.77737
+    },
+    {
+      "index": 8,
+      "text": "My regards to everyone there.",
+      "path": "audio/1969-59/09.mp3",
+      "start": 53.277166,
+      "end": 56.27
+    }
+  ]
+}

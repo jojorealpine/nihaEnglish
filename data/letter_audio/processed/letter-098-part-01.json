@@ -1,0 +1,58 @@
+{
+  "key": "letter-098-part-01",
+  "number": 98,
+  "generationId": "01a1e632-a38a-79a5-9423-e08c94913ee6",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-98/01.mp3",
+      "start": 0.0,
+      "end": 0.551338
+    },
+    {
+      "index": 1,
+      "text": "My work is only God's work; apart from this there is neither me nor mine.",
+      "path": "audio/1970-98/02.mp3",
+      "start": 2.008617,
+      "end": 6.128027
+    },
+    {
+      "index": 2,
+      "text": "No other work exists apart from his.",
+      "path": "audio/1970-98/03.mp3",
+      "start": 7.310998,
+      "end": 9.453695999999999
+    },
+    {
+      "index": 3,
+      "text": "You just live in God, that's all, and the rest happens by itself.",
+      "path": "audio/1970-98/04.mp3",
+      "start": 10.690635,
+      "end": 14.166395
+    },
+    {
+      "index": 4,
+      "text": "Jesus said: First seek ye the Kingdom of God, then all else will be added unto you.",
+      "path": "audio/1970-98/05.mp3",
+      "start": 15.361315000000001,
+      "end": 20.382517
+    },
+    {
+      "index": 5,
+      "text": "I say the same.",
+      "path": "audio/1970-98/06.mp3",
+      "start": 21.928549,
+      "end": 23.072585
+    },
+    {
+      "index": 6,
+      "text": "But the mind of man seeks all else first, so what is bound to happen, happens - nothing else is gained. and he even loses whatever he had.",
+      "path": "audio/1970-98/07.mp3",
+      "start": 24.544739,
+      "end": 34.64
+    }
+  ]
+}

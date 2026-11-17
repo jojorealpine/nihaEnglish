@@ -1,0 +1,30 @@
+{
+  "key": "letter-013-part-02",
+  "number": 13,
+  "generationId": "01a1e4e9-61ee-7cc1-a497-538c1e79053f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Ethics alone are negative and nothing enduring can be constructed on negation.",
+      "path": "audio/1963-13/11.mp3",
+      "start": 0.0,
+      "end": 5.414875
+    },
+    {
+      "index": 11,
+      "text": "Yoga is positive and can therefore form a base.",
+      "path": "audio/1963-13/12.mp3",
+      "start": 6.98839,
+      "end": 10.874443999999999
+    },
+    {
+      "index": 12,
+      "text": "I want to convey this positive basis to all.",
+      "path": "audio/1963-13/13.mp3",
+      "start": 12.454762,
+      "end": 15.88
+    }
+  ]
+}

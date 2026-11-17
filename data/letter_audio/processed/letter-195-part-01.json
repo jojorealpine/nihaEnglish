@@ -1,0 +1,58 @@
+{
+  "key": "letter-195-part-01",
+  "number": 195,
+  "generationId": "01a1e8eb-4a58-722a-a143-dcd118b1515c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-195/01.mp3",
+      "start": 0.0,
+      "end": 0.531723
+    },
+    {
+      "index": 1,
+      "text": "Don't think about surrender at all because that which thinks about it is the only barrier.",
+      "path": "audio/1971-195/02.mp3",
+      "start": 1.710295,
+      "end": 6.2640590000000005
+    },
+    {
+      "index": 2,
+      "text": "And therefore no one can surrender; it is not a doing at all, it happens.",
+      "path": "audio/1971-195/03.mp3",
+      "start": 7.4570289999999995,
+      "end": 13.344036
+    },
+    {
+      "index": 3,
+      "text": "You cannot go to it, it comes to you.",
+      "path": "audio/1971-195/04.mp3",
+      "start": 14.510363,
+      "end": 16.918073
+    },
+    {
+      "index": 4,
+      "text": "And any effort on your part will hinder its coming.",
+      "path": "audio/1971-195/05.mp3",
+      "start": 18.080634999999997,
+      "end": 20.729138000000003
+    },
+    {
+      "index": 5,
+      "text": "Be open and effortless, relaxed and passive, and it will come - it always comes.",
+      "path": "audio/1971-195/06.mp3",
+      "start": 22.224558,
+      "end": 28.394354
+    },
+    {
+      "index": 6,
+      "text": "I am a witness of it.",
+      "path": "audio/1971-195/07.mp3",
+      "start": 29.866757,
+      "end": 31.35
+    }
+  ]
+}

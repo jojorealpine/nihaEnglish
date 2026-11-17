@@ -1,0 +1,16 @@
+{
+  "key": "letter-331-part-03",
+  "number": 331,
+  "generationId": "01a1e910-e00a-7b9b-9b87-b7219b8afd05",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 20,
+      "text": "My blessings are always with you.",
+      "path": "audio/1971-331/21.mp3",
+      "start": 0.0,
+      "end": 2.27
+    }
+  ]
+}

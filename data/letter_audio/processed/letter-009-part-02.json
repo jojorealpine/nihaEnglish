@@ -1,0 +1,72 @@
+{
+  "key": "letter-009-part-02",
+  "number": 9,
+  "generationId": "01a1e4e8-88a5-7d1c-a2de-05a81442c7d0",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "There is a saying of Christ's: Ask and ye shall receive.",
+      "path": "audio/1963-09/11.mp3",
+      "start": 0.0,
+      "end": 3.387188
+    },
+    {
+      "index": 11,
+      "text": "But if you don't ask, whose fault is it?",
+      "path": "audio/1963-09/12.mp3",
+      "start": 4.906576,
+      "end": 7.29127
+    },
+    {
+      "index": 12,
+      "text": "There is no better bargain than the attainment of God We have only to ask, nothing more.",
+      "path": "audio/1963-09/13.mp3",
+      "start": 8.736372000000001,
+      "end": 14.227822999999999
+    },
+    {
+      "index": 13,
+      "text": "As the asking grows stronger and stronger so he who asks starts vanishing.",
+      "path": "audio/1963-09/14.mp3",
+      "start": 15.557596,
+      "end": 20.104422
+    },
+    {
+      "index": 14,
+      "text": "A limit is reached, a point of evaporation is reached, where the seeker utterly disappears and only the asking remains.",
+      "path": "audio/1963-09/15.mp3",
+      "start": 21.226259,
+      "end": 28.540317
+    },
+    {
+      "index": 15,
+      "text": "This is the very moment of attainment.",
+      "path": "audio/1963-09/16.mp3",
+      "start": 29.747187999999998,
+      "end": 31.739569
+    },
+    {
+      "index": 16,
+      "text": "Truth is where the I is not - this experience alone is the divine experience.",
+      "path": "audio/1963-09/17.mp3",
+      "start": 33.009637000000005,
+      "end": 38.290363
+    },
+    {
+      "index": 17,
+      "text": "Absence of ego is presence of God.",
+      "path": "audio/1963-09/18.mp3",
+      "start": 39.869093,
+      "end": 42.735963999999996
+    },
+    {
+      "index": 18,
+      "text": "My regards to all there.",
+      "path": "audio/1963-09/19.mp3",
+      "start": 44.262925,
+      "end": 46.99
+    }
+  ]
+}

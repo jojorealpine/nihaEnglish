@@ -1,0 +1,23 @@
+{
+  "key": "letter-030-part-02",
+  "number": 30,
+  "generationId": "01a1e4eb-bc8d-79bf-bd09-5f042fdff26a",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "In this fullness of love, ego vanishes.",
+      "path": "audio/1965-30/11.mp3",
+      "start": 0.0,
+      "end": 3.091519
+    },
+    {
+      "index": 11,
+      "text": "I want God to lead you to this fullness.",
+      "path": "audio/1965-30/12.mp3",
+      "start": 4.538866,
+      "end": 7.34
+    }
+  ]
+}

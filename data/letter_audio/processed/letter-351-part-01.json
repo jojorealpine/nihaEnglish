@@ -1,0 +1,44 @@
+{
+  "key": "letter-351-part-01",
+  "number": 351,
+  "generationId": "01a1e916-8a08-7181-a9b4-11965571f569",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-351/01.mp3",
+      "start": 0.0,
+      "end": 0.600385
+    },
+    {
+      "index": 1,
+      "text": "The eyes are blind.",
+      "path": "audio/1971-351/02.mp3",
+      "start": 2.362018,
+      "end": 3.914558
+    },
+    {
+      "index": 2,
+      "text": "One must look within the heart.",
+      "path": "audio/1971-351/03.mp3",
+      "start": 5.50619,
+      "end": 7.366281
+    },
+    {
+      "index": 3,
+      "text": "So do not believe the eyes, believe the heart and remember to look through it, and then you will come to know things unbelievable.",
+      "path": "audio/1971-351/04.mp3",
+      "start": 8.812948,
+      "end": 17.698118
+    },
+    {
+      "index": 4,
+      "text": "And unless one comes to know the unbelievable one has not known at all.",
+      "path": "audio/1971-351/05.mp3",
+      "start": 19.210521999999997,
+      "end": 23.72
+    }
+  ]
+}

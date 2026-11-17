@@ -1,0 +1,79 @@
+{
+  "key": "letter-134-part-01",
+  "number": 134,
+  "generationId": "01a1e6cd-5d80-73f8-96b3-26ad125443db",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-134/01.mp3",
+      "start": 0.0,
+      "end": 0.690952
+    },
+    {
+      "index": 1,
+      "text": "Theism is another name for infinite hope.",
+      "path": "audio/1970-134/02.mp3",
+      "start": 2.0557369999999997,
+      "end": 4.470159
+    },
+    {
+      "index": 2,
+      "text": "It is patience, it is waiting, it is trust in leela, in the play of life, and therefore with theism complaining cannot be.",
+      "path": "audio/1970-134/03.mp3",
+      "start": 5.721134,
+      "end": 14.752177
+    },
+    {
+      "index": 3,
+      "text": "Theism is acceptance, it is surrender - acceptance of what is beyond the self and surrender to the source of the self.",
+      "path": "audio/1970-134/04.mp3",
+      "start": 16.053333,
+      "end": 23.311769
+    },
+    {
+      "index": 4,
+      "text": "In 1914 a fire broke out in Thomas Edison's laboratory.",
+      "path": "audio/1970-134/05.mp3",
+      "start": 24.818163,
+      "end": 29.614444000000002
+    },
+    {
+      "index": 5,
+      "text": "Machinery worth millions and all the papers pertaining to his lifelong research were burnt to ashes.",
+      "path": "audio/1970-134/06.mp3",
+      "start": 31.358549,
+      "end": 37.430295
+    },
+    {
+      "index": 6,
+      "text": "Hearing of this tragedy his son Charles came looking for him and he found him standing by the side enjoying the sight of the leaping flames.",
+      "path": "audio/1970-134/07.mp3",
+      "start": 39.049229000000004,
+      "end": 46.825146999999994
+    },
+    {
+      "index": 7,
+      "text": "On seeing Charles, Edison said to him: Where is your mother?",
+      "path": "audio/1970-134/08.mp3",
+      "start": 48.266735000000004,
+      "end": 52.52415
+    },
+    {
+      "index": 8,
+      "text": "Go and find her and bring her here quickly; such a sight she will never see again!",
+      "path": "audio/1970-134/09.mp3",
+      "start": 53.955329000000006,
+      "end": 58.542517
+    },
+    {
+      "index": 9,
+      "text": "The next day, walking amidst the ashes of his hopes and dreams, the 67 year-old inventor said: What benefit there is in destruction!",
+      "path": "audio/1970-134/10.mp3",
+      "start": 60.179637,
+      "end": 70.48
+    }
+  ]
+}

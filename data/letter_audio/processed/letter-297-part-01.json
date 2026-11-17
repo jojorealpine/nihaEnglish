@@ -1,0 +1,44 @@
+{
+  "key": "letter-297-part-01",
+  "number": 297,
+  "generationId": "01a1e905-49e1-70f5-9824-f548bd66ab08",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-297/01.mp3",
+      "start": 0.0,
+      "end": 0.643469
+    },
+    {
+      "index": 1,
+      "text": "Silence is benediction but not the silence you can create, because you are the noise so you cannot create silence.",
+      "path": "audio/1971-297/02.mp3",
+      "start": 1.9297049999999998,
+      "end": 9.287913999999999
+    },
+    {
+      "index": 2,
+      "text": "But you can create the illusion of it, and this illusion is created by all sorts of auto-hypnotic techniques.",
+      "path": "audio/1971-297/03.mp3",
+      "start": 10.648571,
+      "end": 17.182426
+    },
+    {
+      "index": 3,
+      "text": "So never use auto-suggestions to be silent; rather, be aware of the constantly chattering mind, and be aware, not to make it still but to understand it.",
+      "path": "audio/1971-297/04.mp3",
+      "start": 18.610975,
+      "end": 30.26127
+    },
+    {
+      "index": 4,
+      "text": "This very understanding flowers into a silence which is not just absence of noise but a positive bliss.",
+      "path": "audio/1971-297/05.mp3",
+      "start": 31.867642,
+      "end": 39.6
+    }
+  ]
+}

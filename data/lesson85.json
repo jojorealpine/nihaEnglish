@@ -1,0 +1,441 @@
+{
+  "id": "1970-85",
+  "title": "1970 / 85",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "received",
+      "meaning": "받다",
+      "note": "이 문맥에서는 「받다」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "letter",
+      "meaning": "편지",
+      "note": "개인 간의 의사소통 수단을 의미함",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "given",
+      "meaning": "포기하다",
+      "note": "여기서는 어떤 것을 포기하지 말아야 한다는 의미로 사용되었습니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "drop",
+      "meaning": "버리다",
+      "note": "원래 문장에서는 존재하지 않는 것을 버리는 것이 불가능하다는 의미로 해석되었습니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "understood",
+      "meaning": "이해하다",
+      "note": "문장에서는 자신의 본질을 깊이 이해하려는 과정을 나타냅니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "darkness",
+      "meaning": "어둠",
+      "note": "여기서는 무지나 내면의 어둠을 상징적으로 표현합니다.",
+      "sentenceIds": [
+        4,
+        5,
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "stamped",
+      "meaning": "짓밟다",
+      "note": "여기서는 물리적으로 짓밟는 것이 아니라 제거하거나 없애려는 행위를 비유적으로 표현하고 있다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unmasked",
+      "meaning": "드러나다, 가려지지 않다",
+      "note": "어둠이 가려져 있던 상태에서 빛이 있음으로 인해 드러나는 상황을 나타냄",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thoughts",
+      "meaning": "생각",
+      "note": "개인의 마음속에서 떠오르는 아이디어나 생각들을 의미합니다.",
+      "sentenceIds": [
+        7,
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fight",
+      "meaning": "싸우다",
+      "note": "여기서는 생각과의 갈등이나 대립을 의미합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "effort",
+      "meaning": "노력",
+      "note": "어떤 목표를 이루기 위해 기울이는 힘이나 정성을 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thought",
+      "meaning": "생각",
+      "note": "머리 속에서 일어나는 사고나 관념을 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "difficulty",
+      "meaning": "어려움",
+      "note": "어떤 과정이 쉽지 않거나 어려움을 겪을 수 있다는 뉘앙스를 담고 있다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Witnessing",
+      "meaning": "관찰",
+      "note": "여기서는 마음의 상태나 과정을 주의 깊게 살펴보는 것을 의미한다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "emptiness",
+      "meaning": "공허함",
+      "note": "정신적 평온이나 깨달음의 상태를 나타내며, 모든 것이 통합된 상태를 의미한다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-85/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "I am glad to have received your letter.",
+      "korean": "당신의 편지를 받게 되어 기쁩니다.",
+      "explanation": "편지를 받은 기쁨을 표현",
+      "grammar": "「am」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-85/02.mp3",
+      "vocabulary": [
+        {
+          "word": "received",
+          "meaning": "받다",
+          "note": "이 문맥에서는 「받다」의 뜻으로 읽습니다."
+        },
+        {
+          "word": "letter",
+          "meaning": "편지",
+          "note": "개인 간의 의사소통 수단을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "The I is not to be given up because how can you drop that which is not?",
+      "korean": "포기해서는 안 되는 것은 무엇인가? 그것을 버리는 것은 불가능하지 않은가?",
+      "explanation": "주어진 문장의 의미를 한국어로 재해석한 내용입니다. 원래 문장의 철학적 맥락을 유지하면서 자연스럽게 번역했습니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-85/03.mp3",
+      "vocabulary": [
+        {
+          "word": "given",
+          "meaning": "포기하다",
+          "note": "여기서는 어떤 것을 포기하지 말아야 한다는 의미로 사용되었습니다."
+        },
+        {
+          "word": "drop",
+          "meaning": "버리다",
+          "note": "원래 문장에서는 존재하지 않는 것을 버리는 것이 불가능하다는 의미로 해석되었습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "The I has to be looked into, understood It is like taking a lamp to search for darkness - the darkness vanishes!",
+      "korean": "나 자신을 살펴보고 이해해야 합니다. 마치 어둠을 밝히기 위해 등불을 들고 다니는 것과 같습니다 - 어둠은 사라집니다!",
+      "explanation": "자신의 내면을 탐구하고 이해하려는 노력이 어둠 속에서 깨달음을 얻는 것과 유사하다는 의미입니다.",
+      "grammar": "「has to be」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+      "audio": "audio/1970-85/04.mp3",
+      "vocabulary": [
+        {
+          "word": "understood",
+          "meaning": "이해하다",
+          "note": "문장에서는 자신의 본질을 깊이 이해하려는 과정을 나타냅니다."
+        },
+        {
+          "word": "darkness",
+          "meaning": "어둠",
+          "note": "여기서는 무지나 내면의 어둠을 상징적으로 표현합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Darkness cannot be stamped out because it doesn't exist.",
+      "korean": "어둠은 존재하지 않기 때문에 짓밟힐 수 없다.",
+      "explanation": "어둠을 없애려고 해도 소용없다는 의미로, 어둠이 실제로 존재하지 않기 때문에 짓밟힐 수 없다는 것을 강조하고 있다.",
+      "grammar": "「cannot be stamped out」는 조동사 + be + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1970-85/05.mp3",
+      "vocabulary": [
+        {
+          "word": "Darkness",
+          "meaning": "어둠",
+          "note": "이 문맥에서는 물리적인 어둠이 아니라 내면의 어둠이나 부정적인 상태를 상징적으로 표현하고 있다."
+        },
+        {
+          "word": "stamped",
+          "meaning": "짓밟다",
+          "note": "여기서는 물리적으로 짓밟는 것이 아니라 제거하거나 없애려는 행위를 비유적으로 표현하고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "You just have to bring a light and darkness is unmasked.",
+      "korean": "빛을 가져오면 어둠이 드러나게 된다.",
+      "explanation": "빛이 있으면 어둠이 가려진 상태에서 드러나게 된다는 의미",
+      "grammar": "「have to bring」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+      "audio": "audio/1970-85/06.mp3",
+      "vocabulary": [
+        {
+          "word": "darkness",
+          "meaning": "어둠",
+          "note": "문장에서 어둠이 존재하지 않는 상황에서 빛과 대비되는 개념으로 사용됨"
+        },
+        {
+          "word": "unmasked",
+          "meaning": "드러나다, 가려지지 않다",
+          "note": "어둠이 가려져 있던 상태에서 빛이 있음으로 인해 드러나는 상황을 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "It is the same with your thoughts - do not fight with them.",
+      "korean": "생각과 싸우지 마세요.",
+      "explanation": "생각과 갈등하거나 대립하지 말고 수용하고 이해하라는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-85/07.mp3",
+      "vocabulary": [
+        {
+          "word": "thoughts",
+          "meaning": "생각",
+          "note": "개인의 마음속에서 떠오르는 아이디어나 생각들을 의미합니다."
+        },
+        {
+          "word": "fight",
+          "meaning": "싸우다",
+          "note": "여기서는 생각과의 갈등이나 대립을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "The effort to be free of thought comes itself from a thought.",
+      "korean": "생각에서 벗어나려는 노력은 오히려 생각에서 비롯된다.",
+      "explanation": "생각에서 완전히 자유로워지려는 시도 자체가 생각의 결과임을 강조하는 문장입니다.",
+      "grammar": "동사 「comes」는 come의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-85/08.mp3",
+      "vocabulary": [
+        {
+          "word": "effort",
+          "meaning": "노력",
+          "note": "어떤 목표를 이루기 위해 기울이는 힘이나 정성을 의미합니다."
+        },
+        {
+          "word": "thought",
+          "meaning": "생각",
+          "note": "머리 속에서 일어나는 사고나 관념을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "Know your thoughts, watch them, be aware of them, then they quieten down without difficulty.",
+      "korean": "생각을 알고 관찰하며 인식하면 쉽게 진정될 수 있다.",
+      "explanation": "생각을 인지하고 주의 깊게 관찰하면 자연스럽게 조용해질 수 있다는 의미",
+      "grammar": "동사 「quieten」는 quieten의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-85/09.mp3",
+      "vocabulary": [
+        {
+          "word": "thoughts",
+          "meaning": "생각",
+          "note": "마음속에서 일어나는 다양한 생각이나 관념을 의미한다."
+        },
+        {
+          "word": "difficulty",
+          "meaning": "어려움",
+          "note": "어떤 과정이 쉽지 않거나 어려움을 겪을 수 있다는 뉘앙스를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "Witnessing finally leads to emptiness, and where there is emptiness - there is the all.",
+      "korean": "관찰이 마침내 공허함으로 이어지고, 공허함이 있는 곳에는 모든 것이 존재한다.",
+      "explanation": "관찰을 통해 마음의 평온을 얻게 되면 궁극적으로 모든 것이 통합되는 상태, 즉 공허함 속의 전체성이 드러난다.",
+      "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1970-85/10.mp3",
+      "vocabulary": [
+        {
+          "word": "Witnessing",
+          "meaning": "관찰",
+          "note": "여기서는 마음의 상태나 과정을 주의 깊게 살펴보는 것을 의미한다."
+        },
+        {
+          "word": "emptiness",
+          "meaning": "공허함",
+          "note": "정신적 평온이나 깨달음의 상태를 나타내며, 모든 것이 통합된 상태를 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "당신의 편지를 받게 되어 기쁩니다. 포기해서는 안 되는 것은 무엇인가? 그것을 버리는 것은 불가능하지 않은가? 나 자신을 살펴보고 이해해야 합니다. 마치 어둠을 밝히기 위해 등불을 들고 다니는 것과 같습니다 - 어둠은 사라집니다! 어둠은 존재하지 않기 때문에 짓밟힐 수 없다. 빛을 가져오면 어둠이 드러나게 된다. 생각과 싸우지 마세요. 생각에서 벗어나려는 노력은 오히려 생각에서 비롯된다. 생각을 알고 관찰하며 인식하면 쉽게 진정될 수 있다. 관찰이 마침내 공허함으로 이어지고, 공허함이 있는 곳에는 모든 것이 존재한다."
+  ],
+  "fullAudio": "audio/1970-85/script_all.mp3",
+  "originalText": "Love.\n\nI am glad to have received your letter.\nThe I is not to be given up because how can you drop\nthat which is not?\nThe I has to be looked into, understood\nIt is like taking a lamp to search for darkness -\nthe darkness vanishes!\nDarkness cannot be stamped out because it doesn't exist.\nYou just have to bring a light and darkness is unmasked.\nIt is the same with your thoughts -\ndo not fight with them.\nThe effort to be free of thought\ncomes itself from a thought.\nKnow your thoughts, watch them, be aware of them,\nthen they quieten down without difficulty.\nWitnessing finally leads to emptiness, and where there is\nemptiness - there is the all.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 85,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0810 2.JPG",
+        "side": "right",
+        "printedPage": 71
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

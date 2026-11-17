@@ -1,0 +1,79 @@
+{
+  "key": "letter-031-part-01",
+  "number": 31,
+  "generationId": "01a1e4eb-ec5e-7470-8def-0421fc4314cc",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1965-31/01.mp3",
+      "start": 0.0,
+      "end": 0.627279
+    },
+    {
+      "index": 1,
+      "text": "I arrived here yesterday and have been thinking of writing ever since but it didn't happen until now.",
+      "path": "audio/1965-31/02.mp3",
+      "start": 1.793787,
+      "end": 6.642086
+    },
+    {
+      "index": 2,
+      "text": "Forgive the delay",
+      "path": "audio/1965-31/03.mp3",
+      "start": 7.866803,
+      "end": 9.030726
+    },
+    {
+      "index": 3,
+      "text": "though even a single day's delay is no small delay!",
+      "path": "audio/1965-31/04.mp3",
+      "start": 10.184444000000001,
+      "end": 12.951768999999999
+    },
+    {
+      "index": 4,
+      "text": "What shall I say about the return journey?",
+      "path": "audio/1965-31/05.mp3",
+      "start": 14.117370000000001,
+      "end": 16.194195
+    },
+    {
+      "index": 5,
+      "text": "It was very blissful.",
+      "path": "audio/1965-31/06.mp3",
+      "start": 17.332154,
+      "end": 18.666304
+    },
+    {
+      "index": 6,
+      "text": "I kept sleeping, and you were with me.",
+      "path": "audio/1965-31/07.mp3",
+      "start": 19.908844,
+      "end": 22.454240000000002
+    },
+    {
+      "index": 7,
+      "text": "It appeared I had left you behind but actually you were still with me.",
+      "path": "audio/1965-31/08.mp3",
+      "start": 23.927483,
+      "end": 27.452902
+    },
+    {
+      "index": 8,
+      "text": "This is the being-together that is so real that it cannot be divided.",
+      "path": "audio/1965-31/09.mp3",
+      "start": 28.96746,
+      "end": 32.915011
+    },
+    {
+      "index": 9,
+      "text": "Physical nearness is not nearness, there can be no union on that level, only an unbridgeable gulf,",
+      "path": "audio/1965-31/10.mp3",
+      "start": 34.420884,
+      "end": 40.96
+    }
+  ]
+}

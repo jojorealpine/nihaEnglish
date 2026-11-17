@@ -1,0 +1,79 @@
+{
+  "key": "letter-033-part-01",
+  "number": 33,
+  "generationId": "01a1e4ec-3508-7483-b8e4-7efd17df3357",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1965-33/01.mp3",
+      "start": 0.0,
+      "end": 0.630091
+    },
+    {
+      "index": 1,
+      "text": "I received your letter.",
+      "path": "audio/1965-33/02.mp3",
+      "start": 1.9232649999999998,
+      "end": 3.0790480000000002
+    },
+    {
+      "index": 2,
+      "text": "Its poetry filled my heart.",
+      "path": "audio/1965-33/03.mp3",
+      "start": 4.356236,
+      "end": 6.038322
+    },
+    {
+      "index": 3,
+      "text": "It is said that poetry is born out of love.",
+      "path": "audio/1965-33/04.mp3",
+      "start": 7.310454,
+      "end": 9.561179
+    },
+    {
+      "index": 4,
+      "text": "In your letter I saw this happen.",
+      "path": "audio/1965-33/05.mp3",
+      "start": 10.798413,
+      "end": 12.698163
+    },
+    {
+      "index": 5,
+      "text": "Where there is love the whole existence becomes a poem; the flowers of life bloom under the light of love.",
+      "path": "audio/1965-33/06.mp3",
+      "start": 13.948413,
+      "end": 20.238345000000002
+    },
+    {
+      "index": 6,
+      "text": "It is strange that you ask why my heart holds so much love for you.",
+      "path": "audio/1965-33/07.mp3",
+      "start": 21.502948,
+      "end": 25.311519
+    },
+    {
+      "index": 7,
+      "text": "Can love ever be caused?",
+      "path": "audio/1965-33/08.mp3",
+      "start": 26.832562,
+      "end": 28.840952
+    },
+    {
+      "index": 8,
+      "text": "If it is, can it be called love?",
+      "path": "audio/1965-33/09.mp3",
+      "start": 30.401858999999998,
+      "end": 33.238118
+    },
+    {
+      "index": 9,
+      "text": "Oh, my mad friend! love is always uncaused!",
+      "path": "audio/1965-33/10.mp3",
+      "start": 34.747166,
+      "end": 39.05
+    }
+  ]
+}

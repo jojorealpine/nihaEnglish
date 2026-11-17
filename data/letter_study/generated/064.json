@@ -1,0 +1,75 @@
+{
+  "sourceHash": "15beb8e40e0495d9a80f8bf51b56e2eefedf42ba19d4065eb46e749d347a1424",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "passive",
+      "notes": {
+        "korean": "인생은 무한한 신비이므로 지식으로 가득 찬 사람들은 삶에서 소외된다.",
+        "explanation": "인생의 본질이 신비로움에 있으며, 지식을 과도하게 추구하면 진정한 삶의 경험을 잃게 된다는 의미",
+        "grammar": "「are deprived」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "infinite",
+            "meaning": "무한한",
+            "note": "시간이나 공간이 끝이 없음을 나타냄"
+          },
+          {
+            "word": "knowledge",
+            "meaning": "지식",
+            "note": "학문적 이해나 정보를 의미하며, 여기서는 지나치게 추구하는 지식을 가리킴"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "passive",
+      "notes": {
+        "korean": "생명은 무한한 신비로 가득 차 있어, 지식으로 가득 찬 자는 오히려 삶에서 멀어진다. 순수한 마음을 가진 이들만이 직관으로 삶을 이해할 수 있다.",
+        "explanation": "이 문장은 지식이 오히려 삶의 진정한 이해를 방해할 수 있다는 개념을 전달한다. 순수함과 직관이 진정한 삶의 이해에 더 중요하다는 메시지를 담고 있다.",
+        "grammar": "「is not covered」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "intuition",
+            "meaning": "직관",
+            "note": "본질적인 감각이나 직감적인 이해를 의미한다."
+          },
+          {
+            "word": "knowledge",
+            "meaning": "지식",
+            "note": "학문적 또는 경험적 정보의 축적을 의미하며, 이 문장에서는 지나치게 많은 지식이 순수한 삶의 이해를 방해할 수 있다는 뉘앙스를 담고 있다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

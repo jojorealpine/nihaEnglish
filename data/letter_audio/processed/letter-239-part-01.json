@@ -1,0 +1,72 @@
+{
+  "key": "letter-239-part-01",
+  "number": 239,
+  "generationId": "01a1e8f8-0acf-78d4-b0e3-72e533d0f0fa",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-239/01.mp3",
+      "start": 0.0,
+      "end": 0.774467
+    },
+    {
+      "index": 1,
+      "text": "One day a man came to the Sufi teacher, Bahaudin.",
+      "path": "audio/1971-239/02.mp3",
+      "start": 2.195329,
+      "end": 5.224921
+    },
+    {
+      "index": 2,
+      "text": "He asked for help in his problems and guidance on the path Bahaudin told him to abandon spiritual studies and to leave his court at once.",
+      "path": "audio/1971-239/03.mp3",
+      "start": 6.549796,
+      "end": 14.529297
+    },
+    {
+      "index": 3,
+      "text": "A kind-hearted visitor began to remonstrate with Bahaudin.",
+      "path": "audio/1971-239/04.mp3",
+      "start": 15.832154000000001,
+      "end": 19.152812
+    },
+    {
+      "index": 4,
+      "text": "You shall have a demonstration, said the master.",
+      "path": "audio/1971-239/05.mp3",
+      "start": 20.665941,
+      "end": 23.870317
+    },
+    {
+      "index": 5,
+      "text": "At that moment a bird flew into the room darting hither and thither, not knowing where to go in order to escape.",
+      "path": "audio/1971-239/06.mp3",
+      "start": 25.356099999999998,
+      "end": 32.798707
+    },
+    {
+      "index": 6,
+      "text": "The master waited until the bird settled near the only open window of the chamber and then suddenly clapped his hands.",
+      "path": "audio/1971-239/07.mp3",
+      "start": 34.229524000000005,
+      "end": 41.53102
+    },
+    {
+      "index": 7,
+      "text": "Alarmed, the bird flew straight through the opening of the window to freedom.",
+      "path": "audio/1971-239/08.mp3",
+      "start": 42.997302000000005,
+      "end": 47.749728
+    },
+    {
+      "index": 8,
+      "text": "To him that sound must have been something of a shock, even an affront, do you not agree? said Bahaudin.",
+      "path": "audio/1971-239/09.mp3",
+      "start": 49.429773000000004,
+      "end": 57.16
+    }
+  ]
+}

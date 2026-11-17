@@ -1,0 +1,65 @@
+{
+  "key": "letter-118-part-01",
+  "number": 118,
+  "generationId": "01a1e91a-a756-7555-a546-ec5bed39349d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-118/01.mp3",
+      "start": 0.0,
+      "end": 0.684399
+    },
+    {
+      "index": 1,
+      "text": "Love is also fire, but a cool fire.",
+      "path": "audio/1970-118/02.mp3",
+      "start": 1.8603170000000002,
+      "end": 4.686372
+    },
+    {
+      "index": 2,
+      "text": "Yet we have to burn in it because it also purifies; it burns only to purify.",
+      "path": "audio/1970-118/03.mp3",
+      "start": 5.957778,
+      "end": 10.794875
+    },
+    {
+      "index": 3,
+      "text": "The dross burns leaving pure gold.",
+      "path": "audio/1970-118/04.mp3",
+      "start": 12.079819,
+      "end": 14.31551
+    },
+    {
+      "index": 4,
+      "text": "In the same way my love will bring suffering because I wish to destroy you in order to recreate you.",
+      "path": "audio/1970-118/05.mp3",
+      "start": 15.576712,
+      "end": 20.832812
+    },
+    {
+      "index": 5,
+      "text": "The seed must be broken - how else can the tree be born?",
+      "path": "audio/1970-118/06.mp3",
+      "start": 22.428639,
+      "end": 27.123311
+    },
+    {
+      "index": 6,
+      "text": "The river must end - how else is it to merge with the ocean?",
+      "path": "audio/1970-118/07.mp3",
+      "start": 28.635329,
+      "end": 33.66449
+    },
+    {
+      "index": 7,
+      "text": "So let go of yourself and die - how else will you find the self?",
+      "path": "audio/1970-118/08.mp3",
+      "start": 35.272721000000004,
+      "end": 40.54
+    }
+  ]
+}

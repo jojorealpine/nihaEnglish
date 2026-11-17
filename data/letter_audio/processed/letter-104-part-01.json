@@ -1,0 +1,72 @@
+{
+  "key": "letter-104-part-01",
+  "number": 104,
+  "generationId": "01a1e633-f6cf-78aa-9f4a-e86499275a74",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-104/01.mp3",
+      "start": 0.0,
+      "end": 0.654467
+    },
+    {
+      "index": 1,
+      "text": "I received your letter.",
+      "path": "audio/1970-104/02.mp3",
+      "start": 2.111224,
+      "end": 3.374422
+    },
+    {
+      "index": 2,
+      "text": "So many questions!",
+      "path": "audio/1970-104/03.mp3",
+      "start": 4.763764,
+      "end": 6.176553
+    },
+    {
+      "index": 3,
+      "text": "To answer them I would have to write a book bigger than the Mahabharata!",
+      "path": "audio/1970-104/04.mp3",
+      "start": 7.584739,
+      "end": 11.495759999999999
+    },
+    {
+      "index": 4,
+      "text": "But even then you would not get your answers because some questions others can never answer - your answers lie deep within your own life.",
+      "path": "audio/1970-104/05.mp3",
+      "start": 13.040385,
+      "end": 20.221383
+    },
+    {
+      "index": 5,
+      "text": "And some questions have no answers because they are wrong questions for which no answers can be found.",
+      "path": "audio/1970-104/06.mp3",
+      "start": 21.931926999999998,
+      "end": 27.802812
+    },
+    {
+      "index": 6,
+      "text": "As the search continues these questions always gradually drop away.",
+      "path": "audio/1970-104/07.mp3",
+      "start": 29.371066,
+      "end": 33.821518999999995
+    },
+    {
+      "index": 7,
+      "text": "Then there are some questions which are right questions but have no answers at all.",
+      "path": "audio/1970-104/08.mp3",
+      "start": 35.53195,
+      "end": 39.953922999999996
+    },
+    {
+      "index": 8,
+      "text": "They have to be experienced deep within oneself.",
+      "path": "audio/1970-104/09.mp3",
+      "start": 41.453175,
+      "end": 44.75
+    }
+  ]
+}

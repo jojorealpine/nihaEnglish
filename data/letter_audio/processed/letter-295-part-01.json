@@ -1,0 +1,79 @@
+{
+  "key": "letter-295-part-01",
+  "number": 295,
+  "generationId": "01a1e904-c146-7511-9526-a2993abb05a9",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-295/01.mp3",
+      "start": 0.0,
+      "end": 0.6064849999999999
+    },
+    {
+      "index": 1,
+      "text": "Truth is aristocratic.",
+      "path": "audio/1971-295/02.mp3",
+      "start": 1.8837639999999998,
+      "end": 3.755646
+    },
+    {
+      "index": 2,
+      "text": "It cannot be decided by votes or numbers because truth is enough in itself, it needs no help or support; it even needs no proof because truth is self-evident.",
+      "path": "audio/1971-295/03.mp3",
+      "start": 4.996032,
+      "end": 15.165011
+    },
+    {
+      "index": 3,
+      "text": "A certain man was believed to have died and was being prepared for burial when he revived.",
+      "path": "audio/1971-295/04.mp3",
+      "start": 16.401134,
+      "end": 21.358163
+    },
+    {
+      "index": 4,
+      "text": "He sat up but he was so shocked at the scene around him that he fainted He was put in a coffin and the funeral party set off for the cemetery.",
+      "path": "audio/1971-295/05.mp3",
+      "start": 23.162494,
+      "end": 31.762834
+    },
+    {
+      "index": 5,
+      "text": "Just as they arrived at the grave he regained consciousness, lifted the coffin lid and cried out for help.",
+      "path": "audio/1971-295/06.mp3",
+      "start": 33.427528,
+      "end": 40.190794
+    },
+    {
+      "index": 6,
+      "text": "It is not possible that he has revived, said the mourners, because he has been certified as dead by competent experts.",
+      "path": "audio/1971-295/07.mp3",
+      "start": 41.576009,
+      "end": 49.714014
+    },
+    {
+      "index": 7,
+      "text": "But I am alive! shouted the man.",
+      "path": "audio/1971-295/08.mp3",
+      "start": 51.061134,
+      "end": 53.933310999999996
+    },
+    {
+      "index": 8,
+      "text": "He appealed to a well-known and impartial scientist and jurisprudent who was present.",
+      "path": "audio/1971-295/09.mp3",
+      "start": 55.366553,
+      "end": 61.534082
+    },
+    {
+      "index": 9,
+      "text": "Just a moment, said the expert.",
+      "path": "audio/1971-295/10.mp3",
+      "start": 63.032018,
+      "end": 66.64
+    }
+  ]
+}

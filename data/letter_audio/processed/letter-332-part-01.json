@@ -1,0 +1,79 @@
+{
+  "key": "letter-332-part-01",
+  "number": 332,
+  "generationId": "01a1e911-1cc4-7325-889b-5af520387867",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-332/01.mp3",
+      "start": 0.0,
+      "end": 0.699841
+    },
+    {
+      "index": 1,
+      "text": "Metaphysics is born out of childish curiosity, so however sublime, it remains juvenile.",
+      "path": "audio/1971-332/02.mp3",
+      "start": 2.107506,
+      "end": 8.534626
+    },
+    {
+      "index": 2,
+      "text": "And all the ultimate answers are foolish in a way because the ultimate is not only unknown, it is unknowable.",
+      "path": "audio/1971-332/03.mp3",
+      "start": 10.273991,
+      "end": 16.728821
+    },
+    {
+      "index": 3,
+      "text": "A mature mind is one who understands the impossibility of knowing the ultimate, and with this understanding there is a new dimension: the dimension of being.",
+      "path": "audio/1971-332/04.mp3",
+      "start": 18.137936999999997,
+      "end": 28.330862
+    },
+    {
+      "index": 4,
+      "text": "Knowing is not possible, but being is.",
+      "path": "audio/1971-332/05.mp3",
+      "start": 29.652901999999997,
+      "end": 32.74102
+    },
+    {
+      "index": 5,
+      "text": "Or in other words: in relation to the ultimate, only being is knowing.",
+      "path": "audio/1971-332/06.mp3",
+      "start": 34.13,
+      "end": 39.053787
+    },
+    {
+      "index": 6,
+      "text": "This dimension is the religious dimension, and unless one is religious in this sense one goes on asking absurd questions and accumulating even more absurd answers.",
+      "path": "audio/1971-332/07.mp3",
+      "start": 40.582381000000005,
+      "end": 50.911632999999995
+    },
+    {
+      "index": 7,
+      "text": "In a little backwoods school the teacher was at the blackboard explaining arithmetic problems.",
+      "path": "audio/1971-332/08.mp3",
+      "start": 52.487778000000006,
+      "end": 58.517506
+    },
+    {
+      "index": 8,
+      "text": "She was delighted to see her dullest pupil paying fixed attention, which was unusual for him.",
+      "path": "audio/1971-332/09.mp3",
+      "start": 59.969932,
+      "end": 66.454626
+    },
+    {
+      "index": 9,
+      "text": "Her happy thought was that at last the lanky lad was beginning to understand.",
+      "path": "audio/1971-332/10.mp3",
+      "start": 67.95537399999999,
+      "end": 72.53999999999999
+    }
+  ]
+}

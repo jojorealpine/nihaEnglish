@@ -1,0 +1,44 @@
+{
+  "key": "letter-141-part-02",
+  "number": 141,
+  "generationId": "01a1e6cf-9933-78d2-90fb-8844f849e655",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "That was enough: the cross became a throne and death a new life.",
+      "path": "audio/1970-141/11.mp3",
+      "start": 0.0,
+      "end": 4.017438
+    },
+    {
+      "index": 11,
+      "text": "In the moment of revolution between one statement and the next Christ descended into Jesus.",
+      "path": "audio/1970-141/12.mp3",
+      "start": 5.419864,
+      "end": 11.102018
+    },
+    {
+      "index": 12,
+      "text": "Your suffering is intense and a new birth is at hand; be happy, be grateful.",
+      "path": "audio/1970-141/13.mp3",
+      "start": 12.481950000000001,
+      "end": 17.845102
+    },
+    {
+      "index": 13,
+      "text": "Don't be afraid of death, be thankful It is the tidings of a new birth.",
+      "path": "audio/1970-141/14.mp3",
+      "start": 19.263424,
+      "end": 24.150068
+    },
+    {
+      "index": 14,
+      "text": "And the old must die to give birth to the new; the seed must break to blossom into the flower.",
+      "path": "audio/1970-141/15.mp3",
+      "start": 25.767505999999997,
+      "end": 32.73
+    }
+  ]
+}

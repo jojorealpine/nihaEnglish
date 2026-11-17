@@ -1,0 +1,79 @@
+{
+  "key": "letter-061-part-01",
+  "number": 61,
+  "generationId": "01a1e5b8-630f-7ca6-a7a2-ce3b3782b865",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love",
+      "path": "audio/1969-61/01.mp3",
+      "start": 0.0,
+      "end": 0.763605
+    },
+    {
+      "index": 1,
+      "text": "How can I describe how happy I am to have received your letter?",
+      "path": "audio/1969-61/02.mp3",
+      "start": 2.0773699999999997,
+      "end": 5.761995
+    },
+    {
+      "index": 2,
+      "text": "Whenever I saw you, only one question arose in my mind - How long are you going to keep away from me?",
+      "path": "audio/1969-61/03.mp3",
+      "start": 7.222721,
+      "end": 13.965668999999998
+    },
+    {
+      "index": 3,
+      "text": "I knew you had to come closer to me, it was only a matter of time, so I kept waiting and praying for you.",
+      "path": "audio/1969-61/04.mp3",
+      "start": 15.4,
+      "end": 21.612245
+    },
+    {
+      "index": 4,
+      "text": "To me, prayerful waiting is love.",
+      "path": "audio/1969-61/05.mp3",
+      "start": 23.140748,
+      "end": 25.442948
+    },
+    {
+      "index": 5,
+      "text": "I also knew you were going through the pangs of a new birth and that rebirth is very near - for only this can give soul to your songs.",
+      "path": "audio/1969-61/06.mp3",
+      "start": 27.021836999999998,
+      "end": 35.798503
+    },
+    {
+      "index": 6,
+      "text": "Words are the form and form has its own beauty, its own melody, its own music.",
+      "path": "audio/1969-61/07.mp3",
+      "start": 37.257483,
+      "end": 42.279229
+    },
+    {
+      "index": 7,
+      "text": "But this is not enough, and he who considers this enough remains discontented forever.",
+      "path": "audio/1969-61/08.mp3",
+      "start": 43.633084000000004,
+      "end": 48.770317
+    },
+    {
+      "index": 8,
+      "text": "The soul of poetry lies in silence.",
+      "path": "audio/1969-61/09.mp3",
+      "start": 50.029615,
+      "end": 52.432562
+    },
+    {
+      "index": 9,
+      "text": "To me, prayerful waiting is love, and the void is the door to the divine temple.",
+      "path": "audio/1969-61/10.mp3",
+      "start": 53.710431,
+      "end": 59.53
+    }
+  ]
+}

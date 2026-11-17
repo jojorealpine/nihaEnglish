@@ -1,0 +1,79 @@
+{
+  "key": "letter-180-part-01",
+  "number": 180,
+  "generationId": "01a1e8e7-04a3-76ef-a011-f08d3fce1a74",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-180/01.mp3",
+      "start": 0.0,
+      "end": 0.626757
+    },
+    {
+      "index": 1,
+      "text": "Meditation is a mirror - and the most faithful one.",
+      "path": "audio/1971-180/02.mp3",
+      "start": 1.8690479999999998,
+      "end": 4.947506
+    },
+    {
+      "index": 2,
+      "text": "Whoever goes into meditation risks a confrontation with himself.",
+      "path": "audio/1971-180/03.mp3",
+      "start": 6.215125,
+      "end": 9.805532999999999
+    },
+    {
+      "index": 3,
+      "text": "The mirror of meditation never lies, and it does not flatter.",
+      "path": "audio/1971-180/04.mp3",
+      "start": 11.084195000000001,
+      "end": 14.717505999999998
+    },
+    {
+      "index": 4,
+      "text": "It is impartial and innocent and it never projects anything.",
+      "path": "audio/1971-180/05.mp3",
+      "start": 15.980612000000002,
+      "end": 19.911451
+    },
+    {
+      "index": 5,
+      "text": "It only faithfully shows your real, original face, the face we never show to the world, the face that we ourselves have forgotten.",
+      "path": "audio/1971-180/06.mp3",
+      "start": 21.192629999999998,
+      "end": 29.852766000000003
+    },
+    {
+      "index": 6,
+      "text": "So it is possible that you yourself may not be able to recognize it the first time!",
+      "path": "audio/1971-180/07.mp3",
+      "start": 31.141088,
+      "end": 35.498163
+    },
+    {
+      "index": 7,
+      "text": "But do not escape from it.",
+      "path": "audio/1971-180/08.mp3",
+      "start": 36.782925000000006,
+      "end": 38.403696
+    },
+    {
+      "index": 8,
+      "text": "Face it and you will come to know it and recognize it.",
+      "path": "audio/1971-180/09.mp3",
+      "start": 39.947188000000004,
+      "end": 43.610794
+    },
+    {
+      "index": 9,
+      "text": "This confrontation is the first test of courage on the inner way.",
+      "path": "audio/1971-180/10.mp3",
+      "start": 45.186395000000005,
+      "end": 49.97
+    }
+  ]
+}

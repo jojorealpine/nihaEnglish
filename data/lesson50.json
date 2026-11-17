@@ -1,0 +1,349 @@
+{
+  "id": "1968-50",
+  "title": "1968 / 50",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "got",
+      "meaning": "받다",
+      "note": "여기서는 편지를 받았다는 의미로 사용되었습니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "letter",
+      "meaning": "편지",
+      "note": "개인 간의 메시지를 전달하는 문서를 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thirsts",
+      "meaning": "갈망하다",
+      "note": "여기서는 영혼의 깊은 갈망이나 욕구를 의미합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "quenched",
+      "meaning": "만족시키다, 해소하다",
+      "note": "갈망이나 욕구가 충족되거나 해소되는 상황을 나타냅니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "open",
+      "meaning": "열다",
+      "note": "여기서는 눈을 뜨는 동작을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "eyes",
+      "meaning": "눈",
+      "note": "상대방의 눈을 가리키며, 눈을 뜨는 동작과 관련이 있습니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "worry",
+      "meaning": "걱정",
+      "note": "이 단어는 개인이 직면한 문제나 상황에 대해 불안해하거나 근심하는 감정을 나타냅니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "patient",
+      "meaning": "인내심을 가지다",
+      "note": "상황이 개선될 때까지 기다리는 태도를 나타냄",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "takes",
+      "meaning": "필요로 하는 시간",
+      "note": "씨앗이 성장하고 꽃을 피우는 데 필요한 시간적 과정을 의미함",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "regards",
+      "meaning": "인사, 존경의 표현",
+      "note": "이 단어는 개인이나 그룹에게 친절하고 존중하는 마음을 담아 인사를 전하는 데 사용됩니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meet",
+      "meaning": "만나다",
+      "note": "이 문맥에서는 미래의 만남을 의미하며, 서로를 다시 보는 상황을 나타냅니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    [
+      6,
+      7
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1968-50/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "I have got your letter.",
+      "korean": "편지를 받았어요.",
+      "explanation": "이 문장은 수신자가 발신자로부터 받은 편지를 확인했다는 의미를 전달합니다.",
+      "grammar": "「have got」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1968-50/02.mp3",
+      "vocabulary": [
+        {
+          "word": "got",
+          "meaning": "받다",
+          "note": "여기서는 편지를 받았다는 의미로 사용되었습니다."
+        },
+        {
+          "word": "letter",
+          "meaning": "편지",
+          "note": "개인 간의 메시지를 전달하는 문서를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "I know well how your soul thirsts; soon it can be quenched - you are right at the brink of the lake.",
+      "korean": "당신의 영혼이 얼마나 갈망하고 있는지 잘 알고 있습니다. 곧 그 갈망은 충족될 것입니다 - 당신은 호수가의 가장자리에 바로 서 있습니다.",
+      "explanation": "문장은 수신자의 내면적 갈망을 인식하고 있으며, 그 갈망이 곧 해결될 것이라는 긍정적인 메시지를 전달합니다. 또한, 수신자가 중요한 변화나 경험에 임박해 있다는 상징적인 표현을 포함하고 있습니다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-50/03.mp3",
+      "vocabulary": [
+        {
+          "word": "thirsts",
+          "meaning": "갈망하다",
+          "note": "여기서는 영혼의 깊은 갈망이나 욕구를 의미합니다."
+        },
+        {
+          "word": "quenched",
+          "meaning": "만족시키다, 해소하다",
+          "note": "갈망이나 욕구가 충족되거나 해소되는 상황을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "You only have to open your eyes, and I can see that the lids are about to lift.",
+      "korean": "눈을 뜨면 바로 눈꺼풀이 올라갈 것을 보여요.",
+      "explanation": "문장은 상대방이 눈을 뜨면 곧 눈꺼풀이 올라갈 것이라는 것을 인지하고 있다는 의미를 전달합니다.",
+      "grammar": "「have to open」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+      "audio": "audio/1968-50/04.mp3",
+      "vocabulary": [
+        {
+          "word": "open",
+          "meaning": "열다",
+          "note": "여기서는 눈을 뜨는 동작을 의미합니다."
+        },
+        {
+          "word": "eyes",
+          "meaning": "눈",
+          "note": "상대방의 눈을 가리키며, 눈을 뜨는 동작과 관련이 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "I shall be with you then, always with you, so don't worry.",
+      "korean": "걱정하지 마세요. 항상 당신과 함께 있을게요.",
+      "explanation": "문장은 위로와 안정감을 주는 내용으로, 화자가 상대방과 함께 있을 것을 약속하며 걱정을 덜어줄 것을 권유합니다.",
+      "grammar": "「shall be」에서 조동사 shall 뒤에 동사원형 「be」가 옵니다. shall은 문맥에 따라 미래·의지·제안 등을 나타냅니다.",
+      "audio": "audio/1968-50/05.mp3",
+      "vocabulary": [
+        {
+          "word": "worry",
+          "meaning": "걱정",
+          "note": "이 단어는 개인이 직면한 문제나 상황에 대해 불안해하거나 근심하는 감정을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Be patient and wait, the seed takes its own time to break and bloom.",
+      "korean": "인내심을 가지고 기다려라, 씨앗은 스스로 싹을 틔우고 꽃을 피우는 데 시간이 걸린다.",
+      "explanation": "씨앗이 성장하고 꽃을 피우는 데는 시간이 필요하다는 의미로, 기다림과 인내심을 강조한다.",
+      "grammar": "동사 「takes」는 take의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1968-50/06.mp3",
+      "vocabulary": [
+        {
+          "word": "patient",
+          "meaning": "인내심을 가지다",
+          "note": "상황이 개선될 때까지 기다리는 태도를 나타냄"
+        },
+        {
+          "word": "takes",
+          "meaning": "필요로 하는 시간",
+          "note": "씨앗이 성장하고 꽃을 피우는 데 필요한 시간적 과정을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Give my regards to all.",
+      "korean": "모든 분들께 인사를 전해주세요.",
+      "explanation": "이 문장은 발신자가 수신자와 그 주변 사람들에게 인사를 전달하라는 요청을 담고 있습니다.",
+      "grammar": "동사원형 「Give」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1968-50/07.mp3",
+      "vocabulary": [
+        {
+          "word": "regards",
+          "meaning": "인사, 존경의 표현",
+          "note": "이 단어는 개인이나 그룹에게 친절하고 존중하는 마음을 담아 인사를 전하는 데 사용됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "More when we meet.",
+      "korean": "우리가 만날 때 더 이야기하자.",
+      "explanation": "미래의 만남을 기약하며, 그때 더 많은 이야기를 나누자는 제안입니다.",
+      "grammar": "동사 「meet」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1968-50/08.mp3",
+      "vocabulary": [
+        {
+          "word": "meet",
+          "meaning": "만나다",
+          "note": "이 문맥에서는 미래의 만남을 의미하며, 서로를 다시 보는 상황을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "편지를 받았어요. 당신의 영혼이 얼마나 갈망하고 있는지 잘 알고 있습니다. 곧 그 갈망은 충족될 것입니다 - 당신은 호수가의 가장자리에 바로 서 있습니다. 눈을 뜨면 바로 눈꺼풀이 올라갈 것을 보여요. 걱정하지 마세요. 항상 당신과 함께 있을게요. 인내심을 가지고 기다려라, 씨앗은 스스로 싹을 틔우고 꽃을 피우는 데 시간이 걸린다.",
+    "모든 분들께 인사를 전해주세요. 우리가 만날 때 더 이야기하자."
+  ],
+  "fullAudio": "audio/1968-50/script_all.mp3",
+  "originalText": "Love.\n\nI have got your letter.\nI know well how your soul thirsts;\nsoon it can be quenched -\nyou are right at the brink of the lake.\nYou only have to open your eyes,\nand I can see that the lids are about to lift.\nI shall be with you then,\nalways with you,\nso don't worry.\nBe patient and wait,\nthe seed takes its own time to break and bloom.\n\nGive my regards to all.\nMore when we meet.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 50,
+    "year": 1968,
+    "pages": [
+      {
+        "file": "IMG_0796 2.JPG",
+        "side": "right",
+        "printedPage": 43
+      },
+      {
+        "file": "IMG_0797 2.JPG",
+        "side": "left",
+        "printedPage": 44
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "audioVoice": "Views",
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  }
+}

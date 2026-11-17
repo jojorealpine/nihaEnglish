@@ -1,0 +1,79 @@
+{
+  "key": "letter-316-part-02",
+  "number": 316,
+  "generationId": "01a1e90b-9b2d-7649-baf2-73078b9b854f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Chi answered: No sir, he is not ready.",
+      "path": "audio/1971-316/11.mp3",
+      "start": 0.0,
+      "end": 2.7811790000000003
+    },
+    {
+      "index": 11,
+      "text": "He is still vain and flushed with rage.",
+      "path": "audio/1971-316/12.mp3",
+      "start": 4.184966,
+      "end": 6.7181180000000005
+    },
+    {
+      "index": 12,
+      "text": "Another ten days passed and the prince asked about the cock.",
+      "path": "audio/1971-316/13.mp3",
+      "start": 7.999569,
+      "end": 11.138525999999999
+    },
+    {
+      "index": 13,
+      "text": "Chi said: Not yet, sir.",
+      "path": "audio/1971-316/14.mp3",
+      "start": 12.411769000000001,
+      "end": 14.652788999999999
+    },
+    {
+      "index": 14,
+      "text": "He is on the alert whenever he sees the shadow of another cock or hears its crowing.",
+      "path": "audio/1971-316/15.mp3",
+      "start": 15.988254,
+      "end": 20.218118
+    },
+    {
+      "index": 15,
+      "text": "Still another ten days passed and when the inquiry came from the prince, Chi replied: Not quite yet, sir.",
+      "path": "audio/1971-316/16.mp3",
+      "start": 21.664195,
+      "end": 29.328912000000003
+    },
+    {
+      "index": 16,
+      "text": "His sense of fighting is still smoldering within him ready to be awakened.",
+      "path": "audio/1971-316/17.mp3",
+      "start": 30.814239999999998,
+      "end": 34.774466999999994
+    },
+    {
+      "index": 17,
+      "text": "When another ten days elapsed Chi replied in response to the inquiry: He is almost ready.",
+      "path": "audio/1971-316/18.mp3",
+      "start": 36.351723,
+      "end": 42.770838999999995
+    },
+    {
+      "index": 18,
+      "text": "Even when he hears another crowing he shows no excitement.",
+      "path": "audio/1971-316/19.mp3",
+      "start": 44.243537,
+      "end": 48.262221999999994
+    },
+    {
+      "index": 19,
+      "text": "He has now become positive.",
+      "path": "audio/1971-316/20.mp3",
+      "start": 49.835261,
+      "end": 51.96
+    }
+  ]
+}

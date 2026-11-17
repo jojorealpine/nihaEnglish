@@ -1,0 +1,79 @@
+{
+  "key": "letter-032-part-01",
+  "number": 32,
+  "generationId": "01a1e4eb-fa7e-78d3-a73a-6b5d4c5a009b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1965-32/01.mp3",
+      "start": 0.0,
+      "end": 0.569342
+    },
+    {
+      "index": 1,
+      "text": "I received your letter; I have been waiting for it ever since I returned But how sweet it is to wait!",
+      "path": "audio/1965-32/02.mp3",
+      "start": 1.685918,
+      "end": 7.387687
+    },
+    {
+      "index": 2,
+      "text": "Life itself is a waiting!",
+      "path": "audio/1965-32/03.mp3",
+      "start": 8.535465,
+      "end": 10.084921
+    },
+    {
+      "index": 3,
+      "text": "Seeds wait to sprout, rivers to reach the ocean.",
+      "path": "audio/1965-32/04.mp3",
+      "start": 11.241791000000001,
+      "end": 14.29356
+    },
+    {
+      "index": 4,
+      "text": "What does man wait for?",
+      "path": "audio/1965-32/05.mp3",
+      "start": 15.532109,
+      "end": 16.76746
+    },
+    {
+      "index": 5,
+      "text": "He too is the seed for some tree, a river for some ocean.",
+      "path": "audio/1965-32/06.mp3",
+      "start": 17.969932,
+      "end": 21.368526
+    },
+    {
+      "index": 6,
+      "text": "Whoever looks deep inside finds that a longing for the endless and boundless is his very being.",
+      "path": "audio/1965-32/07.mp3",
+      "start": 22.908163,
+      "end": 28.804671000000003
+    },
+    {
+      "index": 7,
+      "text": "And whoever recognizes this begins his journey towards God because who can be thirsty and not look for water?",
+      "path": "audio/1965-32/08.mp3",
+      "start": 30.34542,
+      "end": 37.570454
+    },
+    {
+      "index": 8,
+      "text": "This has never happened and never will!",
+      "path": "audio/1965-32/09.mp3",
+      "start": 39.164286000000004,
+      "end": 41.570249
+    },
+    {
+      "index": 9,
+      "text": "Where there is longing, there is thirst for attainment.",
+      "path": "audio/1965-32/10.mp3",
+      "start": 43.138503,
+      "end": 47.96
+    }
+  ]
+}

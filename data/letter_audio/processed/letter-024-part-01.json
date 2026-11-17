@@ -1,0 +1,51 @@
+{
+  "key": "letter-024-part-01",
+  "number": 24,
+  "generationId": "01a1e4ea-e5e8-7d2b-8047-160b93c85838",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1965-24/01.mp3",
+      "start": 0.0,
+      "end": 0.793946
+    },
+    {
+      "index": 1,
+      "text": "Your letter arrived this morning.",
+      "path": "audio/1965-24/02.mp3",
+      "start": 2.10898,
+      "end": 4.021927
+    },
+    {
+      "index": 2,
+      "text": "The garland you have weaved from flowers of love has a fragrance that I can catch!",
+      "path": "audio/1965-24/03.mp3",
+      "start": 5.398027,
+      "end": 9.939682999999999
+    },
+    {
+      "index": 3,
+      "text": "And the love-vine you have sown spreads through my heart!",
+      "path": "audio/1965-24/04.mp3",
+      "start": 11.32,
+      "end": 14.591790999999999
+    },
+    {
+      "index": 4,
+      "text": "The tears of your love and joy bring light and strength to my eyes!",
+      "path": "audio/1965-24/05.mp3",
+      "start": 15.902585,
+      "end": 20.098776
+    },
+    {
+      "index": 5,
+      "text": "How blissful it all is!",
+      "path": "audio/1965-24/06.mp3",
+      "start": 21.35449,
+      "end": 23.72
+    }
+  ]
+}

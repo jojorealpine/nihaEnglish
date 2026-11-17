@@ -1,0 +1,79 @@
+{
+  "key": "letter-101-part-01",
+  "number": 101,
+  "generationId": "01a1e633-4d97-7389-887d-1317922a6a71",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-101/01.mp3",
+      "start": 0.0,
+      "end": 0.606213
+    },
+    {
+      "index": 1,
+      "text": "I am glad to receive your letter.",
+      "path": "audio/1970-101/02.mp3",
+      "start": 1.89195,
+      "end": 3.738594
+    },
+    {
+      "index": 2,
+      "text": "You have the strength within but you don't know about it.",
+      "path": "audio/1970-101/03.mp3",
+      "start": 5.121043,
+      "end": 7.983356
+    },
+    {
+      "index": 3,
+      "text": "To find it you need a catalyst.",
+      "path": "audio/1970-101/04.mp3",
+      "start": 9.338662000000001,
+      "end": 11.590522
+    },
+    {
+      "index": 4,
+      "text": "The day you realize all this you will laugh, but until then I am prepared to be your catalyst.",
+      "path": "audio/1970-101/05.mp3",
+      "start": 12.934739,
+      "end": 19.101519
+    },
+    {
+      "index": 5,
+      "text": "I am already laughing and just waiting for the day you can join in this cosmic laughter.",
+      "path": "audio/1970-101/06.mp3",
+      "start": 20.40102,
+      "end": 26.622744
+    },
+    {
+      "index": 6,
+      "text": "See!",
+      "path": "audio/1970-101/07.mp3",
+      "start": 28.131791,
+      "end": 28.883356000000003
+    },
+    {
+      "index": 7,
+      "text": "Krishna is laughing!",
+      "path": "audio/1970-101/08.mp3",
+      "start": 30.428594,
+      "end": 32.138026999999994
+    },
+    {
+      "index": 8,
+      "text": "Buddha is laughing!",
+      "path": "audio/1970-101/09.mp3",
+      "start": 33.679501,
+      "end": 35.214875
+    },
+    {
+      "index": 9,
+      "text": "Listen!",
+      "path": "audio/1970-101/10.mp3",
+      "start": 36.613764,
+      "end": 37.62
+    }
+  ]
+}

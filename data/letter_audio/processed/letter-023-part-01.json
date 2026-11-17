@@ -1,0 +1,58 @@
+{
+  "key": "letter-023-part-01",
+  "number": 23,
+  "generationId": "01a1e4ea-e076-7453-bacc-f66888b42267",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1965-23/01.mp3",
+      "start": 0.0,
+      "end": 0.693401
+    },
+    {
+      "index": 1,
+      "text": "I looked for your letter as soon as I got here yesterday.",
+      "path": "audio/1965-23/02.mp3",
+      "start": 2.191429,
+      "end": 4.932812
+    },
+    {
+      "index": 2,
+      "text": "Though it was Sunday, I kept waiting for it.",
+      "path": "audio/1965-23/03.mp3",
+      "start": 6.439342,
+      "end": 8.975873
+    },
+    {
+      "index": 3,
+      "text": "It came this evening - how much you write in so few words!",
+      "path": "audio/1965-23/04.mp3",
+      "start": 10.428073000000001,
+      "end": 14.065736999999999
+    },
+    {
+      "index": 4,
+      "text": "When the heart is full it pours into the words and so few are needed An ocean of love can be contained in just a jug!",
+      "path": "audio/1965-23/05.mp3",
+      "start": 15.578844,
+      "end": 22.802200000000003
+    },
+    {
+      "index": 5,
+      "text": "As for scriptures on love - it is enough to know the four letters of the word!",
+      "path": "audio/1965-23/06.mp3",
+      "start": 24.38907,
+      "end": 29.180408
+    },
+    {
+      "index": 6,
+      "text": "Do you know how many times I read through your letters?",
+      "path": "audio/1965-23/07.mp3",
+      "start": 30.654785,
+      "end": 33.7
+    }
+  ]
+}

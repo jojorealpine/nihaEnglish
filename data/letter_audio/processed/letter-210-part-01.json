@@ -1,0 +1,79 @@
+{
+  "key": "letter-210-part-01",
+  "number": 210,
+  "generationId": "01a1e8f0-472f-7507-99e8-1acf6777bbbd",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-210/01.mp3",
+      "start": 0.0,
+      "end": 0.625714
+    },
+    {
+      "index": 1,
+      "text": "There is no security in life because life cannot exist except as insecurity - that is why the more secure one is the less alive one becomes.",
+      "path": "audio/1971-210/02.mp3",
+      "start": 1.908594,
+      "end": 11.45059
+    },
+    {
+      "index": 2,
+      "text": "Death is complete security.",
+      "path": "audio/1971-210/03.mp3",
+      "start": 12.710317000000002,
+      "end": 14.758163
+    },
+    {
+      "index": 3,
+      "text": "So never be in search of security because you are searching for death.",
+      "path": "audio/1971-210/04.mp3",
+      "start": 16.131202,
+      "end": 19.614195000000002
+    },
+    {
+      "index": 4,
+      "text": "To live totally and in ecstasy never demands security.",
+      "path": "audio/1971-210/05.mp3",
+      "start": 20.910363,
+      "end": 25.188934
+    },
+    {
+      "index": 5,
+      "text": "Accept insecurity blissfully and when you accept it then you will know that it has a beauty of its own.",
+      "path": "audio/1971-210/06.mp3",
+      "start": 26.743945999999998,
+      "end": 32.83746
+    },
+    {
+      "index": 6,
+      "text": "Mulla Nasrudin's tomb was fronted by an immense wooden door, barred and padlocked Nobody could get into it - at least through the door.",
+      "path": "audio/1971-210/07.mp3",
+      "start": 34.378277000000004,
+      "end": 43.077846
+    },
+    {
+      "index": 7,
+      "text": "As his last joke the Mulla decreed that the tomb should have no walls around it...",
+      "path": "audio/1971-210/08.mp3",
+      "start": 44.519184,
+      "end": 49.036893
+    },
+    {
+      "index": 8,
+      "text": "What the Mulla did with his tomb everybody is doing with his life - and unknowingly!",
+      "path": "audio/1971-210/09.mp3",
+      "start": 50.553515000000004,
+      "end": 56.285737
+    },
+    {
+      "index": 9,
+      "text": "If you also want to do it - at least do it knowingly, because I know that you cannot do it knowingly!",
+      "path": "audio/1971-210/10.mp3",
+      "start": 57.937619000000005,
+      "end": 66.48
+    }
+  ]
+}

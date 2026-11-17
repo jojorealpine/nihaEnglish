@@ -1,0 +1,79 @@
+{
+  "key": "letter-209-part-01",
+  "number": 209,
+  "generationId": "01a1e8ef-ef12-7ba8-8b3d-7e5a0a591d51",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-209/01.mp3",
+      "start": 0.0,
+      "end": 0.533265
+    },
+    {
+      "index": 1,
+      "text": "One's attitude is everything.",
+      "path": "audio/1971-209/02.mp3",
+      "start": 1.7877999999999998,
+      "end": 3.404354
+    },
+    {
+      "index": 2,
+      "text": "Negative attitudes negate life - they are good for dying but not good for living.",
+      "path": "audio/1971-209/03.mp3",
+      "start": 4.715873,
+      "end": 9.965713999999998
+    },
+    {
+      "index": 3,
+      "text": "Life needs positive attitudes; life feeds on them because they make you not only happy but creative also.",
+      "path": "audio/1971-209/04.mp3",
+      "start": 11.194172,
+      "end": 17.801474000000002
+    },
+    {
+      "index": 4,
+      "text": "Once there lived an old woman, but the older she became the younger she felt - because youthfulness has nothing to do with age, it is an attitude, and with age and its richness one can really be younger than the young.",
+      "path": "audio/1971-209/05.mp3",
+      "start": 19.076621,
+      "end": 33.487641999999994
+    },
+    {
+      "index": 5,
+      "text": "The old woman was so cheerful and creative that everyone wondered at her.",
+      "path": "audio/1971-209/06.mp3",
+      "start": 35.046077000000004,
+      "end": 39.317007
+    },
+    {
+      "index": 6,
+      "text": "But you must have some clouds in your life, said a visitor.",
+      "path": "audio/1971-209/07.mp3",
+      "start": 40.670249000000005,
+      "end": 43.851994999999995
+    },
+    {
+      "index": 7,
+      "text": "Clouds? she replied.",
+      "path": "audio/1971-209/08.mp3",
+      "start": 45.150363000000006,
+      "end": 47.240384999999996
+    },
+    {
+      "index": 8,
+      "text": "Why, of course: if there were no clouds where would the blessed showers come from?",
+      "path": "audio/1971-209/09.mp3",
+      "start": 48.530952,
+      "end": 53.208254
+    },
+    {
+      "index": 9,
+      "text": "In the presence of trouble - and there are troubles in life - the positive mind grows wings but others buy crutches.",
+      "path": "audio/1971-209/10.mp3",
+      "start": 54.608889000000005,
+      "end": 61.52
+    }
+  ]
+}

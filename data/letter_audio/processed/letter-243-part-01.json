@@ -1,0 +1,65 @@
+{
+  "key": "letter-243-part-01",
+  "number": 243,
+  "generationId": "01a1e8f9-1d24-7b49-bded-b727e3fb849f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-243/01.mp3",
+      "start": 0.0,
+      "end": 0.750091
+    },
+    {
+      "index": 1,
+      "text": "Life is a dream so enjoy it; but do not ask for more because then you only disturb the dream and get nothing except a disturbed night.",
+      "path": "audio/1971-243/02.mp3",
+      "start": 1.926599,
+      "end": 11.406258999999999
+    },
+    {
+      "index": 2,
+      "text": "Be a witness to the dreaming mind and then there is transcendence: then you go beyond dreaming and beyond mind itself.",
+      "path": "audio/1971-243/03.mp3",
+      "start": 12.750431,
+      "end": 20.885011000000002
+    },
+    {
+      "index": 3,
+      "text": "And know well that there is an awakening below the dreaming mind which is nothing but just a disturbed dream.",
+      "path": "audio/1971-243/04.mp3",
+      "start": 22.279025,
+      "end": 28.928617000000003
+    },
+    {
+      "index": 4,
+      "text": "One can get to this below-dreaming state of awakening through asking for more, desiring more - as ordinarily we all do.",
+      "path": "audio/1971-243/05.mp3",
+      "start": 30.237755,
+      "end": 38.587551
+    },
+    {
+      "index": 5,
+      "text": "In a dream Mulla Nasrudin saw himself being counted out coins and when there were nine silver pieces in his hand the invisible donor stopped giving them.",
+      "path": "audio/1971-243/06.mp3",
+      "start": 40.065737000000006,
+      "end": 48.917007
+    },
+    {
+      "index": 6,
+      "text": "Nasrudin shouted: I must have ten! so loudly that he woke himself up Finding that all the money had disappeared he closed his eyes again and murmured, All right, then, give them back - I will take the nine.",
+      "path": "audio/1971-243/07.mp3",
+      "start": 50.388186000000005,
+      "end": 66.22258500000001
+    },
+    {
+      "index": 7,
+      "text": "There is also an awakening above the dreaming mind - the real awakening in comparison to which man ordinarily is asleep.",
+      "path": "audio/1971-243/08.mp3",
+      "start": 67.713492,
+      "end": 76.51
+    }
+  ]
+}

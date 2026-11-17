@@ -1,0 +1,79 @@
+{
+  "key": "letter-161-part-01",
+  "number": 161,
+  "generationId": "01a1e8e2-6eb3-7822-b66c-3c1a725758da",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-161/01.mp3",
+      "start": 0.0,
+      "end": 0.656893
+    },
+    {
+      "index": 1,
+      "text": "Life is a mystery.",
+      "path": "audio/1970-161/02.mp3",
+      "start": 1.775556,
+      "end": 2.906893
+    },
+    {
+      "index": 2,
+      "text": "It can be lived.",
+      "path": "audio/1970-161/03.mp3",
+      "start": 4.122381,
+      "end": 5.145215
+    },
+    {
+      "index": 3,
+      "text": "It can also be known by living it.",
+      "path": "audio/1970-161/04.mp3",
+      "start": 6.333855,
+      "end": 7.816281
+    },
+    {
+      "index": 4,
+      "text": "But it cannot be solved like a mathematical problem.",
+      "path": "audio/1970-161/05.mp3",
+      "start": 9.03381,
+      "end": 11.429841
+    },
+    {
+      "index": 5,
+      "text": "It is not a problem - it is a challenge.",
+      "path": "audio/1970-161/06.mp3",
+      "start": 12.652766000000002,
+      "end": 14.815805
+    },
+    {
+      "index": 6,
+      "text": "It is not a question - it is an adventure.",
+      "path": "audio/1970-161/07.mp3",
+      "start": 15.977867999999999,
+      "end": 18.269660000000002
+    },
+    {
+      "index": 7,
+      "text": "Hence, those who only go on asking questions about life remain, by this action, deprived of the answer forever.",
+      "path": "audio/1970-161/08.mp3",
+      "start": 19.42195,
+      "end": 26.170952
+    },
+    {
+      "index": 8,
+      "text": "Or acquire answers which are not answers at all.",
+      "path": "audio/1970-161/09.mp3",
+      "start": 27.772607999999998,
+      "end": 30.512313000000002
+    },
+    {
+      "index": 9,
+      "text": "It is such answers that one acquires from scriptures.",
+      "path": "audio/1970-161/10.mp3",
+      "start": 32.105193,
+      "end": 35.34
+    }
+  ]
+}

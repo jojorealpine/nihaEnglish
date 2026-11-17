@@ -1,0 +1,30 @@
+{
+  "key": "letter-060-part-02",
+  "number": 60,
+  "generationId": "01a1e5b6-4cb9-7f39-9f7d-68841db055e9",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Where knowledge (veda) ends, transcendental knowledge (vedanta) begins.",
+      "path": "audio/1969-60/11.mp3",
+      "start": 0.0,
+      "end": 5.336984
+    },
+    {
+      "index": 11,
+      "text": "When knowledge dies, the beyond begins.",
+      "path": "audio/1969-60/12.mp3",
+      "start": 6.817279,
+      "end": 9.831995
+    },
+    {
+      "index": 12,
+      "text": "Freedom from the word is truth.",
+      "path": "audio/1969-60/13.mp3",
+      "start": 11.281270000000001,
+      "end": 14.16
+    }
+  ]
+}

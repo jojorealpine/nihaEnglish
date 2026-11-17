@@ -1,0 +1,79 @@
+{
+  "key": "letter-126-part-01",
+  "number": 126,
+  "generationId": "01a1e6bf-8669-7cf1-a88f-d6118e9a6892",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-126/01.mp3",
+      "start": 0.0,
+      "end": 0.625692
+    },
+    {
+      "index": 1,
+      "text": "Everything changes except change, only change is eternal.",
+      "path": "audio/1970-126/02.mp3",
+      "start": 1.869456,
+      "end": 5.600113
+    },
+    {
+      "index": 2,
+      "text": "But the human mind lives in the past - and that is the confusion of all confusions.",
+      "path": "audio/1970-126/03.mp3",
+      "start": 6.880272,
+      "end": 12.164670999999998
+    },
+    {
+      "index": 3,
+      "text": "One day the sky was filled with the clouds of war - plane upon plane loaded with death.",
+      "path": "audio/1970-126/04.mp3",
+      "start": 13.388889,
+      "end": 18.330816000000002
+    },
+    {
+      "index": 4,
+      "text": "Beasts, birds, worms and beetles - all that could flee, fled Horses, donkeys, rats, sheep, dogs and cats, wolves - all ran for their lives and the paths and tracks were full of them.",
+      "path": "audio/1970-126/05.mp3",
+      "start": 19.647256,
+      "end": 32.574625999999995
+    },
+    {
+      "index": 5,
+      "text": "As they fled, this multitude saw two vultures sitting on a wall by the road.",
+      "path": "audio/1970-126/06.mp3",
+      "start": 34.167959,
+      "end": 39.090453999999994
+    },
+    {
+      "index": 6,
+      "text": "Brothers! they cried to them.",
+      "path": "audio/1970-126/07.mp3",
+      "start": 40.645918,
+      "end": 42.767029
+    },
+    {
+      "index": 7,
+      "text": "Flee!",
+      "path": "audio/1970-126/08.mp3",
+      "start": 44.219342000000005,
+      "end": 45.048662
+    },
+    {
+      "index": 8,
+      "text": "At once!",
+      "path": "audio/1970-126/09.mp3",
+      "start": 46.72263,
+      "end": 47.823491999999995
+    },
+    {
+      "index": 9,
+      "text": "Man is on the warpath again.",
+      "path": "audio/1970-126/10.mp3",
+      "start": 49.413900000000005,
+      "end": 52.92
+    }
+  ]
+}

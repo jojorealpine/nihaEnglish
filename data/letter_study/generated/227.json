@@ -1,0 +1,176 @@
+{
+  "sourceHash": "810d674e23e68294189347d115dbcb78386c93d24e7852068e205602e937b836",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "이것이 바로 내가 명상이라고 부르는 것이다.",
+        "explanation": "명상이 무엇인지 정의하는 문장입니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "meditation",
+            "meaning": "명상",
+            "note": "정신적 집중과 내면의 평화를 찾기 위한 연습이나 상태를 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "만남은 항상 알려지지 않은 것과 이루어진다.",
+        "explanation": "만남이나 경험은 새로운 지식이나 이해를 향한 과정이며, 이는 항상 미지의 영역에서 시작된다는 의미를 담고 있다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "encounter",
+            "meaning": "만남, 만남",
+            "note": "여기서는 새로운 경험이나 지식과의 만남을 의미한다."
+          },
+          {
+            "word": "unknown",
+            "meaning": "알려지지 않은 것, 미지의 것",
+            "note": "이해되지 않은 지식이나 경험을 가리키며, 성장과 배움의 출발점으로 해석된다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "알려진 것을 버리고 미지의 세계와 접촉하라.",
+        "explanation": "미지의 것과 직접적으로 소통하려면 알려진 것을 버려야 한다는 의미입니다.",
+        "grammar": "「can never be」에서 조동사 can 뒤에 동사원형 「be」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "contact",
+            "meaning": "접촉하다",
+            "note": "여기서는 '소통하다' 또는 '경험하다'라는 의미로 사용됩니다."
+          },
+          {
+            "word": "unknown",
+            "meaning": "미지의",
+            "note": "알려지지 않은 것, 이해되지 않은 것을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "알려지지 않은 것은 안팎으로 어디에나 존재하며, 생각은 항상 알려진 것 안에 있고 알려진 것에 대한 것이다.",
+        "explanation": "알려지지 않은 것이 주변 환경과 내면 모두에 존재함을 강조하고, 인간의 사고 과정이 항상 알려진 정보나 개념에 기반한다는 의미를 담고 있다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "unknown",
+            "meaning": "알려지지 않은 것",
+            "note": "문장에서 미지의 영역이나 이해되지 않은 상태를 나타낸다."
+          },
+          {
+            "word": "thinking",
+            "meaning": "생각",
+            "note": "인간의 사고 과정이나 인지 활동을 의미하며, 이 문장에서는 알려진 정보에 기반한다는 점을 강조한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "생각에 의존하지 마세요. 왜냐하면 그것이 가장 큰 미신이기 때문입니다 - 하지만 반미신이라고 척하는 탓에 잘 숨겨져 있습니다!",
+        "explanation": "문장은 생각에 대한 과도한 의존이 가장 큰 미신임을 경고하며, 그럼에도 불구하고 그 미신이 반미신처럼 보이려고 한다는 비판적인 시각을 담고 있습니다.",
+        "grammar": "「Do not believe」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "thinking",
+            "meaning": "생각",
+            "note": "여기서는 과도한 의존이나 믿음의 대상으로 사용됩니다."
+          },
+          {
+            "word": "superstitions",
+            "meaning": "미신",
+            "note": "일반적으로 비합리적인 믿음이나 관습을 의미합니다."
+          },
+          {
+            "word": "superstitious",
+            "meaning": "미신적인",
+            "note": "미신에 얽매여 있거나 미신을 믿는 것을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "생각은 눈먼 마음 속의 먼지일 뿐, 알지 못하는 것을 생각할 수 없고 이미 알고 있는 것을 생각할 필요도 없다.",
+        "explanation": "문장은 생각의 가치를 낮추며, 이미 알고 있는 지식에 대해 새로운 생각을 할 필요가 없다는 주장을 합니다. 또한, 무지나 무지의 상태를 '눈먼 마음'으로 비유하여 비판하고 있습니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "Thinking",
+            "meaning": "생각",
+            "note": "문장에서 지식이나 인식의 과정을 나타냅니다."
+          },
+          {
+            "word": "blind",
+            "meaning": "눈먼",
+            "note": "비유적으로 사용되어 무지나 무지의 상태를 나타냅니다."
+          },
+          {
+            "word": "think",
+            "meaning": "생각하다",
+            "note": "문장에서 지식의 범위 내에서만 의미가 있으며, 이미 알고 있는 것에 대해 다시 생각할 필요가 없다는 의미를 담고 있습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

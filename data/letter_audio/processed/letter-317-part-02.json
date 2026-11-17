@@ -1,0 +1,58 @@
+{
+  "key": "letter-317-part-02",
+  "number": 317,
+  "generationId": "01a1e90c-2c24-7c33-b77c-4850c5acb26d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "The effort is futile because whatsoever is known once is known forever and you cannot be the old ignorant person again.",
+      "path": "audio/1971-317/11.mp3",
+      "start": 0.0,
+      "end": 8.511745999999999
+    },
+    {
+      "index": 11,
+      "text": "There is no way to go back and there is no bridge.",
+      "path": "audio/1971-317/12.mp3",
+      "start": 10.119909000000002,
+      "end": 13.375941
+    },
+    {
+      "index": 12,
+      "text": "This escape will make you more mature too and you will come back strengthened through it and because of it.",
+      "path": "audio/1971-317/13.mp3",
+      "start": 14.977687000000001,
+      "end": 21.43458
+    },
+    {
+      "index": 13,
+      "text": "Now relax there under the sky and beside the sea and I will be there Whenever you are relaxed you will feel my presence.",
+      "path": "audio/1971-317/14.mp3",
+      "start": 23.101678,
+      "end": 30.996236
+    },
+    {
+      "index": 14,
+      "text": "And when you feel like coming, come back - and soon you will feel this.",
+      "path": "audio/1971-317/15.mp3",
+      "start": 32.534785,
+      "end": 37.836099999999995
+    },
+    {
+      "index": 15,
+      "text": "I will be waiting here for you as ever.",
+      "path": "audio/1971-317/16.mp3",
+      "start": 39.304943,
+      "end": 42.240227
+    },
+    {
+      "index": 16,
+      "text": "Come and continue the arduous journey towards your self",
+      "path": "audio/1971-317/17.mp3",
+      "start": 43.809751000000006,
+      "end": 47.67
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "key": "letter-056-part-02",
+  "number": 56,
+  "generationId": "01a1e4f7-ad91-7211-888f-e4d02a0adc91",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "The sun is out and the winds can't wait to fill the boat's sails!",
+      "path": "audio/1969-56/11.mp3",
+      "start": 0.0,
+      "end": 4.08
+    }
+  ]
+}

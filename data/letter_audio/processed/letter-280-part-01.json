@@ -1,0 +1,79 @@
+{
+  "key": "letter-280-part-01",
+  "number": 280,
+  "generationId": "01a1e900-f201-7e3b-8b1c-018e5932cd5d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-280/01.mp3",
+      "start": 0.0,
+      "end": 0.676712
+    },
+    {
+      "index": 1,
+      "text": "Truth is never secondhand, it cannot be transferred One has to know it and be it oneself.",
+      "path": "audio/1971-280/02.mp3",
+      "start": 2.031519,
+      "end": 7.887778
+    },
+    {
+      "index": 2,
+      "text": "That is why all tradition falsifies it, and all scriptures, and all words, and in the end it is nothing but the soup of Mulla Nasrudin....",
+      "path": "audio/1971-280/03.mp3",
+      "start": 9.412494,
+      "end": 17.772562
+    },
+    {
+      "index": 3,
+      "text": "But first I must tell you the story.",
+      "path": "audio/1971-280/04.mp3",
+      "start": 19.180543999999998,
+      "end": 21.239569
+    },
+    {
+      "index": 4,
+      "text": "A relative from the country came to see Nasrudin and brought a duck.",
+      "path": "audio/1971-280/05.mp3",
+      "start": 22.8261,
+      "end": 26.905533000000002
+    },
+    {
+      "index": 5,
+      "text": "Nasrudin was grateful, and shared it with the guest. had the bird cooked, Presently another visitor arrived I am a friend, he said, of the man who gave you the duck.",
+      "path": "audio/1971-280/06.mp3",
+      "start": 28.293946,
+      "end": 39.036009
+    },
+    {
+      "index": 6,
+      "text": "Nasrudin fed him as well This happened several times.",
+      "path": "audio/1971-280/07.mp3",
+      "start": 40.426961000000006,
+      "end": 44.47381
+    },
+    {
+      "index": 7,
+      "text": "Nasrudin's house had become like a restaurant for out-of-town visitors.",
+      "path": "audio/1971-280/08.mp3",
+      "start": 45.863379,
+      "end": 49.780884
+    },
+    {
+      "index": 8,
+      "text": "Everyone was a friend of the friend of the original donor of the duck.",
+      "path": "audio/1971-280/09.mp3",
+      "start": 51.094263000000005,
+      "end": 54.334489999999995
+    },
+    {
+      "index": 9,
+      "text": "Finally Nasrudin was exasperated One day there was a knock at the door and a stranger appeared.",
+      "path": "audio/1971-280/10.mp3",
+      "start": 56.059796000000006,
+      "end": 63.53
+    }
+  ]
+}

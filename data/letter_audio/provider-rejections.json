@@ -1,0 +1,86 @@
+[
+  {
+    "key": "letter-072-part-01",
+    "generationId": "01a1e629-d916-74b4-a25b-f73ac8ca6292",
+    "response": {
+      "status": "failed",
+      "generationId": "01a1e629-d916-74b4-a25b-f73ac8ca6292",
+      "errorCode": "PROVIDER_CONTENT_SAFETY_VIOLATION",
+      "title": "Your prompt didn't meet the model guidelines",
+      "message": "Please edit your prompt and try again.",
+      "tooltipDescription": "The model may block requests that include sensitive or restricted topics. Please edit your prompt and try again.",
+      "subtitle": "No credits were used",
+      "isContentViolation": true
+    }
+  },
+  {
+    "key": "letter-143-part-02",
+    "generationId": "01a1e6d5-c3ad-7b33-9312-82de444368f8",
+    "response": {
+      "status": "failed",
+      "generationId": "01a1e6d5-c3ad-7b33-9312-82de444368f8",
+      "errorCode": "PROVIDER_CONTENT_SAFETY_VIOLATION",
+      "title": "Your prompt didn't meet the model guidelines",
+      "message": "Please edit your prompt and try again.",
+      "tooltipDescription": "The model may block requests that include sensitive or restricted topics. Please edit your prompt and try again.",
+      "subtitle": "No credits were used",
+      "isContentViolation": true
+    }
+  },
+  {
+    "key": "letter-177-part-01",
+    "generationId": "01a1e8e6-9516-7440-9d4c-19be559d316d",
+    "response": {
+      "status": "failed",
+      "generationId": "01a1e8e6-9516-7440-9d4c-19be559d316d",
+      "errorCode": "PROVIDER_CONTENT_SAFETY_VIOLATION",
+      "title": "Your prompt didn't meet the model guidelines",
+      "message": "Please edit your prompt and try again.",
+      "tooltipDescription": "The model may block requests that include sensitive or restricted topics. Please edit your prompt and try again.",
+      "subtitle": "No credits were used",
+      "isContentViolation": true
+    }
+  },
+  {
+    "key": "letter-228-part-02",
+    "generationId": "01a1e8f5-032b-79e1-b3c2-bf207461e4c6",
+    "response": {
+      "status": "failed",
+      "generationId": "01a1e8f5-032b-79e1-b3c2-bf207461e4c6",
+      "errorCode": "PROVIDER_CONTENT_SAFETY_VIOLATION",
+      "title": "Your prompt didn't meet the model guidelines",
+      "message": "Please edit your prompt and try again.",
+      "tooltipDescription": "The model may block requests that include sensitive or restricted topics. Please edit your prompt and try again.",
+      "subtitle": "No credits were used",
+      "isContentViolation": true
+    }
+  },
+  {
+    "key": "letter-266-part-01",
+    "generationId": "01a1e8fe-1650-7555-95ee-3b8ccf4d34cd",
+    "response": {
+      "status": "failed",
+      "generationId": "01a1e8fe-1650-7555-95ee-3b8ccf4d34cd",
+      "errorCode": "PROVIDER_CONTENT_SAFETY_VIOLATION",
+      "title": "Your prompt didn't meet the model guidelines",
+      "message": "Please edit your prompt and try again.",
+      "tooltipDescription": "The model may block requests that include sensitive or restricted topics. Please edit your prompt and try again.",
+      "subtitle": "No credits were used",
+      "isContentViolation": true
+    }
+  },
+  {
+    "key": "letter-316-part-03",
+    "generationId": "01a1e90b-c4e6-7b5d-b8d7-485dfe3c575b",
+    "response": {
+      "status": "failed",
+      "generationId": "01a1e90b-c4e6-7b5d-b8d7-485dfe3c575b",
+      "errorCode": "PROVIDER_CONTENT_SAFETY_VIOLATION",
+      "title": "Your prompt didn't meet the model guidelines",
+      "message": "Please edit your prompt and try again.",
+      "tooltipDescription": "The model may block requests that include sensitive or restricted topics. Please edit your prompt and try again.",
+      "subtitle": "No credits were used",
+      "isContentViolation": true
+    }
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "key": "letter-159-part-03",
+  "number": 159,
+  "generationId": "01a1e8e1-dde7-7f00-a215-29fd37b505a0",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 20,
+      "text": "The East is in the second kind of failure and anguish.",
+      "path": "audio/1970-159/21.mp3",
+      "start": 0.0,
+      "end": 3.417687
+    },
+    {
+      "index": 21,
+      "text": "And so far man has not been able to give birth to such a culture which not only succeeds but becomes fulfilled too.",
+      "path": "audio/1970-159/22.mp3",
+      "start": 4.916281,
+      "end": 12.645532999999999
+    },
+    {
+      "index": 22,
+      "text": "The two realities I have talked about above - the reality of the root and the reality of the branches; the law of the intransient and the law of the transient - it is only in the harmonious balance of these two that such a culture can be born which will neither be polar nor lopsided, which will use the tension of the opposite poles, the same as architecture uses opposing bricks in creation of an arched door.",
+      "path": "audio/1970-159/23.mp3",
+      "start": 14.160181000000001,
+      "end": 44.856280999999996
+    },
+    {
+      "index": 23,
+      "text": "The truth of life is pluralism.",
+      "path": "audio/1970-159/24.mp3",
+      "start": 46.366236,
+      "end": 49.125488
+    },
+    {
+      "index": 24,
+      "text": "And, the stream of life always flows taking the opposite poles as its banks.",
+      "path": "audio/1970-159/25.mp3",
+      "start": 50.63483,
+      "end": 57.1
+    }
+  ]
+}

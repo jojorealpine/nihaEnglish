@@ -1,0 +1,16 @@
+{
+  "key": "letter-207-part-02",
+  "number": 207,
+  "generationId": "01a1e8ef-a1ba-74c1-ad25-327ebca55fd0",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "But not one of you saw the big expanse of white paper - and that is the point of my speech.",
+      "path": "audio/1971-207/11.mp3",
+      "start": 0.0,
+      "end": 5.75
+    }
+  ]
+}

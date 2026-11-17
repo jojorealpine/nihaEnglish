@@ -1,0 +1,79 @@
+{
+  "key": "letter-153-part-01",
+  "number": 153,
+  "generationId": "01a1e6f3-b074-7404-ba37-a39afb50269e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-153/01.mp3",
+      "start": 0.0,
+      "end": 0.525918
+    },
+    {
+      "index": 1,
+      "text": "Drop the fear, because the moment you hold on to it, it multiplies.",
+      "path": "audio/1970-153/02.mp3",
+      "start": 1.545896,
+      "end": 5.4303170000000005
+    },
+    {
+      "index": 2,
+      "text": "To hold on to it is to nourish it.",
+      "path": "audio/1970-153/03.mp3",
+      "start": 6.468186,
+      "end": 8.306258999999999
+    },
+    {
+      "index": 3,
+      "text": "But dropping fear does not mean fighting with it.",
+      "path": "audio/1970-153/04.mp3",
+      "start": 9.513923,
+      "end": 11.835692
+    },
+    {
+      "index": 4,
+      "text": "To fight is also to hold on to it.",
+      "path": "audio/1970-153/05.mp3",
+      "start": 12.946259000000001,
+      "end": 15.166576
+    },
+    {
+      "index": 5,
+      "text": "Just know that fear is.",
+      "path": "audio/1970-153/06.mp3",
+      "start": 16.215193,
+      "end": 17.776259
+    },
+    {
+      "index": 6,
+      "text": "Do not run away from it, do not escape.",
+      "path": "audio/1970-153/07.mp3",
+      "start": 18.891994999999998,
+      "end": 21.205669
+    },
+    {
+      "index": 7,
+      "text": "In life there is fear, there is insecurity, there is death - just know this.",
+      "path": "audio/1970-153/08.mp3",
+      "start": 22.820567,
+      "end": 28.921859
+    },
+    {
+      "index": 8,
+      "text": "All these are facts of life.",
+      "path": "audio/1970-153/09.mp3",
+      "start": 30.424308,
+      "end": 32.129819
+    },
+    {
+      "index": 9,
+      "text": "Where would you run from them?",
+      "path": "audio/1970-153/10.mp3",
+      "start": 33.592562,
+      "end": 36.02
+    }
+  ]
+}

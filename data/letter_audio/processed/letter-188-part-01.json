@@ -1,0 +1,51 @@
+{
+  "key": "letter-188-part-01",
+  "number": 188,
+  "generationId": "01a1e8e9-9229-7c23-ad74-61077949661e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-188/01.mp3",
+      "start": 0.0,
+      "end": 0.727007
+    },
+    {
+      "index": 1,
+      "text": "Reason is not enough; it is necessary but not enough.",
+      "path": "audio/1971-188/02.mp3",
+      "start": 1.8861219999999999,
+      "end": 5.546939
+    },
+    {
+      "index": 2,
+      "text": "The beyond must be remembered - and always, because reason in itself is destructive; alone, it is nothing but an implement to dissect.",
+      "path": "audio/1971-188/03.mp3",
+      "start": 6.7549209999999995,
+      "end": 15.249592
+    },
+    {
+      "index": 3,
+      "text": "It makes a man anti-all and pro-nothing.",
+      "path": "audio/1971-188/04.mp3",
+      "start": 16.464489999999998,
+      "end": 19.273039
+    },
+    {
+      "index": 4,
+      "text": "It creates absolutely negative minds which can criticize but cannot create, because reason has no healing force within itself.",
+      "path": "audio/1971-188/05.mp3",
+      "start": 20.464966,
+      "end": 29.035964
+    },
+    {
+      "index": 5,
+      "text": "It is only a tiny part and not the whole of life, and the healing force is always with the whole.",
+      "path": "audio/1971-188/06.mp3",
+      "start": 30.497778,
+      "end": 37.43
+    }
+  ]
+}

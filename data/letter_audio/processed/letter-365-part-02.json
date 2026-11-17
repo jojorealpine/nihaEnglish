@@ -1,0 +1,79 @@
+{
+  "key": "letter-365-part-02",
+  "number": 365,
+  "generationId": "01a1e919-e182-7b7b-9d28-c2590ca1bd36",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "And, rebellion is nothing but a continuity of the old.",
+      "path": "audio/1971-365/11.mp3",
+      "start": 0.0,
+      "end": 3.0139
+    },
+    {
+      "index": 11,
+      "text": "Hence, understand - do not fight.",
+      "path": "audio/1971-365/12.mp3",
+      "start": 4.125011,
+      "end": 6.1599770000000005
+    },
+    {
+      "index": 12,
+      "text": "When has anybody attained anything through fighting?",
+      "path": "audio/1971-365/13.mp3",
+      "start": 7.439456,
+      "end": 9.854035999999999
+    },
+    {
+      "index": 13,
+      "text": "Except pain? - except defeat?",
+      "path": "audio/1971-365/14.mp3",
+      "start": 10.994127,
+      "end": 13.235873
+    },
+    {
+      "index": 14,
+      "text": "Hence, do not escape, but wake up.",
+      "path": "audio/1971-365/15.mp3",
+      "start": 14.454830000000001,
+      "end": 16.422268000000003
+    },
+    {
+      "index": 15,
+      "text": "By escaping one has to keep on escaping.",
+      "path": "audio/1971-365/16.mp3",
+      "start": 17.601768999999997,
+      "end": 19.74517
+    },
+    {
+      "index": 16,
+      "text": "And then there is no end to that.",
+      "path": "audio/1971-365/17.mp3",
+      "start": 20.964626,
+      "end": 22.911497
+    },
+    {
+      "index": 17,
+      "text": "Knowing is freedom.",
+      "path": "audio/1971-365/18.mp3",
+      "start": 24.571904999999997,
+      "end": 26.017075000000002
+    },
+    {
+      "index": 18,
+      "text": "Not the fear, not the anger, not the enmity, not the rebellion.",
+      "path": "audio/1971-365/19.mp3",
+      "start": 27.470975,
+      "end": 31.990159000000002
+    },
+    {
+      "index": 19,
+      "text": "Only knowing is freedom.",
+      "path": "audio/1971-365/20.mp3",
+      "start": 33.452313000000004,
+      "end": 35.47
+    }
+  ]
+}

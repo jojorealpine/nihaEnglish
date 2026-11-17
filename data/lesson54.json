@@ -1,0 +1,815 @@
+{
+  "id": "1969-54",
+  "title": "1969 / 54",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "people",
+      "meaning": "사람들",
+      "note": "이 문맥에서는 일반적인 인간 관계를 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meet",
+      "meaning": "만나다",
+      "note": "두 사람이 서로 마주치거나 관계를 형성하는 것을 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "communication",
+      "meaning": "소통",
+      "note": "두 사람 간의 이해나 교류가 어려움을 나타냄",
+      "sentenceIds": [
+        3,
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "impossible",
+      "meaning": "불가능한",
+      "note": "현실적으로 이루어지기 어려운 상황을 강조함",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "day",
+      "meaning": "날",
+      "note": "여기서는 시간적 맥락에서 최근의 특정 날을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "possible",
+      "meaning": "가능한",
+      "note": "상황이나 행동이 실제로 일어날 수 있음을 의미한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "tears",
+      "meaning": "눈물",
+      "note": "여기서는 슬픔이나 감동을 표현하는 비언어적 신호로 사용됩니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "answered",
+      "meaning": "대답했다",
+      "note": "보통 말로 이루어지는 대답이 아닌, 감정이나 상황에 대한 반응으로 해석됩니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "deeply",
+      "meaning": "깊이",
+      "note": "정도나 강도를 강조하며, 여기서는 감사의 정도가 매우 깊음을 나타냅니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "grateful",
+      "meaning": "감사하다",
+      "note": "누군가의 행동이나 선물에 대해 고마움을 표현하는 상태를 나타냅니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "response",
+      "meaning": "반응",
+      "note": "어떤 상황이나 행동에 대한 사람의 태도나 행동을 나타낸다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "rare",
+      "meaning": "드물다",
+      "note": "자주 일어나지 않거나 거의 볼 수 없는 상황을 설명한다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "seen",
+      "meaning": "보다",
+      "note": "이 문맥에서는 「보다」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Madhu Shala",
+      "meaning": "마드후 샤라 (고유명사 그대로 번역)",
+      "note": "특정 장소나 개념을 지칭하는 고유명사입니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sing",
+      "meaning": "노래 부르다",
+      "note": "이 단어는 음악을 통해 감정이나 메시지를 표현하는 행위를 나타냅니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "song",
+      "meaning": "노래",
+      "note": "특정 멜로디와 가사로 구성된 음악 작품을 의미합니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sannyas",
+      "meaning": "산야스 (종교적 수행의 한 형태)",
+      "note": "여기서는 세상을 받아들이는 태도나 삶의 방식을 의미한다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "accepts",
+      "meaning": "받아들인다",
+      "note": "세상의 모든 것을 긍정적이고 열린 마음으로 수용한다는 의미를 담고 있다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "samsara",
+      "meaning": "윤회",
+      "note": "끊임없이 태어나고 죽는 순환적인 삶의 과정을 의미합니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "moksha",
+      "meaning": "해탈",
+      "note": "고통과 번뇌에서 벗어나 영원한 평화와 자유를 얻는 상태를 의미합니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ignorance",
+      "meaning": "무지",
+      "note": "무지 상태에서는 다양한 관점이나 개념들이 분리되어 존재할 수 있다는 의미.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "knowledge",
+      "meaning": "지식",
+      "note": "깊은 이해와 통합이 이루어져 하나의 통합된 상태를 의미한다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "religion",
+      "meaning": "종교",
+      "note": "특정 신념 체계나 신앙 생활을 따르는 것을 의미합니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "dance",
+      "meaning": "춤추다",
+      "note": "음악에 맞춰 몸을 움직이는 행위를 의미합니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "hear",
+      "meaning": "듣다",
+      "note": "정보를 듣거나 이해한다는 의미입니다.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "come",
+      "meaning": "오다",
+      "note": "수신자가 특정 장소로 방문한다는 의미입니다.",
+      "sentenceIds": [
+        15,
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "soon",
+      "meaning": "빨리",
+      "note": "시간적인 맥락에서 빠른 도착을 기대하거나 강조할 때 사용됩니다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "trust",
+      "meaning": "믿다",
+      "note": "여기서는 시간의 일관성과 예측 가능성을 믿는 것에 대한 의문을 제기합니다.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "time",
+      "meaning": "시간",
+      "note": "시간의 흐름과 그 변화무쌍함을 상징하며, 이 문장에서는 불확실성과 예측 불가능성의 원천으로 묘사됩니다.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "morning",
+      "meaning": "아침",
+      "note": "하루의 시작을 의미하며, 새로운 시간의 도래를 나타냅니다.",
+      "sentenceIds": [
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "rises",
+      "meaning": "뜨다",
+      "note": "해의 등장을 통해 시간의 진행과 자연의 순환을 상징적으로 표현합니다.",
+      "sentenceIds": [
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "long",
+      "meaning": "오래",
+      "note": "시간의 길이를 나타내며, 여기서는 시간이 얼마나 오래 걸릴지 묻는 맥락에서 사용됨",
+      "sentenceIds": [
+        19
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sets",
+      "meaning": "지다",
+      "note": "태양의 움직임을 설명하며, 여기서는 태양이 지평선 아래로 내려가는 것을 의미함",
+      "sentenceIds": [
+        19
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    [
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1969-54/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Can two people ever meet?",
+      "korean": "두 사람이 만날 수 있을까요?",
+      "explanation": "이 문장은 두 개인 간의 만남이나 관계 형성 가능성에 대한 의문을 제기합니다.",
+      "grammar": "「Can two people ever meet」에서 조동사 Can 뒤에 동사원형 「meet」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1969-54/02.mp3",
+      "vocabulary": [
+        {
+          "word": "people",
+          "meaning": "사람들",
+          "note": "이 문맥에서는 일반적인 인간 관계를 의미합니다."
+        },
+        {
+          "word": "meet",
+          "meaning": "만나다",
+          "note": "두 사람이 서로 마주치거나 관계를 형성하는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "It is just not possible on this earth, communication seems impossible - but at times the impossible happens.",
+      "korean": "이 세상에서 두 사람이 만날 수 있을까? 소통은 불가능해 보이지만, 때로는 불가능한 일이 일어난다.",
+      "explanation": "두 사람이 서로 만날 수 없는 상황에서도 때때로 예상치 못한 만남이 발생할 수 있다는 의미",
+      "grammar": "동사 「seems」는 seem의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1969-54/03.mp3",
+      "vocabulary": [
+        {
+          "word": "communication",
+          "meaning": "소통",
+          "note": "두 사람 간의 이해나 교류가 어려움을 나타냄"
+        },
+        {
+          "word": "impossible",
+          "meaning": "불가능한",
+          "note": "현실적으로 이루어지기 어려운 상황을 강조함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "The other day it did.",
+      "korean": "엊그제 그랬어요.",
+      "explanation": "이 문장은 과거에 불가능하다고 여겨졌던 일이 실제로 일어났음을 나타냅니다. '엊그제'는 최근의 특정 날을 가리키며, 이로 인해 이전에는 불가능하다고 생각되었던 상황이 실제로 발생했다는 의미를 전달합니다.",
+      "grammar": "동사 「did」는 do의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1969-54/04.mp3",
+      "vocabulary": [
+        {
+          "word": "day",
+          "meaning": "날",
+          "note": "여기서는 시간적 맥락에서 최근의 특정 날을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Being with you, I felt meeting is possible, and also communication, and without words, too.",
+      "korean": "너와 함께 있으면서 만남이 가능하다고 느꼈고, 소통도 가능하다고 생각했어. 말 없이도 그럴 수 있었지.",
+      "explanation": "문장은 상대방과의 관계 속에서 비언어적인 연결감과 소통 가능성을 느끼는 감정을 표현하고 있다.",
+      "grammar": "동사 「felt」는 feel의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1969-54/05.mp3",
+      "vocabulary": [
+        {
+          "word": "possible",
+          "meaning": "가능한",
+          "note": "상황이나 행동이 실제로 일어날 수 있음을 의미한다."
+        },
+        {
+          "word": "communication",
+          "meaning": "소통",
+          "note": "정보나 감정을 주고받는 과정을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Your tears answered me.",
+      "korean": "네 눈물이 나에게 대답했어.",
+      "explanation": "이 문장은 눈물이라는 비언어적 표현을 통해 감정적인 소통이 이루어졌음을 나타냅니다.",
+      "grammar": "동사 「answered」는 answer의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1969-54/06.mp3",
+      "vocabulary": [
+        {
+          "word": "tears",
+          "meaning": "눈물",
+          "note": "여기서는 슬픔이나 감동을 표현하는 비언어적 신호로 사용됩니다."
+        },
+        {
+          "word": "answered",
+          "meaning": "대답했다",
+          "note": "보통 말로 이루어지는 대답이 아닌, 감정이나 상황에 대한 반응으로 해석됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "I am deeply grateful for those tears.",
+      "korean": "깊이 감사드립니다.",
+      "explanation": "그 눈물에 대해 깊은 감사의 마음을 표현하고 있습니다.",
+      "grammar": "「am」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-54/07.mp3",
+      "vocabulary": [
+        {
+          "word": "deeply",
+          "meaning": "깊이",
+          "note": "정도나 강도를 강조하며, 여기서는 감사의 정도가 매우 깊음을 나타냅니다."
+        },
+        {
+          "word": "grateful",
+          "meaning": "감사하다",
+          "note": "누군가의 행동이나 선물에 대해 고마움을 표현하는 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "Such response is very rare.",
+      "korean": "이런 반응은 매우 드물다.",
+      "explanation": "이 문장은 특정 상황에서 보이는 특별하고 드문 반응을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-54/08.mp3",
+      "vocabulary": [
+        {
+          "word": "response",
+          "meaning": "반응",
+          "note": "어떤 상황이나 행동에 대한 사람의 태도나 행동을 나타낸다."
+        },
+        {
+          "word": "rare",
+          "meaning": "드물다",
+          "note": "자주 일어나지 않거나 거의 볼 수 없는 상황을 설명한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "I have seen your Madhu Shala, seen it again and again.",
+      "korean": "나는 당신의 마드후 샤라를 여러 번 보았습니다.",
+      "explanation": "마드후 샤라를 여러 차례 목격했다는 의미입니다.",
+      "grammar": "「have seen」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1969-54/09.mp3",
+      "vocabulary": [
+        {
+          "word": "seen",
+          "meaning": "보다",
+          "note": "이 문맥에서는 「보다」의 뜻으로 읽습니다."
+        },
+        {
+          "word": "Madhu Shala",
+          "meaning": "마드후 샤라 (고유명사 그대로 번역)",
+          "note": "특정 장소나 개념을 지칭하는 고유명사입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "If I could sing I would sing the same song that is there.",
+      "korean": "만약 노래 부를 수 있다면, 그곳에 있는 그 노래를 부를 거예요.",
+      "explanation": "만약 노래를 부를 수 있다면, 특정 장소나 상황에서 들리는 특정 노래를 반복해서 부르고 싶다는 의미입니다.",
+      "grammar": "「would sing」에서 조동사 would 뒤에 동사원형 「sing」가 옵니다. would은 문맥에 따라 가정·의지·정중함 등을 나타냅니다.",
+      "audio": "audio/1969-54/10.mp3",
+      "vocabulary": [
+        {
+          "word": "sing",
+          "meaning": "노래 부르다",
+          "note": "이 단어는 음악을 통해 감정이나 메시지를 표현하는 행위를 나타냅니다."
+        },
+        {
+          "word": "song",
+          "meaning": "노래",
+          "note": "특정 멜로디와 가사로 구성된 음악 작품을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "I call that sannyas the real sannyas which accepts the world with joy.",
+      "korean": "진정한 산야스는 세상을 기쁨으로 받아들이는 것이라 부르겠다.",
+      "explanation": "진정한 산야스의 정의를 설명하며, 세상을 긍정적으로 수용하는 태도를 강조한다.",
+      "grammar": "동사 「call」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1969-54/11.mp3",
+      "vocabulary": [
+        {
+          "word": "sannyas",
+          "meaning": "산야스 (종교적 수행의 한 형태)",
+          "note": "여기서는 세상을 받아들이는 태도나 삶의 방식을 의미한다."
+        },
+        {
+          "word": "accepts",
+          "meaning": "받아들인다",
+          "note": "세상의 모든 것을 긍정적이고 열린 마음으로 수용한다는 의미를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "Aren't samsara and moksha really one?",
+      "korean": "사마디와 모크샤가 정말 하나의 개념일까요?",
+      "explanation": "문장은 사마디(삼매)와 모크샤(해탈)가 본질적으로 동일한 개념인지 질문하고 있습니다.",
+      "grammar": "「Are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-54/12.mp3",
+      "vocabulary": [
+        {
+          "word": "samsara",
+          "meaning": "윤회",
+          "note": "끊임없이 태어나고 죽는 순환적인 삶의 과정을 의미합니다."
+        },
+        {
+          "word": "moksha",
+          "meaning": "해탈",
+          "note": "고통과 번뇌에서 벗어나 영원한 평화와 자유를 얻는 상태를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "Duality exists in ignorance, in knowledge there is only one.",
+      "korean": "무지 속에는 이중성이 존재하지만, 지식의 영역에서는 하나뿐이다.",
+      "explanation": "무지와 지식의 상태에서 존재하는 이중성과 단일성의 대비를 설명한다.",
+      "grammar": "동사 「exists」는 exist의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1969-54/13.mp3",
+      "vocabulary": [
+        {
+          "word": "ignorance",
+          "meaning": "무지",
+          "note": "무지 상태에서는 다양한 관점이나 개념들이 분리되어 존재할 수 있다는 의미."
+        },
+        {
+          "word": "knowledge",
+          "meaning": "지식",
+          "note": "깊은 이해와 통합이 이루어져 하나의 통합된 상태를 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "Oh, can that really be religion which cannot sing and dance the songs of bliss and love?",
+      "korean": "정말 즐거움과 사랑의 노래를 부르고 춤추지 못하는 것이 종교일 수 있을까?",
+      "explanation": "문장은 종교의 본질에 대해 의문을 제기하며, 종교가 기쁨과 사랑을 표현하는 활동(노래와 춤)을 포함해야 한다는 주장을 합니다.",
+      "grammar": "「can that really be」에서 조동사 can 뒤에 동사원형 「be」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1969-54/14.mp3",
+      "vocabulary": [
+        {
+          "word": "religion",
+          "meaning": "종교",
+          "note": "특정 신념 체계나 신앙 생활을 따르는 것을 의미합니다."
+        },
+        {
+          "word": "dance",
+          "meaning": "춤추다",
+          "note": "음악에 맞춰 몸을 움직이는 행위를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "P.S. I hear you are due to come here.",
+      "korean": "당신이 여기 오실 예정이라는 걸 들었어요.",
+      "explanation": "편지 작성자가 수신자의 방문 예정 소식을 들었다는 내용을 전달합니다.",
+      "grammar": "동사 「hear」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1969-54/15.mp3",
+      "vocabulary": [
+        {
+          "word": "hear",
+          "meaning": "듣다",
+          "note": "정보를 듣거나 이해한다는 의미입니다."
+        },
+        {
+          "word": "come",
+          "meaning": "오다",
+          "note": "수신자가 특정 장소로 방문한다는 의미입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "Come, and come soon.",
+      "korean": "오세요, 빨리 오세요.",
+      "explanation": "누군가에게 방문을 환영하며 빨리 도착하길 바라는 의미입니다.",
+      "grammar": "동사원형 「Come」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1969-54/16.mp3",
+      "vocabulary": [
+        {
+          "word": "Come",
+          "meaning": "오다",
+          "note": "명령형으로 누군가를 초대하거나 방문을 환영하는 표현입니다."
+        },
+        {
+          "word": "soon",
+          "meaning": "빨리",
+          "note": "시간적인 맥락에서 빠른 도착을 기대하거나 강조할 때 사용됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 17,
+      "english": "Who can trust time?",
+      "korean": "시간을 믿을 수 있는 사람이 누구일까요?",
+      "explanation": "이 문장은 시간의 불확실성과 예측 불가능성을 강조하며, 시간의 흐름을 신뢰하기 어려움을 질문 형태로 제기하고 있습니다.",
+      "grammar": "「can trust」에서 조동사 can 뒤에 동사원형 「trust」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1969-54/17.mp3",
+      "vocabulary": [
+        {
+          "word": "trust",
+          "meaning": "믿다",
+          "note": "여기서는 시간의 일관성과 예측 가능성을 믿는 것에 대한 의문을 제기합니다."
+        },
+        {
+          "word": "time",
+          "meaning": "시간",
+          "note": "시간의 흐름과 그 변화무쌍함을 상징하며, 이 문장에서는 불확실성과 예측 불가능성의 원천으로 묘사됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 18,
+      "english": "Look - it is morning and the sun rises.",
+      "korean": "아침이네요, 해가 뜨네요.",
+      "explanation": "해가 뜨는 아침의 모습을 묘사하며 시간의 흐름을 자연스럽게 언급합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-54/18.mp3",
+      "vocabulary": [
+        {
+          "word": "morning",
+          "meaning": "아침",
+          "note": "하루의 시작을 의미하며, 새로운 시간의 도래를 나타냅니다."
+        },
+        {
+          "word": "rises",
+          "meaning": "뜨다",
+          "note": "해의 등장을 통해 시간의 진행과 자연의 순환을 상징적으로 표현합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 19,
+      "english": "How long will it be before it sets?",
+      "korean": "태양이 질 때까지 얼마나 걸릴까요?",
+      "explanation": "태양이 지는 시점까지 걸리는 시간에 대한 질문",
+      "grammar": "「will it be」에서 조동사 will 뒤에 동사원형 「be」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+      "audio": "audio/1969-54/19.mp3",
+      "vocabulary": [
+        {
+          "word": "long",
+          "meaning": "오래",
+          "note": "시간의 길이를 나타내며, 여기서는 시간이 얼마나 오래 걸릴지 묻는 맥락에서 사용됨"
+        },
+        {
+          "word": "sets",
+          "meaning": "지다",
+          "note": "태양의 움직임을 설명하며, 여기서는 태양이 지평선 아래로 내려가는 것을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "두 사람이 만날 수 있을까요? 이 세상에서 두 사람이 만날 수 있을까? 소통은 불가능해 보이지만, 때로는 불가능한 일이 일어난다. 엊그제 그랬어요.",
+    "너와 함께 있으면서 만남이 가능하다고 느꼈고, 소통도 가능하다고 생각했어. 말 없이도 그럴 수 있었지. 네 눈물이 나에게 대답했어. 깊이 감사드립니다. 이런 반응은 매우 드물다. 나는 당신의 마드후 샤라를 여러 번 보았습니다. 만약 노래 부를 수 있다면, 그곳에 있는 그 노래를 부를 거예요. 진정한 산야스는 세상을 기쁨으로 받아들이는 것이라 부르겠다. 사마디와 모크샤가 정말 하나의 개념일까요? 무지 속에는 이중성이 존재하지만, 지식의 영역에서는 하나뿐이다. 정말 즐거움과 사랑의 노래를 부르고 춤추지 못하는 것이 종교일 수 있을까?",
+    "당신이 여기 오실 예정이라는 걸 들었어요. 오세요, 빨리 오세요. 시간을 믿을 수 있는 사람이 누구일까요? 아침이네요, 해가 뜨네요. 태양이 질 때까지 얼마나 걸릴까요?"
+  ],
+  "fullAudio": "audio/1969-54/script_all.mp3",
+  "originalText": "Love.\n\nCan two people ever meet?\nIt is just not possible on this earth,\ncommunication seems impossible -\nbut at times the impossible happens.\nThe other day it did.\n\nBeing with you, I felt meeting is possible,\nand also communication,\nand without words, too.\nYour tears answered me.\nI am deeply grateful for those tears.\nSuch response is very rare.\nI have seen your Madhu Shala,\nseen it again and again.\nIf I could sing\nI would sing the same song that is there.\nI call that sannyas the real sannyas\nwhich accepts the world with joy.\nAren't samsara and moksha really one?\nDuality exists in ignorance,\nin knowledge there is only one.\nOh, can that really be religion\nwhich cannot sing and dance the songs of bliss and love?\n\nP.S. I hear you are due to come here.\nCome, and come soon.\nWho can trust time?\nLook - it is morning and the sun rises.\nHow long will it be before it sets?",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 54,
+    "year": 1969,
+    "pages": [
+      {
+        "file": "IMG_0799 2.JPG",
+        "side": "right",
+        "printedPage": 49
+      },
+      {
+        "file": "IMG_0800 2.JPG",
+        "side": "left",
+        "printedPage": 50
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "audioVoice": "Views",
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  }
+}

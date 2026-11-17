@@ -1,0 +1,79 @@
+{
+  "key": "letter-245-part-01",
+  "number": 245,
+  "generationId": "01a1e8f9-9aa4-7791-9270-e7b8c137b63f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-245/01.mp3",
+      "start": 0.0,
+      "end": 0.674739
+    },
+    {
+      "index": 1,
+      "text": "Why does man suffer?",
+      "path": "audio/1971-245/02.mp3",
+      "start": 2.032404,
+      "end": 3.6119950000000003
+    },
+    {
+      "index": 2,
+      "text": "Man suffers because of his craving, craving to possess that which cannot be possessed, and craving to keep things forever with himself which are essentially impermanent.",
+      "path": "audio/1971-245/03.mp3",
+      "start": 4.976531,
+      "end": 14.807846
+    },
+    {
+      "index": 3,
+      "text": "And chief among these things is his own ego, his own persona.",
+      "path": "audio/1971-245/04.mp3",
+      "start": 16.228685,
+      "end": 20.751179
+    },
+    {
+      "index": 4,
+      "text": "But all things are impermanent.",
+      "path": "audio/1971-245/05.mp3",
+      "start": 22.045782,
+      "end": 24.180476000000002
+    },
+    {
+      "index": 5,
+      "text": "Except for change itself everything changes.",
+      "path": "audio/1971-245/06.mp3",
+      "start": 25.415056999999997,
+      "end": 28.279683000000002
+    },
+    {
+      "index": 6,
+      "text": "Really nothing is because everything is only a process, so as soon as one tries to possess anything it slips away.",
+      "path": "audio/1971-245/07.mp3",
+      "start": 29.458209,
+      "end": 35.769909
+    },
+    {
+      "index": 7,
+      "text": "The possessor himself is slipping away constantly!",
+      "path": "audio/1971-245/08.mp3",
+      "start": 37.051769,
+      "end": 39.871542
+    },
+    {
+      "index": 8,
+      "text": "Then there is frustration and then there is suffering.",
+      "path": "audio/1971-245/09.mp3",
+      "start": 41.444921,
+      "end": 44.953559999999996
+    },
+    {
+      "index": 9,
+      "text": "Know this well, realize this well and there will be no suffering because then you have unearthed the root.",
+      "path": "audio/1971-245/10.mp3",
+      "start": 46.490272000000004,
+      "end": 54.65
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "sourceHash": "41b7509480e007b4a9b8b5fd0e7de639eda3840253fe9c1152cd4d2759985c77",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "reviewed-grammar",
+      "notes": {
+        "korean": "몸속에서 깊이 그리고 친밀하게 살아가세요.",
+        "explanation": "몸과 마음을 깊이 연결하여 살아가라는 의미",
+        "grammar": "「Live」는 주어 you를 생략한 명령문의 동사원형입니다. 「intimately」와 「deeply」는 and로 연결되어 그 행동의 방식을 설명하는 부사입니다.",
+        "vocabulary": [
+          {
+            "word": "intimately",
+            "meaning": "친밀하게",
+            "note": "깊은 정서적 연결이나 개인적인 관계를 나타냄"
+          },
+          {
+            "word": "deeply",
+            "meaning": "깊이",
+            "note": "단순히 표면적인 것이 아니라 근본적이고 본질적인 수준에서라는 의미"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "몸과 더 깊이 교감하고, 몸이 더 많이 느끼도록 하세요.",
+        "explanation": "몸과의 깊은 연결과 상호작용을 강조하며, 몸의 감각과 인식을 더욱 활성화하라는 의미입니다.",
+        "grammar": "동사원형 「Feel」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "Feel",
+            "meaning": "느끼다, 감각하다",
+            "note": "신체적 감각이나 감정을 체험하거나 인식하는 것을 의미합니다."
+          },
+          {
+            "word": "body",
+            "meaning": "몸",
+            "note": "인간의 육체적 존재를 지칭하며, 이 문맥에서는 신체적 경험과 연결을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "명상으로 삼으세요. 이해를 넘어 풍요로워질 것입니다.",
+        "explanation": "명상을 통해 깊은 내면의 평화와 깨달음을 얻게 되어, 그 경험의 가치를 말로 표현하기 어려울 정도로 풍요로워진다는 의미입니다.",
+        "grammar": "동사원형 「Make」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "meditation",
+            "meaning": "명상",
+            "note": "마음의 평온을 찾고 내면의 지혜를 깨닫기 위한 정신적 연습."
+          },
+          {
+            "word": "comprehension",
+            "meaning": "이해",
+            "note": "단순히 지식을 습득하는 것을 넘어, 깊이 있는 깨달음이나 통찰력을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "놀랍게도 많은 사람들이 자신의 신체에 대해 거의 전혀 모르고 있다는 사실이 놀랍다.",
+        "explanation": "문장은 많은 사람들이 자신의 신체 상태나 감각에 대해 충분히 인지하지 못하고 있다는 놀라운 현실을 지적하고 있다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "astonishing",
+            "meaning": "놀랍다",
+            "note": "상황이나 사실이 예상보다 훨씬 더 놀랍거나 충격적임을 나타냄"
+          },
+          {
+            "word": "completely",
+            "meaning": "완전히",
+            "note": "전체적으로, 전혀 ~이 없음을 강조함"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "그 이유 때문에 나는 주장한다: 몸으로 돌아가 움직임 속에서 놀라운 기쁨을 되찾으라.",
+        "explanation": "몸으로 돌아가 움직임 속에서 느끼는 생명력과 기쁨을 되찾으라는 주장",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "wonderful",
+            "meaning": "놀라운, 훌륭한",
+            "note": "긍정적인 감정을 강조하며, 기쁨의 정도를 높임"
+          },
+          {
+            "word": "movements",
+            "meaning": "움직임",
+            "note": "몸의 활동적인 측면을 강조하며, 생명력과 연관"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "passive",
+      "notes": {
+        "korean": "몸이 억압되고 생명력이 충분히 인정받지 못하기 때문에 그저 무거운 짐이 되고 살아있는 기쁨이 되지 못한다.",
+        "explanation": "몸이 충분한 관심과 존중을 받지 못해 생명력이 제한되고, 그 결과로 몸이 활력 넘치는 존재가 아닌 부담스러운 존재로 여겨진다는 의미입니다.",
+        "grammar": "「is suppressed」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "suppressed",
+            "meaning": "억압된",
+            "note": "몸이 자유롭게 표현되거나 존중받지 못하고 제한된 상태를 의미합니다."
+          },
+          {
+            "word": "denied",
+            "meaning": "인정받지 못한",
+            "note": "몸이 생명력이나 가치를 충분히 인정받지 못하는 상황을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

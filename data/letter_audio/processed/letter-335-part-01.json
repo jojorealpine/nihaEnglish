@@ -1,0 +1,79 @@
+{
+  "key": "letter-335-part-01",
+  "number": 335,
+  "generationId": "01a1e912-12d7-701f-a14f-6150a956239e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-335/01.mp3",
+      "start": 0.0,
+      "end": 0.712041
+    },
+    {
+      "index": 1,
+      "text": "Meditation is beyond knowledge.",
+      "path": "audio/1971-335/02.mp3",
+      "start": 2.099342,
+      "end": 4.0538549999999995
+    },
+    {
+      "index": 2,
+      "text": "You can be it but you cannot know it.",
+      "path": "audio/1971-335/03.mp3",
+      "start": 5.301565,
+      "end": 7.751293
+    },
+    {
+      "index": 3,
+      "text": "All knowledge is superficial.",
+      "path": "audio/1971-335/04.mp3",
+      "start": 9.081927,
+      "end": 10.938593999999998
+    },
+    {
+      "index": 4,
+      "text": "It is never anything else but an acquaintance from outside.",
+      "path": "audio/1971-335/05.mp3",
+      "start": 12.224921,
+      "end": 15.139840999999999
+    },
+    {
+      "index": 5,
+      "text": "It is always about but never the thing itself,",
+      "path": "audio/1971-335/06.mp3",
+      "start": 16.456463,
+      "end": 18.904626
+    },
+    {
+      "index": 6,
+      "text": "When the Chinese emperor Wu came to meet Bodhidharma he asked the master: What is the holy, ultimate truth?",
+      "path": "audio/1971-335/07.mp3",
+      "start": 20.1739,
+      "end": 27.111338
+    },
+    {
+      "index": 7,
+      "text": "Bodhidharma laughed and replied: Nothing holy, sir, and it is emptiness itself.",
+      "path": "audio/1971-335/08.mp3",
+      "start": 28.604898,
+      "end": 34.29712
+    },
+    {
+      "index": 8,
+      "text": "Of course Wu was taken aback, but he asked again: Then who is the one who at present stands confronting me?",
+      "path": "audio/1971-335/09.mp3",
+      "start": 35.917302,
+      "end": 42.850044999999994
+    },
+    {
+      "index": 9,
+      "text": "Bodhidharma simply said: I don't know.",
+      "path": "audio/1971-335/10.mp3",
+      "start": 44.392381,
+      "end": 48.33
+    }
+  ]
+}

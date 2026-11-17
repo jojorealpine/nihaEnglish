@@ -1,0 +1,5 @@
+{
+  "english": "In my view, meditation is the essence of all religious practice.",
+  "error": "No vocabulary grounded in English source",
+  "response": "```json\n{\n  \"korean\": \"나의 견해로는 명상이 모든 종교적 수행의 핵심이다.\",\n  \"explanation\": \"이 문장은 명상이 종교적 활동의 가장 중요한 부분임을 강조하며, 저자의 개인적인 관점을 표현하고 있다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"명상\",\n      \"meaning\": \"명상하다\",\n      \"note\": \"마음을 집중시키고 평온을 찾기 위해 특정한 방법으로 생각을 정리하는 행위.\"\n    },\n    {\n      \"word\": \"종교적\",\n      \"meaning\": \"종교적인\",\n      \"note\": \"신앙이나 특정 신념 체계와 관련된 것을 의미하며, 이 문맥에서는 종교적 수행의 본질을 설명한다.\"\n    }\n  ],\n  \"expressions\": [\n    {\n      \"expression\": \"나의 견해로는\",\n      \"meaning\": \"나의 생각으로는\",\n      \"explanation\": \"주어의 개인적인 의견이나 관점을 나타내는 표현이다.\"\n    }\n  ]\n}\n```"
+}

@@ -1,0 +1,897 @@
+{
+  "id": "1971-300",
+  "title": "1971 / 300",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "virtually",
+      "meaning": "거의",
+      "note": "완전히는 아니지만 거의라는 의미로, 존재감이 거의 없는 상태를 나타냅니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "explosion",
+      "meaning": "폭발",
+      "note": "갑작스럽고 강력한 변화나 깨달음을 상징합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "extraordinary",
+      "meaning": "특별한, 이례적인",
+      "note": "일반적이지 않고 독특하거나 뛰어난 것을 의미함",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "think",
+      "meaning": "생각하다",
+      "note": "문장에서 부정적인 행동이나 상태를 피하라는 의미로 사용됩니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "craving",
+      "meaning": "갈망, 갈망",
+      "note": "특정 대상이나 상태에 대한 강한 욕구를 의미하며, 이 문장에서는 그러한 욕구를 경계하라는 의미로 사용됩니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "awareness",
+      "meaning": "의식",
+      "note": "주의를 기울이고 상황을 인지하는 상태를 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "laughter",
+      "meaning": "웃음",
+      "note": "긍정적인 감정 표현으로, 이 문맥에서는 갈망이 생겼을 때의 반응을 나타냅니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "relaxation",
+      "meaning": "이완",
+      "note": "긴장이 풀리고 편안함을 느끼는 상태를 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "negative",
+      "meaning": "부정적인",
+      "note": "마음의 부정적인 감정이나 상태를 나타냅니다.",
+      "sentenceIds": [
+        6,
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "transformed",
+      "meaning": "변환되다",
+      "note": "부정적인 상태에서 긍정적인 상태로 바뀌는 변화 과정을 의미합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "absolutely",
+      "meaning": "절대적으로",
+      "note": "강조의 의미로 사용되어 어떤 상태나 감정이 예외 없이 해당됨을 나타냅니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "principle",
+      "meaning": "원리",
+      "note": "여기서는 자아의 근본적인 성질이나 규칙을 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "negation",
+      "meaning": "부정",
+      "note": "자아를 존재의 부정으로 보는 개념을 나타냅니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "inferiority",
+      "meaning": "열등감",
+      "note": "자신감 부족이나 가치 인식의 부족으로 인한 낮은 자존감을 의미한다.",
+      "sentenceIds": [
+        9,
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "promises",
+      "meaning": "약속하다",
+      "note": "자아가 우월함을 제공할 것이라고 속이는 행위를 나타낸다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "superiority",
+      "meaning": "우월함",
+      "note": "자신이 더 뛰어나거나 높은 위치에 있다고 느끼는 상태를 의미한다.",
+      "sentenceIds": [
+        9,
+        11,
+        12,
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "understand",
+      "meaning": "이해하다",
+      "note": "비밀이나 개념을 깊이 파악하는 것을 의미함",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "clearly",
+      "meaning": "명확하게",
+      "note": "이해의 정도가 명확하고 분명해야 함을 강조함",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "inferior",
+      "meaning": "열등함",
+      "note": "다른 것보다 열등하거나 낮은 상태를 의미합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "interiority",
+      "meaning": "내면의 고독",
+      "note": "내면에서 느끼는 고독이나 외로움을 나타냅니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "involved",
+      "meaning": "관련된",
+      "note": "고통이나 어려움과 직접적으로 연관되어 있다는 의미입니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "humbleness",
+      "meaning": "겸손함",
+      "note": "자신을 낮추고 다른 사람이나 상황에 대해 존중하는 태도를 의미합니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "humility",
+      "meaning": "겸손",
+      "note": "자신의 부족함이나 한계를 인정하고 겸손한 자세를 유지하는 것을 의미합니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "divine",
+      "meaning": "신성한",
+      "note": "어떤 존재나 상태가 신성하거나 신과 관련이 있음을 나타냄.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "divinity",
+      "meaning": "신성함",
+      "note": "신성한 본질이나 특성을 의미하며, 개인의 내면적 신성함을 가리키기도 함.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "contrary",
+      "meaning": "반대되는",
+      "note": "원래 문장의 긍정적인 주장에 반대되는 개념을 나타냄",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "creating",
+      "meaning": "창조하다",
+      "note": "새로운 것을 만들어내는 행위를 나타낸다.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "imaginary",
+      "meaning": "상상력으로 이루어진",
+      "note": "실제 존재하지 않고 마음 속에서만 존재하는 것을 의미한다.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "creator",
+      "meaning": "창조자",
+      "note": "고통이나 상황을 만들어내는 주체를 의미한다.",
+      "sentenceIds": [
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "agonies",
+      "meaning": "고통",
+      "note": "지구상의 모든 고통을 가리킨다.",
+      "sentenceIds": [
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "eternal",
+      "meaning": "영원한",
+      "note": "시간의 제약 없이 지속되는 상태를 나타낸다.",
+      "sentenceIds": [
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "twam",
+      "meaning": "너는",
+      "note": "이 문맥에서는 「너는」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        19
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thou",
+      "meaning": "너",
+      "note": "고전적인 영어에서 사용되는 2인칭 단수 대명사로, 친밀하거나 존중하는 어조를 나타낸다.",
+      "sentenceIds": [
+        19
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "be used by",
+      "meaning": "활용되다",
+      "explanation": "에너지나 자원이 특정 목적이나 방식으로 사용되는 것을 나타냅니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "Beware of",
+      "meaning": "경계하라",
+      "explanation": "주의를 환기시키는 표현으로, 위험이나 잘못된 행동을 피하라는 의미를 담고 있다.",
+      "sentenceIds": [
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "no-self",
+      "meaning": "무아",
+      "explanation": "자아의 개념을 초월한 상태를 의미하며, 불교에서 중요한 개념으로 개인의 고정된 자아를 벗어난 상태를 가리킨다.",
+      "sentenceIds": [
+        18
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4,
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7,
+      8,
+      9
+    ],
+    [
+      10,
+      11,
+      12
+    ],
+    [
+      13,
+      14,
+      15
+    ],
+    [
+      16,
+      17
+    ],
+    [
+      18
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-300/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Be ordinary, so ordinary that you come to be virtually nobody - and there is the opening, and there is the explosion.",
+      "korean": "평범함 속에서 자신을 거의 존재감 없는 존재로 만들어 보세요 - 그곳이 바로 시작이고, 그곳이 바로 폭발의 순간입니다.",
+      "explanation": "평범함 속에서 자신의 존재감을 잃는 순간이 변화나 깨달음의 시작이 되고, 그로 인해 큰 변화나 깨달음이 일어난다는 의미입니다.",
+      "grammar": "동사원형 「Be」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-300/02.mp3",
+      "vocabulary": [
+        {
+          "word": "virtually",
+          "meaning": "거의",
+          "note": "완전히는 아니지만 거의라는 의미로, 존재감이 거의 없는 상태를 나타냅니다."
+        },
+        {
+          "word": "explosion",
+          "meaning": "폭발",
+          "note": "갑작스럽고 강력한 변화나 깨달음을 상징합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Only when you are not are you the extraordinary!",
+      "korean": "평범하지 않을 때야 비로소 특별해질 수 있어!",
+      "explanation": "평범함을 거부하거나 부정할 때 진정한 특별함이 드러난다는 의미",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-300/03.mp3",
+      "vocabulary": [
+        {
+          "word": "extraordinary",
+          "meaning": "특별한, 이례적인",
+          "note": "일반적이지 않고 독특하거나 뛰어난 것을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "But do not think about it and do not crave it, and if the craving comes - be aware and laugh.",
+      "korean": "생각하지 말고 갈망하지도 마세요. 갈망이 온다면 주의하고 웃으세요.",
+      "explanation": "문장은 갈망이나 생각에 대한 경계와 긍정적인 태도를 강조합니다. 갈망이 오더라도 그것을 인식하고 유머러스하게 대처하라는 메시지를 전달합니다.",
+      "grammar": "「do not think」는 do not + 동사원형으로 만든 부정 명령문입니다. 행동의 주체인 you를 따로 쓰지 않고, 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1971-300/04.mp3",
+      "vocabulary": [
+        {
+          "word": "think",
+          "meaning": "생각하다",
+          "note": "문장에서 부정적인 행동이나 상태를 피하라는 의미로 사용됩니다."
+        },
+        {
+          "word": "craving",
+          "meaning": "갈망, 갈망",
+          "note": "특정 대상이나 상태에 대한 강한 욕구를 의미하며, 이 문장에서는 그러한 욕구를 경계하라는 의미로 사용됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "It will be stopped by awareness and the created energy will be used by the laughter, and after the laugh you will feel a deep relaxation.",
+      "korean": "의식으로 멈출 것이며, 웃음으로 생성된 에너지가 사용되어 웃음 후 깊은 이완감을 느낄 것입니다.",
+      "explanation": "의식이 갈망을 멈추게 하고, 그로 인해 생긴 에너지가 웃음을 통해 활용되어 웃음 뒤에 깊은 이완 상태를 경험하게 된다는 의미입니다.",
+      "grammar": "「will be stopped」는 조동사 + be + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-300/05.mp3",
+      "vocabulary": [
+        {
+          "word": "awareness",
+          "meaning": "의식",
+          "note": "주의를 기울이고 상황을 인지하는 상태를 의미합니다."
+        },
+        {
+          "word": "laughter",
+          "meaning": "웃음",
+          "note": "긍정적인 감정 표현으로, 이 문맥에서는 갈망이 생겼을 때의 반응을 나타냅니다."
+        },
+        {
+          "word": "relaxation",
+          "meaning": "이완",
+          "note": "긴장이 풀리고 편안함을 느끼는 상태를 의미합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "be used by",
+          "meaning": "활용되다",
+          "explanation": "에너지나 자원이 특정 목적이나 방식으로 사용되는 것을 나타냅니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Then begin to dance or sing and the negative state of the mind will be transformed into the positive.",
+      "korean": "그러면 춤을 추거나 노래를 부르기 시작하면 마음의 부정적인 상태가 긍정적으로 바뀌게 됩니다.",
+      "explanation": "부정적인 마음가짐이 춤이나 노래를 통해 긍정적인 상태로 바뀌는 과정을 설명합니다.",
+      "grammar": "동사원형 「begin」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-300/06.mp3",
+      "vocabulary": [
+        {
+          "word": "negative",
+          "meaning": "부정적인",
+          "note": "마음의 부정적인 감정이나 상태를 나타냅니다."
+        },
+        {
+          "word": "transformed",
+          "meaning": "변환되다",
+          "note": "부정적인 상태에서 긍정적인 상태로 바뀌는 변화 과정을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "The craving to be someone, somebody, is absolutely negative because the ego is the negation of being.",
+      "korean": "절대적으로 부정적인 것은 자아는 존재의 부정이기 때문에 누군가가 되고 싶어하는 갈망입니다.",
+      "explanation": "자아의 개념이 존재의 본질을 부정한다는 관점에서 누군가가 되고자 하는 갈망의 부정적 측면을 설명합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-300/07.mp3",
+      "vocabulary": [
+        {
+          "word": "absolutely",
+          "meaning": "절대적으로",
+          "note": "강조의 의미로 사용되어 어떤 상태나 감정이 예외 없이 해당됨을 나타냅니다."
+        },
+        {
+          "word": "negative",
+          "meaning": "부정적인",
+          "note": "어떤 상태나 감정이 좋지 않거나 바람직하지 않은 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "The ego is the principle of negation, and if the negative is negated then you are positive.",
+      "korean": "자아는 부정의 원리이며, 부정이 부정된다면 긍정이 된다.",
+      "explanation": "자아는 존재의 부정을 나타내며, 이 부정적 상태가 부정된다면 긍정적인 상태가 된다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-300/08.mp3",
+      "vocabulary": [
+        {
+          "word": "principle",
+          "meaning": "원리",
+          "note": "여기서는 자아의 근본적인 성질이나 규칙을 의미합니다."
+        },
+        {
+          "word": "negation",
+          "meaning": "부정",
+          "note": "자아를 존재의 부정으로 보는 개념을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "The ego is the source of all inferiority, but the trick is subtle because the ego promises superiority and in the end only results in inferiority.",
+      "korean": "자아는 모든 열등감의 근원이지만, 속임수는 미묘해서 자아는 우월함을 약속하지만 결국에는 열등감만 남게 된다.",
+      "explanation": "자아는 모든 열등감의 원인이지만, 그 본질은 겉으로는 우월함을 추구하는 척하면서 실제로는 열등감을 초래한다는 의미를 담고 있다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-300/09.mp3",
+      "vocabulary": [
+        {
+          "word": "inferiority",
+          "meaning": "열등감",
+          "note": "자신감 부족이나 가치 인식의 부족으로 인한 낮은 자존감을 의미한다."
+        },
+        {
+          "word": "promises",
+          "meaning": "약속하다",
+          "note": "자아가 우월함을 제공할 것이라고 속이는 행위를 나타낸다."
+        },
+        {
+          "word": "superiority",
+          "meaning": "우월함",
+          "note": "자신이 더 뛰어나거나 높은 위치에 있다고 느끼는 상태를 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "Decode this secret and understand it very clearly.",
+      "korean": "이 비밀을 풀고 매우 명확하게 이해하라.",
+      "explanation": "비밀의 본질을 파악하고 깊이 이해하라는 의미",
+      "grammar": "동사원형 「Decode」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-300/10.mp3",
+      "vocabulary": [
+        {
+          "word": "understand",
+          "meaning": "이해하다",
+          "note": "비밀이나 개념을 깊이 파악하는 것을 의미함"
+        },
+        {
+          "word": "clearly",
+          "meaning": "명확하게",
+          "note": "이해의 정도가 명확하고 분명해야 함을 강조함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "One who thinks in terms of superiority will always remain inferior because these are two aspects of the same coin.",
+      "korean": "우월함을 생각하는 자는 항상 열등한 위치에 머무를 것이다. 왜냐하면 우월함과 열등함은 같은 동전의 양면이기 때문이다.",
+      "explanation": "우월함을 추구하는 태도는 결국 자신을 열등하게 만드는 결과를 초래한다는 의미입니다.",
+      "grammar": "「will always remain」에서 조동사 will 뒤에 동사원형 「remain」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+      "audio": "audio/1971-300/11.mp3",
+      "vocabulary": [
+        {
+          "word": "superiority",
+          "meaning": "우월함",
+          "note": "다른 것보다 더 뛰어나거나 우수한 상태를 의미합니다."
+        },
+        {
+          "word": "inferior",
+          "meaning": "열등함",
+          "note": "다른 것보다 열등하거나 낮은 상태를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "Sow the seeds of superiority and you will reap the crop of inferiority.",
+      "korean": "우월함의 씨앗을 뿌리면 열등함의 수확을 얻게 된다.",
+      "explanation": "자신감이나 우월감을 추구하면 결국 그 반대의 결과, 즉 열등감이나 부족함을 경험하게 된다는 의미입니다.",
+      "grammar": "동사원형 「Sow」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-300/12.mp3",
+      "vocabulary": [
+        {
+          "word": "superiority",
+          "meaning": "우월함",
+          "note": "상대적으로 더 뛰어나거나 높은 지위를 의미합니다."
+        },
+        {
+          "word": "inferiority",
+          "meaning": "열등함",
+          "note": "상대적으로 낮은 지위나 부족함을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "Begin with the longing for superiority and you will end up with nothing but interiority and all the hell that is involved in it.",
+      "korean": "우월함을 갈망하면 결국 내면의 고독과 그로 인한 모든 고통만 남게 된다.",
+      "explanation": "우월함을 추구하면 내면의 고독과 그로 인한 어려움이나 고통만 남게 된다는 의미입니다.",
+      "grammar": "동사원형 「Begin」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-300/13.mp3",
+      "vocabulary": [
+        {
+          "word": "superiority",
+          "meaning": "우월함",
+          "note": "다른 사람보다 더 뛰어나거나 우수하다는 상태를 의미합니다."
+        },
+        {
+          "word": "interiority",
+          "meaning": "내면의 고독",
+          "note": "내면에서 느끼는 고독이나 외로움을 나타냅니다."
+        },
+        {
+          "word": "involved",
+          "meaning": "관련된",
+          "note": "고통이나 어려움과 직접적으로 연관되어 있다는 의미입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "Begin with humbleness, with humility, and you are nearer to the divine.",
+      "korean": "겸손함으로 시작하면 신성에 더 가까워진다.",
+      "explanation": "겸손함을 바탕으로 시작하면 영적 성장이나 신성과의 가까움을 얻을 수 있다는 의미입니다.",
+      "grammar": "동사원형 「Begin」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-300/14.mp3",
+      "vocabulary": [
+        {
+          "word": "humbleness",
+          "meaning": "겸손함",
+          "note": "자신을 낮추고 다른 사람이나 상황에 대해 존중하는 태도를 의미합니다."
+        },
+        {
+          "word": "humility",
+          "meaning": "겸손",
+          "note": "자신의 부족함이나 한계를 인정하고 겸손한 자세를 유지하는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "In fact you are divine but the ego will not allow you any gap to look into your own divinity.",
+      "korean": "실제로는 신성하지만, 자아는 자신의 신성함을 들여다볼 틈을 주지 않는다.",
+      "explanation": "문장은 개인의 내면적 신성함을 깨닫지 못하게 하는 자아의 역할을 강조한다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-300/15.mp3",
+      "vocabulary": [
+        {
+          "word": "divine",
+          "meaning": "신성한",
+          "note": "어떤 존재나 상태가 신성하거나 신과 관련이 있음을 나타냄."
+        },
+        {
+          "word": "divinity",
+          "meaning": "신성함",
+          "note": "신성한 본질이나 특성을 의미하며, 개인의 내면적 신성함을 가리키기도 함."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "On the contrary",
+      "korean": "반면에",
+      "explanation": "문장의 의미를 바꾸거나 반대되는 상황을 제시함",
+      "grammar": "명사 「contrary」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1971-300/16.mp3",
+      "vocabulary": [
+        {
+          "word": "contrary",
+          "meaning": "반대되는",
+          "note": "원래 문장의 긍정적인 주장에 반대되는 개념을 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 17,
+      "english": "it will go on creating new, imaginary heavens only to make way for new hells Enter heaven and you are entering hell!",
+      "korean": "상상력으로 가득 찬 새로운 천국들을 계속 만들어내지만 결국 새로운 지옥을 위한 자리를 마련하는 것이다. 천국에 들어가면 지옥에 들어가는 것과 다름없다.",
+      "explanation": "문장은 천국이 실제로는 지옥과 같다는 역설적인 주장을 하고 있다. 상상력으로 만들어진 천국들이 결국 더 큰 지옥을 초래한다는 의미를 담고 있다.",
+      "grammar": "「will go」에서 조동사 will 뒤에 동사원형 「go」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+      "audio": "audio/1971-300/17.mp3",
+      "vocabulary": [
+        {
+          "word": "creating",
+          "meaning": "창조하다",
+          "note": "새로운 것을 만들어내는 행위를 나타낸다."
+        },
+        {
+          "word": "imaginary",
+          "meaning": "상상력으로 이루어진",
+          "note": "실제 존재하지 않고 마음 속에서만 존재하는 것을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 18,
+      "english": "Beware of this, and beware of your so-called self - the creator of all the agonies that exist on earth Be a no-self and you will be that which you are already and have been always - that which is bliss eternal, and freedom, and the cosmic being, the brabman.",
+      "korean": "이를 경계하고, 자칭 자아라는 고통의 창조자를 경계하라. 무아의 상태가 되면 이미 존재하는 그대로의 영원한 행복, 자유, 그리고 우주적 존재인 브라만이 된다.",
+      "explanation": "문장은 자아의 착각이 고통을 만들어내는 원인임을 경고하고, 진정한 해방과 행복은 자아를 초월하는 상태에서 찾을 수 있음을 강조한다.",
+      "grammar": "동사 「exist」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1971-300/18.mp3",
+      "vocabulary": [
+        {
+          "word": "creator",
+          "meaning": "창조자",
+          "note": "고통이나 상황을 만들어내는 주체를 의미한다."
+        },
+        {
+          "word": "agonies",
+          "meaning": "고통",
+          "note": "지구상의 모든 고통을 가리킨다."
+        },
+        {
+          "word": "eternal",
+          "meaning": "영원한",
+          "note": "시간의 제약 없이 지속되는 상태를 나타낸다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Beware of",
+          "meaning": "경계하라",
+          "explanation": "주의를 환기시키는 표현으로, 위험이나 잘못된 행동을 피하라는 의미를 담고 있다."
+        },
+        {
+          "expression": "no-self",
+          "meaning": "무아",
+          "explanation": "자아의 개념을 초월한 상태를 의미하며, 불교에서 중요한 개념으로 개인의 고정된 자아를 벗어난 상태를 가리킨다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 19,
+      "english": "Tat twam asi - that art thou, my love.",
+      "korean": "너 자신이 바로 그것이니라 - 내 사랑아",
+      "explanation": "문장은 사랑하는 사람에게 자신의 본질적인 정체성을 강조하며, '너 자신이 바로 그것이니라'는 표현을 통해 깊은 연결과 본질적인 자아 인식을 전달한다.",
+      "grammar": "인용된 「thou」는 you의 옛 단수 표현이고, 「art」는 그 주어에 쓰이던 be동사의 옛 형태입니다. 「my love」는 상대방을 부르는 호칭입니다.",
+      "audio": "audio/1971-300/19.mp3",
+      "vocabulary": [
+        {
+          "word": "twam",
+          "meaning": "너는",
+          "note": "이 문맥에서는 「너는」의 뜻으로 읽습니다."
+        },
+        {
+          "word": "thou",
+          "meaning": "너",
+          "note": "고전적인 영어에서 사용되는 2인칭 단수 대명사로, 친밀하거나 존중하는 어조를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "평범함 속에서 자신을 거의 존재감 없는 존재로 만들어 보세요 - 그곳이 바로 시작이고, 그곳이 바로 폭발의 순간입니다. 평범하지 않을 때야 비로소 특별해질 수 있어!",
+    "생각하지 말고 갈망하지도 마세요. 갈망이 온다면 주의하고 웃으세요. 의식으로 멈출 것이며, 웃음으로 생성된 에너지가 사용되어 웃음 후 깊은 이완감을 느낄 것입니다. 그러면 춤을 추거나 노래를 부르기 시작하면 마음의 부정적인 상태가 긍정적으로 바뀌게 됩니다.",
+    "절대적으로 부정적인 것은 자아는 존재의 부정이기 때문에 누군가가 되고 싶어하는 갈망입니다.",
+    "자아는 부정의 원리이며, 부정이 부정된다면 긍정이 된다. 자아는 모든 열등감의 근원이지만, 속임수는 미묘해서 자아는 우월함을 약속하지만 결국에는 열등감만 남게 된다. 이 비밀을 풀고 매우 명확하게 이해하라.",
+    "우월함을 생각하는 자는 항상 열등한 위치에 머무를 것이다. 왜냐하면 우월함과 열등함은 같은 동전의 양면이기 때문이다. 우월함의 씨앗을 뿌리면 열등함의 수확을 얻게 된다. 우월함을 갈망하면 결국 내면의 고독과 그로 인한 모든 고통만 남게 된다.",
+    "겸손함으로 시작하면 신성에 더 가까워진다. 실제로는 신성하지만, 자아는 자신의 신성함을 들여다볼 틈을 주지 않는다. 반면에",
+    "상상력으로 가득 찬 새로운 천국들을 계속 만들어내지만 결국 새로운 지옥을 위한 자리를 마련하는 것이다. 천국에 들어가면 지옥에 들어가는 것과 다름없다. 이를 경계하고, 자칭 자아라는 고통의 창조자를 경계하라. 무아의 상태가 되면 이미 존재하는 그대로의 영원한 행복, 자유, 그리고 우주적 존재인 브라만이 된다.",
+    "너 자신이 바로 그것이니라 - 내 사랑아"
+  ],
+  "fullAudio": "audio/1971-300/script_all.mp3",
+  "originalText": "Love.\n\nBe ordinary, so ordinary that you come to be\nvirtually nobody -\nand there is the opening,\nand there is the explosion.\nOnly when you are not are you the extraordinary!\n\nBut do not think about it\nand do not crave it,\nand if the craving comes - be aware and laugh.\nIt will be stopped by awareness\nand the created energy will be used by the laughter,\nand after the laugh you will feel a deep relaxation.\nThen begin to dance or sing\nand the negative state of the mind\nwill be transformed into the positive.\n\nThe craving to be someone, somebody,\nis absolutely negative\nbecause the ego is the negation of being.\n\nThe ego is the principle of negation,\nand if the negative is negated then you are positive.\nThe ego is the source of all inferiority,\nbut the trick is subtle\nbecause the ego promises superiority\nand in the end only results in inferiority.\nDecode this secret and understand it very clearly.\n\nOne who thinks in terms of superiority\nwill always remain inferior\nbecause these are two aspects of the same coin.\nSow the seeds of superiority\nand you will reap the crop of inferiority.\nBegin with the longing for superiority\nand you will end up with nothing but interiority\nand all the hell that is involved in it.\n\nBegin with humbleness, with humility,\nand you are nearer to the divine.\nIn fact you are divine\nbut the ego will not allow you any gap\nto look into your own divinity.\nOn the contrary\n\nit will go on creating new, imaginary heavens\nonly to make way for new hells\nEnter heaven and you are entering hell!\nBeware of this, and beware of your so-called self -\nthe creator of all the agonies that exist on earth\nBe a no-self and you will be that which you are already\nand have been always -\nthat which is bliss eternal,\nand freedom,\nand the cosmic being, the brabman.\n\nTat twam asi - that art thou, my love.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 300,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0890 2.JPG",
+        "side": "right",
+        "printedPage": 231
+      },
+      {
+        "file": "IMG_0891 2.JPG",
+        "side": "left",
+        "printedPage": 232
+      },
+      {
+        "file": "IMG_0891 2.JPG",
+        "side": "right",
+        "printedPage": 233
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

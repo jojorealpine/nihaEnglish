@@ -1,0 +1,30 @@
+{
+  "key": "letter-133-part-02",
+  "number": 133,
+  "generationId": "01a1e6cd-3e00-7032-8a73-367862e32153",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "O mad one!",
+      "path": "audio/1970-133/11.mp3",
+      "start": 0.0,
+      "end": 0.998073
+    },
+    {
+      "index": 11,
+      "text": "Surrender is a leap outside thought.",
+      "path": "audio/1970-133/12.mp3",
+      "start": 2.346803,
+      "end": 4.754762
+    },
+    {
+      "index": 12,
+      "text": "Either jump or don't jump but for God's sake don't ponder over it!",
+      "path": "audio/1970-133/13.mp3",
+      "start": 6.169388,
+      "end": 11.42
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "letter-057-part-01",
+  "number": 57,
+  "generationId": "01a1e5ad-8b20-789c-a842-9bf2b6d05f08",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-57/01.mp3",
+      "start": 0.0,
+      "end": 0.630181
+    },
+    {
+      "index": 1,
+      "text": "I have received your letters - but they are not just letters really, they are poems born out of love, out of love and prayer, for where there is love there is prayer.",
+      "path": "audio/1969-57/02.mp3",
+      "start": 1.959955,
+      "end": 13.280090999999999
+    },
+    {
+      "index": 2,
+      "text": "So it is possible to get glimpses of God through another whom one loves - love providing the eyes that can see God.",
+      "path": "audio/1969-57/03.mp3",
+      "start": 14.699456000000001,
+      "end": 21.905170000000002
+    },
+    {
+      "index": 3,
+      "text": "Love is the door through which he appears.",
+      "path": "audio/1969-57/04.mp3",
+      "start": 23.357709999999997,
+      "end": 26.202381000000003
+    },
+    {
+      "index": 4,
+      "text": "So when one loves all he can be seen in all things.",
+      "path": "audio/1969-57/05.mp3",
+      "start": 27.562676,
+      "end": 30.9139
+    },
+    {
+      "index": 5,
+      "text": "Part and whole in fact are not in opposition: deep love for even one other finally spreads to all because love dissolves the self, leaving the no-self.",
+      "path": "audio/1969-57/06.mp3",
+      "start": 32.358209,
+      "end": 42.888616999999996
+    },
+    {
+      "index": 6,
+      "text": "Love is like the sun, the individual like frozen ice.",
+      "path": "audio/1969-57/07.mp3",
+      "start": 44.238776,
+      "end": 48.243877999999995
+    },
+    {
+      "index": 7,
+      "text": "Love's sun melts the icebergs, leaving a limitless ocean.",
+      "path": "audio/1969-57/08.mp3",
+      "start": 49.673039,
+      "end": 53.646712
+    },
+    {
+      "index": 8,
+      "text": "So the search for love is really the search for God, because love melts, and also destroys; because love only melts and only destroys.",
+      "path": "audio/1969-57/09.mp3",
+      "start": 55.013016,
+      "end": 64.061723
+    },
+    {
+      "index": 9,
+      "text": "It is both birth and death.",
+      "path": "audio/1969-57/10.mp3",
+      "start": 65.539887,
+      "end": 67.84
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "key": "letter-052-part-01",
+  "number": 52,
+  "generationId": "01a1e4f7-2803-7b8b-b767-19efaddbbb3a",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1968-52/01.mp3",
+      "start": 0.0,
+      "end": 0.529002
+    },
+    {
+      "index": 1,
+      "text": "I received your letter.",
+      "path": "audio/1968-52/02.mp3",
+      "start": 1.755624,
+      "end": 2.907143
+    },
+    {
+      "index": 2,
+      "text": "I am always with you.",
+      "path": "audio/1968-52/03.mp3",
+      "start": 4.165102,
+      "end": 5.275351
+    },
+    {
+      "index": 3,
+      "text": "Don't be worried, don't be sad, and leave your sadhana in the hands of God.",
+      "path": "audio/1968-52/04.mp3",
+      "start": 6.7012469999999995,
+      "end": 10.319274
+    },
+    {
+      "index": 4,
+      "text": "Let his will be done.",
+      "path": "audio/1968-52/05.mp3",
+      "start": 11.516984,
+      "end": 12.729387999999998
+    },
+    {
+      "index": 5,
+      "text": "Be like a dry leaf, let the winds take you where they will.",
+      "path": "audio/1968-52/06.mp3",
+      "start": 13.937370000000001,
+      "end": 16.973469
+    },
+    {
+      "index": 6,
+      "text": "Isn't this what is meant by shunya (nothingness)?",
+      "path": "audio/1968-52/07.mp3",
+      "start": 18.247823,
+      "end": 21.098526
+    },
+    {
+      "index": 7,
+      "text": "Do not swim, just float Isn't this what is meant by shunya?",
+      "path": "audio/1968-52/08.mp3",
+      "start": 22.804014,
+      "end": 27.941043
+    },
+    {
+      "index": 8,
+      "text": "My regards to all.",
+      "path": "audio/1968-52/09.mp3",
+      "start": 29.462947999999997,
+      "end": 31.06
+    }
+  ]
+}

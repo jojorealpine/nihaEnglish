@@ -1,0 +1,79 @@
+{
+  "key": "letter-312-part-01",
+  "number": 312,
+  "generationId": "01a1e908-ef23-75f8-993b-80c3e843e6ae",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-312/01.mp3",
+      "start": 0.0,
+      "end": 0.572857
+    },
+    {
+      "index": 1,
+      "text": "Emptiness is not really emptiness: rather, it is the all It is not negative: rather, it is positivity itself.",
+      "path": "audio/1971-312/02.mp3",
+      "start": 1.8360090000000002,
+      "end": 10.1039
+    },
+    {
+      "index": 2,
+      "text": "It is out of it that everything is born and to it everything returns.",
+      "path": "audio/1971-312/03.mp3",
+      "start": 11.38898,
+      "end": 15.216667
+    },
+    {
+      "index": 3,
+      "text": "It is the source and ground of all existence.",
+      "path": "audio/1971-312/04.mp3",
+      "start": 16.46415,
+      "end": 19.026689
+    },
+    {
+      "index": 4,
+      "text": "So whenever I say emptiness I never mean just emptiness!",
+      "path": "audio/1971-312/05.mp3",
+      "start": 20.228503,
+      "end": 24.263628
+    },
+    {
+      "index": 5,
+      "text": "To me emptiness is not the absence of anything but the presence of emptiness itself.",
+      "path": "audio/1971-312/06.mp3",
+      "start": 25.686667,
+      "end": 30.692404
+    },
+    {
+      "index": 6,
+      "text": "And now you can understand it because you yourself are in it, and it is in you.",
+      "path": "audio/1971-312/07.mp3",
+      "start": 32.128526,
+      "end": 36.377007
+    },
+    {
+      "index": 7,
+      "text": "Once a student asked Joshu: Sir, you teach that we must empty our minds, but I have nothing in my mind; now what shall I do?",
+      "path": "audio/1971-312/08.mp3",
+      "start": 37.815646,
+      "end": 47.502562
+    },
+    {
+      "index": 8,
+      "text": "The old master laughed and said: Throw it out!",
+      "path": "audio/1971-312/09.mp3",
+      "start": 49.059864000000005,
+      "end": 52.096576
+    },
+    {
+      "index": 9,
+      "text": "But I have nothing.",
+      "path": "audio/1971-312/10.mp3",
+      "start": 53.803810000000006,
+      "end": 55.9
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "key": "letter-270-part-02",
+  "number": 270,
+  "generationId": "01a1e8ff-09ed-752c-8a45-e462bac8d9d5",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Don't be a mind and you will know it and be it.",
+      "path": "audio/1971-270/11.mp3",
+      "start": 0.0,
+      "end": 2.354422
+    },
+    {
+      "index": 11,
+      "text": "Meditation is no-mindedness.",
+      "path": "audio/1971-270/12.mp3",
+      "start": 3.634082,
+      "end": 5.660159
+    },
+    {
+      "index": 12,
+      "text": "Mind is thinking, and thinking is going astray from the being.",
+      "path": "audio/1971-270/13.mp3",
+      "start": 6.88678,
+      "end": 10.386349
+    },
+    {
+      "index": 13,
+      "text": "Mind is forgetfulness of \"that which is\".",
+      "path": "audio/1971-270/14.mp3",
+      "start": 11.53034,
+      "end": 14.005056999999999
+    },
+    {
+      "index": 14,
+      "text": "Meditation is coming back home.",
+      "path": "audio/1971-270/15.mp3",
+      "start": 15.194059000000001,
+      "end": 17.007324
+    },
+    {
+      "index": 15,
+      "text": "So, come back home.",
+      "path": "audio/1971-270/16.mp3",
+      "start": 18.090408,
+      "end": 19.786259
+    },
+    {
+      "index": 16,
+      "text": "And I create situations so that you may remember the forgotten, and I will go on creating situations until you have returned",
+      "path": "audio/1971-270/17.mp3",
+      "start": 21.016893,
+      "end": 29.02
+    }
+  ]
+}

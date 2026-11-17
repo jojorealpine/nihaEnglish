@@ -1,0 +1,58 @@
+{
+  "key": "letter-153-part-02",
+  "number": 153,
+  "generationId": "01a1e6f3-e0d0-7f68-a3fd-225cd97c4821",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "How would you avoid them?",
+      "path": "audio/1970-153/11.mp3",
+      "start": 0.0,
+      "end": 1.1380270000000001
+    },
+    {
+      "index": 11,
+      "text": "Life itself is such.",
+      "path": "audio/1970-153/12.mp3",
+      "start": 2.334195,
+      "end": 3.859683
+    },
+    {
+      "index": 12,
+      "text": "And its acceptance, its natural acceptance, is the freedom from fear.",
+      "path": "audio/1970-153/13.mp3",
+      "start": 5.05093,
+      "end": 8.949024999999999
+    },
+    {
+      "index": 13,
+      "text": "Once fear is accepted, where is it?",
+      "path": "audio/1970-153/14.mp3",
+      "start": 10.162449,
+      "end": 12.372312999999998
+    },
+    {
+      "index": 14,
+      "text": "Once death is accepted, where is it?",
+      "path": "audio/1970-153/15.mp3",
+      "start": 13.523900000000001,
+      "end": 15.948027
+    },
+    {
+      "index": 15,
+      "text": "Once insecurity is accepted, where is it?",
+      "path": "audio/1970-153/16.mp3",
+      "start": 17.240771,
+      "end": 20.04322
+    },
+    {
+      "index": 16,
+      "text": "Acceptance of the wholeness of life is what I call sannyas, initiation on the path.",
+      "path": "audio/1970-153/17.mp3",
+      "start": 21.23517,
+      "end": 26.33
+    }
+  ]
+}

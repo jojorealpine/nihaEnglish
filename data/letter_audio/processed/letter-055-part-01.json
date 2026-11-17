@@ -1,0 +1,79 @@
+{
+  "key": "letter-055-part-01",
+  "number": 55,
+  "generationId": "01a1e4f7-6e08-7589-a7af-cd98114aad1c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-55/01.mp3",
+      "start": 0.0,
+      "end": 0.620748
+    },
+    {
+      "index": 1,
+      "text": "I am one with all things - in beauty, in ugliness, for whatsoever is, there I am.",
+      "path": "audio/1969-55/02.mp3",
+      "start": 1.731179,
+      "end": 6.9008840000000005
+    },
+    {
+      "index": 2,
+      "text": "Not only in virtue but in sin too I am a partner; and not only heaven but hell too is mine.",
+      "path": "audio/1969-55/03.mp3",
+      "start": 8.058186000000001,
+      "end": 13.452267999999998
+    },
+    {
+      "index": 3,
+      "text": "Buddha, Jesus, Lao Tzu - it is easy to be their heir.",
+      "path": "audio/1969-55/04.mp3",
+      "start": 14.629819000000001,
+      "end": 18.012971
+    },
+    {
+      "index": 4,
+      "text": "But Genghis, Taimur and Hitler?",
+      "path": "audio/1969-55/05.mp3",
+      "start": 19.241156,
+      "end": 21.307302
+    },
+    {
+      "index": 5,
+      "text": "They are also within me!",
+      "path": "audio/1969-55/06.mp3",
+      "start": 22.594103999999998,
+      "end": 23.889365
+    },
+    {
+      "index": 6,
+      "text": "No, not half - I am the whole of mankind!",
+      "path": "audio/1969-55/07.mp3",
+      "start": 25.104512,
+      "end": 27.976349000000003
+    },
+    {
+      "index": 7,
+      "text": "Whatsoever is man's is mine - flowers and thorns, darkness as well as light.",
+      "path": "audio/1969-55/08.mp3",
+      "start": 29.266666999999998,
+      "end": 33.897914
+    },
+    {
+      "index": 8,
+      "text": "And if nectar is mine, whose is poison?",
+      "path": "audio/1969-55/09.mp3",
+      "start": 35.141315000000006,
+      "end": 37.505986
+    },
+    {
+      "index": 9,
+      "text": "Nectar and poison - both are mine.",
+      "path": "audio/1969-55/10.mp3",
+      "start": 38.660794,
+      "end": 41.04
+    }
+  ]
+}

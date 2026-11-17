@@ -1,0 +1,72 @@
+{
+  "key": "letter-126-part-02",
+  "number": 126,
+  "generationId": "01a1e6bf-ad83-76c0-a5de-c8d14998e356",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "The vultures just smiled.",
+      "path": "audio/1970-126/11.mp3",
+      "start": 0.0,
+      "end": 1.486485
+    },
+    {
+      "index": 11,
+      "text": "They knew!",
+      "path": "audio/1970-126/12.mp3",
+      "start": 2.752358,
+      "end": 3.391746
+    },
+    {
+      "index": 12,
+      "text": "One said: Since time immemorial man's wars have been good news for vultures.",
+      "path": "audio/1970-126/13.mp3",
+      "start": 4.6133109999999995,
+      "end": 9.328888999999998
+    },
+    {
+      "index": 13,
+      "text": "Our ancestors have said so, and so too our scriptures.",
+      "path": "audio/1970-126/14.mp3",
+      "start": 10.465873,
+      "end": 13.665329
+    },
+    {
+      "index": 14,
+      "text": "It is also our own experience.",
+      "path": "audio/1970-126/15.mp3",
+      "start": 14.834014000000002,
+      "end": 16.755964000000002
+    },
+    {
+      "index": 15,
+      "text": "In fact it is for the benefit of vultures that God sends man to war!",
+      "path": "audio/1970-126/16.mp3",
+      "start": 17.938706999999997,
+      "end": 21.74771
+    },
+    {
+      "index": 16,
+      "text": "God has made man and war just for vultures!",
+      "path": "audio/1970-126/17.mp3",
+      "start": 23.306576,
+      "end": 26.883447
+    },
+    {
+      "index": 17,
+      "text": "This said, the two vultures flew off towards the battle - and in the next moment were blown to pieces by falling bombs.",
+      "path": "audio/1970-126/18.mp3",
+      "start": 28.517142999999997,
+      "end": 36.24263
+    },
+    {
+      "index": 18,
+      "text": "If they had only known how things can change over thousands of years But does even man himself realize this?",
+      "path": "audio/1970-126/19.mp3",
+      "start": 37.806122,
+      "end": 44.75
+    }
+  ]
+}

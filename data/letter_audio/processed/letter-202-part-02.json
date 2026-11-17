@@ -1,0 +1,30 @@
+{
+  "key": "letter-202-part-02",
+  "number": 202,
+  "generationId": "01a1e8ed-351d-753d-9221-ec837fa0bf5f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "And life is the destiny you are bound to refuse until you have consented to die.",
+      "path": "audio/1971-202/11.mp3",
+      "start": 0.0,
+      "end": 5.040884
+    },
+    {
+      "index": 11,
+      "text": "Stop and see.",
+      "path": "audio/1971-202/12.mp3",
+      "start": 6.446054,
+      "end": 7.969252
+    },
+    {
+      "index": 12,
+      "text": "Do not be, and see.",
+      "path": "audio/1971-202/13.mp3",
+      "start": 9.409887000000001,
+      "end": 12.25
+    }
+  ]
+}

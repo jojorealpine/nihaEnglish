@@ -1,0 +1,72 @@
+{
+  "key": "letter-132-part-01",
+  "number": 132,
+  "generationId": "01a1e6cc-ea9c-7498-8796-e66bd66eb72d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-132/01.mp3",
+      "start": 0.0,
+      "end": 0.579433
+    },
+    {
+      "index": 1,
+      "text": "What does the seed know of its own potential?",
+      "path": "audio/1970-132/02.mp3",
+      "start": 1.696825,
+      "end": 4.021361
+    },
+    {
+      "index": 2,
+      "text": "It is the same with man: he doesn't know what he is nor what he can be!",
+      "path": "audio/1970-132/03.mp3",
+      "start": 5.162426,
+      "end": 9.390113
+    },
+    {
+      "index": 3,
+      "text": "The seed, perhaps, cannot look within but man can.",
+      "path": "audio/1970-132/04.mp3",
+      "start": 10.605329000000001,
+      "end": 13.291224
+    },
+    {
+      "index": 4,
+      "text": "This looking in is called meditation.",
+      "path": "audio/1970-132/05.mp3",
+      "start": 14.467256,
+      "end": 16.852971
+    },
+    {
+      "index": 5,
+      "text": "To know one's truth as it is here and now is meditation.",
+      "path": "audio/1970-132/06.mp3",
+      "start": 17.989093,
+      "end": 21.649728
+    },
+    {
+      "index": 6,
+      "text": "Dive into it, deeper and deeper; there, in the depths, all that is possible can be clearly seen.",
+      "path": "audio/1970-132/07.mp3",
+      "start": 23.181293,
+      "end": 30.024195000000002
+    },
+    {
+      "index": 7,
+      "text": "And once seen it begins to happen - the awareness of what is possible turns it into a reality, like a seed stirred by a vision of its potential beginning to sprout.",
+      "path": "audio/1970-132/08.mp3",
+      "start": 31.605057,
+      "end": 42.292289999999994
+    },
+    {
+      "index": 8,
+      "text": "Time, effort, energy - pour it all into meditation because meditation is the gateless gate through which the self becomes aware of itself.",
+      "path": "audio/1970-132/09.mp3",
+      "start": 43.737506,
+      "end": 55.54
+    }
+  ]
+}

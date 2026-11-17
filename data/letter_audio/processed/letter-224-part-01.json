@@ -1,0 +1,51 @@
+{
+  "key": "letter-224-part-01",
+  "number": 224,
+  "generationId": "01a1e8f3-ed79-75c3-a85c-dc63980ff51e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-224/01.mp3",
+      "start": 0.0,
+      "end": 0.610726
+    },
+    {
+      "index": 1,
+      "text": "Mulla Nasrudin was carrying home some liver which he had just bought.",
+      "path": "audio/1971-224/02.mp3",
+      "start": 1.86254,
+      "end": 5.149206
+    },
+    {
+      "index": 2,
+      "text": "In the other hand he held a recipe for liver pie which a friend had given him.",
+      "path": "audio/1971-224/03.mp3",
+      "start": 6.45932,
+      "end": 10.744195
+    },
+    {
+      "index": 3,
+      "text": "Suddenly a buzzard swooped down and carried off the liver.",
+      "path": "audio/1971-224/04.mp3",
+      "start": 11.949025,
+      "end": 15.118231
+    },
+    {
+      "index": 4,
+      "text": "You fool! shouted Nasrudin.",
+      "path": "audio/1971-224/05.mp3",
+      "start": 16.612562,
+      "end": 19.108776000000002
+    },
+    {
+      "index": 5,
+      "text": "Having the meat is all very well, but what will you do without the recipe?",
+      "path": "audio/1971-224/06.mp3",
+      "start": 20.323424,
+      "end": 24.48
+    }
+  ]
+}

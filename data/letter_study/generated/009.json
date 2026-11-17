@@ -1,0 +1,461 @@
+{
+  "sourceHash": "483587fa0bf0ac30717d36bcb5b63f4982c307cb933eb201108fd5126b6b3039",
+  "sentences": {
+    "1": {
+      "method": "authored",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "2": {
+      "method": "authored",
+      "notes": {
+        "korean": "이곳으로 오는 도중에 당신의 편지를 읽었습니다.",
+        "explanation": "이동 중에 상대방의 편지를 읽었다는 소식입니다.",
+        "grammar": "read는 현재형과 과거형의 철자가 같지만, 여기서는 과거의 일을 말하므로 /red/로 읽는 과거형입니다. on the way here는 이동 중이라는 뜻의 부사구입니다.",
+        "vocabulary": [
+          {
+            "word": "read",
+            "meaning": "읽었다",
+            "note": "read의 과거형은 철자가 현재형과 같지만 발음은 /red/입니다."
+          },
+          {
+            "word": "letter",
+            "meaning": "편지",
+            "note": "상대방이 보내온 편지를 가리킵니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "on the way here",
+            "meaning": "이곳으로 오는 길에",
+            "explanation": "on the way는 목적지로 이동하는 도중이라는 뜻이며, here가 목적지를 나타냅니다."
+          }
+        ]
+      }
+    },
+    "3": {
+      "method": "authored",
+      "notes": {
+        "korean": "그 편지가 제 마음을 깊이 울렸습니다.",
+        "explanation": "편지에서 큰 감동을 받았다는 뜻입니다.",
+        "grammar": "has touched는 「have/has + 과거분사」의 현재완료로, 편지를 읽고 받은 감동이 현재까지 이어짐을 나타냅니다. It은 앞 문장의 your letter를 가리킵니다.",
+        "vocabulary": [
+          {
+            "word": "touched",
+            "meaning": "감동을 주었다",
+            "note": "touch는 접촉하다는 뜻 외에 마음을 움직이거나 감동시키다는 뜻도 있습니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "touched my heart",
+            "meaning": "내 마음을 울렸다",
+            "explanation": "touch someone’s heart는 상대방에게 깊은 감동을 준다는 비유적 표현입니다."
+          }
+        ]
+      }
+    },
+    "4": {
+      "method": "authored",
+      "notes": {
+        "korean": "삶의 진리를 알고자 하는 열망이 강해지면, 오늘의 갈망은 언젠가 성취로 바뀝니다.",
+        "explanation": "진리를 향한 깊은 열망이 결국 그 진리에 이르는 계기가 된다고 말합니다.",
+        "grammar": "If절에서 주어는 your desire이고 becomes가 동사입니다. 주절의 what is longing today는 「오늘은 갈망인 것」이라는 뜻의 명사절로, 문장 전체의 주어 역할을 합니다.",
+        "vocabulary": [
+          {
+            "word": "longing",
+            "meaning": "갈망, 간절한 바람",
+            "note": "아직 이루지 못한 것을 마음 깊이 원하는 감정을 뜻합니다."
+          },
+          {
+            "word": "attainment",
+            "meaning": "성취, 도달",
+            "note": "노력이나 수행 끝에 어떤 상태에 이르는 일을 뜻합니다."
+          }
+        ],
+        "expressions": []
+      }
+    },
+    "5": {
+      "method": "authored",
+      "notes": {
+        "korean": "필요한 것은 오직 불타는 열망뿐이며, 그 밖에는 아무것도 없습니다.",
+        "explanation": "진리를 향한 간절함의 중요성을 강조합니다.",
+        "grammar": "Burning desire가 주어이고, all that is needed가 보어입니다. that is needed는 all을 수식하는 수동태 관계절로, 「필요한 모든 것」이라는 뜻을 만듭니다.",
+        "vocabulary": [
+          {
+            "word": "Burning",
+            "meaning": "불타는 듯한, 강렬한",
+            "note": "desire를 수식하여 열망의 강도를 비유적으로 표현합니다."
+          },
+          {
+            "word": "needed",
+            "meaning": "필요한",
+            "note": "be needed는 필요로 된다는 수동 표현입니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "nothing else",
+            "meaning": "그 밖에는 아무것도 없는",
+            "explanation": "else는 nothing 같은 부정대명사 뒤에 놓여 「다른 것」이라는 뜻을 더합니다."
+          }
+        ]
+      }
+    },
+    "6": {
+      "method": "authored",
+      "notes": {
+        "korean": "강물이 바다를 찾아가듯, 사람도 원하기만 하면 진리를 찾을 수 있습니다.",
+        "explanation": "강물이 바다에 이르는 모습을 진리를 향한 인간의 여정에 빗댑니다.",
+        "grammar": "As A, so B는 A가 그러하듯 B도 그러하다는 비교·대응 구조입니다. if he wants to에서는 반복되는 find the truth가 to 뒤에 생략되어 있습니다.",
+        "vocabulary": [
+          {
+            "word": "seek",
+            "meaning": "찾다, 추구하다",
+            "note": "단순히 바라본다는 뜻이 아니라 찾고자 하는 행동을 나타냅니다."
+          },
+          {
+            "word": "truth",
+            "meaning": "진리",
+            "note": "이 편지에서는 삶과 존재에 관한 본질적 진리를 가리킵니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "seek out",
+            "meaning": "찾아내다, 찾아 나서다",
+            "explanation": "seek out은 대상을 적극적으로 찾아가는 행동을 나타내는 구동사입니다."
+          }
+        ]
+      }
+    },
+    "7": {
+      "method": "authored",
+      "notes": {
+        "korean": "어떤 봉우리도, 어떤 산도 그를 가로막을 수 없습니다. 오히려 그 도전은 그의 모험심을 일깨웁니다.",
+        "explanation": "큰 장애물조차 진리를 찾으려는 사람의 의욕을 북돋울 수 있다는 뜻입니다.",
+        "grammar": "No peak, no mountain은 부정을 강조하며 병렬로 놓인 주어 표현입니다. can stop에서 can 뒤에는 동사원형이 오고, their challenge가 두 번째 절의 주어입니다.",
+        "vocabulary": [
+          {
+            "word": "challenge",
+            "meaning": "도전, 도전이 되는 난관",
+            "note": "여기서는 앞길을 가로막는 산과 봉우리가 주는 도전을 뜻합니다."
+          },
+          {
+            "word": "awakens",
+            "meaning": "일깨운다",
+            "note": "잠들어 있던 감정이나 의욕이 생기게 한다는 비유적 뜻입니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "sense of adventure",
+            "meaning": "모험심",
+            "explanation": "새로운 일이나 어려운 도전에 나서고 싶어 하는 마음을 나타내는 결합 표현입니다."
+          }
+        ]
+      }
+    },
+    "8": {
+      "method": "authored",
+      "notes": {
+        "korean": "진리는 모든 사람의 내면에 있습니다.",
+        "explanation": "찾는 진리가 외부가 아닌 각자의 안에 있다는 말입니다.",
+        "grammar": "Truth가 주어, is가 동사이며 within everyone이 위치를 나타내는 전치사구입니다. everyone은 「모든 사람 각자」를 뜻하는 단수 대명사입니다.",
+        "vocabulary": [
+          {
+            "word": "within",
+            "meaning": "~의 안에, ~의 내면에",
+            "note": "공간적 내부뿐 아니라 사람의 내면을 가리킬 때도 쓰는 전치사입니다."
+          }
+        ],
+        "expressions": []
+      }
+    },
+    "9": {
+      "method": "authored",
+      "notes": {
+        "korean": "강물은 바다를 찾아가야 하지만, 우리의 바다는 우리 안에 있습니다. 그런데도 그 바다를 누리지 못한 채 여전히 목말라하는 사람이 그토록 많다니 놀라운 일입니다.",
+        "explanation": "이미 내면에 진리가 있는데도 이를 알아차리지 못하는 상황을 목마름에 빗댑니다.",
+        "grammar": "have to find는 찾아야 한다는 필요를 나타냅니다. it is a wonder that ...에서 it은 가주어이고 that절이 실제 내용이며, remain thirsty에서는 형용사 thirsty가 상태를 설명하는 보어입니다.",
+        "vocabulary": [
+          {
+            "word": "thirsty",
+            "meaning": "목마른, 갈망하는",
+            "note": "이 문맥에서는 진리를 찾으면서도 충족되지 못한 상태에 비유합니다."
+          },
+          {
+            "word": "remain",
+            "meaning": "계속 ~인 채로 있다",
+            "note": "remain 뒤에 형용사가 오면 그 상태가 지속됨을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      }
+    },
+    "10": {
+      "method": "authored",
+      "notes": {
+        "korean": "사실 그들이 진정으로 그것을 원한다고 보기는 어렵습니다.",
+        "explanation": "앞서 말한 갈증을 두고, 진리를 향한 열망이 충분히 진실한지 되묻는 말입니다.",
+        "grammar": "cannot + 동사원형은 이 문맥에서 능력보다 「그럴 리 없다」는 강한 판단을 나타냅니다. really가 want를 수식하고, it은 앞서 말한 진리를 가리킵니다.",
+        "vocabulary": [
+          {
+            "word": "Actually",
+            "meaning": "사실은, 실제로는",
+            "note": "앞서 보인 상황을 다른 관점에서 해석하며 말할 때 쓰는 부사입니다."
+          },
+          {
+            "word": "really",
+            "meaning": "진정으로, 정말로",
+            "note": "want 앞에서 바람이 진실한지를 강조합니다."
+          }
+        ],
+        "expressions": []
+      }
+    },
+    "11": {
+      "method": "authored",
+      "notes": {
+        "korean": "그리스도의 말씀 중에 이런 말이 있습니다. “구하라, 그러면 받을 것이다.”",
+        "explanation": "간절히 구하는 태도의 중요성을 종교적 인용으로 전합니다.",
+        "grammar": "There is는 어떤 말씀이 있음을 소개하는 존재 구문입니다. Ask는 명령문이고, ye는 you의 옛 표현이며, shall receive는 앞으로 받게 될 것이라는 뜻입니다.",
+        "vocabulary": [
+          {
+            "word": "ye",
+            "meaning": "너희, 당신들",
+            "note": "오늘날의 you에 해당하는 옛 영어 대명사로, 종교적 인용문 등에 남아 있습니다."
+          },
+          {
+            "word": "receive",
+            "meaning": "받다",
+            "note": "여기서는 구한 것을 받게 된다는 뜻입니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Ask and ye shall receive",
+            "meaning": "구하라, 그러면 받을 것이다",
+            "explanation": "「명령문 + and + 결과」는 앞의 행동을 하면 뒤의 결과가 따르리라는 뜻을 나타낼 수 있습니다."
+          }
+        ]
+      }
+    },
+    "12": {
+      "method": "authored",
+      "notes": {
+        "korean": "하지만 구하지 않는다면, 그것은 누구의 잘못인가요?",
+        "explanation": "구하지 않으면서 얻지 못하는 상황의 책임을 되묻는 반문입니다.",
+        "grammar": "if you don’t ask는 부정 조건절입니다. whose fault는 누구의 잘못이라는 뜻의 의문사구이고, is it은 주어와 be동사가 도치된 의문문 어순입니다.",
+        "vocabulary": [
+          {
+            "word": "fault",
+            "meaning": "잘못, 책임",
+            "note": "문제나 결과에 대해 누가 책임이 있는지를 말할 때 쓰입니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "whose fault is it",
+            "meaning": "누구의 잘못인가",
+            "explanation": "실수나 결과의 책임이 누구에게 있는지를 묻는 표현입니다."
+          }
+        ]
+      }
+    },
+    "13": {
+      "method": "authored",
+      "notes": {
+        "korean": "신에 이르는 것보다 더 좋은 거래는 없습니다. 우리가 할 일은 그저 구하는 것뿐이며, 그 이상은 필요하지 않습니다.",
+        "explanation": "가장 큰 결실을 얻는 데 필요한 것은 간절히 구하는 태도뿐이라는 비유입니다.",
+        "grammar": "There is no better bargain than ...은 비교급을 부정하여 최상의 가치를 강조합니다. We have only to ask는 「구하기만 하면 된다」는 뜻입니다. 원문에서는 God 뒤에 문장 경계가 생략된 것으로 읽을 수 있습니다.",
+        "vocabulary": [
+          {
+            "word": "bargain",
+            "meaning": "거래, 이로운 거래",
+            "note": "작은 대가로 큰 가치를 얻는 상황을 거래에 빗댑니다."
+          },
+          {
+            "word": "attainment",
+            "meaning": "도달, 성취",
+            "note": "여기서는 신에 이르거나 신을 체험하는 것을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "have only to ask",
+            "meaning": "구하기만 하면 된다",
+            "explanation": "have only to + 동사원형은 해야 할 일이 그것뿐임을 나타내는 표현입니다."
+          }
+        ]
+      }
+    },
+    "14": {
+      "method": "authored",
+      "notes": {
+        "korean": "구하는 마음이 점점 강해질수록, 구하는 사람 자신은 서서히 사라지기 시작합니다.",
+        "explanation": "진리를 향한 열망이 깊어지면서 자아에 대한 집착이 약해지는 모습을 설명합니다.",
+        "grammar": "As절은 두 변화가 함께 진행됨을 나타냅니다. stronger and stronger는 점점 더 강해진다는 비교급 반복이며, he who asks에서 who절이 he를 수식합니다.",
+        "vocabulary": [
+          {
+            "word": "vanishing",
+            "meaning": "사라지기",
+            "note": "start 뒤의 -ing형으로, 여기서는 자아의 느낌이 사라지는 과정에 비유합니다."
+          },
+          {
+            "word": "asking",
+            "meaning": "구함, 간청",
+            "note": "질문하는 행위뿐 아니라 진리를 간절히 바라는 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "stronger and stronger",
+            "meaning": "점점 더 강해지는",
+            "explanation": "「비교급 + and + 비교급」은 상태나 정도가 계속 변함을 나타냅니다."
+          }
+        ]
+      }
+    },
+    "15": {
+      "method": "authored",
+      "notes": {
+        "korean": "어느 한계, 곧 증발하는 지점에 이르게 되면, 찾는 이는 완전히 사라지고 오직 구하는 마음만 남습니다.",
+        "explanation": "추구하는 자아는 사라지고 순수한 갈망만 남는 순간을 증발에 빗대어 묘사합니다.",
+        "grammar": "is reached는 「be동사 + 과거분사」의 수동태입니다. where는 앞의 limit과 point를 받아 그 지점에서 일어나는 일을 설명하며, only the asking이 마지막 절의 주어입니다.",
+        "vocabulary": [
+          {
+            "word": "evaporation",
+            "meaning": "증발",
+            "note": "물이 사라지는 현상을 자아가 사라지는 과정에 비유합니다."
+          },
+          {
+            "word": "utterly",
+            "meaning": "완전히, 전적으로",
+            "note": "disappears를 수식하여 사라짐의 정도를 강조합니다."
+          },
+          {
+            "word": "seeker",
+            "meaning": "찾는 사람, 구도자",
+            "note": "이 문맥에서는 진리를 추구하는 사람을 뜻합니다."
+          }
+        ],
+        "expressions": []
+      }
+    },
+    "16": {
+      "method": "authored",
+      "notes": {
+        "korean": "바로 이때가 성취의 순간입니다.",
+        "explanation": "자아가 사라지는 순간이 곧 진리에 도달하는 순간이라는 뜻입니다.",
+        "grammar": "This가 주어이고 the very moment of attainment가 보어입니다. very는 여기서 부사가 아니라 명사 moment를 강조하는 「바로 그」라는 뜻의 형용사입니다.",
+        "vocabulary": [
+          {
+            "word": "very",
+            "meaning": "바로 그",
+            "note": "the very + 명사는 대상이 정확히 그것임을 강조하는 표현입니다."
+          },
+          {
+            "word": "attainment",
+            "meaning": "도달, 성취",
+            "note": "앞서 추구하던 진리에 이르는 것을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "the very moment",
+            "meaning": "바로 그 순간",
+            "explanation": "very가 명사 앞에서 특정한 순간을 정확히 강조합니다."
+          }
+        ]
+      }
+    },
+    "17": {
+      "method": "authored",
+      "notes": {
+        "korean": "진리는 ‘나’가 없는 곳에 있습니다. 오직 이 체험만이 신성한 체험입니다.",
+        "explanation": "자아의 부재 속에서 진리와 신성을 체험한다는 말입니다.",
+        "grammar": "where the I is not은 진리가 있는 상태를 설명하는 보어절입니다. the I는 대명사 I를 명사처럼 써 자아를 가리키며, alone은 this experience만을 한정합니다.",
+        "vocabulary": [
+          {
+            "word": "alone",
+            "meaning": "오직, ~만",
+            "note": "여기서는 외롭다는 뜻이 아니라 앞의 명사구를 한정하여 「이 체험만」이라는 뜻을 만듭니다."
+          },
+          {
+            "word": "divine",
+            "meaning": "신성한",
+            "note": "신이나 영적인 차원과 관련된 성질을 나타내는 형용사입니다."
+          }
+        ],
+        "expressions": []
+      }
+    },
+    "18": {
+      "method": "authored",
+      "notes": {
+        "korean": "자아의 부재가 곧 신의 현존입니다.",
+        "explanation": "자아가 사라지는 것과 신을 경험하는 것을 하나의 상태로 설명합니다.",
+        "grammar": "Absence of ego가 주어이고 presence of God이 보어인 「명사구 + be동사 + 명사구」의 구조입니다. absence와 presence를 대조하여 뜻을 강조합니다.",
+        "vocabulary": [
+          {
+            "word": "Absence",
+            "meaning": "부재, 없음",
+            "note": "어떤 것이 있지 않은 상태를 뜻하며 of로 그 대상을 연결합니다."
+          },
+          {
+            "word": "presence",
+            "meaning": "존재, 현존",
+            "note": "어떤 것이 그곳에 있거나 분명하게 느껴지는 상태를 뜻합니다."
+          },
+          {
+            "word": "ego",
+            "meaning": "자아",
+            "note": "여기서는 자신을 별개의 나로 여기는 의식을 가리킵니다."
+          }
+        ],
+        "expressions": []
+      }
+    },
+    "19": {
+      "method": "authored",
+      "notes": {
+        "korean": "그곳의 모든 분께 안부를 전합니다.",
+        "explanation": "편지를 받는 사람 주변의 사람들에게도 안부를 전하는 끝인사입니다.",
+        "grammar": "My regards는 안부 인사를 뜻하는 명사구이며, to all이 인사를 받는 대상을 나타냅니다. there는 all 뒤에서 그곳에 있는 사람들임을 덧붙입니다.",
+        "vocabulary": [
+          {
+            "word": "regards",
+            "meaning": "안부, 인사",
+            "note": "편지에서 안부를 전하는 뜻으로 쓰일 때는 복수형을 사용합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "My regards to all there",
+            "meaning": "그곳의 모든 분께 안부를 전합니다",
+            "explanation": "I send처럼 인사를 전하는 주어와 동사가 생략된 편지 인사말입니다."
+          }
+        ]
+      }
+    }
+  }
+}

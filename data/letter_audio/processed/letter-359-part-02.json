@@ -1,0 +1,65 @@
+{
+  "key": "letter-359-part-02",
+  "number": 359,
+  "generationId": "01a1e918-2cb2-7537-80b9-454364be2de8",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Do not live out of the mind, otherwise you will always lag behind, because life never waits for you and your so-called mind.",
+      "path": "audio/1971-359/11.mp3",
+      "start": 0.0,
+      "end": 8.072358
+    },
+    {
+      "index": 11,
+      "text": "That is why the mind always feels as if something is missing - because it is missing life itself - and always!",
+      "path": "audio/1971-359/12.mp3",
+      "start": 9.544580000000002,
+      "end": 16.972177000000002
+    },
+    {
+      "index": 12,
+      "text": "Once a master said to his disciples: If you utter a word - thirty blows of my stick for you.",
+      "path": "audio/1971-359/13.mp3",
+      "start": 18.461973,
+      "end": 24.360544
+    },
+    {
+      "index": 13,
+      "text": "But if you utter no words just the same, thirty blows of my stick Now - speak, speak!",
+      "path": "audio/1971-359/14.mp3",
+      "start": 25.514875,
+      "end": 31.873061
+    },
+    {
+      "index": 14,
+      "text": "One disciple came forward and when he was about to bow before the master he was struck.",
+      "path": "audio/1971-359/15.mp3",
+      "start": 32.984921,
+      "end": 37.410022999999995
+    },
+    {
+      "index": 15,
+      "text": "The disciple protested: I have not uttered a single word nor did you allow me not to utter.",
+      "path": "audio/1971-359/16.mp3",
+      "start": 38.914467,
+      "end": 45.162948
+    },
+    {
+      "index": 16,
+      "text": "Why the striking?",
+      "path": "audio/1971-359/17.mp3",
+      "start": 46.696553,
+      "end": 47.893083999999995
+    },
+    {
+      "index": 17,
+      "text": "The master laughed and said If I wait for you and your speech or your silence, it is too late, and life cannot wait!",
+      "path": "audio/1971-359/18.mp3",
+      "start": 49.384671000000004,
+      "end": 57.16
+    }
+  ]
+}

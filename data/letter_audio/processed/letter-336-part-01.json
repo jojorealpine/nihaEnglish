@@ -1,0 +1,79 @@
+{
+  "key": "letter-336-part-01",
+  "number": 336,
+  "generationId": "01a1e912-7814-7603-996e-a108b20a6fe0",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-336/01.mp3",
+      "start": 0.0,
+      "end": 0.702698
+    },
+    {
+      "index": 1,
+      "text": "It is very easy to progress from one illusion to another because no foundational transformation is needed.",
+      "path": "audio/1971-336/02.mp3",
+      "start": 2.2885489999999997,
+      "end": 8.990203999999999
+    },
+    {
+      "index": 2,
+      "text": "There is no shaking of the foundations because you remain the same.",
+      "path": "audio/1971-336/03.mp3",
+      "start": 10.354898,
+      "end": 14.592834
+    },
+    {
+      "index": 3,
+      "text": "So the real problem is not to change the objects of desire from the worldly to the other worldly but to transform oneself; not to change the seeking but to change the seeker - otherwise the problem remains as it is, it just takes new shapes.",
+      "path": "audio/1971-336/04.mp3",
+      "start": 15.92102,
+      "end": 32.364036
+    },
+    {
+      "index": 4,
+      "text": "But how to change the seeker?",
+      "path": "audio/1971-336/05.mp3",
+      "start": 33.939683,
+      "end": 35.665600999999995
+    },
+    {
+      "index": 5,
+      "text": "First find out where it is and what it is, and then you will come to know a hidden secret: the seeker exists only while it is not sought, and when someone goes out to search for it - it is never found.",
+      "path": "audio/1971-336/06.mp3",
+      "start": 37.326735,
+      "end": 49.623355999999994
+    },
+    {
+      "index": 6,
+      "text": "It exists only in ignorance and in darkness; in awareness it is not.",
+      "path": "audio/1971-336/07.mp3",
+      "start": 50.913900000000005,
+      "end": 56.68678
+    },
+    {
+      "index": 7,
+      "text": "This realization of no-self is the jump.",
+      "path": "audio/1971-336/08.mp3",
+      "start": 58.234331000000005,
+      "end": 61.786531
+    },
+    {
+      "index": 8,
+      "text": "Jump into the unknown.",
+      "path": "audio/1971-336/09.mp3",
+      "start": 63.350249000000005,
+      "end": 65.417574
+    },
+    {
+      "index": 9,
+      "text": "Jump into the truth",
+      "path": "audio/1971-336/10.mp3",
+      "start": 66.917732,
+      "end": 68.73
+    }
+  ]
+}

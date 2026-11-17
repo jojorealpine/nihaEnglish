@@ -1,0 +1,79 @@
+{
+  "key": "letter-185-part-01",
+  "number": 185,
+  "generationId": "01a1e8e8-ef49-741c-99c9-0d0dfe4c9178",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-185/01.mp3",
+      "start": 0.0,
+      "end": 0.636508
+    },
+    {
+      "index": 1,
+      "text": "When I say mutation I do not mean simply change.",
+      "path": "audio/1971-185/02.mp3",
+      "start": 1.9268929999999997,
+      "end": 5.063651
+    },
+    {
+      "index": 2,
+      "text": "Change is from the known to the known.",
+      "path": "audio/1971-185/03.mp3",
+      "start": 6.2886619999999995,
+      "end": 8.982857
+    },
+    {
+      "index": 3,
+      "text": "A sinner becomes a saint - then it is change and not mutation.",
+      "path": "audio/1971-185/04.mp3",
+      "start": 10.287732,
+      "end": 15.048775999999998
+    },
+    {
+      "index": 4,
+      "text": "You can practice change but you cannot practice mutation because only the known can be practiced - and then any change is going to be only a modified past because the past will be continuous in it, and the past also will be the master of it because it is cultivated by the past.",
+      "path": "audio/1971-185/05.mp3",
+      "start": 16.315669,
+      "end": 33.611587
+    },
+    {
+      "index": 5,
+      "text": "In other words, change is from this to that, it is a movement in the known.",
+      "path": "audio/1971-185/06.mp3",
+      "start": 35.115011,
+      "end": 39.318321999999995
+    },
+    {
+      "index": 6,
+      "text": "But mutation is an explosion: from this to nothingness, from here to nowhere You cannot practice it - on the contrary, you are the only hindrance.",
+      "path": "audio/1971-185/07.mp3",
+      "start": 40.554195,
+      "end": 51.507846
+    },
+    {
+      "index": 7,
+      "text": "So what is to be done?",
+      "path": "audio/1971-185/08.mp3",
+      "start": 52.679705000000006,
+      "end": 53.885011
+    },
+    {
+      "index": 8,
+      "text": "Really nothing can be done.",
+      "path": "audio/1971-185/09.mp3",
+      "start": 54.979546,
+      "end": 56.670091
+    },
+    {
+      "index": 9,
+      "text": "Be aware of this helplessness, and remain in this helplessness.",
+      "path": "audio/1971-185/10.mp3",
+      "start": 58.157347,
+      "end": 63.53
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "id": "1970-153",
+  "title": "1970 / 153",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "moment",
+      "meaning": "그 순간",
+      "note": "여기서는 두려움이 커지기 시작하는 특정 시점을 가리킴",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "multiplies",
+      "meaning": "증가하다, 커지다",
+      "note": "두려움이 단순히 커지는 것 이상으로, 더욱 확대되고 강해진다는 뉘앙스를 담고 있음",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "hold",
+      "meaning": "잡다, 유지하다",
+      "note": "여기서는 두려움을 마음속에 유지하거나 계속 붙잡고 있다는 의미를 담고 있다.",
+      "sentenceIds": [
+        3,
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "nourish",
+      "meaning": "영양분을 공급하다, 키우다",
+      "note": "두려움을 영양분처럼 키워나간다는 비유적인 의미를 나타낸다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "dropping",
+      "meaning": "버리다",
+      "note": "여기서는 두려움을 없애거나 포기하는 의미로 사용됨",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fighting",
+      "meaning": "싸우다",
+      "note": "두려움과 직접적으로 대립하거나 겨루는 행위를 나타냄",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fight",
+      "meaning": "싸우다",
+      "note": "여기서는 두려움과의 대치나 투쟁을 의미한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "know",
+      "meaning": "알다",
+      "note": "지식이나 인식을 의미하며, 여기서는 두려움의 존재를 인식하라는 의미입니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fear",
+      "meaning": "두려움",
+      "note": "불안이나 위협에 대한 감정을 나타냅니다.",
+      "sentenceIds": [
+        6,
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "away",
+      "meaning": "멀리 떠나다",
+      "note": "여기서는 '도망치다'의 의미로 사용됨",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "escape",
+      "meaning": "도망가다",
+      "note": "피하거나 도망치는 행동을 나타냄",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "insecurity",
+      "meaning": "불안감",
+      "note": "자신이나 상황에 대한 불확실성과 두려움을 의미합니다.",
+      "sentenceIds": [
+        8,
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "death",
+      "meaning": "죽음",
+      "note": "인생의 불가피한 결말을 나타냅니다.",
+      "sentenceIds": [
+        8,
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "facts",
+      "meaning": "진실, 사실",
+      "note": "여기서는 인생에서 변하지 않는 본질적인 특성이나 현실을 의미합니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "life",
+      "meaning": "인생",
+      "note": "전체적인 인간 경험이나 존재의 상태를 가리킵니다.",
+      "sentenceIds": [
+        9,
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "run",
+      "meaning": "달리다, 도망치다",
+      "note": "상황에서 벗어나려는 행동을 나타냅니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "avoid",
+      "meaning": "피하다",
+      "note": "상황이나 사람, 물건 등을 직접적으로 마주치지 않거나 피하려는 의지나 방법을 나타냅니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "acceptance",
+      "meaning": "수용, 받아들임",
+      "note": "어떤 상황이나 상태를 긍정적으로 받아들이는 것을 의미한다.",
+      "sentenceIds": [
+        13,
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "natural",
+      "meaning": "자연스러운",
+      "note": "본능적이고 강요되지 않은 상태로 자연스럽게 이루어진다는 의미이다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "accepted",
+      "meaning": "받아들여짐",
+      "note": "어떤 상태나 감정이 인정되고 용인되는 상황을 나타냅니다.",
+      "sentenceIds": [
+        14,
+        15,
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "initiation",
+      "meaning": "입문",
+      "note": "특정 영적 또는 종교적 경로에 들어서는 시작 단계를 나타낸다.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-153/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Drop the fear, because the moment you hold on to it, it multiplies.",
+      "korean": "두려움을 버려라, 그것을 붙잡는 순간 더욱 커질 뿐이다.",
+      "explanation": "두려움을 버리지 않으면 두려움이 더욱 커진다는 의미",
+      "grammar": "동사원형 「Drop」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-153/02.mp3",
+      "vocabulary": [
+        {
+          "word": "moment",
+          "meaning": "그 순간",
+          "note": "여기서는 두려움이 커지기 시작하는 특정 시점을 가리킴"
+        },
+        {
+          "word": "multiplies",
+          "meaning": "증가하다, 커지다",
+          "note": "두려움이 단순히 커지는 것 이상으로, 더욱 확대되고 강해진다는 뉘앙스를 담고 있음"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "To hold on to it is to nourish it.",
+      "korean": "그것을 붙잡는 것은 그것을 키우는 것과 같다.",
+      "explanation": "두려움을 붙잡으면 두려움이 더욱 커진다는 의미를 전달한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-153/03.mp3",
+      "vocabulary": [
+        {
+          "word": "hold",
+          "meaning": "잡다, 유지하다",
+          "note": "여기서는 두려움을 마음속에 유지하거나 계속 붙잡고 있다는 의미를 담고 있다."
+        },
+        {
+          "word": "nourish",
+          "meaning": "영양분을 공급하다, 키우다",
+          "note": "두려움을 영양분처럼 키워나간다는 비유적인 의미를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "But dropping fear does not mean fighting with it.",
+      "korean": "두려움을 버리는 것은 그것과 싸우는 것을 의미하지 않는다.",
+      "explanation": "두려움을 없애는 것이 두려움과 직접적으로 대립하거나 싸우는 것이 아니라는 의미",
+      "grammar": "「does not mean」는 현재의 부정 표현입니다. do/does/did 뒤에서는 본동사 「mean」를 원형으로 씁니다.",
+      "audio": "audio/1970-153/04.mp3",
+      "vocabulary": [
+        {
+          "word": "dropping",
+          "meaning": "버리다",
+          "note": "여기서는 두려움을 없애거나 포기하는 의미로 사용됨"
+        },
+        {
+          "word": "fighting",
+          "meaning": "싸우다",
+          "note": "두려움과 직접적으로 대립하거나 겨루는 행위를 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "To fight is also to hold on to it.",
+      "korean": "싸우는 것은 그것을 붙잡는 것과 같다.",
+      "explanation": "싸우는 행위는 두려움을 계속 유지하거나 붙잡는 것과 동일하다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-153/05.mp3",
+      "vocabulary": [
+        {
+          "word": "fight",
+          "meaning": "싸우다",
+          "note": "여기서는 두려움과의 대치나 투쟁을 의미한다."
+        },
+        {
+          "word": "hold",
+          "meaning": "잡다",
+          "note": "두려움을 계속 유지하거나 붙잡는 상황을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Just know that fear is.",
+      "korean": "두려움이 있다는 것을 알아요.",
+      "explanation": "두려움의 존재를 인식하거나 이해하라는 의미입니다.",
+      "grammar": "동사원형 「know」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-153/06.mp3",
+      "vocabulary": [
+        {
+          "word": "know",
+          "meaning": "알다",
+          "note": "지식이나 인식을 의미하며, 여기서는 두려움의 존재를 인식하라는 의미입니다."
+        },
+        {
+          "word": "fear",
+          "meaning": "두려움",
+          "note": "불안이나 위협에 대한 감정을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Do not run away from it, do not escape.",
+      "korean": "그것으로부터 도망치지 마세요, 피하지 마세요.",
+      "explanation": "두려움이나 어려움과 직면하라는 의미",
+      "grammar": "「Do not run」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1970-153/07.mp3",
+      "vocabulary": [
+        {
+          "word": "away",
+          "meaning": "멀리 떠나다",
+          "note": "여기서는 '도망치다'의 의미로 사용됨"
+        },
+        {
+          "word": "escape",
+          "meaning": "도망가다",
+          "note": "피하거나 도망치는 행동을 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "In life there is fear, there is insecurity, there is death - just know this.",
+      "korean": "인생에는 두려움이 있고, 불안이 있으며, 죽음이 있으니 이것만은 알아두세요.",
+      "explanation": "인생의 불가피한 요소들인 두려움, 불안, 그리고 죽음에 대해 직시하고 받아들이라는 메시지입니다.",
+      "grammar": "동사원형 「know」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-153/08.mp3",
+      "vocabulary": [
+        {
+          "word": "insecurity",
+          "meaning": "불안감",
+          "note": "자신이나 상황에 대한 불확실성과 두려움을 의미합니다."
+        },
+        {
+          "word": "death",
+          "meaning": "죽음",
+          "note": "인생의 불가피한 결말을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "All these are facts of life.",
+      "korean": "인생의 진실들입니다.",
+      "explanation": "인생의 불가피한 현실이나 특성을 강조합니다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-153/09.mp3",
+      "vocabulary": [
+        {
+          "word": "facts",
+          "meaning": "진실, 사실",
+          "note": "여기서는 인생에서 변하지 않는 본질적인 특성이나 현실을 의미합니다."
+        },
+        {
+          "word": "life",
+          "meaning": "인생",
+          "note": "전체적인 인간 경험이나 존재의 상태를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "Where would you run from them?",
+      "korean": "그들로부터 어디로 도망칠 수 있을까?",
+      "explanation": "도망치는 장소나 방법에 대한 의문을 제기하는 문장입니다.",
+      "grammar": "「would you run」에서 조동사 would 뒤에 동사원형 「run」가 옵니다. would은 문맥에 따라 가정·의지·정중함 등을 나타냅니다.",
+      "audio": "audio/1970-153/10.mp3",
+      "vocabulary": [
+        {
+          "word": "run",
+          "meaning": "달리다, 도망치다",
+          "note": "상황에서 벗어나려는 행동을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "How would you avoid them?",
+      "korean": "그들을 어떻게 피할 수 있을까요?",
+      "explanation": "피하는 방법이나 수단에 대해 질문하는 문장입니다.",
+      "grammar": "「would you avoid」에서 조동사 would 뒤에 동사원형 「avoid」가 옵니다. would은 문맥에 따라 가정·의지·정중함 등을 나타냅니다.",
+      "audio": "audio/1970-153/11.mp3",
+      "vocabulary": [
+        {
+          "word": "avoid",
+          "meaning": "피하다",
+          "note": "상황이나 사람, 물건 등을 직접적으로 마주치지 않거나 피하려는 의지나 방법을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "Life itself is such.",
+      "korean": "인생 자체가 그러하다.",
+      "explanation": "인생의 본질이나 특성이 항상 그러하다는 의미를 전달합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-153/12.mp3",
+      "vocabulary": [
+        {
+          "word": "Life",
+          "meaning": "인생",
+          "note": "이 문맥에서는 인생의 본질이나 특성을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "And its acceptance, its natural acceptance, is the freedom from fear.",
+      "korean": "자연스러운 수용이 두려움에서 벗어나는 자유이다.",
+      "explanation": "문장은 자연스러운 방식으로 어떤 상태나 조건을 받아들이는 것이 두려움을 극복하고 자유를 얻는 방법임을 설명한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-153/13.mp3",
+      "vocabulary": [
+        {
+          "word": "acceptance",
+          "meaning": "수용, 받아들임",
+          "note": "어떤 상황이나 상태를 긍정적으로 받아들이는 것을 의미한다."
+        },
+        {
+          "word": "natural",
+          "meaning": "자연스러운",
+          "note": "본능적이고 강요되지 않은 상태로 자연스럽게 이루어진다는 의미이다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "Once fear is accepted, where is it?",
+      "korean": "두려움이 받아들여지면 어디에 있을까?",
+      "explanation": "두려움이 이미 수용되었을 때 그 존재의 위치나 의미를 묻는 문장입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-153/14.mp3",
+      "vocabulary": [
+        {
+          "word": "fear",
+          "meaning": "두려움",
+          "note": "불안이나 위협에 대한 감정적 반응을 의미합니다."
+        },
+        {
+          "word": "accepted",
+          "meaning": "받아들여짐",
+          "note": "어떤 상태나 감정이 인정되고 용인되는 상황을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "Once death is accepted, where is it?",
+      "korean": "죽음이 받아들여진 순간, 어디에 있을까?",
+      "explanation": "죽음이라는 개념을 수용한 이후 그 존재나 영향이 어디에 있는지를 묻는 질문입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-153/15.mp3",
+      "vocabulary": [
+        {
+          "word": "death",
+          "meaning": "죽음",
+          "note": "생명의 종결을 의미하며, 이 문맥에서는 추상적인 개념으로 사용되었습니다."
+        },
+        {
+          "word": "accepted",
+          "meaning": "받아들여짐",
+          "note": "죽음이라는 개념을 인정하거나 수용하는 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "Once insecurity is accepted, where is it?",
+      "korean": "불안감을 받아들이면 어디로 사라지나요?",
+      "explanation": "불안감을 인정하고 나면 그 감정이 어떻게 변화하거나 사라지는지 묻는 질문입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-153/16.mp3",
+      "vocabulary": [
+        {
+          "word": "insecurity",
+          "meaning": "불안감",
+          "note": "자신이나 상황에 대한 불확실성이나 두려움을 의미합니다."
+        },
+        {
+          "word": "accepted",
+          "meaning": "받아들이다",
+          "note": "인정하거나 수용하는 행위를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 17,
+      "english": "Acceptance of the wholeness of life is what I call sannyas, initiation on the path.",
+      "korean": "삶의 전체성을 받아들이는 것이 나는 산야스로 부르는 길에 들어서는 입문이라고 생각한다.",
+      "explanation": "삶의 완전성을 받아들이는 것이 특정 영적 경로의 시작점이나 중요한 단계임을 설명한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-153/17.mp3",
+      "vocabulary": [
+        {
+          "word": "Acceptance",
+          "meaning": "받아들임",
+          "note": "어떤 상태나 상황을 거부하지 않고 인정하는 것을 의미한다."
+        },
+        {
+          "word": "initiation",
+          "meaning": "입문",
+          "note": "특정 영적 또는 종교적 경로에 들어서는 시작 단계를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "두려움을 버려라, 그것을 붙잡는 순간 더욱 커질 뿐이다. 그것을 붙잡는 것은 그것을 키우는 것과 같다. 두려움을 버리는 것은 그것과 싸우는 것을 의미하지 않는다. 싸우는 것은 그것을 붙잡는 것과 같다. 두려움이 있다는 것을 알아요. 그것으로부터 도망치지 마세요, 피하지 마세요. 인생에는 두려움이 있고, 불안이 있으며, 죽음이 있으니 이것만은 알아두세요. 인생의 진실들입니다. 그들로부터 어디로 도망칠 수 있을까? 그들을 어떻게 피할 수 있을까요? 인생 자체가 그러하다. 자연스러운 수용이 두려움에서 벗어나는 자유이다. 두려움이 받아들여지면 어디에 있을까? 죽음이 받아들여진 순간, 어디에 있을까? 불안감을 받아들이면 어디로 사라지나요? 삶의 전체성을 받아들이는 것이 나는 산야스로 부르는 길에 들어서는 입문이라고 생각한다."
+  ],
+  "fullAudio": "audio/1970-153/script_all.mp3",
+  "originalText": "Love.\n\nDrop the fear,\nbecause the moment you hold on to it, it multiplies.\nTo hold on to it is to nourish it.\nBut dropping fear does not mean fighting with it.\nTo fight is also to hold on to it.\nJust know that fear is.\nDo not run away from it,\ndo not escape.\nIn life there is fear,\nthere is insecurity,\nthere is death -\njust know this.\nAll these are facts of life.\nWhere would you run from them?\nHow would you avoid them?\nLife itself is such.\nAnd its acceptance, its natural acceptance,\nis the freedom from fear.\nOnce fear is accepted, where is it?\nOnce death is accepted, where is it?\nOnce insecurity is accepted, where is it?\nAcceptance of the wholeness of life is what I call\nsannyas, initiation on the path.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 153,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0834 2.JPG",
+        "side": "right",
+        "printedPage": null
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

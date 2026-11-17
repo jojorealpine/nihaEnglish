@@ -1,0 +1,79 @@
+{
+  "key": "letter-219-part-01",
+  "number": 219,
+  "generationId": "01a1e8f2-9af4-7b7d-8d29-3bb77b7d51e2",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-219/01.mp3",
+      "start": 0.0,
+      "end": 0.681791
+    },
+    {
+      "index": 1,
+      "text": "Anger, violence, greed or envy cannot be overcome by the cultivation of their opposites, because anger itself will cultivate its opposite and violence will be present in its cultivated non-violence.",
+      "path": "audio/1971-219/02.mp3",
+      "start": 2.0458499999999997,
+      "end": 16.109025
+    },
+    {
+      "index": 2,
+      "text": "So always be aware of the hypnotic spell of the opposite: it never solves any problem because it is beating around the bush.",
+      "path": "audio/1971-219/03.mp3",
+      "start": 17.532062999999997,
+      "end": 25.623923
+    },
+    {
+      "index": 3,
+      "text": "Do not fall into the trap of the opposite but understand anger, violence or greed or anything else directly.",
+      "path": "audio/1971-219/04.mp3",
+      "start": 27.042585,
+      "end": 35.103265
+    },
+    {
+      "index": 4,
+      "text": "To seek the opposite is a way of escape.",
+      "path": "audio/1971-219/05.mp3",
+      "start": 36.538617,
+      "end": 39.303332999999995
+    },
+    {
+      "index": 5,
+      "text": "To seek the opposite is cowardice.",
+      "path": "audio/1971-219/06.mp3",
+      "start": 40.602268,
+      "end": 42.87424
+    },
+    {
+      "index": 6,
+      "text": "Live with your mind as it is.",
+      "path": "audio/1971-219/07.mp3",
+      "start": 44.10551,
+      "end": 46.155305999999996
+    },
+    {
+      "index": 7,
+      "text": "Do not try to change it.",
+      "path": "audio/1971-219/08.mp3",
+      "start": 47.497438,
+      "end": 49.143651
+    },
+    {
+      "index": 8,
+      "text": "Be brave and face it and understand it.",
+      "path": "audio/1971-219/09.mp3",
+      "start": 50.479093000000006,
+      "end": 53.722697999999994
+    },
+    {
+      "index": 9,
+      "text": "When the light of awareness falls on anger or greed or envy there is change.",
+      "path": "audio/1971-219/10.mp3",
+      "start": 55.136916,
+      "end": 60.73
+    }
+  ]
+}

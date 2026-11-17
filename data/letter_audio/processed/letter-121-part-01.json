@@ -1,0 +1,65 @@
+{
+  "key": "letter-121-part-01",
+  "number": 121,
+  "generationId": "01a1e694-4512-77bc-9223-3b2609d0b08a",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-121/01.mp3",
+      "start": 0.0,
+      "end": 0.599161
+    },
+    {
+      "index": 1,
+      "text": "You say you feel broken.",
+      "path": "audio/1970-121/02.mp3",
+      "start": 1.876077,
+      "end": 3.36059
+    },
+    {
+      "index": 2,
+      "text": "It would be better if you broke down completely and disappeared That which is will always be the case and that which has become is bound to vanish.",
+      "path": "audio/1970-121/03.mp3",
+      "start": 4.619955,
+      "end": 13.72449
+    },
+    {
+      "index": 3,
+      "text": "Becoming always leads to dissolution so do not try to save yourself.",
+      "path": "audio/1970-121/04.mp3",
+      "start": 14.978005000000001,
+      "end": 19.648503
+    },
+    {
+      "index": 4,
+      "text": "One who loses himself goes beyond life and death, and he who saves himself is lost.",
+      "path": "audio/1970-121/05.mp3",
+      "start": 20.910294999999998,
+      "end": 26.850181000000003
+    },
+    {
+      "index": 5,
+      "text": "You are busy saving yourself and that is why you are afraid of breaking down.",
+      "path": "audio/1970-121/06.mp3",
+      "start": 28.449569,
+      "end": 33.342653
+    },
+    {
+      "index": 6,
+      "text": "But what is there to save?",
+      "path": "audio/1970-121/07.mp3",
+      "start": 34.886327,
+      "end": 36.589773
+    },
+    {
+      "index": 7,
+      "text": "And that which is worth saving is already saved.",
+      "path": "audio/1970-121/08.mp3",
+      "start": 38.106667,
+      "end": 41.2
+    }
+  ]
+}

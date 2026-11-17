@@ -1,0 +1,697 @@
+{
+  "id": "1971-194",
+  "title": "1971 / 194",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "philosophical",
+      "meaning": "철학적인",
+      "note": "이론적이고 추상적인 사고 방식을 의미한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "existential",
+      "meaning": "실존적인",
+      "note": "개인의 존재와 관련된 실질적인 문제나 경험을 의미한다.",
+      "sentenceIds": [
+        2,
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "outside",
+      "meaning": "외부",
+      "note": "문제나 상황에서 분리되어 있다는 의미",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "spectator",
+      "meaning": "관객",
+      "note": "문제나 상황을 단순히 관찰하거나 참여하지 않는 상태를 나타냄",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "philosophy",
+      "meaning": "철학",
+      "note": "지식, 가치, 실재에 대한 체계적인 연구와 탐구를 의미함",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "linguistic",
+      "meaning": "언어의",
+      "note": "문장에서 언어와 관련된 개념이나 분석을 지칭한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "misunderstanding",
+      "meaning": "오해",
+      "note": "언어적 소통에서 발생할 수 있는 잘못된 해석이나 혼동을 의미한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "language",
+      "meaning": "언어",
+      "note": "문제 해결을 위한 수단으로 언급된 언어 자체를 의미",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "analysis",
+      "meaning": "분석",
+      "note": "언어를 통해 문제를 이해하려는 시도를 의미",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "dervish",
+      "meaning": "수도사",
+      "note": "종교적 수행을 하는 이슬람교의 종파 중 하나의 수행자를 의미한다.",
+      "sentenceIds": [
+        7,
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "passing",
+      "meaning": "지나가던",
+      "note": "이 문맥에서는 「지나가던」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "matter",
+      "meaning": "문제, 사안",
+      "note": "여기서는 도움이 필요한 상황이나 문제에 대한 질문을 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "called",
+      "meaning": "부르다",
+      "note": "상황을 파악하기 위해 아래로 소리쳐 질문하는 행동을 나타냅니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "grammarian",
+      "meaning": "문법학자",
+      "note": "문장에서 전문적인 역할이나 지위를 나타내는 단어입니다.",
+      "sentenceIds": [
+        9,
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unfortunately",
+      "meaning": "불행히도",
+      "note": "예상치 못한 부정적인 상황을 표현하며, 상황의 아쉬움을 강조합니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "immobilized",
+      "meaning": "움직일 수 없는",
+      "note": "상황이 매우 제약적이고 자유로운 움직임이 불가능한 상태를 묘사합니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "friend",
+      "meaning": "친구",
+      "note": "대화 상대방을 지칭하며 친밀한 관계를 나타냅니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "pleasel",
+      "meaning": "기다려 주세요",
+      "note": "격식을 갖춘 부탁의 표현으로, 'please'와 'else'가 결합된 형태로 보이나, 문맥상 '잠시만 기다려 주세요'라는 의미로 해석됩니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "grammar",
+      "meaning": "문법",
+      "note": "문장에서 언어의 구조적 정확성을 의미합니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "diction",
+      "meaning": "표현",
+      "note": "사용하는 단어 선택과 표현 방식을 의미합니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "good",
+      "meaning": "충분히",
+      "note": "여기서는 '충분히 잘해서'라는 의미로 사용되어 요구의 수준을 나타냅니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "amend",
+      "meaning": "고치다, 수정하다",
+      "note": "문법과 표현의 오류를 수정하거나 고치라는 의미입니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "important",
+      "meaning": "중요한",
+      "note": "문장에서 강조되는 가치나 우선순위를 나타냅니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "essentials",
+      "meaning": "필수적인 것들",
+      "note": "필수적인 기본적인 요소들을 의미합니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "properly",
+      "meaning": "제대로",
+      "note": "정확하게 또는 적절하게 말하거나 행동하는 것을 의미합니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "went",
+      "meaning": "가다",
+      "note": "이 문맥에서는 「가다」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "way",
+      "meaning": "길",
+      "note": "여기서는 더 넓은 의미로 '방향'이나 '경로'를 의미하며, 개인의 진행 방향을 나타낸다.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3,
+      4,
+      5
+    ],
+    [
+      6,
+      7,
+      8
+    ],
+    [
+      9
+    ],
+    [
+      10,
+      11,
+      12
+    ],
+    [
+      13,
+      14
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-194/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "The problem of life is not philosophical, it is existential.",
+      "korean": "인생의 문제는 철학적인 것이 아니라 실존적인 것이다.",
+      "explanation": "인생의 어려움이나 고민은 추상적인 철학적 논의보다는 개인의 존재와 직결된 실질적인 문제라는 의미를 전달한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-194/02.mp3",
+      "vocabulary": [
+        {
+          "word": "philosophical",
+          "meaning": "철학적인",
+          "note": "이론적이고 추상적인 사고 방식을 의미한다."
+        },
+        {
+          "word": "existential",
+          "meaning": "실존적인",
+          "note": "개인의 존재와 관련된 실질적인 문제나 경험을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "You cannot solve it from the outside; you cannot just be a spectator of it - you are in it, you are it.",
+      "korean": "외부에서 해결할 수 없어; 그저 방관자일 수 없어 - 너는 그 안에 있고, 그것이 바로 너야.",
+      "explanation": "문제나 상황에 직접적으로 참여하고 관여해야 한다는 의미",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-194/03.mp3",
+      "vocabulary": [
+        {
+          "word": "outside",
+          "meaning": "외부",
+          "note": "문제나 상황에서 분리되어 있다는 의미"
+        },
+        {
+          "word": "spectator",
+          "meaning": "관객",
+          "note": "문제나 상황을 단순히 관찰하거나 참여하지 않는 상태를 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "And moreover, what is philosophy?",
+      "korean": "철학이란 무엇인가?",
+      "explanation": "철학의 본질이나 정의에 대한 질문",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-194/04.mp3",
+      "vocabulary": [
+        {
+          "word": "philosophy",
+          "meaning": "철학",
+          "note": "지식, 가치, 실재에 대한 체계적인 연구와 탐구를 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "At the worst a linguistic misunderstanding, or at best a linguistic analysis.",
+      "korean": "최악의 경우 언어적 오해이고, 최선의 경우 언어 분석이다.",
+      "explanation": "문장은 철학의 정의를 탐구하면서 언어적 오해나 최선의 경우에는 언어를 깊이 분석하는 것에 대해 언급하고 있다.",
+      "grammar": "명사 「misunderstanding」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1971-194/05.mp3",
+      "vocabulary": [
+        {
+          "word": "linguistic",
+          "meaning": "언어의",
+          "note": "문장에서 언어와 관련된 개념이나 분석을 지칭한다."
+        },
+        {
+          "word": "misunderstanding",
+          "meaning": "오해",
+          "note": "언어적 소통에서 발생할 수 있는 잘못된 해석이나 혼동을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "And even at its best it leads nowhere because the problem is existential and it cannot be solved through language analysis and grammar.",
+      "korean": "그리고 최선의 경우에도 해결책이 없는데, 왜냐하면 그 문제는 존재론적이며 언어 분석과 문법으로는 해결될 수 없기 때문이야.",
+      "explanation": "문장은 언어 분석이나 문법으로는 해결할 수 없는 근본적인 존재론적 문제에 대해 이야기하고 있으며, 심지어 최선의 경우에도 해결책이 없다는 점을 강조하고 있다.",
+      "grammar": "동사 「leads」는 lead의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-194/06.mp3",
+      "vocabulary": [
+        {
+          "word": "existential",
+          "meaning": "존재론적인",
+          "note": "문제의 본질이 개인의 존재와 관련되어 있다는 의미"
+        },
+        {
+          "word": "language",
+          "meaning": "언어",
+          "note": "문제 해결을 위한 수단으로 언급된 언어 자체를 의미"
+        },
+        {
+          "word": "analysis",
+          "meaning": "분석",
+          "note": "언어를 통해 문제를 이해하려는 시도를 의미"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "One dark night a dervish was passing a dry well when he heard a cry for help from below.",
+      "korean": "한 어두운 밤에 수도사가 마른 우물을 지나가던 중 아래에서 도움을 청하는 소리를 들었다.",
+      "explanation": "수도사가 밤에 우물을 지나가던 중 지하에서 도움을 요청하는 소리를 듣는 상황을 묘사한다.",
+      "grammar": "「was passing」는 be동사 + -ing로 만든 과거진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+      "audio": "audio/1971-194/07.mp3",
+      "vocabulary": [
+        {
+          "word": "dervish",
+          "meaning": "수도사",
+          "note": "종교적 수행을 하는 이슬람교의 종파 중 하나의 수행자를 의미한다."
+        },
+        {
+          "word": "passing",
+          "meaning": "지나가던",
+          "note": "이 문맥에서는 「지나가던」의 뜻으로 읽습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "What is the matter? he called down.",
+      "korean": "무슨 일인가요? 하고 그는 아래로 불렀어요.",
+      "explanation": "해인이 도움을 청하는 소리를 듣고 상황을 파악하려는 질문과 그 질문을 외치는 행동을 묘사합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-194/08.mp3",
+      "vocabulary": [
+        {
+          "word": "matter",
+          "meaning": "문제, 사안",
+          "note": "여기서는 도움이 필요한 상황이나 문제에 대한 질문을 의미합니다."
+        },
+        {
+          "word": "called",
+          "meaning": "부르다",
+          "note": "상황을 파악하기 위해 아래로 소리쳐 질문하는 행동을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "I am a grammarian, and I have unfortunately fallen, due to my ignorance of the path, into this deep well, in which I am now all but immobilized, responded the other.",
+      "korean": "나는 문법학자인데, 길을 잘못 이해해서 이 깊은 우물에 빠지고 말았어요. 지금은 거의 움직일 수 없어요, 라고 다른 사람이 답했어요.",
+      "explanation": "문법학자가 길을 잘못 이해하여 깊은 우물에 빠졌고, 현재 거의 움직일 수 없는 상황을 설명하는 문장입니다.",
+      "grammar": "「am」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-194/09.mp3",
+      "vocabulary": [
+        {
+          "word": "grammarian",
+          "meaning": "문법학자",
+          "note": "문장에서 전문적인 역할이나 지위를 나타내는 단어입니다."
+        },
+        {
+          "word": "unfortunately",
+          "meaning": "불행히도",
+          "note": "예상치 못한 부정적인 상황을 표현하며, 상황의 아쉬움을 강조합니다."
+        },
+        {
+          "word": "immobilized",
+          "meaning": "움직일 수 없는",
+          "note": "상황이 매우 제약적이고 자유로운 움직임이 불가능한 상태를 묘사합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "Hold on, friend, and I'll fetch a ladder and a rope, said the dervish.",
+      "korean": "친구여, 기다려 주십시오. 사다리와 밧줄을 가져올게요, 라고 수도사가 말했습니다.",
+      "explanation": "수도사가 친구에게 도움을 주기 위해 필요한 도구를 가져오겠다고 약속하는 내용입니다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-194/10.mp3",
+      "vocabulary": [
+        {
+          "word": "friend",
+          "meaning": "친구",
+          "note": "대화 상대방을 지칭하며 친밀한 관계를 나타냅니다."
+        },
+        {
+          "word": "dervish",
+          "meaning": "수도사",
+          "note": "종교적 수행을 하는 사람을 의미하며, 이 문맥에서는 도움을 주는 역할을 합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "One moment pleasel said the grammarian.",
+      "korean": "잠시만 기다려 주세요, 선생님이 말씀하셨습니다.",
+      "explanation": "잠시만 기다려 달라는 요청과 함께 누군가(여기서는 문법학자)가 말하는 상황을 설명합니다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-194/11.mp3",
+      "vocabulary": [
+        {
+          "word": "pleasel",
+          "meaning": "기다려 주세요",
+          "note": "격식을 갖춘 부탁의 표현으로, 'please'와 'else'가 결합된 형태로 보이나, 문맥상 '잠시만 기다려 주세요'라는 의미로 해석됩니다."
+        },
+        {
+          "word": "grammarian",
+          "meaning": "문법학자",
+          "note": "문법에 대해 연구하거나 가르치는 사람을 지칭합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "Your grammar and diction are faulty.",
+      "korean": "당신의 문법과 표현이 잘못되었습니다.",
+      "explanation": "문장은 상대방의 언어 사용에 대한 비판을 전달합니다. 문법적 오류와 표현 방식에 문제가 있음을 지적하고 있습니다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-194/12.mp3",
+      "vocabulary": [
+        {
+          "word": "grammar",
+          "meaning": "문법",
+          "note": "문장에서 언어의 구조적 정확성을 의미합니다."
+        },
+        {
+          "word": "diction",
+          "meaning": "표현",
+          "note": "사용하는 단어 선택과 표현 방식을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "Be good enough to amend them.",
+      "korean": "그 오류를 고쳐주세요.",
+      "explanation": "문장의 의미는 문법과 표현이 잘못되었으니 그것들을 고치라는 요청입니다.",
+      "grammar": "동사원형 「Be」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-194/13.mp3",
+      "vocabulary": [
+        {
+          "word": "good",
+          "meaning": "충분히",
+          "note": "여기서는 '충분히 잘해서'라는 의미로 사용되어 요구의 수준을 나타냅니다."
+        },
+        {
+          "word": "amend",
+          "meaning": "고치다, 수정하다",
+          "note": "문법과 표현의 오류를 수정하거나 고치라는 의미입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "If that is so much more important than the essentials, shouted the dervish, you had best stay where you are until I have learned to speak properly.",
+      "korean": "만약 그것이 필수보다 훨씬 중요하다면, 도사가 외쳤다, 너는 제대로 말하는 법을 배울 때까지 여기에 머무르는 것이 가장 좋을 것이다.",
+      "explanation": "도사가 말하길, 어떤 것이 필수적인 것보다 훨씬 중요하다면, 제대로 말하는 법을 배우기 전까지는 그곳에 머무르는 것이 현명하다는 내용입니다.",
+      "grammar": "동사 「shouted」는 shout의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-194/14.mp3",
+      "vocabulary": [
+        {
+          "word": "important",
+          "meaning": "중요한",
+          "note": "문장에서 강조되는 가치나 우선순위를 나타냅니다."
+        },
+        {
+          "word": "essentials",
+          "meaning": "필수적인 것들",
+          "note": "필수적인 기본적인 요소들을 의미합니다."
+        },
+        {
+          "word": "properly",
+          "meaning": "제대로",
+          "note": "정확하게 또는 적절하게 말하거나 행동하는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "And he went his way.",
+      "korean": "그는 자신의 길을 갔다.",
+      "explanation": "그는 자신의 방향이나 경로를 따라 떠났다.",
+      "grammar": "동사 「went」는 go의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-194/15.mp3",
+      "vocabulary": [
+        {
+          "word": "went",
+          "meaning": "가다",
+          "note": "이 문맥에서는 「가다」의 뜻으로 읽습니다."
+        },
+        {
+          "word": "way",
+          "meaning": "길",
+          "note": "여기서는 더 넓은 의미로 '방향'이나 '경로'를 의미하며, 개인의 진행 방향을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "인생의 문제는 철학적인 것이 아니라 실존적인 것이다.",
+    "외부에서 해결할 수 없어; 그저 방관자일 수 없어 - 너는 그 안에 있고, 그것이 바로 너야.",
+    "철학이란 무엇인가? 최악의 경우 언어적 오해이고, 최선의 경우 언어 분석이다. 그리고 최선의 경우에도 해결책이 없는데, 왜냐하면 그 문제는 존재론적이며 언어 분석과 문법으로는 해결될 수 없기 때문이야.",
+    "한 어두운 밤에 수도사가 마른 우물을 지나가던 중 아래에서 도움을 청하는 소리를 들었다. 무슨 일인가요? 하고 그는 아래로 불렀어요. 나는 문법학자인데, 길을 잘못 이해해서 이 깊은 우물에 빠지고 말았어요. 지금은 거의 움직일 수 없어요, 라고 다른 사람이 답했어요.",
+    "친구여, 기다려 주십시오. 사다리와 밧줄을 가져올게요, 라고 수도사가 말했습니다.",
+    "잠시만 기다려 주세요, 선생님이 말씀하셨습니다. 당신의 문법과 표현이 잘못되었습니다. 그 오류를 고쳐주세요.",
+    "만약 그것이 필수보다 훨씬 중요하다면, 도사가 외쳤다, 너는 제대로 말하는 법을 배울 때까지 여기에 머무르는 것이 가장 좋을 것이다. 그는 자신의 길을 갔다."
+  ],
+  "fullAudio": "audio/1971-194/script_all.mp3",
+  "originalText": "Love.\n\nThe problem of life is not philosophical,\nit is existential.\n\nYou cannot solve it from the outside;\nyou cannot just be a spectator of it -\nyou are in it, you are it.\n\nAnd moreover, what is philosophy?\nAt the worst a linguistic misunderstanding,\nor at best a linguistic analysis.\nAnd even at its best it leads nowhere\nbecause the problem is existential\nand it cannot be solved through\nlanguage analysis and grammar.\n\nOne dark night a dervish was passing a dry well\nwhen he heard a cry for help from below.\nWhat is the matter? he called down.\nI am a grammarian,\nand I have unfortunately fallen,\ndue to my ignorance of the path, into this deep well,\nin which I am now all but immobilized,\nresponded the other.\n\nHold on, friend, and I'll fetch a ladder and a rope,\nsaid the dervish.\n\nOne moment pleasel said the grammarian.\nYour grammar and diction are faulty.\nBe good enough to amend them.\n\nIf that is so much more important than the essentials,\nshouted the dervish, you had best stay where you are\nuntil I have learned to speak properly.\nAnd he went his way.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 194,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0851 2.JPG",
+        "side": "left",
+        "printedPage": 152
+      },
+      {
+        "file": "IMG_0851 2.JPG",
+        "side": "right",
+        "printedPage": 153
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

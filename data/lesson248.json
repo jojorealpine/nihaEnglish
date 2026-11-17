@@ -1,0 +1,332 @@
+{
+  "id": "1971-248",
+  "title": "1971 / 248",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "madness",
+      "meaning": "광기",
+      "note": "정신적 혼란이나 비합리적인 행동 상태를 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "rationalizations",
+      "meaning": "합리화",
+      "note": "비합리적인 행동이나 상태를 합리적으로 설명하려는 시도를 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "consistencies",
+      "meaning": "일관성",
+      "note": "내부적으로 논리적이고 일관된 구조나 패턴을 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "throwing",
+      "meaning": "던지다",
+      "note": "부스러기를 손으로 집어서 던지는 동작을 나타낸다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "handfuls",
+      "meaning": "한 줌",
+      "note": "부스러기를 손으로 잡을 수 있는 양을 의미한다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "asked",
+      "meaning": "질문하다",
+      "note": "직접적인 질문을 통해 상황에 대한 관심이나 우려를 표현합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "someone",
+      "meaning": "누군가",
+      "note": "구체적인 인물이 아닌 일반적인 사람을 지칭합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "him",
+      "meaning": "그를",
+      "note": "질문을 던지는 대상인 혼란스러운 행동을 하는 사람을 가리킵니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "elephants",
+      "meaning": "코끼리",
+      "note": "문장에서 주요 대상으로 언급된 동물.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "answered",
+      "meaning": "답했다",
+      "note": "그가 질문에 대한 반응을 표현한 동사.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "effective",
+      "meaning": "효과적인",
+      "note": "방법이나 조치가 원하는 결과를 잘 이끌어내는 것을 의미함",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "declared",
+      "meaning": "선언하다",
+      "note": "강력하게 주장하거나 선언하는 행위를 나타냄",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-248/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Logic is not all; nor is consistency; because even madness has its own methods, rationalizations and inner consistencies.",
+      "korean": "이성만이 전부가 아니며 일관성도 전부가 아니다. 광기에도 그 자체의 방법과 합리화, 내면의 일관성이 존재하기 때문이다.",
+      "explanation": "이성과 일관성만이 가치 있는 것이 아니라, 광기 역시 독특한 체계와 합리성을 가질 수 있다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-248/02.mp3",
+      "vocabulary": [
+        {
+          "word": "madness",
+          "meaning": "광기",
+          "note": "정신적 혼란이나 비합리적인 행동 상태를 의미합니다."
+        },
+        {
+          "word": "rationalizations",
+          "meaning": "합리화",
+          "note": "비합리적인 행동이나 상태를 합리적으로 설명하려는 시도를 의미합니다."
+        },
+        {
+          "word": "consistencies",
+          "meaning": "일관성",
+          "note": "내부적으로 논리적이고 일관된 구조나 패턴을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "A madman was throwing handfuls of crumbs around his house.",
+      "korean": "그 미친 사람은 집 안 곳곳에 부스러기를 던지고 있었다.",
+      "explanation": "미친 사람이 집 안에서 부스러기를 던지는 행동을 묘사하고 있다.",
+      "grammar": "「was throwing」는 be동사 + -ing로 만든 과거진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+      "audio": "audio/1971-248/03.mp3",
+      "vocabulary": [
+        {
+          "word": "throwing",
+          "meaning": "던지다",
+          "note": "부스러기를 손으로 집어서 던지는 동작을 나타낸다."
+        },
+        {
+          "word": "handfuls",
+          "meaning": "한 줌",
+          "note": "부스러기를 손으로 잡을 수 있는 양을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "What are you doing? someone asked him.",
+      "korean": "누군가가 그에게 물었다, '무엇을 하고 있니?'",
+      "explanation": "누군가가 혼란스러운 행동을 하는 사람에게 질문을 던지는 상황을 묘사합니다.",
+      "grammar": "「are you doing」는 be동사 + -ing로 만든 현재진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+      "audio": "audio/1971-248/04.mp3",
+      "vocabulary": [
+        {
+          "word": "asked",
+          "meaning": "질문하다",
+          "note": "직접적인 질문을 통해 상황에 대한 관심이나 우려를 표현합니다."
+        },
+        {
+          "word": "someone",
+          "meaning": "누군가",
+          "note": "구체적인 인물이 아닌 일반적인 사람을 지칭합니다."
+        },
+        {
+          "word": "him",
+          "meaning": "그를",
+          "note": "질문을 던지는 대상인 혼란스러운 행동을 하는 사람을 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Keeping the elephants away, he answered But there are no elephants in these parts, said the enquirer.",
+      "korean": "코끼리를 쫓아내려고 한다고 답했지만, 질문자는 이 지역에는 코끼리가 없다고 했다.",
+      "explanation": "그는 코끼리를 쫓아내는 행동을 하고 있었지만, 질문자는 그 지역에 실제로 코끼리가 없다는 것을 지적했다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-248/05.mp3",
+      "vocabulary": [
+        {
+          "word": "elephants",
+          "meaning": "코끼리",
+          "note": "문장에서 주요 대상으로 언급된 동물."
+        },
+        {
+          "word": "answered",
+          "meaning": "답했다",
+          "note": "그가 질문에 대한 반응을 표현한 동사."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "That's right - my method is effective, isn't it? declared the madman.",
+      "korean": "그는 광기 어린 목소리로 말했다, '맞아, 내 방법이 효과적이지 않니?'",
+      "explanation": "광기 어린 사람이 자신의 방법이 효과적임을 주장하며 말하는 내용",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-248/06.mp3",
+      "vocabulary": [
+        {
+          "word": "effective",
+          "meaning": "효과적인",
+          "note": "방법이나 조치가 원하는 결과를 잘 이끌어내는 것을 의미함"
+        },
+        {
+          "word": "declared",
+          "meaning": "선언하다",
+          "note": "강력하게 주장하거나 선언하는 행위를 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "이성만이 전부가 아니며 일관성도 전부가 아니다. 광기에도 그 자체의 방법과 합리화, 내면의 일관성이 존재하기 때문이다.",
+    "그 미친 사람은 집 안 곳곳에 부스러기를 던지고 있었다. 누군가가 그에게 물었다, '무엇을 하고 있니?' 코끼리를 쫓아내려고 한다고 답했지만, 질문자는 이 지역에는 코끼리가 없다고 했다. 그는 광기 어린 목소리로 말했다, '맞아, 내 방법이 효과적이지 않니?'"
+  ],
+  "fullAudio": "audio/1971-248/script_all.mp3",
+  "originalText": "Love.\n\nLogic is not all;\nnor is consistency;\nbecause even madness has its own methods,\nrationalizations and inner consistencies.\n\nA madman was throwing handfuls\nof crumbs around his house.\nWhat are you doing? someone asked him.\nKeeping the elephants away, he answered\nBut there are no elephants in these parts,\nsaid the enquirer.\nThat's right - my method is effective, isn't it?\ndeclared the madman.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 248,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0873 2.JPG",
+        "side": "right",
+        "printedPage": 197
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

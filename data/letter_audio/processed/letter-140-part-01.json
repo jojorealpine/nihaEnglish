@@ -1,0 +1,79 @@
+{
+  "key": "letter-140-part-01",
+  "number": 140,
+  "generationId": "01a1e6cf-150b-7019-a912-506a8ca4b238",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-140/01.mp3",
+      "start": 0.0,
+      "end": 0.764308
+    },
+    {
+      "index": 1,
+      "text": "The meaning of sadhana is to enter into ones own nature, to live in it, to be it.",
+      "path": "audio/1970-140/02.mp3",
+      "start": 2.2373019999999997,
+      "end": 7.058571
+    },
+    {
+      "index": 2,
+      "text": "One must therefore know what is not one's nature so as to be aware what one wants to be free of.",
+      "path": "audio/1970-140/03.mp3",
+      "start": 8.474649000000001,
+      "end": 13.603107
+    },
+    {
+      "index": 3,
+      "text": "Recognizing it becomes freedom from it.",
+      "path": "audio/1970-140/04.mp3",
+      "start": 15.282018,
+      "end": 17.643016
+    },
+    {
+      "index": 4,
+      "text": "A disciple of Bankei asked him: I become overwhelmed by anger.",
+      "path": "audio/1970-140/05.mp3",
+      "start": 19.009683,
+      "end": 23.475102
+    },
+    {
+      "index": 5,
+      "text": "I want to be rid of it but I cannot be.",
+      "path": "audio/1970-140/06.mp3",
+      "start": 24.811315,
+      "end": 27.010567
+    },
+    {
+      "index": 6,
+      "text": "What shall I do?",
+      "path": "audio/1970-140/07.mp3",
+      "start": 28.370907,
+      "end": 29.353492
+    },
+    {
+      "index": 7,
+      "text": "Bankei did not say a word, just stared deep into the eyes of the disciple, who began to sweat in those few heavy minutes of silence.",
+      "path": "audio/1970-140/08.mp3",
+      "start": 30.810771,
+      "end": 37.738957
+    },
+    {
+      "index": 8,
+      "text": "He wanted to break the silence but couldn't gather the courage.",
+      "path": "audio/1970-140/09.mp3",
+      "start": 39.39161,
+      "end": 42.552585
+    },
+    {
+      "index": 9,
+      "text": "Then Bankei laughed and said: It's strange!",
+      "path": "audio/1970-140/10.mp3",
+      "start": 44.054422,
+      "end": 47.23
+    }
+  ]
+}

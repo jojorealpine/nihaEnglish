@@ -1,0 +1,181 @@
+{
+  "sourceHash": "17ee9c6c4751ba8a83402396e359c57130d1ae5ac6c7a38547f3feb3a30bacbf",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "무슬림들은 무덤 속에 있다.",
+        "explanation": "무슬림들이 죽음 이후의 세계나 역사적으로 중요한 인물들의 무덤과 연관되어 있다는 의미를 담고 있다.",
+        "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "Muslims",
+            "meaning": "이슬람교도들",
+            "note": "종교적 집단을 지칭하며, 이 문맥에서는 특정한 의미나 상황에 따라 해석될 수 있다."
+          },
+          {
+            "word": "tombs",
+            "meaning": "무덤",
+            "note": "죽음과 관련된 장소를 지칭하며, 이 문장에서는 무슬림들이 역사적 또는 상징적으로 죽음 이후의 세계와 연결되어 있다는 뉘앙스를 전달한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "passive",
+      "notes": {
+        "korean": "그는 말하기를, 이슬람은 책에 있고 무슬림은..., 라고 전해졌습니다.",
+        "explanation": "해설: Hasan of Basra가 이슬람과 무슬림에 대해 설명한 내용을 전달하는 문장입니다.",
+        "grammar": "「is reported」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "reported",
+            "meaning": "전해지다",
+            "note": "다른 사람의 말이나 행동을 간접적으로 전달하는 의미입니다."
+          },
+          {
+            "word": "books",
+            "meaning": "책",
+            "note": "이슬람의 핵심이 경전이나 가르침에 있다는 의미를 담고 있습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "passive",
+      "notes": {
+        "korean": "바스라의 하산에게 이슬람과 무슬림은 무엇인가에 대해 물었다.",
+        "explanation": "누군가가 이슬람과 무슬림의 정의를 묻는 상황을 설명한다.",
+        "grammar": "「was asked」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "asked",
+            "meaning": "묻다",
+            "note": "질문을 던지는 행위를 나타낸다."
+          },
+          {
+            "word": "Hasan",
+            "meaning": "하산 (이름)",
+            "note": "특정 인물의 이름이다."
+          },
+          {
+            "word": "Basra",
+            "meaning": "바스라 (장소)",
+            "note": "특정 도시의 이름이다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "종교는 체험이기 때문에 다른 사람에게 전달할 수 없다.",
+        "explanation": "종교는 단순히 가르침이나 교리로 전달되는 것이 아니라 개인의 내면적인 체험을 통해 이해되어야 한다는 의미입니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "Religion",
+            "meaning": "종교",
+            "note": "신앙 체계나 신성한 가치에 대한 체계적인 믿음과 실천을 의미합니다."
+          },
+          {
+            "word": "experience",
+            "meaning": "체험",
+            "note": "개인이 직접 느끼고 체험하는 것을 의미하며, 이 경우 종교적 깨달음이나 내면적 성장과 같은 깊은 이해를 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "have-to",
+      "notes": {
+        "korean": "다른 여행자의 흔적도 없이 혼자서 길을 걸어가야 한다.",
+        "explanation": "종교적 경험이나 수행의 길은 다른 사람의 도움 없이도 스스로 개척해야 한다는 의미입니다.",
+        "grammar": "「has to travel」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "footprints",
+            "meaning": "발자국",
+            "note": "다른 사람이 지나간 흔적을 의미하며, 여기서는 다른 사람의 도움이나 영향을 상징합니다."
+          },
+          {
+            "word": "travellers",
+            "meaning": "여행자",
+            "note": "다른 사람들을 의미하며, 이 문맥에서는 다른 사람의 도움이나 안내를 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "bound-to",
+      "notes": {
+        "korean": "종교적 경험의 전통은 본질적으로 거짓일 수밖에 없다.",
+        "explanation": "종교적 경험의 전통은 그 본질 때문에 반드시 거짓일 수밖에 없다는 의미입니다.",
+        "grammar": "「are bound to be」는 be bound to + 동사원형의 구조로, 어떤 일이 반드시 일어나리라는 강한 확신을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "traditions",
+            "meaning": "전통",
+            "note": "특정 종교나 문화에서 전해 내려오는 관습이나 관행을 의미합니다."
+          },
+          {
+            "word": "religious",
+            "meaning": "종교적",
+            "note": "신과 관련된, 신앙이나 의식과 관련된 것을 가리킵니다."
+          },
+          {
+            "word": "experience",
+            "meaning": "경험",
+            "note": "개인이 직접 느끼거나 체험하는 것을 의미하며, 이 문맥에서는 종교적 체험을 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

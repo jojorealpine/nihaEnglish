@@ -1,0 +1,65 @@
+{
+  "key": "letter-291-part-01",
+  "number": 291,
+  "generationId": "01a1e903-b68c-734b-80fd-16dcdc5a4d23",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-291/01.mp3",
+      "start": 0.0,
+      "end": 0.707029
+    },
+    {
+      "index": 1,
+      "text": "You cannot run away from the self because you are the self - how can you run away from it?",
+      "path": "audio/1971-291/02.mp3",
+      "start": 1.9393880000000001,
+      "end": 6.365646
+    },
+    {
+      "index": 2,
+      "text": "It is like running from one's own shadow: all your efforts are bound to be futile.",
+      "path": "audio/1971-291/03.mp3",
+      "start": 7.569456,
+      "end": 11.943401
+    },
+    {
+      "index": 3,
+      "text": "Rather, stop and see it, witness it, be aware of it.",
+      "path": "audio/1971-291/04.mp3",
+      "start": 13.119252000000001,
+      "end": 16.836417
+    },
+    {
+      "index": 4,
+      "text": "Face the shadow and then - where is it?",
+      "path": "audio/1971-291/05.mp3",
+      "start": 18.068027,
+      "end": 20.798277000000002
+    },
+    {
+      "index": 5,
+      "text": "It has never been, really.",
+      "path": "audio/1971-291/06.mp3",
+      "start": 22.387459999999997,
+      "end": 23.897302
+    },
+    {
+      "index": 6,
+      "text": "You created it by not facing it and you strengthened it by running from it.",
+      "path": "audio/1971-291/07.mp3",
+      "start": 25.487664,
+      "end": 31.799297
+    },
+    {
+      "index": 7,
+      "text": "Is it not time now to stop the game?",
+      "path": "audio/1971-291/08.mp3",
+      "start": 33.32771,
+      "end": 35.76
+    }
+  ]
+}

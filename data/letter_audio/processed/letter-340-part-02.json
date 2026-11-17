@@ -1,0 +1,51 @@
+{
+  "key": "letter-340-part-02",
+  "number": 340,
+  "generationId": "01a1e913-afe5-7794-acf9-b846ef5afc15",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "The barriers have fallen from your mind and you have entered the meditative state.",
+      "path": "audio/1971-340/11.mp3",
+      "start": 0.0,
+      "end": 4.171406
+    },
+    {
+      "index": 11,
+      "text": "Now the doors of the divine are open.",
+      "path": "audio/1971-340/12.mp3",
+      "start": 5.452063,
+      "end": 7.912902
+    },
+    {
+      "index": 12,
+      "text": "Do not hesitate, and take the plunge.",
+      "path": "audio/1971-340/13.mp3",
+      "start": 9.172562000000001,
+      "end": 12.089048
+    },
+    {
+      "index": 13,
+      "text": "You are completely ready, just be courageous enough to enter the uncharted and the unknown.",
+      "path": "audio/1971-340/14.mp3",
+      "start": 13.425034,
+      "end": 19.185193
+    },
+    {
+      "index": 14,
+      "text": "The call from beyond has come - now accept the challenge and be fulfilled.",
+      "path": "audio/1971-340/15.mp3",
+      "start": 20.52619,
+      "end": 25.417324
+    },
+    {
+      "index": 15,
+      "text": "Now close your eyes and feel me and see me and let my blessings be showered on you.",
+      "path": "audio/1971-340/16.mp3",
+      "start": 26.936463,
+      "end": 32.37
+    }
+  ]
+}

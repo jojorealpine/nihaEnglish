@@ -1,0 +1,51 @@
+{
+  "key": "letter-138-part-01",
+  "number": 138,
+  "generationId": "01a1e6ce-93e2-723f-a8af-8524b417ea34",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-138/01.mp3",
+      "start": 0.0,
+      "end": 0.5948979999999999
+    },
+    {
+      "index": 1,
+      "text": "Ah, if the veena were outside you could hear its music, but it is inside and we do not hear it.",
+      "path": "audio/1970-138/02.mp3",
+      "start": 1.845465,
+      "end": 7.2655330000000005
+    },
+    {
+      "index": 2,
+      "text": "But we can become one with it.",
+      "path": "audio/1970-138/03.mp3",
+      "start": 8.599887,
+      "end": 10.290498999999999
+    },
+    {
+      "index": 3,
+      "text": "And how much is music worth that ends with listening?",
+      "path": "audio/1970-138/04.mp3",
+      "start": 11.645510000000002,
+      "end": 14.376553
+    },
+    {
+      "index": 4,
+      "text": "Ultimately the musician, the veena, the music, the listener are not separate.",
+      "path": "audio/1970-138/05.mp3",
+      "start": 15.733197,
+      "end": 20.240476
+    },
+    {
+      "index": 5,
+      "text": "Look inside, go within, and see who is waiting there for you.",
+      "path": "audio/1970-138/06.mp3",
+      "start": 21.822924999999998,
+      "end": 26.57
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "letter-331-part-01",
+  "number": 331,
+  "generationId": "01a1e910-80b5-7eb4-baad-76f3bad7cc49",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-331/01.mp3",
+      "start": 0.0,
+      "end": 0.493311
+    },
+    {
+      "index": 1,
+      "text": "Do not forget the search for the divine for even a single moment because the time is always short and the task is great, and besides, the mind is wavering.",
+      "path": "audio/1971-331/02.mp3",
+      "start": 1.8303630000000002,
+      "end": 10.883332999999999
+    },
+    {
+      "index": 2,
+      "text": "In fact the mind is the wavering.",
+      "path": "audio/1971-331/03.mp3",
+      "start": 12.190862000000001,
+      "end": 14.87356
+    },
+    {
+      "index": 3,
+      "text": "Remember this, and remain aware of this fact as much as you can",
+      "path": "audio/1971-331/04.mp3",
+      "start": 16.132789,
+      "end": 20.532993
+    },
+    {
+      "index": 4,
+      "text": "because the moment one is aware, the wavering stops, and in the intervals are the glimpses: glimpses of oneself, glimpses of no-mind.",
+      "path": "audio/1971-331/05.mp3",
+      "start": 21.675034,
+      "end": 31.727982
+    },
+    {
+      "index": 5,
+      "text": "One has to absolutely transcend the wavering of the mind before one comes to the doors of the beloved.",
+      "path": "audio/1971-331/06.mp3",
+      "start": 32.936508,
+      "end": 39.234218
+    },
+    {
+      "index": 6,
+      "text": "No-mindedness is the door.",
+      "path": "audio/1971-331/07.mp3",
+      "start": 40.756553000000004,
+      "end": 42.697098
+    },
+    {
+      "index": 7,
+      "text": "And the door is not far off.",
+      "path": "audio/1971-331/08.mp3",
+      "start": 44.198594,
+      "end": 46.155373999999995
+    },
+    {
+      "index": 8,
+      "text": "But the seeker is asleep.",
+      "path": "audio/1971-331/09.mp3",
+      "start": 47.738481,
+      "end": 49.961973
+    },
+    {
+      "index": 9,
+      "text": "Mind is the sleep.",
+      "path": "audio/1971-331/10.mp3",
+      "start": 51.585306,
+      "end": 53.76
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "key": "letter-042-part-02",
+  "number": 42,
+  "generationId": "01a1e4f0-1ab0-7d44-969f-1aff6834648e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Until we meet, keep in mind that:",
+      "path": "audio/1966-42/11.mp3",
+      "start": 0.0,
+      "end": 2.150522
+    },
+    {
+      "index": 11,
+      "text": "there should be no calculated ill-will towards sex - cultivated detachment is useless",
+      "path": "audio/1966-42/12.mp3",
+      "start": 3.502154,
+      "end": 10.1039
+    },
+    {
+      "index": 12,
+      "text": "Stay aware whilst making love, be a witness in this situation; if one can stay in a state of meditation and right-mindfulness then the sex energy can be successfully transformed.",
+      "path": "audio/1966-42/13.mp3",
+      "start": 11.356372,
+      "end": 24.238141000000002
+    },
+    {
+      "index": 13,
+      "text": "We shall talk more about this when we meet.",
+      "path": "audio/1966-42/14.mp3",
+      "start": 25.685488,
+      "end": 28.217256000000003
+    },
+    {
+      "index": 14,
+      "text": "Brahmacharya is a complete science in itself and many doors to bliss open on that path.",
+      "path": "audio/1966-42/15.mp3",
+      "start": 29.661361,
+      "end": 35.050498999999995
+    },
+    {
+      "index": 15,
+      "text": "Still, the very first thing is a friendly attitude towards all one's energies.",
+      "path": "audio/1966-42/16.mp3",
+      "start": 36.421293000000006,
+      "end": 41.498276999999995
+    },
+    {
+      "index": 16,
+      "text": "Enmity towards them does not lead to spiritual revolution but to self-destruction.",
+      "path": "audio/1966-42/17.mp3",
+      "start": 43.036848,
+      "end": 48.798209
+    },
+    {
+      "index": 17,
+      "text": "Give my regards to all there.",
+      "path": "audio/1966-42/18.mp3",
+      "start": 50.319388000000004,
+      "end": 52.415918
+    },
+    {
+      "index": 18,
+      "text": "You are not coming to Poona - I shall miss you.",
+      "path": "audio/1966-42/19.mp3",
+      "start": 53.877415,
+      "end": 57.91
+    }
+  ]
+}

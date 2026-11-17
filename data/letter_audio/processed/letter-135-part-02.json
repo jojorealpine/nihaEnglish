@@ -1,0 +1,37 @@
+{
+  "key": "letter-135-part-02",
+  "number": 135,
+  "generationId": "01a1e6cd-e19a-7b7b-a36a-b4250c891cea",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Before beginning he put a question to them: If you were asked to address a gathering of such intelligent boys and girls who expect a good lecture from you, and if you had nothing to speak on, what would you say?",
+      "path": "audio/1970-135/11.mp3",
+      "start": 0.0,
+      "end": 13.009341999999998
+    },
+    {
+      "index": 11,
+      "text": "A small child replied: I would keep quiet.",
+      "path": "audio/1970-135/12.mp3",
+      "start": 14.453107000000001,
+      "end": 18.062381000000002
+    },
+    {
+      "index": 12,
+      "text": "I would keep quiet.",
+      "path": "audio/1970-135/13.mp3",
+      "start": 19.5139,
+      "end": 20.852517000000002
+    },
+    {
+      "index": 13,
+      "text": "This child-like simplicity is needed to experiment with silence.",
+      "path": "audio/1970-135/14.mp3",
+      "start": 22.490907,
+      "end": 26.7
+    }
+  ]
+}

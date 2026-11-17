@@ -1,0 +1,51 @@
+{
+  "key": "letter-235-part-01",
+  "number": 235,
+  "generationId": "01a1e8f7-229a-78fa-b55b-95897f3a1162",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-235/01.mp3",
+      "start": 0.0,
+      "end": 0.53381
+    },
+    {
+      "index": 1,
+      "text": "Freedom from becoming means freedom for being.",
+      "path": "audio/1971-235/02.mp3",
+      "start": 1.8404760000000002,
+      "end": 4.371791
+    },
+    {
+      "index": 2,
+      "text": "Becoming is desiring, being is that which is.",
+      "path": "audio/1971-235/03.mp3",
+      "start": 5.5639,
+      "end": 8.398413
+    },
+    {
+      "index": 3,
+      "text": "Becoming is longing for the future, being is to be in the present.",
+      "path": "audio/1971-235/04.mp3",
+      "start": 9.664104,
+      "end": 13.457937
+    },
+    {
+      "index": 4,
+      "text": "Becoming is mental, being is existential That is why becoming must cease for the being to reveal itself.",
+      "path": "audio/1971-235/05.mp3",
+      "start": 14.687959000000001,
+      "end": 21.815283
+    },
+    {
+      "index": 5,
+      "text": "Becoming is just like the smoke around the flame, or just like the outer covering around the seed, so please let the smoke go for the flame to explode in its complete glory and splendor, and let the seed die to its outer shell so that it may be what it is in its innermost depth.",
+      "path": "audio/1971-235/06.mp3",
+      "start": 23.227687,
+      "end": 41.27
+    }
+  ]
+}

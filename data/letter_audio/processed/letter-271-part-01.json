@@ -1,0 +1,79 @@
+{
+  "key": "letter-271-part-01",
+  "number": 271,
+  "generationId": "01a1e8ff-3373-7dcc-8748-58cd614bd7f4",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-271/01.mp3",
+      "start": 0.0,
+      "end": 0.621859
+    },
+    {
+      "index": 1,
+      "text": "There are things which cannot be proved, and there is no evidence for them because they are self-evident.",
+      "path": "audio/1971-271/02.mp3",
+      "start": 2.125057,
+      "end": 8.004512
+    },
+    {
+      "index": 2,
+      "text": "To try to prove them is ridiculous, and the effort shows that one is not acquainted with them.",
+      "path": "audio/1971-271/03.mp3",
+      "start": 9.395896,
+      "end": 14.860612
+    },
+    {
+      "index": 3,
+      "text": "Such are all the proofs of God.",
+      "path": "audio/1971-271/04.mp3",
+      "start": 16.266893,
+      "end": 18.612902000000002
+    },
+    {
+      "index": 4,
+      "text": "Sitting one day in the teahouse Mulla Nasrudin heard the rhetoric of a traveling scholar -",
+      "path": "audio/1971-271/05.mp3",
+      "start": 20.009252,
+      "end": 25.779796
+    },
+    {
+      "index": 5,
+      "text": "he was arguing to prove the existence of God.",
+      "path": "audio/1971-271/06.mp3",
+      "start": 27.272018,
+      "end": 30.23941
+    },
+    {
+      "index": 6,
+      "text": "Questioned by one of the company on some point the scholar drew a book from his pocket and slammed it on the table: This is my evidence.",
+      "path": "audio/1971-271/07.mp3",
+      "start": 31.638005,
+      "end": 39.952085999999994
+    },
+    {
+      "index": 7,
+      "text": "And I wrote it myself!",
+      "path": "audio/1971-271/08.mp3",
+      "start": 41.449138000000005,
+      "end": 42.972426
+    },
+    {
+      "index": 8,
+      "text": "A man who could not only read but write was a rarity, and a man who had written a book...!",
+      "path": "audio/1971-271/09.mp3",
+      "start": 44.439728,
+      "end": 50.074262999999995
+    },
+    {
+      "index": 9,
+      "text": "The villagers treated the pundit with profound respect - and of course Mulla Nasrudin was impressed.",
+      "path": "audio/1971-271/10.mp3",
+      "start": 51.647279000000005,
+      "end": 58.12
+    }
+  ]
+}

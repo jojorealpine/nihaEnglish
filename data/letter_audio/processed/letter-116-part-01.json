@@ -1,0 +1,79 @@
+{
+  "key": "letter-116-part-01",
+  "number": 116,
+  "generationId": "01a1e671-81f4-7391-a751-5c9ee5897760",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-116/01.mp3",
+      "start": 0.0,
+      "end": 0.606168
+    },
+    {
+      "index": 1,
+      "text": "I am very glad to have received your letter.",
+      "path": "audio/1970-116/02.mp3",
+      "start": 1.8839679999999999,
+      "end": 4.0951699999999995
+    },
+    {
+      "index": 2,
+      "text": "Anxieties exist in life but there is no need to worry about them.",
+      "path": "audio/1970-116/03.mp3",
+      "start": 5.493197,
+      "end": 9.459432999999999
+    },
+    {
+      "index": 3,
+      "text": "Worrying stems not from the anxieties but from our attitude towards them.",
+      "path": "audio/1970-116/04.mp3",
+      "start": 10.757846,
+      "end": 14.976553
+    },
+    {
+      "index": 4,
+      "text": "To be anxious or not is always our open choice.",
+      "path": "audio/1970-116/05.mp3",
+      "start": 16.303061,
+      "end": 19.702472
+    },
+    {
+      "index": 5,
+      "text": "It is not that a non-anxious mind is free of anxieties - anxieties are there, they are an unavoidable part of life - but it does not burden itself with them.",
+      "path": "audio/1970-116/06.mp3",
+      "start": 21.025828,
+      "end": 31.128866000000002
+    },
+    {
+      "index": 6,
+      "text": "Such a person always sees beyond them; dark nights surround him too but his eyes look to the rising sun and therefore his soul is never drowned in darkness.",
+      "path": "audio/1970-116/07.mp3",
+      "start": 32.578753000000006,
+      "end": 42.833605
+    },
+    {
+      "index": 7,
+      "text": "And this alone is enough - that the soul not be drowned in darkness.",
+      "path": "audio/1970-116/08.mp3",
+      "start": 44.247528,
+      "end": 48.955147
+    },
+    {
+      "index": 8,
+      "text": "The body is bound to drown in it - in fact it already has.",
+      "path": "audio/1970-116/09.mp3",
+      "start": 50.241315,
+      "end": 55.051905
+    },
+    {
+      "index": 9,
+      "text": "Those who are condemned to die live their lives in darkness; only the deathless have their lives rooted in the light.",
+      "path": "audio/1970-116/10.mp3",
+      "start": 56.413311,
+      "end": 64.31
+    }
+  ]
+}

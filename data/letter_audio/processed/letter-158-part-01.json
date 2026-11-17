@@ -1,0 +1,79 @@
+{
+  "key": "letter-158-part-01",
+  "number": 158,
+  "generationId": "01a1e6f5-768e-79e0-a8a3-5ea1dec153eb",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-158/01.mp3",
+      "start": 0.0,
+      "end": 0.552245
+    },
+    {
+      "index": 1,
+      "text": "Don't be in haste.",
+      "path": "audio/1970-158/02.mp3",
+      "start": 1.6802489999999999,
+      "end": 2.7724040000000003
+    },
+    {
+      "index": 2,
+      "text": "Maintain patience.",
+      "path": "audio/1970-158/03.mp3",
+      "start": 4.284535,
+      "end": 5.523084
+    },
+    {
+      "index": 3,
+      "text": "Patience is a fertilizer for meditation.",
+      "path": "audio/1970-158/04.mp3",
+      "start": 6.721565,
+      "end": 9.15898
+    },
+    {
+      "index": 4,
+      "text": "Go on tending meditation, the fruit is bound to come, it always comes.",
+      "path": "audio/1970-158/05.mp3",
+      "start": 10.354717,
+      "end": 14.398639
+    },
+    {
+      "index": 5,
+      "text": "But, do not be anxious about the fruit.",
+      "path": "audio/1970-158/06.mp3",
+      "start": 15.611202,
+      "end": 17.30229
+    },
+    {
+      "index": 6,
+      "text": "Because such an anxiety itself becomes an obstacle for the fruit.",
+      "path": "audio/1970-158/07.mp3",
+      "start": 18.479456,
+      "end": 21.755261
+    },
+    {
+      "index": 7,
+      "text": "Because such a worry distracts the attention from meditation.",
+      "path": "audio/1970-158/08.mp3",
+      "start": 23.383719,
+      "end": 26.965828000000002
+    },
+    {
+      "index": 8,
+      "text": "Meditation requires total attention.",
+      "path": "audio/1970-158/09.mp3",
+      "start": 28.48127,
+      "end": 30.951315
+    },
+    {
+      "index": 9,
+      "text": "To be divided won't do.",
+      "path": "audio/1970-158/10.mp3",
+      "start": 32.473855,
+      "end": 34.27
+    }
+  ]
+}

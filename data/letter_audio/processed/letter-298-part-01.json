@@ -1,0 +1,58 @@
+{
+  "key": "letter-298-part-01",
+  "number": 298,
+  "generationId": "01a1e905-7e56-7fe2-b2c4-ea2d1add2903",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-298/01.mp3",
+      "start": 0.0,
+      "end": 0.726508
+    },
+    {
+      "index": 1,
+      "text": "To explore truth one must be free of one's prejudices - that is, from oneself.",
+      "path": "audio/1971-298/02.mp3",
+      "start": 2.01059,
+      "end": 7.027823
+    },
+    {
+      "index": 2,
+      "text": "Otherwise one goes round and round in circles, because the known can never be the door for the unknown; and the known is the mind so mind becomes the barrier.",
+      "path": "audio/1971-298/03.mp3",
+      "start": 8.290522000000001,
+      "end": 17.628503000000002
+    },
+    {
+      "index": 3,
+      "text": "Look attentively at this fact.",
+      "path": "audio/1971-298/04.mp3",
+      "start": 18.929206,
+      "end": 20.913673
+    },
+    {
+      "index": 4,
+      "text": "Be alert to the vicious circle of the mind - and then there is transcendence.",
+      "path": "audio/1971-298/05.mp3",
+      "start": 22.550248999999997,
+      "end": 27.485238000000003
+    },
+    {
+      "index": 5,
+      "text": "The known must cease for the unknown to be.",
+      "path": "audio/1971-298/06.mp3",
+      "start": 29.031882,
+      "end": 31.862585
+    },
+    {
+      "index": 6,
+      "text": "The known must go for the unknown to come in - and this cessation of the known is meditation.",
+      "path": "audio/1971-298/07.mp3",
+      "start": 33.376553,
+      "end": 40.07
+    }
+  ]
+}

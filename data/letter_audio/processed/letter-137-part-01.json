@@ -1,0 +1,65 @@
+{
+  "key": "letter-137-part-01",
+  "number": 137,
+  "generationId": "01a1e6ce-652e-75ea-a1a1-c2e0874ab55f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-137/01.mp3",
+      "start": 0.0,
+      "end": 0.670454
+    },
+    {
+      "index": 1,
+      "text": "Love does not discriminate even in dreams, and in that love which is prayer too, there are no distinctions at all.",
+      "path": "audio/1970-137/02.mp3",
+      "start": 2.1879139999999997,
+      "end": 8.601337999999998
+    },
+    {
+      "index": 2,
+      "text": "Now I am no more.",
+      "path": "audio/1970-137/03.mp3",
+      "start": 10.100748000000001,
+      "end": 11.316621
+    },
+    {
+      "index": 3,
+      "text": "The word I is simply a convenience and as such causes many difficulties.",
+      "path": "audio/1970-137/04.mp3",
+      "start": 12.697778000000001,
+      "end": 17.309546
+    },
+    {
+      "index": 4,
+      "text": "When the clouds of the I disappear nothing remains but love - love without cause, unconditional love.",
+      "path": "audio/1970-137/05.mp3",
+      "start": 18.739977,
+      "end": 24.840907
+    },
+    {
+      "index": 5,
+      "text": "Here I stand in the marketplace: who is ready to come and take it from me?",
+      "path": "audio/1970-137/06.mp3",
+      "start": 26.386916,
+      "end": 31.962880000000002
+    },
+    {
+      "index": 6,
+      "text": "Kabir stands in the marketplace, torch in hand.",
+      "path": "audio/1970-137/07.mp3",
+      "start": 33.510522,
+      "end": 36.769273999999996
+    },
+    {
+      "index": 7,
+      "text": "If you are ready to burn your house down, come with me.",
+      "path": "audio/1970-137/08.mp3",
+      "start": 38.244354,
+      "end": 41.46
+    }
+  ]
+}

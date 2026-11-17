@@ -1,0 +1,79 @@
+{
+  "key": "letter-283-part-01",
+  "number": 283,
+  "generationId": "01a1e901-958b-7897-a661-0fbf066a458c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-283/01.mp3",
+      "start": 0.0,
+      "end": 0.776712
+    },
+    {
+      "index": 1,
+      "text": "I know your inner condition more than you know it yourself because now your inner is not my outer.",
+      "path": "audio/1971-283/02.mp3",
+      "start": 2.150159,
+      "end": 8.136349
+    },
+    {
+      "index": 2,
+      "text": "Things that are happening to you unconsciously and even against your conscious will are good Welcome them and be grateful, because nothing divine can happen to you with your will, rather, your will is the only barrier.",
+      "path": "audio/1971-283/03.mp3",
+      "start": 9.701995,
+      "end": 23.520680000000002
+    },
+    {
+      "index": 3,
+      "text": "Say wholeheartedly: Thy will be done!",
+      "path": "audio/1971-283/04.mp3",
+      "start": 24.649183999999998,
+      "end": 27.442449
+    },
+    {
+      "index": 4,
+      "text": "And feel it and live it.",
+      "path": "audio/1971-283/05.mp3",
+      "start": 28.590159,
+      "end": 30.339161
+    },
+    {
+      "index": 5,
+      "text": "Come home soon, I am waiting for you, and much is waiting to happen to you also.",
+      "path": "audio/1971-283/06.mp3",
+      "start": 31.553832,
+      "end": 36.498253999999996
+    },
+    {
+      "index": 6,
+      "text": "I know you are skeptical.",
+      "path": "audio/1971-283/07.mp3",
+      "start": 37.626327,
+      "end": 39.213673
+    },
+    {
+      "index": 7,
+      "text": "That is not bad but a good beginning to start with.",
+      "path": "audio/1971-283/08.mp3",
+      "start": 40.779252,
+      "end": 44.159614999999995
+    },
+    {
+      "index": 8,
+      "text": "Wherever there is mind there is skepticism.",
+      "path": "audio/1971-283/09.mp3",
+      "start": 45.710091000000006,
+      "end": 48.815532999999995
+    },
+    {
+      "index": 9,
+      "text": "Mind is skepticism and therefore conflict.",
+      "path": "audio/1971-283/10.mp3",
+      "start": 50.233583,
+      "end": 53.81
+    }
+  ]
+}

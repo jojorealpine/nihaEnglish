@@ -1,0 +1,79 @@
+{
+  "key": "letter-127-part-01",
+  "number": 127,
+  "generationId": "01a1e6bf-d59e-7c23-8c70-0226669be073",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-127/01.mp3",
+      "start": 0.0,
+      "end": 0.6001810000000001
+    },
+    {
+      "index": 1,
+      "text": "I received your letter.",
+      "path": "audio/1970-127/02.mp3",
+      "start": 1.784014,
+      "end": 3.099297
+    },
+    {
+      "index": 2,
+      "text": "Don't be afraid of sexual desire because fear is the beginning of defeat.",
+      "path": "audio/1970-127/03.mp3",
+      "start": 4.459546,
+      "end": 8.907573999999999
+    },
+    {
+      "index": 3,
+      "text": "Accept it, it is and it has to be.",
+      "path": "audio/1970-127/04.mp3",
+      "start": 10.11542,
+      "end": 12.869955
+    },
+    {
+      "index": 4,
+      "text": "Of course, you must know it and recognize it, be aware of it, bring it out of the unconscious into the conscious mind You cannot do this if you condemn it because condemnation leads to repression and it is repression that pushes desires and emotions into the unconscious.",
+      "path": "audio/1970-127/05.mp3",
+      "start": 14.098413,
+      "end": 31.423923000000002
+    },
+    {
+      "index": 5,
+      "text": "Really, it is because of repression that the mind is divided into conscious and unconscious, and this division is at the root of all conflict.",
+      "path": "audio/1970-127/06.mp3",
+      "start": 32.895669000000005,
+      "end": 42.480453999999995
+    },
+    {
+      "index": 6,
+      "text": "It is this division that prevents man from being total - and without integration there is no way to peace, bliss and freedom.",
+      "path": "audio/1970-127/07.mp3",
+      "start": 43.785374000000004,
+      "end": 52.630249
+    },
+    {
+      "index": 7,
+      "text": "So meditate on sexual desire.",
+      "path": "audio/1970-127/08.mp3",
+      "start": 53.851247,
+      "end": 56.339546
+    },
+    {
+      "index": 8,
+      "text": "Whenever the desire arises, watch it mindfully.",
+      "path": "audio/1970-127/09.mp3",
+      "start": 57.857256,
+      "end": 61.510748
+    },
+    {
+      "index": 9,
+      "text": "Do not resist it, do not escape from it.",
+      "path": "audio/1970-127/10.mp3",
+      "start": 63.057007000000006,
+      "end": 66.22
+    }
+  ]
+}

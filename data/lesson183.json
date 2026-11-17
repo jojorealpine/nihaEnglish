@@ -1,0 +1,538 @@
+{
+  "id": "1971-183",
+  "title": "1971 / 183",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "forms",
+      "meaning": "형태, 종류",
+      "note": "여기서는 지식이 어떻게 분류되거나 표현될 수 있는지를 나타내는 다양한 방식을 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "knowledge",
+      "meaning": "지식",
+      "note": "학습이나 이해를 통해 얻은 정보나 이해의 범위를 의미합니다.",
+      "sentenceIds": [
+        2,
+        4,
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "intellectual",
+      "meaning": "지적인",
+      "note": "지식이나 사고와 관련된 능력이나 성질을 나타냄",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "information",
+      "meaning": "정보",
+      "note": "특정 사실이나 데이터를 전달하는 내용",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "collection",
+      "meaning": "모음",
+      "note": "여러 가지 것을 모아서 하나의 집합으로 만든 것",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "emotional",
+      "meaning": "감정적인",
+      "note": "감정이나 정서와 관련된 상태를 나타낸다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "transformation",
+      "meaning": "변형",
+      "note": "상태나 본질의 근본적인 변화를 나타낸다.",
+      "sentenceIds": [
+        4,
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "objective",
+      "meaning": "객관적인",
+      "note": "사실이나 정보를 개인의 감정이나 편견 없이 객관적으로 다루는 것을 의미한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "subjective",
+      "meaning": "주관적인",
+      "note": "개인의 감정, 견해, 경험에 기반한 주관적인 인식이나 이해를 나타낸다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "achieved",
+      "meaning": "도달하다",
+      "note": "명상을 통해 목표나 상태에 도달한다는 의미",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meditation",
+      "meaning": "명상",
+      "note": "의식을 집중시키고 내면을 탐구하는 정신적 연습",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "perception",
+      "meaning": "인식",
+      "note": "세상이나 내면을 이해하고 받아들이는 과정",
+      "sentenceIds": [
+        6,
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "projection",
+      "meaning": "투사",
+      "note": "자신의 생각이나 감정을 외부로 투사하거나 다른 사람에게 투영하는 것을 의미한다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "impossible",
+      "meaning": "불가능한",
+      "note": "어떤 일이 절대 이루어질 수 없다는 의미입니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "whatsoever",
+      "meaning": "무엇이든",
+      "note": "모든 것, 어떤 것이든 가리킵니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "free",
+      "meaning": "자유로운, 투사에서 벗어난",
+      "note": "여기서는 외부적인 편견이나 가정에서 자유로워져 순수한 상태를 유지하는 것을 의미한다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "projections",
+      "meaning": "투사",
+      "note": "자신의 생각이나 기대를 다른 대상에 투영하는 것을 의미하며, 이 문장에서는 편견이나 가정에서 벗어나는 것을 방해하는 요소로 해석된다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ripples",
+      "meaning": "파동, 흔들림",
+      "note": "의식 내에서 일어나는 생각과 감정의 불안정한 움직임을 비유적으로 표현합니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "consciousness",
+      "meaning": "의식",
+      "note": "개인이 자신의 생각, 감정, 경험을 인지하는 상태를 의미합니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "religion",
+      "meaning": "종교",
+      "note": "특정 신념 체계나 신성한 의식을 통해 영적 지침과 가치를 추구하는 체계",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-183/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "There are three forms of knowledge.",
+      "korean": "지식에는 세 가지 형태가 있습니다.",
+      "explanation": "문장은 지식의 다양한 측면이나 표현 방식이 세 가지로 구분될 수 있음을 설명합니다.",
+      "grammar": "「There are」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 are는 be동사의 현재형입니다.",
+      "audio": "audio/1971-183/02.mp3",
+      "vocabulary": [
+        {
+          "word": "forms",
+          "meaning": "형태, 종류",
+          "note": "여기서는 지식이 어떻게 분류되거나 표현될 수 있는지를 나타내는 다양한 방식을 의미합니다."
+        },
+        {
+          "word": "knowledge",
+          "meaning": "지식",
+          "note": "학습이나 이해를 통해 얻은 정보나 이해의 범위를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "The first is intellectual knowledge, which is in fact not knowledge but only information and the collection of facts and the use of these to arrive at further intellectual concepts.",
+      "korean": "첫 번째는 지적인 지식으로, 사실은 정보와 사실들의 모음 및 이를 활용해 더 깊은 지적 개념을 도출하는 과정에 불과하다.",
+      "explanation": "지적인 지식이 단순히 정보와 사실들의 집합과 그 활용법에 불과하다는 설명",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-183/03.mp3",
+      "vocabulary": [
+        {
+          "word": "intellectual",
+          "meaning": "지적인",
+          "note": "지식이나 사고와 관련된 능력이나 성질을 나타냄"
+        },
+        {
+          "word": "information",
+          "meaning": "정보",
+          "note": "특정 사실이나 데이터를 전달하는 내용"
+        },
+        {
+          "word": "collection",
+          "meaning": "모음",
+          "note": "여러 가지 것을 모아서 하나의 집합으로 만든 것"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "The second is emotional knowledge, which is also not really knowledge but the mental state in which man feels he has known something, but there is no transformation or mutation of his being.",
+      "korean": "두 번째는 감정적인 인식으로, 진정한 지식이라기보다는 사람이 무언가를 알았다고 느끼는 정신 상태이지만, 존재의 변화나 변형은 없다.",
+      "explanation": "문장은 감정적 인식이 진정한 지식이 아닌, 개인의 인식 상태를 설명하며, 그러한 인식이 개인의 본질적인 변화를 가져오지 않는다는 점을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-183/04.mp3",
+      "vocabulary": [
+        {
+          "word": "emotional",
+          "meaning": "감정적인",
+          "note": "감정이나 정서와 관련된 상태를 나타낸다."
+        },
+        {
+          "word": "knowledge",
+          "meaning": "지식",
+          "note": "정보나 사실을 통해 얻어진 이해나 인식을 의미한다."
+        },
+        {
+          "word": "transformation",
+          "meaning": "변형",
+          "note": "상태나 본질의 근본적인 변화를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "The first is objective, and out of it science is born, and the second is subjective, and is the source of all art.",
+      "korean": "첫 번째는 객관적이며, 그로부터 과학이 탄생하고, 두 번째는 주관적이며 모든 예술의 근원이다.",
+      "explanation": "문장은 지식의 두 가지 형태를 비교하며, 객관적 지식이 과학의 기반이 되는 반면 주관적 지식이 예술의 원천임을 설명한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-183/05.mp3",
+      "vocabulary": [
+        {
+          "word": "objective",
+          "meaning": "객관적인",
+          "note": "사실이나 정보를 개인의 감정이나 편견 없이 객관적으로 다루는 것을 의미한다."
+        },
+        {
+          "word": "subjective",
+          "meaning": "주관적인",
+          "note": "개인의 감정, 견해, 경험에 기반한 주관적인 인식이나 이해를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "The third is neither, it is beyond both, and this third is the real It is achieved through meditation because meditation does not use thinking and feeling as doors of perception.",
+      "korean": "세 번째는 객관도 주관도 아닌 것이며, 진정한 자아는 명상을 통해 도달되며, 명상은 생각과 감정을 인식의 문으로 사용하지 않기 때문이다.",
+      "explanation": "세 번째 범주는 객관적 인식과 주관적 예술 사이에 위치하며, 진정한 자아는 명상을 통해 도달할 수 있다는 내용을 전달한다. 명상 과정에서 사고와 감정을 인식의 수단으로 삼지 않는다는 점이 강조된다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-183/06.mp3",
+      "vocabulary": [
+        {
+          "word": "achieved",
+          "meaning": "도달하다",
+          "note": "명상을 통해 목표나 상태에 도달한다는 의미"
+        },
+        {
+          "word": "meditation",
+          "meaning": "명상",
+          "note": "의식을 집중시키고 내면을 탐구하는 정신적 연습"
+        },
+        {
+          "word": "perception",
+          "meaning": "인식",
+          "note": "세상이나 내면을 이해하고 받아들이는 과정"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Really, these are not doors of perception but forces of projection.",
+      "korean": "실제로는 이런 것들이 인식의 문이 아니라 투사의 힘이야.",
+      "explanation": "문장은 인식이 아닌 투사가 주체의 생각이나 감정을 외부로 투사하는 힘임을 강조하고 있다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-183/07.mp3",
+      "vocabulary": [
+        {
+          "word": "perception",
+          "meaning": "인식",
+          "note": "주체가 세상을 이해하고 받아들이는 과정을 의미한다."
+        },
+        {
+          "word": "projection",
+          "meaning": "투사",
+          "note": "자신의 생각이나 감정을 외부로 투사하거나 다른 사람에게 투영하는 것을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "Through them pure knowing is impossible; whatsoever comes through them is changed and colored by them.",
+      "korean": "그들을 통해 순수한 앎은 불가능하며, 그들을 통해 오는 모든 것은 변형되고 그들의 영향을 받아 색칠됩니다.",
+      "explanation": "순수한 인식이나 이해가 이 통로를 통해 이루어지지 않으며, 통과하는 모든 것은 이 통로에 의해 변형되고 영향을 받아 달라진다는 의미입니다.",
+      "grammar": "동사 「comes」는 come의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-183/08.mp3",
+      "vocabulary": [
+        {
+          "word": "impossible",
+          "meaning": "불가능한",
+          "note": "어떤 일이 절대 이루어질 수 없다는 의미입니다."
+        },
+        {
+          "word": "whatsoever",
+          "meaning": "무엇이든",
+          "note": "모든 것, 어떤 것이든 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "So unless one is free of all projections one cannot know that-which-is.",
+      "korean": "모든 투사에서 벗어나야만 진정한 앎이 가능하다.",
+      "explanation": "진정한 이해나 인식이 투사 없이만 이루어질 수 있다는 의미",
+      "grammar": "「cannot know」에서 조동사 can 뒤에 동사원형 「know」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1971-183/09.mp3",
+      "vocabulary": [
+        {
+          "word": "free",
+          "meaning": "자유로운, 투사에서 벗어난",
+          "note": "여기서는 외부적인 편견이나 가정에서 자유로워져 순수한 상태를 유지하는 것을 의미한다."
+        },
+        {
+          "word": "projections",
+          "meaning": "투사",
+          "note": "자신의 생각이나 기대를 다른 대상에 투영하는 것을 의미하며, 이 문장에서는 편견이나 가정에서 벗어나는 것을 방해하는 요소로 해석된다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "When there are no ripples of thought and emotion in the consciousness, then and only then does the third form of knowledge dawn, and this third is the only real knowledge.",
+      "korean": "의식에 생각과 감정의 파동이 없을 때, 비로소 세 번째 형태의 지식이 드러나며, 이 세 번째 지식이 진정한 지식이다.",
+      "explanation": "의식에서 모든 생각과 감정의 흔들림이 사라질 때 진정한 지식이 드러난다는 의미입니다.",
+      "grammar": "「there are」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 are는 be동사의 현재형입니다.",
+      "audio": "audio/1971-183/10.mp3",
+      "vocabulary": [
+        {
+          "word": "ripples",
+          "meaning": "파동, 흔들림",
+          "note": "의식 내에서 일어나는 생각과 감정의 불안정한 움직임을 비유적으로 표현합니다."
+        },
+        {
+          "word": "consciousness",
+          "meaning": "의식",
+          "note": "개인이 자신의 생각, 감정, 경험을 인지하는 상태를 의미합니다."
+        },
+        {
+          "word": "knowledge",
+          "meaning": "지식",
+          "note": "깊이 있는 이해나 통찰력을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "Out of it religion is born, and out of it is total transformation.",
+      "korean": "그것에서 종교가 생겨나고, 거기서 완전한 변화가 일어난다.",
+      "explanation": "종교의 탄생과 개인의 완전한 변화가 삼매와 깊은 내면의 평온 상태에서 비롯된다는 의미",
+      "grammar": "「is born」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-183/11.mp3",
+      "vocabulary": [
+        {
+          "word": "religion",
+          "meaning": "종교",
+          "note": "특정 신념 체계나 신성한 의식을 통해 영적 지침과 가치를 추구하는 체계"
+        },
+        {
+          "word": "transformation",
+          "meaning": "변화",
+          "note": "깊은 내면의 평온 상태에서 오는 근본적인 개인적 변화나 개선"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "지식에는 세 가지 형태가 있습니다. 첫 번째는 지적인 지식으로, 사실은 정보와 사실들의 모음 및 이를 활용해 더 깊은 지적 개념을 도출하는 과정에 불과하다. 두 번째는 감정적인 인식으로, 진정한 지식이라기보다는 사람이 무언가를 알았다고 느끼는 정신 상태이지만, 존재의 변화나 변형은 없다.",
+    "첫 번째는 객관적이며, 그로부터 과학이 탄생하고, 두 번째는 주관적이며 모든 예술의 근원이다. 세 번째는 객관도 주관도 아닌 것이며, 진정한 자아는 명상을 통해 도달되며, 명상은 생각과 감정을 인식의 문으로 사용하지 않기 때문이다. 실제로는 이런 것들이 인식의 문이 아니라 투사의 힘이야. 그들을 통해 순수한 앎은 불가능하며, 그들을 통해 오는 모든 것은 변형되고 그들의 영향을 받아 색칠됩니다. 모든 투사에서 벗어나야만 진정한 앎이 가능하다. 의식에 생각과 감정의 파동이 없을 때, 비로소 세 번째 형태의 지식이 드러나며, 이 세 번째 지식이 진정한 지식이다. 그것에서 종교가 생겨나고, 거기서 완전한 변화가 일어난다."
+  ],
+  "fullAudio": "audio/1971-183/script_all.mp3",
+  "originalText": "Love.\n\nThere are three forms of knowledge.\nThe first is intellectual knowledge,\nwhich is in fact not knowledge but only information\nand the collection of facts and the use of these\nto arrive at further intellectual concepts.\nThe second is emotional knowledge,\nwhich is also not really knowledge\nbut the mental state in which man feels\nhe has known something,\nbut there is no transformation or mutation of his being.\n\nThe first is objective, and out of it science is born,\nand the second is subjective, and is the source of all art.\nThe third is neither,\nit is beyond both,\nand this third is the real\nIt is achieved through meditation\nbecause meditation does not use thinking and feeling\nas doors of perception.\nReally, these are not doors of perception\nbut forces of projection.\nThrough them pure knowing is impossible;\nwhatsoever comes through them\nis changed and colored by them.\nSo unless one is free of all projections\none cannot know that-which-is.\nWhen there are no ripples of thought and emotion\nin the consciousness, then and only then\ndoes the third form of knowledge dawn,\nand this third is the only real knowledge.\nOut of it religion is born,\nand out of it is total transformation.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 183,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0847 2.JPG",
+        "side": "left",
+        "printedPage": 144
+      },
+      {
+        "file": "IMG_0847 2.JPG",
+        "side": "right",
+        "printedPage": 145
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

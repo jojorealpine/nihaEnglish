@@ -1,0 +1,79 @@
+{
+  "key": "letter-253-part-01",
+  "number": 253,
+  "generationId": "01a1e8fb-2233-767d-83be-32f14765fb56",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-253/01.mp3",
+      "start": 0.0,
+      "end": 0.616757
+    },
+    {
+      "index": 1,
+      "text": "Do not continue moving in the old rut - and the way out is just by your hand.",
+      "path": "audio/1971-253/02.mp3",
+      "start": 2.001474,
+      "end": 6.004354
+    },
+    {
+      "index": 2,
+      "text": "The mind is the past, the dead past; one has to break it somewhere and jump out of it The mind is the prison, the slavery.",
+      "path": "audio/1971-253/03.mp3",
+      "start": 7.284014,
+      "end": 15.262448999999998
+    },
+    {
+      "index": 3,
+      "text": "Be free of it.",
+      "path": "audio/1971-253/04.mp3",
+      "start": 16.512539999999998,
+      "end": 17.444308
+    },
+    {
+      "index": 4,
+      "text": "And the moment is ripe.",
+      "path": "audio/1971-253/05.mp3",
+      "start": 18.78805,
+      "end": 20.232925
+    },
+    {
+      "index": 5,
+      "text": "Of course I know that you are still not clearly aware of it but you are not unaware either.",
+      "path": "audio/1971-253/06.mp3",
+      "start": 21.470838999999998,
+      "end": 26.291746
+    },
+    {
+      "index": 6,
+      "text": "Gather courage and jump into the unknown.",
+      "path": "audio/1971-253/07.mp3",
+      "start": 27.662267999999997,
+      "end": 30.329819
+    },
+    {
+      "index": 7,
+      "text": "Just one step is enough because the next follows it automatically.",
+      "path": "audio/1971-253/08.mp3",
+      "start": 31.582086,
+      "end": 36.168209
+    },
+    {
+      "index": 8,
+      "text": "But do not go on thinking and thinking and thinking.",
+      "path": "audio/1971-253/09.mp3",
+      "start": 37.597415000000005,
+      "end": 41.189025
+    },
+    {
+      "index": 9,
+      "text": "Thinking promises to lead you somewhere but the promise remains always a promise, because thinking is just impotent as far as life is concerned So please, be existential.",
+      "path": "audio/1971-253/10.mp3",
+      "start": 42.730567,
+      "end": 57.76
+    }
+  ]
+}

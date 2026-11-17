@@ -1,0 +1,79 @@
+{
+  "key": "letter-288-part-01",
+  "number": 288,
+  "generationId": "01a1e902-c427-7a0a-b704-cc35ec577935",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-288/01.mp3",
+      "start": 0.0,
+      "end": 0.590839
+    },
+    {
+      "index": 1,
+      "text": "I am thrilled with great expectations about you.",
+      "path": "audio/1971-288/02.mp3",
+      "start": 1.796961,
+      "end": 4.3934690000000005
+    },
+    {
+      "index": 2,
+      "text": "Much is to happen within you and without also.",
+      "path": "audio/1971-288/03.mp3",
+      "start": 5.640522,
+      "end": 8.139365
+    },
+    {
+      "index": 3,
+      "text": "You are on the verge of the explosion, so be alone.",
+      "path": "audio/1971-288/04.mp3",
+      "start": 9.313923,
+      "end": 12.299116
+    },
+    {
+      "index": 4,
+      "text": "Not lonely but alone, and live with that aloneness.",
+      "path": "audio/1971-288/05.mp3",
+      "start": 13.477347,
+      "end": 16.945079
+    },
+    {
+      "index": 5,
+      "text": "Rather, be that aloneness; that is the only meditation for you now.",
+      "path": "audio/1971-288/06.mp3",
+      "start": 18.117029,
+      "end": 22.472494
+    },
+    {
+      "index": 6,
+      "text": "Loneliness is negative:",
+      "path": "audio/1971-288/07.mp3",
+      "start": 23.950951999999997,
+      "end": 25.639569
+    },
+    {
+      "index": 7,
+      "text": "to be lonely is to be aware of the absence of others.",
+      "path": "audio/1971-288/08.mp3",
+      "start": 27.133878,
+      "end": 30.635828
+    },
+    {
+      "index": 8,
+      "text": "But to be alone is the most positive state of mind: it is to be aware of the presence of oneself.",
+      "path": "audio/1971-288/09.mp3",
+      "start": 32.1561,
+      "end": 37.901995
+    },
+    {
+      "index": 9,
+      "text": "Be aware of the presence that is you.",
+      "path": "audio/1971-288/10.mp3",
+      "start": 39.354104,
+      "end": 42.45
+    }
+  ]
+}

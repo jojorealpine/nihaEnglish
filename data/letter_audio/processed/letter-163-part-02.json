@@ -1,0 +1,79 @@
+{
+  "key": "letter-163-part-02",
+  "number": 163,
+  "generationId": "01a1e8e3-35f8-7d29-9a65-de170525518d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Deepen the sensitivity.",
+      "path": "audio/1971-163/11.mp3",
+      "start": 0.0,
+      "end": 1.312653
+    },
+    {
+      "index": 11,
+      "text": "Do not just swim in sensitivity, drown in it.",
+      "path": "audio/1971-163/12.mp3",
+      "start": 2.578526,
+      "end": 5.19746
+    },
+    {
+      "index": 12,
+      "text": "This I call meditation.",
+      "path": "audio/1971-163/13.mp3",
+      "start": 6.460544,
+      "end": 7.924444
+    },
+    {
+      "index": 13,
+      "text": "And, in meditation, the seen disappears and finally the seer too.",
+      "path": "audio/1971-163/14.mp3",
+      "start": 9.219342000000001,
+      "end": 12.757347
+    },
+    {
+      "index": 14,
+      "text": "There remains only the seeing.",
+      "path": "audio/1971-163/15.mp3",
+      "start": 14.071610000000002,
+      "end": 15.571451
+    },
+    {
+      "index": 15,
+      "text": "It is in this seeing that the invisible becomes visible and the unknown becomes known.",
+      "path": "audio/1971-163/16.mp3",
+      "start": 16.851247,
+      "end": 20.990771000000002
+    },
+    {
+      "index": 16,
+      "text": "Not only this - even the unknowable becomes knowable.",
+      "path": "audio/1971-163/17.mp3",
+      "start": 22.405442,
+      "end": 25.936122
+    },
+    {
+      "index": 17,
+      "text": "And remember that whatever I am writing - do not start thinking about this as well: act.",
+      "path": "audio/1971-163/18.mp3",
+      "start": 27.345805,
+      "end": 33.416712
+    },
+    {
+      "index": 18,
+      "text": "Nothing has ever been nor can be attained by creating theories.",
+      "path": "audio/1971-163/19.mp3",
+      "start": 34.789184000000006,
+      "end": 38.79644
+    },
+    {
+      "index": 19,
+      "text": "There is no other door except 'seeing for oneself'",
+      "path": "audio/1971-163/20.mp3",
+      "start": 40.294082,
+      "end": 43.83
+    }
+  ]
+}

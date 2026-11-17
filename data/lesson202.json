@@ -1,0 +1,587 @@
+{
+  "id": "1971-202",
+  "title": "1971 / 202",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "difficult",
+      "meaning": "어려운",
+      "note": "찾는 것이 얼마나 힘든지를 나타냅니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "find",
+      "meaning": "찾다",
+      "note": "특정 존재나 개념을 인식하거나 획득하려는 행위를 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "everywhere",
+      "meaning": "어디에나",
+      "note": "장소의 포괄적 범위를 나타내며, 신이 존재하지 않는 곳이 없다는 의미를 담고 있다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "nowhere",
+      "meaning": "어디에도",
+      "note": "특정 장소에 국한되지 않는 신의 존재를 강조하며, 보이지 않거나 감지하기 어려운 측면을 나타낸다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "seeker",
+      "meaning": "찾는 자",
+      "note": "깨달음이나 진리를 추구하는 사람을 가리킨다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "seeking",
+      "meaning": "찾는 행위",
+      "note": "목표나 진리를 추구하는 과정을 의미한다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Stop",
+      "meaning": "멈추다",
+      "note": "행동을 일시적으로 중단하거나 멈추라는 의미",
+      "sentenceIds": [
+        5,
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "see",
+      "meaning": "보다",
+      "note": "주의 깊게 관찰하거나 이해하려는 의미",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "running",
+      "meaning": "움직이다, 진행하다",
+      "note": "여기서는 마음의 활동이나 생각의 흐름을 의미합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "constantly",
+      "meaning": "끊임없이, 항상",
+      "note": "마음의 활동이 중단되지 않고 지속적으로 이루어진다는 뉘앙스를 전달합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "not",
+      "meaning": "부정",
+      "note": "문장에서 부정의 역할을 하여 행동이나 상태를 부정합니다.",
+      "sentenceIds": [
+        7,
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "and",
+      "meaning": "그리고",
+      "note": "두 가지 행동이나 상태를 연결하는 연결사입니다.",
+      "sentenceIds": [
+        7,
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "trying",
+      "meaning": "노력하다",
+      "note": "어떤 목표나 상태를 이루기 위해 애쓰는 것을 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "continuously",
+      "meaning": "끊임없이",
+      "note": "지속적으로, 끊이지 않고 계속되는 상태를 나타냅니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "garden",
+      "meaning": "정원",
+      "note": "이 문맥에서는 이상적인 공간이나 목표를 상징한다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "looked",
+      "meaning": "찾아봤다",
+      "note": "적극적인 탐색 행위를 나타낸다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "desert",
+      "meaning": "사막",
+      "note": "비유적으로 어려움이나 불모의 상태를 나타낸다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "miracle",
+      "meaning": "기적",
+      "note": "특별하고 예상치 못한 긍정적인 사건이나 현상을 의미한다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "happens",
+      "meaning": "일어나다",
+      "note": "여기서는 기적이 발생한다는 의미로 사용된다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "apparent",
+      "meaning": "명백한",
+      "note": "처음에는 보이지 않거나 인지되지 않지만, 깊은 이해와 연구를 통해 결국 이해하게 되는 상태를 나타낸다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "destiny",
+      "meaning": "운명",
+      "note": "개인의 삶이 미리 정해져 있다는 개념을 나타낸다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "consented",
+      "meaning": "동의하다",
+      "note": "죽음을 수용하거나 받아들이는 행위를 의미한다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      4,
+      5,
+      6,
+      7
+    ],
+    [
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      12
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-202/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Only God is - that is why it is so difficult to find him.",
+      "korean": "신만이 찾기 어려운 이유는 바로 그 때문입니다.",
+      "explanation": "신은 유일무이하고 찾기 어려운 존재임을 강조합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-202/02.mp3",
+      "vocabulary": [
+        {
+          "word": "difficult",
+          "meaning": "어려운",
+          "note": "찾는 것이 얼마나 힘든지를 나타냅니다."
+        },
+        {
+          "word": "find",
+          "meaning": "찾다",
+          "note": "특정 존재나 개념을 인식하거나 획득하려는 행위를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "And God is everywhere - that is why he seems to be nowhere.",
+      "korean": "그리고 신은 어디에나 계시다 - 그래서 그분은 어디에도 없는 듯 보이는 것이다.",
+      "explanation": "신의 존재가 동시에 보편적이면서도 특정한 장소에 국한되지 않아 보이는 모순적인 특성을 설명한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-202/03.mp3",
+      "vocabulary": [
+        {
+          "word": "everywhere",
+          "meaning": "어디에나",
+          "note": "장소의 포괄적 범위를 나타내며, 신이 존재하지 않는 곳이 없다는 의미를 담고 있다."
+        },
+        {
+          "word": "nowhere",
+          "meaning": "어디에도",
+          "note": "특정 장소에 국한되지 않는 신의 존재를 강조하며, 보이지 않거나 감지하기 어려운 측면을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "And the seeker is the sought - that is why all seeking is so futile.",
+      "korean": "찾는 자 자신이 찾는 것이므로 모든 찾는 행위가 무의미하게 느껴진다.",
+      "explanation": "이 문장은 깨달음을 추구하는 과정에서 본질적인 모순을 지적한다. 궁극적인 진리는 자기 자신 속에 존재하기 때문에 외부에서 찾으려는 노력은 결국 허무하다는 의미이다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-202/04.mp3",
+      "vocabulary": [
+        {
+          "word": "seeker",
+          "meaning": "찾는 자",
+          "note": "깨달음이나 진리를 추구하는 사람을 가리킨다."
+        },
+        {
+          "word": "seeking",
+          "meaning": "찾는 행위",
+          "note": "목표나 진리를 추구하는 과정을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Stop and see.",
+      "korean": "멈추고 보라",
+      "explanation": "멈추어서 상황이나 것을 주의 깊게 관찰하라",
+      "grammar": "동사원형 「Stop」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-202/05.mp3",
+      "vocabulary": [
+        {
+          "word": "Stop",
+          "meaning": "멈추다",
+          "note": "행동을 일시적으로 중단하거나 멈추라는 의미"
+        },
+        {
+          "word": "see",
+          "meaning": "보다",
+          "note": "주의 깊게 관찰하거나 이해하려는 의미"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "But the mind is running constantly.",
+      "korean": "마음은 끊임없이 움직이고 있어요.",
+      "explanation": "마음이 계속해서 활동하거나 생각하고 있다는 의미입니다.",
+      "grammar": "「is running」는 be동사 + -ing로 만든 현재진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+      "audio": "audio/1971-202/06.mp3",
+      "vocabulary": [
+        {
+          "word": "running",
+          "meaning": "움직이다, 진행하다",
+          "note": "여기서는 마음의 활동이나 생각의 흐름을 의미합니다."
+        },
+        {
+          "word": "constantly",
+          "meaning": "끊임없이, 항상",
+          "note": "마음의 활동이 중단되지 않고 지속적으로 이루어진다는 뉘앙스를 전달합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Do not be, and see.",
+      "korean": "보지 말고, 그렇게 되지 마세요.",
+      "explanation": "마음이 끊임없이 움직이고 있음에도 불구하고, 그렇게 행동하지 않고 보지 않으라는 의미입니다.",
+      "grammar": "「Do not be」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1971-202/07.mp3",
+      "vocabulary": [
+        {
+          "word": "not",
+          "meaning": "부정",
+          "note": "문장에서 부정의 역할을 하여 행동이나 상태를 부정합니다."
+        },
+        {
+          "word": "and",
+          "meaning": "그리고",
+          "note": "두 가지 행동이나 상태를 연결하는 연결사입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "But the mind is trying to be continuously.",
+      "korean": "마음은 끊임없이 노력하고 있어요.",
+      "explanation": "마음이 지속적으로 어떤 상태나 행동을 추구하거나 유지하려는 노력을 하고 있다는 의미입니다.",
+      "grammar": "「is trying」는 be동사 + -ing로 만든 현재진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+      "audio": "audio/1971-202/08.mp3",
+      "vocabulary": [
+        {
+          "word": "trying",
+          "meaning": "노력하다",
+          "note": "어떤 목표나 상태를 이루기 위해 애쓰는 것을 의미합니다."
+        },
+        {
+          "word": "continuously",
+          "meaning": "끊임없이",
+          "note": "지속적으로, 끊이지 않고 계속되는 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "Says Auden: For the garden is the only place there is, but you will not find it, until you have looked for it everywhere and found nowhere that is not a desert.",
+      "korean": "아덴은 말한다: 정원은 유일하게 존재하는 곳이지만, 그곳을 찾기 위해서는 모든 곳을 찾아봐야 하며, 어디에도 사막이 아닌 곳이 없음을 발견해야 한다.",
+      "explanation": "아덴의 인용문으로, 정원을 찾는 과정의 어려움과 그 의미를 설명한다.",
+      "grammar": "동사 「Says」는 say의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-202/09.mp3",
+      "vocabulary": [
+        {
+          "word": "garden",
+          "meaning": "정원",
+          "note": "이 문맥에서는 이상적인 공간이나 목표를 상징한다."
+        },
+        {
+          "word": "looked",
+          "meaning": "찾아봤다",
+          "note": "적극적인 탐색 행위를 나타낸다."
+        },
+        {
+          "word": "desert",
+          "meaning": "사막",
+          "note": "비유적으로 어려움이나 불모의 상태를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "The miracle is the only thing that happens, but to you it will not be apparent, until all events have been studied and nothing happens that you cannot explain.",
+      "korean": "기적은 유일하게 일어나는 일이지만, 네가 그것을 인지하기 전까지는 모든 사건을 연구하고 아무것도 설명할 수 없을 때까지는 명백하지 않을 것이다.",
+      "explanation": "문장은 기적이 유일한 사건임을 강조하며, 그 기적을 인식하기 위해서는 모든 사건을 깊이 이해하고 자연스럽게 설명할 수 있는 상태에 도달해야 한다는 의미를 담고 있다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-202/10.mp3",
+      "vocabulary": [
+        {
+          "word": "miracle",
+          "meaning": "기적",
+          "note": "특별하고 예상치 못한 긍정적인 사건이나 현상을 의미한다."
+        },
+        {
+          "word": "happens",
+          "meaning": "일어나다",
+          "note": "여기서는 기적이 발생한다는 의미로 사용된다."
+        },
+        {
+          "word": "apparent",
+          "meaning": "명백한",
+          "note": "처음에는 보이지 않거나 인지되지 않지만, 깊은 이해와 연구를 통해 결국 이해하게 되는 상태를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "And life is the destiny you are bound to refuse until you have consented to die.",
+      "korean": "인생은 당신이 죽기로 동의하기 전까지 거부해야 할 운명이다.",
+      "explanation": "문장은 인생이 특정한 운명을 따르지만, 그 운명을 받아들이기 위해서는 죽음을 수용해야 한다는 의미를 담고 있다.",
+      "grammar": "「are bound to refuse」는 be bound to + 동사원형의 구조로, 어떤 일이 반드시 일어나리라는 강한 확신을 나타냅니다.",
+      "audio": "audio/1971-202/11.mp3",
+      "vocabulary": [
+        {
+          "word": "destiny",
+          "meaning": "운명",
+          "note": "개인의 삶이 미리 정해져 있다는 개념을 나타낸다."
+        },
+        {
+          "word": "consented",
+          "meaning": "동의하다",
+          "note": "죽음을 수용하거나 받아들이는 행위를 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "Stop and see.",
+      "korean": "멈추고 봐",
+      "explanation": "멈추어서 상황이나 것을 관찰하거나 확인하라",
+      "grammar": "동사원형 「Stop」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-202/12.mp3",
+      "vocabulary": [
+        {
+          "word": "Stop",
+          "meaning": "멈추다",
+          "note": "행동을 일시적으로 중단하라는 명령형 동사로, 주의를 집중시키거나 관찰을 촉구하는 맥락에서 사용됨"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "Do not be, and see.",
+      "korean": "보지 말고 멈춰봐.",
+      "explanation": "명령형 문장으로, 관찰이나 행동을 일시적으로 중단하도록 권유하고 있다.",
+      "grammar": "「Do not be」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1971-202/13.mp3",
+      "vocabulary": [
+        {
+          "word": "not",
+          "meaning": "부정",
+          "note": "문장에서 행동을 하지 말라는 부정의 역할을 한다."
+        },
+        {
+          "word": "and",
+          "meaning": "그리고",
+          "note": "두 행동 사이의 연결을 나타내며, 첫 번째 행동(멈추다) 후에 두 번째 행동(보다)을 수행하라는 의미를 전달한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "신만이 찾기 어려운 이유는 바로 그 때문입니다. 그리고 신은 어디에나 계시다 - 그래서 그분은 어디에도 없는 듯 보이는 것이다. 찾는 자 자신이 찾는 것이므로 모든 찾는 행위가 무의미하게 느껴진다.",
+    "멈추고 보라 마음은 끊임없이 움직이고 있어요. 보지 말고, 그렇게 되지 마세요. 마음은 끊임없이 노력하고 있어요.",
+    "아덴은 말한다: 정원은 유일하게 존재하는 곳이지만, 그곳을 찾기 위해서는 모든 곳을 찾아봐야 하며, 어디에도 사막이 아닌 곳이 없음을 발견해야 한다. 기적은 유일하게 일어나는 일이지만, 네가 그것을 인지하기 전까지는 모든 사건을 연구하고 아무것도 설명할 수 없을 때까지는 명백하지 않을 것이다. 인생은 당신이 죽기로 동의하기 전까지 거부해야 할 운명이다.",
+    "멈추고 봐 보지 말고 멈춰봐."
+  ],
+  "fullAudio": "audio/1971-202/script_all.mp3",
+  "originalText": "Love.\n\nOnly God is -\nthat is why it is so difficult to find him.\nAnd God is everywhere -\nthat is why he seems to be nowhere.\nAnd the seeker is the sought -\nthat is why all seeking is so futile.\n\nStop and see.\nBut the mind is running constantly.\nDo not be, and see.\nBut the mind is trying to be continuously.\n\nSays Auden:\nFor the garden is the only place there is,\nbut you will not find it,\nuntil you have looked for it everywhere\nand found nowhere that is not a desert.\nThe miracle is the only thing that happens,\nbut to you it will not be apparent,\nuntil all events have been studied\nand nothing happens that you cannot explain.\nAnd life is the destiny you are bound to refuse\nuntil you have consented to die.\n\nStop and see.\nDo not be, and see.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 202,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0854 2.JPG",
+        "side": "right",
+        "printedPage": 159
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

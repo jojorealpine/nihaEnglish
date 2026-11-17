@@ -1,0 +1,51 @@
+{
+  "key": "letter-282-part-01",
+  "number": 282,
+  "generationId": "01a1e901-6e00-7553-ab93-4a0694926ed7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-282/01.mp3",
+      "start": 0.0,
+      "end": 0.697506
+    },
+    {
+      "index": 1,
+      "text": "Life is a sermon; existence preaches in its own way, but always indirectly - and that is the beauty of it.",
+      "path": "audio/1971-282/02.mp3",
+      "start": 1.85059,
+      "end": 8.35
+    },
+    {
+      "index": 2,
+      "text": "The harmony in nature teaches, without any intention, the lesson of balance in life.",
+      "path": "audio/1971-282/03.mp3",
+      "start": 9.683878,
+      "end": 14.88059
+    },
+    {
+      "index": 3,
+      "text": "Look at a bird on the wing - and effortlessly you will go into meditation.",
+      "path": "audio/1971-282/04.mp3",
+      "start": 16.100658,
+      "end": 21.129184000000002
+    },
+    {
+      "index": 4,
+      "text": "Or listen to its song - and for no reason your heart will move with it.",
+      "path": "audio/1971-282/05.mp3",
+      "start": 22.590816,
+      "end": 27.364240000000002
+    },
+    {
+      "index": 5,
+      "text": "And when there is no effort on your part the meditation goes deep and suddenly transforms you; and when there is no motivation and you move - the movement is in the divine.",
+      "path": "audio/1971-282/06.mp3",
+      "start": 28.885849999999998,
+      "end": 40.2
+    }
+  ]
+}

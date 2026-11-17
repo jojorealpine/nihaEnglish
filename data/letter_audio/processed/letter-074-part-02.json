@@ -1,0 +1,51 @@
+{
+  "key": "letter-074-part-02",
+  "number": 74,
+  "generationId": "01a1e62a-7a9d-76c9-b157-7aacf4b25926",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "God is without purpose, flowers bloom without purpose, and stars shine without purpose - what has happened to poor man that he cannot live without purpose!",
+      "path": "audio/1970-74/11.mp3",
+      "start": 0.0,
+      "end": 9.347959
+    },
+    {
+      "index": 11,
+      "text": "Because man can think he gets into trouble.",
+      "path": "audio/1970-74/12.mp3",
+      "start": 10.748753,
+      "end": 13.272675999999999
+    },
+    {
+      "index": 12,
+      "text": "A little thinking always leads to trouble.",
+      "path": "audio/1970-74/13.mp3",
+      "start": 14.772993000000001,
+      "end": 17.568821
+    },
+    {
+      "index": 13,
+      "text": "If you must think, think completely, utterly!",
+      "path": "audio/1970-74/14.mp3",
+      "start": 18.959796,
+      "end": 22.458345
+    },
+    {
+      "index": 14,
+      "text": "Then the mind whirls so fast with thoughts that freedom from thoughts is attained.",
+      "path": "audio/1970-74/15.mp3",
+      "start": 24.0561,
+      "end": 29.071565
+    },
+    {
+      "index": 15,
+      "text": "Then you begin to live.",
+      "path": "audio/1970-74/16.mp3",
+      "start": 30.646552999999997,
+      "end": 33.02
+    }
+  ]
+}

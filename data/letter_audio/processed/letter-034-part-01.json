@@ -1,0 +1,79 @@
+{
+  "key": "letter-034-part-01",
+  "number": 34,
+  "generationId": "01a1e4ec-6af4-7f7e-a316-27b372677945",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1965-34/01.mp3",
+      "start": 0.0,
+      "end": 0.732834
+    },
+    {
+      "index": 1,
+      "text": "I never imagined that you would write such a loving letter!",
+      "path": "audio/1965-34/02.mp3",
+      "start": 1.9232649999999998,
+      "end": 4.815805
+    },
+    {
+      "index": 2,
+      "text": "And you say that you are uneducated!",
+      "path": "audio/1965-34/03.mp3",
+      "start": 6.101587,
+      "end": 8.611156
+    },
+    {
+      "index": 3,
+      "text": "There is no knowledge greater than love, and those who lack love - these are the true illiterates, because the heart is the real thing in life, not the intellect.",
+      "path": "audio/1965-34/04.mp3",
+      "start": 9.985442,
+      "end": 19.801927000000003
+    },
+    {
+      "index": 4,
+      "text": "Bliss and light spring from the heart, not from the mind, and you have so much heart - that is enough!",
+      "path": "audio/1965-34/05.mp3",
+      "start": 21.310430999999998,
+      "end": 28.322268
+    },
+    {
+      "index": 5,
+      "text": "Can there be a better witness of this than me?",
+      "path": "audio/1965-34/06.mp3",
+      "start": 29.795782,
+      "end": 32.324467
+    },
+    {
+      "index": 6,
+      "text": "I am surprised that you write asking me to point out any mistakes you have made.",
+      "path": "audio/1965-34/07.mp3",
+      "start": 33.827642000000004,
+      "end": 38.144285999999994
+    },
+    {
+      "index": 7,
+      "text": "So far on earth, love has not made one mistake.",
+      "path": "audio/1965-34/08.mp3",
+      "start": 39.546485000000004,
+      "end": 43.782788999999994
+    },
+    {
+      "index": 8,
+      "text": "All mistakes happen through lack of love, in fact this for me is the only mistake in life.",
+      "path": "audio/1965-34/09.mp3",
+      "start": 45.326599,
+      "end": 51.388844
+    },
+    {
+      "index": 9,
+      "text": "Writing to you: May God make you envious of me was no mistake.",
+      "path": "audio/1965-34/10.mp3",
+      "start": 52.894785000000006,
+      "end": 58.96
+    }
+  ]
+}

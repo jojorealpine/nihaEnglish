@@ -1,0 +1,5 @@
+{
+  "english": "Isn't this what is meant by shunya (nothingness)?",
+  "error": "Missing Korean explanation",
+  "response": "```json\n{\n  \"korean\": \"이것이 공허(nothingness)의 의미가 아닐까요?\",\n  \"explanation\": \"문장은 '공허(nothingness)'의 개념에 대해 질문하고 있습니다. '공허'는 존재하지 않는 상태나 무(無)를 의미합니다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"meant\",\n      \"meaning\": \"의미하다\",\n      \"note\": \"이 단어는 어떤 개념이나 상황이 무엇을 나타내는지에 대해 질문하거나 설명할 때 사용됩니다.\"\n    }\n  ],\n  \"expressions\": []\n}\n```"
+}

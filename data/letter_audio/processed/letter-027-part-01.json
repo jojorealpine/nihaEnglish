@@ -1,0 +1,58 @@
+{
+  "key": "letter-027-part-01",
+  "number": 27,
+  "generationId": "01a1e4eb-3aff-787b-9a09-2252f7fd0d84",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1965-27/01.mp3",
+      "start": 0.0,
+      "end": 0.65288
+    },
+    {
+      "index": 1,
+      "text": "Your letter reached me as I was sitting on that very same spot on the grass!",
+      "path": "audio/1965-27/02.mp3",
+      "start": 2.039116,
+      "end": 5.882245
+    },
+    {
+      "index": 2,
+      "text": "What I was thinking then I shall tell you only when we meet.",
+      "path": "audio/1965-27/03.mp3",
+      "start": 7.381927,
+      "end": 10.755078999999999
+    },
+    {
+      "index": 3,
+      "text": "What a fragrance memories leave behind!",
+      "path": "audio/1965-27/04.mp3",
+      "start": 12.205374,
+      "end": 14.447823
+    },
+    {
+      "index": 4,
+      "text": "When life is filled with love it is so blissful.",
+      "path": "audio/1965-27/05.mp3",
+      "start": 15.875964000000002,
+      "end": 19.245351
+    },
+    {
+      "index": 5,
+      "text": "Life's only paupers are those without love in their hearts, and how to describe the good fortune of those whose hearts hold nothing but love!",
+      "path": "audio/1965-27/06.mp3",
+      "start": 20.655034,
+      "end": 30.016395
+    },
+    {
+      "index": 6,
+      "text": "In moments of such abundance one encounters God Only love alone have I known as God.",
+      "path": "audio/1965-27/07.mp3",
+      "start": 31.61771,
+      "end": 38.77
+    }
+  ]
+}

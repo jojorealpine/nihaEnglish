@@ -1,0 +1,5 @@
+{
+  "english": "Because that's where God lives.",
+  "error": "Grammar does not refer to the English sentence",
+  "response": "```json\n{\n  \"korean\": \"그것이 바로 신이 거주하는 곳이기 때문입니다.\",\n  \"explanation\": \"이 문장은 신이 존재하는 장소가 공허함, 즉 깊은 영적 차원임을 설명합니다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"lives\",\n      \"meaning\": \"거주하다\",\n      \"note\": \"이 문맥에서는 신의 존재나 거주를 의미합니다.\"\n    }\n  ],\n  \"expressions\": []\n}\n```"
+}

@@ -1,0 +1,58 @@
+{
+  "key": "letter-226-part-01",
+  "number": 226,
+  "generationId": "01a1e8f4-6cf6-770a-94fd-7c1a1b00d648",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-226/01.mp3",
+      "start": 0.0,
+      "end": 0.774785
+    },
+    {
+      "index": 1,
+      "text": "There was once a man who was obsessed with the idea that there was a secret knower in those who achieved success.",
+      "path": "audio/1971-226/02.mp3",
+      "start": 2.201905,
+      "end": 8.267166
+    },
+    {
+      "index": 2,
+      "text": "To discover this secret he devoted years to study and research: ancient masonry, philosophy, astrology, psychology, salesmanship, religious beliefs, the various cults that have had their rise and fall.",
+      "path": "audio/1971-226/03.mp3",
+      "start": 9.628617,
+      "end": 25.140794
+    },
+    {
+      "index": 3,
+      "text": "All these he studied long and diligently, but no conclusion was visible.",
+      "path": "audio/1971-226/04.mp3",
+      "start": 26.545804999999998,
+      "end": 31.723492
+    },
+    {
+      "index": 4,
+      "text": "He struggled and struggled but still there was no conclusion.",
+      "path": "audio/1971-226/05.mp3",
+      "start": 33.134263000000004,
+      "end": 36.940543999999996
+    },
+    {
+      "index": 5,
+      "text": "And then instead of success in his search for the secret of success came death - and as death approached him he realized the goal of his whole life's efforts, and finally he gave his conclusion to those who were near him.",
+      "path": "audio/1971-226/06.mp3",
+      "start": 38.355737000000005,
+      "end": 52.541973
+    },
+    {
+      "index": 6,
+      "text": "It came in two short words: I will.",
+      "path": "audio/1971-226/07.mp3",
+      "start": 54.059206,
+      "end": 58.1
+    }
+  ]
+}

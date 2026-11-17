@@ -1,0 +1,65 @@
+{
+  "key": "letter-125-part-01",
+  "number": 125,
+  "generationId": "01a1e6bf-5c4c-7023-b183-da8e1b039cb8",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-125/01.mp3",
+      "start": 0.0,
+      "end": 0.666667
+    },
+    {
+      "index": 1,
+      "text": "The news of the commune delights me.",
+      "path": "audio/1970-125/02.mp3",
+      "start": 2.004331,
+      "end": 4.112154
+    },
+    {
+      "index": 2,
+      "text": "The tree's seed is sprouting, soon innumerable souls will shelter under its branches.",
+      "path": "audio/1970-125/03.mp3",
+      "start": 5.545669,
+      "end": 10.268094999999999
+    },
+    {
+      "index": 3,
+      "text": "Soon the people for whom I have come will gather - and you are going to be their hostess!",
+      "path": "audio/1970-125/04.mp3",
+      "start": 11.62415,
+      "end": 16.173039
+    },
+    {
+      "index": 4,
+      "text": "So prepare yourself; that is, empty yourself completely because only emptiness can be the host.",
+      "path": "audio/1970-125/05.mp3",
+      "start": 17.682358,
+      "end": 24.471066
+    },
+    {
+      "index": 5,
+      "text": "You are already on your way, singing, dancing, blissful like a river flowing to the sea.",
+      "path": "audio/1970-125/06.mp3",
+      "start": 25.768072999999998,
+      "end": 31.081746000000003
+    },
+    {
+      "index": 6,
+      "text": "I am delighted, and I am always with you.",
+      "path": "audio/1970-125/07.mp3",
+      "start": 32.112358,
+      "end": 34.9561
+    },
+    {
+      "index": 7,
+      "text": "The ocean is close - just run, run, run!",
+      "path": "audio/1970-125/08.mp3",
+      "start": 36.147256000000006,
+      "end": 40.12
+    }
+  ]
+}

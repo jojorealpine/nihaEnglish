@@ -1,0 +1,436 @@
+{
+  "id": "1971-211",
+  "title": "1971 / 211",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "universe",
+      "meaning": "우주",
+      "note": "전체적인 존재의 범위나 체계를 의미합니다.",
+      "sentenceIds": [
+        2,
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "little",
+      "meaning": "거의",
+      "note": "전체적인 범위 중에서 극히 일부분만을 강조하는 표현입니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "hardly",
+      "meaning": "거의 ~하지 않다",
+      "note": "거의 일만 한다는 강조적 표현",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "upside down",
+      "meaning": "뒤바뀌다, 거꾸로 되다",
+      "note": "세상의 질서나 상황이 정상적인 순서에서 벗어났음을 나타냄",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "agony",
+      "meaning": "고통, 극심한 고통",
+      "note": "극심한 육체적 또는 정신적 고통을 의미하며, 문맥상 삶의 과도한 노동으로 인한 내적 고통을 나타냄.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "reason",
+      "meaning": "이성",
+      "note": "논리적 사고와 판단력을 의미하며, 인간의 지적 능력을 나타낸다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "utility",
+      "meaning": "효용",
+      "note": "실용적 가치나 이익을 의미하며, 이성이 추구하는 목표나 결과를 나타낸다.",
+      "sentenceIds": [
+        5,
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "existence",
+      "meaning": "존재",
+      "note": "어떤 것이 실제로 존재하거나 실재한다는 의미.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "necessary",
+      "meaning": "필수적인",
+      "note": "이 문맥에서는 다리가 존재의 균형을 이루는 데 필수적이라는 의미입니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unbearable",
+      "meaning": "참을 수 없는",
+      "note": "일만을 위해 존재하는 삶이 얼마나 힘든지 강조합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unlivable",
+      "meaning": "살기 어려운",
+      "note": "일만을 위한 삶이 인간에게 적합하지 않다는 의미입니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meditative",
+      "meaning": "명상하는",
+      "note": "깊은 집중과 내면의 평화를 추구하는 상태를 나타냄",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "intensely",
+      "meaning": "강렬하게",
+      "note": "정도나 강도가 매우 높음을 나타냄",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unmeditative",
+      "meaning": "수행하지 않는, 명상하지 않는",
+      "note": "명상이나 정신 집중을 하지 않는 상태나 사람을 가리킴",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "efficiently",
+      "meaning": "효율적으로",
+      "note": "일이나 작업을 효과적이고 생산적으로 수행하는 것을 의미함",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-211/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "The universe cares for little but play.",
+      "korean": "우주는 거의 놀이만을 돌보는 것 같아요.",
+      "explanation": "우주가 거의 모든 것을 돌보지 않고 놀이만을 중시하는 것처럼 보인다는 의미입니다.",
+      "grammar": "동사 「cares」는 care의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-211/02.mp3",
+      "vocabulary": [
+        {
+          "word": "universe",
+          "meaning": "우주",
+          "note": "전체적인 존재의 범위나 체계를 의미합니다."
+        },
+        {
+          "word": "little",
+          "meaning": "거의",
+          "note": "전체적인 범위 중에서 극히 일부분만을 강조하는 표현입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "But man in his life does hardly anything but work, and because of this everything has become upside down.",
+      "korean": "하지만 인간은 삶에서 거의 일만 하며, 그로 인해 모든 것이 뒤바뀌었다.",
+      "explanation": "인간의 삶이 주로 일에 집중되어 있어 세상의 질서가 뒤바뀌었다는 의미",
+      "grammar": "동사 「does」는 do의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-211/03.mp3",
+      "vocabulary": [
+        {
+          "word": "hardly",
+          "meaning": "거의 ~하지 않다",
+          "note": "거의 일만 한다는 강조적 표현"
+        },
+        {
+          "word": "upside down",
+          "meaning": "뒤바뀌다, 거꾸로 되다",
+          "note": "세상의 질서나 상황이 정상적인 순서에서 벗어났음을 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Hence the agony.",
+      "korean": "그러므로 고통이다.",
+      "explanation": "결과적으로 겪는 고통이나 어려움을 나타냄.",
+      "grammar": "명사 「agony」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1971-211/04.mp3",
+      "vocabulary": [
+        {
+          "word": "agony",
+          "meaning": "고통, 극심한 고통",
+          "note": "극심한 육체적 또는 정신적 고통을 의미하며, 문맥상 삶의 과도한 노동으로 인한 내적 고통을 나타냄."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "The law, the tao of the universe, is play - leela - and the law of human reason is work because reason cannot think beyond utility.",
+      "korean": "우주와 인간의 이성 법칙은 다르다. 우주 법칙은 놀이와 같고, 인간 이성의 법칙은 노력이 필요하다. 왜냐하면 이성은 효용성을 넘어서 생각할 수 없기 때문이다.",
+      "explanation": "우주와 인간 이성의 법칙이 놀이와 노력으로 대비되며, 이성의 한계가 효용성에 국한된다는 의미를 담고 있다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-211/05.mp3",
+      "vocabulary": [
+        {
+          "word": "universe",
+          "meaning": "우주",
+          "note": "전체적인 자연계나 존재의 범위를 의미한다."
+        },
+        {
+          "word": "reason",
+          "meaning": "이성",
+          "note": "논리적 사고와 판단력을 의미하며, 인간의 지적 능력을 나타낸다."
+        },
+        {
+          "word": "utility",
+          "meaning": "효용",
+          "note": "실용적 가치나 이익을 의미하며, 이성이 추구하는 목표나 결과를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "But existence exists beyond utility.",
+      "korean": "존재는 효용을 넘어 존재한다.",
+      "explanation": "문장은 존재가 단순히 효용의 범위를 넘어서 있다는 의미를 전달한다.",
+      "grammar": "동사 「exists」는 exist의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-211/06.mp3",
+      "vocabulary": [
+        {
+          "word": "existence",
+          "meaning": "존재",
+          "note": "어떤 것이 실제로 존재하거나 실재한다는 의미."
+        },
+        {
+          "word": "utility",
+          "meaning": "효용",
+          "note": "실용적 가치나 유용성을 의미하며, 여기서는 주로 기능적 또는 실용적인 측면에 초점을 맞춘다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Meditate on this gap and you will find the bridge - and the bridge is necessary because you cannot exist without work, and to exist only for work is unbearable and unlivable.",
+      "korean": "이 간극을 깊이 생각해보면 다리를 찾게 될 것입니다 - 그리고 그 다리는 필요합니다. 왜냐하면 일 없이 존재할 수 없고, 오직 일만을 위해 존재하는 것은 견디기 힘들고 살기 어렵기 때문입니다.",
+      "explanation": "이 문장은 존재의 의미와 일과 삶의 균형에 대해 이야기하고 있습니다. 간극을 이해하고 성찰하면 삶의 균형을 이루는 방법(다리)을 찾을 수 있다는 의미입니다.",
+      "grammar": "동사원형 「Meditate」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-211/07.mp3",
+      "vocabulary": [
+        {
+          "word": "necessary",
+          "meaning": "필수적인",
+          "note": "이 문맥에서는 다리가 존재의 균형을 이루는 데 필수적이라는 의미입니다."
+        },
+        {
+          "word": "unbearable",
+          "meaning": "참을 수 없는",
+          "note": "일만을 위해 존재하는 삶이 얼마나 힘든지 강조합니다."
+        },
+        {
+          "word": "unlivable",
+          "meaning": "살기 어려운",
+          "note": "일만을 위한 삶이 인간에게 적합하지 않다는 의미입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "The meditative man works so that he can play more intensely - the reason for his work is play.",
+      "korean": "명상을 하는 사람은 더 강렬하게 놀기 위해 일한다 - 그의 일의 이유는 놀이에 있다.",
+      "explanation": "명상을 통해 삶의 균형을 찾는 사람은 일을 통해 더 큰 만족감을 얻는 놀이와 같은 삶을 추구한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-211/08.mp3",
+      "vocabulary": [
+        {
+          "word": "meditative",
+          "meaning": "명상하는",
+          "note": "깊은 집중과 내면의 평화를 추구하는 상태를 나타냄"
+        },
+        {
+          "word": "intensely",
+          "meaning": "강렬하게",
+          "note": "정도나 강도가 매우 높음을 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "And the unmeditative man plays so that he can work more efficiently - the reason for his play is work.",
+      "korean": "비수행적인 사람은 일을 더 효율적으로 하기 위해 놀고, 놀이의 목적은 일에 있다.",
+      "explanation": "비수행적인 사람의 행동 동기와 그 결과에 대한 대조적 설명",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-211/09.mp3",
+      "vocabulary": [
+        {
+          "word": "unmeditative",
+          "meaning": "수행하지 않는, 명상하지 않는",
+          "note": "명상이나 정신 집중을 하지 않는 상태나 사람을 가리킴"
+        },
+        {
+          "word": "efficiently",
+          "meaning": "효율적으로",
+          "note": "일이나 작업을 효과적이고 생산적으로 수행하는 것을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "우주는 거의 놀이만을 돌보는 것 같아요. 하지만 인간은 삶에서 거의 일만 하며, 그로 인해 모든 것이 뒤바뀌었다. 그러므로 고통이다.",
+    "우주와 인간의 이성 법칙은 다르다. 우주 법칙은 놀이와 같고, 인간 이성의 법칙은 노력이 필요하다. 왜냐하면 이성은 효용성을 넘어서 생각할 수 없기 때문이다. 존재는 효용을 넘어 존재한다.",
+    "이 간극을 깊이 생각해보면 다리를 찾게 될 것입니다 - 그리고 그 다리는 필요합니다. 왜냐하면 일 없이 존재할 수 없고, 오직 일만을 위해 존재하는 것은 견디기 힘들고 살기 어렵기 때문입니다.",
+    "명상을 하는 사람은 더 강렬하게 놀기 위해 일한다 - 그의 일의 이유는 놀이에 있다. 비수행적인 사람은 일을 더 효율적으로 하기 위해 놀고, 놀이의 목적은 일에 있다."
+  ],
+  "fullAudio": "audio/1971-211/script_all.mp3",
+  "originalText": "Love.\n\nThe universe cares for little but play.\nBut man in his life does hardly anything but work,\nand because of this everything has become upside down.\nHence the agony.\n\nThe law, the tao of the universe, is play - leela -\nand the law of human reason is work\nbecause reason cannot think beyond utility.\nBut existence exists beyond utility.\n\nMeditate on this gap and you will find the bridge -\nand the bridge is necessary\nbecause you cannot exist without work,\nand to exist only for work is unbearable and unlivable.\n\nThe meditative man works\nso that he can play more intensely -\nthe reason for his work is play.\nAnd the unmeditative man plays so that he can work\nmore efficiently -\nthe reason for his play is work.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 211,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0857 2.JPG",
+        "side": "right",
+        "printedPage": 165
+      },
+      {
+        "file": "IMG_0858 2.JPG",
+        "side": "left",
+        "printedPage": 166
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

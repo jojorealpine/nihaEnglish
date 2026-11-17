@@ -1,0 +1,388 @@
+{
+  "sourceHash": "575b415847cbcd4245e52bda9bddb9733e7aa52388807be37de46060e830178b",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "16": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "nominal-fragment",
+      "notes": {
+        "korean": "그리고 단 하나의 문입니다.",
+        "explanation": "문장은 '유일한 통로' 또는 '유일한 출구'를 의미하며, 문맥상 마음의 감옥에서 벗어나는 유일한 방법을 나타냅니다.",
+        "grammar": "명사 「door」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+        "vocabulary": [
+          {
+            "word": "door",
+            "meaning": "문",
+            "note": "여기서는 비유적으로 마음의 감옥에서 벗어나는 유일한 방법이나 통로를 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "대부분의 사람들은 타인입니다.",
+        "explanation": "문장은 인간 관계의 본질을 강조하며, 개인이 완전히 독립적이거나 자신만의 존재가 아니라는 점을 설명합니다.",
+        "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "people",
+            "meaning": "사람들",
+            "note": "이 문맥에서는 일반적인 인간 집단이나 타인을 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "10": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "그들은 얼굴이 없다.",
+        "explanation": "문장의 의미: 그들의 행동이나 외형이 진정한 자아를 드러내지 않고, 오히려 다른 사람의 의견이나 가면을 쓰고 있다는 의미에서 얼굴이 없다는 표현을 사용.",
+        "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "faceless",
+            "meaning": "얼굴이 없는, 진정한 정체성이 드러나지 않는",
+            "note": "이 단어는 그들의 행동이나 외형이 진정한 자아를 숨기고 다른 사람의 의견이나 가면을 쓰고 있다는 부정적인 뉘앙스를 담고 있다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "11": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "그들은 전혀 진정한 자아를 가지고 있지 않다.",
+        "explanation": "문장은 대상들이 진정한 본질이나 정체성을 갖추지 못했다는 부정적인 의미를 전달한다.",
+        "grammar": "동사 「have」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "authentic",
+            "meaning": "진정한, 본래의",
+            "note": "이 단어는 대상의 본질이나 정체성이 진실되고 순수하다는 의미를 부정하며, 여기서는 그들이 진정한 자아를 갖추지 못했다는 부정적인 맥락에서 사용된다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "소유주는 소유물이 된다.",
+        "explanation": "문장은 개인이 자신의 소유물과 동일시되어 결국 그들 자신을 잃게 된다는 의미를 전달한다.",
+        "grammar": "동사 「becomes」는 become의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "possessor",
+            "meaning": "소유주",
+            "note": "자신의 물건이나 개념을 소유하고 있는 사람을 의미한다."
+          },
+          {
+            "word": "possessed",
+            "meaning": "소유물이 된",
+            "note": "자신의 주체성을 잃고 다른 것들과 동일시되는 상태를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "15": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "마음이 감옥이고, 명상이 문이다.",
+        "explanation": "마음이 제약과 굴레를 상징하고, 명상이 그 제약에서 벗어나는 길을 나타냄.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "prison",
+            "meaning": "감옥",
+            "note": "정신적 제약이나 굴레를 비유적으로 표현."
+          },
+          {
+            "word": "meditation",
+            "meaning": "명상",
+            "note": "정신적 해방이나 깨달음을 얻는 방법을 나타냄."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "13": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "악순환을 깨뜨리지 않으면 결코 이루어질 수 없을 것이다.",
+        "explanation": "악순환을 끊지 않으면 목표나 이상을 달성할 수 없다는 경고나 조언의 의미",
+        "grammar": "「will never be」에서 조동사 will 뒤에 동사원형 「be」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "vicious",
+            "meaning": "악랄한, 해로운",
+            "note": "여기서는 악순환이나 부정적인 반복 패턴을 의미"
+          },
+          {
+            "word": "circle",
+            "meaning": "원, 순환",
+            "note": "부정적인 패턴이나 행동이 계속 반복되는 상황을 나타냄"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "12": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "nominal-fragment",
+      "notes": {
+        "korean": "그들의 삶은 모방이고, 열정은 인용문과 같다.",
+        "explanation": "그들의 삶과 감정이 진정한 것이 아니라 다른 것들로부터 모방되었거나 외부에서 가져온 것처럼 묘사하고 있다.",
+        "grammar": "명사 「lives」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+        "vocabulary": [
+          {
+            "word": "passions",
+            "meaning": "열정",
+            "note": "개인의 강한 감정이나 열정을 의미한다."
+          },
+          {
+            "word": "quotation",
+            "meaning": "인용",
+            "note": "다른 사람이나 작품의 내용을 그대로 사용하거나 모방한 것을 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "슬프지만 사실인 것은, 많은 사람들이 자신의 영혼을 소유하는 경우가 드물다는 것이다.",
+        "explanation": "문장은 많은 사람들이 자신의 내면적 자아나 영혼을 진정으로 이해하거나 관리하지 못한다는 비극적인 현실을 지적하고 있다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "tragic",
+            "meaning": "비극적인",
+            "note": "문장에서 비극적인 상황이나 현실을 강조하는 데 사용된다."
+          },
+          {
+            "word": "possess",
+            "meaning": "소유하다, 가지다",
+            "note": "여기서는 개인이 자신의 영혼이나 내면적 자아를 진정으로 이해하거나 통제하는 능력을 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "에머슨은 어떤 사람에게도 가장 드문 것은 자신의 행동이라고 말한다.",
+        "explanation": "에머슨의 말을 한국어로 해석한 내용으로, 개인의 자발적인 행동의 희소성을 강조한다.",
+        "grammar": "동사 「says」는 say의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "rare",
+            "meaning": "드문",
+            "note": "이 단어는 어떤 상황이나 행동이 매우 드물게 일어난다는 의미를 전달한다."
+          },
+          {
+            "word": "says",
+            "meaning": "말한다",
+            "note": "이 단어는 누군가가 특정 의견이나 견해를 표현하는 것을 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "progressive",
+      "notes": {
+        "korean": "그들은 타인에 의해 주어진 역할만 연기하며 진정한 삶을 살지 않고 있다.",
+        "explanation": "문장은 사람들이 실제로 자신의 삶을 살아가는 것이 아니라, 타인에 의해 부여된 역할만을 수행하고 있다는 의미를 전달한다.",
+        "grammar": "「are not living」는 be동사 + -ing로 만든 현재진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "living",
+            "meaning": "살다",
+            "note": "여기서는 진정한 삶의 의미를 나타내며, 단순히 존재하는 것 이상의 활동적이고 의미 있는 삶을 의미한다."
+          },
+          {
+            "word": "acting",
+            "meaning": "연기하다",
+            "note": "타인에 의해 정해진 역할을 수행하는 것을 의미하며, 진정한 자기 자신보다는 외부의 기대에 맞추는 것을 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "그들의 생각은 타인의 의견일 뿐이고 얼굴은 가면일 뿐이다.",
+        "explanation": "문장은 개인의 진정한 내면이 아닌 외부로부터 강요된 생각과 표현만을 강조하며, 이를 통해 진정한 자아의 부재를 비판적으로 표현하고 있다.",
+        "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "thoughts",
+            "meaning": "생각",
+            "note": "여기서는 개인의 진정한 내면적 사고보다는 외부의 영향을 받은 생각을 의미한다."
+          },
+          {
+            "word": "opinions",
+            "meaning": "의견",
+            "note": "타인으로부터 부여받은 가치관이나 견해를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "그러나 이것이 기대되는 이유는 아무도 자신을 완전히 소유하지 않기 때문이며, 아무도 완전히 자기 자신이 될 수 없기 때문이다.",
+        "explanation": "문장은 Emerson의 견해를 바탕으로, 진정한 자기 실현이나 완전한 자기 소유가 얼마나 드문지를 강조하며, 그러한 상태가 예상되는 이유를 설명한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "expected",
+            "meaning": "기대되는",
+            "note": "이 문맥에서는 어떤 상황이나 결과가 일어날 것으로 예상되는 것을 의미한다."
+          },
+          {
+            "word": "no one",
+            "meaning": "아무도",
+            "note": "전체 집단에 대한 부정적 표현으로, 모든 개인이 해당 특성을 갖추지 못함을 나타낸다."
+          },
+          {
+            "word": "own",
+            "meaning": "자신의",
+            "note": "자신의 소유나 완전한 통제를 의미하며, 여기서는 완전한 자기 실현을 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "그들은 자신을 제외하고 모든 것을 소유하게 되고, 결국 그들은 자신의 다른 소유물들 중 하나가 되어버린다.",
+        "explanation": "자신을 소유하지 않은 채 다른 모든 것을 소유하려는 태도가 결국 자신을 물질적 소유물 중 하나로 여기게 만든다는 의미",
+        "grammar": "동사 「possess」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "possess",
+            "meaning": "소유하다",
+            "note": "자신을 소유하지 않고 다른 것들을 소유하려는 태도를 나타냄"
+          },
+          {
+            "word": "naturally",
+            "meaning": "자연스럽게",
+            "note": "결과나 행동이 필연적이거나 당연한 것처럼 보이는 상황을 설명"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "14": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "명상을 통해 이 악순환을 끊어야 합니다. 그렇지 않으면 아무것도 이 악순환을 깨뜨릴 수 없습니다. 왜냐하면 마음으로는 깨뜨릴 수 없기 때문이고, 명상 외에는 모두 마음에 의존하기 때문입니다.",
+        "explanation": "명상을 통해 악순환을 해소해야 한다는 강조와 함께, 다른 방법으로는 악순환을 깨뜨릴 수 없다는 점을 설명하고 있습니다. 마음의 역할과 명상의 유일성을 강조하고 있습니다.",
+        "grammar": "동사원형 「Break」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "meditation",
+            "meaning": "명상",
+            "note": "정신적 집중과 내면의 평화를 찾기 위한 수행 방법."
+          },
+          {
+            "word": "broken",
+            "meaning": "깨진",
+            "note": "순환의 단절이나 해소를 의미하며, 악순환에서 벗어나는 것을 나타냅니다."
+          },
+          {
+            "word": "mind",
+            "meaning": "마음",
+            "note": "정신적 상태나 인식 과정을 의미하며, 여기서는 내면의 힘과 인식 방식을 나타냅니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "through meditation",
+            "meaning": "명상을 통해",
+            "explanation": "특정 방법이나 수단을 통해 어떤 행동을 수행한다는 의미."
+          },
+          {
+            "expression": "cannot be broken",
+            "meaning": "깨질 수 없다",
+            "explanation": "어떤 방법으로도 해결되거나 해소될 수 없다는 의미."
+          }
+        ]
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

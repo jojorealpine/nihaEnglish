@@ -1,0 +1,58 @@
+{
+  "key": "letter-203-part-01",
+  "number": 203,
+  "generationId": "01a1e8ed-5d12-7587-8889-e2ac4378bb26",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-203/01.mp3",
+      "start": 0.0,
+      "end": 0.62805
+    },
+    {
+      "index": 1,
+      "text": "Live in the body intimately and deeply.",
+      "path": "audio/1971-203/02.mp3",
+      "start": 1.9958049999999998,
+      "end": 4.699841
+    },
+    {
+      "index": 2,
+      "text": "Feel the body more and let the body feel more.",
+      "path": "audio/1971-203/03.mp3",
+      "start": 6.157415,
+      "end": 9.266053999999999
+    },
+    {
+      "index": 3,
+      "text": "It is astonishing how many people are almost completely unaware of themselves physically.",
+      "path": "audio/1971-203/04.mp3",
+      "start": 10.716190000000001,
+      "end": 15.963083999999998
+    },
+    {
+      "index": 4,
+      "text": "The body is suppressed and denied life too much, that is why it is just a dead weight and not a living joy.",
+      "path": "audio/1971-203/05.mp3",
+      "start": 17.493990999999998,
+      "end": 24.010045
+    },
+    {
+      "index": 5,
+      "text": "That is why I insist: go back into the body and regain the wonderful joy in its movements, sheer movements.",
+      "path": "audio/1971-203/06.mp3",
+      "start": 25.517550999999997,
+      "end": 33.761995
+    },
+    {
+      "index": 6,
+      "text": "Make it a meditation and you will be enriched beyond comprehension.",
+      "path": "audio/1971-203/07.mp3",
+      "start": 35.172902,
+      "end": 40.49
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "letter-017-part-01",
+  "number": 17,
+  "generationId": "01a1e4e9-f30d-7f18-8bce-4c3029b28908",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love",
+      "path": "audio/1964-17/01.mp3",
+      "start": 0.0,
+      "end": 0.593016
+    },
+    {
+      "index": 1,
+      "text": "I have received your letter.",
+      "path": "audio/1964-17/02.mp3",
+      "start": 1.7253509999999999,
+      "end": 3.198458
+    },
+    {
+      "index": 2,
+      "text": "You long for the peace I have within me.",
+      "path": "audio/1964-17/03.mp3",
+      "start": 4.416735,
+      "end": 6.623764
+    },
+    {
+      "index": 3,
+      "text": "It is yours any time.",
+      "path": "audio/1964-17/04.mp3",
+      "start": 7.8982090000000005,
+      "end": 9.44746
+    },
+    {
+      "index": 4,
+      "text": "It is the deepest possibility in everyone, it only has to be uncovered As springs of water lie hidden under layers of earth so does bliss lie hidden within us.",
+      "path": "audio/1964-17/05.mp3",
+      "start": 10.644127000000001,
+      "end": 20.387596000000002
+    },
+    {
+      "index": 5,
+      "text": "The possibility is there for everyone but only those who dig for it can redeem it.",
+      "path": "audio/1964-17/06.mp3",
+      "start": 21.871223999999998,
+      "end": 26.746327
+    },
+    {
+      "index": 6,
+      "text": "The excavation of these hidden treasures lies through religion.",
+      "path": "audio/1964-17/07.mp3",
+      "start": 28.22127,
+      "end": 31.636372
+    },
+    {
+      "index": 7,
+      "text": "Digging with it one reaches the well of light within.",
+      "path": "audio/1964-17/08.mp3",
+      "start": 33.04356,
+      "end": 36.616620999999995
+    },
+    {
+      "index": 8,
+      "text": "I have shown you how to dig and what with, but the digging has to be done by you.",
+      "path": "audio/1964-17/09.mp3",
+      "start": 38.001361,
+      "end": 43.565056999999996
+    },
+    {
+      "index": 9,
+      "text": "I know your soil is absolutely ready, with very little effort the infinite streams can be reached This state of mind is attained with the greatest good fortune so don't waste it or miss this opportunity.",
+      "path": "audio/1964-17/10.mp3",
+      "start": 45.154762000000005,
+      "end": 59.19
+    }
+  ]
+}

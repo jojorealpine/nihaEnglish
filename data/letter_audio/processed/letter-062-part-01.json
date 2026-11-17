@@ -1,0 +1,65 @@
+{
+  "key": "letter-062-part-01",
+  "number": 62,
+  "generationId": "01a1e5b8-bae9-74c2-b63a-f694f97bda76",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-62/01.mp3",
+      "start": 0.0,
+      "end": 0.514059
+    },
+    {
+      "index": 1,
+      "text": "Where is truth?",
+      "path": "audio/1969-62/02.mp3",
+      "start": 1.657959,
+      "end": 2.56195
+    },
+    {
+      "index": 2,
+      "text": "Do not search for it, for when has truth ever been found through seeking?",
+      "path": "audio/1969-62/03.mp3",
+      "start": 3.730454,
+      "end": 7.256327
+    },
+    {
+      "index": 3,
+      "text": "For in seeking, the seeker is present.",
+      "path": "audio/1969-62/04.mp3",
+      "start": 8.363900000000001,
+      "end": 10.368094999999999
+    },
+    {
+      "index": 4,
+      "text": "So don't seek but lose yourself.",
+      "path": "audio/1969-62/05.mp3",
+      "start": 11.48483,
+      "end": 13.259048
+    },
+    {
+      "index": 5,
+      "text": "He who loses himself finds truth.",
+      "path": "audio/1969-62/06.mp3",
+      "start": 14.372290000000001,
+      "end": 16.485533
+    },
+    {
+      "index": 6,
+      "text": "I don't say: Seek and you will find.",
+      "path": "audio/1969-62/07.mp3",
+      "start": 17.541247,
+      "end": 19.634172
+    },
+    {
+      "index": 7,
+      "text": "I say: He who loses himself, finds.",
+      "path": "audio/1969-62/08.mp3",
+      "start": 20.674331,
+      "end": 23.72
+    }
+  ]
+}

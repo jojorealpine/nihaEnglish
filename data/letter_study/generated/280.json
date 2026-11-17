@@ -1,0 +1,397 @@
+{
+  "sourceHash": "774634801233c1a75277bef90836429e5b4ccd65df11293309cf577d59a934d0",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "12": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "들어와요, 라고 나스레딘이 말했어요.",
+        "explanation": "나스레딘이 누군가에게 들어오라고 초대하는 말을 전달합니다.",
+        "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "Come",
+            "meaning": "들어오세요",
+            "note": "초대나 환영의 의미로 사용되었습니다."
+          },
+          {
+            "word": "said",
+            "meaning": "말했어요",
+            "note": "누가 말했는지를 설명합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "먼저 이야기를 들려줄게.",
+        "explanation": "이야기를 전달하기 전에 이야기의 내용을 소개하거나 설명하려는 의도를 나타냄.",
+        "grammar": "「must tell」에서 조동사 must 뒤에 동사원형 「tell」가 옵니다. must은 문맥에 따라 의무·강한 추측 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "tell",
+            "meaning": "이야기하다",
+            "note": "여기서는 이야기의 내용을 공유하거나 전달하려는 의도를 나타냄."
+          },
+          {
+            "word": "story",
+            "meaning": "이야기",
+            "note": "전달하려는 내용의 핵심 주제나 내용을 의미함."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "15": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "이 수프가 어떤 종류인가요? 스님께 물었습니다.",
+        "explanation": "손님이 스님에게 수프의 종류를 묻는 문장입니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "sort",
+            "meaning": "종류",
+            "note": "어떤 범주나 유형에 속하는지 묻는 표현입니다."
+          },
+          {
+            "word": "asked",
+            "meaning": "묻다",
+            "note": "누군가에게 질문을 하는 행위를 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "나스레딘은 그에게도 음식을 대접했다. 이런 일이 여러 차례 있었다.",
+        "explanation": "나스레딘이 다른 손님에게도 음식을 제공했으며, 이러한 상황이 여러 번 반복되었다는 내용을 전달한다.",
+        "grammar": "동사 「fed」는 feed의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "happened",
+            "meaning": "발생했다",
+            "note": "특정 사건이나 상황이 발생했다는 의미로 사용되었다."
+          },
+          {
+            "word": "times",
+            "meaning": "차례",
+            "note": "여러 번 반복된 상황을 나타내며, 여기서는 여러 차례의 식사나 대접이 있었음을 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "시골 친척이 나스레딘을 방문하여 오리를 가져왔습니다.",
+        "explanation": "시골 친척이 나스레딘을 방문하여 오리를 가져온 상황을 설명합니다.",
+        "grammar": "동사 「came」는 come의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "relative",
+            "meaning": "친척",
+            "note": "가족 관계에 있는 사람을 의미합니다."
+          },
+          {
+            "word": "country",
+            "meaning": "시골",
+            "note": "도시가 아닌 농촌 지역을 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "14": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "손님이 맛을 보니 마치 따뜻한 물밖에 없어 보였다.",
+        "explanation": "손님이 수프를 맛보았을 때 그 맛이 매우 평범하고 물과 비슷하게 느껴졌다는 의미입니다.",
+        "grammar": "동사 「seemed」는 seem의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "guest",
+            "meaning": "손님",
+            "note": "이 문맥에서는 식사 자리에 참석한 사람을 가리킵니다."
+          },
+          {
+            "word": "tasted",
+            "meaning": "맛을 보다",
+            "note": "수프의 맛을 체험하거나 확인하는 행위를 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "perfect",
+      "notes": {
+        "korean": "나스레딘의 집은 멀리서 온 여행객들을 위한 레스토랑처럼 변했다.",
+        "explanation": "나스레딘의 집이 많은 여행객들을 맞이하며 음식을 제공하는 장소로 변모했다는 의미입니다.",
+        "grammar": "「had become」는 had + 과거분사로 만든 과거완료 표현입니다. 과거의 기준 시점보다 앞선 일을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "restaurant",
+            "meaning": "레스토랑",
+            "note": "식사를 제공하는 장소를 의미합니다."
+          },
+          {
+            "word": "visitors",
+            "meaning": "방문객",
+            "note": "특정 장소를 방문하는 사람들을 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "모든 사람이 오리 기증자의 친구의 친구였다.",
+        "explanation": "문장은 오리를 기증한 사람과 직접적인 관계가 없더라도, 그 사람의 친구와 친구 관계에 있는 사람들까지 포괄적으로 친밀한 관계임을 나타냅니다.",
+        "grammar": "「was」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "friend",
+            "meaning": "친구",
+            "note": "관계의 친밀함을 나타내며, 여기서는 간접적인 연결 관계를 설명합니다."
+          },
+          {
+            "word": "original",
+            "meaning": "원래의",
+            "note": "기증자의 본질적인 정체성이나 최초의 상태를 지칭합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "16": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "나스레딘이 말했다, 이것이 바로 오리탕이야.",
+        "explanation": "나스레딘이 오리탕에 대한 농담을 던지며 그 정체를 설명하고 있다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "said",
+            "meaning": "말했다",
+            "note": "직접적인 발화를 나타냄"
+          },
+          {
+            "word": "soup",
+            "meaning": "탕",
+            "note": "음식의 한 종류를 지칭하며, 여기서는 오리탕을 의미함"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "13": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "그들은 식탁에 앉았고, 나스레딘은 아내에게 수프를 가져오라고 했습니다.",
+        "explanation": "그들이 식탁에 앉은 후 나스레딘이 아내에게 수프를 가져오라고 요청한 상황을 설명합니다.",
+        "grammar": "동사 「seated」는 seat의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "seated",
+            "meaning": "앉다",
+            "note": "이 문맥에서는 사람들이 특정 장소, 여기서는 식탁에 앉아 있다는 상태를 나타냅니다."
+          },
+          {
+            "word": "table",
+            "meaning": "식탁",
+            "note": "사람들이 식사나 대화를 나누는 장소를 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "have-to",
+      "notes": {
+        "korean": "진실은 결코 간접적으로 전해지지 않아요. 스스로 알고 체험해야 합니다.",
+        "explanation": "진실은 다른 사람을 통해 간접적으로 얻을 수 없으며, 직접 경험하고 이해해야 한다는 의미입니다.",
+        "grammar": "「has to know」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "secondhand",
+            "meaning": "간접적으로",
+            "note": "다른 사람을 통해 얻어진 것을 의미합니다."
+          },
+          {
+            "word": "transferred",
+            "meaning": "전달되다",
+            "note": "지식이나 감정이 다른 사람에게 전해지는 것을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "10": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "passive",
+      "notes": {
+        "korean": "마침내 나수리딘은 짜증이 났다. 어느 날 문 두드리는 소리가 들렸고 낯선 사람이 나타났다.",
+        "explanation": "나수리딘이 마침내 짜증을 느끼게 된 상황을 설명하며, 그 이유가 문을 두드린 낯선 방문객 때문임을 나타낸다.",
+        "grammar": "「was exasperated」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "exasperated",
+            "meaning": "짜증이 난",
+            "note": "상황에 대한 답답함이나 짜증을 표현한다."
+          },
+          {
+            "word": "stranger",
+            "meaning": "낯선 사람",
+            "note": "알려지지 않은 사람을 의미하며, 이 경우 나수리딘에게 예상치 못한 방문을 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "11": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "그는 당신에게 오리를 시골에서 가져온 사람의 친구의 친구의 친구라고 말했습니다.",
+        "explanation": "문장은 자신이 오리를 가져온 사람과 직접적인 관계가 아니지만, 그 사람과 간접적으로 연결되어 있음을 강조합니다.",
+        "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "brought",
+            "meaning": "가져왔다",
+            "note": "이 문맥에서는 「가져왔다」의 뜻으로 읽습니다."
+          },
+          {
+            "word": "country",
+            "meaning": "시골",
+            "note": "오리가 생산되거나 유래한 곳을 나타내며, 일반적으로 농촌 지역을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "그래서 모든 전통은 그것을 왜곡하고, 모든 경전과 모든 말들은 결국 무알라 나스루딘의 농담의 국물과 다름없다.",
+        "explanation": "문장은 진실이 직접 경험하고 깨달아야 함을 강조하며, 전통, 경전, 말들이 진실을 왜곡한다고 비판한다. 무알라 나스루딘의 비유를 통해 진실의 본질을 간접적으로 표현한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "tradition",
+            "meaning": "전통",
+            "note": "특정 문화나 집단에서 전해 내려오는 관습이나 신념 체계"
+          },
+          {
+            "word": "falsifies",
+            "meaning": "왜곡하다",
+            "note": "진실을 왜곡하거나 왜곡된 형태로 표현하다"
+          },
+          {
+            "word": "scriptures",
+            "meaning": "경전",
+            "note": "종교적 또는 영적 가르침을 담은 텍스트"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "나스레딘은 감사하며 손님과 함께 나누었다. 곧 다른 손님이 찾아왔는데, 그는 나스레딘에게 오리를 준 사람의 친구라고 말했다.",
+        "explanation": "나스레딘은 오리를 받은 것에 대해 감사하며 함께 나누었고, 잠시 후 오리를 준 사람의 친구라고 주장하는 새로운 손님이 왔다.",
+        "grammar": "「was」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "grateful",
+            "meaning": "감사하는",
+            "note": "누군가에게 도움이나 선물을 받았을 때 그에 대한 감사의 감정을 표현한다."
+          },
+          {
+            "word": "Presently",
+            "meaning": "곧",
+            "note": "즉시 또는 곧 일어날 상황을 나타내는 부사로, 시간의 경과를 짧게 표현한다."
+          },
+          {
+            "word": "visitor",
+            "meaning": "손님",
+            "note": "다른 장소를 방문하여 머무르는 사람을 가리킨다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "key": "letter-034-part-02",
+  "number": 34,
+  "generationId": "01a1e4ec-73ca-7717-bda3-ff427ae76345",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "I would like the bliss that has arisen in my heart to make you thirst for it more and more.",
+      "path": "audio/1965-34/11.mp3",
+      "start": 0.0,
+      "end": 6.091179
+    },
+    {
+      "index": 11,
+      "text": "Queen of Mewal! there is no reason for you to worry about it!",
+      "path": "audio/1965-34/12.mp3",
+      "start": 7.575306,
+      "end": 11.96
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "key": "letter-247-part-02",
+  "number": 247,
+  "generationId": "01a1e8fa-2dd6-702d-a75c-2ca5d23e901b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "So please do not identify yourself with it; be a witness to it, and you will be in the jump.",
+      "path": "audio/1971-247/11.mp3",
+      "start": 0.0,
+      "end": 5.482653
+    },
+    {
+      "index": 11,
+      "text": "It is time now to die to the old ego and be reborn to the supreme self!",
+      "path": "audio/1971-247/12.mp3",
+      "start": 6.913107,
+      "end": 12.67
+    }
+  ]
+}

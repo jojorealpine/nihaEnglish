@@ -1,0 +1,65 @@
+{
+  "key": "letter-071-part-01",
+  "number": 71,
+  "generationId": "01a1e629-361c-7e6b-895b-e69085d2315f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-71/01.mp3",
+      "start": 0.0,
+      "end": 0.795283
+    },
+    {
+      "index": 1,
+      "text": "I am extremely grateful for your loving letter.",
+      "path": "audio/1969-71/02.mp3",
+      "start": 2.028277,
+      "end": 5.037755
+    },
+    {
+      "index": 2,
+      "text": "I take life as a whole and I am incapable of viewing it in bits and pieces; it is already the whole but because it has been viewed in fragments for so long it has become perverted.",
+      "path": "audio/1969-71/03.mp3",
+      "start": 6.335714,
+      "end": 17.219501
+    },
+    {
+      "index": 3,
+      "text": "There is no politics, no morality, no religion; there is life, there is God, whole and unfragmented It has to be sought, recognized and lived in all its forms, therefore I shall continue to speak on all its forms.",
+      "path": "audio/1969-71/04.mp3",
+      "start": 18.673741,
+      "end": 33.940023
+    },
+    {
+      "index": 4,
+      "text": "And this is only the beginning.",
+      "path": "audio/1969-71/05.mp3",
+      "start": 35.152834000000006,
+      "end": 36.738209
+    },
+    {
+      "index": 5,
+      "text": "Answering journalists is just preparing the ground All paths lead to one end - certain friends might take some time to understand this truth.",
+      "path": "audio/1969-71/06.mp3",
+      "start": 38.117279,
+      "end": 47.870045
+    },
+    {
+      "index": 6,
+      "text": "As things are, this delay in understanding the truth is unavoidable, but seekers of truth won't be afraid - courage is the first condition in the search for truth.",
+      "path": "audio/1969-71/07.mp3",
+      "start": 49.242109,
+      "end": 60.158549
+    },
+    {
+      "index": 7,
+      "text": "Remember, as long as spirituality does not become a philosophy of the whole life it proves impotent, and only escapists will take shelter behind it.",
+      "path": "audio/1969-71/08.mp3",
+      "start": 61.828776000000005,
+      "end": 72.2
+    }
+  ]
+}

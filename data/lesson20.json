@@ -1,0 +1,277 @@
+{
+  "id": "1965-20",
+  "title": "1965 / 20",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "night",
+      "meaning": "밤",
+      "note": "문장에서 시간적 배경을 나타내며, 고요하고 조용한 분위기를 연출합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thought",
+      "meaning": "생각했어",
+      "note": "화자의 내면적인 감정과 상상력을 드러냅니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "surely",
+      "meaning": "확실히",
+      "note": "화자의 확신과 믿음을 강조하며, 소하나의 행동에 대한 긍정적인 기대를 보여줍니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "began",
+      "meaning": "시작하다",
+      "note": "이 문맥에서는 화자가 등불들을 관찰하기 시작한 시점을 나타내.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "lamps",
+      "meaning": "등불",
+      "note": "주변에 밝혀진 등불들을 의미하며, 이 등불들이 특정한 사람을 위해 밝혀진 것임을 깨닫게 되는 상황을 설명해.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "stay",
+      "meaning": "머무르다",
+      "note": "이 문맥에서는 특정 장소나 상황에서 시간을 보내는 것을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "day",
+      "meaning": "하루",
+      "note": "하루라는 시간 단위를 나타내며, 화자가 얼마나 오래 머무를 것인지를 구체화합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "talked",
+      "meaning": "이야기하다",
+      "note": "여기서는 다른 사람들에게 특정 사람에 대한 정보를 전달하거나 언급한 것을 의미한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "eager",
+      "meaning": "간절히 원하다",
+      "note": "이 단어는 다른 사람들이 특정 사람을 만나는 것에 대해 강한 열망을 가지고 있음을 나타낸다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1965-20/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Last night when lamps and lamps were lit up all over town I thought: My Sohan, too, must have lit lamps and a few among them must surely be for me!",
+      "korean": "어젯밤 마을 곳곳에 불이 켜진 것을 보고 나는 생각했어: 내 소하나도 불빛을 켜고, 그 중 몇 개는 분명히 나를 위한 것일 거야!",
+      "explanation": "마을 전체가 불빛으로 물든 밤에 화자가 사랑하는 사람인 소하나가 자신을 위해 불빛을 켜놓았을 것이라고 상상하며 생각하는 장면을 묘사합니다.",
+      "grammar": "동사 「thought」는 think의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1965-20/02.mp3",
+      "vocabulary": [
+        {
+          "word": "night",
+          "meaning": "밤",
+          "note": "문장에서 시간적 배경을 나타내며, 고요하고 조용한 분위기를 연출합니다."
+        },
+        {
+          "word": "thought",
+          "meaning": "생각했어",
+          "note": "화자의 내면적인 감정과 상상력을 드러냅니다."
+        },
+        {
+          "word": "surely",
+          "meaning": "확실히",
+          "note": "화자의 확신과 믿음을 강조하며, 소하나의 행동에 대한 긍정적인 기대를 보여줍니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "And then I began to see the lamps you had lit, and also those your love has kept lit always.",
+      "korean": "그리고 나는 네가 밝힌 등불들을 보기 시작했고, 네 사랑이 항상 밝혀온 등불들도 함께 보았어.",
+      "explanation": "이 문장은 화자가 주변에 밝혀진 등불들을 관찰하며, 특히 그 중 일부가 특정한 사람(사랑하는 사람)을 위해 밝혀진 것임을 깨닫게 되는 순간을 묘사하고 있어.",
+      "grammar": "동사 「began」는 begin의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1965-20/03.mp3",
+      "vocabulary": [
+        {
+          "word": "began",
+          "meaning": "시작하다",
+          "note": "이 문맥에서는 화자가 등불들을 관찰하기 시작한 시점을 나타내."
+        },
+        {
+          "word": "lamps",
+          "meaning": "등불",
+          "note": "주변에 밝혀진 등불들을 의미하며, 이 등불들이 특정한 사람을 위해 밝혀진 것임을 깨닫게 되는 상황을 설명해."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "I shall stay here another day.",
+      "korean": "여기서 하루 더 머무를게요.",
+      "explanation": "이 문장은 화자가 현재 위치나 상황에서 하루 더 머무르겠다는 의지를 표현합니다.",
+      "grammar": "「shall stay」에서 조동사 shall 뒤에 동사원형 「stay」가 옵니다. shall은 문맥에 따라 미래·의지·제안 등을 나타냅니다.",
+      "audio": "audio/1965-20/04.mp3",
+      "vocabulary": [
+        {
+          "word": "stay",
+          "meaning": "머무르다",
+          "note": "이 문맥에서는 특정 장소나 상황에서 시간을 보내는 것을 의미합니다."
+        },
+        {
+          "word": "day",
+          "meaning": "하루",
+          "note": "하루라는 시간 단위를 나타내며, 화자가 얼마나 오래 머무를 것인지를 구체화합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "I have talked of you to everybody and they are eager to meet you.",
+      "korean": "나는 너에 대해 모든 사람들에게 이야기했고, 그들은 너를 만나고 싶어한다.",
+      "explanation": "이 문장은 화자가 다른 사람들에게 특정 사람(너)에 대해 이야기하여 그 사람을 만나고 싶어하는 다른 사람들의 열망을 전달한다.",
+      "grammar": "「have talked」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1965-20/05.mp3",
+      "vocabulary": [
+        {
+          "word": "talked",
+          "meaning": "이야기하다",
+          "note": "여기서는 다른 사람들에게 특정 사람에 대한 정보를 전달하거나 언급한 것을 의미한다."
+        },
+        {
+          "word": "eager",
+          "meaning": "간절히 원하다",
+          "note": "이 단어는 다른 사람들이 특정 사람을 만나는 것에 대해 강한 열망을 가지고 있음을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "어젯밤 마을 곳곳에 불이 켜진 것을 보고 나는 생각했어: 내 소하나도 불빛을 켜고, 그 중 몇 개는 분명히 나를 위한 것일 거야! 그리고 나는 네가 밝힌 등불들을 보기 시작했고, 네 사랑이 항상 밝혀온 등불들도 함께 보았어.",
+    "여기서 하루 더 머무를게요. 나는 너에 대해 모든 사람들에게 이야기했고, 그들은 너를 만나고 싶어한다."
+  ],
+  "fullAudio": "audio/1965-20/script_all.mp3",
+  "originalText": "Love\n\nLast night when lamps and lamps\nwere lit up all over town\nI thought: My Sohan, too, must have lit lamps\nand a few among them must surely be for me!\nAnd then I began to see the lamps you had lit,\nand also those your love has kept lit always.\n\nI shall stay here another day.\nI have talked of you to everybody\nand they are eager to meet you.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 20,
+    "year": 1965,
+    "pages": [
+      {
+        "file": "IMG_0785 2.JPG",
+        "side": "left",
+        "printedPage": 22
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "audioVoice": "Views",
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  }
+}

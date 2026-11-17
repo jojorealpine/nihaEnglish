@@ -1,0 +1,51 @@
+{
+  "key": "letter-145-part-02",
+  "number": 145,
+  "generationId": "01a1e6d6-5a2e-70f4-b870-2f66f2f8da77",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "So go on, make your journey, for the path to truth starts with this doubt.",
+      "path": "audio/1970-145/11.mp3",
+      "start": 0.0,
+      "end": 4.800544
+    },
+    {
+      "index": 11,
+      "text": "Doubt is sadhana",
+      "path": "audio/1970-145/12.mp3",
+      "start": 6.20619,
+      "end": 7.741995
+    },
+    {
+      "index": 12,
+      "text": "because doubt eventually exposes the incontestable truth.",
+      "path": "audio/1970-145/13.mp3",
+      "start": 9.043492,
+      "end": 12.79678
+    },
+    {
+      "index": 13,
+      "text": "Inside the seed of doubt is the tree of trust, so if you plant the seed of questioning and work on it you are bound to harvest trust.",
+      "path": "audio/1970-145/14.mp3",
+      "start": 14.187891,
+      "end": 21.687710000000003
+    },
+    {
+      "index": 14,
+      "text": "And beware all religions!",
+      "path": "audio/1970-145/15.mp3",
+      "start": 23.117528,
+      "end": 25.038141
+    },
+    {
+      "index": 15,
+      "text": "Only religions obstruct the true path of religion.",
+      "path": "audio/1970-145/16.mp3",
+      "start": 26.546553,
+      "end": 29.81
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "key": "letter-238-part-02",
+  "number": 238,
+  "generationId": "01a1e8f7-cb92-752c-8ca6-2ca466d3a91b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "This is the only way you can be helpful to her.",
+      "path": "audio/1971-238/11.mp3",
+      "start": 0.0,
+      "end": 2.967143
+    },
+    {
+      "index": 11,
+      "text": "Let her be alone as much as possible.",
+      "path": "audio/1971-238/12.mp3",
+      "start": 4.339683,
+      "end": 6.722812
+    },
+    {
+      "index": 12,
+      "text": "Do not talk with her except where it is needed absolutely, and then too be telegraphic.",
+      "path": "audio/1971-238/13.mp3",
+      "start": 8.082789,
+      "end": 14.257663999999998
+    },
+    {
+      "index": 13,
+      "text": "But if she herself wants to talk let her talk as much as she likes, and you yourself just be a passive listener.",
+      "path": "audio/1971-238/14.mp3",
+      "start": 15.646327000000001,
+      "end": 22.298141
+    },
+    {
+      "index": 14,
+      "text": "Let her do whatsoever she wants to do or not do and soon everything will be okay.",
+      "path": "audio/1971-238/15.mp3",
+      "start": 23.5639,
+      "end": 28.921111
+    },
+    {
+      "index": 15,
+      "text": "Do not worry at all.",
+      "path": "audio/1971-238/16.mp3",
+      "start": 30.711474,
+      "end": 32.038254
+    },
+    {
+      "index": 16,
+      "text": "I will always be there beside you - and if you can see, you will be able to see me also.",
+      "path": "audio/1971-238/17.mp3",
+      "start": 33.270748000000005,
+      "end": 38.379841
+    },
+    {
+      "index": 17,
+      "text": "Of course Bhakti will feel my presence and become aware of me so many times in these days.",
+      "path": "audio/1971-238/18.mp3",
+      "start": 39.906236,
+      "end": 45.614286
+    },
+    {
+      "index": 18,
+      "text": "Convey my blessings to her.",
+      "path": "audio/1971-238/19.mp3",
+      "start": 47.140227,
+      "end": 49.27
+    }
+  ]
+}

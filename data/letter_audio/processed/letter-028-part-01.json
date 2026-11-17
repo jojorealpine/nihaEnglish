@@ -1,0 +1,79 @@
+{
+  "key": "letter-028-part-01",
+  "number": 28,
+  "generationId": "01a1e4eb-71bb-7646-b766-ebdf80e97fcb",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1965-28/01.mp3",
+      "start": 0.0,
+      "end": 0.579819
+    },
+    {
+      "index": 1,
+      "text": "I received your letter.",
+      "path": "audio/1965-28/02.mp3",
+      "start": 1.691202,
+      "end": 2.847279
+    },
+    {
+      "index": 2,
+      "text": "I am blissful to learn of your bliss.",
+      "path": "audio/1965-28/03.mp3",
+      "start": 4.027959,
+      "end": 5.914218
+    },
+    {
+      "index": 3,
+      "text": "This for me is bliss.",
+      "path": "audio/1965-28/04.mp3",
+      "start": 7.195805,
+      "end": 8.744534999999999
+    },
+    {
+      "index": 4,
+      "text": "With every breath I pray for all to be filled with bliss.",
+      "path": "audio/1965-28/05.mp3",
+      "start": 9.958753000000002,
+      "end": 12.738366999999998
+    },
+    {
+      "index": 5,
+      "text": "This is my understanding of religion.",
+      "path": "audio/1965-28/06.mp3",
+      "start": 14.067392,
+      "end": 15.98059
+    },
+    {
+      "index": 6,
+      "text": "The religion that ends in temples, mosques, churches, is a dead religion.",
+      "path": "audio/1965-28/07.mp3",
+      "start": 17.140635,
+      "end": 21.649025
+    },
+    {
+      "index": 7,
+      "text": "A religion that fails to go beyond dead words and doctrines has no significance.",
+      "path": "audio/1965-28/08.mp3",
+      "start": 23.123151999999997,
+      "end": 28.454694
+    },
+    {
+      "index": 8,
+      "text": "An authentic and living religion unites one with the whole and leads one to the whole.",
+      "path": "audio/1965-28/09.mp3",
+      "start": 29.958707,
+      "end": 35.825849999999996
+    },
+    {
+      "index": 9,
+      "text": "Religion is whatever unites you with the cosmos.",
+      "path": "audio/1965-28/10.mp3",
+      "start": 37.260454,
+      "end": 40.91
+    }
+  ]
+}

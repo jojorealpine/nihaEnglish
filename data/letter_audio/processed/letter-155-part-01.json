@@ -1,0 +1,79 @@
+{
+  "key": "letter-155-part-01",
+  "number": 155,
+  "generationId": "01a1e6f4-5862-7191-85b2-880929fd8e43",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-155/01.mp3",
+      "start": 0.0,
+      "end": 0.5880270000000001
+    },
+    {
+      "index": 1,
+      "text": "The world is neither unhappiness nor happiness.",
+      "path": "audio/1970-155/02.mp3",
+      "start": 1.783855,
+      "end": 4.773016
+    },
+    {
+      "index": 2,
+      "text": "The world becomes the same as we see it.",
+      "path": "audio/1970-155/03.mp3",
+      "start": 6.022381,
+      "end": 8.203128999999999
+    },
+    {
+      "index": 3,
+      "text": "Our vision is the world.",
+      "path": "audio/1970-155/04.mp3",
+      "start": 9.556122,
+      "end": 11.197958999999999
+    },
+    {
+      "index": 4,
+      "text": "Each person is the creator of his own world.",
+      "path": "audio/1970-155/05.mp3",
+      "start": 12.460385,
+      "end": 14.948186
+    },
+    {
+      "index": 5,
+      "text": "If every moment of life gives you unhappiness, then the mistake is somewhere in your own vision.",
+      "path": "audio/1970-155/06.mp3",
+      "start": 16.226032,
+      "end": 21.270567
+    },
+    {
+      "index": 6,
+      "text": "And if all that you see around you is darkness, then certainly you are keeping closed the eyes that see light.",
+      "path": "audio/1970-155/07.mp3",
+      "start": 22.872676,
+      "end": 29.964308000000003
+    },
+    {
+      "index": 7,
+      "text": "Give a fresh thought to yourself.",
+      "path": "audio/1970-155/08.mp3",
+      "start": 31.44458,
+      "end": 33.451564999999995
+    },
+    {
+      "index": 8,
+      "text": "Look at yourself from a new angle.",
+      "path": "audio/1970-155/09.mp3",
+      "start": 34.927800000000005,
+      "end": 36.939682999999995
+    },
+    {
+      "index": 9,
+      "text": "If you put the blame on others, you will never be able to see your own mistake.",
+      "path": "audio/1970-155/10.mp3",
+      "start": 38.487052000000006,
+      "end": 44.2
+    }
+  ]
+}

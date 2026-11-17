@@ -1,0 +1,79 @@
+{
+  "key": "letter-080-part-01",
+  "number": 80,
+  "generationId": "01a1e62e-8b03-7a36-8165-08e3453765fd",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-80/01.mp3",
+      "start": 0.0,
+      "end": 0.5217229999999999
+    },
+    {
+      "index": 1,
+      "text": "Do not fight with yourself.",
+      "path": "audio/1970-80/02.mp3",
+      "start": 1.51356,
+      "end": 2.850612
+    },
+    {
+      "index": 2,
+      "text": "You are as you are - do not strive to change.",
+      "path": "audio/1970-80/03.mp3",
+      "start": 3.9257599999999995,
+      "end": 6.327937
+    },
+    {
+      "index": 3,
+      "text": "Do not swim in life, just float like a leaf on the stream.",
+      "path": "audio/1970-80/04.mp3",
+      "start": 7.306259,
+      "end": 10.547006999999999
+    },
+    {
+      "index": 4,
+      "text": "Keep away from sadhanas, mere sadhanas.",
+      "path": "audio/1970-80/05.mp3",
+      "start": 11.557143,
+      "end": 13.911541999999999
+    },
+    {
+      "index": 5,
+      "text": "This is the only sadhana.",
+      "path": "audio/1970-80/06.mp3",
+      "start": 14.949592,
+      "end": 16.365011000000003
+    },
+    {
+      "index": 6,
+      "text": "Where is there to go?",
+      "path": "audio/1970-80/07.mp3",
+      "start": 17.452063,
+      "end": 18.393764
+    },
+    {
+      "index": 7,
+      "text": "What is there to become?",
+      "path": "audio/1970-80/08.mp3",
+      "start": 19.422608,
+      "end": 20.685079
+    },
+    {
+      "index": 8,
+      "text": "What is there to find?",
+      "path": "audio/1970-80/09.mp3",
+      "start": 22.103696,
+      "end": 23.447823
+    },
+    {
+      "index": 9,
+      "text": "What is, is here and now.",
+      "path": "audio/1970-80/10.mp3",
+      "start": 24.855985999999998,
+      "end": 27.77
+    }
+  ]
+}

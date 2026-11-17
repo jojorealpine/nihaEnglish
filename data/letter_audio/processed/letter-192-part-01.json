@@ -1,0 +1,79 @@
+{
+  "key": "letter-192-part-01",
+  "number": 192,
+  "generationId": "01a1e8ea-4475-7328-877b-a17cee432f80",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-192/01.mp3",
+      "start": 0.0,
+      "end": 0.789456
+    },
+    {
+      "index": 1,
+      "text": "Do not think of others and waste your time; really, that is a subtle and cunning way of the mind to escape from itself.",
+      "path": "audio/1971-192/02.mp3",
+      "start": 2.1766669999999997,
+      "end": 9.089433
+    },
+    {
+      "index": 2,
+      "text": "Once a monk asked Ummon: Sir, you always say that Buddhism helps us in every possible way, but how can it help the blind, the deaf or the dumb?",
+      "path": "audio/1971-192/03.mp3",
+      "start": 10.509206,
+      "end": 20.446712
+    },
+    {
+      "index": 3,
+      "text": "The blind cannot see the teacher's staff that is raised before them, the deaf cannot hear the teacher's words, no matter how wise, the dumb cannot ask their questions or speak their understanding: so since we cannot help these people how can we say that Buddhism helps in every possible way?",
+      "path": "audio/1971-192/04.mp3",
+      "start": 21.901972999999998,
+      "end": 40.765193
+    },
+    {
+      "index": 4,
+      "text": "What good is it?",
+      "path": "audio/1971-192/05.mp3",
+      "start": 42.04424,
+      "end": 43.048140999999994
+    },
+    {
+      "index": 5,
+      "text": "Ummon just remained silent for a while and then abruptly poked at the questioner with his stick.",
+      "path": "audio/1971-192/06.mp3",
+      "start": 44.399433,
+      "end": 48.910385
+    },
+    {
+      "index": 6,
+      "text": "The monk of course jumped back.",
+      "path": "audio/1971-192/07.mp3",
+      "start": 50.167891000000004,
+      "end": 51.894217999999995
+    },
+    {
+      "index": 7,
+      "text": "Ah! said Ummon.",
+      "path": "audio/1971-192/08.mp3",
+      "start": 53.611995,
+      "end": 55.323923
+    },
+    {
+      "index": 8,
+      "text": "I see you are not blind!",
+      "path": "audio/1971-192/09.mp3",
+      "start": 56.952063,
+      "end": 58.566395
+    },
+    {
+      "index": 9,
+      "text": "Then he told the monk to come forward, which he did.",
+      "path": "audio/1971-192/10.mp3",
+      "start": 60.090295000000005,
+      "end": 64.78
+    }
+  ]
+}

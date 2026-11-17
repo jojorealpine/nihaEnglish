@@ -1,0 +1,79 @@
+{
+  "key": "letter-225-part-01",
+  "number": 225,
+  "generationId": "01a1e8f4-19a2-72ec-8b70-b07a7c8f0280",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-225/01.mp3",
+      "start": 0.0,
+      "end": 0.626145
+    },
+    {
+      "index": 1,
+      "text": "Man can only know what God is not.",
+      "path": "audio/1971-225/02.mp3",
+      "start": 2.057302,
+      "end": 4.337642
+    },
+    {
+      "index": 2,
+      "text": "To know what God is, is impossible because that's where the realm of being begins.",
+      "path": "audio/1971-225/03.mp3",
+      "start": 5.668005,
+      "end": 10.765578
+    },
+    {
+      "index": 3,
+      "text": "You cannot know God but you can be, and in that dimension is the only knowing.",
+      "path": "audio/1971-225/04.mp3",
+      "start": 12.109819000000002,
+      "end": 17.465941
+    },
+    {
+      "index": 4,
+      "text": "But that knowing is altogether different from all our other knowing because in that knowing there is no knower and no known, but only knowing.",
+      "path": "audio/1971-225/05.mp3",
+      "start": 18.902404,
+      "end": 27.263787
+    },
+    {
+      "index": 5,
+      "text": "That is why in that dimension knowing and being are the same.",
+      "path": "audio/1971-225/06.mp3",
+      "start": 28.688798,
+      "end": 32.654694
+    },
+    {
+      "index": 6,
+      "text": "There is even no knowledge. because knowledge is dead and therefore a thing.",
+      "path": "audio/1971-225/07.mp3",
+      "start": 34.048866000000004,
+      "end": 39.555645999999996
+    },
+    {
+      "index": 7,
+      "text": "Moreover, knowledge is always of the past, and God is never in the past or in the future.",
+      "path": "audio/1971-225/08.mp3",
+      "start": 41.027483000000004,
+      "end": 47.073854999999995
+    },
+    {
+      "index": 8,
+      "text": "God is now, always now; and here, and always here.",
+      "path": "audio/1971-225/09.mp3",
+      "start": 48.544785000000005,
+      "end": 53.385306
+    },
+    {
+      "index": 9,
+      "text": "Close your eyes and see.",
+      "path": "audio/1971-225/10.mp3",
+      "start": 54.844762,
+      "end": 57.39
+    }
+  ]
+}

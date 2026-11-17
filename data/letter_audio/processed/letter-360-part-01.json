@@ -1,0 +1,79 @@
+{
+  "key": "letter-360-part-01",
+  "number": 360,
+  "generationId": "01a1e918-5f11-7ced-ab53-816dca5381b1",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-360/01.mp3",
+      "start": 0.0,
+      "end": 0.736961
+    },
+    {
+      "index": 1,
+      "text": "Goethe is said to have cried when dying: Light, light, more light!",
+      "path": "audio/1971-360/02.mp3",
+      "start": 1.96644,
+      "end": 5.534717
+    },
+    {
+      "index": 2,
+      "text": "And Miguel Unamuno has responded with his: No - warmth, warmth, more warmth!",
+      "path": "audio/1971-360/03.mp3",
+      "start": 6.785556,
+      "end": 13.014467
+    },
+    {
+      "index": 3,
+      "text": "For we die of cold and not of darkness!",
+      "path": "audio/1971-360/04.mp3",
+      "start": 14.312562000000002,
+      "end": 16.930476000000002
+    },
+    {
+      "index": 4,
+      "text": "But I say to you that we die neither because of cold nor because of darkness but because of our lust for living or because of our fear of death - which is to say the same thing in different ways.",
+      "path": "audio/1971-360/05.mp3",
+      "start": 18.228685,
+      "end": 28.410204
+    },
+    {
+      "index": 5,
+      "text": "Do not look at death as opposite to life, because it is not.",
+      "path": "audio/1971-360/06.mp3",
+      "start": 29.829365,
+      "end": 34.17229
+    },
+    {
+      "index": 6,
+      "text": "And live death moment to moment.",
+      "path": "audio/1971-360/07.mp3",
+      "start": 35.701497,
+      "end": 37.754557999999996
+    },
+    {
+      "index": 7,
+      "text": "Do not postpone it for the end because that creates fear.",
+      "path": "audio/1971-360/08.mp3",
+      "start": 39.139070000000004,
+      "end": 42.558073
+    },
+    {
+      "index": 8,
+      "text": "Die each moment to the past, and then each moment you will be fresh, young and reborn.",
+      "path": "audio/1971-360/09.mp3",
+      "start": 43.948571,
+      "end": 49.270975
+    },
+    {
+      "index": 9,
+      "text": "And then there is always light because the very darkness becomes light; and warmth also, because only the dead past is cold The present is always warm.",
+      "path": "audio/1971-360/10.mp3",
+      "start": 50.746327,
+      "end": 59.9
+    }
+  ]
+}

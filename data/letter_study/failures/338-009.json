@@ -1,0 +1,5 @@
+{
+  "english": "The Gateless gate.",
+  "error": "Missing Korean explanation",
+  "response": "```json\n{\n  \"korean\": \"무문관\",\n  \"explanation\": \"이 문장은 '무문관'이라는 제목의 책이나 개념을 가리키며, 'nothingness' 즉 무(無)를 통과하는 관문을 의미합니다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"gate\",\n      \"meaning\": \"문관, 관문\",\n      \"note\": \"여기서는 추상적인 개념인 무(無)를 통과하는 관문을 의미합니다.\"\n    }\n  ],\n  \"expressions\": []\n}\n```"
+}

@@ -1,0 +1,51 @@
+{
+  "key": "letter-178-part-01",
+  "number": 178,
+  "generationId": "01a1e8e6-b331-75b5-9fdd-657332510f57",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-178/01.mp3",
+      "start": 0.0,
+      "end": 0.673764
+    },
+    {
+      "index": 1,
+      "text": "The world itself is a punishment enough, so really there is no need for hell at all.",
+      "path": "audio/1971-178/02.mp3",
+      "start": 2.2018139999999997,
+      "end": 8.067642
+    },
+    {
+      "index": 2,
+      "text": "Once a man who had three wives was brought before the king of the country for punishment.",
+      "path": "audio/1971-178/03.mp3",
+      "start": 9.595261,
+      "end": 14.852245
+    },
+    {
+      "index": 3,
+      "text": "The king called in his counselors and asked them to devise the worst possible punishment for the offender, even death itself.",
+      "path": "audio/1971-178/04.mp3",
+      "start": 16.38127,
+      "end": 24.71576
+    },
+    {
+      "index": 4,
+      "text": "But they did not order his execution, ruling instead that it would be still worse for him to live with all three wives at the same time.",
+      "path": "audio/1971-178/05.mp3",
+      "start": 26.401972999999998,
+      "end": 35.087754999999994
+    },
+    {
+      "index": 5,
+      "text": "Two weeks later the man committed suicide.",
+      "path": "audio/1971-178/06.mp3",
+      "start": 36.712676,
+      "end": 40.44
+    }
+  ]
+}

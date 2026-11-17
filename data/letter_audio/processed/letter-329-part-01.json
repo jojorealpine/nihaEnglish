@@ -1,0 +1,65 @@
+{
+  "key": "letter-329-part-01",
+  "number": 329,
+  "generationId": "01a1e910-26ce-7095-8f59-b7596526a851",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-329/01.mp3",
+      "start": 0.0,
+      "end": 0.647551
+    },
+    {
+      "index": 1,
+      "text": "Yes, there is a way: but in many the will is lacking to find it.",
+      "path": "audio/1971-329/02.mp3",
+      "start": 2.10254,
+      "end": 5.953175
+    },
+    {
+      "index": 2,
+      "text": "And it is not far away, it is just by the corner, so to speak.",
+      "path": "audio/1971-329/03.mp3",
+      "start": 7.330204,
+      "end": 11.186916
+    },
+    {
+      "index": 3,
+      "text": "Knowingly or unknowingly all men long for it.",
+      "path": "audio/1971-329/04.mp3",
+      "start": 12.571927,
+      "end": 15.750295
+    },
+    {
+      "index": 4,
+      "text": "Really, the whole of life is a longing for it because without it there is no reaching, no flowering, no fulfillment.",
+      "path": "audio/1971-329/05.mp3",
+      "start": 17.075986,
+      "end": 24.071043
+    },
+    {
+      "index": 5,
+      "text": "But few men seek it and still fewer seek it rightly and still fewer find it - and all of those who find it do not enter.",
+      "path": "audio/1971-329/06.mp3",
+      "start": 25.589093,
+      "end": 34.284693999999995
+    },
+    {
+      "index": 6,
+      "text": "Only a few enter and still fewer progressively follow it.",
+      "path": "audio/1971-329/07.mp3",
+      "start": 35.724444000000005,
+      "end": 39.582018
+    },
+    {
+      "index": 7,
+      "text": "But those who follow it with their total being realize that the way is the goal itself!",
+      "path": "audio/1971-329/08.mp3",
+      "start": 41.063243,
+      "end": 46.89
+    }
+  ]
+}

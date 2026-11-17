@@ -1,0 +1,72 @@
+{
+  "key": "letter-211-part-01",
+  "number": 211,
+  "generationId": "01a1e8f0-9914-7b2a-ac24-9d1bc2a76460",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-211/01.mp3",
+      "start": 0.0,
+      "end": 0.615782
+    },
+    {
+      "index": 1,
+      "text": "The universe cares for little but play.",
+      "path": "audio/1971-211/02.mp3",
+      "start": 2.083515,
+      "end": 4.56288
+    },
+    {
+      "index": 2,
+      "text": "But man in his life does hardly anything but work, and because of this everything has become upside down.",
+      "path": "audio/1971-211/03.mp3",
+      "start": 5.953583,
+      "end": 12.409251999999999
+    },
+    {
+      "index": 3,
+      "text": "Hence the agony.",
+      "path": "audio/1971-211/04.mp3",
+      "start": 13.684762000000001,
+      "end": 14.807777999999999
+    },
+    {
+      "index": 4,
+      "text": "The law, the tao of the universe, is play - leela - and the law of human reason is work because reason cannot think beyond utility.",
+      "path": "audio/1971-211/05.mp3",
+      "start": 16.153288,
+      "end": 25.032834
+    },
+    {
+      "index": 5,
+      "text": "But existence exists beyond utility.",
+      "path": "audio/1971-211/06.mp3",
+      "start": 26.649456,
+      "end": 30.066871000000003
+    },
+    {
+      "index": 6,
+      "text": "Meditate on this gap and you will find the bridge - and the bridge is necessary because you cannot exist without work, and to exist only for work is unbearable and unlivable.",
+      "path": "audio/1971-211/07.mp3",
+      "start": 31.632472,
+      "end": 43.452766
+    },
+    {
+      "index": 7,
+      "text": "The meditative man works so that he can play more intensely - the reason for his work is play.",
+      "path": "audio/1971-211/08.mp3",
+      "start": 45.044036000000006,
+      "end": 52.287347
+    },
+    {
+      "index": 8,
+      "text": "And the unmeditative man plays so that he can work more efficiently - the reason for his play is work.",
+      "path": "audio/1971-211/09.mp3",
+      "start": 53.813265,
+      "end": 61.34
+    }
+  ]
+}

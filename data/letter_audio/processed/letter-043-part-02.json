@@ -1,0 +1,23 @@
+{
+  "key": "letter-043-part-02",
+  "number": 43,
+  "generationId": "01a1e4f0-601e-7dbf-86fe-c49d7d047f9e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Mind is what we want it to be, peace and restlessness are both our own creations.",
+      "path": "audio/1966-43/11.mp3",
+      "start": 0.0,
+      "end": 6.181474
+    },
+    {
+      "index": 11,
+      "text": "Man binds himself with his own chains and so he is always at liberty to become free of the mind.",
+      "path": "audio/1966-43/12.mp3",
+      "start": 7.584626,
+      "end": 14.05
+    }
+  ]
+}

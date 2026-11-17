@@ -1,0 +1,37 @@
+{
+  "key": "letter-237-part-01",
+  "number": 237,
+  "generationId": "01a1e8f7-76c9-7e0a-8d1c-2bdfbe18552b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-237/01.mp3",
+      "start": 0.0,
+      "end": 0.685442
+    },
+    {
+      "index": 1,
+      "text": "Religion is - living without conflict, that is, without ideas and without ideals, because whenever one lives with ideals there is conflict, there is conflict between that which is and that which should be, and then life is misery.",
+      "path": "audio/1971-237/02.mp3",
+      "start": 2.223991,
+      "end": 17.514104
+    },
+    {
+      "index": 2,
+      "text": "See this and go beyond In fact the very seeing of the fact is going beyond And please do not ask the seemingly inevitable, \"How»\" Because there is no how to it.",
+      "path": "audio/1971-237/03.mp3",
+      "start": 18.935488,
+      "end": 31.845669
+    },
+    {
+      "index": 3,
+      "text": "Either you see it or you do not see it - and moreover the how again creates conflict.",
+      "path": "audio/1971-237/04.mp3",
+      "start": 33.353401000000005,
+      "end": 40.36
+    }
+  ]
+}

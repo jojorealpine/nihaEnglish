@@ -1,0 +1,263 @@
+{
+  "id": "1971-324",
+  "title": "1971 / 324",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "plays",
+      "meaning": "역할을 한다",
+      "note": "여기서는 자아의 기능이나 역할을 나타냅니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "subtle",
+      "meaning": "미묘한",
+      "note": "자아의 영향력이 눈에 띄지 않지만 분명히 존재한다는 의미를 담고 있습니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "arrogant",
+      "meaning": "자존심 강한",
+      "note": "코끼리의 거만하고 우월감을 느끼는 태도를 나타냅니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "contemptuously",
+      "meaning": "경멸하는 눈빛으로",
+      "note": "코끼리가 쥐를 얼마나 낮게 평가하고 있는지를 보여줍니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "skinniest",
+      "meaning": "가장 마른",
+      "note": "코끼리가 쥐를 비교적 마른 동물로 묘사하며 조롱하는 표현입니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "squeaked",
+      "meaning": "조용히 속삭이듯 말하다",
+      "note": "주로 작은 동물이 조용히 말하는 상황에서 사용되며, 여기서는 쥐가 조용히 자신의 입장을 전달하고 있음을 나타낸다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "mouse",
+      "meaning": "쥐",
+      "note": "이야기의 주인공으로 등장하며, 코끼리와 대비되는 작은 체구를 가진 동물이다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sick",
+      "meaning": "아프다, 질병에 걸리다",
+      "note": "일반적으로 신체적 불편함이나 질병 상태를 나타냄",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2,
+      3,
+      4
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-324/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Ego plays a subtle role everywhere - not only in men but in mice also!",
+      "korean": "자아는 미묘하게 모든 곳에서 역할을 한다 - 남자뿐 아니라 쥐에게서도 그렇다!",
+      "explanation": "자아(ego)가 다양한 생명체에서 보이는 미묘한 영향력을 강조하는 문장입니다.",
+      "grammar": "동사 「plays」는 play의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-324/02.mp3",
+      "vocabulary": [
+        {
+          "word": "plays",
+          "meaning": "역할을 한다",
+          "note": "여기서는 자아의 기능이나 역할을 나타냅니다."
+        },
+        {
+          "word": "subtle",
+          "meaning": "미묘한",
+          "note": "자아의 영향력이 눈에 띄지 않지만 분명히 존재한다는 의미를 담고 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "An arrogant elephant looked down contemptuously at a mouse and said: You are just about the skinniest little creature I have ever seen.",
+      "korean": "자존심 강한 코끼리가 경멸하는 눈빛으로 쥐를 내려다보며 말했다: 너는 내가 본 적 중 가장 마른 동물일 거야.",
+      "explanation": "자존심 강한 코끼리가 쥐를 깔보며 자신보다 훨씬 마른 쥐를 비판적으로 평가하는 장면을 묘사합니다.",
+      "grammar": "동사 「looked」는 look의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-324/03.mp3",
+      "vocabulary": [
+        {
+          "word": "arrogant",
+          "meaning": "자존심 강한",
+          "note": "코끼리의 거만하고 우월감을 느끼는 태도를 나타냅니다."
+        },
+        {
+          "word": "contemptuously",
+          "meaning": "경멸하는 눈빛으로",
+          "note": "코끼리가 쥐를 얼마나 낮게 평가하고 있는지를 보여줍니다."
+        },
+        {
+          "word": "skinniest",
+          "meaning": "가장 마른",
+          "note": "코끼리가 쥐를 비교적 마른 동물로 묘사하며 조롱하는 표현입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "I am not always like this, squeaked the mouse.",
+      "korean": "쥐가 속삭였다, '항상 이렇게 행동하는 건 아니야.'",
+      "explanation": "쥐가 자신의 행동이나 태도가 항상 그렇지 않음을 겸손하게 표현하고 있다.",
+      "grammar": "동사 「squeaked」는 squeak의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-324/04.mp3",
+      "vocabulary": [
+        {
+          "word": "squeaked",
+          "meaning": "조용히 속삭이듯 말하다",
+          "note": "주로 작은 동물이 조용히 말하는 상황에서 사용되며, 여기서는 쥐가 조용히 자신의 입장을 전달하고 있음을 나타낸다."
+        },
+        {
+          "word": "mouse",
+          "meaning": "쥐",
+          "note": "이야기의 주인공으로 등장하며, 코끼리와 대비되는 작은 체구를 가진 동물이다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "I've been sick!",
+      "korean": "아프다",
+      "explanation": "질병이나 불편함을 겪고 있다는 의미",
+      "grammar": "「've been」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1971-324/05.mp3",
+      "vocabulary": [
+        {
+          "word": "sick",
+          "meaning": "아프다, 질병에 걸리다",
+          "note": "일반적으로 신체적 불편함이나 질병 상태를 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "자아는 미묘하게 모든 곳에서 역할을 한다 - 남자뿐 아니라 쥐에게서도 그렇다!",
+    "자존심 강한 코끼리가 경멸하는 눈빛으로 쥐를 내려다보며 말했다: 너는 내가 본 적 중 가장 마른 동물일 거야. 쥐가 속삭였다, '항상 이렇게 행동하는 건 아니야.' 아프다"
+  ],
+  "fullAudio": "audio/1971-324/script_all.mp3",
+  "originalText": "Love.\n\nEgo plays a subtle role everywhere -\nnot only in men but in mice also!\n\nAn arrogant elephant\nlooked down contemptuously at a mouse\nand said: You are just about\nthe skinniest little creature I have ever seen.\nI am not always like this, squeaked the mouse.\nI've been sick!",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 324,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0899 2.JPG",
+        "side": "right",
+        "printedPage": 249
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

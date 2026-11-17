@@ -1,0 +1,5 @@
+{
+  "english": "One day one wonders: What has happened!",
+  "error": "No vocabulary grounded in English source",
+  "response": "```json\n{\n  \"korean\": \"어느 날 사람들은 생각한다: 무슨 일이 일어났는가!\",\n  \"explanation\": \"이 문장은 누군가가 과거의 변화나 사건에 대해 놀라움과 동시에 이해하려는 순간을 묘사한다. 주로 영적 성장이나 수행 과정에서 예상치 못한 변화를 경험한 후의 반응을 나타낸다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"원더\",\n      \"meaning\": \"놀라다\",\n      \"note\": \"주로 예상치 못한 상황이나 변화에 대한 반응으로 사용된다.\"\n    },\n    {\n      \"word\": \"일어났다\",\n      \"meaning\": \"발생하다\",\n      \"note\": \"여기서는 어떤 변화나 사건이 일어났음을 의미하며, 주로 긍정적 혹은 부정적 변화를 나타낸다.\"\n    }\n  ],\n  \"expressions\": []\n}\n```"
+}

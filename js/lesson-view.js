@@ -48,13 +48,14 @@ export function createLessonView({ onPlaySentence, onPlayChunk, onStop }) {
     $('detail').innerHTML = `
       <div class="number">SENTENCE ${String(index + 1).padStart(2, '0')} / ${lesson.sentences.length}</div>
       <p class="selected-en">${escapeHTML(sentence.english)}</p>
-      <div class="selected-ko">${escapeHTML(sentence.korean)}</div>
+      ${sentence.korean ? `<h3 class="sentence-detail-title">한국어 해석</h3><div class="selected-ko">${escapeHTML(sentence.korean)}</div>` : ''}
       <div class="speech-controls">
         <button id="speak-one" type="button">▶ 문장 듣기</button>
         <button id="stop-one" type="button" class="secondary">■ 멈춤</button>
       </div>
-      <p class="explain">${escapeHTML(sentence.explanation)}</p>
-      <div class="grammar"><strong>영어 표현 · 문법 포인트</strong>${escapeHTML(sentence.grammar)}</div>`;
+      ${sentence.explanation ? `<h3 class="sentence-detail-title">문장 설명</h3><p class="explain">${escapeHTML(sentence.explanation)}</p>` : ''}
+      ${renderSentenceStudy(lesson, sentence)}
+      ${sentence.grammar ? `<div class="grammar"><strong>문법 설명</strong>${escapeHTML(sentence.grammar)}</div>` : ''}`;
     $('speak-one').onclick = () => onPlaySentence(index);
     $('stop-one').onclick = onStop;
   }
@@ -69,6 +70,8 @@ export function createLessonView({ onPlaySentence, onPlayChunk, onStop }) {
     lesson = data;
     $('vocab').innerHTML = renderCards(lesson.vocabulary, 'word');
     const expressions = Array.isArray(lesson.expressions) ? lesson.expressions : [];
+    $('vocab').closest('.section').hidden = !lesson.vocabulary.length && !expressions.length;
+    $('translation').closest('.section').hidden = !lesson.translations.length;
     $('expressions').innerHTML = expressions.length
       ? renderExpressions(expressions)
       : '<p class="collection-empty">아직 등록된 표현이 없습니다.</p>';
@@ -82,7 +85,7 @@ export function createLessonView({ onPlaySentence, onPlayChunk, onStop }) {
           <div lang="en">${chunks.map((chunk, chunkIndex) => `
             <button type="button" class="chunk-phrase" data-index="${index}" data-chunk="${chunkIndex}" aria-label="구절 듣기: ${escapeHTML(chunk)}">${escapeHTML(chunk)}</button>`
           ).join('<span class="chunk-divider"> / </span>')}</div>
-          <p class="chunk-translation" lang="ko">${escapeHTML(sentence.korean)}</p>
+          ${sentence.korean ? `<p class="chunk-translation" lang="ko">${escapeHTML(sentence.korean)}</p>` : ''}
         </div>`;
       }).join('')}</div>`).join('');
     $('test-reading').innerHTML = lesson.paragraphs.map(indices => `
@@ -92,9 +95,9 @@ export function createLessonView({ onPlaySentence, onPlayChunk, onStop }) {
         const masked = words.map((word, position) => position === 0
           ? word
           : word.replace(/[\p{L}\p{N}]/gu, '_')).join(' ');
-        return `<div class="test-sentence-row">
+        return `<div class="test-sentence-row${sentence.korean ? '' : ' no-translation'}">
           <div class="test-english" lang="en">${escapeHTML(masked)}</div>
-          <div class="test-korean" lang="ko">${escapeHTML(sentence.korean)}</div>
+          ${sentence.korean ? `<div class="test-korean" lang="ko">${escapeHTML(sentence.korean)}</div>` : ''}
         </div>`;
       }).join('')}</div>`).join('');
     $('reading').innerHTML = lesson.paragraphs.map(indices => `
@@ -150,8 +153,93 @@ function renderCards(items, textKey) {
       ${item.note ? `<small>${escapeHTML(item.note)}</small>` : ''}</div>`).join('');
 }
 
+const normalizedWords = text => String(text).toLowerCase().replace(/[’‘]/g, "'").match(/[a-z]+(?:'[a-z]+)?/g) || [];
+const irregularForms = {
+  be: ['am', 'is', 'are', 'was', 'were', 'been', 'being'],
+  have: ['has', 'had', 'having'],
+  become: ['becomes', 'became', 'becoming'],
+  lie: ['lies', 'lay', 'lain', 'lying'],
+  take: ['takes', 'took', 'taken', 'taking'],
+  mean: ['means', 'meant', 'meaning'],
+  know: ['knows', 'knew', 'known', 'knowing'],
+  oneself: ['myself', 'yourself', 'himself', 'herself', 'itself', 'ourselves', 'yourselves', 'themselves']
+};
+
+function wordForms(word) {
+  const roots = new Set([word]);
+  for (const [base, forms] of Object.entries(irregularForms)) {
+    if (base === word || forms.includes(word)) roots.add(base);
+  }
+  if (word.length > 3 && word.endsWith('s') && !word.endsWith('ss')) roots.add(word.slice(0, -1));
+  if (word.endsWith('ed')) { roots.add(word.slice(0, -2)); roots.add(word.slice(0, -1)); }
+  if (word.endsWith('ing')) { roots.add(word.slice(0, -3)); roots.add(word.slice(0, -3) + 'e'); }
+  const result = new Set();
+  for (const root of roots) {
+    if (!root) continue;
+    if (irregularForms[root]) {
+      [root, ...irregularForms[root]].forEach(form => result.add(form));
+      continue;
+    }
+    [root, root + 's', root + 'es', root + 'ed', root + 'ing', ...(irregularForms[root] || [])].forEach(form => result.add(form));
+    if (root.endsWith('e')) { result.add(root + 'd'); result.add(root.slice(0, -1) + 'ing'); }
+    if (root.endsWith('y')) { result.add(root.slice(0, -1) + 'ies'); result.add(root.slice(0, -1) + 'ied'); }
+    if (/[^aeiou][aeiou][b-df-hj-np-tv-z]$/.test(root)) {
+      result.add(root + root.slice(-1) + 'ing');
+      result.add(root + root.slice(-1) + 'ed');
+    }
+  }
+  return result;
+}
+
+function matchesStudyItem(item, key, sentence) {
+  // Explicit sentence links take priority; otherwise use source text and word forms.
+  if (Array.isArray(item.sentenceIds)) return item.sentenceIds.includes(sentence.id);
+  const sentenceWords = normalizedWords(sentence.english);
+  const original = normalizedWords(item.original || '').join(' ');
+  const fullText = sentenceWords.join(' ');
+  if (original && (fullText.includes(original) || (sentenceWords.length >= 3 && original.includes(fullText)))) return true;
+  const label = item[key] || '';
+  const pattern = normalizedWords(label.replace(/-ing\b/gi, '').replace(/\b[A-B]\b/g, ''));
+  if (!pattern.length) return false;
+  let cursor = 0;
+  for (let index = 0; index < pattern.length; index += 1) {
+    const forms = wordForms(pattern[index]);
+    let found = -1;
+    for (let position = cursor; position < sentenceWords.length; position += 1) {
+      if (forms.has(sentenceWords[position])) { found = position; break; }
+    }
+    if (found < 0 || (index > 0 && found - cursor > 6)) return false;
+    cursor = found + 1;
+  }
+  return true;
+}
+
+function renderSentenceStudy(data, sentence) {
+  const unique = (items, key) => {
+    const found = new Map();
+    items.forEach(item => {
+      const label = normalizedWords(item[key]).join(' ');
+      if (label && !found.has(label)) found.set(label, item);
+    });
+    return Array.from(found.values());
+  };
+  const words = unique([...(sentence.vocabulary || []),
+    ...(data.vocabulary || []).filter(item => matchesStudyItem(item, 'word', sentence))], 'word');
+  const expressions = unique([...(sentence.expressions || []),
+    ...(data.expressions || []).filter(item => matchesStudyItem(item, 'expression', sentence))], 'expression');
+  if (!words.length && !expressions.length) return '';
+  return `<section class="sentence-study" aria-label="이 문장의 단어와 표현">
+    <h3>이 문장의 단어와 표현</h3>
+    ${words.length ? `<h4>핵심 단어</h4><dl class="sentence-study-words">${words.map(item => `
+      <div><dt lang="en">${escapeHTML(item.word)}</dt><dd>${escapeHTML(item.meaning)}
+        ${item.note ? `<p>${formatInlineCode(item.note)}</p>` : ''}</dd></div>`).join('')}</dl>` : ''}
+    ${expressions.length ? `<h4>관용어·표현 설명</h4>${renderExpressions(expressions, true)}`
+      : ['generated', 'curated', 'reviewed'].includes(sentence.studyStatus) ? '<h4>관용어·표현 설명</h4><p class="study-empty-note">이 문장에 따로 정리한 관용표현은 없습니다.</p>' : ''}
+  </section>`;
+}
+
 // 설명과 예문이 있는 표현은 클릭/키보드로 펼칠 수 있는 목록으로 표시합니다.
-function renderExpressions(items) {
+function renderExpressions(items, expanded = false) {
   const metaKey = items.some(item => item.usage) ? 'usage' : 'grammar';
   const showMeta = items.some(item => item[metaKey]);
   const metaLabel = metaKey === 'usage' ? '활용도' : '핵심 문법';
@@ -166,7 +254,7 @@ function renderExpressions(items) {
       ${showMeta ? `<span class="expression-meta" data-label="${metaLabel}">${escapeHTML(item[metaKey] || '—')}</span>` : ''}`;
     if (!hasDetails) return `<div class="expression-row expression-static">${cells}</div>`;
 
-    return `<details class="expression-item">
+    return `<details class="expression-item"${expanded ? ' open' : ''}>
       <summary class="expression-row">${cells}</summary>
       <div class="expression-detail">
         <h3>${escapeHTML(item.title || item.expression)}</h3>

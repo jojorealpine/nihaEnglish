@@ -1,0 +1,79 @@
+{
+  "key": "letter-049-part-01",
+  "number": 49,
+  "generationId": "01a1e4f1-207d-751a-9d1d-50f81e083ea6",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1968-49/01.mp3",
+      "start": 0.0,
+      "end": 0.641837
+    },
+    {
+      "index": 1,
+      "text": "I am so happy to have got your letter.",
+      "path": "audio/1968-49/02.mp3",
+      "start": 1.908322,
+      "end": 4.112268
+    },
+    {
+      "index": 2,
+      "text": "Can even a ray of love ever come without the fragrance of joy?",
+      "path": "audio/1968-49/03.mp3",
+      "start": 5.50746,
+      "end": 8.986711999999999
+    },
+    {
+      "index": 3,
+      "text": "And what is joy but the fragrance of love?",
+      "path": "audio/1968-49/04.mp3",
+      "start": 10.590771,
+      "end": 13.03229
+    },
+    {
+      "index": 4,
+      "text": "Yet the world is full of mad people seeking happiness their whole lives - but with their backs turned towards love!",
+      "path": "audio/1968-49/05.mp3",
+      "start": 14.383152,
+      "end": 20.972336000000002
+    },
+    {
+      "index": 5,
+      "text": "The doors to God only open when love turns into the prayer of our total being.",
+      "path": "audio/1968-49/06.mp3",
+      "start": 22.258208999999997,
+      "end": 26.947438000000002
+    },
+    {
+      "index": 6,
+      "text": "But perhaps his doors are already open, yet eyes closed to love will, even so, never be able to see them.",
+      "path": "audio/1968-49/07.mp3",
+      "start": 28.266327,
+      "end": 33.844443999999996
+    },
+    {
+      "index": 7,
+      "text": "And what is this you write? momentary contact?",
+      "path": "audio/1968-49/08.mp3",
+      "start": 35.145918,
+      "end": 37.893491999999995
+    },
+    {
+      "index": 8,
+      "text": "No!",
+      "path": "audio/1968-49/09.mp3",
+      "start": 39.365147,
+      "end": 39.918662
+    },
+    {
+      "index": 9,
+      "text": "No!",
+      "path": "audio/1968-49/10.mp3",
+      "start": 41.498503,
+      "end": 42.29
+    }
+  ]
+}

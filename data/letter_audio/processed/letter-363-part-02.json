@@ -1,0 +1,16 @@
+{
+  "key": "letter-363-part-02",
+  "number": 363,
+  "generationId": "01a1e919-5f36-7235-9a31-3a14da279626",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "And in the end - no one.",
+      "path": "audio/1971-363/11.mp3",
+      "start": 0.0,
+      "end": 1.67
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "letter-096-part-01",
+  "number": 96,
+  "generationId": "01a1e632-25fd-7af3-b286-405cd727c36c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-96/01.mp3",
+      "start": 0.0,
+      "end": 0.684399
+    },
+    {
+      "index": 1,
+      "text": "This is a good beginning to the struggle and I am glad to have pushed you into it.",
+      "path": "audio/1970-96/02.mp3",
+      "start": 1.910907,
+      "end": 6.077551
+    },
+    {
+      "index": 2,
+      "text": "Sannyas is a challenge to the world, a fundamental declaration of freedom.",
+      "path": "audio/1970-96/03.mp3",
+      "start": 7.456735,
+      "end": 11.683672999999999
+    },
+    {
+      "index": 3,
+      "text": "To live in freedom every moment is sannyas.",
+      "path": "audio/1970-96/04.mp3",
+      "start": 13.019184000000001,
+      "end": 15.971813999999998
+    },
+    {
+      "index": 4,
+      "text": "Now, insecurity will always be with you, but that is a fact of life.",
+      "path": "audio/1970-96/05.mp3",
+      "start": 17.291905,
+      "end": 21.610771
+    },
+    {
+      "index": 5,
+      "text": "The only certainty is death; life is insecurity, and that is its joy and its beauty.",
+      "path": "audio/1970-96/06.mp3",
+      "start": 22.759728,
+      "end": 28.924785
+    },
+    {
+      "index": 6,
+      "text": "To be locked in security is suicide, a living death effected by one's own hand.",
+      "path": "audio/1970-96/07.mp3",
+      "start": 30.269637,
+      "end": 35.691088
+    },
+    {
+      "index": 7,
+      "text": "Such living-dead are everywhere.",
+      "path": "audio/1970-96/08.mp3",
+      "start": 36.851678,
+      "end": 39.045804999999994
+    },
+    {
+      "index": 8,
+      "text": "They have turned the world into a graveyard, and they number amongst them many celebrated corpses.",
+      "path": "audio/1970-96/09.mp3",
+      "start": 40.692177,
+      "end": 46.400839
+    },
+    {
+      "index": 9,
+      "text": "They all have to be awakened, though for their part they are trying to put back to sleep even those who are awake.",
+      "path": "audio/1970-96/10.mp3",
+      "start": 48.004354,
+      "end": 55.35
+    }
+  ]
+}

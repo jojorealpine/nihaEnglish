@@ -1,0 +1,65 @@
+{
+  "key": "letter-100-part-01",
+  "number": 100,
+  "generationId": "01a1e633-1d1e-7521-bcd0-b80150e9b2f0",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-100/01.mp3",
+      "start": 0.0,
+      "end": 0.635442
+    },
+    {
+      "index": 1,
+      "text": "Even the impossible is not impossible if resolution is there, and even the possible becomes impossible if one lacks will.",
+      "path": "audio/1970-100/02.mp3",
+      "start": 1.911451,
+      "end": 9.58644
+    },
+    {
+      "index": 2,
+      "text": "The world we live in is our own creation.",
+      "path": "audio/1970-100/03.mp3",
+      "start": 10.930363000000002,
+      "end": 13.671406
+    },
+    {
+      "index": 3,
+      "text": "The time gap between sowing and reaping creates confusion.",
+      "path": "audio/1970-100/04.mp3",
+      "start": 14.993696,
+      "end": 18.842086000000002
+    },
+    {
+      "index": 4,
+      "text": "Because cause and effect are so separated the mind fails to understand what would otherwise be obvious.",
+      "path": "audio/1970-100/05.mp3",
+      "start": 20.202222,
+      "end": 26.334059
+    },
+    {
+      "index": 5,
+      "text": "Nothing is fragmented or disconnected The missing links are always there if you look deeply.",
+      "path": "audio/1970-100/06.mp3",
+      "start": 27.622971,
+      "end": 33.768933999999994
+    },
+    {
+      "index": 6,
+      "text": "Understanding the life process opens the door to peace.",
+      "path": "audio/1970-100/07.mp3",
+      "start": 35.081429,
+      "end": 38.542313
+    },
+    {
+      "index": 7,
+      "text": "The light lies close by, waiting for the seeker.",
+      "path": "audio/1970-100/08.mp3",
+      "start": 40.074807,
+      "end": 44.49
+    }
+  ]
+}

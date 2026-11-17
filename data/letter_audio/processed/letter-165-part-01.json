@@ -1,0 +1,58 @@
+{
+  "key": "letter-165-part-01",
+  "number": 165,
+  "generationId": "01a1e8e3-8f23-7058-b0c1-65c41aab92c7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-165/01.mp3",
+      "start": 0.0,
+      "end": 0.6002719999999999
+    },
+    {
+      "index": 1,
+      "text": "The word is not the thing - the word God is not God But the mind goes on accumulating words and words and words, and then the words become the barrier.",
+      "path": "audio/1971-165/02.mp3",
+      "start": 1.9804309999999998,
+      "end": 11.752811999999999
+    },
+    {
+      "index": 2,
+      "text": "See this as a fact with you: can you see anything without the word?",
+      "path": "audio/1971-165/03.mp3",
+      "start": 12.995782,
+      "end": 17.506054000000002
+    },
+    {
+      "index": 3,
+      "text": "Can you feel anything without the word?",
+      "path": "audio/1971-165/04.mp3",
+      "start": 18.817483,
+      "end": 21.011542000000002
+    },
+    {
+      "index": 4,
+      "text": "Can you live even for a single moment without the word?",
+      "path": "audio/1971-165/05.mp3",
+      "start": 22.512154,
+      "end": 25.910068000000003
+    },
+    {
+      "index": 5,
+      "text": "Do not think but see. and then you will be in meditation.",
+      "path": "audio/1971-165/06.mp3",
+      "start": 27.378570999999997,
+      "end": 31.578435000000002
+    },
+    {
+      "index": 6,
+      "text": "To exist wordlessly is to be in meditation.",
+      "path": "audio/1971-165/07.mp3",
+      "start": 33.147574000000006,
+      "end": 36.44
+    }
+  ]
+}

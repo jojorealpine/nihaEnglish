@@ -1,0 +1,16 @@
+{
+  "key": "letter-039-part-02",
+  "number": 39,
+  "generationId": "01a1e4ed-2416-7c24-8f33-7332ff9b600c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Now when you read it out to me I shall listen - and then I can read both you and your poem.",
+      "path": "audio/1966-39/11.mp3",
+      "start": 0.0,
+      "end": 5.46
+    }
+  ]
+}

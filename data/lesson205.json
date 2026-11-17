@@ -1,0 +1,526 @@
+{
+  "id": "1971-205",
+  "title": "1971 / 205",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "strange",
+      "meaning": "이상한",
+      "note": "여기서는 사람의 행동 패턴이 일반적이지 않고 독특하다는 의미입니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "deceiving",
+      "meaning": "속이다",
+      "note": "다른 사람들을 속이는 행위와 스스로를 속이는 행위 모두를 포함합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "walking",
+      "meaning": "걷다",
+      "note": "이 문맥에서는 수행자가 사색에 잠겨 천천히 걷고 있다는 의미입니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "village",
+      "meaning": "마을",
+      "note": "마을의 거리를 배경으로 하여 상황이 발생하고 있다는 것을 나타냅니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "taken",
+      "meaning": "당황하다",
+      "note": "이 문맥에서는 갑작스러운 상황에 대한 반응을 나타냅니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "surprise",
+      "meaning": "당황",
+      "note": "갑작스러운 행동(돌을 던지는 것)에 대한 즉각적인 반응을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "said",
+      "meaning": "말하다",
+      "note": "직접적인 발화를 나타내며, 이 문장에서는 누군가가 말한 내용을 전달한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "interest",
+      "meaning": "관심",
+      "note": "청자가 흥미를 느낄 만한 내용을 공유하겠다는 의미로, 정보나 이야기의 매력성을 나타낸다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "right",
+      "meaning": "그렇게 하자",
+      "note": "여기서는 동의나 수락의 의미로 사용됨",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "philosophy",
+      "meaning": "철학",
+      "note": "이 문맥에서는 특정 철학적 사상이나 이론의 부재를 나타냅니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "giving",
+      "meaning": "제공하다",
+      "note": "여기서는 왕이 연회를 제공한다는 의미입니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "banquet",
+      "meaning": "연회",
+      "note": "고급스러운 식사 모임을 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "children",
+      "meaning": "아이들",
+      "note": "왕좌에 대한 호기심과 마법사의 이야기에 끌려 움직이는 대상입니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "delicacies",
+      "meaning": "고급 음식이나 즐거움",
+      "note": "마법사가 언급하는 매력적인 요소로, 아마도 풍성한 음식과 흥미로운 공연을 의미합니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "entertainment",
+      "meaning": "오락, 즐거움",
+      "note": "마법사가 제공하는 즐거움과 흥미로운 경험을 나타냅니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "disappearing",
+      "meaning": "사라지다",
+      "note": "아이들이 시야에서 멀어져 가는 모습을 묘사한다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "distance",
+      "meaning": "거리",
+      "note": "아이들이 얼마나 멀리 갔는지를 나타내는 단어이다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "suddenly",
+      "meaning": "갑자기",
+      "note": "그의 행동이 순간적으로 이루어졌음을 강조한다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "better",
+      "meaning": "더 좋게, 해야 할 것 같다",
+      "note": "상황을 확인하는 것이 더 나은 선택일 수 있다는 의미를 담고 있습니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "panted",
+      "meaning": "숨을 크게 쉬며 말하다",
+      "note": "주인공이 급한 상황에서 숨을 크게 쉬며 말하는 모습을 표현합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      4
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-205/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Man is strange, very strange, because he begins by deceiving others and ends with deceiving himself.",
+      "korean": "사람은 매우 이상해서, 다른 사람들을 속이기 시작해서 결국 스스로를 속이는 것으로 끝납니다.",
+      "explanation": "사람의 행동 패턴이 자기기만으로 시작되어 자기 자신에게도 적용된다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-205/02.mp3",
+      "vocabulary": [
+        {
+          "word": "strange",
+          "meaning": "이상한",
+          "note": "여기서는 사람의 행동 패턴이 일반적이지 않고 독특하다는 의미입니다."
+        },
+        {
+          "word": "deceiving",
+          "meaning": "속이다",
+          "note": "다른 사람들을 속이는 행위와 스스로를 속이는 행위 모두를 포함합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "A fakir was walking down the village street deep in thought when some urchins began to throw stones at him.",
+      "korean": "한 수행자가 마을 길을 사색에 잠겨 걷다가 아이들이 그를 향해 돌을 던지기 시작했습니다.",
+      "explanation": "한 수행자가 조용히 생각에 잠겨 길을 걷고 있었는데, 갑자기 아이들이 그를 향해 돌을 던지기 시작했다는 내용입니다.",
+      "grammar": "「was walking」는 be동사 + -ing로 만든 과거진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+      "audio": "audio/1971-205/03.mp3",
+      "vocabulary": [
+        {
+          "word": "walking",
+          "meaning": "걷다",
+          "note": "이 문맥에서는 수행자가 사색에 잠겨 천천히 걷고 있다는 의미입니다."
+        },
+        {
+          "word": "village",
+          "meaning": "마을",
+          "note": "마을의 거리를 배경으로 하여 상황이 발생하고 있다는 것을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "He was taken by surprise, and besides he was not a big man.",
+      "korean": "그는 당황했고, 게다가 키가 크지 않았습니다.",
+      "explanation": "그는 예상치 못한 상황에 놀랐으며, 신체적으로도 위협에 취약한 상황임을 강조합니다.",
+      "grammar": "「was taken」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-205/04.mp3",
+      "vocabulary": [
+        {
+          "word": "taken",
+          "meaning": "당황하다",
+          "note": "이 문맥에서는 갑작스러운 상황에 대한 반응을 나타냅니다."
+        },
+        {
+          "word": "surprise",
+          "meaning": "당황",
+          "note": "갑작스러운 행동(돌을 던지는 것)에 대한 즉각적인 반응을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Don't do that, he said, and I will tell you something of interest to you.",
+      "korean": "그는 그렇게 하지 말라고 말했고, 네게 흥미로운 이야기를 해줄게라고 했다.",
+      "explanation": "그는 특정 행동을 하지 말라고 경고하고, 그 후에 청자에게 유익하거나 흥미로운 정보를 공유하겠다는 약속을 한다.",
+      "grammar": "「Don't do」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1971-205/05.mp3",
+      "vocabulary": [
+        {
+          "word": "said",
+          "meaning": "말하다",
+          "note": "직접적인 발화를 나타내며, 이 문장에서는 누군가가 말한 내용을 전달한다."
+        },
+        {
+          "word": "interest",
+          "meaning": "관심",
+          "note": "청자가 흥미를 느낄 만한 내용을 공유하겠다는 의미로, 정보나 이야기의 매력성을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "All right, what is it?",
+      "korean": "좋아, 그게 뭐야?",
+      "explanation": "상대방이 말한 내용에 대한 호기심을 표현하며 동의나 수락의 의미를 담고 있음",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-205/06.mp3",
+      "vocabulary": [
+        {
+          "word": "right",
+          "meaning": "그렇게 하자",
+          "note": "여기서는 동의나 수락의 의미로 사용됨"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "But no philosophy.",
+      "korean": "철학은 없어.",
+      "explanation": "주어진 문장에서 철학의 부재를 강조하는 의미입니다.",
+      "grammar": "명사 「philosophy」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1971-205/07.mp3",
+      "vocabulary": [
+        {
+          "word": "philosophy",
+          "meaning": "철학",
+          "note": "이 문맥에서는 특정 철학적 사상이나 이론의 부재를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "The king is giving a free banquet to all comers - he simply lied to them.",
+      "korean": "왕은 모든 참석자들에게 무료 연회를 제공하고 있지만, 사실은 거짓말을 하고 있었습니다.",
+      "explanation": "왕이 실제로는 거짓말로 모든 사람들에게 연회를 제공한다고 말하고 있다는 의미입니다.",
+      "grammar": "동사 「lied」는 lie의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-205/08.mp3",
+      "vocabulary": [
+        {
+          "word": "giving",
+          "meaning": "제공하다",
+          "note": "여기서는 왕이 연회를 제공한다는 의미입니다."
+        },
+        {
+          "word": "banquet",
+          "meaning": "연회",
+          "note": "고급스러운 식사 모임을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "The children ran off towards the king's palace as the fakir warmed to his theme - the delicacies and delights of the entertainment....",
+      "korean": "아이들은 마법사가 즐거움과 즐거움에 대해 이야기하기 시작하자마자 왕의 궁전으로 달려갔다.",
+      "explanation": "아이들이 마법사의 이야기에 흥미를 느껴 왕의 궁전으로 향하는 모습을 묘사합니다.",
+      "grammar": "동사 「ran」는 run의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-205/09.mp3",
+      "vocabulary": [
+        {
+          "word": "children",
+          "meaning": "아이들",
+          "note": "왕좌에 대한 호기심과 마법사의 이야기에 끌려 움직이는 대상입니다."
+        },
+        {
+          "word": "delicacies",
+          "meaning": "고급 음식이나 즐거움",
+          "note": "마법사가 언급하는 매력적인 요소로, 아마도 풍성한 음식과 흥미로운 공연을 의미합니다."
+        },
+        {
+          "word": "entertainment",
+          "meaning": "오락, 즐거움",
+          "note": "마법사가 제공하는 즐거움과 흥미로운 경험을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "He looked up and saw them disappearing into the distance, and then suddenly he tucked up his robes and started to sprint after them.",
+      "korean": "그는 위로 올려다보니 아이들이 멀어져 가는 것을 보았고, 그 순간 갑자기 옷을 끌어당기고 그들을 따라잡기 위해 달리기 시작했다.",
+      "explanation": "그는 아이들이 멀어지는 것을 보고 즉시 추격하기로 결심하고 달리기 시작했다.",
+      "grammar": "동사 「looked」는 look의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-205/10.mp3",
+      "vocabulary": [
+        {
+          "word": "disappearing",
+          "meaning": "사라지다",
+          "note": "아이들이 시야에서 멀어져 가는 모습을 묘사한다."
+        },
+        {
+          "word": "distance",
+          "meaning": "거리",
+          "note": "아이들이 얼마나 멀리 갔는지를 나타내는 단어이다."
+        },
+        {
+          "word": "suddenly",
+          "meaning": "갑자기",
+          "note": "그의 행동이 순간적으로 이루어졌음을 강조한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "I had better go and see, he panted to himself, because it might he true after all.",
+      "korean": "나는 가야겠다고 생각했어, 왜냐하면 그게 사실일지도 모르니까.",
+      "explanation": "주인공이 상황을 확인하기 위해 움직여야겠다고 스스로에게 다짐하는 내용입니다.",
+      "grammar": "동사 「panted」는 pant의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-205/11.mp3",
+      "vocabulary": [
+        {
+          "word": "better",
+          "meaning": "더 좋게, 해야 할 것 같다",
+          "note": "상황을 확인하는 것이 더 나은 선택일 수 있다는 의미를 담고 있습니다."
+        },
+        {
+          "word": "panted",
+          "meaning": "숨을 크게 쉬며 말하다",
+          "note": "주인공이 급한 상황에서 숨을 크게 쉬며 말하는 모습을 표현합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "사람은 매우 이상해서, 다른 사람들을 속이기 시작해서 결국 스스로를 속이는 것으로 끝납니다.",
+    "한 수행자가 마을 길을 사색에 잠겨 걷다가 아이들이 그를 향해 돌을 던지기 시작했습니다. 그는 당황했고, 게다가 키가 크지 않았습니다.",
+    "그는 그렇게 하지 말라고 말했고, 네게 흥미로운 이야기를 해줄게라고 했다.",
+    "좋아, 그게 뭐야? 철학은 없어.",
+    "왕은 모든 참석자들에게 무료 연회를 제공하고 있지만, 사실은 거짓말을 하고 있었습니다. 아이들은 마법사가 즐거움과 즐거움에 대해 이야기하기 시작하자마자 왕의 궁전으로 달려갔다.",
+    "그는 위로 올려다보니 아이들이 멀어져 가는 것을 보았고, 그 순간 갑자기 옷을 끌어당기고 그들을 따라잡기 위해 달리기 시작했다. 나는 가야겠다고 생각했어, 왜냐하면 그게 사실일지도 모르니까."
+  ],
+  "fullAudio": "audio/1971-205/script_all.mp3",
+  "originalText": "Love.\n\nMan is strange, very strange,\nbecause he begins by deceiving others\nand ends with deceiving himself.\n\nA fakir was walking down the village street\ndeep in thought\nwhen some urchins began to throw stones at him.\nHe was taken by surprise,\nand besides he was not a big man.\n\nDon't do that, he said, and I will tell you\nsomething of interest to you.\n\nAll right, what is it? But no philosophy.\n\nThe king is giving a free banquet to all comers -\nhe simply lied to them.\nThe children ran off towards the king's palace\nas the fakir warmed to his theme -\nthe delicacies and delights of the entertainment....\n\nHe looked up and saw them\ndisappearing into the distance,\nand then suddenly he tucked up his robes\nand started to sprint after them.\nI had better go and see, he panted to himself,\nbecause it might he true after all.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 205,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0855 2.JPG",
+        "side": "left",
+        "printedPage": 160
+      },
+      {
+        "file": "IMG_0855 2.JPG",
+        "side": "right",
+        "printedPage": 161
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

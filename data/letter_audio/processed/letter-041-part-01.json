@@ -1,0 +1,79 @@
+{
+  "key": "letter-041-part-01",
+  "number": 41,
+  "generationId": "01a1e4ed-670e-7ad2-8631-a2ed8bc49d1d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1966-41/01.mp3",
+      "start": 0.0,
+      "end": 0.565828
+    },
+    {
+      "index": 1,
+      "text": "Your letter was received with joy.",
+      "path": "audio/1966-41/02.mp3",
+      "start": 1.6157599999999999,
+      "end": 3.185941
+    },
+    {
+      "index": 2,
+      "text": "When the heart thirsts so much for truth, for peace, for religion, one day you come face to face with the sun which dispels all life's darkness.",
+      "path": "audio/1966-41/03.mp3",
+      "start": 4.313764,
+      "end": 12.493922999999999
+    },
+    {
+      "index": 3,
+      "text": "Thirst!",
+      "path": "audio/1966-41/04.mp3",
+      "start": 13.547075000000001,
+      "end": 14.196667
+    },
+    {
+      "index": 4,
+      "text": "Pray!",
+      "path": "audio/1966-41/05.mp3",
+      "start": 15.256871,
+      "end": 15.815033999999999
+    },
+    {
+      "index": 5,
+      "text": "Strive!",
+      "path": "audio/1966-41/06.mp3",
+      "start": 16.824104,
+      "end": 17.620204
+    },
+    {
+      "index": 6,
+      "text": "Wait!",
+      "path": "audio/1966-41/07.mp3",
+      "start": 18.619795999999997,
+      "end": 19.176485
+    },
+    {
+      "index": 7,
+      "text": "A journey of a thousand miles is covered step by small step, so don't lose heart.",
+      "path": "audio/1966-41/08.mp3",
+      "start": 20.228503,
+      "end": 24.265669000000003
+    },
+    {
+      "index": 8,
+      "text": "Vast distances can be covered one step at a time and an ocean filled drop by drop.",
+      "path": "audio/1966-41/09.mp3",
+      "start": 25.844376,
+      "end": 31.23907
+    },
+    {
+      "index": 9,
+      "text": "My regards to all.",
+      "path": "audio/1966-41/10.mp3",
+      "start": 32.809342,
+      "end": 34.51
+    }
+  ]
+}

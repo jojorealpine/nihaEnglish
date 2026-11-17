@@ -1,0 +1,16 @@
+{
+  "key": "letter-284-part-02",
+  "number": 284,
+  "generationId": "01a1e902-229c-7ea2-b75e-c25d276af748",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "You need only wait and be a witness.",
+      "path": "audio/1971-284/11.mp3",
+      "start": 0.0,
+      "end": 2.51
+    }
+  ]
+}

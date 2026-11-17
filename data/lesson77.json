@@ -1,0 +1,376 @@
+{
+  "id": "1970-77",
+  "title": "1970 / 77",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "wealth",
+      "meaning": "부",
+      "note": "여기서는 물질적 풍요보다는 영적 풍요나 신성한 연결을 의미한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "depend",
+      "meaning": "의존하다",
+      "note": "문장에서 다른 부에 의존하지 말라는 조언을 전달",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "disaster",
+      "meaning": "재앙",
+      "note": "다른 부는 결국 부정적인 결과, 즉 재앙을 초래한다는 의미",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "orphanage",
+      "meaning": "고아원",
+      "note": "보호와 양육이 필요한 아이들을 위한 시설",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "shillings",
+      "meaning": "펜스",
+      "note": "영국 파운드의 하위 단위로, 매우 적은 금액을 나타냅니다.",
+      "sentenceIds": [
+        4,
+        7,
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "enormous",
+      "meaning": "엄청난 규모의",
+      "note": "규모가 매우 크다는 의미로, 이 경우 고아원의 크기를 강조합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "project",
+      "meaning": "프로젝트",
+      "note": "특정 목표를 달성하기 위한 계획이나 활동을 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Friends",
+      "meaning": "친구들",
+      "note": "그녀를 돕고 조언하는 사람들",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "admirers",
+      "meaning": "지지자들",
+      "note": "그녀의 업적이나 능력을 존경하고 지지하는 사람들",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "laughed",
+      "meaning": "웃었다",
+      "note": "행동의 표현으로, 이 경우 테레사의 긍정적이고 낙관적인 태도를 나타냄",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "impossible",
+      "meaning": "불가능한",
+      "note": "신앙이나 믿음이 추가되면 제약이 해소되어 어떤 일이든 가능하다는 의미에서 사용됨",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "nothing is impossible",
+      "meaning": "불가능한 일은 없다",
+      "explanation": "신앙이나 믿음의 힘으로 제약을 극복하고 모든 것을 이룰 수 있다는 의미",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-77/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "God is our only wealth.",
+      "korean": "신은 우리의 유일한 부이다.",
+      "explanation": "신을 인간 삶의 가장 중요한 가치로 여기며, 다른 물질적 부는 부차적임을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-77/02.mp3",
+      "vocabulary": [
+        {
+          "word": "wealth",
+          "meaning": "부",
+          "note": "여기서는 물질적 풍요보다는 영적 풍요나 신성한 연결을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Do not depend on any other wealth, riches of any other kind bring only disaster.",
+      "korean": "다른 어떤 부에도 의존하지 마세요. 다른 종류의 부는 오직 재앙만을 가져옵니다.",
+      "explanation": "다른 부에 의존하지 말고, 다른 형태의 부는 결국 문제만 초래한다는 경고의 의미",
+      "grammar": "「Do not depend」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1970-77/03.mp3",
+      "vocabulary": [
+        {
+          "word": "depend",
+          "meaning": "의존하다",
+          "note": "문장에서 다른 부에 의존하지 말라는 조언을 전달"
+        },
+        {
+          "word": "disaster",
+          "meaning": "재앙",
+          "note": "다른 부는 결국 부정적인 결과, 즉 재앙을 초래한다는 의미"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "St. Theresa wanted to set up a large orphanage but at the time she had only three shillings.",
+      "korean": "성 테레사는 큰 고아원을 설립하려고 했지만, 그때 그녀에게는 세 펜스밖에 없었습니다.",
+      "explanation": "성 테레사의 고아원 설립 의지와 당시 그녀의 경제적 상황을 설명합니다.",
+      "grammar": "동사 「wanted」는 want의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-77/04.mp3",
+      "vocabulary": [
+        {
+          "word": "orphanage",
+          "meaning": "고아원",
+          "note": "보호와 양육이 필요한 아이들을 위한 시설"
+        },
+        {
+          "word": "shillings",
+          "meaning": "펜스",
+          "note": "영국 파운드의 하위 단위로, 매우 적은 금액을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "She wanted to start this enormous project with just this small amount.",
+      "korean": "그녀는 엄청난 규모의 이 프로젝트를 겨우 작은 금액으로 시작하려고 했습니다.",
+      "explanation": "St. Theresa가 제한된 자금으로도 큰 규모의 고아원을 설립하려는 의지를 표현합니다.",
+      "grammar": "동사 「wanted」는 want의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-77/05.mp3",
+      "vocabulary": [
+        {
+          "word": "enormous",
+          "meaning": "엄청난 규모의",
+          "note": "규모가 매우 크다는 의미로, 이 경우 고아원의 크기를 강조합니다."
+        },
+        {
+          "word": "project",
+          "meaning": "프로젝트",
+          "note": "특정 목표를 달성하기 위한 계획이나 활동을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Friends and admirers advised her: Get the funds together first.",
+      "korean": "친구들과 지지자들은 그녀에게 이렇게 조언했다: 먼저 자금을 모으라고.",
+      "explanation": "친구들과 지지자들의 조언 내용을 한국어로 번역한 것",
+      "grammar": "동사 「advised」는 advise의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-77/06.mp3",
+      "vocabulary": [
+        {
+          "word": "Friends",
+          "meaning": "친구들",
+          "note": "그녀를 돕고 조언하는 사람들"
+        },
+        {
+          "word": "admirers",
+          "meaning": "지지자들",
+          "note": "그녀의 업적이나 능력을 존경하고 지지하는 사람들"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "What can you do with just three shillings?",
+      "korean": "세 실링으로 무엇을 할 수 있을까요?",
+      "explanation": "세 실링이라는 작은 금액으로 가능한 일에 대한 질문",
+      "grammar": "「can you do」에서 조동사 can 뒤에 동사원형 「do」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1970-77/07.mp3",
+      "vocabulary": [
+        {
+          "word": "shillings",
+          "meaning": "실링 (영국 파운드의 과거 단위)",
+          "note": "과거 영국 통화 단위로, 현대 가치로는 매우 적은 금액을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "Theresa laughed and said: Naturally Theresa can do nothing with three shillings, but with three shillings plus God - nothing is impossible!",
+      "korean": "테레사는 웃으며 말했다: 물론 세 실링으로는 아무것도 할 수 없지만, 세 실링에 신이 더해진다면 불가능한 일은 없다!",
+      "explanation": "테레사가 세 실링으로는 아무것도 할 수 없지만, 신앙이 더해진다면 모든 것이 가능하다고 낙관적으로 말하는 내용",
+      "grammar": "동사 「laughed」는 laugh의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-77/08.mp3",
+      "vocabulary": [
+        {
+          "word": "laughed",
+          "meaning": "웃었다",
+          "note": "행동의 표현으로, 이 경우 테레사의 긍정적이고 낙관적인 태도를 나타냄"
+        },
+        {
+          "word": "shillings",
+          "meaning": "실링",
+          "note": "통화 단위로, 이 문맥에서는 경제적 제약을 나타냄"
+        },
+        {
+          "word": "impossible",
+          "meaning": "불가능한",
+          "note": "신앙이나 믿음이 추가되면 제약이 해소되어 어떤 일이든 가능하다는 의미에서 사용됨"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "nothing is impossible",
+          "meaning": "불가능한 일은 없다",
+          "explanation": "신앙이나 믿음의 힘으로 제약을 극복하고 모든 것을 이룰 수 있다는 의미"
+        }
+      ],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "신은 우리의 유일한 부이다. 다른 어떤 부에도 의존하지 마세요. 다른 종류의 부는 오직 재앙만을 가져옵니다.",
+    "성 테레사는 큰 고아원을 설립하려고 했지만, 그때 그녀에게는 세 펜스밖에 없었습니다. 그녀는 엄청난 규모의 이 프로젝트를 겨우 작은 금액으로 시작하려고 했습니다. 친구들과 지지자들은 그녀에게 이렇게 조언했다: 먼저 자금을 모으라고. 세 실링으로 무엇을 할 수 있을까요? 테레사는 웃으며 말했다: 물론 세 실링으로는 아무것도 할 수 없지만, 세 실링에 신이 더해진다면 불가능한 일은 없다!"
+  ],
+  "fullAudio": "audio/1970-77/script_all.mp3",
+  "originalText": "Love.\n\nGod is our only wealth.\nDo not depend on any other wealth,\nriches of any other kind bring only disaster.\n\nSt. Theresa wanted to set up a large orphanage\nbut at the time she had only three shillings.\nShe wanted to start this enormous project\nwith just this small amount.\nFriends and admirers advised her:\nGet the funds together first.\nWhat can you do with just three shillings?\nTheresa laughed and said:\nNaturally Theresa can do nothing with three shillings,\nbut with three shillings plus God - nothing is impossible!",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 77,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0808 2.JPG",
+        "side": "left",
+        "printedPage": 66
+      },
+      {
+        "file": "IMG_0808 2.JPG",
+        "side": "right",
+        "printedPage": 67
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

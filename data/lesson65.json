@@ -1,0 +1,298 @@
+{
+  "id": "1969-65",
+  "title": "1969 / 65",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "nirvana",
+      "meaning": "깨달음",
+      "note": "불교에서 고통에서 벗어나 완벽한 평온과 해탈 상태를 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "opposed",
+      "meaning": "대립되는",
+      "note": "반대되는 개념이나 입장을 나타냅니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "know",
+      "meaning": "이해하다",
+      "note": "이 문맥에서는 깊은 지식이나 깨달음을 의미한다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "beautiful",
+      "meaning": "아름다운",
+      "note": "여기서는 말의 미적 측면을 강조합니다.",
+      "sentenceIds": [
+        4,
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "actions",
+      "meaning": "행동",
+      "note": "개인의 일상적인 행동이 중요한 역할을 한다는 의미입니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "liberating",
+      "meaning": "해방시키는",
+      "note": "행동을 통해 정신적 자유나 해방을 얻을 수 있다는 의미입니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "happens",
+      "meaning": "발생하다, 일어나다",
+      "note": "이 단어는 어떤 일이나 상태가 실제로 일어나거나 발생한다는 의미를 전달합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "experience",
+      "meaning": "경험",
+      "note": "개인의 과거에 있었던 사건이나 배움을 의미합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fragrance",
+      "meaning": "향기",
+      "note": "긍정적이고 감각적인 변화를 상징적으로 표현합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1969-65/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Do not seek nirvana as something opposed to life, rather, turn life itself into nirvana.",
+      "korean": "인생 자체를 깨달음으로 바꾸세요, 삶과 대립되는 깨달음을 찾지 마세요.",
+      "explanation": "인생을 깨달음(니르바나)의 실현으로 바라보고, 깨달음을 삶과 대립되는 개념으로 여기지 말아야 한다는 의미입니다.",
+      "grammar": "「Do not seek」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1969-65/02.mp3",
+      "vocabulary": [
+        {
+          "word": "nirvana",
+          "meaning": "깨달음",
+          "note": "불교에서 고통에서 벗어나 완벽한 평온과 해탈 상태를 의미합니다."
+        },
+        {
+          "word": "opposed",
+          "meaning": "대립되는",
+          "note": "반대되는 개념이나 입장을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Those who know, do this.",
+      "korean": "이해하는 자들은 이렇게 해야 한다.",
+      "explanation": "이해와 실천의 중요성을 강조하며, 특정 지식이나 깨달음을 가진 사람들이 취해야 할 행동을 말한다.",
+      "grammar": "동사 「know」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1969-65/03.mp3",
+      "vocabulary": [
+        {
+          "word": "know",
+          "meaning": "이해하다",
+          "note": "이 문맥에서는 깊은 지식이나 깨달음을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Dogen has these beautiful words to say: Do not strive after moksha (liberation); rather, allow all your actions to become liberating.",
+      "korean": "도겐은 아름다운 말을 남겼습니다: 모크샤(해방)를 추구하지 말고, 모든 행동을 해방으로 만들도록 하세요.",
+      "explanation": "도겐의 가르침을 한국어로 해석한 내용입니다. 모크샤를 추구하는 대신 행동 자체를 통해 해방을 이루라는 메시지를 전달합니다.",
+      "grammar": "동사원형 「allow」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1969-65/04.mp3",
+      "vocabulary": [
+        {
+          "word": "beautiful",
+          "meaning": "아름다운",
+          "note": "여기서는 말의 미적 측면을 강조합니다."
+        },
+        {
+          "word": "actions",
+          "meaning": "행동",
+          "note": "개인의 일상적인 행동이 중요한 역할을 한다는 의미입니다."
+        },
+        {
+          "word": "liberating",
+          "meaning": "해방시키는",
+          "note": "행동을 통해 정신적 자유나 해방을 얻을 수 있다는 의미입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "This happens.",
+      "korean": "그렇게 되는 거야.",
+      "explanation": "문장의 의미: 어떤 상황이나 상태가 실제로 발생하거나 일어나는 것을 나타냄.",
+      "grammar": "동사 「happens」는 happen의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1969-65/05.mp3",
+      "vocabulary": [
+        {
+          "word": "happens",
+          "meaning": "발생하다, 일어나다",
+          "note": "이 단어는 어떤 일이나 상태가 실제로 일어나거나 발생한다는 의미를 전달합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "I can tell you this from my own experience; and the day it happens life becomes as beautiful as a flower in full bloom and brims with fragrance.",
+      "korean": "내 경험을 통해 이것을 말할 수 있어; 그날이 일어나면 삶은 활짝 핀 꽃처럼 아름다워지고 향기로 가득 찬다.",
+      "explanation": "자신의 경험을 바탕으로 어떤 사건이 일어났을 때 삶의 아름다움과 긍정적인 변화를 묘사합니다.",
+      "grammar": "「can tell」에서 조동사 can 뒤에 동사원형 「tell」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1969-65/06.mp3",
+      "vocabulary": [
+        {
+          "word": "experience",
+          "meaning": "경험",
+          "note": "개인의 과거에 있었던 사건이나 배움을 의미합니다."
+        },
+        {
+          "word": "beautiful",
+          "meaning": "아름답다",
+          "note": "생명이나 상황의 미적 측면을 강조합니다."
+        },
+        {
+          "word": "fragrance",
+          "meaning": "향기",
+          "note": "긍정적이고 감각적인 변화를 상징적으로 표현합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "인생 자체를 깨달음으로 바꾸세요, 삶과 대립되는 깨달음을 찾지 마세요. 이해하는 자들은 이렇게 해야 한다. 도겐은 아름다운 말을 남겼습니다: 모크샤(해방)를 추구하지 말고, 모든 행동을 해방으로 만들도록 하세요. 그렇게 되는 거야. 내 경험을 통해 이것을 말할 수 있어; 그날이 일어나면 삶은 활짝 핀 꽃처럼 아름다워지고 향기로 가득 찬다."
+  ],
+  "fullAudio": "audio/1969-65/script_all.mp3",
+  "originalText": "Love.\n\nDo not seek nirvana as something opposed to life,\nrather, turn life itself into nirvana.\nThose who know, do this.\nDogen has these beautiful words to say:\nDo not strive after moksha (liberation);\nrather, allow all your actions to become liberating.\nThis happens.\nI can tell you this from my own experience;\nand the day it happens\nlife becomes as beautiful as a flower in full bloom\nand brims with fragrance.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 65,
+    "year": 1969,
+    "pages": [
+      {
+        "file": "IMG_0803 2.JPG",
+        "side": "left",
+        "printedPage": 56
+      },
+      {
+        "file": "IMG_0803 2.JPG",
+        "side": "right",
+        "printedPage": 57
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

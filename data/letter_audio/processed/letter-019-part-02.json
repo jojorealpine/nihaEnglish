@@ -1,0 +1,72 @@
+{
+  "key": "letter-019-part-02",
+  "number": 19,
+  "generationId": "01a1e4ea-6f22-7310-8ad9-d5427b163ec0",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "To be silent is everything.",
+      "path": "audio/1964-19/11.mp3",
+      "start": 0.0,
+      "end": 1.4792740000000002
+    },
+    {
+      "index": 11,
+      "text": "Silence does not mean absence of speech, it means absence of thoughts.",
+      "path": "audio/1964-19/12.mp3",
+      "start": 2.671474,
+      "end": 7.389683
+    },
+    {
+      "index": 12,
+      "text": "When the mind quietens down it becomes linked to the infinite.",
+      "path": "audio/1964-19/13.mp3",
+      "start": 8.753787,
+      "end": 12.168458
+    },
+    {
+      "index": 13,
+      "text": "Don't do anything, just sit and watch the flow of thoughts, just watch.",
+      "path": "audio/1964-19/14.mp3",
+      "start": 13.562676000000002,
+      "end": 18.040884000000002
+    },
+    {
+      "index": 14,
+      "text": "This just watching dissolves thought by itself.",
+      "path": "audio/1964-19/15.mp3",
+      "start": 19.310952,
+      "end": 22.307438
+    },
+    {
+      "index": 15,
+      "text": "The awakening of witnessing brings freedom from the modifications of the mind.",
+      "path": "audio/1964-19/16.mp3",
+      "start": 23.940974999999998,
+      "end": 28.627007000000003
+    },
+    {
+      "index": 16,
+      "text": "With thoughts finished, consciousness is.",
+      "path": "audio/1964-19/17.mp3",
+      "start": 30.384511999999997,
+      "end": 33.234127
+    },
+    {
+      "index": 17,
+      "text": "This is samadhi.",
+      "path": "audio/1964-19/18.mp3",
+      "start": 34.905692,
+      "end": 36.183696
+    },
+    {
+      "index": 18,
+      "text": "Love to all friends.",
+      "path": "audio/1964-19/19.mp3",
+      "start": 37.826395000000005,
+      "end": 39.55
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "key": "letter-194-part-02",
+  "number": 194,
+  "generationId": "01a1e8eb-2101-7bbe-a38f-2401971cd131",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "One moment pleasel said the grammarian.",
+      "path": "audio/1971-194/11.mp3",
+      "start": 0.0,
+      "end": 2.407732
+    },
+    {
+      "index": 11,
+      "text": "Your grammar and diction are faulty.",
+      "path": "audio/1971-194/12.mp3",
+      "start": 3.8906349999999996,
+      "end": 6.193651
+    },
+    {
+      "index": 12,
+      "text": "Be good enough to amend them.",
+      "path": "audio/1971-194/13.mp3",
+      "start": 7.705488,
+      "end": 9.425555999999998
+    },
+    {
+      "index": 13,
+      "text": "If that is so much more important than the essentials, shouted the dervish, you had best stay where you are until I have learned to speak properly.",
+      "path": "audio/1971-194/14.mp3",
+      "start": 10.895941,
+      "end": 19.908685000000002
+    },
+    {
+      "index": 14,
+      "text": "And he went his way.",
+      "path": "audio/1971-194/15.mp3",
+      "start": 21.516621,
+      "end": 23.72
+    }
+  ]
+}

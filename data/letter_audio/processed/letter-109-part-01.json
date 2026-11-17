@@ -1,0 +1,58 @@
+{
+  "key": "letter-109-part-01",
+  "number": 109,
+  "generationId": "01a1e635-0996-79d1-b7c6-4518d100871b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-109/01.mp3",
+      "start": 0.0,
+      "end": 0.518957
+    },
+    {
+      "index": 1,
+      "text": "The temple of God is open only to a dancing, singing, happy heart.",
+      "path": "audio/1970-109/02.mp3",
+      "start": 1.7507709999999999,
+      "end": 5.8572560000000005
+    },
+    {
+      "index": 2,
+      "text": "A sad heart cannot enter there so avoid sadness.",
+      "path": "audio/1970-109/03.mp3",
+      "start": 7.055215,
+      "end": 10.140272
+    },
+    {
+      "index": 3,
+      "text": "Fill your heart with color as vivid as a peacock - and for no reason.",
+      "path": "audio/1970-109/04.mp3",
+      "start": 11.424082,
+      "end": 15.177914
+    },
+    {
+      "index": 4,
+      "text": "He who has reason to be happy is not really happy.",
+      "path": "audio/1970-109/05.mp3",
+      "start": 16.353151999999998,
+      "end": 19.472063000000002
+    },
+    {
+      "index": 5,
+      "text": "Dance and sing - not for others, not for a reason, just dance for dancing's sake; sing for singing's sake; then one's whole life becomes divine and only then becomes prayer.",
+      "path": "audio/1970-109/06.mp3",
+      "start": 20.796416999999998,
+      "end": 32.889931999999995
+    },
+    {
+      "index": 6,
+      "text": "To live so is to be free.",
+      "path": "audio/1970-109/07.mp3",
+      "start": 34.436780000000006,
+      "end": 36.81
+    }
+  ]
+}

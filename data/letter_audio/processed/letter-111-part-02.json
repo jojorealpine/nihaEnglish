@@ -1,0 +1,23 @@
+{
+  "key": "letter-111-part-02",
+  "number": 111,
+  "generationId": "01a1e635-8d36-7a93-b4b5-75ab4a86aad8",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "The signs are good Go on!",
+      "path": "audio/1970-111/11.mp3",
+      "start": 0.0,
+      "end": 1.795986
+    },
+    {
+      "index": 11,
+      "text": "I am always with you.",
+      "path": "audio/1970-111/12.mp3",
+      "start": 2.942744,
+      "end": 4.55
+    }
+  ]
+}

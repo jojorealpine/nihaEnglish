@@ -1,0 +1,44 @@
+{
+  "key": "letter-172-part-01",
+  "number": 172,
+  "generationId": "01a1e8e5-1f56-786b-8a38-cfea08329397",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-172/01.mp3",
+      "start": 0.0,
+      "end": 0.623243
+    },
+    {
+      "index": 1,
+      "text": "A madman entered the bazaar and declaimed: The moon is more useful than the sun.",
+      "path": "audio/1971-172/02.mp3",
+      "start": 1.9488659999999998,
+      "end": 7.534717
+    },
+    {
+      "index": 2,
+      "text": "But why? asked someone.",
+      "path": "audio/1971-172/03.mp3",
+      "start": 9.01059,
+      "end": 11.232812
+    },
+    {
+      "index": 3,
+      "text": "We need the light more during the night than during the day, he said.",
+      "path": "audio/1971-172/04.mp3",
+      "start": 12.618095,
+      "end": 16.455397
+    },
+    {
+      "index": 4,
+      "text": "And I say to you that all our metaphysical theories and explanations are not of more worth than the explanation of that madman.",
+      "path": "audio/1971-172/05.mp3",
+      "start": 17.824263,
+      "end": 26.15
+    }
+  ]
+}

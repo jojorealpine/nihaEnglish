@@ -1,0 +1,79 @@
+{
+  "key": "letter-228-part-01",
+  "number": 228,
+  "generationId": "01a1e8f4-d0ac-7db2-adb9-6aa43de7b48e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-228/01.mp3",
+      "start": 0.0,
+      "end": 0.792766
+    },
+    {
+      "index": 1,
+      "text": "Man goes on dreaming and desiring but basically remains where he is, and in the end nothing but the ashes of his dreams and desires are in his hands - and of course there are tears in his eyes.",
+      "path": "audio/1971-228/02.mp3",
+      "start": 2.3315189999999997,
+      "end": 15.128209
+    },
+    {
+      "index": 2,
+      "text": "Panchatantra has a beautiful story: In a certain town lived a Brahmin named Seedy who got some barley meal by begging, ate a portion, and filled a jar with the remainder.",
+      "path": "audio/1971-228/03.mp3",
+      "start": 16.605306,
+      "end": 28.705578000000003
+    },
+    {
+      "index": 3,
+      "text": "This jar he hung on a peg one night, placed his cot beneath it and fixing his gaze on the jar fell into a hypnotic reverie.",
+      "path": "audio/1971-228/04.mp3",
+      "start": 30.084694,
+      "end": 38.00093
+    },
+    {
+      "index": 4,
+      "text": "Well, here is a jar of barley meal, he thought.",
+      "path": "audio/1971-228/05.mp3",
+      "start": 39.157937000000004,
+      "end": 41.864126999999996
+    },
+    {
+      "index": 5,
+      "text": "Now if a famine comes I will get a hundred rupees for it.",
+      "path": "audio/1971-228/06.mp3",
+      "start": 43.157075000000006,
+      "end": 46.124036
+    },
+    {
+      "index": 6,
+      "text": "With that sum I will get two she-goats: every six months they will bear two more she-goats.",
+      "path": "audio/1971-228/07.mp3",
+      "start": 47.330975,
+      "end": 52.940476
+    },
+    {
+      "index": 7,
+      "text": "After goats, cows.",
+      "path": "audio/1971-228/08.mp3",
+      "start": 54.173401000000005,
+      "end": 55.727709999999995
+    },
+    {
+      "index": 8,
+      "text": "When the cows calve I will sell the calves.",
+      "path": "audio/1971-228/09.mp3",
+      "start": 57.305193,
+      "end": 60.14161
+    },
+    {
+      "index": 9,
+      "text": "After cows, buffalos.",
+      "path": "audio/1971-228/10.mp3",
+      "start": 61.607166,
+      "end": 64.91
+    }
+  ]
+}

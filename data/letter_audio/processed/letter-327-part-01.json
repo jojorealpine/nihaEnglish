@@ -1,0 +1,51 @@
+{
+  "key": "letter-327-part-01",
+  "number": 327,
+  "generationId": "01a1e90f-6749-7581-abe9-4b13ce7221d4",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-327/01.mp3",
+      "start": 0.0,
+      "end": 0.733515
+    },
+    {
+      "index": 1,
+      "text": "Death is everywhere but everyone deceives himself that it is not for him.",
+      "path": "audio/1971-327/02.mp3",
+      "start": 2.219252,
+      "end": 6.918299
+    },
+    {
+      "index": 2,
+      "text": "This is the greatest and the deepest deception the human mind is capable of, and unless one is constantly aware of this fact one is bound to be a victim of this deception - because the mind goes on giving very beautiful and logical rationalizations up to the very end.",
+      "path": "audio/1971-327/03.mp3",
+      "start": 8.490567,
+      "end": 27.202630000000003
+    },
+    {
+      "index": 3,
+      "text": "I have heard about a ninety-year-old man who got into a bitter argument with his shoemaker as to how a pair of shoes should be made.",
+      "path": "audio/1971-327/04.mp3",
+      "start": 28.779477999999997,
+      "end": 37.109206
+    },
+    {
+      "index": 4,
+      "text": "See here, said the shoemaker, What's the idea of doing so much yapping?",
+      "path": "audio/1971-327/05.mp3",
+      "start": 38.623197000000005,
+      "end": 43.532336
+    },
+    {
+      "index": 5,
+      "text": "You are past ninety and there is little chance of your living long enough to wear these shoes out The old fellow looked sternly at the shoemaker and said: Apparently you are not aware that statistics prove that very few people die after ninety years of age!",
+      "path": "audio/1971-327/06.mp3",
+      "start": 45.081429,
+      "end": 61.94
+    }
+  ]
+}

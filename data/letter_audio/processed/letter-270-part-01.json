@@ -1,0 +1,79 @@
+{
+  "key": "letter-270-part-01",
+  "number": 270,
+  "generationId": "01a1e8fe-d602-76de-954f-8abebae49022",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-270/01.mp3",
+      "start": 0.0,
+      "end": 0.643787
+    },
+    {
+      "index": 1,
+      "text": "To me meditation means - be playful and transcend all seriousness.",
+      "path": "audio/1971-270/02.mp3",
+      "start": 1.743243,
+      "end": 6.177959
+    },
+    {
+      "index": 2,
+      "text": "See: life is not serious.",
+      "path": "audio/1971-270/03.mp3",
+      "start": 7.224649,
+      "end": 9.324126999999999
+    },
+    {
+      "index": 3,
+      "text": "Look around: existence is not serious.",
+      "path": "audio/1971-270/04.mp3",
+      "start": 10.413764,
+      "end": 12.958889
+    },
+    {
+      "index": 4,
+      "text": "Only disease is serious, and of course death, and the exploiters of death - the priests!",
+      "path": "audio/1971-270/05.mp3",
+      "start": 14.034376,
+      "end": 18.818435
+    },
+    {
+      "index": 5,
+      "text": "Life is playful and festive and therefore purposeless.",
+      "path": "audio/1971-270/06.mp3",
+      "start": 19.878366999999997,
+      "end": 22.613651
+    },
+    {
+      "index": 6,
+      "text": "It is not going anywhere, because there is nowhere to go.",
+      "path": "audio/1971-270/07.mp3",
+      "start": 23.885986,
+      "end": 26.922449
+    },
+    {
+      "index": 7,
+      "text": "It is always here and here.",
+      "path": "audio/1971-270/08.mp3",
+      "start": 28.090317,
+      "end": 30.282608
+    },
+    {
+      "index": 8,
+      "text": "It is always now and now.",
+      "path": "audio/1971-270/09.mp3",
+      "start": 31.505646,
+      "end": 33.731905
+    },
+    {
+      "index": 9,
+      "text": "It is just abundant energy overflowing from here to here and from now to now, and once you know it and be it you are in that ecstasy which is the purpose of purposelessness!",
+      "path": "audio/1971-270/10.mp3",
+      "start": 34.937324000000004,
+      "end": 45.82
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "id": "1971-186",
+  "title": "1971 / 186",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Religion",
+      "meaning": "종교",
+      "note": "신앙 체계, 신성한 관습, 그리고 영적 지침을 포함하는 인간의 신념 체계.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "experience",
+      "meaning": "경험",
+      "note": "직접적으로 느끼거나 체험하는 것을 의미하며, 여기서는 종교적 깨달음이나 실천을 강조한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "priesthood",
+      "meaning": "사제직, 제사장의 역할",
+      "note": "종교적 의식이나 지도를 담당하는 직위나 역할을 의미",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "promises",
+      "meaning": "약속",
+      "note": "종교적 맥락에서 미래의 이익이나 보상을 의미하는 약속들",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "examination",
+      "meaning": "시험",
+      "note": "여기서는 구조대 관련 지식을 평가하는 시험을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fainting",
+      "meaning": "의식을 잃다",
+      "note": "사람이 갑자기 의식을 잃는 상황을 나타냅니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "condition",
+      "meaning": "상태",
+      "note": "의식을 잃은 사람의 건강 상태나 상황을 설명합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "brandy",
+      "meaning": "브랜디 (알코올 음료)",
+      "note": "이 문맥에서는 실신 상태의 사람을 깨우거나 안정시키기 위한 음료로 사용됩니다.",
+      "sentenceIds": [
+        5,
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "answer",
+      "meaning": "답변",
+      "note": "질문에 대한 반응이나 대답을 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "asked",
+      "meaning": "묻다",
+      "note": "여기서는 질문을 던지는 행위를 나타냅니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "promise",
+      "meaning": "약속하다",
+      "note": "다른 사람에게 어떤 일을 하겠다고 서약하는 의미입니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "replied",
+      "meaning": "대답하다",
+      "note": "질문에 대한 반응으로 말하는 것을 의미합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4,
+      5,
+      6
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-186/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Religion is not a promise for the future but an experience here and now.",
+      "korean": "종교는 미래의 약속이 아니라 지금 여기서의 경험이다.",
+      "explanation": "종교는 단순히 미래에 이루어질 일에 대한 약속이 아니라 현재 순간에서 체험되어야 하는 것임을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-186/02.mp3",
+      "vocabulary": [
+        {
+          "word": "Religion",
+          "meaning": "종교",
+          "note": "신앙 체계, 신성한 관습, 그리고 영적 지침을 포함하는 인간의 신념 체계."
+        },
+        {
+          "word": "experience",
+          "meaning": "경험",
+          "note": "직접적으로 느끼거나 체험하는 것을 의미하며, 여기서는 종교적 깨달음이나 실천을 강조한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "But through the priesthood it has become promises and promises and promises.",
+      "korean": "그러나 사제직을 통해 이제는 약속이 계속되고 계속되고 계속되고 있다.",
+      "explanation": "사제직을 통해 종교적 약속이 반복적으로 강조되고 있다는 의미",
+      "grammar": "「has become」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1971-186/03.mp3",
+      "vocabulary": [
+        {
+          "word": "priesthood",
+          "meaning": "사제직, 제사장의 역할",
+          "note": "종교적 의식이나 지도를 담당하는 직위나 역할을 의미"
+        },
+        {
+          "word": "promises",
+          "meaning": "약속",
+          "note": "종교적 맥락에서 미래의 이익이나 보상을 의미하는 약속들"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "At an examination of a class in First Aid a member, who was also a priest, was asked: What would you do if you found a man in a fainting condition?",
+      "korean": "첫 번째 구조대 수업 시간에 한 명의 사제가 참여했는데, 그에게 '의식을 잃은 남성을 발견했을 때 어떻게 대처할 것인가?'라는 질문이 던져졌습니다.",
+      "explanation": "의식을 잃은 상황에서의 응급 처치에 대한 사제의 역할과 책임에 대한 질문 상황을 설명합니다.",
+      "grammar": "「was asked」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-186/04.mp3",
+      "vocabulary": [
+        {
+          "word": "examination",
+          "meaning": "시험",
+          "note": "여기서는 구조대 관련 지식을 평가하는 시험을 의미합니다."
+        },
+        {
+          "word": "fainting",
+          "meaning": "의식을 잃다",
+          "note": "사람이 갑자기 의식을 잃는 상황을 나타냅니다."
+        },
+        {
+          "word": "condition",
+          "meaning": "상태",
+          "note": "의식을 잃은 사람의 건강 상태나 상황을 설명합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "I would give him some brandy, was the answer.",
+      "korean": "그는 브랜디를 줄 것이라고 답했습니다.",
+      "explanation": "만약 사람이 실신 상태라면 브랜디를 제공하겠다는 답변 내용",
+      "grammar": "「would give」에서 조동사 would 뒤에 동사원형 「give」가 옵니다. would은 문맥에 따라 가정·의지·정중함 등을 나타냅니다.",
+      "audio": "audio/1971-186/05.mp3",
+      "vocabulary": [
+        {
+          "word": "brandy",
+          "meaning": "브랜디 (알코올 음료)",
+          "note": "이 문맥에서는 실신 상태의 사람을 깨우거나 안정시키기 위한 음료로 사용됩니다."
+        },
+        {
+          "word": "answer",
+          "meaning": "답변",
+          "note": "질문에 대한 반응이나 대답을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "And if there was no brandy? he was then asked.",
+      "korean": "그리고 브랜디가 없다면 어떻게 될까요? 그는 그렇게 물었습니다.",
+      "explanation": "문장은 질문자가 브랜디의 부재에 대한 상황을 묻는 내용입니다.",
+      "grammar": "「was then asked」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-186/06.mp3",
+      "vocabulary": [
+        {
+          "word": "brandy",
+          "meaning": "브랜디 (알코올 음료)",
+          "note": "이 문맥에서는 고급 알코올 음료를 의미합니다."
+        },
+        {
+          "word": "asked",
+          "meaning": "묻다",
+          "note": "여기서는 질문을 던지는 행위를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "I would promise him some, replied the priest.",
+      "korean": "신부는 그에게 약속하겠다고 대답했습니다.",
+      "explanation": "신부가 누군가에게 약속을 하겠다는 의사를 표현하며 대답하는 내용입니다.",
+      "grammar": "「would promise」에서 조동사 would 뒤에 동사원형 「promise」가 옵니다. would은 문맥에 따라 가정·의지·정중함 등을 나타냅니다.",
+      "audio": "audio/1971-186/07.mp3",
+      "vocabulary": [
+        {
+          "word": "promise",
+          "meaning": "약속하다",
+          "note": "다른 사람에게 어떤 일을 하겠다고 서약하는 의미입니다."
+        },
+        {
+          "word": "replied",
+          "meaning": "대답하다",
+          "note": "질문에 대한 반응으로 말하는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "종교는 미래의 약속이 아니라 지금 여기서의 경험이다. 그러나 사제직을 통해 이제는 약속이 계속되고 계속되고 계속되고 있다.",
+    "첫 번째 구조대 수업 시간에 한 명의 사제가 참여했는데, 그에게 '의식을 잃은 남성을 발견했을 때 어떻게 대처할 것인가?'라는 질문이 던져졌습니다. 그는 브랜디를 줄 것이라고 답했습니다. 그리고 브랜디가 없다면 어떻게 될까요? 그는 그렇게 물었습니다. 신부는 그에게 약속하겠다고 대답했습니다."
+  ],
+  "fullAudio": "audio/1971-186/script_all.mp3",
+  "originalText": "Love.\n\nReligion is not a promise for the future\nbut an experience here and now.\nBut through the priesthood it has become\npromises and promises and promises.\n\nAt an examination of a class in First Aid\na member, who was also a priest, was asked:\nWhat would you do if you found a man in a\nfainting condition?\nI would give him some brandy, was the answer.\nAnd if there was no brandy? he was then asked.\nI would promise him some, replied the priest.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 186,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0848 2.JPG",
+        "side": "right",
+        "printedPage": 147
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

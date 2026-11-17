@@ -1,0 +1,72 @@
+{
+  "key": "letter-296-part-01",
+  "number": 296,
+  "generationId": "01a1e905-22b3-7083-ab44-e23873f25e49",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-296/01.mp3",
+      "start": 0.0,
+      "end": 0.544331
+    },
+    {
+      "index": 1,
+      "text": "Choice is the root cause of all anguish.",
+      "path": "audio/1971-296/02.mp3",
+      "start": 1.6722899999999998,
+      "end": 3.7198640000000003
+    },
+    {
+      "index": 2,
+      "text": "Choose and you always choose hell - even when you choose heaven.",
+      "path": "audio/1971-296/03.mp3",
+      "start": 4.86356,
+      "end": 7.813447
+    },
+    {
+      "index": 3,
+      "text": "And who chooses hell directly?",
+      "path": "audio/1971-296/04.mp3",
+      "start": 8.983311,
+      "end": 10.546847999999999
+    },
+    {
+      "index": 4,
+      "text": "Yet everyone lives in hell.",
+      "path": "audio/1971-296/05.mp3",
+      "start": 11.736689,
+      "end": 13.086281
+    },
+    {
+      "index": 5,
+      "text": "What a trick!",
+      "path": "audio/1971-296/06.mp3",
+      "start": 14.261769000000001,
+      "end": 15.0222
+    },
+    {
+      "index": 6,
+      "text": "The gates of heaven open into hell!",
+      "path": "audio/1971-296/07.mp3",
+      "start": 16.309614999999997,
+      "end": 18.07458
+    },
+    {
+      "index": 7,
+      "text": "Then what is to be done?",
+      "path": "audio/1971-296/08.mp3",
+      "start": 19.271179,
+      "end": 20.386077
+    },
+    {
+      "index": 8,
+      "text": "Nothing at all, because in doing nothing you can rest content with all things as they are. and you have knocked at the right door without even knocking!",
+      "path": "audio/1971-296/09.mp3",
+      "start": 21.865057,
+      "end": 31.53
+    }
+  ]
+}

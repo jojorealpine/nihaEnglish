@@ -1,0 +1,260 @@
+{
+  "id": "1970-149",
+  "title": "1970 / 149",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "receive",
+      "meaning": "받다",
+      "note": "편지를 전달받는 행위를 나타냄",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "letter",
+      "meaning": "편지",
+      "note": "개인 간의 메시지 전달 수단",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "worship",
+      "meaning": "숭배",
+      "note": "신이나 신성한 것을 존경하고 찬미하는 행위를 의미합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sadhana",
+      "meaning": "수행",
+      "note": "종교적 또는 영적 목표를 달성하기 위한 실천적인 노력이나 행위를 가리킵니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sleeping",
+      "meaning": "잠자는",
+      "note": "활동의 한 부분으로서 휴식 상태를 나타냄",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "remember",
+      "meaning": "기억하라",
+      "note": "지속적으로 사랑의 가치를 염두에 두라는 강조",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "temple",
+      "meaning": "사찰",
+      "note": "종교적 의식이나 수행이 이루어지는 장소를 의미함",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "far",
+      "meaning": "멀리",
+      "note": "거리가 상당히 떨어져 있다는 의미로 사용됨",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-149/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "I was glad to receive your letter.",
+      "korean": "당신의 편지를 받게 되어 기뻤습니다.",
+      "explanation": "편지를 받는 것에 대한 기쁨을 표현",
+      "grammar": "「was」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-149/02.mp3",
+      "vocabulary": [
+        {
+          "word": "receive",
+          "meaning": "받다",
+          "note": "편지를 전달받는 행위를 나타냄"
+        },
+        {
+          "word": "letter",
+          "meaning": "편지",
+          "note": "개인 간의 메시지 전달 수단"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Make love your prayer now Love alone is worship, is God Let there be love with every breath - this is your only sadhana.",
+      "korean": "사랑을 기도로 삼으세요. 사랑만이 숭배이며, 그것이 신입니다. 모든 숨 쉴 때마다 사랑이 있어야 합니다 - 이것이 당신의 유일한 수행입니다.",
+      "explanation": "문장은 사랑을 중심으로 한 영적 삶의 지침을 제시합니다. 사랑을 통해 신을 숭배하고, 일상의 모든 행동에서 사랑을 실천하는 것이 중요하다는 메시지를 전달합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-149/03.mp3",
+      "vocabulary": [
+        {
+          "word": "worship",
+          "meaning": "숭배",
+          "note": "신이나 신성한 것을 존경하고 찬미하는 행위를 의미합니다."
+        },
+        {
+          "word": "sadhana",
+          "meaning": "수행",
+          "note": "종교적 또는 영적 목표를 달성하기 위한 실천적인 노력이나 행위를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Sitting, rising, sleeping, waking just remember: love.",
+      "korean": "잠자는 것부터 깨어나는 것까지, 단지 사랑을 기억하라.",
+      "explanation": "모든 일상 활동 속에서 사랑을 염두에 두라는 가르침",
+      "grammar": "「Sitting」는 sit의 -ing형으로, 여기서는 행동을 명사처럼 가리킵니다. -ing형만 있다고 현재진행형인 것은 아니며, 문장 속 역할을 함께 살펴야 합니다.",
+      "audio": "audio/1970-149/04.mp3",
+      "vocabulary": [
+        {
+          "word": "sleeping",
+          "meaning": "잠자는",
+          "note": "활동의 한 부분으로서 휴식 상태를 나타냄"
+        },
+        {
+          "word": "remember",
+          "meaning": "기억하라",
+          "note": "지속적으로 사랑의 가치를 염두에 두라는 강조"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Then you will see that his temple is not far off",
+      "korean": "그러면 그의 사찰은 가까이에 있다는 것을 알게 될 것이다.",
+      "explanation": "그의 사찰이 가까이에 있음을 깨닫게 된다는 의미",
+      "grammar": "「will see」에서 조동사 will 뒤에 동사원형 「see」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+      "audio": "audio/1970-149/05.mp3",
+      "vocabulary": [
+        {
+          "word": "temple",
+          "meaning": "사찰",
+          "note": "종교적 의식이나 수행이 이루어지는 장소를 의미함"
+        },
+        {
+          "word": "far",
+          "meaning": "멀리",
+          "note": "거리가 상당히 떨어져 있다는 의미로 사용됨"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "당신의 편지를 받게 되어 기뻤습니다. 사랑을 기도로 삼으세요. 사랑만이 숭배이며, 그것이 신입니다. 모든 숨 쉴 때마다 사랑이 있어야 합니다 - 이것이 당신의 유일한 수행입니다. 잠자는 것부터 깨어나는 것까지, 단지 사랑을 기억하라. 그러면 그의 사찰은 가까이에 있다는 것을 알게 될 것이다."
+  ],
+  "fullAudio": "audio/1970-149/script_all.mp3",
+  "originalText": "Love.\n\nI was glad to receive your letter.\nMake love your prayer now\nLove alone is worship, is God\nLet there be love with every breath -\nthis is your only sadhana.\nSitting, rising, sleeping, waking\njust remember: love.\nThen you will see that his temple is not far off",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 149,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0832 2.JPG",
+        "side": "right",
+        "printedPage": 115
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

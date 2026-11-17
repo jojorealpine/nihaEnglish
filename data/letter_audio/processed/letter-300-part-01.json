@@ -1,0 +1,79 @@
+{
+  "key": "letter-300-part-01",
+  "number": 300,
+  "generationId": "01a1e905-d0cb-775a-a652-205306ff731c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-300/01.mp3",
+      "start": 0.0,
+      "end": 0.663401
+    },
+    {
+      "index": 1,
+      "text": "Be ordinary, so ordinary that you come to be virtually nobody - and there is the opening, and there is the explosion.",
+      "path": "audio/1971-300/02.mp3",
+      "start": 2.06263,
+      "end": 9.166644
+    },
+    {
+      "index": 2,
+      "text": "Only when you are not are you the extraordinary!",
+      "path": "audio/1971-300/03.mp3",
+      "start": 10.587619,
+      "end": 13.412177
+    },
+    {
+      "index": 3,
+      "text": "But do not think about it and do not crave it, and if the craving comes - be aware and laugh.",
+      "path": "audio/1971-300/04.mp3",
+      "start": 14.862018,
+      "end": 21.2178
+    },
+    {
+      "index": 4,
+      "text": "It will be stopped by awareness and the created energy will be used by the laughter, and after the laugh you will feel a deep relaxation.",
+      "path": "audio/1971-300/05.mp3",
+      "start": 22.700408,
+      "end": 31.469569
+    },
+    {
+      "index": 5,
+      "text": "Then begin to dance or sing and the negative state of the mind will be transformed into the positive.",
+      "path": "audio/1971-300/06.mp3",
+      "start": 32.968413000000005,
+      "end": 39.463356
+    },
+    {
+      "index": 6,
+      "text": "The craving to be someone, somebody, is absolutely negative because the ego is the negation of being.",
+      "path": "audio/1971-300/07.mp3",
+      "start": 40.892857,
+      "end": 48.176463
+    },
+    {
+      "index": 7,
+      "text": "The ego is the principle of negation, and if the negative is negated then you are positive.",
+      "path": "audio/1971-300/08.mp3",
+      "start": 49.667574,
+      "end": 55.72746
+    },
+    {
+      "index": 8,
+      "text": "The ego is the source of all inferiority, but the trick is subtle because the ego promises superiority and in the end only results in inferiority.",
+      "path": "audio/1971-300/09.mp3",
+      "start": 57.128685000000004,
+      "end": 67.50027200000001
+    },
+    {
+      "index": 9,
+      "text": "Decode this secret and understand it very clearly.",
+      "path": "audio/1971-300/10.mp3",
+      "start": 69.033968,
+      "end": 72.72
+    }
+  ]
+}

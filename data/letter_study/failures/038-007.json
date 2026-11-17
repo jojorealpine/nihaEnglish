@@ -1,0 +1,5 @@
+{
+  "english": "May God give you light, that's my wish.",
+  "error": "Grammar does not refer to the English sentence",
+  "response": "```json\n{\n  \"korean\": \"신이 당신에게 빛을 주시길 바라요, 그게 제 바람이에요.\",\n  \"explanation\": \"이 문장은 신에게 특정 개인에게 빛을 주시길 바라는 기도나 소망을 표현하고 있습니다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"light\",\n      \"meaning\": \"빛\",\n      \"note\": \"여기서는 영적 지침이나 깨달음을 상징적으로 의미합니다.\"\n    },\n    {\n      \"word\": \"wish\",\n      \"meaning\": \"바람\",\n      \"note\": \"개인의 소망이나 기도의 표현으로 사용되었습니다.\"\n    }\n  ],\n  \"expressions\": []\n}\n```"
+}

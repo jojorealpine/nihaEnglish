@@ -1,0 +1,79 @@
+{
+  "key": "letter-142-part-01",
+  "number": 142,
+  "generationId": "01a1e6d5-4c45-7b84-9ec8-5a150ea0a8af",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-142/01.mp3",
+      "start": 0.0,
+      "end": 0.67288
+    },
+    {
+      "index": 1,
+      "text": "What is suppressed becomes attractive, what is negated, beckons!",
+      "path": "audio/1970-142/02.mp3",
+      "start": 1.9487069999999997,
+      "end": 5.8202490000000004
+    },
+    {
+      "index": 2,
+      "text": "Only alertness to the mind's games brings freedom.",
+      "path": "audio/1970-142/03.mp3",
+      "start": 7.022381,
+      "end": 9.948934
+    },
+    {
+      "index": 3,
+      "text": "Negation does not really negate, on the contrary, it beckons.",
+      "path": "audio/1970-142/04.mp3",
+      "start": 11.167891000000001,
+      "end": 15.196121999999999
+    },
+    {
+      "index": 4,
+      "text": "The mind plays around the forbidden like the tongue around the gap of an extracted tooth.",
+      "path": "audio/1970-142/05.mp3",
+      "start": 16.448072999999997,
+      "end": 21.266349
+    },
+    {
+      "index": 5,
+      "text": "A small shopkeeper in London once caused a sensation.",
+      "path": "audio/1970-142/06.mp3",
+      "start": 22.841088,
+      "end": 26.777052
+    },
+    {
+      "index": 6,
+      "text": "He hung in his show window a black curtain with a small hole at the center; under the hole was written in large letters: Peeping strictly forbidden.",
+      "path": "audio/1970-142/07.mp3",
+      "start": 28.394671,
+      "end": 38.65551
+    },
+    {
+      "index": 7,
+      "text": "Naturally, it brought the traffic to a standstill!",
+      "path": "audio/1970-142/08.mp3",
+      "start": 40.270816,
+      "end": 43.315079
+    },
+    {
+      "index": 8,
+      "text": "Crowds gathered around the shop jostling one another for a peep through the curtain.",
+      "path": "audio/1970-142/09.mp3",
+      "start": 44.913968000000004,
+      "end": 49.422494
+    },
+    {
+      "index": 9,
+      "text": "There they saw nothing but a few towels - it was just a small towel shop and the shopkeeper had devised this sure-fire method of increasing his sales.",
+      "path": "audio/1970-142/10.mp3",
+      "start": 50.929660000000005,
+      "end": 60.97
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "english": "It was just for friends from Rajasthan, that's why you weren't informed.",
+  "error": "Grammar does not refer to the English sentence",
+  "response": "```json\n{\n  \"korean\": \"이것은 라자스탄의 친구들을 위한 것이었기 때문에, 당신에게 알리지 않았어요.\",\n  \"explanation\": \"문장은 특정 모임이 라자스탄 출신의 친구들을 위한 것이었음을 설명하며, 그 이유로 참석자 명단에 포함되지 않은 사람에게는 정보를 제공하지 않았음을 밝히고 있어요.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"friends\",\n      \"meaning\": \"친구들\",\n      \"note\": \"여기서는 라자스탄 출신의 특정 사람들을 지칭하며, 친밀한 관계를 나타냅니다.\"\n    },\n    {\n      \"word\": \"informed\",\n      \"meaning\": \"알리다\",\n      \"note\": \"정보를 제공하거나 알려주는 행위를 의미하며, 이 문맥에서는 초대나 세부 사항을 공유하지 않은 상황을 설명합니다.\"\n    }\n  ],\n  \"expressions\": []\n}\n```"
+}

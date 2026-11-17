@@ -1,0 +1,30 @@
+{
+  "key": "letter-322-part-01",
+  "number": 322,
+  "generationId": "01a1e90d-71a6-7227-8973-4aca5b2e0416",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-322/01.mp3",
+      "start": 0.0,
+      "end": 0.666508
+    },
+    {
+      "index": 1,
+      "text": "Love to be alone.",
+      "path": "audio/1971-322/02.mp3",
+      "start": 2.044512,
+      "end": 3.43907
+    },
+    {
+      "index": 2,
+      "text": "Solitude is the temple of the divine, and remember that there is no other temple.",
+      "path": "audio/1971-322/03.mp3",
+      "start": 4.889705,
+      "end": 10.29
+    }
+  ]
+}

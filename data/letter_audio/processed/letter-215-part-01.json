@@ -1,0 +1,79 @@
+{
+  "key": "letter-215-part-01",
+  "number": 215,
+  "generationId": "01a1e91b-0b7e-7716-a5e7-9964f834b5c7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-215/01.mp3",
+      "start": 0.0,
+      "end": 0.764694
+    },
+    {
+      "index": 1,
+      "text": "Always remember the golden rule: One step at a time.",
+      "path": "audio/1971-215/02.mp3",
+      "start": 2.085873,
+      "end": 5.667506
+    },
+    {
+      "index": 2,
+      "text": "A good natured woman was often asked for food by tramps.",
+      "path": "audio/1971-215/03.mp3",
+      "start": 7.094512,
+      "end": 10.751178999999999
+    },
+    {
+      "index": 3,
+      "text": "She finally decided to refuse them; it was becoming too burdensome.",
+      "path": "audio/1971-215/04.mp3",
+      "start": 12.101043,
+      "end": 16.342948
+    },
+    {
+      "index": 4,
+      "text": "But shortly after she made her resolution one young man stopped and asked her for a little piece of thread.",
+      "path": "audio/1971-215/05.mp3",
+      "start": 17.701269999999997,
+      "end": 23.901723
+    },
+    {
+      "index": 5,
+      "text": "She noticed that his pants were badly ripped, that he had a needle, and she realized he could not get work with his pants in their present condition, so she gave him the thread.",
+      "path": "audio/1971-215/06.mp3",
+      "start": 25.335010999999998,
+      "end": 36.566258999999995
+    },
+    {
+      "index": 6,
+      "text": "The fellow took the thread, went down the road and sat under a tree for a few minutes, then came back to the house.",
+      "path": "audio/1971-215/07.mp3",
+      "start": 38.088889,
+      "end": 45.235828
+    },
+    {
+      "index": 7,
+      "text": "He told the woman he could not repair the pants unless he had a piece of cloth for a patch.",
+      "path": "audio/1971-215/08.mp3",
+      "start": 46.756145000000004,
+      "end": 51.623469
+    },
+    {
+      "index": 8,
+      "text": "She gave him a small piece of material.",
+      "path": "audio/1971-215/09.mp3",
+      "start": 53.183469,
+      "end": 55.591701
+    },
+    {
+      "index": 9,
+      "text": "About an hour later the young fellow came again to the house and said: Madam, these pants are beyond repair.",
+      "path": "audio/1971-215/10.mp3",
+      "start": 57.08585,
+      "end": 66.04
+    }
+  ]
+}

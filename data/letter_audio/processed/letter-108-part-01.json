@@ -1,0 +1,72 @@
+{
+  "key": "letter-108-part-01",
+  "number": 108,
+  "generationId": "01a1e634-d63d-783b-8c6a-69f5cb0f4d44",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-108/01.mp3",
+      "start": 0.0,
+      "end": 0.611973
+    },
+    {
+      "index": 1,
+      "text": "My blessings on your new birth - sannyas is a new birth, in oneself, by oneself, of oneself.",
+      "path": "audio/1970-108/02.mp3",
+      "start": 1.9885259999999998,
+      "end": 8.766871
+    },
+    {
+      "index": 2,
+      "text": "It is also a death, not an ordinary death but the great death.",
+      "path": "audio/1970-108/03.mp3",
+      "start": 10.110567000000001,
+      "end": 13.786893
+    },
+    {
+      "index": 3,
+      "text": "It is the death of all that you were up until yesterday.",
+      "path": "audio/1970-108/04.mp3",
+      "start": 15.056689,
+      "end": 17.877937
+    },
+    {
+      "index": 4,
+      "text": "And what you are now - that too must keep dying every moment so that the new can be born and born and born again.",
+      "path": "audio/1970-108/05.mp3",
+      "start": 19.220136,
+      "end": 26.065624
+    },
+    {
+      "index": 5,
+      "text": "Now you will not remain you even for a moment.",
+      "path": "audio/1970-108/06.mp3",
+      "start": 27.44746,
+      "end": 30.061315
+    },
+    {
+      "index": 6,
+      "text": "You have to die and be reborn every moment - this is the only sadhana.",
+      "path": "audio/1970-108/07.mp3",
+      "start": 31.414376,
+      "end": 35.253288
+    },
+    {
+      "index": 7,
+      "text": "Live like a river, not like a pond.",
+      "path": "audio/1970-108/08.mp3",
+      "start": 36.938639,
+      "end": 39.326757
+    },
+    {
+      "index": 8,
+      "text": "The pond is a householder; the river, a sannyasin.",
+      "path": "audio/1970-108/09.mp3",
+      "start": 41.121678,
+      "end": 45.92
+    }
+  ]
+}

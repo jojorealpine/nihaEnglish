@@ -1,0 +1,79 @@
+{
+  "key": "letter-175-part-01",
+  "number": 175,
+  "generationId": "01a1e8e5-ed12-7ea9-b3d9-a377871d6dd2",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-175/01.mp3",
+      "start": 0.0,
+      "end": 0.64415
+    },
+    {
+      "index": 1,
+      "text": "Fear cripples consciousness, and fear is the source of unconsciousness, that is why without transcending fear no one can attain to full consciousness.",
+      "path": "audio/1971-175/02.mp3",
+      "start": 2.066576,
+      "end": 11.403696
+    },
+    {
+      "index": 2,
+      "text": "But what is fear?",
+      "path": "audio/1971-175/03.mp3",
+      "start": 12.795442000000001,
+      "end": 13.912177
+    },
+    {
+      "index": 3,
+      "text": "Fear is awareness of death without knowing what death is.",
+      "path": "audio/1971-175/04.mp3",
+      "start": 15.311315,
+      "end": 18.575986
+    },
+    {
+      "index": 4,
+      "text": "Fear exists in the gap between you and your death, and if there is no gap, no space, then there is no fear.",
+      "path": "audio/1971-175/05.mp3",
+      "start": 19.967914,
+      "end": 27.605896
+    },
+    {
+      "index": 5,
+      "text": "Do not think of death as something outside you because it is not.",
+      "path": "audio/1971-175/06.mp3",
+      "start": 29.061609999999998,
+      "end": 32.495917999999996
+    },
+    {
+      "index": 6,
+      "text": "And do not think of death as something in the future because it is not.",
+      "path": "audio/1971-175/07.mp3",
+      "start": 33.96483,
+      "end": 37.454330999999996
+    },
+    {
+      "index": 7,
+      "text": "Death is within you, because death is the other side of life.",
+      "path": "audio/1971-175/08.mp3",
+      "start": 39.022676000000004,
+      "end": 42.850317
+    },
+    {
+      "index": 8,
+      "text": "Life cannot exist without death; they both belong to the same energy as positive and negative poles.",
+      "path": "audio/1971-175/09.mp3",
+      "start": 44.49898,
+      "end": 51.777415
+    },
+    {
+      "index": 9,
+      "text": "So do not identify yourself with life - because you are both.",
+      "path": "audio/1971-175/10.mp3",
+      "start": 53.291519,
+      "end": 58.17
+    }
+  ]
+}

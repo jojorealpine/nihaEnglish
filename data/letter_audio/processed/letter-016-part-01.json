@@ -1,0 +1,79 @@
+{
+  "key": "letter-016-part-01",
+  "number": 16,
+  "generationId": "01a1e4e9-bc26-747e-bad5-adfad7602e2f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1964-16/01.mp3",
+      "start": 0.0,
+      "end": 0.697528
+    },
+    {
+      "index": 1,
+      "text": "I received your letter.",
+      "path": "audio/1964-16/02.mp3",
+      "start": 2.0980499999999997,
+      "end": 3.481995
+    },
+    {
+      "index": 2,
+      "text": "What you say has made me very happy Words that come out of the depth and fullness of heart echo the infinite just as a tiny flower expresses infinite beauty.",
+      "path": "audio/1964-16/03.mp3",
+      "start": 5.024739,
+      "end": 15.218095
+    },
+    {
+      "index": 3,
+      "text": "When love breathes life into words what is expressed is not what is said but what wants to be said Inside each of us there is a poet, there is poetry, but because we live on the surface these are never born.",
+      "path": "audio/1964-16/04.mp3",
+      "start": 16.762584999999998,
+      "end": 30.427937
+    },
+    {
+      "index": 4,
+      "text": "Those who go deep awaken divine love and this love fills their lives with music, beauty, peace and poetry - their very lives become music and on to this stage truth descends.",
+      "path": "audio/1964-16/05.mp3",
+      "start": 31.946643999999996,
+      "end": 44.222744
+    },
+    {
+      "index": 5,
+      "text": "Truth will descend where there is music so life must be turned into a melody.",
+      "path": "audio/1964-16/06.mp3",
+      "start": 45.758435000000006,
+      "end": 50.555941
+    },
+    {
+      "index": 6,
+      "text": "Only through music can one reach the truth.",
+      "path": "audio/1964-16/07.mp3",
+      "start": 52.091655,
+      "end": 54.503446999999994
+    },
+    {
+      "index": 7,
+      "text": "You too have to become music, the entire life, every little act, has to be turned into music: this happens through love.",
+      "path": "audio/1964-16/08.mp3",
+      "start": 56.027120000000004,
+      "end": 64.474626
+    },
+    {
+      "index": 8,
+      "text": "Whatever is - love it.",
+      "path": "audio/1964-16/09.mp3",
+      "start": 65.989206,
+      "end": 68.49229000000001
+    },
+    {
+      "index": 9,
+      "text": "Feel love for the whole world Feeling love for all with every breath brings the inner music.",
+      "path": "audio/1964-16/10.mp3",
+      "start": 70.05043099999999,
+      "end": 77.03999999999999
+    }
+  ]
+}

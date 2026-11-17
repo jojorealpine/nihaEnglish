@@ -1,0 +1,65 @@
+{
+  "key": "letter-046-part-01",
+  "number": 46,
+  "generationId": "01a1e4f0-a2b2-7770-a26e-996c45f71044",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1968-46/01.mp3",
+      "start": 0.0,
+      "end": 0.492585
+    },
+    {
+      "index": 1,
+      "text": "It is a long time since I received your letter, you must be tired of waiting for a reply.",
+      "path": "audio/1968-46/02.mp3",
+      "start": 1.726871,
+      "end": 6.558753
+    },
+    {
+      "index": 2,
+      "text": "Still, patient waiting has its own joy.",
+      "path": "audio/1968-46/03.mp3",
+      "start": 7.826712,
+      "end": 10.469342
+    },
+    {
+      "index": 3,
+      "text": "On the path to God, timeless waiting is the true sadhana.",
+      "path": "audio/1968-46/04.mp3",
+      "start": 11.757029000000001,
+      "end": 15.11483
+    },
+    {
+      "index": 4,
+      "text": "Waiting and waiting and waiting.",
+      "path": "audio/1968-46/05.mp3",
+      "start": 16.346031999999997,
+      "end": 18.519206
+    },
+    {
+      "index": 5,
+      "text": "And then, just as a bud blooms, everything happens by itself.",
+      "path": "audio/1968-46/06.mp3",
+      "start": 19.89907,
+      "end": 23.93263
+    },
+    {
+      "index": 6,
+      "text": "You are coming to Nargol, aren't you?",
+      "path": "audio/1968-46/07.mp3",
+      "start": 25.585261,
+      "end": 28.096485
+    },
+    {
+      "index": 7,
+      "text": "My regards to all.",
+      "path": "audio/1968-46/08.mp3",
+      "start": 29.653197,
+      "end": 31.58
+    }
+  ]
+}

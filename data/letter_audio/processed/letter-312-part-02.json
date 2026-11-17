@@ -1,0 +1,44 @@
+{
+  "key": "letter-312-part-02",
+  "number": 312,
+  "generationId": "01a1e909-1fce-777d-9650-0e2583b172d7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "How can I throw it out?",
+      "path": "audio/1971-312/11.mp3",
+      "start": 0.0,
+      "end": 1.360363
+    },
+    {
+      "index": 11,
+      "text": "If you can't throw it out, carry it out!",
+      "path": "audio/1971-312/12.mp3",
+      "start": 2.8723129999999997,
+      "end": 5.8131070000000005
+    },
+    {
+      "index": 12,
+      "text": "Drive it out!",
+      "path": "audio/1971-312/13.mp3",
+      "start": 7.317392,
+      "end": 8.328026999999999
+    },
+    {
+      "index": 13,
+      "text": "Empty it out!",
+      "path": "audio/1971-312/14.mp3",
+      "start": 9.860952000000001,
+      "end": 10.992244999999999
+    },
+    {
+      "index": 14,
+      "text": "But don't stand there in front of me with nothing in your mind!",
+      "path": "audio/1971-312/15.mp3",
+      "start": 12.589252,
+      "end": 16.14
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "key": "letter-017-part-02",
+  "number": 17,
+  "generationId": "01a1e4ea-1cc9-7fdd-9596-c7ca4c54638f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Fill yourself with determination and leave the rest to God Truth runs alongside will.",
+      "path": "audio/1964-17/11.mp3",
+      "start": 0.0,
+      "end": 5.557982
+    },
+    {
+      "index": 11,
+      "text": "Don't hesitate to write, I have lots of time for you.",
+      "path": "audio/1964-17/12.mp3",
+      "start": 7.132041,
+      "end": 11.006053999999999
+    },
+    {
+      "index": 12,
+      "text": "I am for those who need me - nothing in my life is for myself.",
+      "path": "audio/1964-17/13.mp3",
+      "start": 12.527438,
+      "end": 17.14
+    }
+  ]
+}

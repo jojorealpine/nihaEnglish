@@ -1,0 +1,65 @@
+{
+  "key": "letter-045-part-01",
+  "number": 45,
+  "generationId": "01a1e4f0-94d2-79b9-9277-806ce682022c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1968-45/01.mp3",
+      "start": 0.0,
+      "end": 0.767574
+    },
+    {
+      "index": 1,
+      "text": "I received your letter.",
+      "path": "audio/1968-45/02.mp3",
+      "start": 2.1026759999999998,
+      "end": 3.370159
+    },
+    {
+      "index": 2,
+      "text": "The time of my birth will have to be looked up.",
+      "path": "audio/1968-45/03.mp3",
+      "start": 4.809819,
+      "end": 7.294444
+    },
+    {
+      "index": 3,
+      "text": "I think the day was the eleventh of December, but even this is not certain.",
+      "path": "audio/1968-45/04.mp3",
+      "start": 8.604286,
+      "end": 12.868753
+    },
+    {
+      "index": 4,
+      "text": "But tell your astrologer friend not to worry; the future will simply come, there's no point in worrying about it.",
+      "path": "audio/1968-45/05.mp3",
+      "start": 14.247823,
+      "end": 20.87449
+    },
+    {
+      "index": 5,
+      "text": "Whatever happens - ultimately it is all the same.",
+      "path": "audio/1968-45/06.mp3",
+      "start": 22.398208999999998,
+      "end": 26.09381
+    },
+    {
+      "index": 6,
+      "text": "Dust returns unto dust and life disappears like a line drawn on water.",
+      "path": "audio/1968-45/07.mp3",
+      "start": 27.63619,
+      "end": 32.882788999999995
+    },
+    {
+      "index": 7,
+      "text": "My regards to everyone.",
+      "path": "audio/1968-45/08.mp3",
+      "start": 34.471383,
+      "end": 36.6
+    }
+  ]
+}

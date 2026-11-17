@@ -1,0 +1,30 @@
+{
+  "key": "letter-150-part-02",
+  "number": 150,
+  "generationId": "01a1e6e7-2560-7aa0-a3ff-bbfe04b06ae7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Surrender even this to God Say to him: Whatever it's like, good or bad, take care of it.",
+      "path": "audio/1970-150/11.mp3",
+      "start": 0.0,
+      "end": 6.198005
+    },
+    {
+      "index": 11,
+      "text": "And then just be a witness, simply watch the whole play.",
+      "path": "audio/1970-150/12.mp3",
+      "start": 7.801973,
+      "end": 12.826621
+    },
+    {
+      "index": 12,
+      "text": "Watch the play of the mind with detachment and then suddenly - there is the consciousness which is no-mind.",
+      "path": "audio/1970-150/13.mp3",
+      "start": 14.357052000000001,
+      "end": 22.0
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "key": "letter-168-part-01",
+  "number": 168,
+  "generationId": "01a1e8e4-4a7d-7549-b9a7-aa8042d653b1",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-168/01.mp3",
+      "start": 0.0,
+      "end": 0.669683
+    },
+    {
+      "index": 1,
+      "text": "A small boy with a penny clutched tightly in his hot little hand entered the toyshop and drove the proprietor to distraction asking him to show this and that and everything without ever making up his mind",
+      "path": "audio/1971-168/02.mp3",
+      "start": 2.2107259999999997,
+      "end": 15.612176999999999
+    },
+    {
+      "index": 2,
+      "text": "Look here, my boy, said the storekeeper finally.",
+      "path": "audio/1971-168/03.mp3",
+      "start": 17.069682999999998,
+      "end": 20.399025
+    },
+    {
+      "index": 3,
+      "text": "What do you want to buy for a penny - the whole world with a fence around it?",
+      "path": "audio/1971-168/04.mp3",
+      "start": 21.918412999999997,
+      "end": 26.194853000000002
+    },
+    {
+      "index": 4,
+      "text": "The boy thought for a moment and then replied: Let me see it.",
+      "path": "audio/1971-168/05.mp3",
+      "start": 27.688865999999997,
+      "end": 31.859365
+    },
+    {
+      "index": 5,
+      "text": "And I say to you that ordinarily no one in this world is different from that small boy.",
+      "path": "audio/1971-168/06.mp3",
+      "start": 33.337664000000004,
+      "end": 38.104875
+    },
+    {
+      "index": 6,
+      "text": "But unless one is different, one is not mature.",
+      "path": "audio/1971-168/07.mp3",
+      "start": 39.7578,
+      "end": 43.384626
+    },
+    {
+      "index": 7,
+      "text": "And maturity does not come with age alone, maturity comes through understanding the distinction between that which is possible and that which is not possible.",
+      "path": "audio/1971-168/08.mp3",
+      "start": 44.887438,
+      "end": 55.95
+    }
+  ]
+}

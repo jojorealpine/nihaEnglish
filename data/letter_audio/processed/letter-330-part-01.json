@@ -1,0 +1,58 @@
+{
+  "key": "letter-330-part-01",
+  "number": 330,
+  "generationId": "01a1e910-56a7-738b-9680-b79d3238a5c7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-330/01.mp3",
+      "start": 0.0,
+      "end": 0.711859
+    },
+    {
+      "index": 1,
+      "text": "Mind and meditation are two names of the same substance, or the same energy.",
+      "path": "audio/1971-330/02.mp3",
+      "start": 1.9149889999999998,
+      "end": 6.4431970000000005
+    },
+    {
+      "index": 2,
+      "text": "Mind is energy flowing in dualisms, in conflict and dis-ease; and meditation is non-dual energy, one with itself and at ease.",
+      "path": "audio/1971-330/03.mp3",
+      "start": 7.762132,
+      "end": 16.985760000000003
+    },
+    {
+      "index": 3,
+      "text": "Thinking is impossible without dualisms, that is why meditation asks you to go beyond thinking.",
+      "path": "audio/1971-330/04.mp3",
+      "start": 18.349183999999997,
+      "end": 25.46229
+    },
+    {
+      "index": 4,
+      "text": "The moment there is no thinking - or a single ripple of thought - the energy becomes integrated and there is a qualitative change.",
+      "path": "audio/1971-330/05.mp3",
+      "start": 26.852629999999998,
+      "end": 35.422698
+    },
+    {
+      "index": 5,
+      "text": "The no-thinking energy opens the door of the dimensionless dimension.",
+      "path": "audio/1971-330/06.mp3",
+      "start": 36.907347,
+      "end": 41.387574
+    },
+    {
+      "index": 6,
+      "text": "So refrain from seeking even Enlightenment or Buddhahood because with any seeking whatsoever the mechanism of thought begins to operate and create dualisms.",
+      "path": "audio/1971-330/07.mp3",
+      "start": 42.842290000000006,
+      "end": 54.28
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "letter-103-part-01",
+  "number": 103,
+  "generationId": "01a1e633-c899-76e7-b593-3946716483f4",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-103/01.mp3",
+      "start": 0.0,
+      "end": 0.59873
+    },
+    {
+      "index": 1,
+      "text": "I received your letter.",
+      "path": "audio/1970-103/02.mp3",
+      "start": 1.9712239999999999,
+      "end": 3.276122
+    },
+    {
+      "index": 2,
+      "text": "It is good to know that your mother's death has made you consider your own.",
+      "path": "audio/1970-103/03.mp3",
+      "start": 4.564172,
+      "end": 8.146395
+    },
+    {
+      "index": 3,
+      "text": "One has to go through the awareness of death to reach deathlessness.",
+      "path": "audio/1970-103/04.mp3",
+      "start": 9.502857,
+      "end": 13.191813999999999
+    },
+    {
+      "index": 4,
+      "text": "The thrust of death goes deep but the mind cunningly goes on evading it.",
+      "path": "audio/1970-103/05.mp3",
+      "start": 14.598095,
+      "end": 19.010907
+    },
+    {
+      "index": 5,
+      "text": "Don't evade it, don't console yourself - any kind of consolation is a suicide.",
+      "path": "audio/1970-103/06.mp3",
+      "start": 20.320657999999998,
+      "end": 24.918163
+    },
+    {
+      "index": 6,
+      "text": "Let yourself feel the wound of death completely: wake up and live with it!",
+      "path": "audio/1970-103/07.mp3",
+      "start": 26.241497,
+      "end": 30.915578
+    },
+    {
+      "index": 7,
+      "text": "This will be hard but revolution always is.",
+      "path": "audio/1970-103/08.mp3",
+      "start": 32.225397,
+      "end": 34.670635
+    },
+    {
+      "index": 8,
+      "text": "Death is, it is there always, but we forget about it.",
+      "path": "audio/1970-103/09.mp3",
+      "start": 35.911995000000005,
+      "end": 39.563151999999995
+    },
+    {
+      "index": 9,
+      "text": "Every day death is there, every moment.",
+      "path": "audio/1970-103/10.mp3",
+      "start": 41.077347,
+      "end": 44.3
+    }
+  ]
+}

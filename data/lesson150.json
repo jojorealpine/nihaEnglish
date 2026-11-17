@@ -1,0 +1,594 @@
+{
+  "id": "1970-150",
+  "title": "1970 / 150",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "testing",
+      "meaning": "시험하다",
+      "note": "여기서는 신의 평가나 시험을 의미하며, 개인의 믿음이나 행동을 검증하는 과정을 나타낸다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "moment",
+      "meaning": "순간",
+      "note": "매 순간, 즉 언제든지 신의 시험이 이루어질 수 있다는 의미를 전달한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "beautiful",
+      "meaning": "아름답다",
+      "note": "여기서는 신의 시험에 대한 긍정적이고 아름다운 관점을 나타냅니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "considers",
+      "meaning": "고려하다",
+      "note": "신이 개인을 가치 있는 대상으로 여긴다는 의미를 담고 있습니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "hurry",
+      "meaning": "급하게 서두르다",
+      "note": "행동의 속도를 강조하며, 부정적인 결과를 초래할 수 있음을 시사합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "recede",
+      "meaning": "멀어지다, 후퇴하다",
+      "note": "목표나 상태가 멀어지거나 후퇴하는 상황을 묘사합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "temple",
+      "meaning": "성전",
+      "note": "종교적 맥락에서 중요한 목표나 가치를 상징합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "travels",
+      "meaning": "여행하다",
+      "note": "여정이나 여행을 의미하며, 여기서는 영적 성장이나 깨달음을 향한 여정을 가리킴",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "patience",
+      "meaning": "인내심",
+      "note": "목표 달성을 위해 서두르지 않고 차분하게 기다리는 태도를 나타냄",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "roaming",
+      "meaning": "떠돌아다니는",
+      "note": "마음의 지속적인 활동이나 생각의 끊임없는 움직임을 나타냅니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "stops",
+      "meaning": "멈추다",
+      "note": "활동이나 움직임이 완전히 중단되는 상태를 의미합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sleeps",
+      "meaning": "잠들다",
+      "note": "여기서는 마음이나 정신 상태가 휴식을 취하거나 잠재워진 상태를 의미합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "mistake",
+      "meaning": "오해하다",
+      "note": "죽음과 현재 상태(잠든 상태)를 혼동하지 말라는 경고의 의미를 담고 있습니다.",
+      "sentenceIds": [
+        7,
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "tired",
+      "meaning": "피곤한",
+      "note": "상태의 변화를 나타내며, 일시적인 휴식이나 에너지 소진을 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sleep",
+      "meaning": "잠을 자다",
+      "note": "여기서는 신체적, 정신적 회복을 위한 휴식의 의미로 사용됩니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "strong",
+      "meaning": "강하다",
+      "note": "이전의 약화 상태에서 회복되어 강해진 상태를 나타냅니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "bothering",
+      "meaning": "걱정",
+      "note": "어떤 문제나 상황에 대해 지나치게 신경 쓰거나 걱정하는 것을 의미한다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "altogether",
+      "meaning": "완전히",
+      "note": "전체적으로, 전적으로 어떤 행동을 하지 말라는 강조의 의미를 담고 있다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Surrender",
+      "meaning": "넘기다",
+      "note": "자신의 통제력을 포기하고 완전히 맡기는 것을 의미합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "good",
+      "meaning": "좋은",
+      "note": "긍정적인 상황이나 상태를 나타냅니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "witness",
+      "meaning": "목격자, 관찰자",
+      "note": "여기서는 단순히 상황을 지켜보는 역할을 의미합니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "simply",
+      "meaning": "단순히",
+      "note": "행동이나 과정을 간결하고 복잡하지 않게 수행한다는 의미입니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "detachment",
+      "meaning": "초연함, 객관적인 관찰",
+      "note": "마음의 연극을 객관적으로 바라보는 상태를 의미합니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "consciousness",
+      "meaning": "의식",
+      "note": "일반적인 의식 상태를 넘어, 마음의 본질을 깨달은 특별한 의식 상태를 가리킵니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-150/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "God is testing you every moment.",
+      "korean": "신은 너를 매 순간 시험하고 계신다.",
+      "explanation": "신이 개인의 행동이나 선택을 지속적으로 평가하고 있다는 의미를 담고 있다.",
+      "grammar": "「is testing」는 be동사 + -ing로 만든 현재진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+      "audio": "audio/1970-150/02.mp3",
+      "vocabulary": [
+        {
+          "word": "testing",
+          "meaning": "시험하다",
+          "note": "여기서는 신의 평가나 시험을 의미하며, 개인의 믿음이나 행동을 검증하는 과정을 나타낸다."
+        },
+        {
+          "word": "moment",
+          "meaning": "순간",
+          "note": "매 순간, 즉 언제든지 신의 시험이 이루어질 수 있다는 의미를 전달한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Laugh and take the test - it is beautiful that he considers you worth testing!",
+      "korean": "웃으며 시험을 받아봐라 - 그가 너를 시험해볼 가치가 있다고 생각한다는 것이 아름답지 않니!",
+      "explanation": "시험을 긍정적으로 받아들이고, 신이 그 사람을 가치 있는 존재로 여긴다는 긍정적인 의미를 전달합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-150/03.mp3",
+      "vocabulary": [
+        {
+          "word": "beautiful",
+          "meaning": "아름답다",
+          "note": "여기서는 신의 시험에 대한 긍정적이고 아름다운 관점을 나타냅니다."
+        },
+        {
+          "word": "considers",
+          "meaning": "고려하다",
+          "note": "신이 개인을 가치 있는 대상으로 여긴다는 의미를 담고 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "But don't be in a hurry for the more you hurry the more some goals recede, and without doubt the temple of God is a goal like that.",
+      "korean": "급하게 서두르지 마세요. 서두르면 서두를수록 몇몇 목표는 멀어질 수 있고, 의심의 여지 없이 하나님의 성전 또한 그런 목표 중 하나입니다.",
+      "explanation": "문장은 서두르는 것의 부정적 영향을 경고하며, 특히 중요한 목표(예: 하나님의 성전)를 놓치지 않도록 조심스럽게 행동해야 함을 강조합니다.",
+      "grammar": "「don't be」는 do not + 동사원형으로 만든 부정 명령문입니다. 행동의 주체인 you를 따로 쓰지 않고, 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1970-150/04.mp3",
+      "vocabulary": [
+        {
+          "word": "hurry",
+          "meaning": "급하게 서두르다",
+          "note": "행동의 속도를 강조하며, 부정적인 결과를 초래할 수 있음을 시사합니다."
+        },
+        {
+          "word": "recede",
+          "meaning": "멀어지다, 후퇴하다",
+          "note": "목표나 상태가 멀어지거나 후퇴하는 상황을 묘사합니다."
+        },
+        {
+          "word": "temple",
+          "meaning": "성전",
+          "note": "종교적 맥락에서 중요한 목표나 가치를 상징합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "He who travels with patience travels fastest on this journey.",
+      "korean": "이 여정에서 인내심을 가지고 여행하는 자가 가장 빠르게 도착한다.",
+      "explanation": "인내심을 가지고 여행하는 사람이 가장 효율적으로 목표에 도달할 수 있다는 의미",
+      "grammar": "동사 「travels」는 travel의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-150/05.mp3",
+      "vocabulary": [
+        {
+          "word": "travels",
+          "meaning": "여행하다",
+          "note": "여정이나 여행을 의미하며, 여기서는 영적 성장이나 깨달음을 향한 여정을 가리킴"
+        },
+        {
+          "word": "patience",
+          "meaning": "인내심",
+          "note": "목표 달성을 위해 서두르지 않고 차분하게 기다리는 태도를 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "The mind will roam again and again - that is its way; the day its roaming stops it will be dead.",
+      "korean": "마음은 계속해서 떠돌게 되어 있어; 그 떠돌아다니는 것이 멈추면 죽게 된다.",
+      "explanation": "마음의 끊임없는 활동과 그것이 멈추면 생기를 잃는다는 의미를 전달합니다.",
+      "grammar": "「will roam」에서 조동사 will 뒤에 동사원형 「roam」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+      "audio": "audio/1970-150/06.mp3",
+      "vocabulary": [
+        {
+          "word": "roaming",
+          "meaning": "떠돌아다니는",
+          "note": "마음의 지속적인 활동이나 생각의 끊임없는 움직임을 나타냅니다."
+        },
+        {
+          "word": "stops",
+          "meaning": "멈추다",
+          "note": "활동이나 움직임이 완전히 중단되는 상태를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Sometimes it sleeps - do not mistake this for death.",
+      "korean": "때때로 잠들기도 하지만, 이것을 죽음으로 오해하지 마세요.",
+      "explanation": "마음이 때때로 휴식을 취하거나 잠재워지지만, 이 상태를 죽음과 혼동하지 말라는 의미입니다.",
+      "grammar": "동사 「sleeps」는 sleep의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-150/07.mp3",
+      "vocabulary": [
+        {
+          "word": "sleeps",
+          "meaning": "잠들다",
+          "note": "여기서는 마음이나 정신 상태가 휴식을 취하거나 잠재워진 상태를 의미합니다."
+        },
+        {
+          "word": "mistake",
+          "meaning": "오해하다",
+          "note": "죽음과 현재 상태(잠든 상태)를 혼동하지 말라는 경고의 의미를 담고 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "Sometimes it gets tired - don't mistake this for death either.",
+      "korean": "때때로 피곤해지지만, 이것을 죽음으로 오해하지 마세요.",
+      "explanation": "문장은 어떤 상태나 존재가 피곤해지는 순간이 있지만, 그 상태를 죽음과 혼동해서는 안 된다는 경고를 담고 있습니다.",
+      "grammar": "「don't mistake」는 do not + 동사원형으로 만든 부정 명령문입니다. 행동의 주체인 you를 따로 쓰지 않고, 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1970-150/08.mp3",
+      "vocabulary": [
+        {
+          "word": "tired",
+          "meaning": "피곤한",
+          "note": "상태의 변화를 나타내며, 일시적인 휴식이나 에너지 소진을 의미합니다."
+        },
+        {
+          "word": "mistake",
+          "meaning": "오해하다",
+          "note": "잘못 이해하거나 잘못 판단하는 행위를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "Some rest and sleep and it is strong and alive again.",
+      "korean": "때로는 휴식과 잠을 취해야 강해지고 다시 살아납니다.",
+      "explanation": "휴식과 잠을 통해 에너지를 회복하고 다시 활기차게 된다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-150/09.mp3",
+      "vocabulary": [
+        {
+          "word": "sleep",
+          "meaning": "잠을 자다",
+          "note": "여기서는 신체적, 정신적 회복을 위한 휴식의 의미로 사용됩니다."
+        },
+        {
+          "word": "strong",
+          "meaning": "강하다",
+          "note": "이전의 약화 상태에서 회복되어 강해진 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "So stop bothering about it altogether for even this worry gives it strength.",
+      "korean": "완전히 무시해버려. 심지어 이런 걱정조차 그것에게 힘을 주니까.",
+      "explanation": "걱정거리를 완전히 무시하라는 조언과 함께, 걱정 자체가 어떤 상황이나 대상에게 힘을 줄 수 있다는 의미를 담고 있다.",
+      "grammar": "동사원형 「stop」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-150/10.mp3",
+      "vocabulary": [
+        {
+          "word": "bothering",
+          "meaning": "걱정",
+          "note": "어떤 문제나 상황에 대해 지나치게 신경 쓰거나 걱정하는 것을 의미한다."
+        },
+        {
+          "word": "altogether",
+          "meaning": "완전히",
+          "note": "전체적으로, 전적으로 어떤 행동을 하지 말라는 강조의 의미를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "Surrender even this to God Say to him: Whatever it's like, good or bad, take care of it.",
+      "korean": "신께 이 모든 것을 바치세요. 좋든 나쁘든 모든 것을 그분께 맡기세요.",
+      "explanation": "걱정이나 고민을 신에게 맡기고 그에게 통제권을 넘기라는 의미입니다.",
+      "grammar": "「's」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-150/11.mp3",
+      "vocabulary": [
+        {
+          "word": "Surrender",
+          "meaning": "넘기다",
+          "note": "자신의 통제력을 포기하고 완전히 맡기는 것을 의미합니다."
+        },
+        {
+          "word": "good",
+          "meaning": "좋은",
+          "note": "긍정적인 상황이나 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "And then just be a witness, simply watch the whole play.",
+      "korean": "그리고 그저 그 전체 연극을 지켜보세요.",
+      "explanation": "연극이나 상황을 객관적으로 관찰하고 개입하지 않는 상태를 의미합니다.",
+      "grammar": "동사원형 「watch」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-150/12.mp3",
+      "vocabulary": [
+        {
+          "word": "witness",
+          "meaning": "목격자, 관찰자",
+          "note": "여기서는 단순히 상황을 지켜보는 역할을 의미합니다."
+        },
+        {
+          "word": "simply",
+          "meaning": "단순히",
+          "note": "행동이나 과정을 간결하고 복잡하지 않게 수행한다는 의미입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "Watch the play of the mind with detachment and then suddenly - there is the consciousness which is no-mind.",
+      "korean": "마음의 연극을 초연한 자세로 지켜보고, 갑자기 - 마음이 없는 의식이 나타납니다.",
+      "explanation": "마음의 변화와 깨달음을 향한 순간적인 인식을 묘사합니다.",
+      "grammar": "동사원형 「Watch」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-150/13.mp3",
+      "vocabulary": [
+        {
+          "word": "detachment",
+          "meaning": "초연함, 객관적인 관찰",
+          "note": "마음의 연극을 객관적으로 바라보는 상태를 의미합니다."
+        },
+        {
+          "word": "consciousness",
+          "meaning": "의식",
+          "note": "일반적인 의식 상태를 넘어, 마음의 본질을 깨달은 특별한 의식 상태를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "신은 너를 매 순간 시험하고 계신다. 웃으며 시험을 받아봐라 - 그가 너를 시험해볼 가치가 있다고 생각한다는 것이 아름답지 않니! 급하게 서두르지 마세요. 서두르면 서두를수록 몇몇 목표는 멀어질 수 있고, 의심의 여지 없이 하나님의 성전 또한 그런 목표 중 하나입니다. 이 여정에서 인내심을 가지고 여행하는 자가 가장 빠르게 도착한다. 마음은 계속해서 떠돌게 되어 있어; 그 떠돌아다니는 것이 멈추면 죽게 된다. 때때로 잠들기도 하지만, 이것을 죽음으로 오해하지 마세요. 때때로 피곤해지지만, 이것을 죽음으로 오해하지 마세요. 때로는 휴식과 잠을 취해야 강해지고 다시 살아납니다. 완전히 무시해버려. 심지어 이런 걱정조차 그것에게 힘을 주니까. 신께 이 모든 것을 바치세요. 좋든 나쁘든 모든 것을 그분께 맡기세요. 그리고 그저 그 전체 연극을 지켜보세요. 마음의 연극을 초연한 자세로 지켜보고, 갑자기 - 마음이 없는 의식이 나타납니다."
+  ],
+  "fullAudio": "audio/1970-150/script_all.mp3",
+  "originalText": "Love.\n\nGod is testing you every moment.\nLaugh and take the test -\nit is beautiful that he considers you worth testing!\nBut don't be in a hurry\nfor the more you hurry the more some goals recede,\nand without doubt the temple of God is a goal like that.\nHe who travels with patience travels fastest on this journey.\nThe mind will roam again and again -\nthat is its way;\nthe day its roaming stops it will be dead.\nSometimes it sleeps -\ndo not mistake this for death.\nSometimes it gets tired -\ndon't mistake this for death either.\nSome rest and sleep and it is strong and alive again.\nSo stop bothering about it altogether\nfor even this worry gives it strength.\nSurrender even this to God\nSay to him: Whatever it's like, good or bad,\ntake care of it.\nAnd then just be a witness,\nsimply watch the whole play.\nWatch the play of the mind with detachment\nand then suddenly -\nthere is the consciousness which is no-mind.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 150,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0833 2.JPG",
+        "side": "left",
+        "printedPage": 116
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

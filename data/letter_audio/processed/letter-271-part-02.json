@@ -1,0 +1,44 @@
+{
+  "key": "letter-271-part-02",
+  "number": 271,
+  "generationId": "01a1e8ff-6023-72e6-aad2-fab6a156619c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Some days later Mulla appeared at the teahouse and asked whether anyone wanted to buy a house.",
+      "path": "audio/1971-271/11.mp3",
+      "start": 0.0,
+      "end": 5.176417
+    },
+    {
+      "index": 11,
+      "text": "Tell us something about it, Mulla, the people asked him, for we did not even know that you had a house of your own.",
+      "path": "audio/1971-271/12.mp3",
+      "start": 6.654082,
+      "end": 12.757166
+    },
+    {
+      "index": 12,
+      "text": "Actions speak louder than words! shouted Mulla, and from his pocket he took a brick and hurled it on the table in front of them.",
+      "path": "audio/1971-271/13.mp3",
+      "start": 14.387959,
+      "end": 22.181224
+    },
+    {
+      "index": 13,
+      "text": "This is my evidence!",
+      "path": "audio/1971-271/14.mp3",
+      "start": 23.665533,
+      "end": 25.282585
+    },
+    {
+      "index": 14,
+      "text": "Examine the quality - and I built the house myself!",
+      "path": "audio/1971-271/15.mp3",
+      "start": 26.784375999999998,
+      "end": 31.35
+    }
+  ]
+}

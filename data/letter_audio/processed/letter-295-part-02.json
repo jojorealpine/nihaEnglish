@@ -1,0 +1,37 @@
+{
+  "key": "letter-295-part-02",
+  "number": 295,
+  "generationId": "01a1e904-ef93-7fc7-8c56-f438aeb70807",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "He then turned to the mourners, counting them: Now we have heard what the alleged deceased has had to say; you fifty witnesses tell me what you regard as the truth.",
+      "path": "audio/1971-295/11.mp3",
+      "start": 0.0,
+      "end": 11.037595999999999
+    },
+    {
+      "index": 11,
+      "text": "He is dead, said the witnesses.",
+      "path": "audio/1971-295/12.mp3",
+      "start": 12.684830000000002,
+      "end": 15.247323999999999
+    },
+    {
+      "index": 12,
+      "text": "Bury him, said the expert.",
+      "path": "audio/1971-295/13.mp3",
+      "start": 16.798593999999998,
+      "end": 19.158549
+    },
+    {
+      "index": 13,
+      "text": "And so he was buried.",
+      "path": "audio/1971-295/14.mp3",
+      "start": 20.705533,
+      "end": 22.47
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "key": "letter-094-part-01",
+  "number": 94,
+  "generationId": "01a1e631-cda5-7741-be79-295d74b80b09",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-94/01.mp3",
+      "start": 0.0,
+      "end": 0.619116
+    },
+    {
+      "index": 1,
+      "text": "When the moon rises in the sky watch it, be absorbed by it - forget everything else, including yourself!",
+      "path": "audio/1970-94/02.mp3",
+      "start": 2.063628,
+      "end": 9.415985999999998
+    },
+    {
+      "index": 2,
+      "text": "Only then will you come to know the music that has no sound.",
+      "path": "audio/1970-94/03.mp3",
+      "start": 10.756122000000001,
+      "end": 13.970091
+    },
+    {
+      "index": 3,
+      "text": "When the morning sun rises, bow down to the earth and lose yourself in homage to it.",
+      "path": "audio/1970-94/04.mp3",
+      "start": 15.367029,
+      "end": 20.469615
+    },
+    {
+      "index": 4,
+      "text": "Only then will you know of the music that is not made by man.",
+      "path": "audio/1970-94/05.mp3",
+      "start": 22.00585,
+      "end": 26.008027000000002
+    },
+    {
+      "index": 5,
+      "text": "When the trees burst into flowers, like a flower dance with them in the breeze.",
+      "path": "audio/1970-94/06.mp3",
+      "start": 27.580408,
+      "end": 32.169705
+    },
+    {
+      "index": 6,
+      "text": "Only then will you hear the music that lives in one's innermost self.",
+      "path": "audio/1970-94/07.mp3",
+      "start": 33.675941,
+      "end": 38.134308
+    },
+    {
+      "index": 7,
+      "text": "He who knows this music knows life too - its song is another word for God.",
+      "path": "audio/1970-94/08.mp3",
+      "start": 39.688639,
+      "end": 45.32
+    }
+  ]
+}

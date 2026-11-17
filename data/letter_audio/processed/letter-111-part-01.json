@@ -1,0 +1,79 @@
+{
+  "key": "letter-111-part-01",
+  "number": 111,
+  "generationId": "01a1e635-5dde-75cb-9af4-cf7a1a0a1c8f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-111/01.mp3",
+      "start": 0.0,
+      "end": 0.743832
+    },
+    {
+      "index": 1,
+      "text": "As the birds sing each morning at sunrise, the heart fills with song at the dawn of meditation.",
+      "path": "audio/1970-111/02.mp3",
+      "start": 2.317098,
+      "end": 8.423219999999999
+    },
+    {
+      "index": 2,
+      "text": "As flowers bloom in spring, the soul is drenched in fragrance as meditation is born.",
+      "path": "audio/1970-111/03.mp3",
+      "start": 9.926372,
+      "end": 15.587052
+    },
+    {
+      "index": 3,
+      "text": "As everything glistens green beneath the rain, consciousness shines with many colors as meditation showers.",
+      "path": "audio/1970-111/04.mp3",
+      "start": 17.162902,
+      "end": 24.249388
+    },
+    {
+      "index": 4,
+      "text": "All this and much more takes place, and this is only the beginning.",
+      "path": "audio/1970-111/05.mp3",
+      "start": 25.446984,
+      "end": 29.430045
+    },
+    {
+      "index": 5,
+      "text": "Ultimately everything goes; fragrance, color, light, music - everything disappears",
+      "path": "audio/1970-111/06.mp3",
+      "start": 30.628163,
+      "end": 37.417595999999996
+    },
+    {
+      "index": 6,
+      "text": "And an inner space, like the sky, appears - empty, formless, without quality.",
+      "path": "audio/1970-111/07.mp3",
+      "start": 38.578299,
+      "end": 46.489478
+    },
+    {
+      "index": 7,
+      "text": "Wait for that.",
+      "path": "audio/1970-111/08.mp3",
+      "start": 47.993243,
+      "end": 49.143197
+    },
+    {
+      "index": 8,
+      "text": "Long for that.",
+      "path": "audio/1970-111/09.mp3",
+      "start": 50.573537,
+      "end": 51.734308
+    },
+    {
+      "index": 9,
+      "text": "I, so do not waste even a moment.",
+      "path": "audio/1970-111/10.mp3",
+      "start": 53.289705000000005,
+      "end": 56.37
+    }
+  ]
+}

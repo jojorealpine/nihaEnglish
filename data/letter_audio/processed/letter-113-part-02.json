@@ -1,0 +1,51 @@
+{
+  "key": "letter-113-part-02",
+  "number": 113,
+  "generationId": "01a1e635-ff96-70cd-b92e-dc3176a85070",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Words are not the truth, truth cannot be words.",
+      "path": "audio/1970-113/11.mp3",
+      "start": 0.0,
+      "end": 2.869705
+    },
+    {
+      "index": 11,
+      "text": "Truth is an experience, truth is reality, and the path to it is neti, neti - neither this nor that.",
+      "path": "audio/1970-113/12.mp3",
+      "start": 4.129206,
+      "end": 10.996848
+    },
+    {
+      "index": 12,
+      "text": "Drop explanations, drop definitions, drop scriptures and doctrines, remember neti, neti - not this, not that!",
+      "path": "audio/1970-113/13.mp3",
+      "start": 12.284717,
+      "end": 20.167007
+    },
+    {
+      "index": 13,
+      "text": "Then drop I and thou and say neti, neti.",
+      "path": "audio/1970-113/14.mp3",
+      "start": 21.82059,
+      "end": 25.857392
+    },
+    {
+      "index": 14,
+      "text": "What is left manifest in the emptiness - that is truth, and that alone is.",
+      "path": "audio/1970-113/15.mp3",
+      "start": 27.413740999999998,
+      "end": 33.340906999999994
+    },
+    {
+      "index": 15,
+      "text": "All else is dream.",
+      "path": "audio/1970-113/16.mp3",
+      "start": 34.840748000000005,
+      "end": 36.73
+    }
+  ]
+}

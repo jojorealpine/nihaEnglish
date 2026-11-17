@@ -1,0 +1,23 @@
+{
+  "key": "letter-261-part-02",
+  "number": 261,
+  "generationId": "01a1e8fd-2c0e-743c-8783-50639ef47dc2",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "To understand it is to transcend it.",
+      "path": "audio/1971-261/11.mp3",
+      "start": 0.0,
+      "end": 2.282245
+    },
+    {
+      "index": 11,
+      "text": "Then you will find a silence descending on you which passes all understanding.",
+      "path": "audio/1971-261/12.mp3",
+      "start": 3.771315,
+      "end": 8.96
+    }
+  ]
+}

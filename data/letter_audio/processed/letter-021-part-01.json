@@ -1,0 +1,72 @@
+{
+  "key": "letter-021-part-01",
+  "number": 21,
+  "generationId": "01a1e4ea-a7c1-727f-b4cd-2675b938db0d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Beloved!",
+      "path": "audio/1965-21/01.mp3",
+      "start": 0.0,
+      "end": 0.776531
+    },
+    {
+      "index": 1,
+      "text": "Your letter came, and your photo too.",
+      "path": "audio/1965-21/02.mp3",
+      "start": 1.9619499999999999,
+      "end": 4.409093
+    },
+    {
+      "index": 2,
+      "text": "You look really simple and innocent in it!",
+      "path": "audio/1965-21/03.mp3",
+      "start": 5.594263,
+      "end": 7.9653290000000005
+    },
+    {
+      "index": 3,
+      "text": "Such love and devotion!",
+      "path": "audio/1965-21/04.mp3",
+      "start": 9.164150000000001,
+      "end": 10.737732
+    },
+    {
+      "index": 4,
+      "text": "The heart when purified by love turns into a temple and I can see this clearly in your photo.",
+      "path": "audio/1965-21/05.mp3",
+      "start": 12.005941,
+      "end": 17.134172
+    },
+    {
+      "index": 5,
+      "text": "May God help this simple innocence grow!",
+      "path": "audio/1965-21/06.mp3",
+      "start": 18.360068,
+      "end": 20.807687
+    },
+    {
+      "index": 6,
+      "text": "Two thousand years ago someone asked Christ: Who can enter the kingdom of heaven?",
+      "path": "audio/1965-21/07.mp3",
+      "start": 22.374785,
+      "end": 27.326599
+    },
+    {
+      "index": 7,
+      "text": "Jesus pointed to a little child and said: Those whose hearts are as innocent as a child's.",
+      "path": "audio/1965-21/08.mp3",
+      "start": 28.780091,
+      "end": 34.149387999999995
+    },
+    {
+      "index": 8,
+      "text": "Looking at your picture today, I remembered this story.",
+      "path": "audio/1965-21/09.mp3",
+      "start": 35.722336000000006,
+      "end": 39.13
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "letter-340-part-01",
+  "number": 340,
+  "generationId": "01a1e913-87e7-7e17-a335-74729ff4f77d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love and blessings.",
+      "path": "audio/1971-340/01.mp3",
+      "start": 0.0,
+      "end": 1.914263
+    },
+    {
+      "index": 1,
+      "text": "I received your letter.",
+      "path": "audio/1971-340/02.mp3",
+      "start": 3.33771,
+      "end": 4.580794
+    },
+    {
+      "index": 2,
+      "text": "I was waiting for it daily since you left.",
+      "path": "audio/1971-340/03.mp3",
+      "start": 6.10771,
+      "end": 8.749455999999999
+    },
+    {
+      "index": 3,
+      "text": "I know that you have gone far away from here but I also know that now you cannot go away from me - and that nearness is all that counts.",
+      "path": "audio/1971-340/04.mp3",
+      "start": 10.204853,
+      "end": 18.380884000000002
+    },
+    {
+      "index": 4,
+      "text": "You have come near me in a non-spatial and non-temporal sense.",
+      "path": "audio/1971-340/05.mp3",
+      "start": 19.822516999999998,
+      "end": 23.729751
+    },
+    {
+      "index": 5,
+      "text": "The meeting has taken place in the nowhere or in the everywhere - because they mean the same thing.",
+      "path": "audio/1971-340/06.mp3",
+      "start": 25.065261,
+      "end": 30.70034
+    },
+    {
+      "index": 6,
+      "text": "And the real meeting takes place only in this way.",
+      "path": "audio/1971-340/07.mp3",
+      "start": 32.113946000000006,
+      "end": 34.827028999999996
+    },
+    {
+      "index": 7,
+      "text": "All else is illusion.",
+      "path": "audio/1971-340/08.mp3",
+      "start": 36.180408,
+      "end": 37.588798
+    },
+    {
+      "index": 8,
+      "text": "Remember me whenever you need and you will find me then and there.",
+      "path": "audio/1971-340/09.mp3",
+      "start": 38.885306,
+      "end": 42.389773
+    },
+    {
+      "index": 9,
+      "text": "Ask anything and wait - and you will be answered.",
+      "path": "audio/1971-340/10.mp3",
+      "start": 43.91458,
+      "end": 48.25
+    }
+  ]
+}

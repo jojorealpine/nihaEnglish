@@ -1,0 +1,79 @@
+{
+  "key": "letter-073-part-02",
+  "number": 73,
+  "generationId": "01a1e62a-2043-764a-a635-f2395e267476",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Keep the thirst and throw away the impatience.",
+      "path": "audio/1970-73/11.mp3",
+      "start": 0.0,
+      "end": 2.51839
+    },
+    {
+      "index": 11,
+      "text": "Do not confuse impatience with thirst.",
+      "path": "audio/1970-73/12.mp3",
+      "start": 3.684059,
+      "end": 6.0277780000000005
+    },
+    {
+      "index": 12,
+      "text": "With thirst there is yearning but no struggle.",
+      "path": "audio/1970-73/13.mp3",
+      "start": 7.243696,
+      "end": 9.947664
+    },
+    {
+      "index": 13,
+      "text": "With impatience there is struggle but no yearning.",
+      "path": "audio/1970-73/14.mp3",
+      "start": 11.191859000000001,
+      "end": 13.977143
+    },
+    {
+      "index": 14,
+      "text": "With longing there is waiting but no demanding.",
+      "path": "audio/1970-73/15.mp3",
+      "start": 15.254354000000001,
+      "end": 18.129751000000002
+    },
+    {
+      "index": 15,
+      "text": "With impatience there is demanding but no waiting.",
+      "path": "audio/1970-73/16.mp3",
+      "start": 19.401609999999998,
+      "end": 22.44941
+    },
+    {
+      "index": 16,
+      "text": "With thirst there are silent tears.",
+      "path": "audio/1970-73/17.mp3",
+      "start": 23.965896,
+      "end": 26.454535
+    },
+    {
+      "index": 17,
+      "text": "With impatience there is a restless struggle.",
+      "path": "audio/1970-73/18.mp3",
+      "start": 27.820363,
+      "end": 30.704014
+    },
+    {
+      "index": 18,
+      "text": "Truth cannot be attacked; it is attained through surrender not through struggle.",
+      "path": "audio/1970-73/19.mp3",
+      "start": 32.046440000000004,
+      "end": 37.543946
+    },
+    {
+      "index": 19,
+      "text": "It is conquered through total surrender.",
+      "path": "audio/1970-73/20.mp3",
+      "start": 38.908866,
+      "end": 41.14
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "key": "letter-071-part-02",
+  "number": 71,
+  "generationId": "01a1e629-5e32-79cd-9335-3b0570a60b4f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 8,
+      "text": "Spirituality has to be turned into a force, spirituality has to be turned into a revolution, only then can spirituality be saved",
+      "path": "audio/1969-71/09.mp3",
+      "start": 0.0,
+      "end": 9.615305999999999
+    },
+    {
+      "index": 9,
+      "text": "My regards to all.",
+      "path": "audio/1969-71/10.mp3",
+      "start": 11.006939000000001,
+      "end": 12.67
+    }
+  ]
+}

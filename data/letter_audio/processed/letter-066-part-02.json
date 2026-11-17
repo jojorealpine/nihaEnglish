@@ -1,0 +1,23 @@
+{
+  "key": "letter-066-part-02",
+  "number": 66,
+  "generationId": "01a1e5b9-7815-7dd2-847e-a8ceb3b6c6c2",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Remember always - wherever one reaches, that is the destination, therefore he who makes God his goal goes astray.",
+      "path": "audio/1969-66/11.mp3",
+      "start": 0.0,
+      "end": 8.04288
+    },
+    {
+      "index": 11,
+      "text": "Wherever the mind is free from all goals - there alone is God",
+      "path": "audio/1969-66/12.mp3",
+      "start": 9.524218000000001,
+      "end": 14.81
+    }
+  ]
+}

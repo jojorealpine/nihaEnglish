@@ -1,0 +1,79 @@
+{
+  "key": "letter-229-part-01",
+  "number": 229,
+  "generationId": "01a1e8f5-4007-7f86-809f-4c19b064db64",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-229/01.mp3",
+      "start": 0.0,
+      "end": 0.66941
+    },
+    {
+      "index": 1,
+      "text": "Go on discarding: not this, not this (neti, neti), and ultimately when nothing remains to be discarded - then the explosion happens.",
+      "path": "audio/1971-229/02.mp3",
+      "start": 1.8075739999999998,
+      "end": 10.043695999999999
+    },
+    {
+      "index": 2,
+      "text": "Do not cling to anything, to any thought.",
+      "path": "audio/1971-229/03.mp3",
+      "start": 11.277098,
+      "end": 13.711723
+    },
+    {
+      "index": 3,
+      "text": "Go on and on until the nothingness.",
+      "path": "audio/1971-229/04.mp3",
+      "start": 14.898345,
+      "end": 17.107120000000002
+    },
+    {
+      "index": 4,
+      "text": "I have heard about a little boy, Toyo, and his meditations.",
+      "path": "audio/1971-229/05.mp3",
+      "start": 18.28059,
+      "end": 21.374512
+    },
+    {
+      "index": 5,
+      "text": "He was only twelve years old but he wanted to be given something to ponder on, to meditate on, so one evening he went to Mokurai, the Zen master, struck the gong softly to announce his presence, and sat before the master in respectful silence.",
+      "path": "audio/1971-229/06.mp3",
+      "start": 22.931134,
+      "end": 38.781723
+    },
+    {
+      "index": 6,
+      "text": "Finally the master said: Toyo, show me the sound of two hands.",
+      "path": "audio/1971-229/07.mp3",
+      "start": 40.302336000000004,
+      "end": 45.837165999999996
+    },
+    {
+      "index": 7,
+      "text": "Toyo clapped his hands.",
+      "path": "audio/1971-229/08.mp3",
+      "start": 47.360612,
+      "end": 49.077732
+    },
+    {
+      "index": 8,
+      "text": "Good, said the master.",
+      "path": "audio/1971-229/09.mp3",
+      "start": 50.658390000000004,
+      "end": 52.761043
+    },
+    {
+      "index": 9,
+      "text": "Now show me the sound of one hand clapping.",
+      "path": "audio/1971-229/10.mp3",
+      "start": 54.253923,
+      "end": 57.21
+    }
+  ]
+}

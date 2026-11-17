@@ -1,0 +1,79 @@
+{
+  "key": "letter-261-part-01",
+  "number": 261,
+  "generationId": "01a1e8fc-fc58-792a-a8c0-33a2549a46e8",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-261/01.mp3",
+      "start": 0.0,
+      "end": 0.668776
+    },
+    {
+      "index": 1,
+      "text": "Are you really aware of what anger is?",
+      "path": "audio/1971-261/02.mp3",
+      "start": 2.043923,
+      "end": 4.298798
+    },
+    {
+      "index": 2,
+      "text": "Are you really aware of it when it is present?",
+      "path": "audio/1971-261/03.mp3",
+      "start": 5.698367,
+      "end": 8.01483
+    },
+    {
+      "index": 3,
+      "text": "I ask these questions because man is never present in the present.",
+      "path": "audio/1971-261/04.mp3",
+      "start": 9.453673,
+      "end": 12.973832
+    },
+    {
+      "index": 4,
+      "text": "Man lives in the past and only becomes aware of anything when it has become a part of his memory.",
+      "path": "audio/1971-261/05.mp3",
+      "start": 14.325896,
+      "end": 19.635964
+    },
+    {
+      "index": 5,
+      "text": "One becomes aware of anger and sadness only when they are all over, and then awareness is just pseudo-awareness; it is not awareness but remembering, and remembering leads nowhere because it is running in a circle.",
+      "path": "audio/1971-261/06.mp3",
+      "start": 21.139433,
+      "end": 36.160408
+    },
+    {
+      "index": 6,
+      "text": "Then one can fight with anger but can never understand it, and fighting with anger is anger - of course more subtle",
+      "path": "audio/1971-261/07.mp3",
+      "start": 37.691088,
+      "end": 45.885692
+    },
+    {
+      "index": 7,
+      "text": "and therefore more strong and more poisonous.",
+      "path": "audio/1971-261/08.mp3",
+      "start": 47.366848000000005,
+      "end": 50.435986
+    },
+    {
+      "index": 8,
+      "text": "So do not think about anger or sadness or happiness and do not understand remembrance to be awareness but be aware when anger is present.",
+      "path": "audio/1971-261/09.mp3",
+      "start": 51.887664,
+      "end": 61.687301999999995
+    },
+    {
+      "index": 9,
+      "text": "Be totally conscious of it, live it consciously and do not escape from it and then you will know what it is.",
+      "path": "audio/1971-261/10.mp3",
+      "start": 63.301837,
+      "end": 72.44
+    }
+  ]
+}

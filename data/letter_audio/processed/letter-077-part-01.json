@@ -1,0 +1,65 @@
+{
+  "key": "letter-077-part-01",
+  "number": 77,
+  "generationId": "01a1e62b-9bf8-7758-87eb-d7497f1534be",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-77/01.mp3",
+      "start": 0.0,
+      "end": 0.62322
+    },
+    {
+      "index": 1,
+      "text": "God is our only wealth.",
+      "path": "audio/1970-77/02.mp3",
+      "start": 1.956168,
+      "end": 3.675306
+    },
+    {
+      "index": 2,
+      "text": "Do not depend on any other wealth, riches of any other kind bring only disaster.",
+      "path": "audio/1970-77/03.mp3",
+      "start": 5.028798,
+      "end": 10.492403999999999
+    },
+    {
+      "index": 3,
+      "text": "St. Theresa wanted to set up a large orphanage but at the time she had only three shillings.",
+      "path": "audio/1970-77/04.mp3",
+      "start": 11.819524000000001,
+      "end": 16.620658000000002
+    },
+    {
+      "index": 4,
+      "text": "She wanted to start this enormous project with just this small amount.",
+      "path": "audio/1970-77/05.mp3",
+      "start": 17.846961,
+      "end": 21.522676
+    },
+    {
+      "index": 5,
+      "text": "Friends and admirers advised her: Get the funds together first.",
+      "path": "audio/1970-77/06.mp3",
+      "start": 23.133129,
+      "end": 27.567415
+    },
+    {
+      "index": 6,
+      "text": "What can you do with just three shillings?",
+      "path": "audio/1970-77/07.mp3",
+      "start": 29.063492,
+      "end": 31.335692
+    },
+    {
+      "index": 7,
+      "text": "Theresa laughed and said: Naturally Theresa can do nothing with three shillings, but with three shillings plus God - nothing is impossible!",
+      "path": "audio/1970-77/08.mp3",
+      "start": 32.812744,
+      "end": 43.08
+    }
+  ]
+}

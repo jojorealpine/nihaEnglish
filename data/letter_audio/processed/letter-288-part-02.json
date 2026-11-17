@@ -1,0 +1,44 @@
+{
+  "key": "letter-288-part-02",
+  "number": 288,
+  "generationId": "01a1e902-f568-7340-b7f8-19289bbb1eb1",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Just be aware and wait, wait for the happening.",
+      "path": "audio/1971-288/11.mp3",
+      "start": 0.0,
+      "end": 3.5645800000000003
+    },
+    {
+      "index": 11,
+      "text": "Near, very near is the moment.",
+      "path": "audio/1971-288/12.mp3",
+      "start": 5.048345,
+      "end": 8.115917999999999
+    },
+    {
+      "index": 12,
+      "text": "And remember that I am always with you.",
+      "path": "audio/1971-288/13.mp3",
+      "start": 9.632744,
+      "end": 12.797234
+    },
+    {
+      "index": 13,
+      "text": "I have always been with you even when you did not know me.",
+      "path": "audio/1971-288/14.mp3",
+      "start": 14.19102,
+      "end": 17.853764
+    },
+    {
+      "index": 14,
+      "text": "And always feel my blessings.",
+      "path": "audio/1971-288/15.mp3",
+      "start": 19.389501,
+      "end": 21.97
+    }
+  ]
+}

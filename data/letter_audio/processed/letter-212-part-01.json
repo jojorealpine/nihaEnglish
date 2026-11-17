@@ -1,0 +1,58 @@
+{
+  "key": "letter-212-part-01",
+  "number": 212,
+  "generationId": "01a1e8f0-caf2-75b3-b868-d03a23c41de8",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-212/01.mp3",
+      "start": 0.0,
+      "end": 0.807347
+    },
+    {
+      "index": 1,
+      "text": "Life does not need comfort when it can be offered meaning nor pleasure when it can be shown purpose, because in the total intensity of intentional living is the fruition of the seed of consciousness.",
+      "path": "audio/1971-212/02.mp3",
+      "start": 2.255964,
+      "end": 15.056825
+    },
+    {
+      "index": 2,
+      "text": "And consciousness without the self is the goal.",
+      "path": "audio/1971-212/03.mp3",
+      "start": 16.606939,
+      "end": 19.700590000000002
+    },
+    {
+      "index": 3,
+      "text": "Consciousness without the center - and you have reached Consciousness without ego is nirvana: or you may call it God or whatsoever you like.",
+      "path": "audio/1971-212/04.mp3",
+      "start": 21.24,
+      "end": 31.058481
+    },
+    {
+      "index": 4,
+      "text": "Know that everyone is seeking this state of being, but unless the seeker is lost, this state of being cannot be found - and the seeker can only be lost in the fire of total intensity of living.",
+      "path": "audio/1971-212/05.mp3",
+      "start": 32.581474,
+      "end": 45.357958999999994
+    },
+    {
+      "index": 5,
+      "text": "So live totally.",
+      "path": "audio/1971-212/06.mp3",
+      "start": 46.800181,
+      "end": 48.571881999999995
+    },
+    {
+      "index": 6,
+      "text": "And live in the moment and moment to moment, because there is no other way to live totally, and no other way to dissolve the center, the self, the ego.",
+      "path": "audio/1971-212/07.mp3",
+      "start": 50.054603,
+      "end": 60.84
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "id": "1971-332",
+  "title": "1971 / 332",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "childish",
+      "meaning": "어린 시절의, 미성숙한",
+      "note": "문장에서는 호기심이 어린 시절의 특성을 나타내며, 이로 인해 얻어진 지식이나 이해가 완전히 성숙하지 못함을 의미한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "curiosity",
+      "meaning": "호기심",
+      "note": "지식이나 이해를 추구하는 본능적인 욕구를 나타내며, 이 호기심이 물리학의 출발점이 되었다는 의미를 담고 있다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ultimate",
+      "meaning": "궁극적인, 최종적인",
+      "note": "이 문맥에서는 가장 근본적인 진리나 사실을 가리키며, 도달하기 어려운 최고 수준의 개념을 의미해.",
+      "sentenceIds": [
+        3,
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unknowable",
+      "meaning": "알 수 없는",
+      "note": "궁극적인 진리나 사실들이 현재의 지식으로는 물론 미래에도 완전히 이해하거나 파악할 수 없다는 의미를 담고 있어.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "understands",
+      "meaning": "이해하다",
+      "note": "궁극적인 것에 대한 인식과 수용을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "impossibility",
+      "meaning": "불가능성",
+      "note": "궁극적인 진리나 실체를 완전히 파악할 수 없다는 개념을 나타냅니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "understanding",
+      "meaning": "이해",
+      "note": "궁극적인 것에 대한 인식과 그로 인한 정신적 성장을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Knowing",
+      "meaning": "지식이나 이해",
+      "note": "여기서는 궁극적인 지식의 획득 불가능성을 강조한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "possible",
+      "meaning": "가능한",
+      "note": "궁극적인 지식은 불가능하지만, 존재의 차원은 실현 가능하다는 의미를 담고 있다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "relation",
+      "meaning": "관계",
+      "note": "여기서는 궁극적인 진리나 상태와의 관계를 의미한다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "dimension",
+      "meaning": "차원",
+      "note": "여기서는 추상적인 개념이나 영역을 의미한다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "religious",
+      "meaning": "종교적",
+      "note": "특정 신념 체계나 영적 관행과 관련된 상태를 나타낸다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "accumulating",
+      "meaning": "축적하다",
+      "note": "어리석은 답변을 계속해서 쌓아간다는 의미를 담고 있다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "blackboard",
+      "meaning": "칠판",
+      "note": "수업에서 수학 문제를 가르치는 데 사용되는 표면을 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "explaining",
+      "meaning": "설명하다",
+      "note": "선생님이 학생들에게 개념이나 문제 해결 방법을 이해시키는 행위를 나타냅니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "delighted",
+      "meaning": "기뻐하다",
+      "note": "이 단어는 강한 긍정적 감정을 나타내며, 여기서는 선생님의 기쁨을 강조합니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "attention",
+      "meaning": "주의",
+      "note": "학생이 평소와 달리 집중하고 있다는 점을 강조합니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "beginning",
+      "meaning": "시작",
+      "note": "여기서는 이해 과정의 초기 단계를 의미한다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "understand",
+      "meaning": "이해하다",
+      "note": "학생이 특정 개념이나 내용을 인식하고 파악하는 것을 나타낸다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "interested",
+      "meaning": "흥미를 느끼다",
+      "note": "이 단어는 Cicero가 어떤 주제나 상황에 대해 주의를 기울이고 관심을 가졌음을 나타냅니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "questions",
+      "meaning": "질문",
+      "note": "이 단어는 Cicero가 더 알고 싶어하는 내용이나 정보를 얻기 위해 물어볼 수 있는 것들을 의미합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "drawled",
+      "meaning": "느긋하게 말하다",
+      "note": "말하는 속도가 느리고 부드럽다는 의미입니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "figures",
+      "meaning": "그림, 도형",
+      "note": "여기서는 특정한 그림이나 도형을 가리킵니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-332/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Metaphysics is born out of childish curiosity, so however sublime, it remains juvenile.",
+      "korean": "물리학은 어린 시절의 호기심에서 비롯되었기에, 아무리 숭고해도 여전히 미성숙한 상태를 유지한다.",
+      "explanation": "물리학의 본질이 어린 시절의 호기심에서 시작되었음에도 불구하고, 그 깊이나 수준이 높아져도 근본적인 미성숙함은 변하지 않는다는 의미",
+      "grammar": "「is born」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-332/02.mp3",
+      "vocabulary": [
+        {
+          "word": "childish",
+          "meaning": "어린 시절의, 미성숙한",
+          "note": "문장에서는 호기심이 어린 시절의 특성을 나타내며, 이로 인해 얻어진 지식이나 이해가 완전히 성숙하지 못함을 의미한다."
+        },
+        {
+          "word": "curiosity",
+          "meaning": "호기심",
+          "note": "지식이나 이해를 추구하는 본능적인 욕구를 나타내며, 이 호기심이 물리학의 출발점이 되었다는 의미를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "And all the ultimate answers are foolish in a way because the ultimate is not only unknown, it is unknowable.",
+      "korean": "궁극적인 답들은 어리석은 면이 있어, 궁극적인 것은 알려지지 않았을 뿐 아니라 알 수 없기 때문이야.",
+      "explanation": "궁극적인 질문에 대한 답변들이 실제로는 어리석게 느껴질 수 있다는 의미로, 궁극적인 진리나 사실들이 현재로서는 알려지지 않았고 앞으로도 알 수 없을 가능성을 강조하고 있어.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-332/03.mp3",
+      "vocabulary": [
+        {
+          "word": "ultimate",
+          "meaning": "궁극적인, 최종적인",
+          "note": "이 문맥에서는 가장 근본적인 진리나 사실을 가리키며, 도달하기 어려운 최고 수준의 개념을 의미해."
+        },
+        {
+          "word": "unknowable",
+          "meaning": "알 수 없는",
+          "note": "궁극적인 진리나 사실들이 현재의 지식으로는 물론 미래에도 완전히 이해하거나 파악할 수 없다는 의미를 담고 있어."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "A mature mind is one who understands the impossibility of knowing the ultimate, and with this understanding there is a new dimension: the dimension of being.",
+      "korean": "성숙한 마음은 궁극적인 것을 알 수 없다는 불가능성을 이해하는 사람이며, 이러한 이해를 통해 새로운 차원, 즉 존재의 차원이 열립니다.",
+      "explanation": "성숙한 사람은 궁극적인 진리나 실체를 완전히 이해할 수 없다는 사실을 받아들이고, 그 이해를 바탕으로 존재의 깊이 있는 차원을 경험하게 된다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-332/04.mp3",
+      "vocabulary": [
+        {
+          "word": "understands",
+          "meaning": "이해하다",
+          "note": "궁극적인 것에 대한 인식과 수용을 의미합니다."
+        },
+        {
+          "word": "impossibility",
+          "meaning": "불가능성",
+          "note": "궁극적인 진리나 실체를 완전히 파악할 수 없다는 개념을 나타냅니다."
+        },
+        {
+          "word": "understanding",
+          "meaning": "이해",
+          "note": "궁극적인 것에 대한 인식과 그로 인한 정신적 성장을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Knowing is not possible, but being is.",
+      "korean": "알 수 없지만 존재하는 것은 가능하다.",
+      "explanation": "문장은 궁극적인 지식의 불가능성을 인정하면서도 존재의 차원은 가능하다는 의미를 전달한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-332/05.mp3",
+      "vocabulary": [
+        {
+          "word": "Knowing",
+          "meaning": "지식이나 이해",
+          "note": "여기서는 궁극적인 지식의 획득 불가능성을 강조한다."
+        },
+        {
+          "word": "possible",
+          "meaning": "가능한",
+          "note": "궁극적인 지식은 불가능하지만, 존재의 차원은 실현 가능하다는 의미를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Or in other words: in relation to the ultimate, only being is knowing.",
+      "korean": "다른 말로 하면, 궁극적인 것과 관련하여 존재하는 것이야말로 알게 되는 것이다.",
+      "explanation": "문장은 궁극적인 진리나 상태와 관련하여 진정한 이해나 인식은 단순히 '존재함'에서 비롯된다는 개념을 전달한다.",
+      "grammar": "「is knowing」는 be동사 + -ing로 만든 현재진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+      "audio": "audio/1971-332/06.mp3",
+      "vocabulary": [
+        {
+          "word": "relation",
+          "meaning": "관계",
+          "note": "여기서는 궁극적인 진리나 상태와의 관계를 의미한다."
+        },
+        {
+          "word": "ultimate",
+          "meaning": "궁극적인",
+          "note": "최고의 수준이나 최종적인 목표를 가리키며, 이 문맥에서는 가장 높은 인식의 단계를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "This dimension is the religious dimension, and unless one is religious in this sense one goes on asking absurd questions and accumulating even more absurd answers.",
+      "korean": "이 차원은 종교적 차원이며, 이 의미에서 종교적이지 않은 사람은 어리석은 질문을 계속 던지고 더 많은 어리석은 답변을 쌓아갈 뿐이다.",
+      "explanation": "문장은 현재 차원이 종교적 차원임을 설명하고, 종교적 관점을 갖지 않은 사람들은 의미 없는 질문과 답변을 반복하게 된다는 내용을 담고 있다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-332/07.mp3",
+      "vocabulary": [
+        {
+          "word": "dimension",
+          "meaning": "차원",
+          "note": "여기서는 추상적인 개념이나 영역을 의미한다."
+        },
+        {
+          "word": "religious",
+          "meaning": "종교적",
+          "note": "특정 신념 체계나 영적 관행과 관련된 상태를 나타낸다."
+        },
+        {
+          "word": "accumulating",
+          "meaning": "축적하다",
+          "note": "어리석은 답변을 계속해서 쌓아간다는 의미를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "In a little backwoods school the teacher was at the blackboard explaining arithmetic problems.",
+      "korean": "시골 작은 학교에서 선생님이 칠판에 산수 문제를 설명하고 있었습니다.",
+      "explanation": "문장은 시골에 위치한 작은 규모의 학교에서 선생님이 학생들에게 산수 문제를 설명하고 있는 장면을 묘사합니다.",
+      "grammar": "「was」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-332/08.mp3",
+      "vocabulary": [
+        {
+          "word": "blackboard",
+          "meaning": "칠판",
+          "note": "수업에서 수학 문제를 가르치는 데 사용되는 표면을 의미합니다."
+        },
+        {
+          "word": "explaining",
+          "meaning": "설명하다",
+          "note": "선생님이 학생들에게 개념이나 문제 해결 방법을 이해시키는 행위를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "She was delighted to see her dullest pupil paying fixed attention, which was unusual for him.",
+      "korean": "그녀는 평소와 달리 집중하는 모습을 보인 가장 둔한 학생을 보고 기뻐하였다.",
+      "explanation": "선생님이 평소와 달리 주의를 기울이는 모습을 보인 가장 둔한 학생을 보고 기뻐하는 상황을 설명합니다.",
+      "grammar": "「was」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-332/09.mp3",
+      "vocabulary": [
+        {
+          "word": "delighted",
+          "meaning": "기뻐하다",
+          "note": "이 단어는 강한 긍정적 감정을 나타내며, 여기서는 선생님의 기쁨을 강조합니다."
+        },
+        {
+          "word": "attention",
+          "meaning": "주의",
+          "note": "학생이 평소와 달리 집중하고 있다는 점을 강조합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "Her happy thought was that at last the lanky lad was beginning to understand.",
+      "korean": "그녀는 마침내 키가 큰 아이가 이해하기 시작했다는 사실에 기뻤다.",
+      "explanation": "그녀의 기쁨은 키가 큰 학생이 평소와 달리 이해하려는 노력을 시작했다는 인식에서 비롯되었다.",
+      "grammar": "「was」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-332/10.mp3",
+      "vocabulary": [
+        {
+          "word": "beginning",
+          "meaning": "시작",
+          "note": "여기서는 이해 과정의 초기 단계를 의미한다."
+        },
+        {
+          "word": "understand",
+          "meaning": "이해하다",
+          "note": "학생이 특정 개념이나 내용을 인식하고 파악하는 것을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "When she finished she said to him: You were so interested, Cicero, that I am sure you want to ask some questions.",
+      "korean": "그녀는 말했다: 너는 정말 흥미를 보였구나, 시케로, 그래서 질문하고 싶을 거라고 확신해.",
+      "explanation": "그녀가 말을 마친 후 시케로에게 질문을 하고 싶은지 묻는 내용입니다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-332/11.mp3",
+      "vocabulary": [
+        {
+          "word": "interested",
+          "meaning": "흥미를 느끼다",
+          "note": "이 단어는 Cicero가 어떤 주제나 상황에 대해 주의를 기울이고 관심을 가졌음을 나타냅니다."
+        },
+        {
+          "word": "questions",
+          "meaning": "질문",
+          "note": "이 단어는 Cicero가 더 알고 싶어하는 내용이나 정보를 얻기 위해 물어볼 수 있는 것들을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "Yes'm, drawled Cicero, I got one to ask Where do those figures go when you rub them off?",
+      "korean": "아니요, 천천히 말해요, 시칠리아 씨는 물었어요: 저 그림들은 어디로 사라지나요?",
+      "explanation": "시칠리아 씨가 느긋하게 말하며 질문을 던지는 장면입니다.",
+      "grammar": "동사 「got」는 get의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-332/12.mp3",
+      "vocabulary": [
+        {
+          "word": "drawled",
+          "meaning": "느긋하게 말하다",
+          "note": "말하는 속도가 느리고 부드럽다는 의미입니다."
+        },
+        {
+          "word": "figures",
+          "meaning": "그림, 도형",
+          "note": "여기서는 특정한 그림이나 도형을 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "물리학은 어린 시절의 호기심에서 비롯되었기에, 아무리 숭고해도 여전히 미성숙한 상태를 유지한다. 궁극적인 답들은 어리석은 면이 있어, 궁극적인 것은 알려지지 않았을 뿐 아니라 알 수 없기 때문이야. 성숙한 마음은 궁극적인 것을 알 수 없다는 불가능성을 이해하는 사람이며, 이러한 이해를 통해 새로운 차원, 즉 존재의 차원이 열립니다. 알 수 없지만 존재하는 것은 가능하다. 다른 말로 하면, 궁극적인 것과 관련하여 존재하는 것이야말로 알게 되는 것이다.",
+    "이 차원은 종교적 차원이며, 이 의미에서 종교적이지 않은 사람은 어리석은 질문을 계속 던지고 더 많은 어리석은 답변을 쌓아갈 뿐이다. 시골 작은 학교에서 선생님이 칠판에 산수 문제를 설명하고 있었습니다. 그녀는 평소와 달리 집중하는 모습을 보인 가장 둔한 학생을 보고 기뻐하였다. 그녀는 마침내 키가 큰 아이가 이해하기 시작했다는 사실에 기뻤다. 그녀는 말했다: 너는 정말 흥미를 보였구나, 시케로, 그래서 질문하고 싶을 거라고 확신해. 아니요, 천천히 말해요, 시칠리아 씨는 물었어요: 저 그림들은 어디로 사라지나요?"
+  ],
+  "fullAudio": "audio/1971-332/script_all.mp3",
+  "originalText": "Love.\n\nMetaphysics is born out of childish curiosity,\nso however sublime, it remains juvenile.\nAnd all the ultimate answers are foolish in a way\nbecause the ultimate is not only unknown,\nit is unknowable.\nA mature mind is one\nwho understands the impossibility\nof knowing the ultimate,\nand with this understanding\nthere is a new dimension:\nthe dimension of being.\nKnowing is not possible, but being is.\nOr in other words:\nin relation to the ultimate, only being is knowing.\n\nThis dimension is the religious dimension,\nand unless one is religious in this sense\none goes on asking absurd questions\nand accumulating even more absurd answers.\nIn a little backwoods school\nthe teacher was at the blackboard explaining\narithmetic problems.\nShe was delighted to see her dullest pupil\npaying fixed attention,\nwhich was unusual for him.\nHer happy thought was that at last\nthe lanky lad was beginning to understand.\nWhen she finished she said to him:\nYou were so interested, Cicero,\nthat I am sure you want to ask some questions.\nYes'm, drawled Cicero, I got one to ask\nWhere do those figures go when you rub them off?",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 332,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0903 2.JPG",
+        "side": "right",
+        "printedPage": 257
+      },
+      {
+        "file": "IMG_0904 2.JPG",
+        "side": "left",
+        "printedPage": 258
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

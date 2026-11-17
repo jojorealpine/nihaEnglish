@@ -1,0 +1,65 @@
+{
+  "key": "letter-273-part-01",
+  "number": 273,
+  "generationId": "01a1e8ff-afe7-78fd-b209-970248ceb79d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-273/01.mp3",
+      "start": 0.0,
+      "end": 0.573311
+    },
+    {
+      "index": 1,
+      "text": "The past is not nor is the future, but the mind exists between these two non-existences, and therefore - the misery.",
+      "path": "audio/1971-273/02.mp3",
+      "start": 1.9112019999999998,
+      "end": 9.199772999999999
+    },
+    {
+      "index": 2,
+      "text": "To live in the mind is to live in misery, in agony and in hell.",
+      "path": "audio/1971-273/03.mp3",
+      "start": 10.593401,
+      "end": 14.789546
+    },
+    {
+      "index": 3,
+      "text": "The mind is the hell.",
+      "path": "audio/1971-273/04.mp3",
+      "start": 16.071994999999998,
+      "end": 17.428594
+    },
+    {
+      "index": 4,
+      "text": "Be aware suddenly of this and then there is a new opening: the opening of the present, the opening of that-which-is.",
+      "path": "audio/1971-273/05.mp3",
+      "start": 18.74966,
+      "end": 25.598662
+    },
+    {
+      "index": 5,
+      "text": "The present is the only existence or, it is the existence.",
+      "path": "audio/1971-273/06.mp3",
+      "start": 27.227732,
+      "end": 31.784444
+    },
+    {
+      "index": 6,
+      "text": "Be in it and you are liberated.",
+      "path": "audio/1971-273/07.mp3",
+      "start": 33.381678,
+      "end": 35.654852999999996
+    },
+    {
+      "index": 7,
+      "text": "Live in it and there is bliss.",
+      "path": "audio/1971-273/08.mp3",
+      "start": 37.226939,
+      "end": 40.62
+    }
+  ]
+}

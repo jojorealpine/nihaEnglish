@@ -1,0 +1,79 @@
+{
+  "key": "letter-157-part-01",
+  "number": 157,
+  "generationId": "01a1e6f5-006e-7b5d-98e7-4f35b93e301d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-157/01.mp3",
+      "start": 0.0,
+      "end": 0.67102
+    },
+    {
+      "index": 1,
+      "text": "Strive for meditation.",
+      "path": "audio/1970-157/02.mp3",
+      "start": 1.8464399999999999,
+      "end": 3.453605
+    },
+    {
+      "index": 2,
+      "text": "Then all problems of the mind will disappear.",
+      "path": "audio/1970-157/03.mp3",
+      "start": 4.702834,
+      "end": 7.114717
+    },
+    {
+      "index": 3,
+      "text": "In fact, mind is the problem.",
+      "path": "audio/1970-157/04.mp3",
+      "start": 8.387732000000002,
+      "end": 10.328140999999999
+    },
+    {
+      "index": 4,
+      "text": "All the rest of the problems are only echoes of the mind.",
+      "path": "audio/1970-157/05.mp3",
+      "start": 11.566032000000002,
+      "end": 14.555487999999999
+    },
+    {
+      "index": 5,
+      "text": "Nothing will come of fighting each and every problem separately.",
+      "path": "audio/1970-157/06.mp3",
+      "start": 15.763469,
+      "end": 18.704422
+    },
+    {
+      "index": 6,
+      "text": "Fighting with echoes is futile, there is no outcome of it other than defeat.",
+      "path": "audio/1970-157/07.mp3",
+      "start": 19.995556,
+      "end": 24.18551
+    },
+    {
+      "index": 7,
+      "text": "Do not prune the branches, because four other branches will replace that one pruned branch.",
+      "path": "audio/1970-157/08.mp3",
+      "start": 25.672131999999998,
+      "end": 31.537143
+    },
+    {
+      "index": 8,
+      "text": "By pruning branches, the tree only grows more.",
+      "path": "audio/1970-157/09.mp3",
+      "start": 32.996757,
+      "end": 36.36839
+    },
+    {
+      "index": 9,
+      "text": "And, the problems are the branches.",
+      "path": "audio/1970-157/10.mp3",
+      "start": 37.834830000000004,
+      "end": 40.12
+    }
+  ]
+}

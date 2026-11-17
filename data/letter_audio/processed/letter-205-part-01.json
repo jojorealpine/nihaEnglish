@@ -1,0 +1,79 @@
+{
+  "key": "letter-205-part-01",
+  "number": 205,
+  "generationId": "01a1e8ed-b461-7eab-b06a-255022826e6f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-205/01.mp3",
+      "start": 0.0,
+      "end": 0.66356
+    },
+    {
+      "index": 1,
+      "text": "Man is strange, very strange, because he begins by deceiving others and ends with deceiving himself.",
+      "path": "audio/1971-205/02.mp3",
+      "start": 1.867778,
+      "end": 8.659659999999999
+    },
+    {
+      "index": 2,
+      "text": "A fakir was walking down the village street deep in thought when some urchins began to throw stones at him.",
+      "path": "audio/1971-205/03.mp3",
+      "start": 10.186916,
+      "end": 16.000272
+    },
+    {
+      "index": 3,
+      "text": "He was taken by surprise, and besides he was not a big man.",
+      "path": "audio/1971-205/04.mp3",
+      "start": 17.311837,
+      "end": 21.311338
+    },
+    {
+      "index": 4,
+      "text": "Don't do that, he said, and I will tell you something of interest to you.",
+      "path": "audio/1971-205/05.mp3",
+      "start": 22.850929999999998,
+      "end": 26.27356
+    },
+    {
+      "index": 5,
+      "text": "All right, what is it?",
+      "path": "audio/1971-205/06.mp3",
+      "start": 27.865669,
+      "end": 29.256871
+    },
+    {
+      "index": 6,
+      "text": "But no philosophy.",
+      "path": "audio/1971-205/07.mp3",
+      "start": 30.883107,
+      "end": 32.081769
+    },
+    {
+      "index": 7,
+      "text": "The king is giving a free banquet to all comers - he simply lied to them.",
+      "path": "audio/1971-205/08.mp3",
+      "start": 33.400295,
+      "end": 37.762676
+    },
+    {
+      "index": 8,
+      "text": "The children ran off towards the king's palace as the fakir warmed to his theme - the delicacies and delights of the entertainment....",
+      "path": "audio/1971-205/09.mp3",
+      "start": 39.146213,
+      "end": 46.9178
+    },
+    {
+      "index": 9,
+      "text": "He looked up and saw them disappearing into the distance, and then suddenly he tucked up his robes and started to sprint after them.",
+      "path": "audio/1971-205/10.mp3",
+      "start": 48.555692,
+      "end": 56.42
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "key": "letter-181-part-01",
+  "number": 181,
+  "generationId": "01a1e8e7-501d-78cf-843a-c5ef7e95ff6d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-181/01.mp3",
+      "start": 0.0,
+      "end": 0.623265
+    },
+    {
+      "index": 1,
+      "text": "Yes, there is tension.",
+      "path": "audio/1971-181/02.mp3",
+      "start": 1.9116329999999997,
+      "end": 3.3325400000000003
+    },
+    {
+      "index": 2,
+      "text": "To be consciously conscious is to be tense, but it is not because of consciousness but because of partial consciousness.",
+      "path": "audio/1971-181/03.mp3",
+      "start": 4.867438,
+      "end": 12.252313
+    },
+    {
+      "index": 3,
+      "text": "The unconscious is always behind the so-called consciousness.",
+      "path": "audio/1971-181/04.mp3",
+      "start": 13.622925,
+      "end": 17.185828
+    },
+    {
+      "index": 4,
+      "text": "This situation creates tension because this creates a dichotomy, a duality; hence the tension.",
+      "path": "audio/1971-181/05.mp3",
+      "start": 18.505101999999997,
+      "end": 25.559070000000002
+    },
+    {
+      "index": 5,
+      "text": "The being, which cannot be divided, is divided, hence the tension.",
+      "path": "audio/1971-181/06.mp3",
+      "start": 27.064966,
+      "end": 32.305305999999995
+    },
+    {
+      "index": 6,
+      "text": "The unnaturalness of the situation is the root cause of this tension, and for that matter of all tensions, because then one is not individual, that is, indivisible; therefore there is tension, and one cannot really relax unless one is one.",
+      "path": "audio/1971-181/07.mp3",
+      "start": 33.827551,
+      "end": 51.127755
+    },
+    {
+      "index": 7,
+      "text": "Either be totally unconscious as in deep and dreamless sleep - and then there is no tension, or be totally conscious - and then you are in the state of no-tension because the total can never be tense.",
+      "path": "audio/1971-181/08.mp3",
+      "start": 52.652494000000004,
+      "end": 66.78483
+    },
+    {
+      "index": 8,
+      "text": "That is why the whole is the holy.",
+      "path": "audio/1971-181/09.mp3",
+      "start": 68.34473899999999,
+      "end": 70.64
+    }
+  ]
+}

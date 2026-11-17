@@ -1,0 +1,65 @@
+{
+  "key": "letter-294-part-01",
+  "number": 294,
+  "generationId": "01a1e904-9057-77a0-ad1b-b7e399d7ef85",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-294/01.mp3",
+      "start": 0.0,
+      "end": 0.5712470000000001
+    },
+    {
+      "index": 1,
+      "text": "There is no proof of the divine in the world for it is hidden deep, deep, deep inside.",
+      "path": "audio/1971-294/02.mp3",
+      "start": 1.7062810000000002,
+      "end": 5.82161
+    },
+    {
+      "index": 2,
+      "text": "But in you there is the absolute proof, for it is deep, deep, deep, inside.",
+      "path": "audio/1971-294/03.mp3",
+      "start": 7.027029,
+      "end": 11.736984
+    },
+    {
+      "index": 3,
+      "text": "Go in and discover it.",
+      "path": "audio/1971-294/04.mp3",
+      "start": 12.851088,
+      "end": 14.434467
+    },
+    {
+      "index": 4,
+      "text": "Thinking about it will not help: action is needed action turned on oneself - so act.",
+      "path": "audio/1971-294/05.mp3",
+      "start": 15.580794000000001,
+      "end": 21.2061
+    },
+    {
+      "index": 5,
+      "text": "That is, turn in.",
+      "path": "audio/1971-294/06.mp3",
+      "start": 22.717143,
+      "end": 24.344308
+    },
+    {
+      "index": 6,
+      "text": "Man is like a sealed book written before he was born, and ordinarily he carries it unopened inside himself until he dies.",
+      "path": "audio/1971-294/07.mp3",
+      "start": 25.95093,
+      "end": 33.497052
+    },
+    {
+      "index": 7,
+      "text": "One who opens it knows that he is not and only the divine is.",
+      "path": "audio/1971-294/08.mp3",
+      "start": 35.053583,
+      "end": 39.18
+    }
+  ]
+}

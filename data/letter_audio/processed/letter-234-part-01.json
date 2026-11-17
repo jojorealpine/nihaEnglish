@@ -1,0 +1,30 @@
+{
+  "key": "letter-234-part-01",
+  "number": 234,
+  "generationId": "01a1e8f6-f8ae-7496-80a9-50167dc30dc9",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-234/01.mp3",
+      "start": 0.0,
+      "end": 0.624785
+    },
+    {
+      "index": 1,
+      "text": "A monk asked Hyakujo Yekai: What is the most miraculous event in the world?",
+      "path": "audio/1971-234/02.mp3",
+      "start": 1.988594,
+      "end": 8.151814
+    },
+    {
+      "index": 2,
+      "text": "Hyakujo said: I sit here all by myself!",
+      "path": "audio/1971-234/03.mp3",
+      "start": 9.651723,
+      "end": 14.47
+    }
+  ]
+}

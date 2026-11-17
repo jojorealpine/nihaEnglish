@@ -1,0 +1,58 @@
+{
+  "key": "letter-197-part-01",
+  "number": 197,
+  "generationId": "01a1e8eb-ca42-7522-9220-25a0796a308d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-197/01.mp3",
+      "start": 0.0,
+      "end": 0.616236
+    },
+    {
+      "index": 1,
+      "text": "There is no end to man's self-deception, because whatsoever he is going to do he can rationalize it.",
+      "path": "audio/1971-197/02.mp3",
+      "start": 2.020181,
+      "end": 8.004693999999999
+    },
+    {
+      "index": 2,
+      "text": "One day one man boasted in the bar that he was a man of iron will, and now he would prove it by not touching wine again in his life.",
+      "path": "audio/1971-197/03.mp3",
+      "start": 9.451134000000001,
+      "end": 16.949932
+    },
+    {
+      "index": 3,
+      "text": "But not even that day could pass by.",
+      "path": "audio/1971-197/04.mp3",
+      "start": 18.388118,
+      "end": 20.563787
+    },
+    {
+      "index": 4,
+      "text": "In the evening he came to the bar and said loudly for all to hear - I am stronger than my willpower.",
+      "path": "audio/1971-197/05.mp3",
+      "start": 22.142948,
+      "end": 30.007823000000002
+    },
+    {
+      "index": 5,
+      "text": "I fought the whole day and finally conquered my damn willpower!",
+      "path": "audio/1971-197/06.mp3",
+      "start": 31.549252,
+      "end": 35.797233999999996
+    },
+    {
+      "index": 6,
+      "text": "A double scotch, please!",
+      "path": "audio/1971-197/07.mp3",
+      "start": 37.356757,
+      "end": 39.24
+    }
+  ]
+}

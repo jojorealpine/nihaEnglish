@@ -1,0 +1,16 @@
+{
+  "key": "letter-180-part-02",
+  "number": 180,
+  "generationId": "01a1e8e7-2bca-7db6-93d9-0d80442a3a1e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "So when it comes about - rejoice and feel blessed.",
+      "path": "audio/1971-180/11.mp3",
+      "start": 0.0,
+      "end": 3.19
+    }
+  ]
+}

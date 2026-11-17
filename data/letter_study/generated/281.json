@@ -1,0 +1,200 @@
+{
+  "sourceHash": "7b257d16b57963e4861bae6d00dcf059be17a2d752f1b11fc630d4b1a463679c",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "그것은 잠깐 움직이다가 구부러지고 죽었다.",
+        "explanation": "문장은 벌레가 잠시 움직이다가 곧 몸을 구부리고 죽는 모습을 묘사한다.",
+        "grammar": "동사 「wriggled」는 wriggle의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "wriggled",
+            "meaning": "움직이다 (특히 몸을 비틀며 움직이는 것을 나타냄)",
+            "note": "벌레의 살아있는 움직임을 강조한다."
+          },
+          {
+            "word": "briefly",
+            "meaning": "잠시 동안",
+            "note": "움직임의 짧은 지속 시간을 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "그 사람이 말했어요, '보세요?' 하고 바텐더에게 말했어요.",
+        "explanation": "주어진 문장에서 'said'는 말하다는 의미이고, 'bartender'는 바텐더를 지칭합니다. 전체 문장은 누군가가 특정 상황이나 현상을 가리키며 바텐더에게 이를 보여주거나 설명하려는 상황을 묘사합니다.",
+        "grammar": "동사 「see」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "said",
+            "meaning": "말하다",
+            "note": "대화나 설명을 전달하는 동사입니다."
+          },
+          {
+            "word": "bartender",
+            "meaning": "바텐더",
+            "note": "주로 바 또는 칵테일 라운지에서 음료를 제조하고 서비스를 제공하는 사람을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "술을 계속 마시면 벌레는 절대 없을 거라는 걸 증명해.",
+        "explanation": "술을 지속적으로 마시면 건강상의 문제로 인해 벌레와 관련된 상황이 발생하지 않을 것이라는 의미를 담고 있다.",
+        "grammar": "동사 「proves」는 prove의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "proves",
+            "meaning": "증명하다",
+            "note": "이 문장에서는 주장이나 사실을 뒷받침하는 역할을 한다."
+          },
+          {
+            "word": "drinking",
+            "meaning": "마시다",
+            "note": "여기서는 위스키를 지속적으로 섭취하는 행위를 가리킨다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "분명히 술을 좋아하는 사람이 바텐더에게 말했다: 버번 한 잔과 물 한 잔 주세요.",
+        "explanation": "술을 즐기는 사람이 바텐더에게 버번과 물을 각각 한 잔씩 주문하는 상황을 설명합니다.",
+        "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "obviously",
+            "meaning": "분명히",
+            "note": "문장에서 술을 좋아하는 사람의 상태나 태도를 강조합니다."
+          },
+          {
+            "word": "bartender",
+            "meaning": "바텐더",
+            "note": "주문을 받고 음료를 제조하는 사람을 지칭합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "그 남자는 몇 초 동안 벌레가 물속에서 헤엄치는 것을 보고 나서 벌레를 물에서 꺼내 위스키 잔에 넣었다.",
+        "explanation": "벌레가 물에서 헤엄치는 모습을 관찰한 후 벌레를 물에서 꺼내 위스키 잔에 넣는 행동을 묘사한다.",
+        "grammar": "동사 「drew」는 draw의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "watching",
+            "meaning": "관찰하다",
+            "note": "벌레의 움직임을 주의 깊게 살펴보는 행위를 나타낸다."
+          },
+          {
+            "word": "seconds",
+            "meaning": "초",
+            "note": "벌레가 물속에서 헤엄치는 시간의 길이를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "사람은 합리적인 동물이 아니라 합리화하는 존재일 뿐이다. 그리고 이것이 단순히 비합리적인 것보다 더 위험하다.",
+        "explanation": "문장은 인간의 본질을 비합리적인 측면에서 바라보며, 합리화 과정 자체가 위험할 수 있음을 강조한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "rationalizing",
+            "meaning": "합리화하다",
+            "note": "자신의 행동이나 생각을 합리적인 이유로 설명하려는 행위를 의미한다."
+          },
+          {
+            "word": "irrational",
+            "meaning": "비합리적인",
+            "note": "이성적인 판단이나 논리에 기반하지 않은 행동이나 생각을 가리킨다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "주문을 받자마자 그는 주머니에서 벌레를 꺼내 물 잔에 떨어뜨렸다.",
+        "explanation": "주문이 바텐더 앞에 놓였을 때, 술꾼이 벌레를 주머니에서 꺼내 물 잔에 넣었다.",
+        "grammar": "동사 「pulled」는 pull의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "placed",
+            "meaning": "놓다, 주문하다",
+            "note": "이 문맥에서는 주문이 바텐더 앞에 놓였음을 나타냅니다."
+          },
+          {
+            "word": "pulled",
+            "meaning": "뽑다, 꺼내다",
+            "note": "주머니에서 벌레를 꺼내는 동작을 나타냅니다."
+          },
+          {
+            "word": "dropped",
+            "meaning": "떨어뜨리다",
+            "note": "벌레를 물 잔에 넣는 동작을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

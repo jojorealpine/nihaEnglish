@@ -1,0 +1,30 @@
+{
+  "key": "letter-029-part-02",
+  "number": 29,
+  "generationId": "01a1e4eb-aff9-71be-9d44-b71a2f04315f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Isn't one's love help enough?",
+      "path": "audio/1965-29/11.mp3",
+      "start": 0.0,
+      "end": 1.982177
+    },
+    {
+      "index": 11,
+      "text": "If you don't come I will miss you because the camp at Udaipur is linked for me with being with you, so I am hoping you can come.",
+      "path": "audio/1965-29/12.mp3",
+      "start": 3.5818369999999997,
+      "end": 12.449048
+    },
+    {
+      "index": 12,
+      "text": "Regards to all.",
+      "path": "audio/1965-29/13.mp3",
+      "start": 14.104739,
+      "end": 15.6
+    }
+  ]
+}

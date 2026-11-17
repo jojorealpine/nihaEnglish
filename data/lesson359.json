@@ -1,0 +1,794 @@
+{
+  "id": "1971-359",
+  "title": "1971 / 359",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Life",
+      "meaning": "인생",
+      "note": "개인의 존재 기간이나 삶의 전체를 의미함",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "flowing",
+      "meaning": "흐르다",
+      "note": "지속적으로 진행되고 변화하는 상태를 나타냄",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "wait",
+      "meaning": "기다리다",
+      "note": "이 문맥에서는 어떤 일이나 상황이 지체 없이 진행된다는 부정적 의미를 담고 있습니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thinks",
+      "meaning": "생각하다",
+      "note": "마음의 사고 과정을 나타냄",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "takes",
+      "meaning": "취하다, 들이다",
+      "note": "시간을 들인다는 의미로 사용됨",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "needed",
+      "meaning": "필요한",
+      "note": "필수적인 것을 나타냄",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "necessary",
+      "meaning": "필수적인",
+      "note": "꼭 필요한 것을 강조",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "time",
+      "meaning": "시간",
+      "note": "여기서는 존재와 관련된 추상적인 개념으로 사용됨",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "existence",
+      "meaning": "존재",
+      "note": "어떤 것이 실제로 존재한다는 의미",
+      "sentenceIds": [
+        6,
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "appears",
+      "meaning": "보이는 것처럼",
+      "note": "주관적인 인식이나 착각을 나타낸다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thinking",
+      "meaning": "생각",
+      "note": "마음의 사고 과정을 의미하며, 이 사고 과정이 시간의 개념을 형성한다고 설명한다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "eternity",
+      "meaning": "영원",
+      "note": "시간의 제약을 받지 않는 무한한 시간 개념.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "exists",
+      "meaning": "존재하다",
+      "note": "이 문맥에서는 「존재하다」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "eternal",
+      "meaning": "영원한",
+      "note": "시간의 제약 없이 지속되는 상태를 의미한다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "future",
+      "meaning": "미래",
+      "note": "문장에서 미래의 존재를 부정하며, 영원한 현재 상태를 설명하는 데 사용된다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "present",
+      "meaning": "현재",
+      "note": "영원한 현재 상태를 강조하는 핵심 단어로, 과거와 미래 없이 독립적으로 존재한다는 개념을 나타낸다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meaningless",
+      "meaning": "의미 없는",
+      "note": "현재를 현재라 부르는 것이 과거와 미래 없이는 의미가 없다는 의미를 전달한다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "live",
+      "meaning": "살아가다",
+      "note": "이 문맥에서는 마음으로만 존재하거나 행동하는 것을 의미합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "waits",
+      "meaning": "기다리다",
+      "note": "삶이 특정 개인을 기다리지 않는다는 의미로, 삶의 유동성과 변화를 강조합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "called",
+      "meaning": "부르다/칭하다",
+      "note": "여기서는 '마음'이라는 용어로 자신을 정의하거나 이해하는 것을 의미합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "feels",
+      "meaning": "느끼다",
+      "note": "주관적인 감정이나 상태를 표현",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "missing",
+      "meaning": "부족한",
+      "note": "무엇인가가 결핍되어 있다는 의미",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "master",
+      "meaning": "스승, 선생",
+      "note": "지도자나 지식을 전수하는 사람을 의미한다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "disciples",
+      "meaning": "제자들",
+      "note": "스승의 가르침을 받는 사람들, 종종 종교적 맥락에서 사용된다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "utter",
+      "meaning": "말하다",
+      "note": "여기서는 어떤 형태로든 말을 하는 행위를 의미합니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "words",
+      "meaning": "말",
+      "note": "말하는 내용이나 언어 자체를 가리킵니다.",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "disciple",
+      "meaning": "제자",
+      "note": "스승의 가르침을 받는 학생이나 추종자",
+      "sentenceIds": [
+        15,
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "forward",
+      "meaning": "앞으로 나섰다",
+      "note": "앞으로 나아가 행동을 취한 상태",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "protested",
+      "meaning": "항의했다",
+      "note": "자신의 입장이나 주장을 강하게 주장하며 반대 의사를 표현하는 것을 의미한다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "striking",
+      "meaning": "항의하는",
+      "note": "여기서는 누군가의 행동이나 상황에 대한 강한 불만이나 항의를 의미합니다.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "laughed",
+      "meaning": "웃었다",
+      "note": "상황의 긍정적이고 여유로운 분위기를 나타냄",
+      "sentenceIds": [
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "silence",
+      "meaning": "침묵",
+      "note": "반응이나 의사소통의 부재를 의미하며, 여기서는 기다림의 대상으로 언급됨",
+      "sentenceIds": [
+        18
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4
+    ],
+    [
+      5,
+      6,
+      7,
+      8
+    ],
+    [
+      9,
+      10,
+      11
+    ],
+    [
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    [
+      17
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-359/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Life goes on flowing.",
+      "korean": "인생은 계속 흐르고 있다.",
+      "explanation": "인생의 지속적인 진행과 변화를 나타냄",
+      "grammar": "동사 「goes」는 go의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-359/02.mp3",
+      "vocabulary": [
+        {
+          "word": "Life",
+          "meaning": "인생",
+          "note": "개인의 존재 기간이나 삶의 전체를 의미함"
+        },
+        {
+          "word": "flowing",
+          "meaning": "흐르다",
+          "note": "지속적으로 진행되고 변화하는 상태를 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "It does not wait.",
+      "korean": "기다리지 않아요.",
+      "explanation": "어떤 상황이나 일이 지체되거나 기다리지 않고 바로 진행된다는 의미입니다.",
+      "grammar": "「does not wait」는 현재의 부정 표현입니다. do/does/did 뒤에서는 본동사 「wait」를 원형으로 씁니다.",
+      "audio": "audio/1971-359/03.mp3",
+      "vocabulary": [
+        {
+          "word": "wait",
+          "meaning": "기다리다",
+          "note": "이 문맥에서는 어떤 일이나 상황이 지체 없이 진행된다는 부정적 의미를 담고 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "But mind thinks and therefore takes time.",
+      "korean": "그러나 마음은 생각하고 시간을 들이기 때문에 서두르지 않는다.",
+      "explanation": "마음이 생각하는 과정 때문에 즉각적인 행동을 취하지 않는다는 의미",
+      "grammar": "동사 「thinks」는 think의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-359/04.mp3",
+      "vocabulary": [
+        {
+          "word": "thinks",
+          "meaning": "생각하다",
+          "note": "마음의 사고 과정을 나타냄"
+        },
+        {
+          "word": "takes",
+          "meaning": "취하다, 들이다",
+          "note": "시간을 들인다는 의미로 사용됨"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "To exist, no time is needed, but to think - time is necessary",
+      "korean": "존재하기 위해서는 시간이 필요하지 않지만 생각하기 위해서는 시간이 필수적이다.",
+      "explanation": "존재 자체는 시간을 필요로 하지 않지만, 사고 과정은 시간을 필요로 한다는 의미",
+      "grammar": "「is needed」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-359/05.mp3",
+      "vocabulary": [
+        {
+          "word": "needed",
+          "meaning": "필요한",
+          "note": "필수적인 것을 나타냄"
+        },
+        {
+          "word": "necessary",
+          "meaning": "필수적인",
+          "note": "꼭 필요한 것을 강조"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Really there is no time in existence.",
+      "korean": "존재 자체에는 시간이 없다.",
+      "explanation": "존재하는 것 자체에는 시간의 개념이 필요하지 않다는 의미",
+      "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1971-359/06.mp3",
+      "vocabulary": [
+        {
+          "word": "time",
+          "meaning": "시간",
+          "note": "여기서는 존재와 관련된 추상적인 개념으로 사용됨"
+        },
+        {
+          "word": "existence",
+          "meaning": "존재",
+          "note": "어떤 것이 실제로 존재한다는 의미"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "There appears to be only because of the mind and its thinking.",
+      "korean": "마음과 생각 때문에 오직 그렇게 보일 뿐이다.",
+      "explanation": "문장은 시간의 존재가 마음과 그 생각에 의해 만들어진 것처럼 보일 뿐이라는 의미를 전달한다.",
+      "grammar": "동사 「appears」는 appear의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-359/07.mp3",
+      "vocabulary": [
+        {
+          "word": "appears",
+          "meaning": "보이는 것처럼",
+          "note": "주관적인 인식이나 착각을 나타낸다."
+        },
+        {
+          "word": "thinking",
+          "meaning": "생각",
+          "note": "마음의 사고 과정을 의미하며, 이 사고 과정이 시간의 개념을 형성한다고 설명한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "Existence exists not in time but in eternity.",
+      "korean": "존재는 시간 속에 있는 것이 아니라 영원 속에 존재한다.",
+      "explanation": "문장은 존재의 본질이 시간의 제약을 벗어나 영원이라는 개념 속에 있음을 강조한다.",
+      "grammar": "동사 「exists」는 exist의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-359/08.mp3",
+      "vocabulary": [
+        {
+          "word": "Existence",
+          "meaning": "존재",
+          "note": "어떤 것이 실제로 존재한다는 의미."
+        },
+        {
+          "word": "eternity",
+          "meaning": "영원",
+          "note": "시간의 제약을 받지 않는 무한한 시간 개념."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "It exists in the eternal now.",
+      "korean": "영원한 현재 속에 존재한다.",
+      "explanation": "문장은 존재가 시간의 흐름이 아닌 영원한 현재 상태 속에 있음을 강조한다.",
+      "grammar": "동사 「exists」는 exist의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-359/09.mp3",
+      "vocabulary": [
+        {
+          "word": "exists",
+          "meaning": "존재하다",
+          "note": "이 문맥에서는 「존재하다」의 뜻으로 읽습니다."
+        },
+        {
+          "word": "eternal",
+          "meaning": "영원한",
+          "note": "시간의 제약 없이 지속되는 상태를 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "There is neither past nor future but only the present - or not even that - because without the past and future it is meaningless to call it present.",
+      "korean": "과거의 흔적도 미래의 그림자도 없이 오직 현재만이 존재하며, 현재를 현재라 부르는 것조차 의미가 없어진다.",
+      "explanation": "문장은 시간의 선형적 개념을 부정하고, 영원한 현재 상태를 강조한다. 과거와 미래의 개념이 없을 때 현재라는 개념 자체가 무의미해진다는 의미를 담고 있다.",
+      "grammar": "「There is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1971-359/10.mp3",
+      "vocabulary": [
+        {
+          "word": "future",
+          "meaning": "미래",
+          "note": "문장에서 미래의 존재를 부정하며, 영원한 현재 상태를 설명하는 데 사용된다."
+        },
+        {
+          "word": "present",
+          "meaning": "현재",
+          "note": "영원한 현재 상태를 강조하는 핵심 단어로, 과거와 미래 없이 독립적으로 존재한다는 개념을 나타낸다."
+        },
+        {
+          "word": "meaningless",
+          "meaning": "의미 없는",
+          "note": "현재를 현재라 부르는 것이 과거와 미래 없이는 의미가 없다는 의미를 전달한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "Do not live out of the mind, otherwise you will always lag behind, because life never waits for you and your so-called mind.",
+      "korean": "마음으로만 살아가지 마세요, 그렇지 않으면 항상 뒤처질 것입니다. 왜냐하면 삶은 당신을 기다리지 않기 때문입니다.",
+      "explanation": "마음으로만 살아가면 현실의 변화에 적응하지 못하고 뒤처질 수 있다는 경고입니다.",
+      "grammar": "「Do not live」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1971-359/11.mp3",
+      "vocabulary": [
+        {
+          "word": "live",
+          "meaning": "살아가다",
+          "note": "이 문맥에서는 마음으로만 존재하거나 행동하는 것을 의미합니다."
+        },
+        {
+          "word": "waits",
+          "meaning": "기다리다",
+          "note": "삶이 특정 개인을 기다리지 않는다는 의미로, 삶의 유동성과 변화를 강조합니다."
+        },
+        {
+          "word": "called",
+          "meaning": "부르다/칭하다",
+          "note": "여기서는 '마음'이라는 용어로 자신을 정의하거나 이해하는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "That is why the mind always feels as if something is missing - because it is missing life itself - and always!",
+      "korean": "마음은 항상 뭔가가 부족하다고 느끼는데, 왜냐하면 삶 자체가 빠져 있기 때문이야 - 그리고 항상 그래!",
+      "explanation": "마음이 부족함을 느끼는 이유는 삶의 경험이 부족하기 때문이며, 이 상태는 지속된다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-359/12.mp3",
+      "vocabulary": [
+        {
+          "word": "feels",
+          "meaning": "느끼다",
+          "note": "주관적인 감정이나 상태를 표현"
+        },
+        {
+          "word": "missing",
+          "meaning": "부족한",
+          "note": "무엇인가가 결핍되어 있다는 의미"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "Once a master said to his disciples: If you utter a word - thirty blows of my stick for you.",
+      "korean": "한 번은 스승이 제자들에게 말했다: 네가 한 마디라도 한다면, 내 지팡이로 서른 번 때리겠다.",
+      "explanation": "스승이 제자들에게 말하길, 말을 하면 엄격한 처벌을 받게 될 것이라는 경고를 전달하고 있다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-359/13.mp3",
+      "vocabulary": [
+        {
+          "word": "master",
+          "meaning": "스승, 선생",
+          "note": "지도자나 지식을 전수하는 사람을 의미한다."
+        },
+        {
+          "word": "disciples",
+          "meaning": "제자들",
+          "note": "스승의 가르침을 받는 사람들, 종종 종교적 맥락에서 사용된다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "But if you utter no words just the same, thirty blows of my stick Now - speak, speak!",
+      "korean": "그러나 말을 하지 않더라도, 똑같이 서른 대의 채찍질을 받게 될 것이니, 말하라, 말하라!",
+      "explanation": "주어진 상황에서 침묵조차도 엄격한 처벌을 받게 되는 상황을 강조하며, 말하도록 촉구하는 내용입니다.",
+      "grammar": "동사원형 「speak」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-359/14.mp3",
+      "vocabulary": [
+        {
+          "word": "utter",
+          "meaning": "말하다",
+          "note": "여기서는 어떤 형태로든 말을 하는 행위를 의미합니다."
+        },
+        {
+          "word": "words",
+          "meaning": "말",
+          "note": "말하는 내용이나 언어 자체를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "One disciple came forward and when he was about to bow before the master he was struck.",
+      "korean": "한 제자가 앞으로 나섰고, 스승 앞에 절하려 할 때 맞았습니다.",
+      "explanation": "제자가 스승 앞으로 나서는 순간에 갑작스럽게 처벌을 받았다는 내용입니다.",
+      "grammar": "동사 「came」는 come의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-359/15.mp3",
+      "vocabulary": [
+        {
+          "word": "disciple",
+          "meaning": "제자",
+          "note": "스승의 가르침을 받는 학생이나 추종자"
+        },
+        {
+          "word": "forward",
+          "meaning": "앞으로 나섰다",
+          "note": "앞으로 나아가 행동을 취한 상태"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "The disciple protested: I have not uttered a single word nor did you allow me not to utter.",
+      "korean": "제자는 항의했다: 나는 한마디도 하지 않았고, 당신은 나에게 한마디도 하지 못하게 하지 않았다.",
+      "explanation": "제자가 스승 앞에서 항의하는 내용을 전달한다. 자신이 말하지 않았음에도 불구하고 스승이 말하지 못하게 했다는 주장을 한다.",
+      "grammar": "「have not uttered」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1971-359/16.mp3",
+      "vocabulary": [
+        {
+          "word": "disciple",
+          "meaning": "제자",
+          "note": "스승의 가르침을 받는 사람을 의미한다."
+        },
+        {
+          "word": "protested",
+          "meaning": "항의했다",
+          "note": "자신의 입장이나 주장을 강하게 주장하며 반대 의사를 표현하는 것을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 17,
+      "english": "Why the striking?",
+      "korean": "왜 항의하는 거야?",
+      "explanation": "왜 누군가가 항의하거나 불만을 표출하는지 묻는 문장입니다.",
+      "grammar": "명사 「striking」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1971-359/17.mp3",
+      "vocabulary": [
+        {
+          "word": "striking",
+          "meaning": "항의하는",
+          "note": "여기서는 누군가의 행동이나 상황에 대한 강한 불만이나 항의를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 18,
+      "english": "The master laughed and said If I wait for you and your speech or your silence, it is too late, and life cannot wait!",
+      "korean": "선생님은 웃으며 말씀하셨다, '네 말이나 네 침묵을 기다리는 것은 늦어버리는 것이니, 삶은 기다릴 수 없다!'",
+      "explanation": "선생님이 웃으면서 미래의 행동이나 반응을 기다리는 것이 무의미하다는 메시지를 전달하고 있다.",
+      "grammar": "동사 「laughed」는 laugh의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-359/18.mp3",
+      "vocabulary": [
+        {
+          "word": "laughed",
+          "meaning": "웃었다",
+          "note": "상황의 긍정적이고 여유로운 분위기를 나타냄"
+        },
+        {
+          "word": "silence",
+          "meaning": "침묵",
+          "note": "반응이나 의사소통의 부재를 의미하며, 여기서는 기다림의 대상으로 언급됨"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "인생은 계속 흐르고 있다. 기다리지 않아요. 그러나 마음은 생각하고 시간을 들이기 때문에 서두르지 않는다. 존재하기 위해서는 시간이 필요하지 않지만 생각하기 위해서는 시간이 필수적이다.",
+    "존재 자체에는 시간이 없다. 마음과 생각 때문에 오직 그렇게 보일 뿐이다. 존재는 시간 속에 있는 것이 아니라 영원 속에 존재한다. 영원한 현재 속에 존재한다.",
+    "과거의 흔적도 미래의 그림자도 없이 오직 현재만이 존재하며, 현재를 현재라 부르는 것조차 의미가 없어진다. 마음으로만 살아가지 마세요, 그렇지 않으면 항상 뒤처질 것입니다. 왜냐하면 삶은 당신을 기다리지 않기 때문입니다. 마음은 항상 뭔가가 부족하다고 느끼는데, 왜냐하면 삶 자체가 빠져 있기 때문이야 - 그리고 항상 그래!",
+    "한 번은 스승이 제자들에게 말했다: 네가 한 마디라도 한다면, 내 지팡이로 서른 번 때리겠다. 그러나 말을 하지 않더라도, 똑같이 서른 대의 채찍질을 받게 될 것이니, 말하라, 말하라! 한 제자가 앞으로 나섰고, 스승 앞에 절하려 할 때 맞았습니다. 제자는 항의했다: 나는 한마디도 하지 않았고, 당신은 나에게 한마디도 하지 못하게 하지 않았다. 왜 항의하는 거야?",
+    "선생님은 웃으며 말씀하셨다, '네 말이나 네 침묵을 기다리는 것은 늦어버리는 것이니, 삶은 기다릴 수 없다!'"
+  ],
+  "fullAudio": "audio/1971-359/script_all.mp3",
+  "originalText": "Love.\n\nLife goes on flowing.\nIt does not wait.\nBut mind thinks and therefore takes time.\nTo exist, no time is needed,\nbut to think - time is necessary\n\nReally there is no time in existence.\nThere appears to be only\nbecause of the mind and its thinking.\nExistence exists not in time but in eternity.\nIt exists in the eternal now.\n\nThere is neither past nor future\nbut only the present -\nor not even that -\nbecause without the past and future\nit is meaningless to call it present.\nDo not live out of the mind,\notherwise you will always lag behind,\nbecause life never waits for you and your so-called mind.\nThat is why the mind always feels\nas if something is missing -\nbecause it is missing life itself - and always!\n\nOnce a master said to his disciples:\nIf you utter a word - thirty blows of my stick for you.\nBut if you utter no words\njust the same, thirty blows of my stick\nNow - speak, speak!\nOne disciple came forward\nand when he was about to bow\nbefore the master he was struck.\nThe disciple protested: I have not uttered a single word\nnor did you allow me not to utter.\nWhy the striking?\n\nThe master laughed and said\nIf I wait for you and your speech or your silence,\nit is too late, and life cannot wait!",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 359,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0915 2.JPG",
+        "side": "left",
+        "printedPage": 280
+      },
+      {
+        "file": "IMG_0915 2.JPG",
+        "side": "right",
+        "printedPage": 281
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

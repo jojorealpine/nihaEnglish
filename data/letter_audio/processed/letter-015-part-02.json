@@ -1,0 +1,65 @@
+{
+  "key": "letter-015-part-02",
+  "number": 15,
+  "generationId": "01a1e4e9-a2c3-7835-aa11-89c6ed73bf2c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "It could be that the time is at hand",
+      "path": "audio/1964-15/11.mp3",
+      "start": 0.0,
+      "end": 1.9391379999999998
+    },
+    {
+      "index": 11,
+      "text": "God-realization cannot happen without meditation so you must turn towards this now with courage and perseverance.",
+      "path": "audio/1964-15/12.mp3",
+      "start": 3.2022,
+      "end": 10.386825
+    },
+    {
+      "index": 12,
+      "text": "I have great hopes - will you fulfill them?",
+      "path": "audio/1964-15/13.mp3",
+      "start": 11.631315,
+      "end": 14.792698
+    },
+    {
+      "index": 13,
+      "text": "My regards to other friends there.",
+      "path": "audio/1964-15/14.mp3",
+      "start": 16.079477999999998,
+      "end": 18.036871
+    },
+    {
+      "index": 14,
+      "text": "I wait for your letter.",
+      "path": "audio/1964-15/15.mp3",
+      "start": 19.376372,
+      "end": 20.663107
+    },
+    {
+      "index": 15,
+      "text": "Remember what I said about the blank paper?",
+      "path": "audio/1964-15/16.mp3",
+      "start": 22.117347,
+      "end": 24.619116
+    },
+    {
+      "index": 16,
+      "text": "Everything else is fine.",
+      "path": "audio/1964-15/17.mp3",
+      "start": 26.15356,
+      "end": 27.984626000000002
+    },
+    {
+      "index": 17,
+      "text": "I am in bliss.",
+      "path": "audio/1964-15/18.mp3",
+      "start": 29.401882,
+      "end": 31.01
+    }
+  ]
+}

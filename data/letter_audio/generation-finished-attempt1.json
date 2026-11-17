@@ -1,0 +1,19 @@
+{
+  "status": "stopped",
+  "generatedParts": 88,
+  "totalParts": 544,
+  "newCompletedParts": 2,
+  "issues": [
+    {
+      "key": "letter-058-part-01",
+      "generationId": "01a1e5b2-7fb7-7643-ac6d-47d71432ac31",
+      "response": {
+        "status": "completed",
+        "generationId": "01a1e5b2-7fb7-7643-ac6d-47d71432ac31",
+        "feature": "text-to-speech",
+        "generationType": "generatedVoiceOver",
+        "price": 180
+      }
+    }
+  ]
+}

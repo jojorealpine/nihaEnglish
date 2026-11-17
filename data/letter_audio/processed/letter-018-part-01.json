@@ -1,0 +1,79 @@
+{
+  "key": "letter-018-part-01",
+  "number": 18,
+  "generationId": "01a1e4ea-2ae6-7e1a-9766-aa33c8f3eb4c",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love,",
+      "path": "audio/1964-18/01.mp3",
+      "start": 0.0,
+      "end": 0.638141
+    },
+    {
+      "index": 1,
+      "text": "so much love.",
+      "path": "audio/1964-18/02.mp3",
+      "start": 1.789819,
+      "end": 2.902925
+    },
+    {
+      "index": 2,
+      "text": "I received your letter when I got back I could feel the ardor of your heart through your words.",
+      "path": "audio/1964-18/03.mp3",
+      "start": 4.293401,
+      "end": 9.181292999999998
+    },
+    {
+      "index": 3,
+      "text": "I well know the fervor that stirs your soul and the thirst that turns into tears within you.",
+      "path": "audio/1964-18/04.mp3",
+      "start": 10.42576,
+      "end": 15.787799999999999
+    },
+    {
+      "index": 4,
+      "text": "I was once there too, I too have suffered it.",
+      "path": "audio/1964-18/05.mp3",
+      "start": 17.068638999999997,
+      "end": 20.799002
+    },
+    {
+      "index": 5,
+      "text": "I can well understand your heart because I have traveled those same paths you now have to take in the quest for God.",
+      "path": "audio/1964-18/06.mp3",
+      "start": 22.143175,
+      "end": 29.131519
+    },
+    {
+      "index": 6,
+      "text": "I too have experienced the longing that one day turns into a raging fire in which one has to consume oneself.",
+      "path": "audio/1964-18/07.mp3",
+      "start": 30.58737,
+      "end": 38.238299
+    },
+    {
+      "index": 7,
+      "text": "But this burning brings the birth of a new life.",
+      "path": "audio/1964-18/08.mp3",
+      "start": 39.755873,
+      "end": 42.631043
+    },
+    {
+      "index": 8,
+      "text": "The drop can only become the ocean when it ceases to exist.",
+      "path": "audio/1964-18/09.mp3",
+      "start": 44.120816000000005,
+      "end": 48.297619
+    },
+    {
+      "index": 9,
+      "text": "Continue your efforts in meditation; you have to go deeper and deeper into it - it is the only way.",
+      "path": "audio/1964-18/10.mp3",
+      "start": 49.875782,
+      "end": 58.12
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "key": "letter-033-part-02",
+  "number": 33,
+  "generationId": "01a1e4ec-39d9-7714-8e1f-cd2efbe15371",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "This is its mystery, and its purity.",
+      "path": "audio/1965-33/11.mp3",
+      "start": 0.0,
+      "end": 2.171361
+    },
+    {
+      "index": 11,
+      "text": "Love is divine",
+      "path": "audio/1965-33/12.mp3",
+      "start": 3.28458,
+      "end": 4.729977
+    },
+    {
+      "index": 12,
+      "text": "and belongs to the kingdom of God because it is uncaused.",
+      "path": "audio/1965-33/13.mp3",
+      "start": 5.840408,
+      "end": 9.110316999999998
+    },
+    {
+      "index": 13,
+      "text": "As for me I am filled with love as a lamp is filled with light.",
+      "path": "audio/1965-33/14.mp3",
+      "start": 10.28898,
+      "end": 14.052608
+    },
+    {
+      "index": 14,
+      "text": "To see this light one needs eyes.",
+      "path": "audio/1965-33/15.mp3",
+      "start": 15.240839000000001,
+      "end": 17.179841
+    },
+    {
+      "index": 15,
+      "text": "You have those eyes so you saw the light.",
+      "path": "audio/1965-33/16.mp3",
+      "start": 18.346076999999998,
+      "end": 20.316848
+    },
+    {
+      "index": 16,
+      "text": "The credit is yours, not mine.",
+      "path": "audio/1965-33/17.mp3",
+      "start": 21.52805,
+      "end": 23.72
+    }
+  ]
+}

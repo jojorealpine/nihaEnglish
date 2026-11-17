@@ -1,0 +1,51 @@
+{
+  "key": "letter-355-part-01",
+  "number": 355,
+  "generationId": "01a1e917-4793-7bd1-8629-a3148f5f809b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-355/01.mp3",
+      "start": 0.0,
+      "end": 0.697234
+    },
+    {
+      "index": 1,
+      "text": "Materialistic societies produce hollow men, men with dead emptiness within, and because of this dead emptiness one dies before one is really born.",
+      "path": "audio/1971-355/02.mp3",
+      "start": 2.102766,
+      "end": 11.82542
+    },
+    {
+      "index": 2,
+      "text": "Remember that man cannot live by shops alone, and today the holy of holies is the shop.",
+      "path": "audio/1971-355/03.mp3",
+      "start": 13.177914000000001,
+      "end": 19.526893
+    },
+    {
+      "index": 3,
+      "text": "The outer is meaningless without the inner richness, and the outer richness only makes the inner poverty prominent.",
+      "path": "audio/1971-355/04.mp3",
+      "start": 20.914376,
+      "end": 28.594036000000003
+    },
+    {
+      "index": 4,
+      "text": "Man is hollow because there is no inner growth and the inner grows only when one lives in the inner.",
+      "path": "audio/1971-355/05.mp3",
+      "start": 29.918412999999997,
+      "end": 36.154602999999994
+    },
+    {
+      "index": 5,
+      "text": "Inward is the way of growth, grace and God.",
+      "path": "audio/1971-355/06.mp3",
+      "start": 37.522744,
+      "end": 41.74
+    }
+  ]
+}

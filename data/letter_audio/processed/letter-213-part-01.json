@@ -1,0 +1,79 @@
+{
+  "key": "letter-213-part-01",
+  "number": 213,
+  "generationId": "01a1e8f0-fa7e-7920-ad90-bd4d3503261b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-213/01.mp3",
+      "start": 0.0,
+      "end": 0.554467
+    },
+    {
+      "index": 1,
+      "text": "The secret of meditation is the art of unlearning.",
+      "path": "audio/1971-213/02.mp3",
+      "start": 1.5798869999999998,
+      "end": 4.474308
+    },
+    {
+      "index": 2,
+      "text": "Mind is learning; meditation is unlearning.",
+      "path": "audio/1971-213/03.mp3",
+      "start": 5.63356,
+      "end": 8.844171999999999
+    },
+    {
+      "index": 3,
+      "text": "That is - die constantly to your experience.",
+      "path": "audio/1971-213/04.mp3",
+      "start": 9.915782,
+      "end": 12.991178999999999
+    },
+    {
+      "index": 4,
+      "text": "Don't let it imprison you.",
+      "path": "audio/1971-213/05.mp3",
+      "start": 14.038118,
+      "end": 15.373536999999999
+    },
+    {
+      "index": 5,
+      "text": "Experience becomes a dead weight in the living and flowing, riverlike consciousness.",
+      "path": "audio/1971-213/06.mp3",
+      "start": 16.371406,
+      "end": 21.417778000000002
+    },
+    {
+      "index": 6,
+      "text": "Live in the moment unburdened of the past, flow in the moment unblocked by the mind, and you will be in meditation.",
+      "path": "audio/1971-213/07.mp3",
+      "start": 22.785714,
+      "end": 30.581837
+    },
+    {
+      "index": 7,
+      "text": "Know well that it is innocence that is full and experience that is empty - although the surface appearance is quite the contrary.",
+      "path": "audio/1971-213/08.mp3",
+      "start": 32.021497000000004,
+      "end": 40.5939
+    },
+    {
+      "index": 8,
+      "text": "It is innocence that knows and experience that knows not - though innocence never claims and experience is nothing but claims and claims and claims!",
+      "path": "audio/1971-213/09.mp3",
+      "start": 42.048753000000005,
+      "end": 52.683899999999994
+    },
+    {
+      "index": 9,
+      "text": "And that is why I say: innocence is meditation because it opens the doors of the unknown.",
+      "path": "audio/1971-213/10.mp3",
+      "start": 54.053787,
+      "end": 60.84
+    }
+  ]
+}

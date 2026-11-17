@@ -1,0 +1,65 @@
+{
+  "key": "letter-281-part-01",
+  "number": 281,
+  "generationId": "01a1e901-464e-7a6c-a32e-64824f502863",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-281/01.mp3",
+      "start": 0.0,
+      "end": 0.875238
+    },
+    {
+      "index": 1,
+      "text": "Man is not a rational animal, but only a rationalizing one; and that is more dangerous than just being irrational.",
+      "path": "audio/1971-281/02.mp3",
+      "start": 2.286304,
+      "end": 9.855011
+    },
+    {
+      "index": 2,
+      "text": "Give me a shot of bourbon and a shot of water - said the obviously heavy drinker to the bartender.",
+      "path": "audio/1971-281/03.mp3",
+      "start": 11.633560000000001,
+      "end": 17.310204000000002
+    },
+    {
+      "index": 3,
+      "text": "When the order was placed before him on the bar the lush pulled a worm from his pocket and dropped it into the glass of water.",
+      "path": "audio/1971-281/04.mp3",
+      "start": 18.794694,
+      "end": 26.078662
+    },
+    {
+      "index": 4,
+      "text": "After watching it swim around for a few seconds the man drew the worm from the water and dropped it into the whisky.",
+      "path": "audio/1971-281/05.mp3",
+      "start": 27.590363,
+      "end": 33.351655
+    },
+    {
+      "index": 5,
+      "text": "It wriggled briefly, then curled up and died.",
+      "path": "audio/1971-281/06.mp3",
+      "start": 34.825238000000006,
+      "end": 38.169205999999996
+    },
+    {
+      "index": 6,
+      "text": "You see that? said the lush to the bartender.",
+      "path": "audio/1971-281/07.mp3",
+      "start": 39.827075,
+      "end": 42.808617
+    },
+    {
+      "index": 7,
+      "text": "It proves that if you keep on drinking whisky you will never have worms.",
+      "path": "audio/1971-281/08.mp3",
+      "start": 44.305805,
+      "end": 49.21
+    }
+  ]
+}

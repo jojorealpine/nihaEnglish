@@ -1,0 +1,489 @@
+{
+  "id": "1969-55",
+  "title": "1969 / 55",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ugliness",
+      "meaning": "추함",
+      "note": "문장에서 부정적인 개념으로 사용되지만, 화자의 포용적인 관점을 보여준다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "whatsoever",
+      "meaning": "무엇이든",
+      "note": "모든 것을 포괄적으로 지칭하며, 화자의 광범위한 포용성을 나타낸다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "virtue",
+      "meaning": "선",
+      "note": "좋은 품성, 도덕적 훌륭함을 의미한다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "partner",
+      "meaning": "동반자",
+      "note": "상호작용이나 관계 속에서 함께하는 존재를 가리킨다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "easy",
+      "meaning": "쉬운",
+      "note": "이 단어는 어떤 과정이나 상태가 복잡하거나 어려움 없이 이루어질 수 있음을 나타냅니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "heir",
+      "meaning": "후계자, 후예",
+      "note": "특정 인물이나 전통의 유산을 이어받는 사람을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Genghis",
+      "meaning": "칭기즈 (Genghis Khan)",
+      "note": "몽골 제국의 창시자로 알려진 역사적 인물",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Taimur",
+      "meaning": "타미르 (Timur)",
+      "note": "티무르 제국의 창시자로 알려진 중앙아시아의 정복자",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "They",
+      "meaning": "그것들",
+      "note": "문장에서 언급된 특정 인물이나 개념들을 지칭합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "within",
+      "meaning": "안에",
+      "note": "자신의 내면이나 마음 속에 존재한다는 의미를 나타냅니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "half",
+      "meaning": "절반",
+      "note": "전체의 일부를 나타내며, 여기서는 강조의 대조를 위해 사용됩니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "mankind",
+      "meaning": "인류",
+      "note": "전체 인간 집단을 의미하며, 화자가 자신을 보편적이고 포괄적인 존재로 표현하고 있습니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "flowers",
+      "meaning": "꽃",
+      "note": "자연의 아름다움과 생명력을 상징합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "darkness",
+      "meaning": "어둠",
+      "note": "위험이나 무지를 상징하며, 대조적으로 빛과 대비됩니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "poison",
+      "meaning": "독",
+      "note": "문장에서 대조적 개념으로 사용되어, 긍정적인 요소(꿀)와 부정적인 요소(독)를 대비시킨다.",
+      "sentenceIds": [
+        9,
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Nectar",
+      "meaning": "꿀",
+      "note": "달콤하고 순수한 것을 상징하며, 여기서는 긍정적인 힘이나 이익을 나타냅니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "experiences",
+      "meaning": "경험",
+      "note": "여기서는 깊고 영적인 차원의 경험을 의미한다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "revolutionize",
+      "meaning": "혁신하다",
+      "note": "삶의 방식이나 상태에 근본적인 변화를 가져오는 것을 의미한다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1969-55/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "I am one with all things - in beauty, in ugliness, for whatsoever is, there I am.",
+      "korean": "나는 아름다움과 추함, 존재하는 모든 것과 하나이다 - 아름다움 속에서도, 추함 속에서도, 존재하는 모든 것에 대해 그러하다.",
+      "explanation": "문장은 화자가 모든 존재와 하나됨을 강조하며, 아름다움과 추함을 포함한 모든 것에 대한 포용적인 태도를 표현한다.",
+      "grammar": "「am」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-55/02.mp3",
+      "vocabulary": [
+        {
+          "word": "ugliness",
+          "meaning": "추함",
+          "note": "문장에서 부정적인 개념으로 사용되지만, 화자의 포용적인 관점을 보여준다."
+        },
+        {
+          "word": "whatsoever",
+          "meaning": "무엇이든",
+          "note": "모든 것을 포괄적으로 지칭하며, 화자의 광범위한 포용성을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Not only in virtue but in sin too I am a partner; and not only heaven but hell too is mine.",
+      "korean": "선과 악 모두 내 동반자요; 천국과 지옥 또한 내 것이라네.",
+      "explanation": "문장은 신이나 초월적 존재가 선과 악, 그리고 천국과 지옥과도 깊은 연관성이 있음을 강조한다.",
+      "grammar": "「am」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-55/03.mp3",
+      "vocabulary": [
+        {
+          "word": "virtue",
+          "meaning": "선",
+          "note": "좋은 품성, 도덕적 훌륭함을 의미한다."
+        },
+        {
+          "word": "partner",
+          "meaning": "동반자",
+          "note": "상호작용이나 관계 속에서 함께하는 존재를 가리킨다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Buddha, Jesus, Lao Tzu - it is easy to be their heir.",
+      "korean": "부처, 예수, 노자의 후예가 되는 것은 쉽다.",
+      "explanation": "부처, 예수, 노자와 같은 중요한 인물들의 유산이나 전통을 이어받는 것이 얼마나 쉬운지를 강조하는 문장입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-55/04.mp3",
+      "vocabulary": [
+        {
+          "word": "easy",
+          "meaning": "쉬운",
+          "note": "이 단어는 어떤 과정이나 상태가 복잡하거나 어려움 없이 이루어질 수 있음을 나타냅니다."
+        },
+        {
+          "word": "heir",
+          "meaning": "후계자, 후예",
+          "note": "특정 인물이나 전통의 유산을 이어받는 사람을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "But Genghis, Taimur and Hitler?",
+      "korean": "그러나 칭기즈, 타미르, 히틀러는 다른가?",
+      "explanation": "비교를 통해 역사적 인물들 간의 차이를 강조하는 문장",
+      "grammar": "명사 「Genghis」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1969-55/05.mp3",
+      "vocabulary": [
+        {
+          "word": "Genghis",
+          "meaning": "칭기즈 (Genghis Khan)",
+          "note": "몽골 제국의 창시자로 알려진 역사적 인물"
+        },
+        {
+          "word": "Taimur",
+          "meaning": "타미르 (Timur)",
+          "note": "티무르 제국의 창시자로 알려진 중앙아시아의 정복자"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "They are also within me!",
+      "korean": "그것들은 내 안에도 있어요!",
+      "explanation": "문장은 자신의 내면에 역사적 인물들(Genghis, Taimur, Hitler)의 영향력이나 특성이 존재한다는 의미를 전달합니다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-55/06.mp3",
+      "vocabulary": [
+        {
+          "word": "They",
+          "meaning": "그것들",
+          "note": "문장에서 언급된 특정 인물이나 개념들을 지칭합니다."
+        },
+        {
+          "word": "within",
+          "meaning": "안에",
+          "note": "자신의 내면이나 마음 속에 존재한다는 의미를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "No, not half - I am the whole of mankind!",
+      "korean": "아니요, 절반이 아니라요 - 저는 인류 전체예요!",
+      "explanation": "문장은 화자가 자신을 인류 전체와 동일시하며, 어떤 개념이나 상태가 단지 일부가 아니라 전체를 나타낸다고 강조하고 있습니다.",
+      "grammar": "「am」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-55/07.mp3",
+      "vocabulary": [
+        {
+          "word": "half",
+          "meaning": "절반",
+          "note": "전체의 일부를 나타내며, 여기서는 강조의 대조를 위해 사용됩니다."
+        },
+        {
+          "word": "mankind",
+          "meaning": "인류",
+          "note": "전체 인간 집단을 의미하며, 화자가 자신을 보편적이고 포괄적인 존재로 표현하고 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "Whatsoever is man's is mine - flowers and thorns, darkness as well as light.",
+      "korean": "사람의 모든 것은 나의 것이니라 - 꽃과 가시, 어둠과 빛 모두를 포함하여.",
+      "explanation": "사람이 소유한 모든 것이 신(또는 특정 존재)에게 속한다는 의미를 전달합니다. 자연의 양면성, 즉 아름다움과 위협, 빛과 어둠을 모두 포함하여 그 소유권을 주장합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-55/08.mp3",
+      "vocabulary": [
+        {
+          "word": "flowers",
+          "meaning": "꽃",
+          "note": "자연의 아름다움과 생명력을 상징합니다."
+        },
+        {
+          "word": "darkness",
+          "meaning": "어둠",
+          "note": "위험이나 무지를 상징하며, 대조적으로 빛과 대비됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "And if nectar is mine, whose is poison?",
+      "korean": "만약 꿀이 내 것이라면, 독은 누구의 것인가?",
+      "explanation": "만약 누군가의 소유물 중 꿀이 자신의 것이라면, 그 논리에 따르면 반대 개념인 독 또한 동일한 논리로 자신의 것이 되어야 한다는 질문을 던진다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-55/09.mp3",
+      "vocabulary": [
+        {
+          "word": "poison",
+          "meaning": "독",
+          "note": "문장에서 대조적 개념으로 사용되어, 긍정적인 요소(꿀)와 부정적인 요소(독)를 대비시킨다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "Nectar and poison - both are mine.",
+      "korean": "꿀과 독이 모두 내 것이라면, 누가 독을 가질 수 있을까?",
+      "explanation": "문장은 소유권을 통해 대조를 이루며, 꿀과 독이 모두 자신에게 속한다는 주장을 통해 질문을 던집니다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1969-55/10.mp3",
+      "vocabulary": [
+        {
+          "word": "Nectar",
+          "meaning": "꿀",
+          "note": "달콤하고 순수한 것을 상징하며, 여기서는 긍정적인 힘이나 이익을 나타냅니다."
+        },
+        {
+          "word": "poison",
+          "meaning": "독",
+          "note": "부정적인 영향이나 위험을 상징하며, 대조적으로 사용되어 긍정적인 것과 대비됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "Whoever experiences this I call religious, for only the anguish of such experience can revolutionize life on earth.",
+      "korean": "이런 경험을 하는 사람을 나는 종교적이라고 부르는데, 오직 그런 경험의 고통만이 지구상의 삶을 혁신할 수 있기 때문이다.",
+      "explanation": "해당 문장은 특정한 깊은 경험의 고통이 개인의 삶에 근본적인 변화를 가져올 수 있다는 신념을 표현하고 있다.",
+      "grammar": "동사 「call」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1969-55/11.mp3",
+      "vocabulary": [
+        {
+          "word": "experiences",
+          "meaning": "경험",
+          "note": "여기서는 깊고 영적인 차원의 경험을 의미한다."
+        },
+        {
+          "word": "revolutionize",
+          "meaning": "혁신하다",
+          "note": "삶의 방식이나 상태에 근본적인 변화를 가져오는 것을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "나는 아름다움과 추함, 존재하는 모든 것과 하나이다 - 아름다움 속에서도, 추함 속에서도, 존재하는 모든 것에 대해 그러하다. 선과 악 모두 내 동반자요; 천국과 지옥 또한 내 것이라네. 부처, 예수, 노자의 후예가 되는 것은 쉽다. 그러나 칭기즈, 타미르, 히틀러는 다른가? 그것들은 내 안에도 있어요! 아니요, 절반이 아니라요 - 저는 인류 전체예요! 사람의 모든 것은 나의 것이니라 - 꽃과 가시, 어둠과 빛 모두를 포함하여. 만약 꿀이 내 것이라면, 독은 누구의 것인가? 꿀과 독이 모두 내 것이라면, 누가 독을 가질 수 있을까? 이런 경험을 하는 사람을 나는 종교적이라고 부르는데, 오직 그런 경험의 고통만이 지구상의 삶을 혁신할 수 있기 때문이다."
+  ],
+  "fullAudio": "audio/1969-55/script_all.mp3",
+  "originalText": "Love.\n\nI am one with all things -\nin beauty, in ugliness,\nfor whatsoever is, there I am.\nNot only in virtue\nbut in sin too I am a partner;\nand not only heaven but hell too is mine.\nBuddha, Jesus, Lao Tzu -\nit is easy to be their heir.\nBut Genghis, Taimur and Hitler?\nThey are also within me!\nNo, not half - I am the whole of mankind!\nWhatsoever is man's is mine -\nflowers and thorns,\ndarkness as well as light.\nAnd if nectar is mine, whose is poison?\nNectar and poison - both are mine.\nWhoever experiences this I call religious,\nfor only the anguish of such experience\ncan revolutionize life on earth.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 55,
+    "year": 1969,
+    "pages": [
+      {
+        "file": "IMG_0800 2.JPG",
+        "side": "left",
+        "printedPage": 50
+      },
+      {
+        "file": "IMG_0800 2.JPG",
+        "side": "right",
+        "printedPage": 51
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "audioVoice": "Views",
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  }
+}

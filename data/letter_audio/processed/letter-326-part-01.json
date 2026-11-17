@@ -1,0 +1,58 @@
+{
+  "key": "letter-326-part-01",
+  "number": 326,
+  "generationId": "01a1e90f-3df5-795c-bd0a-aae7282c4a53",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-326/01.mp3",
+      "start": 0.0,
+      "end": 0.629206
+    },
+    {
+      "index": 1,
+      "text": "We settle down where no settling is possible.",
+      "path": "audio/1971-326/02.mp3",
+      "start": 1.860363,
+      "end": 4.335238
+    },
+    {
+      "index": 2,
+      "text": "We make homes whilst homelessness is the very nature of our consciousness.",
+      "path": "audio/1971-326/03.mp3",
+      "start": 5.5472339999999996,
+      "end": 9.691156
+    },
+    {
+      "index": 3,
+      "text": "We go on doing things which are impossible and then suffer!",
+      "path": "audio/1971-326/04.mp3",
+      "start": 10.980499,
+      "end": 14.367505999999999
+    },
+    {
+      "index": 4,
+      "text": "But no one else is responsible.",
+      "path": "audio/1971-326/05.mp3",
+      "start": 15.669569000000001,
+      "end": 17.581859
+    },
+    {
+      "index": 5,
+      "text": "We fight with the void and are then defeated - not because the void is stronger than us but because it is not.",
+      "path": "audio/1971-326/06.mp3",
+      "start": 18.777347,
+      "end": 25.135147
+    },
+    {
+      "index": 6,
+      "text": "Now stand up and fight with the empty space of the room so that you can know and taste the whole stupidity of the human mind And then sit down and laugh at yourself, and as the laughter dies down be silent and search within, and then you will come to know a deep mystery: the mystery that the void is not only without but within also!",
+      "path": "audio/1971-326/07.mp3",
+      "start": 26.815351,
+      "end": 50.39
+    }
+  ]
+}

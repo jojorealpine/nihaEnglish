@@ -1,0 +1,58 @@
+{
+  "key": "letter-290-part-01",
+  "number": 290,
+  "generationId": "01a1e903-73cf-7346-8745-62afaa47922d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-290/01.mp3",
+      "start": 0.0,
+      "end": 0.70059
+    },
+    {
+      "index": 1,
+      "text": "We kneel down to ourselves because we kneel down to the gods we make out of our experience, or out of our desires and dreams, or out of our so-called logic and foolish arguments.",
+      "path": "audio/1971-290/02.mp3",
+      "start": 2.2119269999999998,
+      "end": 13.841973
+    },
+    {
+      "index": 2,
+      "text": "This is neither humility nor prayer, rather, on the contrary, this is the most egoistic attitude possible.",
+      "path": "audio/1971-290/03.mp3",
+      "start": 15.390590000000001,
+      "end": 23.032222
+    },
+    {
+      "index": 3,
+      "text": "The truly religious mind is one which just kneels down - not to anyone, not to any image in particular.",
+      "path": "audio/1971-290/04.mp3",
+      "start": 24.266009,
+      "end": 31.162744
+    },
+    {
+      "index": 4,
+      "text": "This kneeling down is nothing but a flowering of one's total nothingness.",
+      "path": "audio/1971-290/05.mp3",
+      "start": 32.330295,
+      "end": 36.826212999999996
+    },
+    {
+      "index": 5,
+      "text": "Then this kneeling down becomes an inner way of life, and unless prayer is such, prayer is not.",
+      "path": "audio/1971-290/06.mp3",
+      "start": 38.109229,
+      "end": 44.743604999999995
+    },
+    {
+      "index": 6,
+      "text": "One cannot pray, one can only be prayerful.",
+      "path": "audio/1971-290/07.mp3",
+      "start": 46.216893000000006,
+      "end": 50.7
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "id": "1971-315",
+  "title": "1971 / 315",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "duality",
+      "meaning": "이중성",
+      "note": "두 가지 요소나 상태가 공존하거나 상호작용하는 상태를 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meditation",
+      "meaning": "삼매",
+      "note": "마음을 집중시키고 내면의 평화와 통일성을 추구하는 상태를 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "they",
+      "meaning": "그들은 / 그것들은",
+      "note": "이 문맥에서는 「그들은 / 그것들은」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Sword",
+      "meaning": "검",
+      "note": "여기서는 상징적인 의미로 사용되어, 통합과 명료함을 상징할 수 있습니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "monastery",
+      "meaning": "사찰",
+      "note": "종교적 수행을 위한 장소로, 이 문맥에서는 선 수행을 위한 장소를 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "oncoming",
+      "meaning": "다가오는",
+      "note": "즉시 도착할 것으로 예상되는 군대를 가리킵니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "parting",
+      "meaning": "갈림길",
+      "note": "인생과 죽음 사이의 중요한 선택이나 전환점을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "answered",
+      "meaning": "대답하다",
+      "note": "장로가 질문에 대한 직접적인 답변을 제공한 것을 나타냅니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "serenely",
+      "meaning": "평온하게",
+      "note": "상태나 태도가 평온하고 차분함을 강조합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "cut off your dualism",
+      "meaning": "이분법을 끊어라",
+      "explanation": "두 가지 대립되는 관점이나 가치 사이의 갈등을 해소하라는 의미입니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "stand serenely by itself against the sky",
+      "meaning": "하늘 아래 홀로 조용히 서 있으라",
+      "explanation": "독립적이고 평온한 상태를 유지하라는 비유적인 표현입니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-315/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Mind means duality and meditation, oneness.",
+      "korean": "마음은 이중성과 삼매를 의미하며, 하나됨을 나타냅니다.",
+      "explanation": "마음의 상태나 개념이 이중성(두 가지 요소나 상태의 공존)과 삼매(집중과 통일된 상태) 사이에서 존재하며, 궁극적으로는 하나됨(통일성)을 추구한다는 의미입니다.",
+      "grammar": "동사 「means」는 mean의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-315/02.mp3",
+      "vocabulary": [
+        {
+          "word": "duality",
+          "meaning": "이중성",
+          "note": "두 가지 요소나 상태가 공존하거나 상호작용하는 상태를 의미합니다."
+        },
+        {
+          "word": "meditation",
+          "meaning": "삼매",
+          "note": "마음을 집중시키고 내면의 평화와 통일성을 추구하는 상태를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "In Zen they call it - The One Sword.",
+      "korean": "선에서는 이것을 '하나의 검'이라고 부릅니다.",
+      "explanation": "선 불교에서 특정 개념이나 수행 방법을 간결하게 지칭하는 표현입니다.",
+      "grammar": "동사 「call」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1971-315/03.mp3",
+      "vocabulary": [
+        {
+          "word": "they",
+          "meaning": "그들은 / 그것들은",
+          "note": "이 문맥에서는 「그들은 / 그것들은」의 뜻으로 읽습니다."
+        },
+        {
+          "word": "Sword",
+          "meaning": "검",
+          "note": "여기서는 상징적인 의미로 사용되어, 통합과 명료함을 상징할 수 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Kusunoki Masashige came to a Zen monastery when he was about to meet the oncoming army of Ashikaga Takanji, and asked the master: When a man is at the parting of the ways between life and death, how should he behave?",
+      "korean": "쿠스노키 마사셰이가 아시카가 타카나리 군대를 맞이하기 직전에 선 사찰에 도착하여 스승에게 물었다: 인생과 죽음 사이의 갈림길에 서 있을 때 어떻게 행동해야 하는가?",
+      "explanation": "쿠스노키 마사셰이가 위기 상황에서 정신적 지침을 찾기 위해 선 사찰을 방문하고 스승에게 인생과 죽음 사이의 중요한 선택에 대한 조언을 구한 상황을 설명합니다.",
+      "grammar": "동사 「came」는 come의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-315/04.mp3",
+      "vocabulary": [
+        {
+          "word": "monastery",
+          "meaning": "사찰",
+          "note": "종교적 수행을 위한 장소로, 이 문맥에서는 선 수행을 위한 장소를 의미합니다."
+        },
+        {
+          "word": "oncoming",
+          "meaning": "다가오는",
+          "note": "즉시 도착할 것으로 예상되는 군대를 가리킵니다."
+        },
+        {
+          "word": "parting",
+          "meaning": "갈림길",
+          "note": "인생과 죽음 사이의 중요한 선택이나 전환점을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "The master answered: Cut off your dualism and let the one sword stand serenely by itself against the sky!",
+      "korean": "장로는 이렇게 대답했습니다: 이분법을 끊고 하늘 아래 홀로 조용히 서 있으라!",
+      "explanation": "장로가 질문에 대한 답변으로 이분법을 극복하고 평온하게 존재하라는 가르침을 전합니다.",
+      "grammar": "동사 「answered」는 answer의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-315/05.mp3",
+      "vocabulary": [
+        {
+          "word": "answered",
+          "meaning": "대답하다",
+          "note": "장로가 질문에 대한 직접적인 답변을 제공한 것을 나타냅니다."
+        },
+        {
+          "word": "serenely",
+          "meaning": "평온하게",
+          "note": "상태나 태도가 평온하고 차분함을 강조합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "cut off your dualism",
+          "meaning": "이분법을 끊어라",
+          "explanation": "두 가지 대립되는 관점이나 가치 사이의 갈등을 해소하라는 의미입니다."
+        },
+        {
+          "expression": "stand serenely by itself against the sky",
+          "meaning": "하늘 아래 홀로 조용히 서 있으라",
+          "explanation": "독립적이고 평온한 상태를 유지하라는 비유적인 표현입니다."
+        }
+      ],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "마음은 이중성과 삼매를 의미하며, 하나됨을 나타냅니다. 선에서는 이것을 '하나의 검'이라고 부릅니다.",
+    "쿠스노키 마사셰이가 아시카가 타카나리 군대를 맞이하기 직전에 선 사찰에 도착하여 스승에게 물었다: 인생과 죽음 사이의 갈림길에 서 있을 때 어떻게 행동해야 하는가? 장로는 이렇게 대답했습니다: 이분법을 끊고 하늘 아래 홀로 조용히 서 있으라!"
+  ],
+  "fullAudio": "audio/1971-315/script_all.mp3",
+  "originalText": "Love.\n\nMind means duality\nand meditation, oneness.\nIn Zen they call it - The One Sword.\n\nKusunoki Masashige came to a Zen monastery\nwhen he was about to meet the oncoming army\nof Ashikaga Takanji, and asked the master:\nWhen a man is at the parting of the ways\nbetween life and death, how should he behave?\nThe master answered: Cut off your dualism\nand let the one sword stand serenely by itself\nagainst the sky!",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 315,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0896 2.JPG",
+        "side": "left",
+        "printedPage": 242
+      },
+      {
+        "file": "IMG_0896 2.JPG",
+        "side": "right",
+        "printedPage": 243
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

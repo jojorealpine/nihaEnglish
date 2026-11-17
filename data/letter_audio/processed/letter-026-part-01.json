@@ -1,0 +1,65 @@
+{
+  "key": "letter-026-part-01",
+  "number": 26,
+  "generationId": "01a1e4eb-3434-7b97-953d-d42f694f6f62",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1965-26/01.mp3",
+      "start": 0.0,
+      "end": 0.585896
+    },
+    {
+      "index": 1,
+      "text": "On my return home from the tour I looked for your letter.",
+      "path": "audio/1965-26/02.mp3",
+      "start": 1.7463950000000001,
+      "end": 4.363039
+    },
+    {
+      "index": 2,
+      "text": "It came together with the grapes so the letter, already sweet, became still sweeter.",
+      "path": "audio/1965-26/03.mp3",
+      "start": 5.568345,
+      "end": 10.019546
+    },
+    {
+      "index": 3,
+      "text": "I am in bliss.",
+      "path": "audio/1965-26/04.mp3",
+      "start": 11.131950000000002,
+      "end": 12.29356
+    },
+    {
+      "index": 4,
+      "text": "Your love enhances it yet more and the love of all makes it infinite.",
+      "path": "audio/1965-26/05.mp3",
+      "start": 13.503537000000001,
+      "end": 17.249297000000002
+    },
+    {
+      "index": 5,
+      "text": "One body - so much bliss!",
+      "path": "audio/1965-26/06.mp3",
+      "start": 18.460566999999998,
+      "end": 21.213084000000002
+    },
+    {
+      "index": 6,
+      "text": "What else can others do but envy he who feels all bodies to be his!",
+      "path": "audio/1965-26/07.mp3",
+      "start": 22.747823,
+      "end": 26.947982
+    },
+    {
+      "index": 7,
+      "text": "May God make you envious of me, may everybody envy me, this is my prayer.",
+      "path": "audio/1965-26/08.mp3",
+      "start": 28.405578,
+      "end": 35.66
+    }
+  ]
+}

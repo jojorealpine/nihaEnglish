@@ -1,0 +1,58 @@
+{
+  "key": "letter-279-part-01",
+  "number": 279,
+  "generationId": "01a1e900-cab6-70d8-a426-ba1d4044e981",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-279/01.mp3",
+      "start": 0.0,
+      "end": 0.54381
+    },
+    {
+      "index": 1,
+      "text": "Meditation is the disciplined opening of the self to God.",
+      "path": "audio/1971-279/02.mp3",
+      "start": 1.744989,
+      "end": 4.643288
+    },
+    {
+      "index": 2,
+      "text": "Because of fear we are closed, and only love can become a door.",
+      "path": "audio/1971-279/03.mp3",
+      "start": 5.83941,
+      "end": 9.676756999999998
+    },
+    {
+      "index": 3,
+      "text": "So love more -",
+      "path": "audio/1971-279/04.mp3",
+      "start": 10.844172,
+      "end": 12.025556
+    },
+    {
+      "index": 4,
+      "text": "or rather be loving, then there is less fear and less tension, and you are more open.",
+      "path": "audio/1971-279/05.mp3",
+      "start": 13.215624,
+      "end": 18.105397
+    },
+    {
+      "index": 5,
+      "text": "This helps meditation as nothing else.",
+      "path": "audio/1971-279/06.mp3",
+      "start": 19.234989,
+      "end": 21.511973
+    },
+    {
+      "index": 6,
+      "text": "Meditation plus love is the path.",
+      "path": "audio/1971-279/07.mp3",
+      "start": 22.956236,
+      "end": 25.81
+    }
+  ]
+}

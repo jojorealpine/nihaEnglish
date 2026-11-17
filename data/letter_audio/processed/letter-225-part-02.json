@@ -1,0 +1,23 @@
+{
+  "key": "letter-225-part-02",
+  "number": 225,
+  "generationId": "01a1e8f4-490e-751f-bec5-56f73db21103",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Then open your eyes and see.",
+      "path": "audio/1971-225/11.mp3",
+      "start": 0.0,
+      "end": 1.7585030000000001
+    },
+    {
+      "index": 11,
+      "text": "Then neither close your eyes nor open your eyes and see.",
+      "path": "audio/1971-225/12.mp3",
+      "start": 3.186689,
+      "end": 6.92
+    }
+  ]
+}

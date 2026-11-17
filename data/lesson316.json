@@ -1,0 +1,1151 @@
+{
+  "id": "1971-316",
+  "title": "1971 / 316",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thoughts",
+      "meaning": "생각",
+      "note": "내면에서 일어나는 사고 과정이나 아이디어",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "instincts",
+      "meaning": "본능",
+      "note": "본능적인 충동이나 자연스러운 반응",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "negative",
+      "meaning": "부정적인",
+      "note": "불리한, 좋지 않은, 혹은 해로운 상황이나 태도를 의미함",
+      "sentenceIds": [
+        2,
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meditation",
+      "meaning": "명상",
+      "note": "내면의 평화와 인식을 높이기 위한 정신적 연습",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "whatsoever",
+      "meaning": "어떠한 것도",
+      "note": "싸움이나 저항이 전혀 없음을 강조하는 표현",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "conflict",
+      "meaning": "갈등",
+      "note": "상호 간의 충돌이나 대립 상황을 의미합니다.",
+      "sentenceIds": [
+        4,
+        5,
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "victory",
+      "meaning": "승리",
+      "note": "목표를 달성하거나 대립에서 이기는 것을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "suppressed",
+      "meaning": "억압된",
+      "note": "문제나 감정이 억누르거나 숨겨졌다는 의미입니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fight",
+      "meaning": "싸움",
+      "note": "물리적 또는 정신적 충돌을 나타냄",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "suppression",
+      "meaning": "억압",
+      "note": "문장에서 직접적으로 사용되지는 않지만, 문맥상 투쟁과 대비되는 개념으로 이해될 수 있다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "positive",
+      "meaning": "긍정적인",
+      "note": "좋은 변화나 발전을 나타냄",
+      "sentenceIds": [
+        7,
+        20
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "awareness",
+      "meaning": "의식",
+      "note": "자신이나 주변에 대한 인식이나 깨달음을 의미함",
+      "sentenceIds": [
+        7,
+        8,
+        21
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "understanding",
+      "meaning": "이해",
+      "note": "어떤 상황이나 개념을 명확히 파악하는 능력",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "raising",
+      "meaning": "기르다",
+      "note": "여기서는 동물을 키우거나 기르는 행위를 의미합니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fighting",
+      "meaning": "싸움",
+      "note": "싸움닭이라는 표현에서 유래되었으며, 이 닭은 주로 싸움을 위해 길러지는 것을 의미합니다.",
+      "sentenceIds": [
+        9,
+        17,
+        27
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "passed",
+      "meaning": "지나갔다",
+      "note": "시간의 경과를 나타냅니다.",
+      "sentenceIds": [
+        10,
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "asked",
+      "meaning": "물었다",
+      "note": "주인이 정보를 얻기 위해 질문하는 행위를 나타냅니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "answered",
+      "meaning": "대답하다",
+      "note": "다른 사람의 질문이나 요청에 대해 자신의 의견을 표현하는 동사입니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ready",
+      "meaning": "준비된",
+      "note": "어떤 상황이나 활동에 대해 필요한 조건이나 요건을 충족시켜 대비가 되어 있는 상태를 의미합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "vain",
+      "meaning": "자만심이 강하다",
+      "note": "자신의 능력이나 가치를 과대평가하고 다른 사람들의 의견을 무시하는 태도를 의미합니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "flushed",
+      "meaning": "화가 난 채로 붉어져 있다",
+      "note": "분노나 흥분으로 인해 얼굴이 붉어진 상태를 나타냅니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "prince",
+      "meaning": "왕자",
+      "note": "특정 인물을 지칭하며 왕실과 관련된 지위를 나타냅니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "said",
+      "meaning": "말하다",
+      "note": "직접적인 발화 행위를 나타냄",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sir",
+      "meaning": "님, 왕자님",
+      "note": "존칭어로 상대방을 존중하는 표현",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "shadow",
+      "meaning": "그림자",
+      "note": "여기서는 다른 닭의 형태나 존재를 암시하는 시각적 신호를 의미한다.",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "crowing",
+      "meaning": "울음소리",
+      "note": "특히 닭의 울음소리를 가리키며, 이 소리는 경계나 주의를 환기시키는 신호로 해석된다.",
+      "sentenceIds": [
+        15,
+        19
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "inquiry",
+      "meaning": "문의, 질문",
+      "note": "여기서는 왕자로부터 온 질문이나 요청을 의미합니다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "replied",
+      "meaning": "대답하다",
+      "note": "치가 왕자의 질문에 대해 대답한 행동을 나타냅니다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "smoldering",
+      "meaning": "조용히 타오르는",
+      "note": "아직 겉으로 드러나지 않지만 잠재적으로 큰 힘을 가진 상태를 나타냅니다.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "elapsed",
+      "meaning": "지나간",
+      "note": "시간의 경과를 나타내며, 여기서는 시간이 흘렀음을 의미한다.",
+      "sentenceIds": [
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "response",
+      "meaning": "답변",
+      "note": "질문에 대한 반응이나 대답을 나타낸다.",
+      "sentenceIds": [
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "excitement",
+      "meaning": "흥분",
+      "note": "주인공이 어떤 상황에도 감정적으로 크게 반응하지 않는 침착함을 의미합니다.",
+      "sentenceIds": [
+        19
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "subtle",
+      "meaning": "미묘한, 섬세한",
+      "note": "내면의 변화가 작지만 중요한 것임을 나타냄",
+      "sentenceIds": [
+        21
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "resembles",
+      "meaning": "닮다",
+      "note": "비교를 통해 현재 상태나 특징을 설명하는 데 사용됨.",
+      "sentenceIds": [
+        22
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "silent",
+      "meaning": "조용한",
+      "note": "말이나 소리가 없는 상태를 나타냄.",
+      "sentenceIds": [
+        22
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "qualities",
+      "meaning": "품성, 특성",
+      "note": "개인의 장점이나 특징을 의미함",
+      "sentenceIds": [
+        23
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "integrated",
+      "meaning": "조화롭게 결합된, 통합된",
+      "note": "여러 요소가 잘 어우러져 하나의 전체를 이룬 상태를 나타냄",
+      "sentenceIds": [
+        23
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "match",
+      "meaning": "경쟁 상대",
+      "note": "여기서는 다른 수탉들과의 경쟁 상황을 의미한다.",
+      "sentenceIds": [
+        24
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "immediately",
+      "meaning": "즉시",
+      "note": "다른 수탉들이 그의 존재나 힘 앞에 즉시 피하거나 도망친다는 즉각적인 반응을 나타낸다.",
+      "sentenceIds": [
+        24
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "face",
+      "meaning": "마주하다, 직면하다",
+      "note": "여기서는 물리적으로나 비유적으로 누군가를 대하거나 상대하는 상황을 의미한다.",
+      "sentenceIds": [
+        25
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "proved",
+      "meaning": "증명하다, 입증하다",
+      "note": "이 문맥에서는 예상이나 추측이 실제로 일어난 결과로 확인되었다는 의미를 담고 있다.",
+      "sentenceIds": [
+        26
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "won",
+      "meaning": "승리하다",
+      "note": "이 단어는 경쟁이나 대결에서 이기는 것을 의미합니다.",
+      "sentenceIds": [
+        27
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "likewise",
+      "meaning": "마찬가지로",
+      "note": "이전 상황이나 행동과 동일하게 적용하라는 의미입니다.",
+      "sentenceIds": [
+        28
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "secret",
+      "meaning": "비결",
+      "note": "특정 기술이나 방법의 핵심적인 노하우나 비결을 의미합니다.",
+      "sentenceIds": [
+        28
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4
+    ],
+    [
+      5,
+      6,
+      7
+    ],
+    [
+      8,
+      9,
+      10,
+      11
+    ],
+    [
+      12,
+      13,
+      14
+    ],
+    [
+      15,
+      16
+    ],
+    [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    [
+      27
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-316/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "The real thing is not to fight with your thoughts or desires or instincts because that is negative and the negative cannot help.",
+      "korean": "부정적인 것은 생각이나 욕망이나 본능과 싸우는 것이 아니라, 그런 것들과 조화를 이루는 것이 진정한 것이다.",
+      "explanation": "문장은 부정적인 태도나 반응보다는 내면의 요소들(생각, 욕망, 본능)과의 조화로운 공존을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-316/02.mp3",
+      "vocabulary": [
+        {
+          "word": "thoughts",
+          "meaning": "생각",
+          "note": "내면에서 일어나는 사고 과정이나 아이디어"
+        },
+        {
+          "word": "instincts",
+          "meaning": "본능",
+          "note": "본능적인 충동이나 자연스러운 반응"
+        },
+        {
+          "word": "negative",
+          "meaning": "부정적인",
+          "note": "불리한, 좋지 않은, 혹은 해로운 상황이나 태도를 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "The real thing is to grow in awareness, in meditation, because then one wins without any fight whatsoever.",
+      "korean": "진정한 것은 싸움 없이 이기는 것이며, 이를 위해서는 인식의 성장과 명상에 몰두해야 한다.",
+      "explanation": "진정한 성장과 승리는 내면의 갈등 없이 이루어지며, 이를 위해 인식을 높이고 명상에 집중해야 한다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-316/03.mp3",
+      "vocabulary": [
+        {
+          "word": "meditation",
+          "meaning": "명상",
+          "note": "내면의 평화와 인식을 높이기 위한 정신적 연습"
+        },
+        {
+          "word": "whatsoever",
+          "meaning": "어떠한 것도",
+          "note": "싸움이나 저항이 전혀 없음을 강조하는 표현"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "And to win through conflict is not a real victory because that which has been suppressed will have to be suppressed again and again.",
+      "korean": "갈등을 통해 승리하는 것은 진정한 승리가 아니며, 억압된 것은 다시 억압해야 하기 때문입니다.",
+      "explanation": "갈등 없이 성장하는 것이 진정한 승리임을 강조하며, 억압된 문제는 다시 나타날 수밖에 없다는 의미를 담고 있습니다.",
+      "grammar": "「have to be」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+      "audio": "audio/1971-316/04.mp3",
+      "vocabulary": [
+        {
+          "word": "conflict",
+          "meaning": "갈등",
+          "note": "상호 간의 충돌이나 대립 상황을 의미합니다."
+        },
+        {
+          "word": "victory",
+          "meaning": "승리",
+          "note": "목표를 달성하거나 대립에서 이기는 것을 의미합니다."
+        },
+        {
+          "word": "suppressed",
+          "meaning": "억압된",
+          "note": "문제나 감정이 억누르거나 숨겨졌다는 의미입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Through conflict there is no end to conflict and through fight only more fight is born.",
+      "korean": "갈등 속에서는 갈등의 끝이 없고, 싸움 속에서는 더욱 많은 싸움만이 생겨난다.",
+      "explanation": "갈등이 계속되면 진정한 해결이 없으며, 싸움이 계속될수록 더 많은 싸움이 발생한다는 의미",
+      "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1971-316/05.mp3",
+      "vocabulary": [
+        {
+          "word": "conflict",
+          "meaning": "갈등",
+          "note": "상호 간의 의견 차이나 충돌을 의미함"
+        },
+        {
+          "word": "fight",
+          "meaning": "싸움",
+          "note": "물리적 또는 정신적 충돌을 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "But there is a victory without any conflict, fight or suppression.",
+      "korean": "그러나 갈등이나 투쟁 없이도 승리가 있다.",
+      "explanation": "갈등이나 투쟁 없이도 가능한 평화로운 승리나 상태를 의미한다.",
+      "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1971-316/06.mp3",
+      "vocabulary": [
+        {
+          "word": "conflict",
+          "meaning": "갈등",
+          "note": "문장에서 갈등이나 대립 상황을 나타낸다."
+        },
+        {
+          "word": "suppression",
+          "meaning": "억압",
+          "note": "문장에서 직접적으로 사용되지는 않지만, 문맥상 투쟁과 대비되는 개념으로 이해될 수 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "That victory comes through positive growth in awareness.",
+      "korean": "의식의 긍정적 성장을 통해 승리가 온다.",
+      "explanation": "의식의 수준이 향상됨으로써 얻어지는 승리를 의미한다.",
+      "grammar": "동사 「comes」는 come의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-316/07.mp3",
+      "vocabulary": [
+        {
+          "word": "positive",
+          "meaning": "긍정적인",
+          "note": "좋은 변화나 발전을 나타냄"
+        },
+        {
+          "word": "awareness",
+          "meaning": "의식",
+          "note": "자신이나 주변에 대한 인식이나 깨달음을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "Do not fight with yourself but grow in awareness and understanding and silence, and all that is negative and diseased will have withered away by itself.",
+      "korean": "자신과 싸우지 말고 인식과 이해, 그리고 침묵 속에서 성장하세요. 부정적이고 해로운 것들은 스스로 시들어버릴 것입니다.",
+      "explanation": "자신의 내면적 갈등을 인식과 이해를 통해 극복하고 침묵을 통해 평온을 찾으면 부정적 요소들이 자연스럽게 사라진다는 의미입니다.",
+      "grammar": "「Do not fight」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+      "audio": "audio/1971-316/08.mp3",
+      "vocabulary": [
+        {
+          "word": "awareness",
+          "meaning": "인식",
+          "note": "자신의 상태나 감정을 깨닫고 이해하는 능력"
+        },
+        {
+          "word": "understanding",
+          "meaning": "이해",
+          "note": "어떤 상황이나 개념을 명확히 파악하는 능력"
+        },
+        {
+          "word": "negative",
+          "meaning": "부정적인",
+          "note": "좋지 않거나 해로운 것을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "Suzuki tells a story: Chi Hsing Tzu was raising a fighting cock for his lord.",
+      "korean": "수즈키는 이야기를 전합니다: 치싱쯔는 주인을 위해 싸움닭을 기르고 있었습니다.",
+      "explanation": "수즈키가 전하는 이야기의 내용을 한국어로 번역한 것입니다.",
+      "grammar": "동사 「tells」는 tell의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-316/09.mp3",
+      "vocabulary": [
+        {
+          "word": "raising",
+          "meaning": "기르다",
+          "note": "여기서는 동물을 키우거나 기르는 행위를 의미합니다."
+        },
+        {
+          "word": "fighting",
+          "meaning": "싸움",
+          "note": "싸움닭이라는 표현에서 유래되었으며, 이 닭은 주로 싸움을 위해 길러지는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "Ten days passed and the lord asked: Is he ready?",
+      "korean": "열흘이 지나자 주인이 물었다: 그 닭은 준비되었는가?",
+      "explanation": "주인이 닭의 훈련 상태를 확인하기 위해 질문하는 상황을 묘사합니다.",
+      "grammar": "동사 「passed」는 pass의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-316/10.mp3",
+      "vocabulary": [
+        {
+          "word": "passed",
+          "meaning": "지나갔다",
+          "note": "시간의 경과를 나타냅니다."
+        },
+        {
+          "word": "asked",
+          "meaning": "물었다",
+          "note": "주인이 정보를 얻기 위해 질문하는 행위를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "Chi answered: No sir, he is not ready.",
+      "korean": "치는 대답했다: 아니요, 합하시는 분, 그는 준비되지 않았습니다.",
+      "explanation": "치가 준비 상태에 대해 합하시는 분께 부정적으로 답변하는 내용입니다.",
+      "grammar": "동사 「answered」는 answer의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-316/11.mp3",
+      "vocabulary": [
+        {
+          "word": "answered",
+          "meaning": "대답하다",
+          "note": "다른 사람의 질문이나 요청에 대해 자신의 의견을 표현하는 동사입니다."
+        },
+        {
+          "word": "ready",
+          "meaning": "준비된",
+          "note": "어떤 상황이나 활동에 대해 필요한 조건이나 요건을 충족시켜 대비가 되어 있는 상태를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "He is still vain and flushed with rage.",
+      "korean": "그는 여전히 자만심이 강하고 화가 난 채로 붉어져 있다.",
+      "explanation": "주어진 문장의 의미를 한국어로 자연스럽게 번역한 내용입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-316/12.mp3",
+      "vocabulary": [
+        {
+          "word": "vain",
+          "meaning": "자만심이 강하다",
+          "note": "자신의 능력이나 가치를 과대평가하고 다른 사람들의 의견을 무시하는 태도를 의미합니다."
+        },
+        {
+          "word": "flushed",
+          "meaning": "화가 난 채로 붉어져 있다",
+          "note": "분노나 흥분으로 인해 얼굴이 붉어진 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "Another ten days passed and the prince asked about the cock.",
+      "korean": "열흘이 더 지나자 왕자는 닭에 대해 물었다.",
+      "explanation": "왕자가 닭에 대한 질문을 하기까지 열흘이 더 지났다는 의미입니다.",
+      "grammar": "동사 「passed」는 pass의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-316/13.mp3",
+      "vocabulary": [
+        {
+          "word": "passed",
+          "meaning": "지나갔다",
+          "note": "시간의 경과를 나타냅니다."
+        },
+        {
+          "word": "prince",
+          "meaning": "왕자",
+          "note": "특정 인물을 지칭하며 왕실과 관련된 지위를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "Chi said: Not yet, sir.",
+      "korean": "치가 말했다: 아직 안 됐어요, 왕자님.",
+      "explanation": "치가 왕자에게 어떤 일이 아직 완료되지 않았음을 알리는 응답",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-316/14.mp3",
+      "vocabulary": [
+        {
+          "word": "said",
+          "meaning": "말하다",
+          "note": "직접적인 발화 행위를 나타냄"
+        },
+        {
+          "word": "sir",
+          "meaning": "님, 왕자님",
+          "note": "존칭어로 상대방을 존중하는 표현"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "He is on the alert whenever he sees the shadow of another cock or hears its crowing.",
+      "korean": "그는 다른 닭의 그림자를 보거나 그 울음소리를 들으면 항상 경계 상태에 들어간다.",
+      "explanation": "그는 다른 닭과 관련된 어떠한 신호(그림자나 울음소리)에도 민감하게 반응하고 경계한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-316/15.mp3",
+      "vocabulary": [
+        {
+          "word": "shadow",
+          "meaning": "그림자",
+          "note": "여기서는 다른 닭의 형태나 존재를 암시하는 시각적 신호를 의미한다."
+        },
+        {
+          "word": "crowing",
+          "meaning": "울음소리",
+          "note": "특히 닭의 울음소리를 가리키며, 이 소리는 경계나 주의를 환기시키는 신호로 해석된다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "Still another ten days passed and when the inquiry came from the prince, Chi replied: Not quite yet, sir.",
+      "korean": "왕자의 질문이 왔을 때, 치는 아직 안 된다고 답했다.",
+      "explanation": "왕자가 문의를 했을 때 치는 아직 준비가 덜 되었다고 대답한 상황을 설명합니다.",
+      "grammar": "동사 「came」는 come의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-316/16.mp3",
+      "vocabulary": [
+        {
+          "word": "inquiry",
+          "meaning": "문의, 질문",
+          "note": "여기서는 왕자로부터 온 질문이나 요청을 의미합니다."
+        },
+        {
+          "word": "replied",
+          "meaning": "대답하다",
+          "note": "치가 왕자의 질문에 대해 대답한 행동을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 17,
+      "english": "His sense of fighting is still smoldering within him ready to be awakened.",
+      "korean": "그의 싸움에 대한 열정은 아직도 그의 마음속에서 깨어나길 기다리는 상태다.",
+      "explanation": "그의 내면에 여전히 잠재된 싸움에 대한 강한 열정이나 의지가 있다는 의미입니다.",
+      "grammar": "「is still smoldering」는 be동사 + -ing로 만든 현재진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+      "audio": "audio/1971-316/17.mp3",
+      "vocabulary": [
+        {
+          "word": "fighting",
+          "meaning": "싸움, 격투",
+          "note": "여기서는 내면의 강한 의지나 경쟁심을 의미합니다."
+        },
+        {
+          "word": "smoldering",
+          "meaning": "조용히 타오르는",
+          "note": "아직 겉으로 드러나지 않지만 잠재적으로 큰 힘을 가진 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 18,
+      "english": "When another ten days elapsed Chi replied in response to the inquiry: He is almost ready.",
+      "korean": "열흘이 더 지나자 치는 질문에 답했다: 그는 거의 준비되었다고 했다.",
+      "explanation": "열흘이 더 지난 후 치의 상태에 대한 답변으로, 그의 준비 상태가 거의 완료되었다는 의미를 전달한다.",
+      "grammar": "동사 「replied」는 reply의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-316/18.mp3",
+      "vocabulary": [
+        {
+          "word": "elapsed",
+          "meaning": "지나간",
+          "note": "시간의 경과를 나타내며, 여기서는 시간이 흘렀음을 의미한다."
+        },
+        {
+          "word": "response",
+          "meaning": "답변",
+          "note": "질문에 대한 반응이나 대답을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 19,
+      "english": "Even when he hears another crowing he shows no excitement.",
+      "korean": "그는 또 다른 까마귀 소리를 듣더라도 흥분하지 않는다.",
+      "explanation": "문장은 주인공이 까마귀 소리에 반응하지 않고 평온함을 유지하고 있음을 나타냅니다.",
+      "grammar": "동사 「shows」는 show의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-316/19.mp3",
+      "vocabulary": [
+        {
+          "word": "crowing",
+          "meaning": "까마귀 울음소리",
+          "note": "이 문맥에서는 까마귀의 울음소리가 특정 상황이나 상태를 나타내는 것으로 보입니다."
+        },
+        {
+          "word": "excitement",
+          "meaning": "흥분",
+          "note": "주인공이 어떤 상황에도 감정적으로 크게 반응하지 않는 침착함을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 20,
+      "english": "He has now become positive.",
+      "korean": "그는 이제 긍정적인 태도를 보이고 있다.",
+      "explanation": "문장은 주인공이 이전과 달리 긍정적인 반응을 보인다는 의미를 전달한다.",
+      "grammar": "「has now become」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1971-316/20.mp3",
+      "vocabulary": [
+        {
+          "word": "positive",
+          "meaning": "긍정적인",
+          "note": "일반적으로 좋은 감정이나 태도를 나타냄. 문맥에서는 이전의 무관심이나 중립적인 태도에서 벗어나 긍정적인 반응을 보이는 것을 의미함."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 21,
+      "english": "He has grown in subtle inner awareness.",
+      "korean": "그는 이제 미묘한 내면의 인식을 키워왔다.",
+      "explanation": "그의 내면적인 인식이 점진적으로 발전했다는 의미",
+      "grammar": "「has grown」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": null,
+      "vocabulary": [
+        {
+          "word": "subtle",
+          "meaning": "미묘한, 섬세한",
+          "note": "내면의 변화가 작지만 중요한 것임을 나타냄"
+        },
+        {
+          "word": "awareness",
+          "meaning": "인식, 깨달음",
+          "note": "내면의 상태나 감정에 대한 깨달음을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 22,
+      "english": "Now he resembles one made of wood, he is so quiet and silent.",
+      "korean": "지금 그는 마치 나무로 만든 듯 조용하고 말없이 있다.",
+      "explanation": "그 사람이 매우 조용하고 말이 없어 나무처럼 굳어있는 듯한 느낌을 준다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": null,
+      "vocabulary": [
+        {
+          "word": "resembles",
+          "meaning": "닮다",
+          "note": "비교를 통해 현재 상태나 특징을 설명하는 데 사용됨."
+        },
+        {
+          "word": "silent",
+          "meaning": "조용한",
+          "note": "말이나 소리가 없는 상태를 나타냄."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 23,
+      "english": "His qualities are integrated.",
+      "korean": "그의 품성은 조화롭게 결합되어 있다.",
+      "explanation": "그의 다양한 품성이 하나로 잘 어우러져 있다는 의미",
+      "grammar": "「are integrated」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": null,
+      "vocabulary": [
+        {
+          "word": "qualities",
+          "meaning": "품성, 특성",
+          "note": "개인의 장점이나 특징을 의미함"
+        },
+        {
+          "word": "integrated",
+          "meaning": "조화롭게 결합된, 통합된",
+          "note": "여러 요소가 잘 어우러져 하나의 전체를 이룬 상태를 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 24,
+      "english": "No cock is his match and to win he will not have to fight because other cocks will run away from him immediately.",
+      "korean": "그의 힘 앞에 다른 수탉들은 도망칠 것이며, 그는 싸우지 않고도 이길 수 있다.",
+      "explanation": "해당 문장은 특정 수탉의 우월성을 강조하며, 그 힘이나 특성 때문에 다른 수탉들이 자발적으로 피하게 되어 경쟁 없이 승리할 수 있다는 의미를 담고 있다.",
+      "grammar": "「have to fight」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+      "audio": null,
+      "vocabulary": [
+        {
+          "word": "match",
+          "meaning": "경쟁 상대",
+          "note": "여기서는 다른 수탉들과의 경쟁 상황을 의미한다."
+        },
+        {
+          "word": "immediately",
+          "meaning": "즉시",
+          "note": "다른 수탉들이 그의 존재나 힘 앞에 즉시 피하거나 도망친다는 즉각적인 반응을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 25,
+      "english": "They cannot face him now.",
+      "korean": "지금 그를 마주할 수 없다",
+      "explanation": "다른 동물들이 그를 피하기 때문에 그를 상대할 수 없다는 의미",
+      "grammar": "「cannot face」에서 조동사 can 뒤에 동사원형 「face」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": null,
+      "vocabulary": [
+        {
+          "word": "face",
+          "meaning": "마주하다, 직면하다",
+          "note": "여기서는 물리적으로나 비유적으로 누군가를 대하거나 상대하는 상황을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 26,
+      "english": "And really it proved so.",
+      "korean": "그리고 정말 그렇게 되었다.",
+      "explanation": "문장은 이전 상황이나 기대와 달리 실제로 일어난 결과를 강조한다.",
+      "grammar": "동사 「proved」는 prove의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": null,
+      "vocabulary": [
+        {
+          "word": "proved",
+          "meaning": "증명하다, 입증하다",
+          "note": "이 문맥에서는 예상이나 추측이 실제로 일어난 결과로 확인되었다는 의미를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 27,
+      "english": "He won fights without fighting at all.",
+      "korean": "그는 싸우지 않고도 승리했다.",
+      "explanation": "그 사람이 직접적인 충돌 없이도 승리를 거두었다는 의미입니다.",
+      "grammar": "동사 「won」는 win의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": null,
+      "vocabulary": [
+        {
+          "word": "won",
+          "meaning": "승리하다",
+          "note": "이 단어는 경쟁이나 대결에서 이기는 것을 의미합니다."
+        },
+        {
+          "word": "fighting",
+          "meaning": "싸움",
+          "note": "직접적인 충돌이나 격투 상황을 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 28,
+      "english": "And I say that you can do likewise with yourself: learn the secret from Chi Hsing Tzu's cock!",
+      "korean": "마찬가지로 스스로에게도 적용할 수 있다고 말합니다: 치싱쯔의 닭에서 비결을 배우세요.",
+      "explanation": "문장은 자신에게도 특정 방법이나 비결을 적용할 수 있다는 조언을 전달합니다. 여기서 '치싱쯔의 닭'은 구체적인 예시나 비유로 사용된 것으로 보입니다.",
+      "grammar": "동사원형 「learn」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": null,
+      "vocabulary": [
+        {
+          "word": "likewise",
+          "meaning": "마찬가지로",
+          "note": "이전 상황이나 행동과 동일하게 적용하라는 의미입니다."
+        },
+        {
+          "word": "secret",
+          "meaning": "비결",
+          "note": "특정 기술이나 방법의 핵심적인 노하우나 비결을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "부정적인 것은 생각이나 욕망이나 본능과 싸우는 것이 아니라, 그런 것들과 조화를 이루는 것이 진정한 것이다. 진정한 것은 싸움 없이 이기는 것이며, 이를 위해서는 인식의 성장과 명상에 몰두해야 한다. 갈등을 통해 승리하는 것은 진정한 승리가 아니며, 억압된 것은 다시 억압해야 하기 때문입니다. 갈등 속에서는 갈등의 끝이 없고, 싸움 속에서는 더욱 많은 싸움만이 생겨난다.",
+    "그러나 갈등이나 투쟁 없이도 승리가 있다. 의식의 긍정적 성장을 통해 승리가 온다. 자신과 싸우지 말고 인식과 이해, 그리고 침묵 속에서 성장하세요. 부정적이고 해로운 것들은 스스로 시들어버릴 것입니다.",
+    "수즈키는 이야기를 전합니다: 치싱쯔는 주인을 위해 싸움닭을 기르고 있었습니다. 열흘이 지나자 주인이 물었다: 그 닭은 준비되었는가? 치는 대답했다: 아니요, 합하시는 분, 그는 준비되지 않았습니다. 그는 여전히 자만심이 강하고 화가 난 채로 붉어져 있다.",
+    "열흘이 더 지나자 왕자는 닭에 대해 물었다. 치가 말했다: 아직 안 됐어요, 왕자님. 그는 다른 닭의 그림자를 보거나 그 울음소리를 들으면 항상 경계 상태에 들어간다.",
+    "왕자의 질문이 왔을 때, 치는 아직 안 된다고 답했다. 그의 싸움에 대한 열정은 아직도 그의 마음속에서 깨어나길 기다리는 상태다.",
+    "열흘이 더 지나자 치는 질문에 답했다: 그는 거의 준비되었다고 했다. 그는 또 다른 까마귀 소리를 듣더라도 흥분하지 않는다. 그는 이제 긍정적인 태도를 보이고 있다. 그는 이제 미묘한 내면의 인식을 키워왔다. 지금 그는 마치 나무로 만든 듯 조용하고 말없이 있다. 그의 품성은 조화롭게 결합되어 있다. 그의 힘 앞에 다른 수탉들은 도망칠 것이며, 그는 싸우지 않고도 이길 수 있다. 지금 그를 마주할 수 없다 그리고 정말 그렇게 되었다. 그는 싸우지 않고도 승리했다.",
+    "마찬가지로 스스로에게도 적용할 수 있다고 말합니다: 치싱쯔의 닭에서 비결을 배우세요."
+  ],
+  "fullAudio": null,
+  "originalText": "Love.\n\nThe real thing is\nnot to fight with your thoughts or desires or instincts\nbecause that is negative\nand the negative cannot help.\nThe real thing is\nto grow in awareness, in meditation,\nbecause then one wins without any fight whatsoever.\nAnd to win through conflict is not a real victory\nbecause that which has been suppressed\nwill have to be suppressed again and again.\nThrough conflict there is no end to conflict\nand through fight only more fight is born.\n\nBut there is a victory\nwithout any conflict, fight or suppression.\nThat victory comes through positive growth in awareness.\nDo not fight with yourself\nbut grow in awareness and understanding and silence,\nand all that is negative and diseased\nwill have withered away by itself.\n\nSuzuki tells a story:\nChi Hsing Tzu was raising a fighting cock for his lord.\nTen days passed and the lord asked:\nIs he ready? Chi answered:\nNo sir, he is not ready.\nHe is still vain and flushed with rage.\n\nAnother ten days passed and the prince asked\nabout the cock.\nChi said: Not yet, sir.\nHe is on the alert whenever he sees the shadow\nof another cock\nor hears its crowing.\n\nStill another ten days passed\nand when the inquiry came from the prince, Chi replied:\nNot quite yet, sir.\nHis sense of fighting is still smoldering within him\nready to be awakened.\n\nWhen another ten days elapsed\nChi replied in response to the inquiry:\nHe is almost ready.\nEven when he hears another crowing he shows\nno excitement.\nHe has now become positive.\nHe has grown in subtle inner awareness.\nNow he resembles one made of wood,\nhe is so quiet and silent.\nHis qualities are integrated.\nNo cock is his match\nand to win he will not have to fight\nbecause other cocks will run away from him immediately.\nThey cannot face him now.\nAnd really it proved so.\nHe won fights without fighting at all.\n\nAnd I say that you can do likewise with yourself:\nlearn the secret from Chi Hsing Tzu's cock!",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "partial"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 316,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0896 2.JPG",
+        "side": "right",
+        "printedPage": 243
+      },
+      {
+        "file": "IMG_0897 2.JPG",
+        "side": "left",
+        "printedPage": 244
+      },
+      {
+        "file": "IMG_0897 2.JPG",
+        "side": "right",
+        "printedPage": 245
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

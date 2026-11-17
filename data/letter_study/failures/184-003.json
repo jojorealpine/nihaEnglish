@@ -1,0 +1,5 @@
+{
+  "english": "And one has to be alone - there is no map and no guide.",
+  "error": "Missing Korean explanation",
+  "response": "```json\n{\n  \"korean\": \"길은 멀고 지도도 안내자도 없어 혼자 가야 한다.\",\n  \"explanation\": \"journey is long and solitary without guidance or direction\",\n  \"vocabulary\": [\n    {\n      \"word\": \"map\",\n      \"meaning\": \"지도\",\n      \"note\": \"길을 찾는 데 필요한 안내 도구로, 여기서는 안내 부재를 상징한다.\"\n    },\n    {\n      \"word\": \"guide\",\n      \"meaning\": \"안내자\",\n      \"note\": \"길을 안내하고 방향을 제시하는 사람으로, 여기서는 도움이나 지도가 없다는 의미를 나타낸다.\"\n    }\n  ],\n  \"expressions\": []\n}\n```"
+}

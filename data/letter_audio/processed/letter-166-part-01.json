@@ -1,0 +1,79 @@
+{
+  "key": "letter-166-part-01",
+  "number": 166,
+  "generationId": "01a1e8e3-b68f-7d2b-81f8-e24cad249b8d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-166/01.mp3",
+      "start": 0.0,
+      "end": 0.573447
+    },
+    {
+      "index": 1,
+      "text": "Always see what is - the facts.",
+      "path": "audio/1971-166/02.mp3",
+      "start": 1.730385,
+      "end": 4.484694
+    },
+    {
+      "index": 2,
+      "text": "That which is.",
+      "path": "audio/1971-166/03.mp3",
+      "start": 5.6170979999999995,
+      "end": 6.4825170000000005
+    },
+    {
+      "index": 3,
+      "text": "Do not project anything, do not interpret, do not impose any meaning: that is, do not allow your mind to interfere, and you will begin to encounter reality.",
+      "path": "audio/1971-166/04.mp3",
+      "start": 7.602041,
+      "end": 17.01941
+    },
+    {
+      "index": 4,
+      "text": "Otherwise everyone lives in his own world of dreaming.",
+      "path": "audio/1971-166/05.mp3",
+      "start": 18.201110999999997,
+      "end": 21.259796
+    },
+    {
+      "index": 5,
+      "text": "And meditation is the coming out of these worlds, these dreaming patterns.",
+      "path": "audio/1971-166/06.mp3",
+      "start": 22.897098,
+      "end": 27.608889
+    },
+    {
+      "index": 6,
+      "text": "A philosopher stopped Mulla Nasrudin on the street.",
+      "path": "audio/1971-166/07.mp3",
+      "start": 29.13263,
+      "end": 32.35585
+    },
+    {
+      "index": 7,
+      "text": "In order to test whether the Mulla was sensitive to philosophical knowledge he made a sign, pointing at the sky.",
+      "path": "audio/1971-166/08.mp3",
+      "start": 33.871247000000004,
+      "end": 40.273559999999996
+    },
+    {
+      "index": 8,
+      "text": "The philosopher meant: There is only one truth, which covers all.",
+      "path": "audio/1971-166/09.mp3",
+      "start": 41.849819000000004,
+      "end": 46.994014
+    },
+    {
+      "index": 9,
+      "text": "Nasrudin's companion, an ordinary man, thought: The philosopher is mad.",
+      "path": "audio/1971-166/10.mp3",
+      "start": 48.574921,
+      "end": 55.12
+    }
+  ]
+}

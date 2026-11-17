@@ -1,0 +1,79 @@
+{
+  "key": "letter-029-part-01",
+  "number": 29,
+  "generationId": "01a1e4eb-7c0f-7220-a30c-9a595212575e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1965-29/01.mp3",
+      "start": 0.0,
+      "end": 0.574399
+    },
+    {
+      "index": 1,
+      "text": "I received your letter.",
+      "path": "audio/1965-29/02.mp3",
+      "start": 1.9358499999999998,
+      "end": 3.1682770000000002
+    },
+    {
+      "index": 2,
+      "text": "How did you hurt your finger?",
+      "path": "audio/1965-29/03.mp3",
+      "start": 4.621338,
+      "end": 6.0314060000000005
+    },
+    {
+      "index": 3,
+      "text": "It sounds as if you are not taking care of your body.",
+      "path": "audio/1965-29/04.mp3",
+      "start": 7.5012929999999995,
+      "end": 10.130068
+    },
+    {
+      "index": 4,
+      "text": "And why the restless mind?",
+      "path": "audio/1965-29/05.mp3",
+      "start": 11.500998000000001,
+      "end": 13.247482999999999
+    },
+    {
+      "index": 5,
+      "text": "In this dreamlike world there is nothing worth making the mind restless for.",
+      "path": "audio/1965-29/06.mp3",
+      "start": 14.637483000000001,
+      "end": 18.822404000000002
+    },
+    {
+      "index": 6,
+      "text": "Peace is the greatest bliss and there is nothing worth losing it for.",
+      "path": "audio/1965-29/07.mp3",
+      "start": 20.216485,
+      "end": 23.946803000000003
+    },
+    {
+      "index": 7,
+      "text": "Meditate on it.",
+      "path": "audio/1965-29/08.mp3",
+      "start": 25.284422,
+      "end": 26.39059
+    },
+    {
+      "index": 8,
+      "text": "Just being aware of the truth brings about inner change.",
+      "path": "audio/1965-29/09.mp3",
+      "start": 27.941224,
+      "end": 31.013696
+    },
+    {
+      "index": 9,
+      "text": "I think you won't be coming to Udaipur to assist me and that's on your mind Come if you can, if you can't - never mind, you are helping me all the time.",
+      "path": "audio/1965-29/10.mp3",
+      "start": 32.542222,
+      "end": 42.53
+    }
+  ]
+}

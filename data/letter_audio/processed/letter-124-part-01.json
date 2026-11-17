@@ -1,0 +1,51 @@
+{
+  "key": "letter-124-part-01",
+  "number": 124,
+  "generationId": "01a1e6bf-305f-7ad3-84e7-ddc0178c41fc",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-124/01.mp3",
+      "start": 0.0,
+      "end": 0.64093
+    },
+    {
+      "index": 1,
+      "text": "You ask for my ten commandments.",
+      "path": "audio/1970-124/02.mp3",
+      "start": 1.841361,
+      "end": 3.4814510000000003
+    },
+    {
+      "index": 2,
+      "text": "This is very difficult because I am against any sort of commandment.",
+      "path": "audio/1970-124/03.mp3",
+      "start": 4.63839,
+      "end": 7.55517
+    },
+    {
+      "index": 3,
+      "text": "Yet just for the fun of it I set down what follows:",
+      "path": "audio/1970-124/04.mp3",
+      "start": 8.769819,
+      "end": 11.177778
+    },
+    {
+      "index": 4,
+      "text": "1. Obey no orders except those from within. 2. The only God is life itself. 3. Truth is within, do not look for it elsewhere. 4. Love is prayer. 5. Emptiness is the door to truth; it is the means, the end and the achievement. 6. Life is here and now. 7. Live fully awake. 8. Do not swim, float. 9. Die each moment so that you are renewed each moment. 10. Stop seeking.",
+      "path": "audio/1970-124/05.mp3",
+      "start": 12.288821,
+      "end": 41.556939
+    },
+    {
+      "index": 5,
+      "text": "That which is, is: stop and see.",
+      "path": "audio/1970-124/06.mp3",
+      "start": 43.04585,
+      "end": 46.65
+    }
+  ]
+}

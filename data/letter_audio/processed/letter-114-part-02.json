@@ -1,0 +1,79 @@
+{
+  "key": "letter-114-part-02",
+  "number": 114,
+  "generationId": "01a1e636-56fb-712c-9d08-254ecae455ea",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "He accepted the bet and I bought him a beautiful cage from Switzerland which he hung in his sitting-room.",
+      "path": "audio/1970-114/11.mp3",
+      "start": 0.0,
+      "end": 5.444308
+    },
+    {
+      "index": 11,
+      "text": "Naturally, the inevitable happened - life has its own logic.",
+      "path": "audio/1970-114/12.mp3",
+      "start": 6.877891,
+      "end": 11.597437999999999
+    },
+    {
+      "index": 12,
+      "text": "Whosoever saw the cage immediately sympathized with him, asking: When did your bird die?",
+      "path": "audio/1970-114/13.mp3",
+      "start": 13.081882,
+      "end": 19.255669
+    },
+    {
+      "index": 13,
+      "text": "He would answer: I never had a bird.",
+      "path": "audio/1970-114/14.mp3",
+      "start": 20.622494,
+      "end": 23.224172
+    },
+    {
+      "index": 14,
+      "text": "Then they would say: So why the empty cage?",
+      "path": "audio/1970-114/15.mp3",
+      "start": 24.532698,
+      "end": 27.670295
+    },
+    {
+      "index": 15,
+      "text": "Finally he got sick and tired of explaining and went and bought a bird.",
+      "path": "audio/1970-114/16.mp3",
+      "start": 29.012653,
+      "end": 33.345895999999996
+    },
+    {
+      "index": 16,
+      "text": "When I asked him about it he said: It was easier to buy the bird and lose the bet than to explain things to each and everyone from morn till night.",
+      "path": "audio/1970-114/17.mp3",
+      "start": 34.639955,
+      "end": 43.728049999999996
+    },
+    {
+      "index": 17,
+      "text": "And also, seeing this empty cage hanging there day in and day out, my mind kept repeating: The bird!",
+      "path": "audio/1970-114/18.mp3",
+      "start": 45.313787000000005,
+      "end": 54.143107
+    },
+    {
+      "index": 18,
+      "text": "The bird!",
+      "path": "audio/1970-114/19.mp3",
+      "start": 55.735556,
+      "end": 56.641836999999995
+    },
+    {
+      "index": 19,
+      "text": "The bird!",
+      "path": "audio/1970-114/20.mp3",
+      "start": 58.255873,
+      "end": 60.08
+    }
+  ]
+}

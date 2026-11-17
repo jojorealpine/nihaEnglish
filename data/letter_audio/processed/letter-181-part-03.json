@@ -1,0 +1,23 @@
+{
+  "key": "letter-181-part-03",
+  "number": 181,
+  "generationId": "01a1e8e7-ad61-7107-9fd2-6443fde369e1",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 17,
+      "text": "When this happens one is one, and to be one is to be silent.",
+      "path": "audio/1971-181/18.mp3",
+      "start": 0.0,
+      "end": 4.709161
+    },
+    {
+      "index": 18,
+      "text": "This silence is beyond time and space, because it is beyond duality.",
+      "path": "audio/1971-181/19.mp3",
+      "start": 6.218957,
+      "end": 11.55
+    }
+  ]
+}

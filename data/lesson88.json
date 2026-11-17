@@ -1,0 +1,748 @@
+{
+  "id": "1970-88",
+  "title": "1970 / 88",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "attachment",
+      "meaning": "소유욕, 집착",
+      "note": "사물이나 개념에 대한 강한 집착이나 의존성을 나타냄",
+      "sentenceIds": [
+        2,
+        3,
+        4,
+        16,
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "concerned",
+      "meaning": "관심을 갖다, 걱정하다",
+      "note": "여기서는 주로 초점을 맞추거나 주의를 기울이는 의미로 사용됨",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "related",
+      "meaning": "관련된, 연관된",
+      "note": "어떤 것이 다른 것과 연결되거나 관련이 있다는 의미로, 여기서는 내면의 상태와 연결됨을 나타낸다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "world",
+      "meaning": "세계",
+      "note": "일반적으로 인간이 속한 물리적 세계나 사회적 맥락을 가리킨다.",
+      "sentenceIds": [
+        4,
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "beggar",
+      "meaning": "거지",
+      "note": "이야기의 주인공으로, 경제적으로 어려운 상황에 처한 사람을 나타낸다.",
+      "sentenceIds": [
+        5,
+        6,
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "cushion",
+      "meaning": "쿠션",
+      "note": "편안함을 상징하며, 파이르의 고급스러운 환경을 강조한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "beautiful",
+      "meaning": "아름다운",
+      "note": "텐트의 화려하고 아름다운 상태를 묘사하며, 파이르의 환경과 대비를 이룬다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Seeing",
+      "meaning": "보다",
+      "note": "이 문맥에서는 거지가 텐트와 그 안의 상황을 관찰하고 이해하려는 행동을 나타냅니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "spirituality",
+      "meaning": "영적 깊이",
+      "note": "종교적 또는 정신적 차원에서의 깊은 내면적 상태나 깨달음을 의미합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "disillusioned",
+      "meaning": "실망했다",
+      "note": "기대와 현실 사이의 간극으로 인해 실망감을 느끼는 상태를 나타냅니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ostentation",
+      "meaning": "화려함, 과시",
+      "note": "과도한 화려함이나 과시적인 행동을 의미합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "laughed",
+      "meaning": "웃었다",
+      "note": "수행자의 긍정적이고 여유로운 태도를 나타낸다.",
+      "sentenceIds": [
+        8,
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "replying",
+      "meaning": "대답하다",
+      "note": "그의 말이 질문이나 비판에 대한 직접적인 반응임을 나타낸다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "immediately",
+      "meaning": "즉시",
+      "note": "행동의 즉각성을 나타냄",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "waiting",
+      "meaning": "기다리기",
+      "note": "행동을 지연시키는 상황을 나타냄",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "distressed",
+      "meaning": "걱정하다, 불안해하다",
+      "note": "상황이 좋지 않거나 위협적으로 느껴져 심리적으로 불안한 상태를 나타냅니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Ileft",
+      "meaning": "두고 갔다",
+      "note": "이 문맥에서는 「두고 갔다」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "begging",
+      "meaning": "구걸",
+      "note": "빈곤으로 인해 돈이나 음식 등을 구걸하는 행위를 의미합니다.",
+      "sentenceIds": [
+        11,
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "shall",
+      "meaning": "어떻게 해야 할지에 대한 의문이나 제안을 나타낼 때 사용되는 표현",
+      "note": "이 문맥에서는 미래나 선택에 대한 직접적인 행동 지시보다는 상황에 대한 의문을 제기하는 역할을 합니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "without",
+      "meaning": "없이",
+      "note": "특정 물건이나 상태가 부재한 상황을 나타냅니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "wait",
+      "meaning": "기다리다",
+      "note": "여기서는 명령형으로 사용되어 상대방에게 행동을 요청하는 의미입니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fetch",
+      "meaning": "가져오다",
+      "note": "요청자가 특정 장소로 가서 물건을 가져오겠다는 의도를 나타냅니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "friend",
+      "meaning": "친구",
+      "note": "문장에서 말하는 사람의 관점을 나타내는 대상",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "chasing",
+      "meaning": "쫓다",
+      "note": "비유적으로 어떤 것을 계속해서 추구하거나 따라가는 상황을 표현",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "presence",
+      "meaning": "존재",
+      "note": "여기서는 세상이 마음 속에 존재한다는 의미로 사용됨.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "disappears",
+      "meaning": "사라진다",
+      "note": "세상이 마음에서 사라지는 상황을 묘사하며, 이는 애착에서 벗어난 상태를 나타냄.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      9,
+      10,
+      11,
+      12
+    ],
+    [
+      13,
+      14
+    ],
+    [
+      15,
+      16
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-88/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Non-attachment is not concerned with things but with thoughts.",
+      "korean": "비소유는 사물이 아닌 생각에 집중한다.",
+      "explanation": "비소유의 개념이 사물보다는 생각에 초점을 맞추고 있다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-88/02.mp3",
+      "vocabulary": [
+        {
+          "word": "attachment",
+          "meaning": "소유욕, 집착",
+          "note": "사물이나 개념에 대한 강한 집착이나 의존성을 나타냄"
+        },
+        {
+          "word": "concerned",
+          "meaning": "관심을 갖다, 걱정하다",
+          "note": "여기서는 주로 초점을 맞추거나 주의를 기울이는 의미로 사용됨"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Non-attachment is not related to the outside but to the within.",
+      "korean": "비소유는 외부가 아닌 내면에 관련되어 있다.",
+      "explanation": "비소유의 개념이 외부 세계보다는 내면의 생각이나 상태에 초점을 맞추고 있음을 강조한다.",
+      "grammar": "「is not related」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1970-88/03.mp3",
+      "vocabulary": [
+        {
+          "word": "attachment",
+          "meaning": "소유욕, 집착",
+          "note": "외부의 사물이나 상황에 대한 강한 연결이나 집착을 의미한다."
+        },
+        {
+          "word": "related",
+          "meaning": "관련된, 연관된",
+          "note": "어떤 것이 다른 것과 연결되거나 관련이 있다는 의미로, 여기서는 내면의 상태와 연결됨을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Non-attachment is not to do with the world but with oneself.",
+      "korean": "비소유는 외부가 아닌 내면과 관련이 있다.",
+      "explanation": "비소유의 개념이 외부 세계보다는 개인의 내면 상태와 관련이 있음을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-88/04.mp3",
+      "vocabulary": [
+        {
+          "word": "attachment",
+          "meaning": "소유욕, 집착",
+          "note": "무언가에 대한 강한 의존이나 집착을 의미한다."
+        },
+        {
+          "word": "world",
+          "meaning": "세계",
+          "note": "일반적으로 인간이 속한 물리적 세계나 사회적 맥락을 가리킨다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "One day a beggar went to see a Sufi fakir and found him seated on a velvet cushion inside a beautiful tent with its ropes tied to golden pegs.",
+      "korean": "어느 날 가난한 사람이 수피 파이르를 찾아가니, 그는 벨벳 쿠션 위에 앉아 황금빛 기둥에 묶인 아름다운 텐트 안에 있었다.",
+      "explanation": "어느 날이라는 시간적 배경을 가진 이야기로, 가난한 사람이 특정 종교 지도자인 수피 파이르를 방문하는 상황을 묘사하고 있다. 파이르는 고급스러운 환경 속에 앉아 있어 대조를 이룬다.",
+      "grammar": "동사 「went」는 go의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-88/05.mp3",
+      "vocabulary": [
+        {
+          "word": "beggar",
+          "meaning": "거지",
+          "note": "이야기의 주인공으로, 경제적으로 어려운 상황에 처한 사람을 나타낸다."
+        },
+        {
+          "word": "cushion",
+          "meaning": "쿠션",
+          "note": "편안함을 상징하며, 파이르의 고급스러운 환경을 강조한다."
+        },
+        {
+          "word": "beautiful",
+          "meaning": "아름다운",
+          "note": "텐트의 화려하고 아름다운 상태를 묘사하며, 파이르의 환경과 대비를 이룬다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Seeing all this the beggar cried: What is this!",
+      "korean": "모든 것을 보고 거지는 외쳤다: 이게 뭐야!",
+      "explanation": "거지가 화려한 텐트 안의 사파 스승의 모습을 보고 놀라 외침",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-88/06.mp3",
+      "vocabulary": [
+        {
+          "word": "Seeing",
+          "meaning": "보다",
+          "note": "이 문맥에서는 거지가 텐트와 그 안의 상황을 관찰하고 이해하려는 행동을 나타냅니다."
+        },
+        {
+          "word": "beggar",
+          "meaning": "거지",
+          "note": "거지는 가난한 사람으로, 이 경우 특별한 능력이나 지위 없이 사파 스승의 화려한 환경에 놀라는 역할을 합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Honorable Fakir, I have heard much about your spirituality and non-attachment, but I am completely disillusioned by all this ostentation around you.",
+      "korean": "존경하는 수행자님, 당신의 영적 깊이와 집착 없는 삶에 대해 많이 들었지만, 지금 눈앞의 화려함에 완전히 실망했습니다.",
+      "explanation": "영적 깊이와 무소유의 삶을 듣고 기대했지만, 현재 보이는 화려함에 실망했다는 내용을 전달합니다.",
+      "grammar": "「have heard」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1970-88/07.mp3",
+      "vocabulary": [
+        {
+          "word": "spirituality",
+          "meaning": "영적 깊이",
+          "note": "종교적 또는 정신적 차원에서의 깊은 내면적 상태나 깨달음을 의미합니다."
+        },
+        {
+          "word": "disillusioned",
+          "meaning": "실망했다",
+          "note": "기대와 현실 사이의 간극으로 인해 실망감을 느끼는 상태를 나타냅니다."
+        },
+        {
+          "word": "ostentation",
+          "meaning": "화려함, 과시",
+          "note": "과도한 화려함이나 과시적인 행동을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "The fakir laughed, replying: I am ready to leave all this behind and come with you.",
+      "korean": "그 수행자는 웃으며 대답했다: 모든 것을 떠나 당신과 함께 가겠습니다.",
+      "explanation": "수행자가 말한 내용을 한국어로 번역한 것으로, 그의 긍정적인 반응과 함께 변화를 제안하는 내용을 담고 있다.",
+      "grammar": "동사 「laughed」는 laugh의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-88/08.mp3",
+      "vocabulary": [
+        {
+          "word": "laughed",
+          "meaning": "웃었다",
+          "note": "수행자의 긍정적이고 여유로운 태도를 나타낸다."
+        },
+        {
+          "word": "replying",
+          "meaning": "대답하다",
+          "note": "그의 말이 질문이나 비판에 대한 직접적인 반응임을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "So saying, he immediately got up and walked off with the beggar not even waiting to put his sandals on!",
+      "korean": "그는 말하며 즉시 일어나 모래알도 신지 않고 거지와 함께 떠났다.",
+      "explanation": "그가 말한 대로 즉시 행동하여 신발을 신지 않고 떠났다는 의미",
+      "grammar": "동사 「got」는 get의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-88/09.mp3",
+      "vocabulary": [
+        {
+          "word": "immediately",
+          "meaning": "즉시",
+          "note": "행동의 즉각성을 나타냄"
+        },
+        {
+          "word": "waiting",
+          "meaning": "기다리기",
+          "note": "행동을 지연시키는 상황을 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "After a short while the beggar became distressed.",
+      "korean": "잠시 후에 거지가 걱정하기 시작했다.",
+      "explanation": "거지가 불안해하거나 불안해하기 시작한 상황을 설명합니다.",
+      "grammar": "동사 「became」는 become의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-88/10.mp3",
+      "vocabulary": [
+        {
+          "word": "beggar",
+          "meaning": "거지",
+          "note": "이 문맥에서는 가난하여 돈이나 음식을 구걸하는 사람을 의미합니다."
+        },
+        {
+          "word": "distressed",
+          "meaning": "걱정하다, 불안해하다",
+          "note": "상황이 좋지 않거나 위협적으로 느껴져 심리적으로 불안한 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "Ileft my begging bowl in your tent, he said.",
+      "korean": "그는 당신의 텐트 안에 구걸 그릇을 두고 왔다고 말했습니다.",
+      "explanation": "구걸자가 텐트 안에 자신의 구걸 그릇을 두고 왔음을 알리는 내용입니다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-88/11.mp3",
+      "vocabulary": [
+        {
+          "word": "Ileft",
+          "meaning": "두고 갔다",
+          "note": "이 문맥에서는 「두고 갔다」의 뜻으로 읽습니다."
+        },
+        {
+          "word": "begging",
+          "meaning": "구걸",
+          "note": "빈곤으로 인해 돈이나 음식 등을 구걸하는 행위를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "What shall I do without it?",
+      "korean": "그것 없이 어떻게 해야 할까요?",
+      "explanation": "문장은 현재 상황에서 특정 물건(여기서는 ' begging bowl' 즉, 자선을 위한 그릇) 없이는 어떻게 대처해야 할지에 대한 고민이나 질문을 표현하고 있습니다.",
+      "grammar": "「shall I do」에서 조동사 shall 뒤에 동사원형 「do」가 옵니다. shall은 문맥에 따라 미래·의지·제안 등을 나타냅니다.",
+      "audio": "audio/1970-88/12.mp3",
+      "vocabulary": [
+        {
+          "word": "shall",
+          "meaning": "어떻게 해야 할지에 대한 의문이나 제안을 나타낼 때 사용되는 표현",
+          "note": "이 문맥에서는 미래나 선택에 대한 직접적인 행동 지시보다는 상황에 대한 의문을 제기하는 역할을 합니다."
+        },
+        {
+          "word": "without",
+          "meaning": "없이",
+          "note": "특정 물건이나 상태가 부재한 상황을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "Please wait here while I go and fetch it.",
+      "korean": "거기서 기다려 주세요, 제가 그걸 가져오겠습니다.",
+      "explanation": "문장은 요청자가 다른 장소로 가서 특정 물건을 가져오기 위해 상대방에게 잠시 기다리라고 부탁하는 내용입니다.",
+      "grammar": "동사원형 「wait」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-88/13.mp3",
+      "vocabulary": [
+        {
+          "word": "wait",
+          "meaning": "기다리다",
+          "note": "여기서는 명령형으로 사용되어 상대방에게 행동을 요청하는 의미입니다."
+        },
+        {
+          "word": "fetch",
+          "meaning": "가져오다",
+          "note": "요청자가 특정 장소로 가서 물건을 가져오겠다는 의도를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "The Sufi laughed.",
+      "korean": "수피는 웃었다.",
+      "explanation": "수피가 웃음을 터뜨렸다는 의미",
+      "grammar": "동사 「laughed」는 laugh의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-88/14.mp3",
+      "vocabulary": [
+        {
+          "word": "laughed",
+          "meaning": "웃었다",
+          "note": "단순히 웃음을 표현하며, 즐거움이나 유머를 동반할 수 있음"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "My friend, he said, the gold pegs of my tent were stuck in the earth not in my heart, but your begging bowl is still chasing after you!",
+      "korean": "내 친구가 말했다, 내 텐트의 금빛 못들이 땅에 박혀 있지 내 마음에 박혀 있지 않듯이, 네 구걸 그릇은 여전히 너를 쫓고 있구나!",
+      "explanation": "친구의 말을 통해 비유적으로 상대방의 집착이나 추구하는 것에 대해 비판하는 내용",
+      "grammar": "「were stuck」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1970-88/15.mp3",
+      "vocabulary": [
+        {
+          "word": "friend",
+          "meaning": "친구",
+          "note": "문장에서 말하는 사람의 관점을 나타내는 대상"
+        },
+        {
+          "word": "begging",
+          "meaning": "구걸",
+          "note": "비유적으로 무언가를 계속해서 추구하거나 갈망하는 상황을 나타냄"
+        },
+        {
+          "word": "chasing",
+          "meaning": "쫓다",
+          "note": "비유적으로 어떤 것을 계속해서 추구하거나 따라가는 상황을 표현"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "To be in the world is not attachment.",
+      "korean": "세상에 속하는 것은 집착이 아니다.",
+      "explanation": "세상에 참여하거나 존재하는 것 자체가 집착이 아니라는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-88/16.mp3",
+      "vocabulary": [
+        {
+          "word": "world",
+          "meaning": "세상",
+          "note": "여기서는 물질적이고 현실적인 세계를 가리킵니다."
+        },
+        {
+          "word": "attachment",
+          "meaning": "집착",
+          "note": "특정 대상이나 상황에 지나치게 얽매이거나 의존하는 상태를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 17,
+      "english": "The presence of the world in the mind is the attachment, and when the world disappears from the mind - this is non-attachment.",
+      "korean": "세상이 마음에 존재하는 것이 애착이고, 세상이 마음에서 사라지면 이것이 애착 없는 상태이다.",
+      "explanation": "세상에 대한 마음의 존재가 애착을 의미하며, 반대로 세상이 마음에서 사라지는 순간이 애착에서 벗어난 상태임을 설명한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-88/17.mp3",
+      "vocabulary": [
+        {
+          "word": "presence",
+          "meaning": "존재",
+          "note": "여기서는 세상이 마음 속에 존재한다는 의미로 사용됨."
+        },
+        {
+          "word": "attachment",
+          "meaning": "애착",
+          "note": "세상에 대한 마음의 집착이나 연결을 의미함."
+        },
+        {
+          "word": "disappears",
+          "meaning": "사라진다",
+          "note": "세상이 마음에서 사라지는 상황을 묘사하며, 이는 애착에서 벗어난 상태를 나타냄."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "비소유는 사물이 아닌 생각에 집중한다.",
+    "비소유는 외부가 아닌 내면에 관련되어 있다.",
+    "비소유는 외부가 아닌 내면과 관련이 있다. 어느 날 가난한 사람이 수피 파이르를 찾아가니, 그는 벨벳 쿠션 위에 앉아 황금빛 기둥에 묶인 아름다운 텐트 안에 있었다.",
+    "모든 것을 보고 거지는 외쳤다: 이게 뭐야! 존경하는 수행자님, 당신의 영적 깊이와 집착 없는 삶에 대해 많이 들었지만, 지금 눈앞의 화려함에 완전히 실망했습니다.",
+    "그 수행자는 웃으며 대답했다: 모든 것을 떠나 당신과 함께 가겠습니다. 그는 말하며 즉시 일어나 모래알도 신지 않고 거지와 함께 떠났다.",
+    "잠시 후에 거지가 걱정하기 시작했다. 그는 당신의 텐트 안에 구걸 그릇을 두고 왔다고 말했습니다. 그것 없이 어떻게 해야 할까요? 거기서 기다려 주세요, 제가 그걸 가져오겠습니다.",
+    "수피는 웃었다. 내 친구가 말했다, 내 텐트의 금빛 못들이 땅에 박혀 있지 내 마음에 박혀 있지 않듯이, 네 구걸 그릇은 여전히 너를 쫓고 있구나!",
+    "세상에 속하는 것은 집착이 아니다. 세상이 마음에 존재하는 것이 애착이고, 세상이 마음에서 사라지면 이것이 애착 없는 상태이다."
+  ],
+  "fullAudio": "audio/1970-88/script_all.mp3",
+  "originalText": "Love.\n\nNon-attachment is not concerned with things\nbut with thoughts.\n\nNon-attachment is not related to the outside\nbut to the within.\n\nNon-attachment is not to do with the world\nbut with oneself.\nOne day a beggar went to see a Sufi fakir and found him\nseated on a velvet cushion inside a beautiful tent with its\nropes tied to golden pegs.\n\nSeeing all this the beggar cried: What is this!\nHonorable Fakir, I have heard much about your\nspirituality and non-attachment, but I am completely\ndisillusioned by all this ostentation around you.\n\nThe fakir laughed, replying:\nI am ready to leave all this behind and come with you.\nSo saying, he immediately got up and walked off with\nthe beggar not even waiting to put his sandals on!\n\nAfter a short while the beggar became distressed.\nIleft my begging bowl in your tent, he said.\nWhat shall I do without it?\nPlease wait here while I go and fetch it.\n\nThe Sufi laughed. My friend, he said,\nthe gold pegs of my tent were stuck in the earth\nnot in my heart,\nbut your begging bowl is still chasing after you!\n\nTo be in the world is not attachment.\nThe presence of the world in the mind is the attachment,\nand when the world disappears from the mind -\nthis is non-attachment.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 88,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0811 2.JPG",
+        "side": "left",
+        "printedPage": 72
+      },
+      {
+        "file": "IMG_0811 2.JPG",
+        "side": "right",
+        "printedPage": 73
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

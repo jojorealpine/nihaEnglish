@@ -1,0 +1,16 @@
+{
+  "key": "letter-289-part-02",
+  "number": 289,
+  "generationId": "01a1e903-4bab-786d-be98-46ea03337c8e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "A moment's thinking and you are as far from the real as is possible.",
+      "path": "audio/1971-289/11.mp3",
+      "start": 0.0,
+      "end": 4.41
+    }
+  ]
+}

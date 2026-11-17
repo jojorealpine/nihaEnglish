@@ -1,0 +1,79 @@
+{
+  "key": "letter-346-part-01",
+  "number": 346,
+  "generationId": "01a1e915-7cb7-73a3-8ab2-73728aa1548e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-346/01.mp3",
+      "start": 0.0,
+      "end": 0.533243
+    },
+    {
+      "index": 1,
+      "text": "Begin the following meditation from tomorrow - and know that this is an order!",
+      "path": "audio/1971-346/02.mp3",
+      "start": 1.7604760000000002,
+      "end": 5.449206
+    },
+    {
+      "index": 2,
+      "text": "Now you are so totally mine that I cannot do anything other than order you!",
+      "path": "audio/1971-346/03.mp3",
+      "start": 6.6643989999999995,
+      "end": 10.477891
+    },
+    {
+      "index": 3,
+      "text": "Prerequisites: Do it cheerfully.",
+      "path": "audio/1971-346/04.mp3",
+      "start": 11.637642000000001,
+      "end": 14.157098
+    },
+    {
+      "index": 4,
+      "text": "Do it relaxedly.",
+      "path": "audio/1971-346/05.mp3",
+      "start": 15.443855000000001,
+      "end": 16.621111000000003
+    },
+    {
+      "index": 5,
+      "text": "Be playful.",
+      "path": "audio/1971-346/06.mp3",
+      "start": 17.836938999999997,
+      "end": 18.69415
+    },
+    {
+      "index": 6,
+      "text": "Do it in the morning after taking a bath.",
+      "path": "audio/1971-346/07.mp3",
+      "start": 19.880181,
+      "end": 21.86458
+    },
+    {
+      "index": 7,
+      "text": "The meditation: First: breathe deeply and rhythmically, not fast but slowly, for ten minutes.",
+      "path": "audio/1971-346/08.mp3",
+      "start": 23.221111,
+      "end": 29.595215
+    },
+    {
+      "index": 8,
+      "text": "Second: dance rhythmically and slowly; be ecstatic, as if flowing in it, for ten minutes.",
+      "path": "audio/1971-346/09.mp3",
+      "start": 30.871043,
+      "end": 37.073673
+    },
+    {
+      "index": 9,
+      "text": "Third: use the mahamantra: hoo-hoo-hoo.",
+      "path": "audio/1971-346/10.mp3",
+      "start": 38.415488,
+      "end": 41.74
+    }
+  ]
+}

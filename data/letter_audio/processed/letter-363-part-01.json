@@ -1,0 +1,79 @@
+{
+  "key": "letter-363-part-01",
+  "number": 363,
+  "generationId": "01a1e919-3507-7018-bfef-2786ae7e543b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-363/01.mp3",
+      "start": 0.0,
+      "end": 0.740408
+    },
+    {
+      "index": 1,
+      "text": "You write to me that without me you cannot pass through the gate and with me you will not pass through the gate.",
+      "path": "audio/1971-363/02.mp3",
+      "start": 2.1639459999999997,
+      "end": 7.868753
+    },
+    {
+      "index": 2,
+      "text": "I know that!",
+      "path": "audio/1971-363/03.mp3",
+      "start": 9.323265000000001,
+      "end": 10.316213
+    },
+    {
+      "index": 3,
+      "text": "But you need not do either.",
+      "path": "audio/1971-363/04.mp3",
+      "start": 11.878662,
+      "end": 13.445713999999999
+    },
+    {
+      "index": 4,
+      "text": "You need not pass through the gate with me or not with me, because I am the gate.",
+      "path": "audio/1971-363/05.mp3",
+      "start": 15.012313,
+      "end": 18.724558000000002
+    },
+    {
+      "index": 5,
+      "text": "I am no-one, so how can you be with me or not with me?",
+      "path": "audio/1971-363/06.mp3",
+      "start": 20.173469,
+      "end": 24.256667
+    },
+    {
+      "index": 6,
+      "text": "And only one who is no one can be the gate.",
+      "path": "audio/1971-363/07.mp3",
+      "start": 25.491338,
+      "end": 27.826327000000003
+    },
+    {
+      "index": 7,
+      "text": "The gate means the emptiness because the gate is nothing but the space to pass through.",
+      "path": "audio/1971-363/08.mp3",
+      "start": 29.076712,
+      "end": 33.923991
+    },
+    {
+      "index": 8,
+      "text": "Pass through me - not with me - and know.",
+      "path": "audio/1971-363/09.mp3",
+      "start": 35.086644,
+      "end": 38.131541999999996
+    },
+    {
+      "index": 9,
+      "text": "I appear to be someone only from without, but the deeper you penetrate me the less you will find me.",
+      "path": "audio/1971-363/10.mp3",
+      "start": 39.597868000000005,
+      "end": 46.63
+    }
+  ]
+}

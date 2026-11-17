@@ -25,8 +25,19 @@
       <p class="subtitle" id="letter-lesson" hidden></p>
 
       <nav class="letter-nav" aria-label="편지 선택">
-        <div class="eyebrow">Choose a letter</div>
-        <div class="letter-list" id="letter-list"></div>
+        <div class="letter-index-heading">
+          <div class="eyebrow">365 Letters · 편지 목차</div>
+          <span class="letter-index-summary" id="letter-index-summary"></span>
+        </div>
+        <div class="letter-index-tools">
+          <div class="letter-ranges" id="letter-ranges" role="group" aria-label="편지 번호 구간"></div>
+          <label class="letter-search-label" for="letter-search">번호로 찾기
+            <input id="letter-search" type="search" inputmode="numeric" placeholder="1–365" autocomplete="off" aria-controls="letter-list">
+          </label>
+        </div>
+        <p class="letter-index-note">진한 글씨는 본문이 있는 편지, 회색은 준비 중인 편지입니다.</p>
+        <ul class="letter-list" id="letter-list" aria-label="편지 링크"></ul>
+        <p class="letter-index-empty" id="letter-index-empty" role="status" hidden>1부터 365 사이의 편지 번호를 입력해 주세요.</p>
       </nav>
       <p class="letter-status" id="letter-status" role="status">편지 목록을 불러오는 중…</p>
 
@@ -45,22 +56,6 @@
     </section>
 
     <div id="lesson-content" hidden>
-      <section class="section">
-        <div class="eyebrow">01 / Words & expressions</div>
-        <h2>핵심 단어와 표현</h2>
-        <p class="hint">본문을 읽기 전에 의미와 뉘앙스를 먼저 익혀보세요.</p>
-        <div class="study-tabs" id="study-tabs" role="tablist" aria-label="단어와 표현 선택">
-          <button class="study-tab" id="vocab-tab" type="button" role="tab" aria-selected="true" aria-controls="vocab-panel">핵심 단어</button>
-          <button class="study-tab" id="expressions-tab" type="button" role="tab" aria-selected="false" aria-controls="expressions-panel" tabindex="-1">표현</button>
-        </div>
-        <div id="vocab-panel" role="tabpanel" aria-labelledby="vocab-tab" tabindex="0">
-          <div class="vocab-grid" id="vocab"></div>
-        </div>
-        <div id="expressions-panel" role="tabpanel" aria-labelledby="expressions-tab" tabindex="0" hidden>
-          <div id="expressions"></div>
-        </div>
-      </section>
-
       <!-- 영상 영역은 현재 숨겨 둡니다. 사용할 때 이 주석을 해제하세요.
       <section class="section">
         <div class="eyebrow">Video</div>
@@ -80,7 +75,7 @@
       -->
 
       <section class="section">
-        <div class="eyebrow">02 / Read & listen</div>
+        <div class="eyebrow">01 / Read & listen</div>
         <h2>영어 본문</h2>
         <div class="study-tabs" id="reading-tabs" role="tablist" aria-label="본문 학습 방식">
           <button class="study-tab" id="reading-tab" type="button" role="tab" aria-selected="true" aria-controls="reading-panel">본문</button>
@@ -126,10 +121,26 @@
       </section>
 
       <section class="section">
-        <div class="eyebrow">03 / Korean translation</div>
+        <div class="eyebrow">02 / Korean translation</div>
         <h2>한국어 전체 해석</h2>
         <p class="hint">시적인 표현은 문맥을 고려해 자연스럽게 의역했습니다.</p>
         <div class="translation" id="translation"></div>
+      </section>
+
+      <section class="section">
+        <div class="eyebrow">03 / Words & expressions</div>
+        <h2>핵심 단어와 표현</h2>
+        <p class="hint">본문에서 만난 단어와 표현의 의미와 뉘앙스를 복습해보세요.</p>
+        <div class="study-tabs" id="study-tabs" role="tablist" aria-label="단어와 표현 선택">
+          <button class="study-tab" id="vocab-tab" type="button" role="tab" aria-selected="true" aria-controls="vocab-panel">핵심 단어</button>
+          <button class="study-tab" id="expressions-tab" type="button" role="tab" aria-selected="false" aria-controls="expressions-panel" tabindex="-1">표현</button>
+        </div>
+        <div id="vocab-panel" role="tabpanel" aria-labelledby="vocab-tab" tabindex="0">
+          <div class="vocab-grid" id="vocab"></div>
+        </div>
+        <div id="expressions-panel" role="tabpanel" aria-labelledby="expressions-tab" tabindex="0" hidden>
+          <div id="expressions"></div>
+        </div>
       </section>
     </div>
   </main>

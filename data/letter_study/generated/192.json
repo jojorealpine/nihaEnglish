@@ -1,0 +1,383 @@
+{
+  "sourceHash": "439b79567bc5fbb1cd951ff9f4788672bd70513a4f9ca98998e3adef18c60d94",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "아! 하고 운몬이 말했다.",
+        "explanation": "운몬이 놀라거나 반응하며 소리를 냈다는 의미",
+        "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "said",
+            "meaning": "말하다",
+            "note": "이 문장에서는 운몬이 말을 했다는 것을 나타냄"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "무슨 도움이 될까요?",
+        "explanation": "문장에서 'good'이라는 단어가 어떤 가치나 이점을 묻는 맥락에서 사용되었음을 반영한 번역입니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "good",
+            "meaning": "이점, 가치",
+            "note": "여기서는 불교가 제공하는 이점이나 가치에 대해 질문하고 있습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "11": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "아할이 우몬이라고 불렀다.",
+        "explanation": "아할이라는 인물이 우몬이라는 이름을 부르는 상황을 설명합니다.",
+        "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "said",
+            "meaning": "부르다, 말하다",
+            "note": "이 문맥에서는 이름을 부르는 행위를 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "12": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "너는 귀가 들리는구나!",
+        "explanation": "상대방이 소리를 들을 수 있다는 것을 인지하고 놀람을 표현하는 문장입니다.",
+        "grammar": "동사 「see」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "deaf",
+            "meaning": "청력이 없는, 듣지 못하는",
+            "note": "문장에서는 부정적인 맥락으로 사용되어 상대방이 듣는 능력이 있다는 것을 강조합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "너는 눈이 멀지 않구나!",
+        "explanation": "상대방이 시각 능력을 가지고 있음을 인식하고 감탄하는 표현",
+        "grammar": "동사 「see」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "blind",
+            "meaning": "눈이 멀다",
+            "note": "여기서는 부정적 의미로 사용되어 상대방이 시각 장애를 갖지 않음을 강조"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "16": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "너는 어리석지 않구나!",
+        "explanation": "상대방의 지혜나 이해력을 칭찬하는 문장으로, 상대방이 똑똑하거나 현명하다는 의미를 전달한다.",
+        "grammar": "동사 「see」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "dumb",
+            "meaning": "어리석은, 바보 같은",
+            "note": "이 문맥에서는 부정적인 의미로 사용되어 상대방의 지능이나 이해력이 뛰어나다는 것을 강조한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "15": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "아하!라고 운몬이 말했다.",
+        "explanation": "운몬이 깨달음이나 통찰을 표현하며 말하는 장면을 묘사한다.",
+        "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "Ah-ha!",
+            "meaning": "아하! (감탄사)",
+            "note": "갑작스러운 깨달음이나 이해를 나타내는 감탄사."
+          },
+          {
+            "word": "said",
+            "meaning": "말했다",
+            "note": "이 문맥에서는 「말했다」의 뜻으로 읽습니다."
+          },
+          {
+            "word": "Ummon",
+            "meaning": "운몬",
+            "note": "특정 인물의 이름으로, 문맥에 따라 고승이나 수행자를 의미할 수 있다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "14": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "승려는 이해하지 못한다고 말했습니다.",
+        "explanation": "승려가 질문에 대한 답변으로 자신이 상황을 이해하지 못한다고 표현한 내용입니다.",
+        "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "monk",
+            "meaning": "승려",
+            "note": "불교 수행을 하는 남성 승려를 가리킵니다."
+          },
+          {
+            "word": "said",
+            "meaning": "말했습니다",
+            "note": "이 문맥에서는 「말했습니다」의 뜻으로 읽습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "물론 스님은 뒤로 물러섰다.",
+        "explanation": "물론 스님이 갑작스럽게 움직이자 뒤로 피하는 반응을 보였다.",
+        "grammar": "동사 「jumped」는 jump의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "course",
+            "meaning": "물론",
+            "note": "이 문맥에서는 '물론'이라는 의미로 사용되어, 상황이 자연스럽게 그렇게 진행될 것이라는 확신을 나타낸다."
+          },
+          {
+            "word": "jumped",
+            "meaning": "물러섰다",
+            "note": "여기서는 신체적인 반응을 나타내며, 스님이 갑작스럽게 움직이는 행동에 대한 즉각적인 반응으로 뒤로 피하는 동작을 의미한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "10": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "그는 승려에게 앞으로 나오라고 말했고, 승려는 그렇게 했습니다.",
+        "explanation": "승려에게 앞으로 나아가도록 지시하고 그 지시를 따른 상황을 설명합니다.",
+        "grammar": "동사 「told」는 tell의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "told",
+            "meaning": "말하다",
+            "note": "명령이나 요청을 전달하는 의미입니다."
+          },
+          {
+            "word": "forward",
+            "meaning": "앞으로",
+            "note": "방향을 나타내며, 여기서는 앞으로 나아가라는 지시를 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "13": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "그는 승려에게 이 모든 혼란의 의미를 이해했는지 물었다.",
+        "explanation": "승려에게 현재 상황의 의미를 파악했는지 질문하는 내용",
+        "grammar": "동사 「asked」는 ask의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "asked",
+            "meaning": "질문하다",
+            "note": "직접적인 질문을 통해 정보를 얻으려는 의도를 나타냄"
+          },
+          {
+            "word": "understood",
+            "meaning": "이해하다",
+            "note": "상황이나 내용을 인지하고 파악한 상태를 의미함"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "우몬은 잠시 침묵한 후 갑자기 질문자에게 지팡이로 찌르듯이 말했다.",
+        "explanation": "우몬이 잠시 말을 하지 않고 침묵한 후에 갑자기 질문하는 사람에게 행동을 취함으로써 질문에 대한 반응을 보였다.",
+        "grammar": "동사 「remained」는 remain의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "remained",
+            "meaning": "머물렀다",
+            "note": "시간의 경과를 나타내며, 여기서는 침묵의 상태를 유지했다는 의미입니다."
+          },
+          {
+            "word": "questioner",
+            "meaning": "질문하는 사람",
+            "note": "문장에서 질문을 던지는 사람을 지칭합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "다른 사람을 생각하지 말고 시간을 낭비하지 마세요; 사실, 그것은 마음이 스스로를 피하려는 교묘하고 교활한 방법입니다.",
+        "explanation": "문장은 자신의 문제나 고민에서 벗어나려는 마음의 교묘한 전략을 경고하고 있습니다.",
+        "grammar": "「Do not think」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "subtle",
+            "meaning": "교묘한",
+            "note": "여기서는 마음의 전략이 눈에 띄지 않게 교묘하게 작동한다는 의미입니다."
+          },
+          {
+            "word": "cunning",
+            "meaning": "교활한",
+            "note": "마음이 자신을 피하려는 방법이 교활하고 영리하다는 뉘앙스를 담고 있습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "한 승려가 운문 스님께 물었다: 선생님은 불교가 모든 가능한 방면에서 우리를 돕는다고 항상 말씀하시지만, 눈이 멀거나 귀가 들리지 않거나 말을 할 수 없는 사람들에게는 어떻게 도움이 될까요?",
+        "explanation": "승려가 운문 스님에게 불교의 보편적인 도움의 범위에 대해 질문하며, 특히 장애를 가진 사람들에게 어떻게 적용되는지 묻는 내용입니다.",
+        "grammar": "동사 「say」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "asked",
+            "meaning": "묻다",
+            "note": "질문을 던지는 행위를 나타냅니다."
+          },
+          {
+            "word": "helps",
+            "meaning": "돕다",
+            "note": "불교가 사람들에게 어떤 방식으로 도움을 주는지에 대한 질문의 핵심입니다."
+          },
+          {
+            "word": "possible",
+            "meaning": "가능한",
+            "note": "불교의 도움이 다양한 상황에서 적용될 수 있다는 의미를 담고 있습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "눈먼 이들은 선생님의 지팡이를 볼 수 없고, 귀가 먼 이들은 선생님의 말씀을 들을 수 없으며, 말 못하는 이들은 질문하거나 이해를 표현할 수 없으니, 어떻게 이런 분들을 도울 수 있을지 모르겠습니다. 그렇다면 불교가 모든 가능한 방법으로 우리를 도울 수 있다고 말할 수 있을까요?",
+        "explanation": "문장은 불교의 보편적인 도움에 대한 의문을 제기하며, 특히 시각, 청각, 언어 능력이 제한된 사람들에게 어떻게 적용되는지 질문합니다.",
+        "grammar": "「can we say」에서 조동사 can 뒤에 동사원형 「say」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "questions",
+            "meaning": "질문",
+            "note": "이 문맥에서는 질문을 통해 자신의 이해나 의견을 표현하지 못하는 상황을 설명합니다."
+          },
+          {
+            "word": "understanding",
+            "meaning": "이해",
+            "note": "자신의 생각이나 지식을 표현하거나 전달하지 못하는 상황을 나타냅니다."
+          },
+          {
+            "word": "possible",
+            "meaning": "가능한",
+            "note": "불교의 도움이 모든 상황에서 적용될 수 있다는 주장에 대한 의문을 제기하며 사용됩니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "cannot see",
+            "meaning": "보이지 않다",
+            "explanation": "시각 장애를 가진 사람들의 상황을 설명합니다."
+          },
+          {
+            "expression": "cannot hear",
+            "meaning": "들리지 않다",
+            "explanation": "청력 장애를 가진 사람들의 상황을 설명합니다."
+          }
+        ]
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

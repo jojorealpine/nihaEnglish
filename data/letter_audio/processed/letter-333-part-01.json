@@ -1,0 +1,72 @@
+{
+  "key": "letter-333-part-01",
+  "number": 333,
+  "generationId": "01a1e911-7bf1-74b1-8daa-3ed042f4d901",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-333/01.mp3",
+      "start": 0.0,
+      "end": 0.627143
+    },
+    {
+      "index": 1,
+      "text": "Do not cling to anything, to any idea, because clinging is the bondage.",
+      "path": "audio/1971-333/02.mp3",
+      "start": 2.034671,
+      "end": 6.651474
+    },
+    {
+      "index": 2,
+      "text": "Even if one is clinging to the idea of liberation - moksha or nirvana - one will be in bondage.",
+      "path": "audio/1971-333/03.mp3",
+      "start": 7.943015999999999,
+      "end": 14.201587
+    },
+    {
+      "index": 3,
+      "text": "With clinging meditation is impossible because clinging is mind, the bondage; and no-clinging is meditation - the freedom.",
+      "path": "audio/1971-333/04.mp3",
+      "start": 15.603107000000001,
+      "end": 24.340113000000002
+    },
+    {
+      "index": 4,
+      "text": "In the Book of Amu Daria there is an old Sufi tale: Once upon a time there was a monkey who was very fond of cherries.",
+      "path": "audio/1971-333/05.mp3",
+      "start": 25.740112999999997,
+      "end": 34.364399
+    },
+    {
+      "index": 5,
+      "text": "One day he saw a delicious looking cherry and came down from his tree to get it, but the fruit turned out to be in a clear glass bottle, so he had to put his hand into the bottle to get it out.",
+      "path": "audio/1971-333/06.mp3",
+      "start": 35.673673,
+      "end": 47.248413
+    },
+    {
+      "index": 6,
+      "text": "As soon as he had done so he closed his hand over the cherry but then he found that he could not withdraw his fist holding the cherry because it was larger than the bottles neck.",
+      "path": "audio/1971-333/07.mp3",
+      "start": 48.888934000000006,
+      "end": 58.299524
+    },
+    {
+      "index": 7,
+      "text": "Now all this was deliberate because the cherry in the bottle was a trap laid by a monkey hunter who knew how monkeys think.",
+      "path": "audio/1971-333/08.mp3",
+      "start": 59.732789000000004,
+      "end": 68.49167800000001
+    },
+    {
+      "index": 8,
+      "text": "The hunter, hearing the monkey's whimperings, came along.",
+      "path": "audio/1971-333/09.mp3",
+      "start": 69.988571,
+      "end": 73.74
+    }
+  ]
+}

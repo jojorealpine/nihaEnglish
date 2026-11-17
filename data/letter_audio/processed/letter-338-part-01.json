@@ -1,0 +1,79 @@
+{
+  "key": "letter-338-part-01",
+  "number": 338,
+  "generationId": "01a1e912-dc7b-75a8-b13c-a7ab9eb68d10",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-338/01.mp3",
+      "start": 0.0,
+      "end": 0.759093
+    },
+    {
+      "index": 1,
+      "text": "That which is never lost cannot be found, and to search for it is absurd.",
+      "path": "audio/1971-338/02.mp3",
+      "start": 1.992744,
+      "end": 6.1376420000000005
+    },
+    {
+      "index": 2,
+      "text": "But the moment this absurdity is understood all seeking stops by itself and that which is never lost is found!",
+      "path": "audio/1971-338/03.mp3",
+      "start": 7.4384809999999995,
+      "end": 14.039705
+    },
+    {
+      "index": 3,
+      "text": "That is why I say: Seek and you will not find, because the very seeking is the barrier.",
+      "path": "audio/1971-338/04.mp3",
+      "start": 15.305714,
+      "end": 20.646871
+    },
+    {
+      "index": 4,
+      "text": "The search itself is the hindrance because it creates the seeker, the ego, the illusion that I am.",
+      "path": "audio/1971-338/05.mp3",
+      "start": 21.800770999999997,
+      "end": 27.175238
+    },
+    {
+      "index": 5,
+      "text": "And I am not.",
+      "path": "audio/1971-338/06.mp3",
+      "start": 28.406575999999998,
+      "end": 29.222834000000002
+    },
+    {
+      "index": 6,
+      "text": "Do not seek and you will find it: the I-am-not-ness.",
+      "path": "audio/1971-338/07.mp3",
+      "start": 30.434874999999998,
+      "end": 33.943107
+    },
+    {
+      "index": 7,
+      "text": "This nothingness is the gate.",
+      "path": "audio/1971-338/08.mp3",
+      "start": 35.126757000000005,
+      "end": 36.737913999999996
+    },
+    {
+      "index": 8,
+      "text": "The Gateless gate.",
+      "path": "audio/1971-338/09.mp3",
+      "start": 38.316213000000005,
+      "end": 39.778005
+    },
+    {
+      "index": 9,
+      "text": "Riko once asked Nansen to explain to him the old problem of the goose in the bottle.",
+      "path": "audio/1971-338/10.mp3",
+      "start": 41.344649000000004,
+      "end": 46.94
+    }
+  ]
+}

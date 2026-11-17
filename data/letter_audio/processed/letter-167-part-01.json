@@ -1,0 +1,51 @@
+{
+  "key": "letter-167-part-01",
+  "number": 167,
+  "generationId": "01a1e8e4-1a64-7d46-b1c2-cb57e13d69a6",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-167/01.mp3",
+      "start": 0.0,
+      "end": 0.993424
+    },
+    {
+      "index": 1,
+      "text": "The ego is necessary for both the sensation of pain and the feeling of pleasure and vice versa also - the sensation of pain and the feeling of pleasure, are necessary for the existence of the ego.",
+      "path": "audio/1971-167/02.mp3",
+      "start": 2.1238319999999997,
+      "end": 14.127505999999999
+    },
+    {
+      "index": 2,
+      "text": "In fact these are two sides of the same coin.",
+      "path": "audio/1971-167/03.mp3",
+      "start": 15.680952000000001,
+      "end": 18.681383
+    },
+    {
+      "index": 3,
+      "text": "The name of the coin is ignorance.",
+      "path": "audio/1971-167/04.mp3",
+      "start": 20.06746,
+      "end": 22.56449
+    },
+    {
+      "index": 4,
+      "text": "Understand this and do not fight with the ego or with pain and pleasure, because unless ignorance is gone they will not go, they cannot go.",
+      "path": "audio/1971-167/05.mp3",
+      "start": 24.020023,
+      "end": 34.073968
+    },
+    {
+      "index": 5,
+      "text": "And you cannot fight with ignorance because ignorance is just absence of something - absence of yourself So be present to your ignorance, be aware of it, and then you will be and there will be no ignorance because you and ignorance cannot exist simultaneously, as with light and darkness.",
+      "path": "audio/1971-167/06.mp3",
+      "start": 35.461156,
+      "end": 56.87
+    }
+  ]
+}

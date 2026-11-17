@@ -1,0 +1,79 @@
+{
+  "key": "letter-317-part-01",
+  "number": 317,
+  "generationId": "01a1e90b-e393-7389-b049-f29cfff90024",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-317/01.mp3",
+      "start": 0.0,
+      "end": 0.855964
+    },
+    {
+      "index": 1,
+      "text": "Everything has happened as it should happen.",
+      "path": "audio/1971-317/02.mp3",
+      "start": 2.2880499999999997,
+      "end": 4.494807
+    },
+    {
+      "index": 2,
+      "text": "And I was surprised not because you ran away from here but because I never thought you could be so predictable!",
+      "path": "audio/1971-317/03.mp3",
+      "start": 5.872109,
+      "end": 12.425692
+    },
+    {
+      "index": 3,
+      "text": "It is not from here that you have escaped, it is only a vain effort to escape from yourself - which is impossible.",
+      "path": "audio/1971-317/04.mp3",
+      "start": 13.865556000000002,
+      "end": 20.485896
+    },
+    {
+      "index": 4,
+      "text": "How can one escape from oneself?",
+      "path": "audio/1971-317/05.mp3",
+      "start": 21.736349,
+      "end": 23.797347000000002
+    },
+    {
+      "index": 5,
+      "text": "But in meditation a moment comes, necessarily comes, when the mind tries the impossible - for the mind this is the last defensive act.",
+      "path": "audio/1971-317/06.mp3",
+      "start": 25.166508,
+      "end": 33.273424
+    },
+    {
+      "index": 6,
+      "text": "Meditation is ultimately suicidal to the mind.",
+      "path": "audio/1971-317/07.mp3",
+      "start": 34.564943,
+      "end": 37.972494
+    },
+    {
+      "index": 7,
+      "text": "And of course the mind must be given a chance - and you have given it!",
+      "path": "audio/1971-317/08.mp3",
+      "start": 39.464535000000005,
+      "end": 44.201383
+    },
+    {
+      "index": 8,
+      "text": "Meditation is encountering yourself directly and in your total nakedness.",
+      "path": "audio/1971-317/09.mp3",
+      "start": 45.666122,
+      "end": 50.612109
+    },
+    {
+      "index": 9,
+      "text": "This creates fear and the futile effort to escape.",
+      "path": "audio/1971-317/10.mp3",
+      "start": 52.183129,
+      "end": 56.45
+    }
+  ]
+}

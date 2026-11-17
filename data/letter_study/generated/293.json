@@ -1,0 +1,229 @@
+{
+  "sourceHash": "0e67745a1e537c0b46f8c620235bae8740621d64edb94cbedaa99b53f93a500b",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "경험을 통해 지식을 얻는다.",
+        "explanation": "지식은 직접적인 경험을 통해 얻어진다는 의미",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "experiencing",
+            "meaning": "경험",
+            "note": "지식 획득의 수단으로서 직접적인 참여나 관찰을 의미한다."
+          },
+          {
+            "word": "knowledge",
+            "meaning": "지식",
+            "note": "이해나 인식의 범위를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "많은 고민 끝에 아이디어를 떠올렸다.",
+        "explanation": "깊은 고민을 거친 후에 새로운 아이디어나 생각이 떠올랐음을 의미합니다.",
+        "grammar": "동사 「came」는 come의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "thought",
+            "meaning": "생각",
+            "note": "여기서는 깊은 고민이나 사색을 의미합니다."
+          },
+          {
+            "word": "came",
+            "meaning": "떠올랐다",
+            "note": "아이디어가 갑자기 생각나게 되었다는 의미입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "perfect",
+      "notes": {
+        "korean": "두 남자는 몇 년 동안 규칙적으로 체스를 두었습니다.",
+        "explanation": "두 남자가 오랜 기간 동안 꾸준히 체스 게임을 즐겼다는 의미입니다.",
+        "grammar": "「had played」는 had + 과거분사로 만든 과거완료 표현입니다. 과거의 기준 시점보다 앞선 일을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "played",
+            "meaning": "두었다",
+            "note": "이 문맥에서는 「두었다」의 뜻으로 읽습니다."
+          },
+          {
+            "word": "regularly",
+            "meaning": "규칙적으로",
+            "note": "일관되게, 꾸준히라는 의미로 빈도를 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "passive",
+      "notes": {
+        "korean": "그들은 실력이 비슷해서 치열한 경쟁심을 가지고 있었습니다.",
+        "explanation": "두 사람이 체스 실력이 비슷하여 서로 경쟁하는 모습을 묘사합니다.",
+        "grammar": "「were quite evenly matched」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "matched",
+            "meaning": "실력이 비슷하다",
+            "note": "두 사람의 능력 수준이 동등하다는 의미입니다."
+          },
+          {
+            "word": "rivalry",
+            "meaning": "경쟁",
+            "note": "서로를 이기기 위해 노력하는 강한 경쟁심을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "그는 친구에게 책을 선물로 보냈고, 곧 다시 균형을 이루게 되었다!",
+        "explanation": "그가 친구에게 책을 선물로 줌으로써 어떤 상황이나 경쟁에서 다시 균형을 찾게 되었다는 의미입니다.",
+        "grammar": "동사 「sent」는 send의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "friend",
+            "meaning": "친구",
+            "note": "상호 신뢰와 친밀한 관계를 가진 사람"
+          },
+          {
+            "word": "matched",
+            "meaning": "균형을 이루다 / 경쟁 상대가 되다",
+            "note": "이전 상태나 경쟁 상황에서 동등한 위치에 놓이게 되었다는 의미"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "progressive",
+      "notes": {
+        "korean": "반면에, 그는 체스 실력이 향상될 것으로 기대하고 있었는데, 왜냐하면 네 권짜리 체스 플레이 가이드 세트를 읽고 있었기 때문이었다.",
+        "explanation": "문장은 한 사람이 체스 실력 향상을 기대하는 이유를 설명한다. 이 기대는 체스에 대한 전문적인 지식을 얻기 위해 네 권의 책을 읽고 있다는 사실에서 비롯된다.",
+        "grammar": "「was expecting」는 be동사 + -ing로 만든 과거진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "contrary",
+            "meaning": "반대의",
+            "note": "문장의 맥락에서는 이전 문장의 내용과 대비되는 상황을 나타낸다."
+          },
+          {
+            "word": "expecting",
+            "meaning": "기대하다",
+            "note": "체스 실력 향상에 대한 긍정적인 기대를 표현한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "그 중 한 남자가 거의 매번 경기할 때마다 상대를 압도하기 시작했고, 다른 남자는 이 현상을 전혀 이해하지 못했습니다.",
+        "explanation": "문장은 한 남자가 경쟁 상대를 지속적으로 이기기 시작하면서 다른 남자가 이 변화를 이해하지 못하는 상황을 설명합니다.",
+        "grammar": "동사 「began」는 begin의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "completely",
+            "meaning": "완전히",
+            "note": "이 단어는 다른 남자가 현상을 전혀 파악하지 못하고 있다는 강한 부정적 의미를 전달합니다."
+          },
+          {
+            "word": "understand",
+            "meaning": "이해하다",
+            "note": "이 문맥에서는 다른 남자가 상대방의 성공 이유를 파악하지 못하고 있다는 의미입니다."
+          },
+          {
+            "word": "phenomenon",
+            "meaning": "현상",
+            "note": "여기서는 상대방의 갑작스러운 우위 변화를 가리키는 용어입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "단순한 정보는 지식이 아니며, 오히려 지식이 마음에 주는 명료함을 주지 못하고 혼란을 더 키울 수 있습니다.",
+        "explanation": "단순한 정보만으로는 진정한 지식을 얻을 수 없으며, 오히려 혼란을 야기할 수 있다는 의미입니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "information",
+            "meaning": "정보",
+            "note": "단순히 사실이나 데이터를 의미합니다."
+          },
+          {
+            "word": "knowledge",
+            "meaning": "지식",
+            "note": "경험을 통해 얻어진 이해와 명료함을 의미합니다."
+          },
+          {
+            "word": "contrary",
+            "meaning": "반대로",
+            "note": "반대되는 개념이나 상황을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

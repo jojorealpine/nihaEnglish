@@ -1,0 +1,79 @@
+{
+  "key": "letter-157-part-02",
+  "number": 157,
+  "generationId": "01a1e6f5-27b7-7faa-bc47-0fff9e75de98",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "If you want to cut at all, cut the roots, because by cutting the roots the branches disappear on their own.",
+      "path": "audio/1970-157/11.mp3",
+      "start": 0.0,
+      "end": 4.9281630000000005
+    },
+    {
+      "index": 11,
+      "text": "And mind is the root.",
+      "path": "audio/1970-157/12.mp3",
+      "start": 6.103016,
+      "end": 7.319002
+    },
+    {
+      "index": 12,
+      "text": "Cut this root with meditation.",
+      "path": "audio/1970-157/13.mp3",
+      "start": 8.504989,
+      "end": 10.381972999999999
+    },
+    {
+      "index": 13,
+      "text": "Mind is the problem.",
+      "path": "audio/1970-157/14.mp3",
+      "start": 11.530068,
+      "end": 12.737302
+    },
+    {
+      "index": 14,
+      "text": "Meditation is the solution.",
+      "path": "audio/1970-157/15.mp3",
+      "start": 13.85932,
+      "end": 15.488005
+    },
+    {
+      "index": 15,
+      "text": "Mind knows no solution.",
+      "path": "audio/1970-157/16.mp3",
+      "start": 16.72288,
+      "end": 18.304807
+    },
+    {
+      "index": 16,
+      "text": "Meditation knows no problem.",
+      "path": "audio/1970-157/17.mp3",
+      "start": 19.468776,
+      "end": 21.369909
+    },
+    {
+      "index": 17,
+      "text": "Because, there is no meditation in the mind.",
+      "path": "audio/1970-157/18.mp3",
+      "start": 22.915034,
+      "end": 26.138934000000003
+    },
+    {
+      "index": 18,
+      "text": "Because, there is no mind in meditation.",
+      "path": "audio/1970-157/19.mp3",
+      "start": 27.764422,
+      "end": 30.597029000000003
+    },
+    {
+      "index": 19,
+      "text": "Absence of meditation is mind.",
+      "path": "audio/1970-157/20.mp3",
+      "start": 32.128912,
+      "end": 34.82
+    }
+  ]
+}

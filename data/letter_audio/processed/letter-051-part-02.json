@@ -1,0 +1,79 @@
+{
+  "key": "letter-051-part-02",
+  "number": 51,
+  "generationId": "01a1e4f1-7530-79ab-928a-fd85e48773e7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Thought never takes one beyond the known.",
+      "path": "audio/1968-51/11.mp3",
+      "start": 0.0,
+      "end": 1.923492
+    },
+    {
+      "index": 11,
+      "text": "And death is unknown.",
+      "path": "audio/1968-51/12.mp3",
+      "start": 3.027574,
+      "end": 4.484762
+    },
+    {
+      "index": 12,
+      "text": "Hence, it cannot be known through thinking.",
+      "path": "audio/1968-51/13.mp3",
+      "start": 5.578889,
+      "end": 7.970884
+    },
+    {
+      "index": 13,
+      "text": "I want to turn your attention towards life.",
+      "path": "audio/1968-51/14.mp3",
+      "start": 9.082744,
+      "end": 11.189388
+    },
+    {
+      "index": 14,
+      "text": "Life is - here and now.",
+      "path": "audio/1968-51/15.mp3",
+      "start": 12.268322000000001,
+      "end": 14.205397
+    },
+    {
+      "index": 15,
+      "text": "One can enter it.",
+      "path": "audio/1968-51/16.mp3",
+      "start": 15.334649,
+      "end": 16.384875
+    },
+    {
+      "index": 16,
+      "text": "Death is never here and now - either it is in the future or in the past.",
+      "path": "audio/1968-51/17.mp3",
+      "start": 17.523605,
+      "end": 21.628322
+    },
+    {
+      "index": 17,
+      "text": "Death is never in the present.",
+      "path": "audio/1968-51/18.mp3",
+      "start": 23.152652999999997,
+      "end": 25.522449
+    },
+    {
+      "index": 18,
+      "text": "Has this fact ever come to your attention, that death is never in the present?",
+      "path": "audio/1968-51/19.mp3",
+      "start": 27.28034,
+      "end": 32.109048
+    },
+    {
+      "index": 19,
+      "text": "But life is always in the present - neither in the past nor in the future.",
+      "path": "audio/1968-51/20.mp3",
+      "start": 33.696961,
+      "end": 38.45
+    }
+  ]
+}

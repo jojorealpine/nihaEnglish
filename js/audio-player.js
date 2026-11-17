@@ -109,7 +109,9 @@ export function createAudioPlayer({ onSelect, onPlaying, onStatus, getRate, shou
     onSelect(index);
     onPlaying(index);
     onStatus(`문장 ${index + 1} · 구절 ${chunkIndex + 1} MP3 재생 중…`);
-    let success = await playMP3(sentence.chunkAudio?.[chunkIndex], token);
+    const chunkAudio = sentence.chunkAudio?.[chunkIndex]
+      || (chunkIndex === 0 && !sentence.chunks?.length ? sentence.audio : null);
+    let success = await playMP3(chunkAudio, token);
     if (token !== generation) return;
     if (!success && shouldFallback()) {
       onStatus(`MP3 없음 · 문장 ${index + 1} · 구절 ${chunkIndex + 1} 브라우저 음성으로 재생`);

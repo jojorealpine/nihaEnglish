@@ -1,0 +1,44 @@
+{
+  "key": "letter-313-part-02",
+  "number": 313,
+  "generationId": "01a1e909-795a-7ff4-941c-ccc1114d3c98",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Please follow its call to the conclusion.",
+      "path": "audio/1971-313/11.mp3",
+      "start": 0.0,
+      "end": 2.4915190000000003
+    },
+    {
+      "index": 11,
+      "text": "Go on doing meditation.",
+      "path": "audio/1971-313/12.mp3",
+      "start": 3.98102,
+      "end": 5.778526
+    },
+    {
+      "index": 12,
+      "text": "Do not seek results, they will come by themselves when the time is ripe.",
+      "path": "audio/1971-313/13.mp3",
+      "start": 7.328549,
+      "end": 12.644670999999999
+    },
+    {
+      "index": 13,
+      "text": "And the time is ripe but you still are not.",
+      "path": "audio/1971-313/14.mp3",
+      "start": 14.075011,
+      "end": 17.428662000000003
+    },
+    {
+      "index": 14,
+      "text": "Let meditation ripen you.",
+      "path": "audio/1971-313/15.mp3",
+      "start": 18.815396999999997,
+      "end": 21.03
+    }
+  ]
+}

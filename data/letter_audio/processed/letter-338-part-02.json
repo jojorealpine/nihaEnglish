@@ -1,0 +1,44 @@
+{
+  "key": "letter-338-part-02",
+  "number": 338,
+  "generationId": "01a1e913-08cc-791a-aa3d-2b7f326d1424",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "If a man puts a gosling into the bottle, he said, and teeds the gosling through the bottles neck until it grows and grows and becomes a goose - and then there is simply no more room inside the bottle, how can the man get it out without killing the goose or breaking the bottle?",
+      "path": "audio/1971-338/11.mp3",
+      "start": 0.0,
+      "end": 16.892222
+    },
+    {
+      "index": 11,
+      "text": "RIKO! shouted Nansen, and gave a great clap with his hands.",
+      "path": "audio/1971-338/12.mp3",
+      "start": 18.492517,
+      "end": 22.998005000000003
+    },
+    {
+      "index": 12,
+      "text": "Yes master! said Riko with a start.",
+      "path": "audio/1971-338/13.mp3",
+      "start": 24.533514999999998,
+      "end": 27.593152
+    },
+    {
+      "index": 13,
+      "text": "See! said Nansen.",
+      "path": "audio/1971-338/14.mp3",
+      "start": 29.142765999999998,
+      "end": 31.23907
+    },
+    {
+      "index": 14,
+      "text": "The goose is out!",
+      "path": "audio/1971-338/15.mp3",
+      "start": 32.939728,
+      "end": 34.3
+    }
+  ]
+}

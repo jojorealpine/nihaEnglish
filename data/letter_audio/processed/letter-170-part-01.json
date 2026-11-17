@@ -1,0 +1,37 @@
+{
+  "key": "letter-170-part-01",
+  "number": 170,
+  "generationId": "01a1e8e4-cf28-7422-bc0e-24052eb81924",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-170/01.mp3",
+      "start": 0.0,
+      "end": 0.673855
+    },
+    {
+      "index": 1,
+      "text": "Do you want to ask questions?",
+      "path": "audio/1971-170/02.mp3",
+      "start": 1.990567,
+      "end": 3.841565
+    },
+    {
+      "index": 2,
+      "text": "Or do you want to get answers?",
+      "path": "audio/1971-170/03.mp3",
+      "start": 5.13263,
+      "end": 7.309456
+    },
+    {
+      "index": 3,
+      "text": "Because if you want to ask questions then you will not get answers, and if you want to get answers then you cannot be allowed to ask questions - because the answer is in that consciousness where the questions have not yet been raised, or have been uprooted and thrown out.",
+      "path": "audio/1971-170/04.mp3",
+      "start": 8.747052,
+      "end": 27.17
+    }
+  ]
+}

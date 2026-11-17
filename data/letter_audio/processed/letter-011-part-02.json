@@ -1,0 +1,51 @@
+{
+  "key": "letter-011-part-02",
+  "number": 11,
+  "generationId": "01a1e4e8-e6ce-7a8b-8a7b-663ca4669e0d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Many letters have come from Rajnagar and Rajasthan in this connection; as you have said it seems some fruitful work has been accomplished by going there.",
+      "path": "audio/1963-11/11.mp3",
+      "start": 0.0,
+      "end": 10.185193
+    },
+    {
+      "index": 11,
+      "text": "One thing is very clear: people are eager for a spiritual life and current forms of religion do not satisfy them.",
+      "path": "audio/1963-11/12.mp3",
+      "start": 11.571474,
+      "end": 19.972268
+    },
+    {
+      "index": 12,
+      "text": "If however the right religion is given to them it can revolutionize human consciousness.",
+      "path": "audio/1963-11/13.mp3",
+      "start": 21.516961,
+      "end": 27.633288
+    },
+    {
+      "index": 13,
+      "text": "I think of you.",
+      "path": "audio/1963-11/14.mp3",
+      "start": 29.157846,
+      "end": 30.322494000000003
+    },
+    {
+      "index": 14,
+      "text": "May God grant you peace.",
+      "path": "audio/1963-11/15.mp3",
+      "start": 32.016871,
+      "end": 33.879296999999994
+    },
+    {
+      "index": 15,
+      "text": "My love and regards to all.",
+      "path": "audio/1963-11/16.mp3",
+      "start": 35.450181,
+      "end": 37.98
+    }
+  ]
+}

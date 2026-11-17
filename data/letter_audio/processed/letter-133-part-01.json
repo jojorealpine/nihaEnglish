@@ -1,0 +1,79 @@
+{
+  "key": "letter-133-part-01",
+  "number": 133,
+  "generationId": "01a1e6cd-1410-717f-8b0c-4a99f4cca527",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-133/01.mp3",
+      "start": 0.0,
+      "end": 0.685351
+    },
+    {
+      "index": 1,
+      "text": "Nothing in life is sure - except death, otherwise life is another name for insecurity.",
+      "path": "audio/1970-133/02.mp3",
+      "start": 1.929796,
+      "end": 7.302268
+    },
+    {
+      "index": 2,
+      "text": "When this is realized the desire for security simply vanishes.",
+      "path": "audio/1970-133/03.mp3",
+      "start": 8.648005000000001,
+      "end": 12.542720999999998
+    },
+    {
+      "index": 3,
+      "text": "To accept insecurity is to become free of it.",
+      "path": "audio/1970-133/04.mp3",
+      "start": 13.887868000000001,
+      "end": 16.604399
+    },
+    {
+      "index": 4,
+      "text": "Uncertainty will stay in the mind because that is its nature.",
+      "path": "audio/1970-133/05.mp3",
+      "start": 17.935147,
+      "end": 21.245125
+    },
+    {
+      "index": 5,
+      "text": "Don't worry about it because that will add fuel to it.",
+      "path": "audio/1970-133/06.mp3",
+      "start": 22.49356,
+      "end": 25.066054
+    },
+    {
+      "index": 6,
+      "text": "Just let the mind be, where it is, and you go into meditation.",
+      "path": "audio/1970-133/07.mp3",
+      "start": 26.429705,
+      "end": 30.658776
+    },
+    {
+      "index": 7,
+      "text": "You are not the mind so where is the problem of the mind?",
+      "path": "audio/1970-133/08.mp3",
+      "start": 31.916099999999997,
+      "end": 35.75127
+    },
+    {
+      "index": 8,
+      "text": "Leave the darkness where it is and just light your lamp.",
+      "path": "audio/1970-133/09.mp3",
+      "start": 37.050567,
+      "end": 40.735941
+    },
+    {
+      "index": 9,
+      "text": "Are you going to think carefully and then surrender?",
+      "path": "audio/1970-133/10.mp3",
+      "start": 42.179569,
+      "end": 45.58
+    }
+  ]
+}

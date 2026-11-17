@@ -1,0 +1,499 @@
+{
+  "id": "1971-190",
+  "title": "1971 / 190",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "wholeness",
+      "meaning": "완전함",
+      "note": "전체성, 혹은 완전한 상태나 통합을 의미한다.",
+      "sentenceIds": [
+        2,
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "conscious",
+      "meaning": "의식",
+      "note": "의식적으로 인식하거나 인지하는 상태를 나타낸다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fulfilled",
+      "meaning": "성취된",
+      "note": "갈망이나 목표가 달성된 상태를 의미한다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "potential",
+      "meaning": "잠재력",
+      "note": "아직 발휘되지 않았지만 내재된 능력이나 가능성을 나타낸다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "possibilities",
+      "meaning": "가능성",
+      "note": "다양한 결과나 선택의 여지를 의미한다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Man",
+      "meaning": "사람",
+      "note": "문장에서 인간의 본성과 잠재력에 대한 언급",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ease",
+      "meaning": "편안함",
+      "note": "문장에서 인간이 느끼는 긴장의 해소 상태를 나타냄",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "health",
+      "meaning": "건강",
+      "note": "신체적, 정신적 안녕 상태를 의미한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "language",
+      "meaning": "언어",
+      "note": "단어의 기원이나 어원을 설명하는 데 사용됨",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "conceals",
+      "meaning": "숨기다",
+      "note": "깊은 진리나 의미가 겉으로 드러나지 않고 숨겨져 있다는 의미",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "healed",
+      "meaning": "치유된",
+      "note": "신체적 또는 정신적 건강의 회복 상태를 나타냄",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unconscious",
+      "meaning": "무의식",
+      "note": "의식하지 못하는 마음의 영역을 의미합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "penetrated",
+      "meaning": "뚫고 들어가다",
+      "note": "무의식의 영역을 이해하고 접근하려는 과정을 나타냅니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "transformed",
+      "meaning": "변화시키다",
+      "note": "무의식의 부정적 요소를 긍정적인 것으로 바꾸는 과정을 의미합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meditation",
+      "meaning": "명상",
+      "note": "자신의 의식을 깊이 있게 탐구하고 변화시키는 정신적 연습.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "method",
+      "meaning": "방법",
+      "note": "특정 목표를 달성하기 위한 절차나 방식.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "negative state of tension",
+      "meaning": "부정적 긴장 상태",
+      "explanation": "갈망이나 목표가 충족되지 않아 생기는 불편하거나 불안한 상태를 가리킨다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "symbolic of",
+      "meaning": "상징적인",
+      "explanation": "어떤 개념이나 상태를 다른 것으로 비유적으로 표현하는 것을 의미한다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "deep truth",
+      "meaning": "깊은 진리",
+      "explanation": "문장에서 강조하는 핵심적인 의미나 지혜를 나타냄",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "becoming totally conscious of oneself",
+      "meaning": "자신에 대한 완전한 의식을 갖는 것",
+      "explanation": "자신의 내면을 깊이 이해하고 인식하는 상태를 말합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "The darkness of the unconscious is to be penetrated and transformed into light",
+      "meaning": "무의식의 어둠을 뚫고 빛으로 변화시켜야 합니다",
+      "explanation": "무의식의 부정적 요소를 이해하고 긍정적인 상태로 변화시키는 과정을 의미합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      7
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-190/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "The will to wholeness is inherent in everything, but only in man has it become conscious.",
+      "korean": "완전함에 대한 의지는 모든 것에 내재되어 있지만, 그것이 의식이 된 것은 오직 인간에게서만 그렇다.",
+      "explanation": "문장은 모든 존재에 내재된 완전함에 대한 본능적인 욕구가 인간에서만 의식적으로 인식된다는 개념을 전달한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-190/02.mp3",
+      "vocabulary": [
+        {
+          "word": "wholeness",
+          "meaning": "완전함",
+          "note": "전체성, 혹은 완전한 상태나 통합을 의미한다."
+        },
+        {
+          "word": "conscious",
+          "meaning": "의식",
+          "note": "의식적으로 인식하거나 인지하는 상태를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Therefore man lives in tension, and only when this longing is fulfilled is his negative state of tension erased The tension is symbolic of the infinite potential and also of the infinite possibilities.",
+      "korean": "인간은 갈망이 충족될 때까지 긴장 상태에서 살며, 이 긴장은 무한한 잠재력과 가능성을 상징한다.",
+      "explanation": "인간의 삶은 갈망의 충족 여부에 따라 긴장 상태가 해소되거나 지속된다는 의미를 담고 있다. 긴장은 개인 내의 무한한 가능성과 잠재력을 나타내는 메타포로 사용된다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-190/03.mp3",
+      "vocabulary": [
+        {
+          "word": "fulfilled",
+          "meaning": "성취된",
+          "note": "갈망이나 목표가 달성된 상태를 의미한다."
+        },
+        {
+          "word": "potential",
+          "meaning": "잠재력",
+          "note": "아직 발휘되지 않았지만 내재된 능력이나 가능성을 나타낸다."
+        },
+        {
+          "word": "possibilities",
+          "meaning": "가능성",
+          "note": "다양한 결과나 선택의 여지를 의미한다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "negative state of tension",
+          "meaning": "부정적 긴장 상태",
+          "explanation": "갈망이나 목표가 충족되지 않아 생기는 불편하거나 불안한 상태를 가리킨다."
+        },
+        {
+          "expression": "symbolic of",
+          "meaning": "상징적인",
+          "explanation": "어떤 개념이나 상태를 다른 것으로 비유적으로 표현하는 것을 의미한다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Man is not what he can be, and unless he is that which he can be he cannot be at ease.",
+      "korean": "사람은 자신의 잠재력을 완전히 실현하지 못하면 편안함을 느낄 수 없다.",
+      "explanation": "사람의 편안함은 자신의 잠재력을 완전히 실현할 때만 가능하다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-190/04.mp3",
+      "vocabulary": [
+        {
+          "word": "Man",
+          "meaning": "사람",
+          "note": "문장에서 인간의 본성과 잠재력에 대한 언급"
+        },
+        {
+          "word": "ease",
+          "meaning": "편안함",
+          "note": "문장에서 인간이 느끼는 긴장의 해소 상태를 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "This dis-ease is man, and health is in wholeness.",
+      "korean": "이 질병은 인간이며, 완전함 속에 건강이 있다.",
+      "explanation": "인간의 불완전함이 질병으로 이어진다는 의미와 함께, 진정한 건강은 신체적, 정신적 완전함에서 비롯된다는 내용을 담고 있다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-190/05.mp3",
+      "vocabulary": [
+        {
+          "word": "health",
+          "meaning": "건강",
+          "note": "신체적, 정신적 안녕 상태를 의미한다."
+        },
+        {
+          "word": "wholeness",
+          "meaning": "완전함",
+          "note": "신체적, 정신적, 영적으로 균형 잡힌 상태를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "The fact that language has one root for the words whole, holy and to heal conceals a deep truth: He who is whole is also healed, and to be healed is to be whole.",
+      "korean": "언어는 '전체', '성스러운 것', 그리고 '치료하다'라는 단어들이 같은 뿌리에서 비롯된다는 사실은 깊은 진리를 숨기고 있다: 전체인 자는 치유된 자이며, 치유되는 것은 전체가 되는 것이다.",
+      "explanation": "문장은 언어의 어원을 통해 건강과 완전성의 관계를 설명하고 있다. 전체와 치유가 서로 밀접하게 연결되어 있음을 강조한다.",
+      "grammar": "「is also healed」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-190/06.mp3",
+      "vocabulary": [
+        {
+          "word": "language",
+          "meaning": "언어",
+          "note": "단어의 기원이나 어원을 설명하는 데 사용됨"
+        },
+        {
+          "word": "conceals",
+          "meaning": "숨기다",
+          "note": "깊은 진리나 의미가 겉으로 드러나지 않고 숨겨져 있다는 의미"
+        },
+        {
+          "word": "healed",
+          "meaning": "치유된",
+          "note": "신체적 또는 정신적 건강의 회복 상태를 나타냄"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "deep truth",
+          "meaning": "깊은 진리",
+          "explanation": "문장에서 강조하는 핵심적인 의미나 지혜를 나타냄"
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "This wholeness can only be achieved by becoming totally conscious of oneself: The darkness of the unconscious is to be penetrated and transformed into light.",
+      "korean": "자신에 대한 완전한 의식을 갖는 것만이 이러한 완전함을 이룰 수 있습니다: 무의식의 어둠을 뚫고 빛으로 변화시켜야 합니다.",
+      "explanation": "자신의 완전한 의식을 통해 무의식의 영역을 이해하고 변화시켜 완전함과 치유를 얻는다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-190/07.mp3",
+      "vocabulary": [
+        {
+          "word": "unconscious",
+          "meaning": "무의식",
+          "note": "의식하지 못하는 마음의 영역을 의미합니다."
+        },
+        {
+          "word": "penetrated",
+          "meaning": "뚫고 들어가다",
+          "note": "무의식의 영역을 이해하고 접근하려는 과정을 나타냅니다."
+        },
+        {
+          "word": "transformed",
+          "meaning": "변화시키다",
+          "note": "무의식의 부정적 요소를 긍정적인 것으로 바꾸는 과정을 의미합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "becoming totally conscious of oneself",
+          "meaning": "자신에 대한 완전한 의식을 갖는 것",
+          "explanation": "자신의 내면을 깊이 이해하고 인식하는 상태를 말합니다."
+        },
+        {
+          "expression": "The darkness of the unconscious is to be penetrated and transformed into light",
+          "meaning": "무의식의 어둠을 뚫고 빛으로 변화시켜야 합니다",
+          "explanation": "무의식의 부정적 요소를 이해하고 긍정적인 상태로 변화시키는 과정을 의미합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "And meditation is the method.",
+      "korean": "명상이 그 방법이다.",
+      "explanation": "명상이 완전한 자아 인식과 무의식의 어둠을 빛으로 변화시키는 과정에서 사용되는 수단임을 나타냄.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-190/08.mp3",
+      "vocabulary": [
+        {
+          "word": "meditation",
+          "meaning": "명상",
+          "note": "자신의 의식을 깊이 있게 탐구하고 변화시키는 정신적 연습."
+        },
+        {
+          "word": "method",
+          "meaning": "방법",
+          "note": "특정 목표를 달성하기 위한 절차나 방식."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "완전함에 대한 의지는 모든 것에 내재되어 있지만, 그것이 의식이 된 것은 오직 인간에게서만 그렇다. 인간은 갈망이 충족될 때까지 긴장 상태에서 살며, 이 긴장은 무한한 잠재력과 가능성을 상징한다.",
+    "사람은 자신의 잠재력을 완전히 실현하지 못하면 편안함을 느낄 수 없다. 이 질병은 인간이며, 완전함 속에 건강이 있다.",
+    "언어는 '전체', '성스러운 것', 그리고 '치료하다'라는 단어들이 같은 뿌리에서 비롯된다는 사실은 깊은 진리를 숨기고 있다: 전체인 자는 치유된 자이며, 치유되는 것은 전체가 되는 것이다. 자신에 대한 완전한 의식을 갖는 것만이 이러한 완전함을 이룰 수 있습니다: 무의식의 어둠을 뚫고 빛으로 변화시켜야 합니다.",
+    "명상이 그 방법이다."
+  ],
+  "fullAudio": "audio/1971-190/script_all.mp3",
+  "originalText": "Love.\n\nThe will to wholeness is inherent in everything,\nbut only in man has it become conscious.\nTherefore man lives in tension,\nand only when this longing is fulfilled\nis his negative state of tension erased\nThe tension is symbolic of the infinite potential\nand also of the infinite possibilities.\n\nMan is not what he can be,\nand unless he is that which he can be\nhe cannot be at ease.\nThis dis-ease is man,\nand health is in wholeness.\n\nThe fact that language has one root\nfor the words whole, holy and to heal\nconceals a deep truth:\nHe who is whole is also healed,\nand to be healed is to be whole.\nThis wholeness can only be achieved\nby becoming totally conscious of oneself:\nThe darkness of the unconscious is to be penetrated\nand transformed into light.\n\nAnd meditation is the method.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 190,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0849 2.JPG",
+        "side": "right",
+        "printedPage": 149
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

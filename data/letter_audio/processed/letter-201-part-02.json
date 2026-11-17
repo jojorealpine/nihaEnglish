@@ -1,0 +1,51 @@
+{
+  "key": "letter-201-part-02",
+  "number": 201,
+  "generationId": "01a1e8ec-e5d4-7a65-9f58-b0d76826c4e8",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "They have no authentic being at all.",
+      "path": "audio/1971-201/11.mp3",
+      "start": 0.0,
+      "end": 2.100159
+    },
+    {
+      "index": 11,
+      "text": "Their lives, a mimicry - and their passions, a quotation.",
+      "path": "audio/1971-201/12.mp3",
+      "start": 3.653946,
+      "end": 7.839478
+    },
+    {
+      "index": 12,
+      "text": "Break this vicious circle otherwise you will never be.",
+      "path": "audio/1971-201/13.mp3",
+      "start": 9.344785,
+      "end": 12.090499
+    },
+    {
+      "index": 13,
+      "text": "Break this through meditation - and it cannot be broken by anything else because through mind it cannot be broken, and except for meditation, all else is mind.",
+      "path": "audio/1971-201/14.mp3",
+      "start": 13.706190000000001,
+      "end": 24.418118
+    },
+    {
+      "index": 14,
+      "text": "Mind is the prison, meditation, the door.",
+      "path": "audio/1971-201/15.mp3",
+      "start": 25.914626,
+      "end": 30.046122
+    },
+    {
+      "index": 15,
+      "text": "And the only door.",
+      "path": "audio/1971-201/16.mp3",
+      "start": 31.580385,
+      "end": 33.25
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "key": "letter-202-part-01",
+  "number": 202,
+  "generationId": "01a1e91a-dc0c-77d8-b14c-3ab5b203cfc0",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-202/01.mp3",
+      "start": 0.0,
+      "end": 0.607483
+    },
+    {
+      "index": 1,
+      "text": "Only God is - that is why it is so difficult to find him.",
+      "path": "audio/1971-202/02.mp3",
+      "start": 1.547211,
+      "end": 4.852517
+    },
+    {
+      "index": 2,
+      "text": "And God is everywhere - that is why he seems to be nowhere.",
+      "path": "audio/1971-202/03.mp3",
+      "start": 5.914875,
+      "end": 9.38932
+    },
+    {
+      "index": 3,
+      "text": "And the seeker is the sought - that is why all seeking is so futile.",
+      "path": "audio/1971-202/04.mp3",
+      "start": 10.45805,
+      "end": 14.179908999999999
+    },
+    {
+      "index": 4,
+      "text": "Stop and see.",
+      "path": "audio/1971-202/05.mp3",
+      "start": 15.164535,
+      "end": 16.358027
+    },
+    {
+      "index": 5,
+      "text": "But the mind is running constantly.",
+      "path": "audio/1971-202/06.mp3",
+      "start": 17.446531,
+      "end": 19.172585
+    },
+    {
+      "index": 6,
+      "text": "Do not be, and see.",
+      "path": "audio/1971-202/07.mp3",
+      "start": 20.227891,
+      "end": 22.084331000000002
+    },
+    {
+      "index": 7,
+      "text": "But the mind is trying to be continuously.",
+      "path": "audio/1971-202/08.mp3",
+      "start": 23.595782,
+      "end": 26.109841
+    },
+    {
+      "index": 8,
+      "text": "Says Auden: For the garden is the only place there is, but you will not find it, until you have looked for it everywhere and found nowhere that is not a desert.",
+      "path": "audio/1971-202/09.mp3",
+      "start": 27.609116,
+      "end": 36.515193
+    },
+    {
+      "index": 9,
+      "text": "The miracle is the only thing that happens, but to you it will not be apparent, until all events have been studied and nothing happens that you cannot explain.",
+      "path": "audio/1971-202/10.mp3",
+      "start": 38.135714,
+      "end": 50.16
+    }
+  ]
+}

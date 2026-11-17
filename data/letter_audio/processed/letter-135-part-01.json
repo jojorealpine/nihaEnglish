@@ -1,0 +1,79 @@
+{
+  "key": "letter-135-part-01",
+  "number": 135,
+  "generationId": "01a1e6cd-b6ba-7421-91d5-29c5c598d63d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-135/01.mp3",
+      "start": 0.0,
+      "end": 0.723492
+    },
+    {
+      "index": 1,
+      "text": "Wittgenstein has said somewhere: Of that which one cannot speak, one should remain silent.",
+      "path": "audio/1970-135/02.mp3",
+      "start": 1.9718369999999998,
+      "end": 7.218209
+    },
+    {
+      "index": 2,
+      "text": "Oh, if only this advice was heeded there would be no useless arguments about truth!",
+      "path": "audio/1970-135/03.mp3",
+      "start": 8.391315,
+      "end": 12.781858999999999
+    },
+    {
+      "index": 3,
+      "text": "That-which-is cannot be spoken of.",
+      "path": "audio/1970-135/04.mp3",
+      "start": 13.975918,
+      "end": 16.182676
+    },
+    {
+      "index": 4,
+      "text": "Whatever is said in words is not, cannot be, that-which-is.",
+      "path": "audio/1970-135/05.mp3",
+      "start": 17.394852999999998,
+      "end": 21.143741000000002
+    },
+    {
+      "index": 5,
+      "text": "Truth is beyond words, only silence is related to truth.",
+      "path": "audio/1970-135/06.mp3",
+      "start": 22.5839,
+      "end": 26.07093
+    },
+    {
+      "index": 6,
+      "text": "But silence is very difficult; the mind wants to speak even of that which is beyond words.",
+      "path": "audio/1970-135/07.mp3",
+      "start": 27.511293,
+      "end": 32.727166
+    },
+    {
+      "index": 7,
+      "text": "Really, the mind is the only barrier to silence.",
+      "path": "audio/1970-135/08.mp3",
+      "start": 34.096372,
+      "end": 36.668820999999994
+    },
+    {
+      "index": 8,
+      "text": "Silence belongs to the state of no-mind.",
+      "path": "audio/1970-135/09.mp3",
+      "start": 38.096009,
+      "end": 40.782925
+    },
+    {
+      "index": 9,
+      "text": "A preacher came to address some small children.",
+      "path": "audio/1970-135/10.mp3",
+      "start": 42.379501000000005,
+      "end": 46.05
+    }
+  ]
+}

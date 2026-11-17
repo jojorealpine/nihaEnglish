@@ -1,0 +1,51 @@
+{
+  "key": "letter-335-part-02",
+  "number": 335,
+  "generationId": "01a1e912-3a49-74bc-b754-d91ff1b0d6f0",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Do you see the beauty of it?",
+      "path": "audio/1971-335/11.mp3",
+      "start": 0.0,
+      "end": 1.4272109999999998
+    },
+    {
+      "index": 11,
+      "text": "And the truth?",
+      "path": "audio/1971-335/12.mp3",
+      "start": 3.014898,
+      "end": 4.127438
+    },
+    {
+      "index": 12,
+      "text": "And the innocence?",
+      "path": "audio/1971-335/13.mp3",
+      "start": 5.611383,
+      "end": 6.969297
+    },
+    {
+      "index": 13,
+      "text": "And the holiness?",
+      "path": "audio/1971-335/14.mp3",
+      "start": 8.548299,
+      "end": 9.977732
+    },
+    {
+      "index": 14,
+      "text": "And the fullness?",
+      "path": "audio/1971-335/15.mp3",
+      "start": 11.552381,
+      "end": 12.893673
+    },
+    {
+      "index": 15,
+      "text": "And how absolutely ultimate it is?",
+      "path": "audio/1971-335/16.mp3",
+      "start": 14.43551,
+      "end": 17.14
+    }
+  ]
+}

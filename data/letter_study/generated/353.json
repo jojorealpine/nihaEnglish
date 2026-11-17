@@ -1,0 +1,214 @@
+{
+  "sourceHash": "22b6bdc81127691f87b1c359587fa0986882a8b79ad985c3e29bb3d8619ab9f5",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "느껴봐",
+        "explanation": "감정이나 감각을 체험하도록 권유하는 표현",
+        "grammar": "동사원형 「Feel」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "Feel",
+            "meaning": "느끼다, 체험하다",
+            "note": "이 문맥에서는 「느끼다, 체험하다」의 뜻으로 읽습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "느껴봐",
+        "explanation": "감정이나 감각을 체험하도록 권유하는 표현",
+        "grammar": "동사원형 「Feel」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "Feel",
+            "meaning": "느끼다, 체험하다",
+            "note": "이 문맥에서는 「느끼다, 체험하다」의 뜻으로 읽습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "느껴보세요.",
+        "explanation": "주어진 문맥에서 욕망하는 니르바나(불교에서 깨달음을 얻는 상태)의 감정을 직접적으로 체험하라는 의미입니다.",
+        "grammar": "동사원형 「Feel」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "Feel",
+            "meaning": "느끼다, 체험하다",
+            "note": "이 단어는 감정이나 감각을 직접적으로 경험하라는 명령형 의미를 가지고 있습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "선생님은 말씀하셨다: 극락을 갈망하라!",
+        "explanation": "선생님의 가르침이나 지시 내용을 요약한 문장",
+        "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "master",
+            "meaning": "선생님",
+            "note": "지도자나 스승을 의미하며, 이 문맥에서는 수행이나 깨달음에 대한 가르침을 주는 사람을 가리킵니다."
+          },
+          {
+            "word": "desire",
+            "meaning": "갈망하다, 원하다",
+            "note": "극복하거나 달성하려는 강한 욕구를 나타냅니다. 여기서는 극락(니르바나)을 향한 갈망을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "한 승려가 다이슈 에카이에게 '니르바나란 무엇인가?'라고 물었다.",
+        "explanation": "승려가 수행자이신 다이슈 에카이에게 니르바나의 의미를 묻는 장면을 묘사한다.",
+        "grammar": "동사 「asked」는 ask의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "monk",
+            "meaning": "승려",
+            "note": "불교 수행을 하는 남성 승려를 가리킨다."
+          },
+          {
+            "word": "asked",
+            "meaning": "물었다",
+            "note": "직접적인 질문을 통해 정보를 요청하는 행위를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "그러면 출생과 죽음, 혹은 쾌락과 고통의 악순환이란 무엇인가요?",
+        "explanation": "문장은 출생과 죽음, 쾌락과 고통 사이의 악순환에 대해 질문하고 있습니다. 이 악순환에서 벗어나는 것이 큰 해탈(nirvana)에 이른다는 원래 문장의 맥락을 유지합니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "vicious",
+            "meaning": "악순환, 해로운",
+            "note": "여기서는 부정적인 의미로 사용되어, 반복적으로 계속되는 부정적인 패턴이나 순환을 가리킵니다."
+          },
+          {
+            "word": "pleasure",
+            "meaning": "쾌락",
+            "note": "행복이나 만족감을 의미하며, 이 문맥에서는 고통과 대비되는 상태를 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "큰 깨달음은 태어나고 죽는 고통과 즐거움의 악순환에 얽매이지 않는 것이다.",
+        "explanation": "큰 깨달음(nirvana)은 삶과 죽음, 고통과 즐거움 사이의 반복적인 순환에서 벗어나는 상태를 의미한다.",
+        "grammar": "동사 「answered」는 answer의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "answered",
+            "meaning": "대답하다",
+            "note": "선생님이 질문에 대한 답변을 제공함을 나타냄"
+          },
+          {
+            "word": "vicious",
+            "meaning": "악랄한",
+            "note": "악순환이나 부정적인 반복을 강조하는 표현"
+          },
+          {
+            "word": "pleasure",
+            "meaning": "즐거움",
+            "note": "고통과 대비되는 긍정적인 감정 상태를 나타냄"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "지금 조용히 하여라 그리고 깨달음을 갈망한다는 의미를 느껴보라. 나는 그것을 생각하라는 것이 아니라 생각하면 그것을 놓치게 된다는 것을 기억하라.",
+        "explanation": "선생님이 제자들에게 깨달음을 갈망하는 마음의 본질을 체험하도록 조용히 하라고 지시하고, 생각으로는 깨달음을 완전히 이해할 수 없음을 강조하는 내용입니다.",
+        "grammar": "동사원형 「be」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "silent",
+            "meaning": "조용히",
+            "note": "행동을 지시하며 조용한 상태를 유지하도록 요구합니다."
+          },
+          {
+            "word": "desire",
+            "meaning": "갈망하다",
+            "note": "깨달음을 향한 강한 열망이나 갈망을 나타냅니다."
+          },
+          {
+            "word": "remember",
+            "meaning": "기억하라",
+            "note": "중요한 교훈이나 사실을 명심하도록 요청합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

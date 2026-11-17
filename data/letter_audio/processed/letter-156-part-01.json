@@ -1,0 +1,79 @@
+{
+  "key": "letter-156-part-01",
+  "number": 156,
+  "generationId": "01a1e6f4-b175-7763-8c6c-3bda677c76b7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-156/01.mp3",
+      "start": 0.0,
+      "end": 0.480612
+    },
+    {
+      "index": 1,
+      "text": "Do not fight with yourself.",
+      "path": "audio/1970-156/02.mp3",
+      "start": 1.395533,
+      "end": 2.5807260000000003
+    },
+    {
+      "index": 2,
+      "text": "Such a fight is futile.",
+      "path": "audio/1970-156/03.mp3",
+      "start": 3.5188889999999997,
+      "end": 4.559955
+    },
+    {
+      "index": 3,
+      "text": "Because victory never, ever comes through it.",
+      "path": "audio/1970-156/04.mp3",
+      "start": 5.541995,
+      "end": 7.516712
+    },
+    {
+      "index": 4,
+      "text": "To fight with oneself is nothing other than a gradual suicide.",
+      "path": "audio/1970-156/05.mp3",
+      "start": 8.478095000000001,
+      "end": 11.147846
+    },
+    {
+      "index": 5,
+      "text": "Accept yourself Happily.",
+      "path": "audio/1970-156/06.mp3",
+      "start": 12.126508000000001,
+      "end": 13.273855
+    },
+    {
+      "index": 6,
+      "text": "In gratitude.",
+      "path": "audio/1970-156/07.mp3",
+      "start": 14.223673000000002,
+      "end": 15.01034
+    },
+    {
+      "index": 7,
+      "text": "What is, is good.",
+      "path": "audio/1970-156/08.mp3",
+      "start": 15.991474000000002,
+      "end": 17.809501
+    },
+    {
+      "index": 8,
+      "text": "Sex too, anger too.",
+      "path": "audio/1970-156/09.mp3",
+      "start": 18.744263,
+      "end": 20.905533000000002
+    },
+    {
+      "index": 9,
+      "text": "Because whatsoever is, is from the divine.",
+      "path": "audio/1970-156/10.mp3",
+      "start": 21.880838999999998,
+      "end": 24.84
+    }
+  ]
+}

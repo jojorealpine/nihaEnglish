@@ -1,0 +1,79 @@
+{
+  "key": "letter-084-part-01",
+  "number": 84,
+  "generationId": "01a1e62f-8454-7ee7-b493-08950b6ba90f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-84/01.mp3",
+      "start": 0.0,
+      "end": 0.5995010000000001
+    },
+    {
+      "index": 1,
+      "text": "All crutches bar the way.",
+      "path": "audio/1970-84/02.mp3",
+      "start": 1.755556,
+      "end": 3.374762
+    },
+    {
+      "index": 2,
+      "text": "Shun all support and then you will receive his.",
+      "path": "audio/1970-84/03.mp3",
+      "start": 4.658617,
+      "end": 7.288481
+    },
+    {
+      "index": 3,
+      "text": "He is the only help for the helpless.",
+      "path": "audio/1970-84/04.mp3",
+      "start": 8.576689,
+      "end": 10.761156
+    },
+    {
+      "index": 4,
+      "text": "There is no other guide but him - all other guides are obstacles on the path.",
+      "path": "audio/1970-84/05.mp3",
+      "start": 12.013129000000001,
+      "end": 16.770023000000002
+    },
+    {
+      "index": 5,
+      "text": "If you want to reach the master avoid all teachers.",
+      "path": "audio/1970-84/06.mp3",
+      "start": 18.028571,
+      "end": 20.796939000000002
+    },
+    {
+      "index": 6,
+      "text": "Don't be afraid to make yourself empty for that alone is the door, that alone is the path - and that alone is the destination.",
+      "path": "audio/1970-84/07.mp3",
+      "start": 22.270339999999997,
+      "end": 31.216621
+    },
+    {
+      "index": 7,
+      "text": "The courage to be empty is all that is needed to become one with the all.",
+      "path": "audio/1970-84/08.mp3",
+      "start": 32.681315000000005,
+      "end": 37.292607999999994
+    },
+    {
+      "index": 8,
+      "text": "Those who are full stay empty, and those who are empty become filled - such are his mathematics.",
+      "path": "audio/1970-84/09.mp3",
+      "start": 38.729093000000006,
+      "end": 45.406983999999994
+    },
+    {
+      "index": 9,
+      "text": "Do not consider doing anything - through doing you can never reach him, nor through chanting, nor through austerity, for he is already here!",
+      "path": "audio/1970-84/10.mp3",
+      "start": 47.068481000000006,
+      "end": 56.74
+    }
+  ]
+}

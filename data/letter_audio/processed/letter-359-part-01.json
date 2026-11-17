@@ -1,0 +1,79 @@
+{
+  "key": "letter-359-part-01",
+  "number": 359,
+  "generationId": "01a1e918-0476-787e-a6a1-76df40bca760",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-359/01.mp3",
+      "start": 0.0,
+      "end": 0.633061
+    },
+    {
+      "index": 1,
+      "text": "Life goes on flowing.",
+      "path": "audio/1971-359/02.mp3",
+      "start": 1.690023,
+      "end": 3.05229
+    },
+    {
+      "index": 2,
+      "text": "It does not wait.",
+      "path": "audio/1971-359/03.mp3",
+      "start": 4.1901589999999995,
+      "end": 5.220748
+    },
+    {
+      "index": 3,
+      "text": "But mind thinks and therefore takes time.",
+      "path": "audio/1971-359/04.mp3",
+      "start": 6.339252,
+      "end": 8.671088
+    },
+    {
+      "index": 4,
+      "text": "To exist, no time is needed, but to think - time is necessary",
+      "path": "audio/1971-359/05.mp3",
+      "start": 9.800499,
+      "end": 13.770067999999998
+    },
+    {
+      "index": 5,
+      "text": "Really there is no time in existence.",
+      "path": "audio/1971-359/06.mp3",
+      "start": 14.785011,
+      "end": 16.740975000000002
+    },
+    {
+      "index": 6,
+      "text": "There appears to be only because of the mind and its thinking.",
+      "path": "audio/1971-359/07.mp3",
+      "start": 17.890454,
+      "end": 20.570658
+    },
+    {
+      "index": 7,
+      "text": "Existence exists not in time but in eternity.",
+      "path": "audio/1971-359/08.mp3",
+      "start": 22.061201999999998,
+      "end": 25.961769
+    },
+    {
+      "index": 8,
+      "text": "It exists in the eternal now.",
+      "path": "audio/1971-359/09.mp3",
+      "start": 27.555350999999998,
+      "end": 29.465488
+    },
+    {
+      "index": 9,
+      "text": "There is neither past nor future but only the present - or not even that - because without the past and future it is meaningless to call it present.",
+      "path": "audio/1971-359/10.mp3",
+      "start": 31.069637,
+      "end": 41.4
+    }
+  ]
+}

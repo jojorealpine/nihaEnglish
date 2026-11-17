@@ -1,0 +1,2610 @@
+{
+  "id": "1968-51",
+  "title": "1968 / 51",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "received",
+      "meaning": "받다",
+      "note": "편지와 질문들을 수령했다는 사실을 나타냄",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "questions",
+      "meaning": "질문들",
+      "note": "편지에 포함된 여러 질문들을 가리킴",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "remained",
+      "meaning": "머물렀다",
+      "note": "의도적으로 어떤 상태를 유지했다는 의미입니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "purpose",
+      "meaning": "목적",
+      "note": "행동의 이유나 의도를 나타냅니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ponder",
+      "meaning": "깊이 생각하다",
+      "note": "죽음에 대해 단순히 생각하는 것이 아니라 깊이 고민하고 사색한다는 뉘앙스를 담고 있다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "death",
+      "meaning": "죽음",
+      "note": "삶의 반대 개념으로서 궁극적인 질문의 대상이 된다.",
+      "sentenceIds": [
+        4,
+        5,
+        12,
+        17,
+        18,
+        49
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "known",
+      "meaning": "알다",
+      "note": "죽음에 대한 지식이나 이해를 의미하며, 여기서는 직접적인 경험 없이는 불가능하다는 뉘앙스를 담고 있음.",
+      "sentenceIds": [
+        5,
+        13,
+        22,
+        51
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "outcome",
+      "meaning": "결과",
+      "note": "이 문맥에서는 특정 사고 방식이나 행동의 최종적인 결과를 의미한다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thinking",
+      "meaning": "사고",
+      "note": "개인이 가지고 있는 사고 방식이나 생각 방식을 나타낸다.",
+      "sentenceIds": [
+        6,
+        10,
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "immortal",
+      "meaning": "불멸의",
+      "note": "영혼이나 존재가 죽음 이후에도 계속 존재한다는 의미로 사용된다.",
+      "sentenceIds": [
+        6,
+        41,
+        46,
+        47
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "mere",
+      "meaning": "단순히",
+      "note": "이 단어는 믿음이 복잡한 이론이나 근거 없이 매우 기본적이고 단순한 것임을 나타낸다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "beliefs",
+      "meaning": "믿음",
+      "note": "문맥에서 두 가지 특정한 철학적 또는 영적 견해를 가리키며, 이들 모두 근본적으로 단순한 형태의 신념임을 강조한다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "belief",
+      "meaning": "신념",
+      "note": "어떤 개념이나 상황에 대한 개인의 확신이나 생각을 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "based",
+      "meaning": "기반이 되다",
+      "note": "어떤 것이 다른 것의 근본이나 기초가 됨을 나타냅니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "entangled",
+      "meaning": "얽히다, 얽매이다",
+      "note": "여기서는 복잡한 믿음이나 의견에 얽매여 자유롭지 못한 상태를 의미한다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "experiencing",
+      "meaning": "체험",
+      "note": "직접적인 경험이나 깨달음을 통해 이해하는 과정을 나타낸다.",
+      "sentenceIds": [
+        9,
+        28,
+        29,
+        30,
+        32,
+        33
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "systems",
+      "meaning": "체계",
+      "note": "여기서는 믿음 체계나 교조를 의미합니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Thought",
+      "meaning": "생각",
+      "note": "여기서는 사고 과정이나 인식의 방식을 의미한다.",
+      "sentenceIds": [
+        11,
+        24,
+        25,
+        26
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "takes",
+      "meaning": "이끌다",
+      "note": "어떤 상태나 위치로 이동하게 만든다는 의미로 사용되었다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unknown",
+      "meaning": "알려지지 않은",
+      "note": "죽음이 현재 인간의 지식이나 경험의 범위를 벗어난 상태임을 나타낸다.",
+      "sentenceIds": [
+        12,
+        49
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "want",
+      "meaning": "원하다",
+      "note": "의지 또는 바람을 나타냅니다.",
+      "sentenceIds": [
+        14,
+        60,
+        62
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "attention",
+      "meaning": "주의",
+      "note": "특정 대상이나 주제에 대한 집중이나 관심을 의미합니다.",
+      "sentenceIds": [
+        14,
+        19
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Life",
+      "meaning": "인생",
+      "note": "이 문맥에서는 인생의 본질이나 현재 순간의 중요성을 나타냅니다.",
+      "sentenceIds": [
+        15,
+        50
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "enter",
+      "meaning": "들어가다",
+      "note": "여기서는 어떤 상태나 영역에 참여하거나 접근하는 것을 의미합니다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "future",
+      "meaning": "미래",
+      "note": "앞으로 올 시기를 의미하며, 이 문맥에서는 죽음이 현재에 존재하지 않고 미래의 개념으로 이해될 수 있음을 나타냅니다.",
+      "sentenceIds": [
+        17,
+        20
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "present",
+      "meaning": "현재",
+      "note": "지금 이 순간을 가리킵니다.",
+      "sentenceIds": [
+        18,
+        19,
+        20,
+        27
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "otherwise",
+      "meaning": "그렇지 않으면",
+      "note": "반대의 상황이나 경우를 나타내며, 문맥에서는 존재하지 않는 상황을 의미합니다.",
+      "sentenceIds": [
+        21
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "never",
+      "meaning": "결코",
+      "note": "절대적인 부정을 나타내며, 여기서는 과거나 미래에 해당 상태가 존재하지 않음을 강조합니다.",
+      "sentenceIds": [
+        21
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "lived",
+      "meaning": "살면서 경험하다",
+      "note": "경험을 통해 그 의미나 가치를 이해할 수 있다는 뉘앙스를 나타낸다.",
+      "sentenceIds": [
+        22
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fact",
+      "meaning": "사실",
+      "note": "이 문맥에서는 직접 체험을 통해 알 수 있는 진리나 경험을 의미한다.",
+      "sentenceIds": [
+        23
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "think",
+      "meaning": "생각하다",
+      "note": "여기서는 직접 체험하지 않고 이론적으로만 접근하려는 태도를 나타낸다.",
+      "sentenceIds": [
+        23
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "movement",
+      "meaning": "흐름, 진행",
+      "note": "여기서는 생각의 진행이나 변화를 의미한다.",
+      "sentenceIds": [
+        24
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "companion",
+      "meaning": "동반자",
+      "note": "죽음과 함께하는 존재나 상태를 나타냄.",
+      "sentenceIds": [
+        25
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "element",
+      "meaning": "요소",
+      "note": "생각 속에 존재해야 할 생명력이나 생명력의 흔적을 나타낸다.",
+      "sentenceIds": [
+        26
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "aliveness",
+      "meaning": "생명력",
+      "note": "문장에서 생명력이나 생명력의 존재를 강조하는 용어",
+      "sentenceIds": [
+        27
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "manifestation",
+      "meaning": "표현, 나타남",
+      "note": "삶의 본질이나 상태가 현재 순간에 어떻게 드러나는지를 의미한다.",
+      "sentenceIds": [
+        28
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "absolutely",
+      "meaning": "절대적으로",
+      "note": "강조의 의미로 사용되어 현재 순간의 유일성과 확실성을 나타낸다.",
+      "sentenceIds": [
+        28
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "experience",
+      "meaning": "경험",
+      "note": "과거에 일어난 사건이나 사건을 통해 얻은 지식이나 느낌을 의미합니다.",
+      "sentenceIds": [
+        30,
+        31,
+        59
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "happening",
+      "meaning": "일어나다",
+      "note": "어떤 사건이나 상황이 현재 진행 중임을 나타냅니다.",
+      "sentenceIds": [
+        30
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "happened",
+      "meaning": "일어났다",
+      "note": "과거에 실제로 발생했다는 의미로 사용되었다.",
+      "sentenceIds": [
+        31
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thoughtless",
+      "meaning": "생각 없는",
+      "note": "의식적인 사고나 언어적 표현 없이 순수하게 느끼는 상태를 나타낸다.",
+      "sentenceIds": [
+        32,
+        33
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "comes",
+      "meaning": "알게 되다",
+      "note": "여기서는 '이해하게 되다'는 의미로 사용되었으며, 경험이나 지식의 획득을 나타냅니다.",
+      "sentenceIds": [
+        34
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "know",
+      "meaning": "알다",
+      "note": "깊이 이해하고 인식한다는 의미로 사용되었습니다.",
+      "sentenceIds": [
+        34
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fallacy",
+      "meaning": "착각, 오해",
+      "note": "여기서는 죽음이 실제로 존재하는 것이 아니라 잘못된 이해에서 비롯된 것임을 강조한다.",
+      "sentenceIds": [
+        35,
+        40,
+        42,
+        45
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "knowing",
+      "meaning": "알다, 이해하다",
+      "note": "삶에 대한 깊은 이해가 죽음에 대한 오해를 해소할 수 있다는 의미를 담고 있다.",
+      "sentenceIds": [
+        35,
+        52
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "naturally",
+      "meaning": "자연스럽게",
+      "note": "본질적으로, 자연스럽게 그렇게 행동하거나 생각한다는 의미입니다.",
+      "sentenceIds": [
+        36
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "believes",
+      "meaning": "믿다",
+      "note": "자신이나 다른 것에 대해 확신하거나 신뢰하는 상태를 나타냅니다.",
+      "sentenceIds": [
+        36
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "destroyed",
+      "meaning": "파괴되다",
+      "note": "물리적인 소멸이나 끝을 의미합니다.",
+      "sentenceIds": [
+        37,
+        68,
+        69
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "disappears",
+      "meaning": "사라진다",
+      "note": "존재의 일시적 성격을 강조하며, 물질적인 측면의 끝을 나타냅니다.",
+      "sentenceIds": [
+        37
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "gives",
+      "meaning": "낳다, 생성하다",
+      "note": "죽음이라는 개념을 만들어내는 원동력이 된다는 의미",
+      "sentenceIds": [
+        38
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "concept",
+      "meaning": "개념",
+      "note": "죽음에 대한 특정한 이해나 생각",
+      "sentenceIds": [
+        38,
+        39
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "courageous",
+      "meaning": "용감한",
+      "note": "이 문맥에서는 어려움이나 두려움을 극복하고 개념을 수용하는 용기를 의미한다.",
+      "sentenceIds": [
+        39
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "believing",
+      "meaning": "믿다",
+      "note": "자신을 육체에만 국한시키는 잘못된 믿음을 나타냅니다.",
+      "sentenceIds": [
+        40
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "suffering",
+      "meaning": "고통받는",
+      "note": "죽음의 두려움으로 인해 고통받는 상태를 나타낸다.",
+      "sentenceIds": [
+        41
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "chanting",
+      "meaning": "반복해서 말하다",
+      "note": "특정 문구를 계속해서 되뇌는 행위를 의미한다.",
+      "sentenceIds": [
+        41
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "concepts",
+      "meaning": "개념",
+      "note": "이 문장에서는 주로 추상적인 아이디어나 이론을 가리킨다.",
+      "sentenceIds": [
+        42
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "different",
+      "meaning": "다른",
+      "note": "두 개념이나 사람들의 특성이 서로 다르다는 것을 나타냅니다.",
+      "sentenceIds": [
+        43
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "reactions",
+      "meaning": "반응",
+      "note": "특정 상황이나 개념에 대한 사람들의 다양한 대응 방식을 의미합니다.",
+      "sentenceIds": [
+        43
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "remember",
+      "meaning": "기억하다",
+      "note": "과거 내용을 떠올리도록 독자에게 주의를 환기시키는 역할을 합니다.",
+      "sentenceIds": [
+        44
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "strengthened",
+      "meaning": "강화되다",
+      "note": "오류나 주장이 더욱 견고해지거나 설득력이 높아지는 상황을 나타냅니다.",
+      "sentenceIds": [
+        44
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "support",
+      "meaning": "지지",
+      "note": "어떤 주장이나 견해에 힘을 실어주거나 도와주는 것을 의미합니다.",
+      "sentenceIds": [
+        45
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "untruth",
+      "meaning": "거짓",
+      "note": "사실과 부합하지 않는, 진실이 아닌 진술을 의미함",
+      "sentenceIds": [
+        46
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "escape",
+      "meaning": "피하다, 회피하다",
+      "note": "두려움이나 어려움에서 벗어나는 것을 의미함",
+      "sentenceIds": [
+        47
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fear",
+      "meaning": "두려움",
+      "note": "상황이나 대상에 대한 불안감이나 공포를 의미한다.",
+      "sentenceIds": [
+        48
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "truth",
+      "meaning": "진실",
+      "note": "사실 그대로, 왜곡 없이 드러난 상태를 의미한다.",
+      "sentenceIds": [
+        48
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "immortality",
+      "meaning": "불멸",
+      "note": "죽음을 초월한 영원한 생명이나 존재 상태를 가리킵니다.",
+      "sentenceIds": [
+        52
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "eternal",
+      "meaning": "영원한",
+      "note": "시간의 제약 없이 영원히 지속되는 상태를 의미한다.",
+      "sentenceIds": [
+        53
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "beginning",
+      "meaning": "시작",
+      "note": "어떤 과정이나 존재의 시작점이나 출발점을 나타낸다.",
+      "sentenceIds": [
+        53
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "manifests",
+      "meaning": "나타나다",
+      "note": "여기서는 어떤 존재나 현상이 눈에 보이거나 인식 가능한 상태로 드러나는 것을 의미한다.",
+      "sentenceIds": [
+        54
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unmanifests",
+      "meaning": "사라지다",
+      "note": "여기서는 존재나 현상이 다시 눈에 보이지 않거나 인식 불가능한 상태로 돌아가는 것을 의미한다.",
+      "sentenceIds": [
+        54
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "moves",
+      "meaning": "이동하다, 변화하다",
+      "note": "여기서는 형태의 변화나 이동을 의미한다.",
+      "sentenceIds": [
+        55
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "form",
+      "meaning": "형태, 모양",
+      "note": "변화하거나 이동하는 대상의 외형이나 상태를 나타낸다.",
+      "sentenceIds": [
+        55
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ignorance",
+      "meaning": "무지",
+      "note": "문장에서 무지 상태를 나타내며, 변화의 과정을 부정적으로 인식하게 만드는 역할을 함.",
+      "sentenceIds": [
+        56
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "transition",
+      "meaning": "전환점",
+      "note": "변화의 순간이나 단계를 의미하며, 여기서는 부정적인 상황으로 해석됨.",
+      "sentenceIds": [
+        56
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "changing",
+      "meaning": "바꾸다, 변화시키다",
+      "note": "여기서는 삶의 상태나 장소가 변화한다는 의미를 담고 있다.",
+      "sentenceIds": [
+        57
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "houses",
+      "meaning": "집",
+      "note": "비유적으로 사용되어 삶의 상태나 환경의 변화를 나타낸다.",
+      "sentenceIds": [
+        57
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Certainly",
+      "meaning": "확실히",
+      "note": "이 단어는 확실성과 확신을 나타내며, 주장이나 사실에 대한 강한 믿음을 전달한다.",
+      "sentenceIds": [
+        58
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "rebirth",
+      "meaning": "재생",
+      "note": "죽음 이후 새로운 삶이나 존재의 시작을 의미하며, 종종 영적 또는 철학적 맥락에서 사용된다.",
+      "sentenceIds": [
+        58
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "doctrine",
+      "meaning": "교리",
+      "note": "체계적인 가르침이나 이론, 종교적 교리를 의미합니다.",
+      "sentenceIds": [
+        59,
+        60
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Doctrines",
+      "meaning": "교리",
+      "note": "특정 종교나 철학 체계에서 중요하게 여겨지는 가르침이나 원칙을 의미합니다.",
+      "sentenceIds": [
+        61
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "undermined",
+      "meaning": "훼손하다",
+      "note": "진실이나 가치를 약화시키거나 해치는 행위를 나타냅니다.",
+      "sentenceIds": [
+        61
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "person",
+      "meaning": "사람",
+      "note": "특정 개인이나 일반적인 인간을 가리킵니다.",
+      "sentenceIds": [
+        62
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "perform",
+      "meaning": "행하다, 실행하다",
+      "note": "여기서는 특정 행동이나 역할을 스스로 실행해야 함을 강조한다.",
+      "sentenceIds": [
+        63
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "act",
+      "meaning": "행동, 행위",
+      "note": "개인이 스스로 해야 하는 특정 행동을 지칭한다.",
+      "sentenceIds": [
+        63
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "accomplished",
+      "meaning": "이루어진",
+      "note": "여기서는 특정 행위가 성공적으로 이루어졌음을 의미한다.",
+      "sentenceIds": [
+        64
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "individual",
+      "meaning": "개인의",
+      "note": "각 사람마다 독립적으로 수행하는 것을 나타낸다.",
+      "sentenceIds": [
+        64
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "scriptures",
+      "meaning": "경전",
+      "note": "종교적 가르침이나 지혜가 담긴 텍스트를 의미한다.",
+      "sentenceIds": [
+        64
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "situation",
+      "meaning": "상황",
+      "note": "현재 처한 형편이나 상태를 나타냄",
+      "sentenceIds": [
+        65
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "suicidal",
+      "meaning": "자살적인",
+      "note": "자신을 해치거나 파괴하는 결과를 가져오는 것을 의미함",
+      "sentenceIds": [
+        65
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "participate",
+      "meaning": "참여하다",
+      "note": "특정 활동이나 계획에 함께하거나 관여하는 것을 의미합니다.",
+      "sentenceIds": [
+        66
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "arrangement",
+      "meaning": "계획, 배치",
+      "note": "여기서는 광범위한 파괴 계획을 의미합니다.",
+      "sentenceIds": [
+        66
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "established",
+      "meaning": "정착된, 확립된",
+      "note": "기존의 교리들이 오랜 시간 동안 받아들여져 온 상태를 의미한다.",
+      "sentenceIds": [
+        67
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "compassionate",
+      "meaning": "자비로운",
+      "note": "행동이나 결정이 타인에 대한 배려와 동정심을 반영한다는 의미이다.",
+      "sentenceIds": [
+        67
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "untrue",
+      "meaning": "거짓된",
+      "note": "문장에서 거짓이나 사실과 다른 내용을 가리킵니다.",
+      "sentenceIds": [
+        68
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "available",
+      "meaning": "접근 가능한",
+      "note": "진실이 누구에게나 언제든지 찾을 수 있다는 의미",
+      "sentenceIds": [
+        69
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "absolutely now",
+      "meaning": "절대적으로 지금 여기",
+      "explanation": "현재 순간의 절대적 중요성을 강조하는 표현이다.",
+      "sentenceIds": [
+        28
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "seek refuge in",
+      "meaning": "위안을 찾다",
+      "explanation": "어려움이나 고통에서 벗어나기 위해 어떤 방법이나 믿음에 의존하는 것을 의미한다.",
+      "sentenceIds": [
+        41
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    [
+      9,
+      10,
+      11
+    ],
+    [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57
+    ],
+    [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1968-51/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "I have received your letter and your questions.",
+      "korean": "당신의 편지와 질문들을 받았습니다.",
+      "explanation": "편지와 함께 온 질문들을 수령했다는 의미",
+      "grammar": "「have received」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1968-51/02.mp3",
+      "vocabulary": [
+        {
+          "word": "received",
+          "meaning": "받다",
+          "note": "편지와 질문들을 수령했다는 사실을 나타냄"
+        },
+        {
+          "word": "questions",
+          "meaning": "질문들",
+          "note": "편지에 포함된 여러 질문들을 가리킴"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "About death I have remained quiet on purpose, because I want to awaken inquiry about life.",
+      "korean": "죽음에 대해 일부러 침묵을 지켰습니다. 왜냐하면 삶에 대한 의문을 불러일으키고 싶었기 때문입니다.",
+      "explanation": "죽음에 대해 말하지 않음으로써 삶의 중요성을 생각하게 하려는 의도를 표현합니다.",
+      "grammar": "「have remained」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1968-51/03.mp3",
+      "vocabulary": [
+        {
+          "word": "remained",
+          "meaning": "머물렀다",
+          "note": "의도적으로 어떤 상태를 유지했다는 의미입니다."
+        },
+        {
+          "word": "purpose",
+          "meaning": "목적",
+          "note": "행동의 이유나 의도를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Those who ponder over death reach nowhere.",
+      "korean": "죽음을 고민하는 사람들은 아무것도 얻지 못한다.",
+      "explanation": "죽음에 대해 생각하는 것은 의미 있는 통찰로 이어지지 않는다는 의미",
+      "grammar": "동사 「reach」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1968-51/04.mp3",
+      "vocabulary": [
+        {
+          "word": "ponder",
+          "meaning": "깊이 생각하다",
+          "note": "죽음에 대해 단순히 생각하는 것이 아니라 깊이 고민하고 사색한다는 뉘앙스를 담고 있다."
+        },
+        {
+          "word": "death",
+          "meaning": "죽음",
+          "note": "삶의 반대 개념으로서 궁극적인 질문의 대상이 된다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Because, in fact, how can death be known without dying?",
+      "korean": "죽음을 실제로 경험하지 않고 어떻게 알 수 있을까?",
+      "explanation": "죽음에 대해 깊이 생각하는 것이 죽음을 이해하는 데 도움이 되지 않는다는 의미를 전달합니다.",
+      "grammar": "「can death be known」는 조동사 + be + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1968-51/05.mp3",
+      "vocabulary": [
+        {
+          "word": "death",
+          "meaning": "죽음",
+          "note": "문장에서 죽음을 직접 경험하지 않고는 이해할 수 없다는 맥락에서 사용됨."
+        },
+        {
+          "word": "known",
+          "meaning": "알다",
+          "note": "죽음에 대한 지식이나 이해를 의미하며, 여기서는 직접적인 경험 없이는 불가능하다는 뉘앙스를 담고 있음."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Hence, the total outcome of such thinking is either a belief that the soul is immortal or that the end of one's life is a total end, nothing remains after that.",
+      "korean": "따라서 그러한 사고의 결과는 영혼이 불멸하다는 믿음 또는 삶의 끝이 완전한 끝이며 그 이후로 아무것도 남지 않는다는 믿음 중 하나일 수밖에 없다.",
+      "explanation": "문장은 특정 사고 방식의 결과로 두 가지 가능한 믿음을 제시한다: 영혼의 불멸성에 대한 믿음과 삶의 종료가 모든 것의 완전한 종결이라는 믿음.",
+      "grammar": "동사 「remains」는 remain의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1968-51/06.mp3",
+      "vocabulary": [
+        {
+          "word": "outcome",
+          "meaning": "결과",
+          "note": "이 문맥에서는 특정 사고 방식이나 행동의 최종적인 결과를 의미한다."
+        },
+        {
+          "word": "thinking",
+          "meaning": "사고",
+          "note": "개인이 가지고 있는 사고 방식이나 생각 방식을 나타낸다."
+        },
+        {
+          "word": "immortal",
+          "meaning": "불멸의",
+          "note": "영혼이나 존재가 죽음 이후에도 계속 존재한다는 의미로 사용된다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "They are both mere beliefs.",
+      "korean": "그것들은 단순히 믿음일 뿐이다.",
+      "explanation": "문장은 두 가지 생각, 즉 영혼의 불멸성에 대한 믿음과 삶의 종말에 대한 완전한 종결에 대한 믿음이 근본적으로 단순한 믿음에 불과하다는 것을 강조한다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/07.mp3",
+      "vocabulary": [
+        {
+          "word": "mere",
+          "meaning": "단순히",
+          "note": "이 단어는 믿음이 복잡한 이론이나 근거 없이 매우 기본적이고 단순한 것임을 나타낸다."
+        },
+        {
+          "word": "beliefs",
+          "meaning": "믿음",
+          "note": "문맥에서 두 가지 특정한 철학적 또는 영적 견해를 가리키며, 이들 모두 근본적으로 단순한 형태의 신념임을 강조한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "One belief is based on the fear of death, the other on the end of the body.",
+      "korean": "죽음에 대한 두려움에 기반한 믿음과 육체의 종말에 기반한 믿음이 있습니다.",
+      "explanation": "두 믿음의 기반이 되는 요소를 설명합니다. 하나는 죽음에 대한 두려움이고 다른 하나는 육체의 종말에 대한 두려움입니다.",
+      "grammar": "「is based」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1968-51/08.mp3",
+      "vocabulary": [
+        {
+          "word": "belief",
+          "meaning": "신념",
+          "note": "어떤 개념이나 상황에 대한 개인의 확신이나 생각을 의미합니다."
+        },
+        {
+          "word": "based",
+          "meaning": "기반이 되다",
+          "note": "어떤 것이 다른 것의 근본이나 기초가 됨을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "I want man not to get entangled in beliefs and opinions, because that is not the direction to experiencing, to knowing,",
+      "korean": "나는 사람들이 믿음과 의견에 얽매이지 않기를 바란다, 왜냐하면 그것은 체험하고 이해하는 방향이 아니기 때문이다.",
+      "explanation": "사람들이 복잡한 믿음과 의견에 얽매이지 않고 더 직접적인 체험과 깨달음을 추구해야 한다는 메시지를 전달한다.",
+      "grammar": "동사 「want」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1968-51/09.mp3",
+      "vocabulary": [
+        {
+          "word": "entangled",
+          "meaning": "얽히다, 얽매이다",
+          "note": "여기서는 복잡한 믿음이나 의견에 얽매여 자유롭지 못한 상태를 의미한다."
+        },
+        {
+          "word": "experiencing",
+          "meaning": "체험",
+          "note": "직접적인 경험이나 깨달음을 통해 이해하는 과정을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "And what else can be found by thinking about death but belief systems and dogmas?",
+      "korean": "죽음을 생각함으로써 무엇을 더 발견할 수 있을까? 단지 믿음 체계와 교조만이 아닐까?",
+      "explanation": "죽음에 대해 생각할 때 발견할 수 있는 것이 믿음 체계와 교조뿐인지 질문하는 문장입니다.",
+      "grammar": "「can be found」는 조동사 + be + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1968-51/10.mp3",
+      "vocabulary": [
+        {
+          "word": "thinking",
+          "meaning": "생각",
+          "note": "죽음에 대한 사색이나 고민을 의미합니다."
+        },
+        {
+          "word": "systems",
+          "meaning": "체계",
+          "note": "여기서는 믿음 체계나 교조를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "Thought never takes one beyond the known.",
+      "korean": "생각은 우리를 알려진 것 이상으로 이끌지 않는다.",
+      "explanation": "생각만으로는 우리가 이미 알고 있는 범위를 벗어나지 못한다.",
+      "grammar": "동사 「takes」는 take의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1968-51/11.mp3",
+      "vocabulary": [
+        {
+          "word": "Thought",
+          "meaning": "생각",
+          "note": "여기서는 사고 과정이나 인식의 방식을 의미한다."
+        },
+        {
+          "word": "takes",
+          "meaning": "이끌다",
+          "note": "어떤 상태나 위치로 이동하게 만든다는 의미로 사용되었다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "And death is unknown.",
+      "korean": "죽음은 알려지지 않은 상태이다.",
+      "explanation": "이 문장은 죽음이 현재로서는 이해되지 않거나 알려지지 않은 영역임을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/12.mp3",
+      "vocabulary": [
+        {
+          "word": "death",
+          "meaning": "죽음",
+          "note": "이 문맥에서는 특정한 개인의 죽음이 아니라 일반적인 개념으로서의 죽음을 나타낸다."
+        },
+        {
+          "word": "unknown",
+          "meaning": "알려지지 않은",
+          "note": "죽음이 현재 인간의 지식이나 경험의 범위를 벗어난 상태임을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "Hence, it cannot be known through thinking.",
+      "korean": "따라서 생각으로 알 수 없다.",
+      "explanation": "죽음은 생각으로 알 수 없다는 의미를 전달한다.",
+      "grammar": "「cannot be known」는 조동사 + be + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1968-51/13.mp3",
+      "vocabulary": [
+        {
+          "word": "known",
+          "meaning": "알다, 인식하다",
+          "note": "이 문맥에서는 어떤 것을 인식하거나 이해할 수 없다는 의미를 담고 있다."
+        },
+        {
+          "word": "thinking",
+          "meaning": "생각, 사고",
+          "note": "이성적인 이해나 인식 과정을 의미하며, 여기서는 논리적 사고나 추론으로는 해당 개념을 파악할 수 없다는 것을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "I want to turn your attention towards life.",
+      "korean": "당신의 관심을 삶에 돌리기를 원합니다.",
+      "explanation": "문장은 삶에 대한 관심을 끌기를 바라는 의도를 표현합니다.",
+      "grammar": "동사 「want」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1968-51/14.mp3",
+      "vocabulary": [
+        {
+          "word": "want",
+          "meaning": "원하다",
+          "note": "의지 또는 바람을 나타냅니다."
+        },
+        {
+          "word": "attention",
+          "meaning": "주의",
+          "note": "특정 대상이나 주제에 대한 집중이나 관심을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "Life is - here and now.",
+      "korean": "인생은 지금 여기에 있어요.",
+      "explanation": "이 문장은 현재 순간의 중요성을 강조하며, 인생의 본질이 현재에 존재한다는 의미를 전달합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/15.mp3",
+      "vocabulary": [
+        {
+          "word": "Life",
+          "meaning": "인생",
+          "note": "이 문맥에서는 인생의 본질이나 현재 순간의 중요성을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "One can enter it.",
+      "korean": "그것에 들어갈 수 있어요.",
+      "explanation": "문장은 현재의 삶에 접근하거나 참여할 수 있는 가능성을 제시합니다.",
+      "grammar": "「can enter」에서 조동사 can 뒤에 동사원형 「enter」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1968-51/16.mp3",
+      "vocabulary": [
+        {
+          "word": "enter",
+          "meaning": "들어가다",
+          "note": "여기서는 어떤 상태나 영역에 참여하거나 접근하는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 17,
+      "english": "Death is never here and now - either it is in the future or in the past.",
+      "korean": "죽음은 결코 현재에 존재하지 않아요 - 그것은 미래에 있거나 과거에 있을 뿐입니다.",
+      "explanation": "죽음은 항상 시간적 맥락에서 현재를 벗어나 미래나 과거에 위치한다는 의미를 전달합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/17.mp3",
+      "vocabulary": [
+        {
+          "word": "Death",
+          "meaning": "죽음",
+          "note": "생명의 종결을 의미하며, 이 문장에서는 존재의 부재를 나타냅니다."
+        },
+        {
+          "word": "future",
+          "meaning": "미래",
+          "note": "앞으로 올 시기를 의미하며, 이 문맥에서는 죽음이 현재에 존재하지 않고 미래의 개념으로 이해될 수 있음을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 18,
+      "english": "Death is never in the present.",
+      "korean": "죽음은 결코 현재에 존재하지 않습니다.",
+      "explanation": "죽음은 항상 미래에 있거나 과거에 있을 뿐, 현재에는 존재하지 않는다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/18.mp3",
+      "vocabulary": [
+        {
+          "word": "Death",
+          "meaning": "죽음",
+          "note": "생명의 종결을 의미합니다."
+        },
+        {
+          "word": "present",
+          "meaning": "현재",
+          "note": "지금 이 순간을 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 19,
+      "english": "Has this fact ever come to your attention, that death is never in the present?",
+      "korean": "죽음이 현재에 존재하지 않는다는 사실을 알아차리셨나요?",
+      "explanation": "죽음은 항상 과거나 미래에 존재하며 현재에는 존재하지 않는다는 의미를 질문 형태로 전달합니다.",
+      "grammar": "동사 「Has」는 have의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1968-51/19.mp3",
+      "vocabulary": [
+        {
+          "word": "attention",
+          "meaning": "주의",
+          "note": "이 문맥에서는 「주의」의 뜻으로 읽습니다."
+        },
+        {
+          "word": "present",
+          "meaning": "현재",
+          "note": "시간적 맥락에서 현재 순간을 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 20,
+      "english": "But life is always in the present - neither in the past nor in the future.",
+      "korean": "삶은 항상 현재에 있어요 - 과거에도 미래에도 아니요.",
+      "explanation": "현재에만 존재하며 과거와 미래에는 존재하지 않는다는 삶의 특성을 강조합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/20.mp3",
+      "vocabulary": [
+        {
+          "word": "present",
+          "meaning": "현재",
+          "note": "문장에서 삶의 존재 상태를 나타내며, 현재 순간에만 삶이 실재한다는 의미를 담고 있습니다."
+        },
+        {
+          "word": "future",
+          "meaning": "미래",
+          "note": "문장에서 삶이 존재하지 않는 시간대로 언급되어 현재와 대비됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 21,
+      "english": "If it is, it is now; otherwise it never is.",
+      "korean": "그렇다면 지금이야; 그렇지 않으면 결코 아니야.",
+      "explanation": "현재 순간에만 존재한다는 의미를 강조하며, 과거나 미래에는 존재하지 않는다는 내용을 전달합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/21.mp3",
+      "vocabulary": [
+        {
+          "word": "otherwise",
+          "meaning": "그렇지 않으면",
+          "note": "반대의 상황이나 경우를 나타내며, 문맥에서는 존재하지 않는 상황을 의미합니다."
+        },
+        {
+          "word": "never",
+          "meaning": "결코",
+          "note": "절대적인 부정을 나타내며, 여기서는 과거나 미래에 해당 상태가 존재하지 않음을 강조합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 22,
+      "english": "Hence it can be known, because it can be lived, there is no need to think about it.",
+      "korean": "그러므로 알 수 있으니, 살면서 경험할 수 있으므로 고민할 필요가 없다.",
+      "explanation": "문장은 어떤 진리나 사실이 직접적인 경험을 통해 알 수 있으며, 고민하거나 사색할 필요 없이 삶 속에서 느낄 수 있다는 의미를 전달한다.",
+      "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1968-51/22.mp3",
+      "vocabulary": [
+        {
+          "word": "known",
+          "meaning": "알 수 있는",
+          "note": "이 문맥에서는 직접적인 경험을 통해 이해할 수 있다는 의미를 담고 있다."
+        },
+        {
+          "word": "lived",
+          "meaning": "살면서 경험하다",
+          "note": "경험을 통해 그 의미나 가치를 이해할 수 있다는 뉘앙스를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 23,
+      "english": "In fact, those who would think about it will miss it.",
+      "korean": "실제로, 그것을 생각하려는 사람들은 그것을 놓칠 것이다.",
+      "explanation": "문장은 어떤 경험이나 진리는 고민하거나 분석하려 하지 않고 직접 체험해야 진정한 이해가 가능하다는 의미를 전달한다.",
+      "grammar": "「will miss」에서 조동사 will 뒤에 동사원형 「miss」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+      "audio": "audio/1968-51/23.mp3",
+      "vocabulary": [
+        {
+          "word": "fact",
+          "meaning": "사실",
+          "note": "이 문맥에서는 직접 체험을 통해 알 수 있는 진리나 경험을 의미한다."
+        },
+        {
+          "word": "think",
+          "meaning": "생각하다",
+          "note": "여기서는 직접 체험하지 않고 이론적으로만 접근하려는 태도를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 24,
+      "english": "Because the movement of thought is also only of the past or in the future; thought is not in the present.",
+      "korean": "생각의 흐름은 과거나 미래에만 존재하며, 현재에는 존재하지 않는다.",
+      "explanation": "생각의 진행이 현재에 국한되지 않고 과거나 미래에 머물러 있다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/24.mp3",
+      "vocabulary": [
+        {
+          "word": "movement",
+          "meaning": "흐름, 진행",
+          "note": "여기서는 생각의 진행이나 변화를 의미한다."
+        },
+        {
+          "word": "thought",
+          "meaning": "생각",
+          "note": "개인의 사고 과정이나 인식을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 25,
+      "english": "Thought too is a companion of death.",
+      "korean": "생각 또한 죽음의 동반자이다.",
+      "explanation": "생각이 죽음과 함께 존재하거나 밀접하게 연관되어 있음을 나타냄.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/25.mp3",
+      "vocabulary": [
+        {
+          "word": "Thought",
+          "meaning": "생각",
+          "note": "정신적 활동이나 사고 과정을 의미함."
+        },
+        {
+          "word": "companion",
+          "meaning": "동반자",
+          "note": "죽음과 함께하는 존재나 상태를 나타냄."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 26,
+      "english": "In other words, thought is dead, there is no element of life in it.",
+      "korean": "즉, 생각조차도 죽음과 동반자 관계에 있으며, 삶의 요소는 전혀 없다.",
+      "explanation": "문장은 생각이 생명력을 잃고 순수하게 죽음과 연관되어 있다는 의미를 전달한다.",
+      "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1968-51/26.mp3",
+      "vocabulary": [
+        {
+          "word": "thought",
+          "meaning": "생각",
+          "note": "여기서는 내면의 사고 과정이나 개념을 의미한다."
+        },
+        {
+          "word": "element",
+          "meaning": "요소",
+          "note": "생각 속에 존재해야 할 생명력이나 생명력의 흔적을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 27,
+      "english": "Aliveness is always in the present - it is the present.",
+      "korean": "현재에 생명력이 항상 존재하며, 그것이 바로 현재이다.",
+      "explanation": "현재 순간에 생명력이 내재되어 있으며, 생명력과 현재는 동일시된다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/27.mp3",
+      "vocabulary": [
+        {
+          "word": "aliveness",
+          "meaning": "생명력",
+          "note": "문장에서 생명력이나 생명력의 존재를 강조하는 용어"
+        },
+        {
+          "word": "present",
+          "meaning": "현재",
+          "note": "생명력이 존재하는 순간적인 상태를 지칭하며, 현재 순간의 중요성을 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 28,
+      "english": "Its manifestation is now, absolutely now; here, absolutely here Hence, there is no thinking about life, there is only experiencing.",
+      "korean": "현재에 존재하는 것이 삶의 표현이며, 지금 여기에만 존재하므로 삶에 대해 생각할 필요 없이 오직 체험만이 존재한다.",
+      "explanation": "문장은 현재 순간의 중요성을 강조하며, 삶에 대한 사색보다는 직접적인 체험을 통해 진정한 삶을 이해해야 한다는 메시지를 전달한다.",
+      "grammar": "「is only experiencing」는 be동사 + -ing로 만든 현재진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+      "audio": "audio/1968-51/28.mp3",
+      "vocabulary": [
+        {
+          "word": "manifestation",
+          "meaning": "표현, 나타남",
+          "note": "삶의 본질이나 상태가 현재 순간에 어떻게 드러나는지를 의미한다."
+        },
+        {
+          "word": "absolutely",
+          "meaning": "절대적으로",
+          "note": "강조의 의미로 사용되어 현재 순간의 유일성과 확실성을 나타낸다."
+        },
+        {
+          "word": "experiencing",
+          "meaning": "체험",
+          "note": "수동적인 사색이 아닌 직접적인 경험을 통해 삶을 이해하고 느껴야 한다는 의미를 담고 있다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "absolutely now",
+          "meaning": "절대적으로 지금 여기",
+          "explanation": "현재 순간의 절대적 중요성을 강조하는 표현이다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 29,
+      "english": "Not an experience, but experiencing.",
+      "korean": "경험하는 것이지, 경험 자체가 아니다.",
+      "explanation": "문장은 단순히 경험하는 행위 자체가 중요하며, 경험에 대한 사색이나 고찰보다는 직접적인 체험이 우선시된다는 의미를 전달한다.",
+      "grammar": "「experiencing」는 experience의 -ing형입니다. -ing형은 문장 속에서 행동을 명사처럼 가리키거나 다른 말과 이어 상황을 설명할 수 있으므로, 이 형태만으로 현재진행형이라고 판단하지 않습니다.",
+      "audio": "audio/1968-51/29.mp3",
+      "vocabulary": [
+        {
+          "word": "experiencing",
+          "meaning": "체험",
+          "note": "여기서는 단순히 경험하는 행위 자체를 강조하며, 추상적인 사고보다는 직접적인 감각적 체험을 중시한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 30,
+      "english": "Experience means, it has already happened; experiencing means, it is happening.",
+      "korean": "경험이란 이미 일어난 일이지만, 경험한다는 것은 현재 일어나고 있는 일이라는 뜻입니다.",
+      "explanation": "문장은 경험과 현재 진행형의 경험 사이의 차이를 설명합니다. 과거의 사건과 그것이 진행 중인 상태를 구분합니다.",
+      "grammar": "동사 「means」는 mean의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1968-51/30.mp3",
+      "vocabulary": [
+        {
+          "word": "experience",
+          "meaning": "경험",
+          "note": "과거에 일어난 사건이나 사건을 통해 얻은 지식이나 느낌을 의미합니다."
+        },
+        {
+          "word": "experiencing",
+          "meaning": "경험하다",
+          "note": "이 문맥에서는 「경험하다」의 뜻으로 읽습니다."
+        },
+        {
+          "word": "happening",
+          "meaning": "일어나다",
+          "note": "어떤 사건이나 상황이 현재 진행 중임을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 31,
+      "english": "Experience has already become a thought, because it has already happened.",
+      "korean": "경험은 이미 생각이 되어버렸다, 왜냐하면 이미 일어났기 때문이다.",
+      "explanation": "문장은 과거의 경험이 현재의 사고나 인식에 영향을 미쳤음을 설명한다.",
+      "grammar": "「has already become」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1968-51/31.mp3",
+      "vocabulary": [
+        {
+          "word": "Experience",
+          "meaning": "경험",
+          "note": "특정 사건이나 상황을 통해 얻은 지식이나 배움을 의미한다."
+        },
+        {
+          "word": "happened",
+          "meaning": "일어났다",
+          "note": "과거에 실제로 발생했다는 의미로 사용되었다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 32,
+      "english": "Experiencing is thoughtless: wordless - silent - void.",
+      "korean": "경험은 생각 없는 상태야: 말 없는, 조용한, 공허한 상태야.",
+      "explanation": "경험은 언어로 표현되지 않고, 조용하며 의미나 내용이 비어있는 상태를 묘사한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/32.mp3",
+      "vocabulary": [
+        {
+          "word": "Experiencing",
+          "meaning": "경험",
+          "note": "특정 사건이나 상황을 직접적으로 느끼거나 체험하는 것을 의미한다."
+        },
+        {
+          "word": "thoughtless",
+          "meaning": "생각 없는",
+          "note": "의식적인 사고나 언어적 표현 없이 순수하게 느끼는 상태를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 33,
+      "english": "Hence I call thoughtless awareness the door to experiencing life.",
+      "korean": "그러므로 나는 생각 없는 인식을 삶을 경험하는 문이라고 부른다.",
+      "explanation": "문장은 생각 없는 인식 상태가 삶의 경험으로 이어지는 관문 역할을 한다는 의미를 전달한다.",
+      "grammar": "동사 「call」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1968-51/33.mp3",
+      "vocabulary": [
+        {
+          "word": "thoughtless",
+          "meaning": "생각 없는",
+          "note": "마음이 평온하고 현재 순간에 집중되어 과거나 미래에 대한 걱정이 없는 상태를 의미한다."
+        },
+        {
+          "word": "experiencing",
+          "meaning": "경험하다",
+          "note": "직접적으로 느끼고 체험하는 것을 의미하며, 이 문맥에서는 삶의 순간을 깊이 느끼는 것을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 34,
+      "english": "And the one who comes to know life comes to know all.",
+      "korean": "삶을 알게 되는 자는 모든 것을 알게 된다.",
+      "explanation": "삶의 이해는 더 넓은 지식으로 이어진다.",
+      "grammar": "동사 「comes」는 come의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1968-51/34.mp3",
+      "vocabulary": [
+        {
+          "word": "comes",
+          "meaning": "알게 되다",
+          "note": "여기서는 '이해하게 되다'는 의미로 사용되었으며, 경험이나 지식의 획득을 나타냅니다."
+        },
+        {
+          "word": "know",
+          "meaning": "알다",
+          "note": "깊이 이해하고 인식한다는 의미로 사용되었습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 35,
+      "english": "He comes to know death as well because death is nothing but a fallacy born out of not knowing life.",
+      "korean": "죽음을 알게 되는 것은 삶을 모르기 때문에 생기는 착각일 뿐이기 때문이다.",
+      "explanation": "죽음에 대한 이해는 삶에 대한 무지에서 비롯된 오해일 뿐이라는 의미를 담고 있다.",
+      "grammar": "동사 「comes」는 come의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1968-51/35.mp3",
+      "vocabulary": [
+        {
+          "word": "fallacy",
+          "meaning": "착각, 오해",
+          "note": "여기서는 죽음이 실제로 존재하는 것이 아니라 잘못된 이해에서 비롯된 것임을 강조한다."
+        },
+        {
+          "word": "knowing",
+          "meaning": "알다, 이해하다",
+          "note": "삶에 대한 깊은 이해가 죽음에 대한 오해를 해소할 수 있다는 의미를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 36,
+      "english": "One who does not know life naturally believes himself to be the body.",
+      "korean": "자연스럽게 자신을 육체로 여기는 사람입니다.",
+      "explanation": "죽음을 모르는 사람은 자연스럽게 자신을 육체에 국한시켜 생각한다.",
+      "grammar": "동사 「believes」는 believe의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1968-51/36.mp3",
+      "vocabulary": [
+        {
+          "word": "naturally",
+          "meaning": "자연스럽게",
+          "note": "본질적으로, 자연스럽게 그렇게 행동하거나 생각한다는 의미입니다."
+        },
+        {
+          "word": "believes",
+          "meaning": "믿다",
+          "note": "자신이나 다른 것에 대해 확신하거나 신뢰하는 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 37,
+      "english": "And the body dies, the body is destroyed; the entity called body disappears.",
+      "korean": "몸은 죽고, 몸은 파괴되며, 몸이라는 존재는 사라집니다.",
+      "explanation": "몸의 일시적이고 물질적인 성격을 강조하며, 진정한 자아는 이러한 변화를 초월한다는 의미를 담고 있습니다.",
+      "grammar": "동사 「disappears」는 disappear의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1968-51/37.mp3",
+      "vocabulary": [
+        {
+          "word": "destroyed",
+          "meaning": "파괴되다",
+          "note": "물리적인 소멸이나 끝을 의미합니다."
+        },
+        {
+          "word": "disappears",
+          "meaning": "사라진다",
+          "note": "존재의 일시적 성격을 강조하며, 물질적인 측면의 끝을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 38,
+      "english": "It is this that gives birth to the concept that death is a total end.",
+      "korean": "이것이 죽음이 완전한 종말임을 의미하는 개념을 낳는다.",
+      "explanation": "죽음이 단순히 육체적 소멸을 넘어 완전한 종말을 의미한다는 생각의 근원을 설명한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/38.mp3",
+      "vocabulary": [
+        {
+          "word": "gives",
+          "meaning": "낳다, 생성하다",
+          "note": "죽음이라는 개념을 만들어내는 원동력이 된다는 의미"
+        },
+        {
+          "word": "concept",
+          "meaning": "개념",
+          "note": "죽음에 대한 특정한 이해나 생각"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 39,
+      "english": "Only those who are a little more courageous accept this concept.",
+      "korean": "약간 더 용감한 사람들만이 이 개념을 받아들인다.",
+      "explanation": "이 문장은 죽음이 완전한 종결이라는 개념을 받아들이는 사람들의 특성을 설명한다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/39.mp3",
+      "vocabulary": [
+        {
+          "word": "courageous",
+          "meaning": "용감한",
+          "note": "이 문맥에서는 어려움이나 두려움을 극복하고 개념을 수용하는 용기를 의미한다."
+        },
+        {
+          "word": "concept",
+          "meaning": "개념",
+          "note": "죽음이 완전히 끝나는 것이라는 생각이나 이해를 가리킨다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 40,
+      "english": "It is also out of this very fallacy of believing oneself to be the body that the fear of death is born.",
+      "korean": "자신을 육체로 여기는 착각에서 죽음에 대한 두려움이 비롯된다는 바로 그 오류에서 비롯된다.",
+      "explanation": "자신을 육체에 국한시키는 잘못된 생각이 죽음에 대한 두려움의 근원임을 설명합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/40.mp3",
+      "vocabulary": [
+        {
+          "word": "fallacy",
+          "meaning": "잘못된 추론이나 논리적 오류",
+          "note": "여기서는 자신을 육체에만 국한시키는 잘못된 생각을 의미합니다."
+        },
+        {
+          "word": "believing",
+          "meaning": "믿다",
+          "note": "자신을 육체에만 국한시키는 잘못된 믿음을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 41,
+      "english": "It is the people suffering this fear who start chanting, \"the soul is immortal, the soul is immortal.\" The fearful and weak seek refuge in this way.",
+      "korean": "죽음의 두려움을 겪는 사람들이 '영혼은 불멸이다, 영혼은 불멸이다'라고 되뇌기 시작한다. 두려움에 휩싸이고 약한 이들은 이런 방식으로 위안을 찾는다.",
+      "explanation": "죽음에 대한 두려움을 겪는 사람들이 영혼의 불멸성을 강조하는 말을 반복하며 위로를 찾는 상황을 설명한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/41.mp3",
+      "vocabulary": [
+        {
+          "word": "suffering",
+          "meaning": "고통받는",
+          "note": "죽음의 두려움으로 인해 고통받는 상태를 나타낸다."
+        },
+        {
+          "word": "chanting",
+          "meaning": "반복해서 말하다",
+          "note": "특정 문구를 계속해서 되뇌는 행위를 의미한다."
+        },
+        {
+          "word": "immortal",
+          "meaning": "불멸의",
+          "note": "영혼이 죽음 이후에도 존재한다는 믿음을 나타낸다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "seek refuge in",
+          "meaning": "위안을 찾다",
+          "explanation": "어려움이나 고통에서 벗어나기 위해 어떤 방법이나 믿음에 의존하는 것을 의미한다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 42,
+      "english": "But both these concepts are born out of one and the same fallacy.",
+      "korean": "그러나 이 두 개념은 모두 같은 오해에서 비롯되었다.",
+      "explanation": "두 개념이 같은 근본적인 오해나 잘못된 이해에서 나왔음을 강조한다.",
+      "grammar": "「are born」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1968-51/42.mp3",
+      "vocabulary": [
+        {
+          "word": "concepts",
+          "meaning": "개념",
+          "note": "이 문장에서는 주로 추상적인 아이디어나 이론을 가리킨다."
+        },
+        {
+          "word": "fallacy",
+          "meaning": "오해",
+          "note": "잘못된 논리나 추론의 오류를 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 43,
+      "english": "These are two forms of the same fallacy and are two different reactions of two types of people.",
+      "korean": "이것들은 같은 오류의 두 가지 형태이며, 두 가지 다른 사람들의 반응입니다.",
+      "explanation": "문장은 두 개념이 근본적으로 같은 오류에서 비롯되었으며, 서로 다른 배경이나 성향을 가진 사람들이 각기 다른 방식으로 그 오류에 반응한다고 설명합니다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/43.mp3",
+      "vocabulary": [
+        {
+          "word": "different",
+          "meaning": "다른",
+          "note": "두 개념이나 사람들의 특성이 서로 다르다는 것을 나타냅니다."
+        },
+        {
+          "word": "reactions",
+          "meaning": "반응",
+          "note": "특정 상황이나 개념에 대한 사람들의 다양한 대응 방식을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 44,
+      "english": "But, remember, the fallacy of both is the same, and in both ways it is the same fallacy that is strengthened.",
+      "korean": "하지만 기억하세요, 두 경우 모두 같은 오류이며, 두 방식 모두에서 이 오류가 강화된다는 점은 같습니다.",
+      "explanation": "두 가지 상황에서 공통적으로 나타나는 오류의 본질이 동일하며, 그 오류가 어떻게 강화되는지에 대한 설명입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/44.mp3",
+      "vocabulary": [
+        {
+          "word": "remember",
+          "meaning": "기억하다",
+          "note": "과거 내용을 떠올리도록 독자에게 주의를 환기시키는 역할을 합니다."
+        },
+        {
+          "word": "strengthened",
+          "meaning": "강화되다",
+          "note": "오류나 주장이 더욱 견고해지거나 설득력이 높아지는 상황을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 45,
+      "english": "I do not want to give any kind of support to this fallacy.",
+      "korean": "이 편견에 어떤 형태로든 힘을 실어주고 싶지 않습니다.",
+      "explanation": "주어진 문장의 의미를 한국어로 전달한 내용입니다. 원문에서 표현하고자 하는 거부의 의사를 강조하였습니다.",
+      "grammar": "「do not want」는 현재의 부정 표현입니다. do/does/did 뒤에서는 본동사 「want」를 원형으로 씁니다.",
+      "audio": "audio/1968-51/45.mp3",
+      "vocabulary": [
+        {
+          "word": "support",
+          "meaning": "지지",
+          "note": "어떤 주장이나 견해에 힘을 실어주거나 도와주는 것을 의미합니다."
+        },
+        {
+          "word": "fallacy",
+          "meaning": "편견",
+          "note": "논리적으로 잘못된 추론이나 잘못된 사고 방식을 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 46,
+      "english": "If I say the soul is not immortal, then that is an untruth.",
+      "korean": "영혼이 불멸하지 않다고 말한다면, 그것은 거짓말이 될 것이다.",
+      "explanation": "영혼의 불멸성을 부정하는 주장은 사실과 다르다는 의미를 담고 있다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/46.mp3",
+      "vocabulary": [
+        {
+          "word": "immortal",
+          "meaning": "불멸의, 영원히 사는",
+          "note": "영혼이나 존재가 죽음을 초월하고 영원히 존재한다는 개념을 나타냄"
+        },
+        {
+          "word": "untruth",
+          "meaning": "거짓",
+          "note": "사실과 부합하지 않는, 진실이 아닌 진술을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 47,
+      "english": "If I say the soul is immortal, then that becomes an escape from your fear.",
+      "korean": "만약 내가 영혼이 불멸이라고 말한다면, 그건 당신의 두려움에서 벗어나는 길이 된다.",
+      "explanation": "영혼의 불멸성을 주장함으로써 두려움을 극복하거나 회피하는 효과를 얻는다는 의미",
+      "grammar": "동사 「becomes」는 become의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1968-51/47.mp3",
+      "vocabulary": [
+        {
+          "word": "immortal",
+          "meaning": "불멸의, 영원히 사는",
+          "note": "영혼의 영속성을 나타내며, 종교적 또는 철학적 맥락에서 사용됨"
+        },
+        {
+          "word": "escape",
+          "meaning": "피하다, 회피하다",
+          "note": "두려움이나 어려움에서 벗어나는 것을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 48,
+      "english": "And those who are in fear are never able to know the truth.",
+      "korean": "두려움에 휩싸인 사람들은 진실을 알 수 없다.",
+      "explanation": "두려움 때문에 진실을 이해하거나 알 수 없는 상태를 설명한다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/48.mp3",
+      "vocabulary": [
+        {
+          "word": "fear",
+          "meaning": "두려움",
+          "note": "상황이나 대상에 대한 불안감이나 공포를 의미한다."
+        },
+        {
+          "word": "truth",
+          "meaning": "진실",
+          "note": "사실 그대로, 왜곡 없이 드러난 상태를 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 49,
+      "english": "Hence, I say death is unknown.",
+      "korean": "따라서 죽음은 알려지지 않은 상태라고 말합니다.",
+      "explanation": "죽음의 본질이나 특성이 인간에게 완전히 이해될 수 없다는 의미를 담고 있습니다.",
+      "grammar": "동사 「say」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1968-51/49.mp3",
+      "vocabulary": [
+        {
+          "word": "death",
+          "meaning": "죽음",
+          "note": "생명의 종결을 의미하며, 문맥에서는 그 미지의 본질을 나타냅니다."
+        },
+        {
+          "word": "unknown",
+          "meaning": "알려지지 않은",
+          "note": "죽음의 본질이나 특성이 완전히 이해되거나 밝혀지지 않았음을 강조합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 50,
+      "english": "Know life.",
+      "korean": "생명을 알라",
+      "explanation": "이 문장은 삶의 본질이나 가치를 이해하고 체험하라는 의미를 담고 있다.",
+      "grammar": "「Know」는 주어 you를 생략한 명령문의 동사원형입니다. 「life」는 알아야 할 대상을 나타내는 목적어입니다.",
+      "audio": "audio/1968-51/50.mp3",
+      "vocabulary": [
+        {
+          "word": "life",
+          "meaning": "생명",
+          "note": "여기서는 삶의 경험이나 의미를 탐구하고 이해하라는 지시로 사용된다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 51,
+      "english": "Only that can be known.",
+      "korean": "알려질 수 있는 것만 알 수 있다.",
+      "explanation": "이 문장은 진정한 이해나 경험은 오직 특정한 방식이나 범위 내에서만 가능하다는 의미를 전달한다.",
+      "grammar": "「can be known」는 조동사 + be + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1968-51/51.mp3",
+      "vocabulary": [
+        {
+          "word": "known",
+          "meaning": "알려진",
+          "note": "이 문맥에서는 특정한 방식이나 범위 내에서만 가능한 이해나 경험을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 52,
+      "english": "And upon knowing that, immortality is also known.",
+      "korean": "그 것을 알게 되면 불멸도 알게 된다.",
+      "explanation": "그 사실을 깨닫게 되면 불멸의 개념도 이해하게 된다는 의미입니다.",
+      "grammar": "「is also known」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1968-51/52.mp3",
+      "vocabulary": [
+        {
+          "word": "knowing",
+          "meaning": "알게 되는 것",
+          "note": "특정 정보나 사실을 이해하거나 인식하게 되는 과정을 의미합니다."
+        },
+        {
+          "word": "immortality",
+          "meaning": "불멸",
+          "note": "죽음을 초월한 영원한 생명이나 존재 상태를 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 53,
+      "english": "Life is eternal There is no beginning and no end to it.",
+      "korean": "생명은 영원하며 시작도 끝도 없다.",
+      "explanation": "생명의 영속성과 무한성을 강조하며, 시작과 끝이 존재하지 않는다는 개념을 전달한다.",
+      "grammar": "「There is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1968-51/53.mp3",
+      "vocabulary": [
+        {
+          "word": "eternal",
+          "meaning": "영원한",
+          "note": "시간의 제약 없이 영원히 지속되는 상태를 의미한다."
+        },
+        {
+          "word": "beginning",
+          "meaning": "시작",
+          "note": "어떤 과정이나 존재의 시작점이나 출발점을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 54,
+      "english": "It manifests, it unmanifests.",
+      "korean": "그것은 나타나고, 다시 사라지기도 한다.",
+      "explanation": "문장은 존재나 현상이 나타나고 사라지는 순환적인 과정을 설명한다.",
+      "grammar": "동사 「unmanifests」는 unmanifest의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1968-51/54.mp3",
+      "vocabulary": [
+        {
+          "word": "manifests",
+          "meaning": "나타나다",
+          "note": "여기서는 어떤 존재나 현상이 눈에 보이거나 인식 가능한 상태로 드러나는 것을 의미한다."
+        },
+        {
+          "word": "unmanifests",
+          "meaning": "사라지다",
+          "note": "여기서는 존재나 현상이 다시 눈에 보이지 않거나 인식 불가능한 상태로 돌아가는 것을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 55,
+      "english": "It moves from one form to another form.",
+      "korean": "다른 형태로 변한다.",
+      "explanation": "문장은 어떤 것이 한 형태에서 다른 형태로 변화하거나 이동하는 과정을 설명한다.",
+      "grammar": "동사 「moves」는 move의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1968-51/55.mp3",
+      "vocabulary": [
+        {
+          "word": "moves",
+          "meaning": "이동하다, 변화하다",
+          "note": "여기서는 형태의 변화나 이동을 의미한다."
+        },
+        {
+          "word": "form",
+          "meaning": "형태, 모양",
+          "note": "변화하거나 이동하는 대상의 외형이나 상태를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 56,
+      "english": "In our ignorance, these transition points of change look like death.",
+      "korean": "무지 속에서는 변화의 전환점들이 마치 죽음처럼 보인다.",
+      "explanation": "무지 상태에서 변화의 순간들이 부정적이고 위협적으로 느껴져 마치 죽음과 같다고 표현.",
+      "grammar": "복수 주어 「these transition points」에 현재형 동사 「look」가 이어집니다. 「look like + 명사」는 그 명사처럼 보인다는 뜻이며, 여기서 like는 좋아한다는 동사가 아닙니다.",
+      "audio": "audio/1968-51/56.mp3",
+      "vocabulary": [
+        {
+          "word": "ignorance",
+          "meaning": "무지",
+          "note": "문장에서 무지 상태를 나타내며, 변화의 과정을 부정적으로 인식하게 만드는 역할을 함."
+        },
+        {
+          "word": "transition",
+          "meaning": "전환점",
+          "note": "변화의 순간이나 단계를 의미하며, 여기서는 부정적인 상황으로 해석됨."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 57,
+      "english": "But for one who knows, death is nothing more than changing houses.",
+      "korean": "그러나 지혜로운 자는 죽음을 단지 집을 바꾸는 것과 같다고 여긴다.",
+      "explanation": "죽음은 단지 삶의 장소가 바뀌는 것에 불과하다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/57.mp3",
+      "vocabulary": [
+        {
+          "word": "changing",
+          "meaning": "바꾸다, 변화시키다",
+          "note": "여기서는 삶의 상태나 장소가 변화한다는 의미를 담고 있다."
+        },
+        {
+          "word": "houses",
+          "meaning": "집",
+          "note": "비유적으로 사용되어 삶의 상태나 환경의 변화를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 58,
+      "english": "Certainly there is rebirth;",
+      "korean": "확실히 재생이 존재한다.",
+      "explanation": "이 문장은 죽음 이후에 재생이 반드시 따른다는 확신을 표현한다.",
+      "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1968-51/58.mp3",
+      "vocabulary": [
+        {
+          "word": "Certainly",
+          "meaning": "확실히",
+          "note": "이 단어는 확실성과 확신을 나타내며, 주장이나 사실에 대한 강한 믿음을 전달한다."
+        },
+        {
+          "word": "rebirth",
+          "meaning": "재생",
+          "note": "죽음 이후 새로운 삶이나 존재의 시작을 의미하며, 종종 영적 또는 철학적 맥락에서 사용된다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 59,
+      "english": "but for me it is not a doctrine, it is an experience.",
+      "korean": "그러나 제게 있어서는 교리가 아니라 직접적인 체험입니다.",
+      "explanation": "주어진 문장은 개인의 관점에서 재생(rebirth)에 대한 이해를 설명하며, 교리보다는 개인적인 체험의 중요성을 강조합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/59.mp3",
+      "vocabulary": [
+        {
+          "word": "doctrine",
+          "meaning": "교리",
+          "note": "체계적인 가르침이나 이론, 종교적 교리를 의미합니다."
+        },
+        {
+          "word": "experience",
+          "meaning": "체험",
+          "note": "직접적인 감각이나 인식을 통해 얻은 지식이나 느낌을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 60,
+      "english": "And I don't want to make it a doctrine for others either.",
+      "korean": "나는 다른 사람들에게도 교리로 만들고 싶지 않아요.",
+      "explanation": "주어가 자신의 경험을 교리로 만들지 않으려는 의지를 다른 사람들에게도 확장시키는 문장입니다.",
+      "grammar": "「don't want」는 현재의 부정 표현입니다. do/does/did 뒤에서는 본동사 「want」를 원형으로 씁니다.",
+      "audio": "audio/1968-51/60.mp3",
+      "vocabulary": [
+        {
+          "word": "want",
+          "meaning": "원하다",
+          "note": "이 문맥에서는 「원하다」의 뜻으로 읽습니다."
+        },
+        {
+          "word": "doctrine",
+          "meaning": "교리",
+          "note": "특정 신념이나 가르침을 공식화한 체계적인 가르침을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 61,
+      "english": "Doctrines have badly undermined the truth.",
+      "korean": "교리들이 진실을 크게 훼손했습니다.",
+      "explanation": "교리들이 진실성을 해치거나 약화시켰다는 의미입니다.",
+      "grammar": "「have badly undermined」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1968-51/61.mp3",
+      "vocabulary": [
+        {
+          "word": "Doctrines",
+          "meaning": "교리",
+          "note": "특정 종교나 철학 체계에서 중요하게 여겨지는 가르침이나 원칙을 의미합니다."
+        },
+        {
+          "word": "undermined",
+          "meaning": "훼손하다",
+          "note": "진실이나 가치를 약화시키거나 해치는 행위를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 62,
+      "english": "I want every person to know it for themselves.",
+      "korean": "모든 사람이 스스로 알게 하고 싶어요.",
+      "explanation": "문장의 의미: 화자는 모든 사람들이 직접 경험하거나 이해하도록 하고 싶다는 의지를 표현하고 있습니다.",
+      "grammar": "동사 「want」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1968-51/62.mp3",
+      "vocabulary": [
+        {
+          "word": "want",
+          "meaning": "원하다",
+          "note": "목표나 바람을 표현하는 동사입니다."
+        },
+        {
+          "word": "person",
+          "meaning": "사람",
+          "note": "특정 개인이나 일반적인 인간을 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 63,
+      "english": "Nobody can perform this act for the other.",
+      "korean": "누구도 다른 사람을 위해 이 행위를 대신할 수 없다.",
+      "explanation": "문장의 의미: 이 행위는 각자 스스로 해야만 한다는 의미를 담고 있다.",
+      "grammar": "「can perform」에서 조동사 can 뒤에 동사원형 「perform」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1968-51/63.mp3",
+      "vocabulary": [
+        {
+          "word": "perform",
+          "meaning": "행하다, 실행하다",
+          "note": "여기서는 특정 행동이나 역할을 스스로 실행해야 함을 강조한다."
+        },
+        {
+          "word": "act",
+          "meaning": "행동, 행위",
+          "note": "개인이 스스로 해야 하는 특정 행동을 지칭한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 64,
+      "english": "But, through doctrines, it is this very act that appears to have been accomplished, thus everybody's individual search has become dull and dead Believing in the doctrines and scriptures one has sat down quietly, as if one has neither to know anything for oneself, nor has to do anything about finding the truth.",
+      "korean": "그러나 교리를 통해 이 행위가 이루어진 것처럼 보이기 때문에, 각자의 개별적인 탐구가 지루하고 생명력을 잃게 되었다. 교리와 경전을 믿는 것은 스스로 알아가는 것에 대한 필요성을 느끼지 않게 하고, 진리를 찾는 노력도 하지 않게 만든다.",
+      "explanation": "문장은 교리와 경전에 의존함으로써 개인의 주체적인 탐구와 진리 추구의 열정이 사라진다는 내용을 전달한다.",
+      "grammar": "「has to do」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+      "audio": "audio/1968-51/64.mp3",
+      "vocabulary": [
+        {
+          "word": "accomplished",
+          "meaning": "이루어진",
+          "note": "여기서는 특정 행위가 성공적으로 이루어졌음을 의미한다."
+        },
+        {
+          "word": "individual",
+          "meaning": "개인의",
+          "note": "각 사람마다 독립적으로 수행하는 것을 나타낸다."
+        },
+        {
+          "word": "scriptures",
+          "meaning": "경전",
+          "note": "종교적 가르침이나 지혜가 담긴 텍스트를 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 65,
+      "english": "This situation is utterly suicidal.",
+      "korean": "이 상황은 완전히 자살적이야.",
+      "explanation": "상황이 매우 위험하고 스스로를 해치는 방향으로 나아간다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/65.mp3",
+      "vocabulary": [
+        {
+          "word": "situation",
+          "meaning": "상황",
+          "note": "현재 처한 형편이나 상태를 나타냄"
+        },
+        {
+          "word": "suicidal",
+          "meaning": "자살적인",
+          "note": "자신을 해치거나 파괴하는 결과를 가져오는 것을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 66,
+      "english": "Hence, I don't want to participate in this vast scale arrangement for killing man through the repetition of doctrines.",
+      "korean": "따라서 이 광범위한 교리 반복을 통한 인간 파괴 계획에 참여하고 싶지 않습니다.",
+      "explanation": "문장은 참여를 거부하며, 그 이유가 인간을 파괴하려는 광범위한 계획에 교리 반복이 포함되어 있다는 점을 강조합니다.",
+      "grammar": "「don't want」는 현재의 부정 표현입니다. do/does/did 뒤에서는 본동사 「want」를 원형으로 씁니다.",
+      "audio": "audio/1968-51/66.mp3",
+      "vocabulary": [
+        {
+          "word": "participate",
+          "meaning": "참여하다",
+          "note": "특정 활동이나 계획에 함께하거나 관여하는 것을 의미합니다."
+        },
+        {
+          "word": "arrangement",
+          "meaning": "계획, 배치",
+          "note": "여기서는 광범위한 파괴 계획을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 67,
+      "english": "I want to displace all the established doctrines, because this alone seems compassionate to me.",
+      "korean": "나는 기존의 교리들을 바꾸고 싶어. 이것이 나에게는 자비로워 보이기 때문이야.",
+      "explanation": "문장은 기존의 교리들을 바꾸고자 하는 의지를 표현하며, 그 이유가 자비로움 때문이라고 설명하고 있다.",
+      "grammar": "동사 「want」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1968-51/67.mp3",
+      "vocabulary": [
+        {
+          "word": "established",
+          "meaning": "정착된, 확립된",
+          "note": "기존의 교리들이 오랜 시간 동안 받아들여져 온 상태를 의미한다."
+        },
+        {
+          "word": "compassionate",
+          "meaning": "자비로운",
+          "note": "행동이나 결정이 타인에 대한 배려와 동정심을 반영한다는 의미이다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 68,
+      "english": "This way, all that is untrue will be destroyed.",
+      "korean": "이렇게 하면 거짓된 모든 것이 무너질 것입니다.",
+      "explanation": "거짓된 것들이 파괴되거나 없어질 것이라는 의미",
+      "grammar": "「will be destroyed」는 조동사 + be + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1968-51/68.mp3",
+      "vocabulary": [
+        {
+          "word": "untrue",
+          "meaning": "거짓된",
+          "note": "문장에서 거짓이나 사실과 다른 내용을 가리킵니다."
+        },
+        {
+          "word": "destroyed",
+          "meaning": "무너지다/파괴되다",
+          "note": "거짓된 것들이 완전히 사라지거나 무효화된다는 의미입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 69,
+      "english": "And the truth is never destroyed, it is ever available in its eternal freshness to those who seek.",
+      "korean": "진실은 결코 파괴되지 않으며, 추구하는 자들에게 영원히 신선한 상태로 존재한다.",
+      "explanation": "진실이 영원하고 파괴될 수 없으며, 진실을 찾는 사람들에게 항상 접근 가능하다는 의미",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1968-51/69.mp3",
+      "vocabulary": [
+        {
+          "word": "destroyed",
+          "meaning": "파괴된",
+          "note": "이 문맥에서는 진실이 결코 파괴되지 않는다는 반대 개념으로 사용됨"
+        },
+        {
+          "word": "available",
+          "meaning": "접근 가능한",
+          "note": "진실이 누구에게나 언제든지 찾을 수 있다는 의미"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "당신의 편지와 질문들을 받았습니다. 죽음에 대해 일부러 침묵을 지켰습니다. 왜냐하면 삶에 대한 의문을 불러일으키고 싶었기 때문입니다. 죽음을 고민하는 사람들은 아무것도 얻지 못한다. 죽음을 실제로 경험하지 않고 어떻게 알 수 있을까? 따라서 그러한 사고의 결과는 영혼이 불멸하다는 믿음 또는 삶의 끝이 완전한 끝이며 그 이후로 아무것도 남지 않는다는 믿음 중 하나일 수밖에 없다. 그것들은 단순히 믿음일 뿐이다. 죽음에 대한 두려움에 기반한 믿음과 육체의 종말에 기반한 믿음이 있습니다. 나는 사람들이 믿음과 의견에 얽매이지 않기를 바란다, 왜냐하면 그것은 체험하고 이해하는 방향이 아니기 때문이다.",
+    "죽음을 생각함으로써 무엇을 더 발견할 수 있을까? 단지 믿음 체계와 교조만이 아닐까? 생각은 우리를 알려진 것 이상으로 이끌지 않는다. 죽음은 알려지지 않은 상태이다.",
+    "따라서 생각으로 알 수 없다. 당신의 관심을 삶에 돌리기를 원합니다. 인생은 지금 여기에 있어요. 그것에 들어갈 수 있어요. 죽음은 결코 현재에 존재하지 않아요 - 그것은 미래에 있거나 과거에 있을 뿐입니다. 죽음은 결코 현재에 존재하지 않습니다. 죽음이 현재에 존재하지 않는다는 사실을 알아차리셨나요? 삶은 항상 현재에 있어요 - 과거에도 미래에도 아니요. 그렇다면 지금이야; 그렇지 않으면 결코 아니야. 그러므로 알 수 있으니, 살면서 경험할 수 있으므로 고민할 필요가 없다. 실제로, 그것을 생각하려는 사람들은 그것을 놓칠 것이다. 생각의 흐름은 과거나 미래에만 존재하며, 현재에는 존재하지 않는다. 생각 또한 죽음의 동반자이다. 즉, 생각조차도 죽음과 동반자 관계에 있으며, 삶의 요소는 전혀 없다. 현재에 생명력이 항상 존재하며, 그것이 바로 현재이다. 현재에 존재하는 것이 삶의 표현이며, 지금 여기에만 존재하므로 삶에 대해 생각할 필요 없이 오직 체험만이 존재한다. 경험하는 것이지, 경험 자체가 아니다. 경험이란 이미 일어난 일이지만, 경험한다는 것은 현재 일어나고 있는 일이라는 뜻입니다. 경험은 이미 생각이 되어버렸다, 왜냐하면 이미 일어났기 때문이다. 경험은 생각 없는 상태야: 말 없는, 조용한, 공허한 상태야. 그러므로 나는 생각 없는 인식을 삶을 경험하는 문이라고 부른다. 삶을 알게 되는 자는 모든 것을 알게 된다. 죽음을 알게 되는 것은 삶을 모르기 때문에 생기는 착각일 뿐이기 때문이다. 자연스럽게 자신을 육체로 여기는 사람입니다. 몸은 죽고, 몸은 파괴되며, 몸이라는 존재는 사라집니다. 이것이 죽음이 완전한 종말임을 의미하는 개념을 낳는다. 약간 더 용감한 사람들만이 이 개념을 받아들인다. 자신을 육체로 여기는 착각에서 죽음에 대한 두려움이 비롯된다는 바로 그 오류에서 비롯된다. 죽음의 두려움을 겪는 사람들이 '영혼은 불멸이다, 영혼은 불멸이다'라고 되뇌기 시작한다. 두려움에 휩싸이고 약한 이들은 이런 방식으로 위안을 찾는다. 그러나 이 두 개념은 모두 같은 오해에서 비롯되었다. 이것들은 같은 오류의 두 가지 형태이며, 두 가지 다른 사람들의 반응입니다. 하지만 기억하세요, 두 경우 모두 같은 오류이며, 두 방식 모두에서 이 오류가 강화된다는 점은 같습니다. 이 편견에 어떤 형태로든 힘을 실어주고 싶지 않습니다. 영혼이 불멸하지 않다고 말한다면, 그것은 거짓말이 될 것이다. 만약 내가 영혼이 불멸이라고 말한다면, 그건 당신의 두려움에서 벗어나는 길이 된다. 두려움에 휩싸인 사람들은 진실을 알 수 없다. 따라서 죽음은 알려지지 않은 상태라고 말합니다. 생명을 알라 알려질 수 있는 것만 알 수 있다. 그 것을 알게 되면 불멸도 알게 된다. 생명은 영원하며 시작도 끝도 없다. 그것은 나타나고, 다시 사라지기도 한다. 다른 형태로 변한다. 무지 속에서는 변화의 전환점들이 마치 죽음처럼 보인다. 그러나 지혜로운 자는 죽음을 단지 집을 바꾸는 것과 같다고 여긴다. 확실히 재생이 존재한다.",
+    "그러나 제게 있어서는 교리가 아니라 직접적인 체험입니다. 나는 다른 사람들에게도 교리로 만들고 싶지 않아요. 교리들이 진실을 크게 훼손했습니다. 모든 사람이 스스로 알게 하고 싶어요. 누구도 다른 사람을 위해 이 행위를 대신할 수 없다. 그러나 교리를 통해 이 행위가 이루어진 것처럼 보이기 때문에, 각자의 개별적인 탐구가 지루하고 생명력을 잃게 되었다. 교리와 경전을 믿는 것은 스스로 알아가는 것에 대한 필요성을 느끼지 않게 하고, 진리를 찾는 노력도 하지 않게 만든다. 이 상황은 완전히 자살적이야. 따라서 이 광범위한 교리 반복을 통한 인간 파괴 계획에 참여하고 싶지 않습니다. 나는 기존의 교리들을 바꾸고 싶어. 이것이 나에게는 자비로워 보이기 때문이야. 이렇게 하면 거짓된 모든 것이 무너질 것입니다. 진실은 결코 파괴되지 않으며, 추구하는 자들에게 영원히 신선한 상태로 존재한다."
+  ],
+  "fullAudio": "audio/1968-51/script_all.mp3",
+  "originalText": "Love.\n\nI have received your letter and your questions.\nAbout death I have remained quiet on purpose,\nbecause I want to awaken inquiry about life.\nThose who ponder over death reach nowhere.\nBecause, in fact, how can death be known without dying?\nHence, the total outcome of such thinking is either a\nbelief that the soul is immortal or that the end of one's\nlife is a total end, nothing remains after that.\nThey are both mere beliefs.\nOne belief is based on the fear of death,\nthe other on the end of the body.\nI want man not to get entangled in beliefs and opinions,\nbecause that is not the direction to experiencing,\nto knowing,\n\nAnd what else can be found by thinking about death\nbut belief systems and dogmas?\nThought never takes one beyond the known.\nAnd death is unknown.\n\nHence, it cannot be known through thinking.\nI want to turn your attention towards life.\nLife is - here and now.\nOne can enter it.\nDeath is never here and now -\neither it is in the future or in the past.\nDeath is never in the present.\nHas this fact ever come to your attention,\nthat death is never in the present?\nBut life is always in the present - neither in the past nor\nin the future.\nIf it is, it is now; otherwise it never is.\nHence it can be known, because it can be lived,\nthere is no need to think about it.\nIn fact, those who would think about it will miss it.\nBecause the movement of thought is also only of the past\nor in the future;\nthought is not in the present.\nThought too is a companion of death.\nIn other words, thought is dead,\nthere is no element of life in it.\nAliveness is always in the present - it is the present.\nIts manifestation is now, absolutely now;\nhere, absolutely here\nHence, there is no thinking about life,\nthere is only experiencing.\nNot an experience, but experiencing.\nExperience means, it has already happened;\nexperiencing means, it is happening.\nExperience has already become a thought,\nbecause it has already happened.\nExperiencing is thoughtless:\nwordless - silent - void.\nHence I call thoughtless awareness\nthe door to experiencing life.\nAnd the one who comes to know life comes to know all.\nHe comes to know death as well\nbecause death is nothing but a fallacy\nborn out of not knowing life.\nOne who does not know life\nnaturally believes himself to be the body.\nAnd the body dies, the body is destroyed;\nthe entity called body disappears.\nIt is this that gives birth to the concept\nthat death is a total end.\nOnly those who are a little more courageous\naccept this concept.\nIt is also out of this very fallacy of believing oneself to be\nthe body that the fear of death is born.\nIt is the people suffering this fear who start chanting,\n\"the soul is immortal, the soul is immortal.\"\nThe fearful and weak seek refuge in this way.\nBut both these concepts\nare born out of one and the same fallacy.\nThese are two forms of the same fallacy\nand are two different reactions of two types of people.\nBut, remember, the fallacy of both is the same,\nand in both ways it is the same fallacy\nthat is strengthened.\nI do not want to give any kind of support to this fallacy.\nIf I say the soul is not immortal, then that is an untruth.\nIf I say the soul is immortal,\nthen that becomes an escape from your fear.\nAnd those who are in fear\nare never able to know the truth.\nHence, I say death is unknown.\nKnow life. Only that can be known.\nAnd upon knowing that, immortality is also known.\nLife is eternal\nThere is no beginning and no end to it.\nIt manifests, it unmanifests.\nIt moves from one form to another form.\nIn our ignorance,\nthese transition points of change look like death.\nBut for one who knows,\ndeath is nothing more than changing houses.\nCertainly there is rebirth;\n\nbut for me it is not a doctrine, it is an experience.\nAnd I don't want to make it a doctrine for others either.\nDoctrines have badly undermined the truth.\nI want every person to know it for themselves.\nNobody can perform this act for the other.\nBut, through doctrines,\nit is this very act that appears to have been accomplished,\nthus everybody's individual search\nhas become dull and dead\nBelieving in the doctrines and scriptures\none has sat down quietly,\nas if one has neither to know anything for oneself,\nnor has to do anything about finding the truth.\nThis situation is utterly suicidal.\nHence, I don't want to participate\nin this vast scale arrangement\nfor killing man through the repetition of doctrines.\nI want to displace all the established doctrines,\nbecause this alone seems compassionate to me.\nThis way, all that is untrue will be destroyed.\nAnd the truth is never destroyed,\nit is ever available in its eternal freshness\nto those who seek.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 51,
+    "year": 1968,
+    "pages": [
+      {
+        "file": "IMG_0797 2.JPG",
+        "side": "left",
+        "printedPage": 44
+      },
+      {
+        "file": "IMG_0797 2.JPG",
+        "side": "right",
+        "printedPage": 45
+      },
+      {
+        "file": "IMG_0798 2.JPG",
+        "side": "left",
+        "printedPage": 46
+      },
+      {
+        "file": "IMG_0798 2.JPG",
+        "side": "right",
+        "printedPage": 47
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "audioVoice": "Views",
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  }
+}

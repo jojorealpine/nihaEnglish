@@ -1,0 +1,481 @@
+{
+  "id": "1970-87",
+  "title": "1970 / 87",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "time",
+      "meaning": "시기, 때",
+      "note": "특정 행동이나 사건이 일어나기에 적합한 시기를 가리킵니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ripe",
+      "meaning": "적절한 시기에 도달한",
+      "note": "보통 성장이나 변화가 완성되거나 준비가 되어 있다는 의미로 사용됩니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "draws",
+      "meaning": "다가오다",
+      "note": "이 단어는 어떤 것이 점차적으로 가까워지거나 다가오는 상황을 나타냅니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "nearer",
+      "meaning": "더 가까워지는",
+      "note": "비교급으로 사용되어 시간의 도래가 점점 더 가까워지고 있음을 강조합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Innumerable",
+      "meaning": "수없이 많은",
+      "note": "매우 큰 수량을 나타내며, 구체적인 숫자보다는 추상적인 개념을 강조",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "restless",
+      "meaning": "불안한, 초조한",
+      "note": "평온하지 못하고 움직이고 싶거나 변화를 갈망하는 상태를 나타냄",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "path",
+      "meaning": "길, 방법",
+      "note": "여기서는 영혼들이 나아갈 수 있는 안내나 방법을 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "created",
+      "meaning": "만들다",
+      "note": "특정 상황이나 필요에 따라 새로운 길을 만들어 낸다는 의미입니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "hurry",
+      "meaning": "서둘러 행동하다",
+      "note": "긴급성이나 시간 절약을 강조하며 행동을 촉구하는 의미",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Work",
+      "meaning": "일하다",
+      "note": "일반적인 노동이나 업무를 의미",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "hard",
+      "meaning": "열심히",
+      "note": "강한 의지와 노력으로 임하라는 뉘앙스를 담고 있음",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Surrender",
+      "meaning": "포기하다",
+      "note": "완전한 통제권의 포기를 의미하며, 여기서는 강한 의지의 표현으로 사용됨",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "totally",
+      "meaning": "완전히",
+      "note": "정도를 강조하며, 포기의 정도가 절대적임을 나타냄",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Forget",
+      "meaning": "잊다",
+      "note": "여기서는 단순히 기억에서 지우는 것이 아니라, 현재의 이기심이나 개인적인 생각에서 벗어나는 의미로 사용됩니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Plunge",
+      "meaning": "갑자기 뛰어들다",
+      "note": "강렬한 행동을 나타내며, 여기서는 신의 일에 즉시 몰입하라는 의미를 강조한다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "madman",
+      "meaning": "미친 사람",
+      "note": "비유적으로 사용되어 열정적이고 집중적인 태도를 표현한다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "madness",
+      "meaning": "광기, 미친 듯한 행동",
+      "note": "여기서는 극단적인 열정이나 집중을 의미하며, 부정적인 의미보다는 강렬한 헌신을 나타낸다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "greater",
+      "meaning": "더 큰",
+      "note": "이 문맥에서는 '가장 큰 지혜'를 의미하며, 신을 향한 미친 듯한 헌신이 가장 현명한 태도임을 강조한다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-87/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "The time is ripe.",
+      "korean": "적절한 시기가 왔다.",
+      "explanation": "현재 상황이 어떤 목표나 변화를 이루기에 적합하다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-87/02.mp3",
+      "vocabulary": [
+        {
+          "word": "time",
+          "meaning": "시기, 때",
+          "note": "특정 행동이나 사건이 일어나기에 적합한 시기를 가리킵니다."
+        },
+        {
+          "word": "ripe",
+          "meaning": "적절한 시기에 도달한",
+          "note": "보통 성장이나 변화가 완성되거나 준비가 되어 있다는 의미로 사용됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "The hour draws nearer every day.",
+      "korean": "시간이 점점 다가오고 있습니다.",
+      "explanation": "시간이 점점 더 가까워지고 있다는 의미로, '시간이 다가오다'는 맥락에서 '다가온다'는 표현을 사용하여 미래의 도래를 강조하고 있습니다.",
+      "grammar": "동사 「draws」는 draw의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-87/03.mp3",
+      "vocabulary": [
+        {
+          "word": "draws",
+          "meaning": "다가오다",
+          "note": "이 단어는 어떤 것이 점차적으로 가까워지거나 다가오는 상황을 나타냅니다."
+        },
+        {
+          "word": "nearer",
+          "meaning": "더 가까워지는",
+          "note": "비교급으로 사용되어 시간의 도래가 점점 더 가까워지고 있음을 강조합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Innumerable souls are restless.",
+      "korean": "수많은 영혼들이 불안하다.",
+      "explanation": "많은 수의 영혼들이 평온하지 못하고 불안한 상태임을 나타냄",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-87/04.mp3",
+      "vocabulary": [
+        {
+          "word": "Innumerable",
+          "meaning": "수없이 많은",
+          "note": "매우 큰 수량을 나타내며, 구체적인 숫자보다는 추상적인 개념을 강조"
+        },
+        {
+          "word": "restless",
+          "meaning": "불안한, 초조한",
+          "note": "평온하지 못하고 움직이고 싶거나 변화를 갈망하는 상태를 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "A path has to be created for them.",
+      "korean": "그들을 위한 길이 만들어져야 합니다.",
+      "explanation": "많은 영혼들을 위해 안내하거나 이끌어갈 방법이나 길을 만들어야 한다는 의미입니다.",
+      "grammar": "「has to be」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+      "audio": "audio/1970-87/05.mp3",
+      "vocabulary": [
+        {
+          "word": "path",
+          "meaning": "길, 방법",
+          "note": "여기서는 영혼들이 나아갈 수 있는 안내나 방법을 의미합니다."
+        },
+        {
+          "word": "created",
+          "meaning": "만들다",
+          "note": "특정 상황이나 필요에 따라 새로운 길을 만들어 낸다는 의미입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "So hurry!",
+      "korean": "서둘러!",
+      "explanation": "서둘러 행동하거나 이동하라는 의미의 재촉 표현",
+      "grammar": "동사원형 「hurry」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-87/06.mp3",
+      "vocabulary": [
+        {
+          "word": "hurry",
+          "meaning": "서둘러 행동하다",
+          "note": "긴급성이나 시간 절약을 강조하며 행동을 촉구하는 의미"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Work hard!",
+      "korean": "열심히 일해!",
+      "explanation": "노력을 많이 하라는 의미",
+      "grammar": "동사원형 「Work」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-87/07.mp3",
+      "vocabulary": [
+        {
+          "word": "Work",
+          "meaning": "일하다",
+          "note": "일반적인 노동이나 업무를 의미"
+        },
+        {
+          "word": "hard",
+          "meaning": "열심히",
+          "note": "강한 의지와 노력으로 임하라는 뉘앙스를 담고 있음"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "Surrender totally!",
+      "korean": "완전히 포기하라!",
+      "explanation": "완전한 포기를 강조하는 명령형 문장",
+      "grammar": "동사원형 「Surrender」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-87/08.mp3",
+      "vocabulary": [
+        {
+          "word": "Surrender",
+          "meaning": "포기하다",
+          "note": "완전한 통제권의 포기를 의미하며, 여기서는 강한 의지의 표현으로 사용됨"
+        },
+        {
+          "word": "totally",
+          "meaning": "완전히",
+          "note": "정도를 강조하며, 포기의 정도가 절대적임을 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "Forget yourself!",
+      "korean": "자신을 잊어라!",
+      "explanation": "자신의 이기심이나 개인적인 관심사를 잠시 내려놓고 더 큰 목적이나 타인을 위해 행동하라는 의미입니다.",
+      "grammar": "동사원형 「Forget」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-87/09.mp3",
+      "vocabulary": [
+        {
+          "word": "Forget",
+          "meaning": "잊다",
+          "note": "여기서는 단순히 기억에서 지우는 것이 아니라, 현재의 이기심이나 개인적인 생각에서 벗어나는 의미로 사용됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "Plunge into God's work like a madman.",
+      "korean": "신의 일에 미친 듯이 뛰어들어라.",
+      "explanation": "신의 일에 열정적으로 몰두하라는 강한 권유를 담고 있다.",
+      "grammar": "동사원형 「Plunge」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-87/10.mp3",
+      "vocabulary": [
+        {
+          "word": "Plunge",
+          "meaning": "갑자기 뛰어들다",
+          "note": "강렬한 행동을 나타내며, 여기서는 신의 일에 즉시 몰입하라는 의미를 강조한다."
+        },
+        {
+          "word": "madman",
+          "meaning": "미친 사람",
+          "note": "비유적으로 사용되어 열정적이고 집중적인 태도를 표현한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "Here, only madness will do - and there is no greater wisdom than such madness for God.",
+      "korean": "여기서는 미친 듯이만 행동하면 된다 - 그리고 신을 향한 그런 광기보다 더 큰 지혜는 없다.",
+      "explanation": "문장은 신을 향한 헌신적인 수행이나 행동은 이성적인 판단보다는 미친 듯한 열정과 집중이 더 중요하다는 의미를 전달한다.",
+      "grammar": "「will do」에서 조동사 will 뒤에 동사원형 「do」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+      "audio": "audio/1970-87/11.mp3",
+      "vocabulary": [
+        {
+          "word": "madness",
+          "meaning": "광기, 미친 듯한 행동",
+          "note": "여기서는 극단적인 열정이나 집중을 의미하며, 부정적인 의미보다는 강렬한 헌신을 나타낸다."
+        },
+        {
+          "word": "greater",
+          "meaning": "더 큰",
+          "note": "이 문맥에서는 '가장 큰 지혜'를 의미하며, 신을 향한 미친 듯한 헌신이 가장 현명한 태도임을 강조한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "적절한 시기가 왔다. 시간이 점점 다가오고 있습니다. 수많은 영혼들이 불안하다. 그들을 위한 길이 만들어져야 합니다. 서둘러! 열심히 일해! 완전히 포기하라! 자신을 잊어라!",
+    "신의 일에 미친 듯이 뛰어들어라. 여기서는 미친 듯이만 행동하면 된다 - 그리고 신을 향한 그런 광기보다 더 큰 지혜는 없다."
+  ],
+  "fullAudio": "audio/1970-87/script_all.mp3",
+  "originalText": "Love.\n\nThe time is ripe.\nThe hour draws nearer every day.\nInnumerable souls are restless.\nA path has to be created for them.\nSo hurry!\nWork hard!\nSurrender totally!\nForget yourself!\n\nPlunge into God's work like a madman.\nHere, only madness will do -\nand there is no greater wisdom\nthan such madness for God.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 87,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0811 2.JPG",
+        "side": "left",
+        "printedPage": 72
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

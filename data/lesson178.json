@@ -1,0 +1,321 @@
+{
+  "id": "1971-178",
+  "title": "1971 / 178",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "world",
+      "meaning": "세상",
+      "note": "전체적인 환경이나 상황을 가리키며, 여기서는 고통스러운 현실을 의미한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "punishment",
+      "meaning": "벌",
+      "note": "고통이나 어려움을 의미하며, 이 문장에서는 세상 자체가 이미 그러한 상태임을 나타낸다.",
+      "sentenceIds": [
+        2,
+        3,
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "brought",
+      "meaning": "끌려나오다",
+      "note": "이 문맥에서는 법적 절차에 따라 누군가를 법정이나 왕 앞으로 인도하는 의미입니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "counselors",
+      "meaning": "고문들",
+      "note": "왕의 조언자들로, 중요한 결정에 대해 의견을 제시하는 사람들입니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "possible",
+      "meaning": "가능한",
+      "note": "다양한 형벌의 옵션 중에서 선택할 수 있는 것들을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "execution",
+      "meaning": "처형",
+      "note": "처벌의 극단적인 형태로 죽음을 의미한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ruling",
+      "meaning": "판결",
+      "note": "결정이나 판결을 내리는 행위를 나타낸다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "instead",
+      "meaning": "대신",
+      "note": "다른 선택이나 행동을 제시할 때 사용되며, 여기서는 처형 대신 다른 처벌을 의미한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "committed",
+      "meaning": "자살을 했다",
+      "note": "자살 행위를 직접적으로 표현합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "suicide",
+      "meaning": "자살",
+      "note": "자살 행위 자체를 지칭하는 단어입니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-178/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "The world itself is a punishment enough, so really there is no need for hell at all.",
+      "korean": "세상 자체가 이미 충분한 벌이어서 지옥은 사실상 필요 없다.",
+      "explanation": "세상이 이미 고통스러운 곳이라면 지옥이 따로 필요 없다는 의미",
+      "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1971-178/02.mp3",
+      "vocabulary": [
+        {
+          "word": "world",
+          "meaning": "세상",
+          "note": "전체적인 환경이나 상황을 가리키며, 여기서는 고통스러운 현실을 의미한다."
+        },
+        {
+          "word": "punishment",
+          "meaning": "벌",
+          "note": "고통이나 어려움을 의미하며, 이 문장에서는 세상 자체가 이미 그러한 상태임을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Once a man who had three wives was brought before the king of the country for punishment.",
+      "korean": "한 남자가 세 명의 아내를 가진 죄로 왕 앞에 끌려나와 처벌을 받았다.",
+      "explanation": "한 남자가 그의 부정한 행위로 인해 왕에 의해 법적 처벌을 받게 되었다.",
+      "grammar": "「was brought」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-178/03.mp3",
+      "vocabulary": [
+        {
+          "word": "brought",
+          "meaning": "끌려나오다",
+          "note": "이 문맥에서는 법적 절차에 따라 누군가를 법정이나 왕 앞으로 인도하는 의미입니다."
+        },
+        {
+          "word": "punishment",
+          "meaning": "처벌",
+          "note": "이 문맥에서는 「처벌」의 뜻으로 읽습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "The king called in his counselors and asked them to devise the worst possible punishment for the offender, even death itself.",
+      "korean": "왕은 고문들을 불러 최악의 형벌, 심지어는 죽음까지도 고려하라고 명령했습니다.",
+      "explanation": "왕이 고문들에게 가장 혹독한 형벌을 생각해보라고 요청하며, 그 중에는 죽음도 포함되어 있음을 강조합니다.",
+      "grammar": "동사 「called」는 call의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-178/04.mp3",
+      "vocabulary": [
+        {
+          "word": "counselors",
+          "meaning": "고문들",
+          "note": "왕의 조언자들로, 중요한 결정에 대해 의견을 제시하는 사람들입니다."
+        },
+        {
+          "word": "possible",
+          "meaning": "가능한",
+          "note": "다양한 형벌의 옵션 중에서 선택할 수 있는 것들을 의미합니다."
+        },
+        {
+          "word": "punishment",
+          "meaning": "형벌",
+          "note": "범죄자에게 부과될 부정적인 결과나 벌을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "But they did not order his execution, ruling instead that it would be still worse for him to live with all three wives at the same time.",
+      "korean": "그러나 그들은 처형을 명령하지 않았고, 대신 그에게 세 아내와 동시에 살아가는 것이 더 나쁘다고 판결했다.",
+      "explanation": "왕의 고문들이 처형 대신 더 혹독한 처벌로 세 아내와 동시에 살아가는 것을 결정한 상황을 설명한다.",
+      "grammar": "「did not order」는 과거의 부정 표현입니다. do/does/did 뒤에서는 본동사 「order」를 원형으로 씁니다.",
+      "audio": "audio/1971-178/05.mp3",
+      "vocabulary": [
+        {
+          "word": "execution",
+          "meaning": "처형",
+          "note": "처벌의 극단적인 형태로 죽음을 의미한다."
+        },
+        {
+          "word": "ruling",
+          "meaning": "판결",
+          "note": "결정이나 판결을 내리는 행위를 나타낸다."
+        },
+        {
+          "word": "instead",
+          "meaning": "대신",
+          "note": "다른 선택이나 행동을 제시할 때 사용되며, 여기서는 처형 대신 다른 처벌을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Two weeks later the man committed suicide.",
+      "korean": "두 주 후 그 남자는 자살했습니다.",
+      "explanation": "두 주 후에 일어난 자살 행위를 설명합니다.",
+      "grammar": "동사 「committed」는 commit의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-178/06.mp3",
+      "vocabulary": [
+        {
+          "word": "committed",
+          "meaning": "자살을 했다",
+          "note": "자살 행위를 직접적으로 표현합니다."
+        },
+        {
+          "word": "suicide",
+          "meaning": "자살",
+          "note": "자살 행위 자체를 지칭하는 단어입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "세상 자체가 이미 충분한 벌이어서 지옥은 사실상 필요 없다.",
+    "한 남자가 세 명의 아내를 가진 죄로 왕 앞에 끌려나와 처벌을 받았다. 왕은 고문들을 불러 최악의 형벌, 심지어는 죽음까지도 고려하라고 명령했습니다. 그러나 그들은 처형을 명령하지 않았고, 대신 그에게 세 아내와 동시에 살아가는 것이 더 나쁘다고 판결했다. 두 주 후 그 남자는 자살했습니다."
+  ],
+  "fullAudio": "audio/1971-178/script_all.mp3",
+  "originalText": "Love.\n\nThe world itself is a punishment enough,\nso really there is no need for hell at all.\n\nOnce a man who had three wives\nwas brought before the king\nof the country for punishment.\nThe king called in his counselors\nand asked them to devise\nthe worst possible punishment for the offender,\neven death itself.\nBut they did not order his execution,\nruling instead that it would be still worse for him\nto live with all three wives at the same time.\nTwo weeks later the man committed suicide.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 178,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0844 2.JPG",
+        "side": "left",
+        "printedPage": 138
+      },
+      {
+        "file": "IMG_0844 2.JPG",
+        "side": "right",
+        "printedPage": 139
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

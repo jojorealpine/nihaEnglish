@@ -1,0 +1,25 @@
+{
+  "status": "partial",
+  "reason": "provider_content_restrictions",
+  "readyLetters": 352,
+  "readySentences": 3820,
+  "availableSentenceClips": 3861,
+  "remainingLetters": [
+    72,
+    143,
+    177,
+    228,
+    266,
+    316
+  ],
+  "remainingGenerationJobs": [
+    "letter-072-part-01",
+    "letter-143-part-02",
+    "letter-177-part-01",
+    "letter-228-part-02",
+    "letter-266-part-01",
+    "letter-316-part-03"
+  ],
+  "missingSentenceCount": 38,
+  "providerRejections": "provider-rejections.json"
+}

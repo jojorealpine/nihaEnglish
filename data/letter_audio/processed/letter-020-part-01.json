@@ -1,0 +1,44 @@
+{
+  "key": "letter-020-part-01",
+  "number": 20,
+  "generationId": "01a1e4ea-76f3-7e1c-8b4e-8400a2e81b4d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love",
+      "path": "audio/1965-20/01.mp3",
+      "start": 0.0,
+      "end": 0.5535829999999999
+    },
+    {
+      "index": 1,
+      "text": "Last night when lamps and lamps were lit up all over town I thought: My Sohan, too, must have lit lamps and a few among them must surely be for me!",
+      "path": "audio/1965-20/02.mp3",
+      "start": 1.7550789999999998,
+      "end": 10.951450999999999
+    },
+    {
+      "index": 2,
+      "text": "And then I began to see the lamps you had lit, and also those your love has kept lit always.",
+      "path": "audio/1965-20/03.mp3",
+      "start": 12.248821000000001,
+      "end": 18.169977
+    },
+    {
+      "index": 3,
+      "text": "I shall stay here another day.",
+      "path": "audio/1965-20/04.mp3",
+      "start": 19.424035999999997,
+      "end": 21.318345
+    },
+    {
+      "index": 4,
+      "text": "I have talked of you to everybody and they are eager to meet you.",
+      "path": "audio/1965-20/05.mp3",
+      "start": 22.862811999999998,
+      "end": 26.98
+    }
+  ]
+}

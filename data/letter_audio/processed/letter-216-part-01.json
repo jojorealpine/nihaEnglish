@@ -1,0 +1,51 @@
+{
+  "key": "letter-216-part-01",
+  "number": 216,
+  "generationId": "01a1e8f1-e8ea-7f06-b833-249fd68a932e",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-216/01.mp3",
+      "start": 0.0,
+      "end": 0.697846
+    },
+    {
+      "index": 1,
+      "text": "Knowledge is accumulation, that is why knowledge is always dead, while learning is moment to moment because learning is not accumulation but movement.",
+      "path": "audio/1971-216/02.mp3",
+      "start": 2.01898,
+      "end": 11.539909
+    },
+    {
+      "index": 2,
+      "text": "So do not be dead with knowledge but move with learning, only then will you be alive.",
+      "path": "audio/1971-216/03.mp3",
+      "start": 12.834150000000001,
+      "end": 18.430227000000002
+    },
+    {
+      "index": 3,
+      "text": "Do not be tethered to experience - experience is slavery.",
+      "path": "audio/1971-216/04.mp3",
+      "start": 19.786236,
+      "end": 24.508639000000002
+    },
+    {
+      "index": 4,
+      "text": "Always transcend that which has been so that you are ready to receive the new.",
+      "path": "audio/1971-216/05.mp3",
+      "start": 25.867414999999998,
+      "end": 30.375601
+    },
+    {
+      "index": 5,
+      "text": "Ecstasy is always with the new, with the fresh, with the young, with the discontinuous - and to be always in the discontinuous is to be in the divine.",
+      "path": "audio/1971-216/06.mp3",
+      "start": 31.699569,
+      "end": 42.48
+    }
+  ]
+}

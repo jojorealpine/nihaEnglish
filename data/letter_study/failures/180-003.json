@@ -1,0 +1,5 @@
+{
+  "english": "Whoever goes into meditation risks a confrontation with himself.",
+  "error": "Expecting ':' delimiter: line 12 column 28 (char 299)",
+  "response": "```json\n{\n  \"korean\": \"명상에 들어가는 사람은 자신과의 직면을 감수해야 한다.\",\n  \"explanation\": \"명상을 통해 개인은 내면의 진실과 마주하게 될 위험이 있다는 의미입니다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"meditation\",\n      \"meaning\": \"명상\",\n      \"note\": \"심리적 안정과 내면의 성찰을 위한 정신 집중 활동\"\n    },\n    {\n      \"word\": \"confrontation\",\n      \"meaning\": \"대립\", \"직면\",\n      \"note\": \"자신의 내면적인 측면이나 과거의 문제 등과 마주하는 상황을 의미함\"\n    }\n  ],\n  \"expressions\": []\n}\n```"
+}

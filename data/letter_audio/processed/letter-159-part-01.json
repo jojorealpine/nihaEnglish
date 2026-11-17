@@ -1,0 +1,79 @@
+{
+  "key": "letter-159-part-01",
+  "number": 159,
+  "generationId": "01a1e8e1-63a1-793f-af56-2937d6965e56",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love",
+      "path": "audio/1970-159/01.mp3",
+      "start": 0.0,
+      "end": 0.667166
+    },
+    {
+      "index": 1,
+      "text": "Life is not divided, either in time or in space.",
+      "path": "audio/1970-159/02.mp3",
+      "start": 1.6119949999999998,
+      "end": 4.76907
+    },
+    {
+      "index": 2,
+      "text": "If life is anything, it is undividedness - it is an undivided flow.",
+      "path": "audio/1970-159/03.mp3",
+      "start": 5.861179,
+      "end": 10.143016
+    },
+    {
+      "index": 3,
+      "text": "Past, present, future - these are human lines drawn on the undivided flow of time.",
+      "path": "audio/1970-159/04.mp3",
+      "start": 11.231973,
+      "end": 15.91195
+    },
+    {
+      "index": 4,
+      "text": "Indeed, they are nowhere except in the minds of men.",
+      "path": "audio/1970-159/05.mp3",
+      "start": 17.007528,
+      "end": 19.504943
+    },
+    {
+      "index": 5,
+      "text": "Mind is time.",
+      "path": "audio/1970-159/06.mp3",
+      "start": 21.159727999999998,
+      "end": 22.243787
+    },
+    {
+      "index": 6,
+      "text": "Similarly, space is also undivided.",
+      "path": "audio/1970-159/07.mp3",
+      "start": 23.512698,
+      "end": 26.432653000000002
+    },
+    {
+      "index": 7,
+      "text": "The body is not one's limit - in fact, the limit or non-limit of the whole is one's limit.",
+      "path": "audio/1970-159/08.mp3",
+      "start": 27.804989,
+      "end": 32.932925
+    },
+    {
+      "index": 8,
+      "text": "But, the mind does not rest without dividing.",
+      "path": "audio/1970-159/09.mp3",
+      "start": 34.395918,
+      "end": 36.914103999999995
+    },
+    {
+      "index": 9,
+      "text": "It is like a prism; to divide is its function.",
+      "path": "audio/1970-159/10.mp3",
+      "start": 38.280068,
+      "end": 41.38
+    }
+  ]
+}

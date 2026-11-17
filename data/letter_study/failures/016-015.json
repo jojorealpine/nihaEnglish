@@ -1,0 +1,5 @@
+{
+  "english": "Love is religion because love is beauty, love is music.",
+  "error": "No vocabulary grounded in English source",
+  "response": "```json\n{\n  \"korean\": \"사랑은 종교입니다. 왜냐하면 사랑은 아름다움이고 사랑은 음악이기 때문입니다.\",\n  \"explanation\": \"이 문장은 사랑을 종교와 동일시하며, 사랑이 아름다움과 음악과 같은 긍정적이고 조화로운 경험을 제공한다고 주장합니다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"종교\",\n      \"meaning\": \"religion\",\n      \"note\": \"신앙 체계나 신성한 의식과 관련된 신념 체계를 의미합니다.\"\n    },\n    {\n      \"word\": \"사랑\",\n      \"meaning\": \"love\",\n      \"note\": \"깊은 애정이나 호감을 의미하며, 이 문맥에서는 아름다움과 조화를 상징합니다.\"\n    },\n    {\n      \"word\": \"아름다움\",\n      \"meaning\": \"beauty\",\n      \"note\": \"감각적 또는 정신적으로 만족스럽고 즐거운 상태를 나타냅니다.\"\n    }\n  ],\n  \"expressions\": [\n    {\n      \"expression\": \"왜냐하면\",\n      \"meaning\": \"because\",\n      \"explanation\": \"이유나 근거를 제시하는 접속사입니다.\"\n    }\n  ]\n}\n```"
+}

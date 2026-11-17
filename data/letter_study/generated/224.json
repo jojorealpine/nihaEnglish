@@ -1,0 +1,147 @@
+{
+  "sourceHash": "91f13af8986e170388798a288534c0231ffad5b5496a88c09d50b0334c61face",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "나스레딘이 외쳤다, '바보야!'",
+        "explanation": "나스레딘이 누군가를 비난하거나 놀릴 때 사용하는 강한 표현입니다.",
+        "grammar": "동사 「shouted」는 shout의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "fool",
+            "meaning": "바보",
+            "note": "비난이나 조롱의 의미로 사용되며, 상대방의 판단력이나 지혜를 깎아내리는 표현입니다."
+          },
+          {
+            "word": "shouted",
+            "meaning": "외쳤다",
+            "note": "큰 소리로 말하거나 강조할 때 사용되는 동사입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "갑자기 독수리 한 마리가 날아와서 간을 빼앗아 갔다.",
+        "explanation": "갑작스럽게 독수리가 나타나 간을 빼앗아가는 상황을 묘사합니다.",
+        "grammar": "동사 「carried」는 carry의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "Suddenly",
+            "meaning": "갑자기",
+            "note": "시간적 변화를 강조하며, 예상치 못한 순간을 나타냅니다."
+          },
+          {
+            "word": "buzzard",
+            "meaning": "독수리",
+            "note": "날카로운 시력과 강력한 비행 능력을 가진 맹금류를 지칭합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "고기는 있지만 조리법이 없으면 어떻게 될까?",
+        "explanation": "고기가 있어도 조리법이 없으면 요리할 수 없다는 의미",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "meat",
+            "meaning": "고기",
+            "note": "요리의 주요 재료를 나타냄"
+          },
+          {
+            "word": "recipe",
+            "meaning": "조리법",
+            "note": "요리를 위한 지시사항이나 방법을 의미함"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "progressive",
+      "notes": {
+        "korean": "나슬루딘은 방금 산 간을 집으로 가져가고 있었다.",
+        "explanation": "나슬루딘이 간을 사서 집으로 운반하는 상황을 설명한다.",
+        "grammar": "「was carrying」는 be동사 + -ing로 만든 과거진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "carrying",
+            "meaning": "가지고 가다",
+            "note": "이 문맥에서는 「가지고 가다」의 뜻으로 읽습니다."
+          },
+          {
+            "word": "bought",
+            "meaning": "사다",
+            "note": "이 문맥에서는 「사다」의 뜻으로 읽습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "그의 다른 손에는 친구가 준 간 파이 레시피가 있었다.",
+        "explanation": "Mulla Nasrudin의 다른 손에는 친구로부터 받은 간 파이를 만드는 방법의 레시피가 있었다는 내용입니다.",
+        "grammar": "동사 「held」는 hold의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "recipe",
+            "meaning": "레시피",
+            "note": "간 파이를 만드는 방법이나 조리법을 의미합니다."
+          },
+          {
+            "word": "friend",
+            "meaning": "친구",
+            "note": "Mulla Nasrudin에게 레시피를 준 사람을 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

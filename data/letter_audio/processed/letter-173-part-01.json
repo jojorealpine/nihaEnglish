@@ -1,0 +1,72 @@
+{
+  "key": "letter-173-part-01",
+  "number": 173,
+  "generationId": "01a1e8e5-48da-78d2-a60a-bed82fcc2cc4",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-173/01.mp3",
+      "start": 0.0,
+      "end": 0.484989
+    },
+    {
+      "index": 1,
+      "text": "Ask for nothing and you will never be frustrated.",
+      "path": "audio/1971-173/02.mp3",
+      "start": 1.7900680000000002,
+      "end": 4.27932
+    },
+    {
+      "index": 2,
+      "text": "Anticipate darkness with light and sorrow with happiness because such is the nature of things.",
+      "path": "audio/1971-173/03.mp3",
+      "start": 5.527823,
+      "end": 10.526076999999999
+    },
+    {
+      "index": 3,
+      "text": "Then you will never be frustrated Say to life: What can you do to me?",
+      "path": "audio/1971-173/04.mp3",
+      "start": 11.805011,
+      "end": 15.797664
+    },
+    {
+      "index": 4,
+      "text": "I want nothing!",
+      "path": "audio/1971-173/05.mp3",
+      "start": 17.031791,
+      "end": 18.041179
+    },
+    {
+      "index": 5,
+      "text": "And say to death: What can you do to me?",
+      "path": "audio/1971-173/06.mp3",
+      "start": 19.282721,
+      "end": 22.03771
+    },
+    {
+      "index": 6,
+      "text": "I have already died!",
+      "path": "audio/1971-173/07.mp3",
+      "start": 23.572449,
+      "end": 24.956122
+    },
+    {
+      "index": 7,
+      "text": "Then you will be truly free, because unless one is free of life one can never be free of death.",
+      "path": "audio/1971-173/08.mp3",
+      "start": 26.559796,
+      "end": 33.5378
+    },
+    {
+      "index": 8,
+      "text": "And when one is free of both one knows that life which is eternity itself.",
+      "path": "audio/1971-173/09.mp3",
+      "start": 35.032426,
+      "end": 39.6
+    }
+  ]
+}

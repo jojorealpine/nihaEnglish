@@ -1,0 +1,79 @@
+{
+  "key": "letter-154-part-01",
+  "number": 154,
+  "generationId": "01a1e6f4-090e-7f23-9e94-2aa60ecf59a7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-154/01.mp3",
+      "start": 0.0,
+      "end": 0.5589569999999999
+    },
+    {
+      "index": 1,
+      "text": "Attainment of meditation is not a question of time, it is a question of will.",
+      "path": "audio/1970-154/02.mp3",
+      "start": 1.6740819999999998,
+      "end": 5.809615
+    },
+    {
+      "index": 2,
+      "text": "If the will is total, meditation happens in a moment too.",
+      "path": "audio/1970-154/03.mp3",
+      "start": 6.954989,
+      "end": 10.267415
+    },
+    {
+      "index": 3,
+      "text": "And a mind without will can go on wandering for lives upon lives.",
+      "path": "audio/1970-154/04.mp3",
+      "start": 11.381224000000001,
+      "end": 14.670226999999999
+    },
+    {
+      "index": 4,
+      "text": "Intensify the will.",
+      "path": "audio/1970-154/05.mp3",
+      "start": 15.906757,
+      "end": 17.066757000000003
+    },
+    {
+      "index": 5,
+      "text": "Crystallize the will.",
+      "path": "audio/1970-154/06.mp3",
+      "start": 18.246530999999997,
+      "end": 19.437710000000003
+    },
+    {
+      "index": 6,
+      "text": "Make the will total.",
+      "path": "audio/1970-154/07.mp3",
+      "start": 20.902811999999997,
+      "end": 22.385102
+    },
+    {
+      "index": 7,
+      "text": "And then, meditation will knock upon your door on its own.",
+      "path": "audio/1970-154/08.mp3",
+      "start": 23.855079,
+      "end": 26.927211
+    },
+    {
+      "index": 8,
+      "text": "And the mind certainly tortures one as long as meditation is absent.",
+      "path": "audio/1970-154/09.mp3",
+      "start": 28.457846,
+      "end": 32.327391999999996
+    },
+    {
+      "index": 9,
+      "text": "Mind is the name for the absence of meditation, just as darkness is the name for the absence of light.",
+      "path": "audio/1970-154/10.mp3",
+      "start": 33.714558000000004,
+      "end": 40.25
+    }
+  ]
+}

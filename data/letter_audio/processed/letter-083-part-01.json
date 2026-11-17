@@ -1,0 +1,37 @@
+{
+  "key": "letter-083-part-01",
+  "number": 83,
+  "generationId": "01a1e62f-5b3c-73da-9c84-9d843cfa9c3b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-83/01.mp3",
+      "start": 0.0,
+      "end": 0.773719
+    },
+    {
+      "index": 1,
+      "text": "Thought is man's strength but blind belief has robbed him of it, that is why he has become weak and impotent.",
+      "path": "audio/1970-83/02.mp3",
+      "start": 2.2214739999999997,
+      "end": 8.881677999999999
+    },
+    {
+      "index": 2,
+      "text": "Think fully, think tirelessly, for amazingly enough the state of no-thought is achieved only at the peak of thought, it is the culmination of thought, and at this point all thought becomes useless.",
+      "path": "audio/1970-83/03.mp3",
+      "start": 10.446122,
+      "end": 23.928118
+    },
+    {
+      "index": 3,
+      "text": "In this emptiness, truth lies.",
+      "path": "audio/1970-83/04.mp3",
+      "start": 25.350385,
+      "end": 28.08
+    }
+  ]
+}

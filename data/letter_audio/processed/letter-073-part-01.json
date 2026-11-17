@@ -1,0 +1,79 @@
+{
+  "key": "letter-073-part-01",
+  "number": 73,
+  "generationId": "01a1e629-f1a9-7721-a043-ee5b2e318944",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-73/01.mp3",
+      "start": 0.0,
+      "end": 0.667846
+    },
+    {
+      "index": 1,
+      "text": "Don't be in a hurry.",
+      "path": "audio/1970-73/02.mp3",
+      "start": 1.942993,
+      "end": 3.0753060000000003
+    },
+    {
+      "index": 2,
+      "text": "So often, hurrying causes delay.",
+      "path": "audio/1970-73/03.mp3",
+      "start": 4.2524939999999996,
+      "end": 6.582585
+    },
+    {
+      "index": 3,
+      "text": "As you thirst, wait patiently - the deeper the waiting, the sooner it comes.",
+      "path": "audio/1970-73/04.mp3",
+      "start": 7.87102,
+      "end": 12.161655
+    },
+    {
+      "index": 4,
+      "text": "You have sown the seed, now sit in the shade and watch what happens.",
+      "path": "audio/1970-73/05.mp3",
+      "start": 13.444694,
+      "end": 17.039728
+    },
+    {
+      "index": 5,
+      "text": "The seed will break, it will blossom, but you cannot speed up the process.",
+      "path": "audio/1970-73/06.mp3",
+      "start": 18.293423999999998,
+      "end": 22.234172
+    },
+    {
+      "index": 6,
+      "text": "Doesn't everything need time?",
+      "path": "audio/1970-73/07.mp3",
+      "start": 23.613899999999997,
+      "end": 25.303379
+    },
+    {
+      "index": 7,
+      "text": "Work you must, but leave the results to God.",
+      "path": "audio/1970-73/08.mp3",
+      "start": 26.743786999999998,
+      "end": 29.686553
+    },
+    {
+      "index": 8,
+      "text": "Nothing in life is ever wasted, especially steps taken towards truth.",
+      "path": "audio/1970-73/09.mp3",
+      "start": 31.024127,
+      "end": 35.571565
+    },
+    {
+      "index": 9,
+      "text": "But at times impatience comes, impatience comes with thirst, but this is an obstacle.",
+      "path": "audio/1970-73/10.mp3",
+      "start": 37.036576000000004,
+      "end": 43.05
+    }
+  ]
+}

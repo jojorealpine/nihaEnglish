@@ -1,0 +1,65 @@
+{
+  "key": "letter-081-part-01",
+  "number": 81,
+  "generationId": "01a1e62f-0ade-7271-967b-713ac72e078d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-81/01.mp3",
+      "start": 0.0,
+      "end": 0.699728
+    },
+    {
+      "index": 1,
+      "text": "On the road to God the only sustenance is infinite hope - hope shining like the north star in darkness, hope keeping you company like a shadow in loneliness.",
+      "path": "audio/1970-81/02.mp3",
+      "start": 2.06941,
+      "end": 12.492085999999999
+    },
+    {
+      "index": 2,
+      "text": "Dark and lonely life's path certainly is - but only for those without hope.",
+      "path": "audio/1970-81/03.mp3",
+      "start": 13.807052,
+      "end": 19.176712000000002
+    },
+    {
+      "index": 3,
+      "text": "The famous geographical explorer Donald Macmillan was preparing for his journey to the north pole when he received a letter.",
+      "path": "audio/1970-81/04.mp3",
+      "start": 20.638095,
+      "end": 27.776531000000002
+    },
+    {
+      "index": 4,
+      "text": "On it was written: To be opened only when there is no hope of survival.",
+      "path": "audio/1970-81/05.mp3",
+      "start": 29.202901999999998,
+      "end": 35.104399
+    },
+    {
+      "index": 5,
+      "text": "Fifty years passed; the envelope remained with Macmillan as it was - sealed.",
+      "path": "audio/1970-81/06.mp3",
+      "start": 36.456281000000004,
+      "end": 42.322607999999995
+    },
+    {
+      "index": 6,
+      "text": "Someone asked him the reason for this and he replied: For one thing I want to keep faith with the unknown sender, and for another, I have never given up hope.",
+      "path": "audio/1970-81/07.mp3",
+      "start": 43.833605000000006,
+      "end": 54.768299
+    },
+    {
+      "index": 7,
+      "text": "What priceless words! - I have never given up hope!",
+      "path": "audio/1970-81/08.mp3",
+      "start": 56.157302,
+      "end": 60.68
+    }
+  ]
+}

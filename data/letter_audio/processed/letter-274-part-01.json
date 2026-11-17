@@ -1,0 +1,58 @@
+{
+  "key": "letter-274-part-01",
+  "number": 274,
+  "generationId": "01a1e8ff-dea5-7cdd-9748-0c48c16db91a",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-274/01.mp3",
+      "start": 0.0,
+      "end": 0.645692
+    },
+    {
+      "index": 1,
+      "text": "No ideology can help to create a new world or a new mind or a new human being, because ideological orientation itself is the root cause of all the conflicts and all the miseries.",
+      "path": "audio/1971-274/02.mp3",
+      "start": 1.961338,
+      "end": 13.999704999999999
+    },
+    {
+      "index": 2,
+      "text": "Thought creates boundaries, thought creates divisions and thought creates prejudices.",
+      "path": "audio/1971-274/03.mp3",
+      "start": 15.723107,
+      "end": 20.921338000000002
+    },
+    {
+      "index": 3,
+      "text": "Thought itself cannot bridge them; that is why all ideologies fail.",
+      "path": "audio/1971-274/04.mp3",
+      "start": 22.249160999999997,
+      "end": 26.434059
+    },
+    {
+      "index": 4,
+      "text": "Now man must learn to live without ideologies: religious, political or otherwise.",
+      "path": "audio/1971-274/05.mp3",
+      "start": 27.777663999999998,
+      "end": 33.475215
+    },
+    {
+      "index": 5,
+      "text": "When the mind is not tethered to any ideology it is free to move to new understandings.",
+      "path": "audio/1971-274/06.mp3",
+      "start": 34.780907,
+      "end": 40.368254
+    },
+    {
+      "index": 6,
+      "text": "And in that freedom flowers all that is good and all that is beautiful.",
+      "path": "audio/1971-274/07.mp3",
+      "start": 41.910045000000004,
+      "end": 46.63
+    }
+  ]
+}

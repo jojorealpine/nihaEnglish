@@ -1,0 +1,363 @@
+{
+  "sourceHash": "8b43c925c26fc001441ed986cf77d105ebcf62fe643150b044363fe01b33f3d3",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "13": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "내쫓아내!",
+        "explanation": "어떤 것을 강제로 떠나게 하거나 제거하라는 의미",
+        "grammar": "동사원형 「Drive」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "Drive",
+            "meaning": "내쫓다, 강제로 떠나게 하다",
+            "note": "여기서는 물리적인 이동이 아닌, 추상적인 개념(예: 감정, 생각 등)을 강제로 떠나게 하는 의미로 사용됨"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "11": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "어떻게 버릴 수 있을까요?",
+        "explanation": "문장의 의미는 주어진 상황에서 무언가를 버리는 방법이나 방법에 대해 묻는 것입니다.",
+        "grammar": "「can I throw it out」에서 조동사 can 뒤에 동사원형 「throw」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "throw",
+            "meaning": "버리다",
+            "note": "이 단어는 물리적으로 물건을 버리는 행위를 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "14": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "비워내!",
+        "explanation": "어떤 공간이나 상태에서 내용물을 완전히 제거하거나 비우라는 의미",
+        "grammar": "동사원형 「Empty」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "Empty",
+            "meaning": "비우다, 비우게 하다",
+            "note": "주로 물리적인 공간이나 상태를 비우는 행위를 나타냄"
+          },
+          {
+            "word": "out",
+            "meaning": "밖으로, 완전히",
+            "note": "여기서는 완전히 비우는 의미를 강조함"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "10": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "아무것도 없어요.",
+        "explanation": "자신이 소유하고 있는 것이 전혀 없다는 의미를 전달합니다.",
+        "grammar": "동사 「have」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "have",
+            "meaning": "소유하다",
+            "note": "문장에서 자신이 어떤 것을 소유하고 있지 않음을 나타냅니다."
+          },
+          {
+            "word": "nothing",
+            "meaning": "아무것도 없음",
+            "note": "완전한 부재나 소유하고 있는 것이 전혀 없다는 의미를 담고 있습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "12": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "버릴 수 없다면 들고 나가세요!",
+        "explanation": "버릴 수 없는 물건이 있다면 그것을 들고 나가는 것이 해결책이라는 의미",
+        "grammar": "동사 「carry」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "throw",
+            "meaning": "버리다",
+            "note": "물리적으로 버리는 행위를 나타냄"
+          },
+          {
+            "word": "carry",
+            "meaning": "들고가다",
+            "note": "물리적으로 들고 이동하는 행위를 나타냄"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "모든 존재의 근원이자 기반이다.",
+        "explanation": "문장은 모든 것이 비롯되는 근원과 모든 것이 돌아가는 기반이라는 의미를 전달한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "source",
+            "meaning": "근원",
+            "note": "모든 것이 시작되는 기본적인 원천을 의미한다."
+          },
+          {
+            "word": "existence",
+            "meaning": "존재",
+            "note": "존재의 상태나 실체를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "고승이 웃으며 말했다: 버려!",
+        "explanation": "고승이 학생의 고민에 대해 농담처럼 간단하게 해답을 준다. '버리라'는 말은 마음을 비우는 과정에서 현재의 생각이나 집착을 제거하라는 의미를 담고 있다.",
+        "grammar": "동사 「laughed」는 laugh의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "master",
+            "meaning": "선생님, 고수",
+            "note": "이 문맥에서는 수행이나 가르침에 정통한 고수를 가리킨다."
+          },
+          {
+            "word": "laughed",
+            "meaning": "웃었다",
+            "note": "고승의 반응이 가볍고 편안한 태도를 보여준다. 학생의 질문에 대해 심각하게 받아들이지 않고 쉽게 해답을 제시한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "빈곤함이라고 말할 때마다 항상 단순히 빈 공간을 의미하는 것은 아닙니다.",
+        "explanation": "빈곤함이라는 개념이 단순히 비어있음을 의미하는 것이 아니라 더 깊은 의미를 내포하고 있음을 강조합니다.",
+        "grammar": "동사 「mean」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "emptiness",
+            "meaning": "빈 공간, 공허함",
+            "note": "여기서는 단순히 물리적인 비어있음이 아니라 철학적 또는 정신적인 공허함이나 본질적인 의미를 가리킵니다."
+          },
+          {
+            "word": "mean",
+            "meaning": "의미하다",
+            "note": "특정 단어나 개념이 갖는 본질적인 의미나 내포된 깊은 의미를 설명합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "모든 것이 태어나고 모든 것이 돌아가는 근원이다.",
+        "explanation": "문장은 존재의 본질이 모든 것의 출발점이자 궁극적인 귀착점임을 설명한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "born",
+            "meaning": "태어나다",
+            "note": "여기서는 어떤 존재나 개념이 시작되거나 생성되는 것을 의미한다."
+          },
+          {
+            "word": "returns",
+            "meaning": "돌아가다",
+            "note": "모든 것이 궁극적으로 되돌아가는 원점이나 상태를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "15": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "너 앞에 서서 아무것도 생각하지 않은 채로 있지 마!",
+        "explanation": "상대방이 멍하니 서 있으면서 아무런 생각을 하지 않는 모습을 비판적으로 지적하는 문장입니다.",
+        "grammar": "「don't stand」는 do not + 동사원형으로 만든 부정 명령문입니다. 행동의 주체인 you를 따로 쓰지 않고, 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "stand",
+            "meaning": "서다",
+            "note": "여기서는 특정 행동(아무것도 생각하지 않은 채로 서 있음)을 나타내는 동사로 사용됩니다."
+          },
+          {
+            "word": "mind",
+            "meaning": "마음",
+            "note": "생각이나 정신 상태를 의미하며, 이 문장에서는 정신적인 활동의 부재를 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "나에게 공허함은 아무것도 없는 상태가 아니라 공허함 자체의 존재이다.",
+        "explanation": "공허함은 단순히 비어있음을 의미하는 것이 아니라 공허함이라는 상태나 개념 자체의 의미를 강조한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "emptiness",
+            "meaning": "공허함, 비어있음",
+            "note": "여기서는 단순히 물리적인 비어있음이 아니라 정신적 또는 철학적인 공허함을 의미한다."
+          },
+          {
+            "word": "presence",
+            "meaning": "존재, 나타남",
+            "note": "공허함이 단순히 부재가 아니라 그 자체로 존재한다는 의미를 전달한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "그리고 이제 네가 그것을 이해할 수 있게 되었으니, 그것은 네 안에 있으며, 네 안에도 있느니라.",
+        "explanation": "문장은 개인이 경험하는 '비어있음' 또는 '평온함'의 본질을 이해하게 되었다는 의미를 전달한다. 개인의 내면과 외부 세계 모두에 존재한다는 점을 강조한다.",
+        "grammar": "「can understand」에서 조동사 can 뒤에 동사원형 「understand」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "understand",
+            "meaning": "이해하다",
+            "note": "이 문맥에서는 깊은 인식이나 깨달음을 의미한다."
+          },
+          {
+            "word": "yourself",
+            "meaning": "자신",
+            "note": "주체적인 경험을 강조한다."
+          },
+          {
+            "word": "it",
+            "meaning": "그것",
+            "note": "여기서는 '비어있음' 또는 '평온함'을 가리킨다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "비어있음은 진정한 비움이 아니다. 오히려 모든 것을 포함하는 상태이며, 부정적이지 않고 긍정 그 자체이다.",
+        "explanation": "문장은 비움이 단순히 아무것도 없는 상태가 아니라 모든 것을 포괄하는 긍정적인 상태임을 설명한다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "emptiness",
+            "meaning": "비움, 공허함",
+            "note": "여기서는 단순히 아무것도 없는 상태가 아니라 모든 것을 포함하는 철학적 개념을 의미한다."
+          },
+          {
+            "word": "positivity",
+            "meaning": "긍정성, 긍정",
+            "note": "부정적이지 않고 긍정적인 상태나 마음가짐을 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "한 학생이 주슈 선생님께 물었습니다. 선생님은 마음을 비우라고 가르치시지만, 제 마음에는 아무것도 없습니다. 그러면 어떻게 해야 할까요?",
+        "explanation": "한 학생이 주슈 선생님께 마음을 비우는 수행에 대한 의문을 제기하는 상황을 설명합니다.",
+        "grammar": "동사 「teach」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "student",
+            "meaning": "학생",
+            "note": "학습이나 가르침을 받는 사람을 의미합니다."
+          },
+          {
+            "word": "asked",
+            "meaning": "물었다",
+            "note": "질문을 통해 정보나 조언을 구하는 행동을 나타냅니다."
+          },
+          {
+            "word": "teach",
+            "meaning": "가르치다",
+            "note": "지식이나 기술을 전수하거나 이해를 돕는 행위를 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

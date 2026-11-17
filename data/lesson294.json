@@ -1,0 +1,367 @@
+{
+  "id": "1971-294",
+  "title": "1971 / 294",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "divine",
+      "meaning": "신성한",
+      "note": "이 문맥에서는 신성함이나 신성한 존재를 나타낸다.",
+      "sentenceIds": [
+        2,
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "hidden",
+      "meaning": "숨겨진",
+      "note": "깊은 곳에 숨겨져 있다는 의미로, 신성함의 은밀함을 강조한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "absolute",
+      "meaning": "절대적인",
+      "note": "완전하고 무조건적인 것을 의미하며, 여기서는 가장 확실하고 근본적인 증거를 나타냅니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "inside",
+      "meaning": "내부의",
+      "note": "개인의 내면, 즉 마음이나 정신적 영역을 가리킵니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "discover",
+      "meaning": "발견하다",
+      "note": "깊은 곳에 숨겨진 것을 찾아내는 행위를 나타냄",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Thinking",
+      "meaning": "생각",
+      "note": "여기서는 단순히 생각하거나 고민하는 것이 해결책을 가져다주지 못함을 나타냅니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "action",
+      "meaning": "행동",
+      "note": "즉각적인 행동의 필요성을 강조하며, 변화를 이끌어내기 위해서는 행동이 필수적임을 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "turn",
+      "meaning": "돌리다, 바꾸다",
+      "note": "여기서는 행동이나 태도를 바꾸라는 의미로 사용되었습니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "written",
+      "meaning": "쓰여져 있다",
+      "note": "여기서는 사람의 삶이나 운명이 미리 정해져 있다는 의미를 담고 있다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ordinarily",
+      "meaning": "보통",
+      "note": "일반적인 상황이나 관습을 나타내며, 이 문장에서는 대부분의 사람들이 해당 상황에 해당한다는 의미를 전달한다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unopened",
+      "meaning": "열리지 않은",
+      "note": "사람들이 자신의 잠재력이나 삶의 진정한 의미를 이해하거나 실현하지 못한 채로 살아간다는 의미를 담고 있다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "opens",
+      "meaning": "열다",
+      "note": "여기서는 비유적으로 자신의 내면을 이해하거나 깨달음을 얻는 행위를 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      7
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-294/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "There is no proof of the divine in the world for it is hidden deep, deep, deep inside.",
+      "korean": "신성한 증거는 세상 어디에도 없다. 그것은 깊숙이 숨겨져 있기 때문이다.",
+      "explanation": "문장은 신성함이 세상에서 직접적으로 증명될 수 없으며, 매우 깊은 곳에 숨겨져 있다는 의미를 전달한다.",
+      "grammar": "「There is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1971-294/02.mp3",
+      "vocabulary": [
+        {
+          "word": "divine",
+          "meaning": "신성한",
+          "note": "이 문맥에서는 신성함이나 신성한 존재를 나타낸다."
+        },
+        {
+          "word": "hidden",
+          "meaning": "숨겨진",
+          "note": "깊은 곳에 숨겨져 있다는 의미로, 신성함의 은밀함을 강조한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "But in you there is the absolute proof, for it is deep, deep, deep, inside.",
+      "korean": "그러나 너 안에는 절대적인 증거가 있어, 그것은 깊숙이 숨겨져 있어.",
+      "explanation": "문장은 개인 내부에 신성한 증거나 본질이 깊숙이 존재한다는 의미를 전달합니다.",
+      "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1971-294/03.mp3",
+      "vocabulary": [
+        {
+          "word": "absolute",
+          "meaning": "절대적인",
+          "note": "완전하고 무조건적인 것을 의미하며, 여기서는 가장 확실하고 근본적인 증거를 나타냅니다."
+        },
+        {
+          "word": "inside",
+          "meaning": "내부의",
+          "note": "개인의 내면, 즉 마음이나 정신적 영역을 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Go in and discover it.",
+      "korean": "들어가서 찾아보세요.",
+      "explanation": "문장의 의미: 깊은 곳에 숨겨진 진실을 찾으라는 권유적인 표현",
+      "grammar": "동사원형 「Go」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-294/04.mp3",
+      "vocabulary": [
+        {
+          "word": "discover",
+          "meaning": "발견하다",
+          "note": "깊은 곳에 숨겨진 것을 찾아내는 행위를 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Thinking about it will not help: action is needed action turned on oneself - so act.",
+      "korean": "생각만 해서는 도움이 안 돼: 행동이 필요해. 스스로 행동을 취해야 해 - 행동하라.",
+      "explanation": "생각만으로는 해결책이 나오지 않으며, 실질적인 행동이 필요하다는 메시지를 전달합니다.",
+      "grammar": "「is needed」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-294/05.mp3",
+      "vocabulary": [
+        {
+          "word": "Thinking",
+          "meaning": "생각",
+          "note": "여기서는 단순히 생각하거나 고민하는 것이 해결책을 가져다주지 못함을 나타냅니다."
+        },
+        {
+          "word": "action",
+          "meaning": "행동",
+          "note": "즉각적인 행동의 필요성을 강조하며, 변화를 이끌어내기 위해서는 행동이 필수적임을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "That is, turn in.",
+      "korean": "돌려라",
+      "explanation": "행동을 취하라는 의미로, 수동태에서 명령형으로 해석되었습니다.",
+      "grammar": "동사원형 「turn」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-294/06.mp3",
+      "vocabulary": [
+        {
+          "word": "turn",
+          "meaning": "돌리다, 바꾸다",
+          "note": "여기서는 행동이나 태도를 바꾸라는 의미로 사용되었습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Man is like a sealed book written before he was born, and ordinarily he carries it unopened inside himself until he dies.",
+      "korean": "사람은 태어나기 전에 이미 쓰여진 닫힌 책과 같으며, 보통 그는 죽을 때까지 그것을 열지 않은 채 스스로 안고 다닌다.",
+      "explanation": "사람의 삶은 미리 결정되어 있고, 대부분의 사람들은 자신의 운명이나 잠재력을 깨닫지 못한 채로 살아간다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-294/07.mp3",
+      "vocabulary": [
+        {
+          "word": "written",
+          "meaning": "쓰여져 있다",
+          "note": "여기서는 사람의 삶이나 운명이 미리 정해져 있다는 의미를 담고 있다."
+        },
+        {
+          "word": "ordinarily",
+          "meaning": "보통",
+          "note": "일반적인 상황이나 관습을 나타내며, 이 문장에서는 대부분의 사람들이 해당 상황에 해당한다는 의미를 전달한다."
+        },
+        {
+          "word": "unopened",
+          "meaning": "열리지 않은",
+          "note": "사람들이 자신의 잠재력이나 삶의 진정한 의미를 이해하거나 실현하지 못한 채로 살아간다는 의미를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "One who opens it knows that he is not and only the divine is.",
+      "korean": "책장을 열어본 자는 자신이 본래 그러한 것이 아니라 오직 신성한 존재임을 알게 된다.",
+      "explanation": "자신의 잠재력이나 본질을 깨닫는 사람은 인간이 본래 완성된 상태가 아니라 신성한 존재와 연결되어 있다는 것을 이해하게 된다는 의미입니다.",
+      "grammar": "동사 「knows」는 know의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-294/08.mp3",
+      "vocabulary": [
+        {
+          "word": "opens",
+          "meaning": "열다",
+          "note": "여기서는 비유적으로 자신의 내면을 이해하거나 깨달음을 얻는 행위를 의미합니다."
+        },
+        {
+          "word": "divine",
+          "meaning": "신성한",
+          "note": "인간의 본질이나 잠재력이 신성한 근원과 연결되어 있다는 의미를 담고 있습니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "신성한 증거는 세상 어디에도 없다. 그것은 깊숙이 숨겨져 있기 때문이다. 그러나 너 안에는 절대적인 증거가 있어, 그것은 깊숙이 숨겨져 있어. 들어가서 찾아보세요.",
+    "생각만 해서는 도움이 안 돼: 행동이 필요해. 스스로 행동을 취해야 해 - 행동하라. 돌려라",
+    "사람은 태어나기 전에 이미 쓰여진 닫힌 책과 같으며, 보통 그는 죽을 때까지 그것을 열지 않은 채 스스로 안고 다닌다. 책장을 열어본 자는 자신이 본래 그러한 것이 아니라 오직 신성한 존재임을 알게 된다."
+  ],
+  "fullAudio": "audio/1971-294/script_all.mp3",
+  "originalText": "Love.\n\nThere is no proof of the divine in the world\nfor it is hidden deep, deep, deep inside.\nBut in you there is the absolute proof,\nfor it is deep, deep, deep, inside.\nGo in and discover it.\n\nThinking about it will not help:\naction is needed\naction turned on oneself -\nso act.\nThat is, turn in.\n\nMan is like a sealed book\nwritten before he was born,\nand ordinarily he carries it unopened inside himself\nuntil he dies.\nOne who opens it knows that he is not\nand only the divine is.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 294,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0889 2.JPG",
+        "side": "left",
+        "printedPage": 228
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

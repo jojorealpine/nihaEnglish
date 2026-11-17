@@ -1,0 +1,58 @@
+{
+  "key": "letter-076-part-01",
+  "number": 76,
+  "generationId": "01a1e62b-7045-7e87-9d67-5af01b548919",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-76/01.mp3",
+      "start": 0.0,
+      "end": 0.57551
+    },
+    {
+      "index": 1,
+      "text": "There is a music which has no sound; the soul is restless for such silent music.",
+      "path": "audio/1970-76/02.mp3",
+      "start": 1.901383,
+      "end": 6.601134
+    },
+    {
+      "index": 2,
+      "text": "There is a love in which the body is not; the soul longs for such unembodied love.",
+      "path": "audio/1970-76/03.mp3",
+      "start": 7.946644,
+      "end": 13.426485
+    },
+    {
+      "index": 3,
+      "text": "There is a truth which has no form; the soul longs for this formless truth.",
+      "path": "audio/1970-76/04.mp3",
+      "start": 14.748685,
+      "end": 19.26322
+    },
+    {
+      "index": 4,
+      "text": "Therefore melodies do not satisfy, bodies do not satisfy, and forms cannot fulfill the soul.",
+      "path": "audio/1970-76/05.mp3",
+      "start": 20.515624,
+      "end": 27.156168
+    },
+    {
+      "index": 5,
+      "text": "But this lack of fulfillment, this dissatisfaction, has to be understood properly, for such understanding ultimately brings about transcendence.",
+      "path": "audio/1970-76/06.mp3",
+      "start": 28.584398999999998,
+      "end": 38.143197
+    },
+    {
+      "index": 6,
+      "text": "Then sound becomes the door to the soundless, the body becomes the path to the unembodied, and form becomes the formless.",
+      "path": "audio/1970-76/07.mp3",
+      "start": 39.529773000000006,
+      "end": 48.25
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "key": "letter-280-part-02",
+  "number": 280,
+  "generationId": "01a1e901-24da-74a3-a683-eebb81f98ef4",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "I am the friend of the friend of the friend of the man who brought you the duck from the country, he said.",
+      "path": "audio/1971-280/11.mp3",
+      "start": 0.0,
+      "end": 5.340862
+    },
+    {
+      "index": 11,
+      "text": "Come in, said Nasrudin.",
+      "path": "audio/1971-280/12.mp3",
+      "start": 6.817823,
+      "end": 9.344717
+    },
+    {
+      "index": 12,
+      "text": "They seated themselves at the table and Nasrudin asked his wife to bring the soup.",
+      "path": "audio/1971-280/13.mp3",
+      "start": 10.782472,
+      "end": 15.877028999999999
+    },
+    {
+      "index": 13,
+      "text": "When the guest tasted it it seemed to be nothing more than warm water.",
+      "path": "audio/1971-280/14.mp3",
+      "start": 17.317550999999998,
+      "end": 21.956553
+    },
+    {
+      "index": 14,
+      "text": "What sort of soup is this? he asked the Mulla.",
+      "path": "audio/1971-280/15.mp3",
+      "start": 23.449524,
+      "end": 26.53585
+    },
+    {
+      "index": 15,
+      "text": "That, said Nasrudin, is the soup of the soup of the soup of the soup of the duck.",
+      "path": "audio/1971-280/16.mp3",
+      "start": 28.304285999999998,
+      "end": 34.95
+    }
+  ]
+}

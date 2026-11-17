@@ -1,0 +1,65 @@
+{
+  "key": "letter-304-part-01",
+  "number": 304,
+  "generationId": "01a1e907-41c5-7fd1-8018-e9f67a1c0444",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-304/01.mp3",
+      "start": 0.0,
+      "end": 0.643288
+    },
+    {
+      "index": 1,
+      "text": "How can a man learn to know himself? enquires Goethe, and then answers: Never by reflection but only by action.",
+      "path": "audio/1971-304/02.mp3",
+      "start": 1.8571430000000002,
+      "end": 9.337347
+    },
+    {
+      "index": 2,
+      "text": "John Burroughs doubts this.",
+      "path": "audio/1971-304/03.mp3",
+      "start": 10.591769000000001,
+      "end": 12.472199999999999
+    },
+    {
+      "index": 3,
+      "text": "He says: Is not this a half-truth? - because one can only learn his powers of action by action and his powers of thought by thinking.",
+      "path": "audio/1971-304/04.mp3",
+      "start": 13.757143000000001,
+      "end": 21.719796000000002
+    },
+    {
+      "index": 4,
+      "text": "But I say that man is always more than all his actions and all his thoughts, and unless that more is known no one knows himself.",
+      "path": "audio/1971-304/05.mp3",
+      "start": 23.154602999999998,
+      "end": 31.895873
+    },
+    {
+      "index": 5,
+      "text": "That more can be known neither by action nor by reflection because they both belong to the periphery and that more is eternally the center.",
+      "path": "audio/1971-304/06.mp3",
+      "start": 33.339864000000006,
+      "end": 42.471337999999996
+    },
+    {
+      "index": 6,
+      "text": "It can only be known through witnessing action and thought both: not by them but by witnessing them.",
+      "path": "audio/1971-304/07.mp3",
+      "start": 44.015941000000005,
+      "end": 51.770295
+    },
+    {
+      "index": 7,
+      "text": "And witnessing is meditation.",
+      "path": "audio/1971-304/08.mp3",
+      "start": 53.386644000000004,
+      "end": 57.1
+    }
+  ]
+}

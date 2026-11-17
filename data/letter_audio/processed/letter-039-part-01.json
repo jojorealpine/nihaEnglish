@@ -1,0 +1,79 @@
+{
+  "key": "letter-039-part-01",
+  "number": 39,
+  "generationId": "01a1e4ed-1ce6-71bd-843b-0f38785887ae",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1966-39/01.mp3",
+      "start": 0.0,
+      "end": 2.6532430000000002
+    },
+    {
+      "index": 1,
+      "text": "I have your letter.",
+      "path": "audio/1966-39/02.mp3",
+      "start": 3.888413,
+      "end": 7.1189800000000005
+    },
+    {
+      "index": 2,
+      "text": "The wheel of the world keeps spinning but why spin with it?",
+      "path": "audio/1966-39/03.mp3",
+      "start": 8.235397,
+      "end": 15.880771
+    },
+    {
+      "index": 3,
+      "text": "See what is behind body and mind; that has never moved, is not moving, can never move, and thou art that, tat twam asi.",
+      "path": "audio/1966-39/04.mp3",
+      "start": 17.042766,
+      "end": 21.241701000000003
+    },
+    {
+      "index": 4,
+      "text": "Waves lie on the surface of this ocean but in its depths — what is there?",
+      "path": "audio/1966-39/05.mp3",
+      "start": 22.707755,
+      "end": 26.363492
+    },
+    {
+      "index": 5,
+      "text": "When the waves are taken for the ocean it is a terrible mistake.",
+      "path": "audio/1966-39/06.mp3",
+      "start": 27.842086,
+      "end": 39.35576
+    },
+    {
+      "index": 6,
+      "text": "Look at the wheel of a bullock cart: the wheel turns because the axle does not; so remember your own axle, standing, sitting, asleep or awake, keep it in mind.",
+      "path": "audio/1966-39/07.mp3",
+      "start": 40.868367,
+      "end": 45.570975
+    },
+    {
+      "index": 7,
+      "text": "By and by, one begins to encounter the changeless behind all change.",
+      "path": "audio/1966-39/08.mp3",
+      "start": 47.203855000000004,
+      "end": 48.853559999999995
+    },
+    {
+      "index": 8,
+      "text": "You have asked me about the poem.",
+      "path": "audio/1966-39/09.mp3",
+      "start": 50.388118000000006,
+      "end": 54.185465
+    },
+    {
+      "index": 9,
+      "text": "Thad a little piece read out by someone, then it came to me: I should hear it from you yourself!",
+      "path": "audio/1966-39/10.mp3",
+      "start": 55.398889000000004,
+      "end": 57.44
+    }
+  ]
+}

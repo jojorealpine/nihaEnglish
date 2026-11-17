@@ -1,0 +1,219 @@
+{
+  "sourceHash": "1686cdc7a84eaad5636abaf5418c3f6fdf18a776cfaa016f112a809af21e7a28",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "9": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "그것을 알게 되는 것이 종교적인 삶이다.",
+        "explanation": "문장의 의미는 '우주를 이해하고 그 놀이성을 알기 위해서는 종교적인 태도나 삶의 방식을 가져야 한다'는 내용이다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "know",
+            "meaning": "알다",
+            "note": "여기서는 '이해하다' 또는 '깨닫다'라는 의미로 사용되었다."
+          },
+          {
+            "word": "religious",
+            "meaning": "종교적인",
+            "note": "종교적 태도나 삶의 방식을 의미하며, 이 문맥에서는 신성한 이해나 태도를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "존재는 존재하기 위해 존재하며, 삶도 마찬가지이다.",
+        "explanation": "문장은 존재의 본질과 삶의 목적에 대해 논하며, 존재의 이유가 그 자체의 존재에 있음을 강조하고, 이 개념을 삶에도 적용하고 있다.",
+        "grammar": "동사 「exists」는 exist의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "Existence",
+            "meaning": "존재",
+            "note": "문장에서 무엇인가가 실제로 존재하고 그 존재 자체가 의미를 갖는다는 개념을 나타낸다."
+          },
+          {
+            "word": "likewise",
+            "meaning": "마찬가지로",
+            "note": "존재의 본질이 삶에도 동일하게 적용된다는 의미를 전달한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "그런 방식은 이기적인 사고방식이니 실천하지 마세요.",
+        "explanation": "문장은 특정 행동이나 방법을 이기적인 사고방식의 표현으로 비판하며, 그러한 것을 실천하지 말 것을 권유합니다.",
+        "grammar": "「Please do not practice」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "practice",
+            "meaning": "실천하다",
+            "note": "여기서는 특정 행동이나 방법을 실제로 행하는 것을 의미합니다."
+          },
+          {
+            "word": "utilitarian",
+            "meaning": "이기적인",
+            "note": "이 단어는 행동이나 사고가 개인의 이익이나 효용만을 추구하는 것을 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "imperative",
+      "notes": {
+        "korean": "우주가 지닌 장난스러움을 알기 위해서는 먼저 장난스럽게 행동해야 합니다.",
+        "explanation": "우주와 같은 큰 체계도 장난스러움을 가질 수 있으며, 이를 이해하려면 먼저 자신이 장난스럽게 행동해야 한다는 의미입니다.",
+        "grammar": "동사원형 「Be」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+        "vocabulary": [
+          {
+            "word": "playfulness",
+            "meaning": "장난스러움",
+            "note": "우주나 자연 현상에도 적용될 수 있는 긍정적이고 자유로운 태도를 의미합니다."
+          },
+          {
+            "word": "universe",
+            "meaning": "우주",
+            "note": "전체적인 자연계나 존재의 범위를 가리키며, 여기서는 더 넓은 의미의 체계나 경험의 영역을 나타냅니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "그것은 무의미하지 않으며, 그 안에 의미가 없기 때문에 무의미할 수 없습니다!",
+        "explanation": "문장은 주어진 상황이나 개념이 본질적으로 의미를 지니고 있으며, 외부에서 억지로 의미를 부여하려 하면 오히려 그 무의미함을 느낄 수 있다는 내용을 전달합니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "meaningless",
+            "meaning": "무의미한",
+            "note": "어떤 것이 본질적으로 의미나 가치가 없다는 뜻입니다."
+          },
+          {
+            "word": "meaning",
+            "meaning": "의미",
+            "note": "개념이나 상황이 지니고 있는 본질적인 가치나 해석을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "의미를 찾는 행위 자체가 비열하고 흉측한 것은 인간의 이기적인 사고방식에서 비롯되기 때문이야.",
+        "explanation": "의미 추구가 인간의 이기적인 태도에서 비롯되어 부정적인 결과를 가져온다는 내용을 전달합니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "meaning",
+            "meaning": "의미",
+            "note": "문장에서 추구하는 가치나 목적을 나타냅니다."
+          },
+          {
+            "word": "utilitarian",
+            "meaning": "이기적인",
+            "note": "인간의 행동이 주로 개인적인 이익을 추구하는 데 초점을 맞춘다는 의미입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "existential",
+      "notes": {
+        "korean": "존재 자체는 그저 그러함이며, 삶 또한 그러하다. 목적도 끝도 없다. 지금 여기서 느껴봐!",
+        "explanation": "문장은 존재와 삶이 본질적으로 목적이나 종결을 갖지 않는다는 관점을 제시하며, 현재 순간에 집중하라는 메시지를 전달한다.",
+        "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+        "vocabulary": [
+          {
+            "word": "Existence",
+            "meaning": "존재",
+            "note": "어떤 것이 실제로 존재한다는 의미로, 여기서는 존재 자체의 본질을 설명한다."
+          },
+          {
+            "word": "likewise",
+            "meaning": "마찬가지로",
+            "note": "존재와 삶이 동일한 특성을 지닌다는 것을 강조한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "그것 자체의 의미만이 존재하며, 다른 의미를 부여하지 않으면 무의미함을 느낄 것이다.",
+        "explanation": "문장은 존재나 삶 자체의 의미는 그 자체에만 있으며, 외부적인 의미를 부여하지 않으면 그 본질적인 무의미함을 인식하게 된다는 내용을 전달한다.",
+        "grammar": "「will feel」에서 조동사 will 뒤에 동사원형 「feel」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "meaning",
+            "meaning": "의미",
+            "note": "문장에서 존재나 삶의 본질적인 가치나 목적을 나타낸다."
+          },
+          {
+            "word": "meaninglessness",
+            "meaning": "무의미함",
+            "note": "존재나 삶이 외부적인 의미 부여 없이 본질적으로 갖는 무의미한 상태를 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

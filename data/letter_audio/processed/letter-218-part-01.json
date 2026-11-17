@@ -1,0 +1,79 @@
+{
+  "key": "letter-218-part-01",
+  "number": 218,
+  "generationId": "01a1e8f2-4178-7c05-b895-1279fc908084",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-218/01.mp3",
+      "start": 0.0,
+      "end": 0.745986
+    },
+    {
+      "index": 1,
+      "text": "I live without planning, and I also feel that this is the only way to be alive at all.",
+      "path": "audio/1971-218/02.mp3",
+      "start": 2.021746,
+      "end": 6.710454
+    },
+    {
+      "index": 2,
+      "text": "In fact I live a wild life, absolutely unplanned not knowing anything about the future - not even about the next moment.",
+      "path": "audio/1971-218/03.mp3",
+      "start": 8.071859,
+      "end": 15.149954999999999
+    },
+    {
+      "index": 3,
+      "text": "Today is enough for me - really more than enough!",
+      "path": "audio/1971-218/04.mp3",
+      "start": 16.442608,
+      "end": 20.578095
+    },
+    {
+      "index": 4,
+      "text": "The moment that is present is the only living moment - the past is dead in the sense that it is no more and the future is also dead in the sense that it is not yet born.",
+      "path": "audio/1971-218/05.mp3",
+      "start": 22.089342,
+      "end": 33.702562
+    },
+    {
+      "index": 5,
+      "text": "And so to be concerned with the past is to be dead and to be concerned with the future is also to be dead.",
+      "path": "audio/1971-218/06.mp3",
+      "start": 35.224376,
+      "end": 41.536803
+    },
+    {
+      "index": 6,
+      "text": "The only way to be alive is to be here and now - in the moment and totally in it.",
+      "path": "audio/1971-218/07.mp3",
+      "start": 43.014036000000004,
+      "end": 49.272925
+    },
+    {
+      "index": 7,
+      "text": "Living moment to moment I have found that ecstasy and bliss which is not of this world at all.",
+      "path": "audio/1971-218/08.mp3",
+      "start": 50.720204,
+      "end": 56.861655
+    },
+    {
+      "index": 8,
+      "text": "The single moment lived totally transcends time itself.",
+      "path": "audio/1971-218/09.mp3",
+      "start": 58.42,
+      "end": 62.069637
+    },
+    {
+      "index": 9,
+      "text": "It becomes the gap between two moments of time, and if one can be in this gap then one is beyond death because time is death and timelessness is life.",
+      "path": "audio/1971-218/10.mp3",
+      "start": 63.600703,
+      "end": 75.89
+    }
+  ]
+}

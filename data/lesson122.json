@@ -1,0 +1,419 @@
+{
+  "id": "1970-122",
+  "title": "1970 / 122",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "long",
+      "meaning": "갈망하다",
+      "note": "어떤 것을 간절히 원하거나 바라는 상태를 나타냅니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "courage",
+      "meaning": "용기",
+      "note": "위험이나 어려움을 무릅쓰고 행동할 수 있는 대담함을 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "reach",
+      "meaning": "도달하다",
+      "note": "목표나 상태에 도달하는 것을 의미합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "darkness",
+      "meaning": "어둠",
+      "note": "물리적 어둠뿐 아니라 내면의 부정적인 요소나 무지를 상징합니다.",
+      "sentenceIds": [
+        3,
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "outside",
+      "meaning": "외부",
+      "note": "외부 세계를 가리키며, 여기서는 내면의 변화가 더 중요하다는 대조를 나타냅니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "alight",
+      "meaning": "밝다, 불을 켜다",
+      "note": "이 문맥에서는 '밝다'라는 의미로 사용되어, 내면의 깨달음이나 상태의 밝음을 나타낸다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "light",
+      "meaning": "빛",
+      "note": "외부의 물리적 빛이 아닌, 내면의 깨달음이나 영적인 밝음을 상징한다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "dying",
+      "meaning": "죽음",
+      "note": "문장에서 죽음 자체를 가리키며, 여기서는 죽음에 대한 두려움의 대상으로 사용된다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Die",
+      "meaning": "죽다",
+      "note": "죽음을 직접적으로 명령하거나 권유하는 강한 표현",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "know",
+      "meaning": "알다",
+      "note": "특정 사실이나 진실을 인식하거나 이해해야 함을 강조",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Disappear",
+      "meaning": "사라지다",
+      "note": "어떤 존재나 상태가 더 이상 보이지 않게 되는 것을 의미함",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "find",
+      "meaning": "찾다",
+      "note": "특정 대상이나 정보를 발견하거나 얻는 것을 의미함",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "prayer",
+      "meaning": "기도",
+      "note": "신에게 바치는 말이나 부탁으로, 영적이고 정신적인 행위를 나타낸다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "lesson",
+      "meaning": "교훈",
+      "note": "학습하거나 깨닫게 되는 중요한 가르침이나 원리를 의미한다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Regards",
+      "meaning": "인사",
+      "note": "격식 있는 작별이나 인사말로, 보통 편지의 끝에서 사용됩니다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-122/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "You long for the sun and you will get it for sure, but you have to have the courage to burn!",
+      "korean": "태양을 갈망하고, 분명히 그걸 얻을 수 있지만, 불타는 용기를 가져야 해.",
+      "explanation": "태양을 향한 갈망과 그 목표를 달성하기 위한 용기의 필요성을 강조하는 문장입니다.",
+      "grammar": "「have to have」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+      "audio": "audio/1970-122/02.mp3",
+      "vocabulary": [
+        {
+          "word": "long",
+          "meaning": "갈망하다",
+          "note": "어떤 것을 간절히 원하거나 바라는 상태를 나타냅니다."
+        },
+        {
+          "word": "courage",
+          "meaning": "용기",
+          "note": "위험이나 어려움을 무릅쓰고 행동할 수 있는 대담함을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "You can't reach the light without dying, for ego is darkness, and besides, the sun isn't anywhere outside but is born within when everything else there burns.",
+      "korean": "빛에 도달하려면 먼저 자아의 어둠을 극복해야 하며, 태양은 외부에 있지 않고 내면에서 탄생한다.",
+      "explanation": "자아가 어둠이며, 진정한 빛(태양)을 얻기 위해서는 내면의 변화가 필요하다는 의미입니다. 태양은 외부가 아닌 내면에서 비롯된다는 점을 강조합니다.",
+      "grammar": "「can't reach」에서 조동사 ca 뒤에 동사원형 「reach」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1970-122/03.mp3",
+      "vocabulary": [
+        {
+          "word": "reach",
+          "meaning": "도달하다",
+          "note": "목표나 상태에 도달하는 것을 의미합니다."
+        },
+        {
+          "word": "darkness",
+          "meaning": "어둠",
+          "note": "물리적 어둠뿐 아니라 내면의 부정적인 요소나 무지를 상징합니다."
+        },
+        {
+          "word": "outside",
+          "meaning": "외부",
+          "note": "외부 세계를 가리키며, 여기서는 내면의 변화가 더 중요하다는 대조를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "When the self is alight - that is the light.",
+      "korean": "자아 자체가 밝을 때, 그것이 바로 빛이다.",
+      "explanation": "자아의 상태가 밝음과 연결되어 있으며, 진정한 빛은 외부의 것이 아니라 내면에서 비롯된다는 의미를 전달한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-122/04.mp3",
+      "vocabulary": [
+        {
+          "word": "alight",
+          "meaning": "밝다, 불을 켜다",
+          "note": "이 문맥에서는 '밝다'라는 의미로 사용되어, 내면의 깨달음이나 상태의 밝음을 나타낸다."
+        },
+        {
+          "word": "light",
+          "meaning": "빛",
+          "note": "외부의 물리적 빛이 아닌, 내면의 깨달음이나 영적인 밝음을 상징한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "The fear of dying is darkness, the jump into death is the light.",
+      "korean": "죽음에 대한 두려움은 어둠이고, 죽음으로의 도약은 빛이다.",
+      "explanation": "죽음에 대한 두려움이 어둠으로 비유되고, 죽음을 향한 행동이나 태도가 빛으로 표현되어 대조를 이룬다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-122/05.mp3",
+      "vocabulary": [
+        {
+          "word": "dying",
+          "meaning": "죽음",
+          "note": "문장에서 죽음 자체를 가리키며, 여기서는 죽음에 대한 두려움의 대상으로 사용된다."
+        },
+        {
+          "word": "darkness",
+          "meaning": "어둠",
+          "note": "비유적으로 사용되어 죽음에 대한 두려움이나 불확실성을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Die, and know this!",
+      "korean": "죽으라, 그리고 이것을 알아라!",
+      "explanation": "죽음을 맞이하라, 그리고 다음 사실을 인지하라!",
+      "grammar": "동사원형 「Die」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-122/06.mp3",
+      "vocabulary": [
+        {
+          "word": "Die",
+          "meaning": "죽다",
+          "note": "죽음을 직접적으로 명령하거나 권유하는 강한 표현"
+        },
+        {
+          "word": "know",
+          "meaning": "알다",
+          "note": "특정 사실이나 진실을 인식하거나 이해해야 함을 강조"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Disappear, and you will find it.",
+      "korean": "사라지면 찾을 수 있을 거야.",
+      "explanation": "사라짐을 통해 무언가를 발견하게 된다는 의미",
+      "grammar": "동사원형 「Disappear」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-122/07.mp3",
+      "vocabulary": [
+        {
+          "word": "Disappear",
+          "meaning": "사라지다",
+          "note": "어떤 존재나 상태가 더 이상 보이지 않게 되는 것을 의미함"
+        },
+        {
+          "word": "find",
+          "meaning": "찾다",
+          "note": "특정 대상이나 정보를 발견하거나 얻는 것을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "That is why I say love is prayer - it is the first lesson in death.",
+      "korean": "사랑은 기도와 같다고 말하는 이유는 이것이 죽음의 첫 번째 교훈이기 때문이다.",
+      "explanation": "사랑이 죽음과 관련된 중요한 교훈이나 행위로 비유되며, 사랑을 실천하는 것이 영적 성장이나 내면의 변화의 시작점임을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-122/08.mp3",
+      "vocabulary": [
+        {
+          "word": "prayer",
+          "meaning": "기도",
+          "note": "신에게 바치는 말이나 부탁으로, 영적이고 정신적인 행위를 나타낸다."
+        },
+        {
+          "word": "lesson",
+          "meaning": "교훈",
+          "note": "학습하거나 깨닫게 되는 중요한 가르침이나 원리를 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "Regards to all.",
+      "korean": "모든 분께 인사드립니다.",
+      "explanation": "인사나 작별 인사를 전하는 문장",
+      "grammar": "명사 「Regards」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1970-122/09.mp3",
+      "vocabulary": [
+        {
+          "word": "Regards",
+          "meaning": "인사",
+          "note": "격식 있는 작별이나 인사말로, 보통 편지의 끝에서 사용됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "태양을 갈망하고, 분명히 그걸 얻을 수 있지만, 불타는 용기를 가져야 해. 빛에 도달하려면 먼저 자아의 어둠을 극복해야 하며, 태양은 외부에 있지 않고 내면에서 탄생한다. 자아 자체가 밝을 때, 그것이 바로 빛이다. 죽음에 대한 두려움은 어둠이고, 죽음으로의 도약은 빛이다. 죽으라, 그리고 이것을 알아라! 사라지면 찾을 수 있을 거야. 사랑은 기도와 같다고 말하는 이유는 이것이 죽음의 첫 번째 교훈이기 때문이다.",
+    "모든 분께 인사드립니다."
+  ],
+  "fullAudio": "audio/1970-122/script_all.mp3",
+  "originalText": "Love.\n\nYou long for the sun\nand you will get it for sure,\nbut you have to have the courage to burn!\nYou can't reach the light without dying,\nfor ego is darkness,\nand besides, the sun isn't anywhere outside\nbut is born within when everything else there burns.\nWhen the self is alight - that is the light.\nThe fear of dying is darkness,\nthe jump into death is the light.\nDie, and know this!\nDisappear, and you will find it.\nThat is why I say love is prayer -\nit is the first lesson in death.\n\nRegards to all.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 122,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0823 2.JPG",
+        "side": "left",
+        "printedPage": 96
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

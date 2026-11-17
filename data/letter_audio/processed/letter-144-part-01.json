@@ -1,0 +1,79 @@
+{
+  "key": "letter-144-part-01",
+  "number": 144,
+  "generationId": "01a1e6d5-da62-7ca3-93b0-cedb9ed1f9fa",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-144/01.mp3",
+      "start": 0.0,
+      "end": 0.7393419999999999
+    },
+    {
+      "index": 1,
+      "text": "I am glad to receive your letter.",
+      "path": "audio/1970-144/02.mp3",
+      "start": 1.9244439999999998,
+      "end": 3.776349
+    },
+    {
+      "index": 2,
+      "text": "Yes, this much suffering has to be gone through - it is the birth pangs of our own rebirth.",
+      "path": "audio/1970-144/03.mp3",
+      "start": 5.049297,
+      "end": 10.502426
+    },
+    {
+      "index": 3,
+      "text": "And going back is not possible for where is the past to which to return?",
+      "path": "audio/1970-144/04.mp3",
+      "start": 11.832812,
+      "end": 16.029025
+    },
+    {
+      "index": 4,
+      "text": "Time demolishes the steps we climb to reach the present.",
+      "path": "audio/1970-144/05.mp3",
+      "start": 17.288866,
+      "end": 20.721111
+    },
+    {
+      "index": 5,
+      "text": "There is no going back - only going forward is possible, forward and forward - and the journey is endless!",
+      "path": "audio/1970-144/06.mp3",
+      "start": 22.202676,
+      "end": 29.794376
+    },
+    {
+      "index": 6,
+      "text": "There is no goal, no destination, only resting places, where the tents are dismantled as soon as they are pitched.",
+      "path": "audio/1970-144/07.mp3",
+      "start": 31.246620999999998,
+      "end": 39.020748
+    },
+    {
+      "index": 7,
+      "text": "But why this fear of anarchy?",
+      "path": "audio/1970-144/08.mp3",
+      "start": 40.57068,
+      "end": 42.397937
+    },
+    {
+      "index": 8,
+      "text": "All systems are false - life is anarchic, insecure.",
+      "path": "audio/1970-144/09.mp3",
+      "start": 43.966304,
+      "end": 48.715306
+    },
+    {
+      "index": 9,
+      "text": "He who seeks security dies before his death.",
+      "path": "audio/1970-144/10.mp3",
+      "start": 50.303515000000004,
+      "end": 53.76
+    }
+  ]
+}

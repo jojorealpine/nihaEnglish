@@ -1,0 +1,79 @@
+{
+  "key": "letter-231-part-01",
+  "number": 231,
+  "generationId": "01a1e8f5-f551-7ea7-a943-65329e533a12",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-231/01.mp3",
+      "start": 0.0,
+      "end": 0.5548299999999999
+    },
+    {
+      "index": 1,
+      "text": "Emptiness is all - and to get hold of emptiness is to attain all and be all.",
+      "path": "audio/1971-231/02.mp3",
+      "start": 1.790771,
+      "end": 6.560658
+    },
+    {
+      "index": 2,
+      "text": "But it is very arduous to get hold of emptiness - because it is emptiness!",
+      "path": "audio/1971-231/03.mp3",
+      "start": 7.957868,
+      "end": 12.042608
+    },
+    {
+      "index": 3,
+      "text": "And it hurts much - though it is emptiness, it still hurts much!",
+      "path": "audio/1971-231/04.mp3",
+      "start": 13.317619,
+      "end": 17.246236
+    },
+    {
+      "index": 4,
+      "text": "Because to make way for it the ego has to die.",
+      "path": "audio/1971-231/05.mp3",
+      "start": 18.47127,
+      "end": 21.400726000000002
+    },
+    {
+      "index": 5,
+      "text": "But I am happy that you are dying because this is the only way to be beyond death - I say: the only way.",
+      "path": "audio/1971-231/06.mp3",
+      "start": 22.701269999999997,
+      "end": 28.433469000000002
+    },
+    {
+      "index": 6,
+      "text": "Remember this always.",
+      "path": "audio/1971-231/07.mp3",
+      "start": 29.747823,
+      "end": 31.125351000000002
+    },
+    {
+      "index": 7,
+      "text": "Sekkyo once said to one of his monks: Can you get hold of emptiness?",
+      "path": "audio/1971-231/08.mp3",
+      "start": 32.393311000000004,
+      "end": 36.171155999999996
+    },
+    {
+      "index": 8,
+      "text": "I will try, said the monk; and he cupped his hands in the air.",
+      "path": "audio/1971-231/09.mp3",
+      "start": 37.521338,
+      "end": 40.975260999999996
+    },
+    {
+      "index": 9,
+      "text": "That is absurd, said Sekkyo.",
+      "path": "audio/1971-231/10.mp3",
+      "start": 42.527868000000005,
+      "end": 45.27
+    }
+  ]
+}

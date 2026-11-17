@@ -1,0 +1,665 @@
+{
+  "id": "1971-258",
+  "title": "1971 / 258",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "transmitted",
+      "meaning": "전달되다",
+      "note": "주로 추상적인 개념이나 경험을 다른 사람에게 전달하는 맥락에서 사용됨",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "systematize",
+      "meaning": "체계화하다",
+      "note": "규칙이나 원칙에 따라 정리하고 분류하려는 시도를 의미함",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "impossible",
+      "meaning": "불가능한",
+      "note": "어떤 방식으로도 강요하거나 적용할 수 없다는 의미입니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "experience",
+      "meaning": "경험",
+      "note": "개인이 직접 체험하는 종교적 순간이나 상태를 의미합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "individual",
+      "meaning": "개인적인",
+      "note": "각 개인마다 독특하고 유일무이하다는 특성을 나타냅니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "followed",
+      "meaning": "따라지다",
+      "note": "이 문맥에서는 어떤 규칙이나 패턴에 얽매이지 않는 자유로움을 나타냅니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "freedom",
+      "meaning": "자유",
+      "note": "개인적인 해석과 발견의 자유를 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "virginity",
+      "meaning": "순결",
+      "note": "여기서는 순수하고 본래적인 상태를 의미하며, 외부의 영향 없이 본래의 모습을 유지하는 것을 나타냅니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "opposition",
+      "meaning": "반대",
+      "note": "기존의 것과의 대립이나 충돌을 의미한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "timelessness",
+      "meaning": "영원함",
+      "note": "시간의 제약 없이 항상 유효하고 신선한 상태를 나타낸다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "eternally",
+      "meaning": "영원히",
+      "note": "지속적으로, 시간의 제약 없이 계속되는 상태를 나타낸다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "borrowed",
+      "meaning": "빌린",
+      "note": "과거나 다른 출처에서 가져온 것이 아니라는 의미",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "tradition",
+      "meaning": "전통",
+      "note": "기존의 관습이나 방식에 의존하지 않는다는 의미",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "causality",
+      "meaning": "인과관계",
+      "note": "어떤 외부 요인이나 원인에 의해 발생한 것이 아니라는 의미",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "happens",
+      "meaning": "발생하다",
+      "note": "자연스럽게 일어나는 상황이나 사건을 나타냅니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "unconditionally",
+      "meaning": "무조건적으로",
+      "note": "특정 조건이나 원인 없이 항상 일어나는 것을 의미합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "continuous",
+      "meaning": "지속적인",
+      "note": "지속적이거나 끊어지지 않는 상태를 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "discontinuous",
+      "meaning": "단절된",
+      "note": "끊어진 상태나 연결되지 않은 상태를 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "clouds",
+      "meaning": "구름",
+      "note": "하늘에 떠 있는 수증기 덩어리를 의미한다.",
+      "sentenceIds": [
+        9,
+        10,
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "causal",
+      "meaning": "인과의",
+      "note": "어떤 사건이나 현상이 다른 것을 일으키는 원인과 결과의 관계를 나타낸다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "clear",
+      "meaning": "맑다",
+      "note": "먼지나 구름이 없이 투명하고 밝은 상태를 나타냅니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "cause-and-effect",
+      "meaning": "인과관계",
+      "note": "두 사건이나 현상 사이에서 한 가지가 다른 것을 일으키는 직접적인 연결 관계를 의미합니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "relationship",
+      "meaning": "관계",
+      "note": "두 개 이상의 요소 사이의 연결이나 연관성을 나타냅니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "known",
+      "meaning": "알다, 인지하다",
+      "note": "여기서는 하늘이 구름을 인식하거나 이해하지 못하고 있다는 의미를 담고 있다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "affected",
+      "meaning": "영향을 받다",
+      "note": "이 단어는 어떤 상태나 행동이 외부 요인에 의해 변화되었다는 의미를 담고 있습니다. 여기서는 부정적인 맥락에서 사용되어 전혀 영향을 받지 않았음을 나타냅니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "whatsoever",
+      "meaning": "어떠한 것도",
+      "note": "이 표현은 완전한 부정을 나타내며, 어떤 방식이나 정도로도 영향을 받지 않았음을 강조합니다.",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "eternally fresh",
+      "meaning": "영원히 신선한",
+      "explanation": "항상 새롭고 신선한 상태를 표현하는 관용구.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "new in the sense of",
+      "meaning": "의미상의 새롭다",
+      "explanation": "특정 관점에서 새롭다는 의미를 전달하는 표현.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    [
+      10,
+      11,
+      12
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-258/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "The real religious experience cannot be organized, taught or transmitted To systematize it is to kill it.",
+      "korean": "진정한 종교적 경험은 조직화하거나 가르칠 수 없으며 전달될 수도 없다. 체계화하려는 시도는 그것을 죽이는 것이다.",
+      "explanation": "진정한 종교적 경험의 본질적이고 개인적인 성격 때문에 외부로 전달하거나 체계적으로 설명하는 것이 불가능하다는 의미",
+      "grammar": "「cannot be organized」는 조동사 + be + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-258/02.mp3",
+      "vocabulary": [
+        {
+          "word": "transmitted",
+          "meaning": "전달되다",
+          "note": "주로 추상적인 개념이나 경험을 다른 사람에게 전달하는 맥락에서 사용됨"
+        },
+        {
+          "word": "systematize",
+          "meaning": "체계화하다",
+          "note": "규칙이나 원칙에 따라 정리하고 분류하려는 시도를 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "It is so living and moving and dynamic that to impose a pattern on it is impossible; and the experience is always so unique and individual that it cannot be put into any category - although it happens when the individual is not.",
+      "korean": "진정한 종교적 경험은 살아 숨 쉬고 역동적이어서 어떤 패턴을 강요하는 것이 불가능하며, 그 경험은 항상 독특하고 개인적이어서 어떤 범주로 분류할 수 없다; 다만 개인이 그러한 상태에 있지 않더라도 그러한 경험은 일어날 수 있다.",
+      "explanation": "진정한 종교적 경험의 본질적인 특성과 그 경험을 일반화하거나 분류하기 어려운 이유를 설명합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-258/03.mp3",
+      "vocabulary": [
+        {
+          "word": "impossible",
+          "meaning": "불가능한",
+          "note": "어떤 방식으로도 강요하거나 적용할 수 없다는 의미입니다."
+        },
+        {
+          "word": "experience",
+          "meaning": "경험",
+          "note": "개인이 직접 체험하는 종교적 순간이나 상태를 의미합니다."
+        },
+        {
+          "word": "individual",
+          "meaning": "개인적인",
+          "note": "각 개인마다 독특하고 유일무이하다는 특성을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "It cannot be followed, for everyone has to find it for himself, and that is the beauty of it, and also its freedom and virginity.",
+      "korean": "따라질 수 없으며, 각자 스스로 발견해야 하는 것이 그 아름다움이고 자유이며 순수함입니다.",
+      "explanation": "문장은 개인적인 발견의 중요성과 그로 인한 자유와 순수함을 강조합니다.",
+      "grammar": "「has to find」는 have to + 동사원형의 구조로, 그 행동을 해야 한다는 필요나 의무를 나타냅니다.",
+      "audio": "audio/1971-258/04.mp3",
+      "vocabulary": [
+        {
+          "word": "followed",
+          "meaning": "따라지다",
+          "note": "이 문맥에서는 어떤 규칙이나 패턴에 얽매이지 않는 자유로움을 나타냅니다."
+        },
+        {
+          "word": "freedom",
+          "meaning": "자유",
+          "note": "개인적인 해석과 발견의 자유를 의미합니다."
+        },
+        {
+          "word": "virginity",
+          "meaning": "순결",
+          "note": "여기서는 순수하고 본래적인 상태를 의미하며, 외부의 영향 없이 본래의 모습을 유지하는 것을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "It is not new in the sense of any opposition to the old, it is new in the sense of timelessness - that is, eternally fresh and innocent - as every flower is new and every sunrise is new and every love is new.",
+      "korean": "이것은 옛 것에 대한 반대가 아니라, 영원함의 의미에서 새롭다. 즉, 영원히 신선하고 순수하다. 마치 모든 꽃이 새롭고 모든 일출이 새롭고 모든 사랑이 새롭듯이.",
+      "explanation": "문장은 개념이나 아이디어가 항상 새롭고 신선하다는 의미를 전달하며, 이는 시간의 흐름에 상관없이 항상 새로운 경험이나 감정을 제공한다는 것을 강조한다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-258/05.mp3",
+      "vocabulary": [
+        {
+          "word": "opposition",
+          "meaning": "반대",
+          "note": "기존의 것과의 대립이나 충돌을 의미한다."
+        },
+        {
+          "word": "timelessness",
+          "meaning": "영원함",
+          "note": "시간의 제약 없이 항상 유효하고 신선한 상태를 나타낸다."
+        },
+        {
+          "word": "eternally",
+          "meaning": "영원히",
+          "note": "지속적으로, 시간의 제약 없이 계속되는 상태를 나타낸다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "eternally fresh",
+          "meaning": "영원히 신선한",
+          "explanation": "항상 새롭고 신선한 상태를 표현하는 관용구."
+        },
+        {
+          "expression": "new in the sense of",
+          "meaning": "의미상의 새롭다",
+          "explanation": "특정 관점에서 새롭다는 의미를 전달하는 표현."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "It is not borrowed from the past, it is not based on any tradition, it is not derived from without, it happens within, without any causality.",
+      "korean": "과거에서 빌려온 것이 아니며, 전통에 기반한 것도 아니고 외부에서 유래된 것도 아니며, 어떠한 인과관계 없이 내면에서 일어나는 것이다.",
+      "explanation": "문장은 새로운 것의 본질을 설명하며, 외부 요인이나 과거의 영향 없이 순수하게 내면에서 비롯된다는 의미를 전달한다.",
+      "grammar": "동사 「happens」는 happen의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-258/06.mp3",
+      "vocabulary": [
+        {
+          "word": "borrowed",
+          "meaning": "빌린",
+          "note": "과거나 다른 출처에서 가져온 것이 아니라는 의미"
+        },
+        {
+          "word": "tradition",
+          "meaning": "전통",
+          "note": "기존의 관습이나 방식에 의존하지 않는다는 의미"
+        },
+        {
+          "word": "causality",
+          "meaning": "인과관계",
+          "note": "어떤 외부 요인이나 원인에 의해 발생한 것이 아니라는 의미"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "It happens unconditionally.",
+      "korean": "무조건적으로 일어난다.",
+      "explanation": "문장의 의미: 어떤 조건이나 원인 없이 자연스럽게 발생한다는 의미입니다.",
+      "grammar": "동사 「happens」는 happen의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-258/07.mp3",
+      "vocabulary": [
+        {
+          "word": "happens",
+          "meaning": "발생하다",
+          "note": "자연스럽게 일어나는 상황이나 사건을 나타냅니다."
+        },
+        {
+          "word": "unconditionally",
+          "meaning": "무조건적으로",
+          "note": "특정 조건이나 원인 없이 항상 일어나는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "It is not continuous with the mind, it is a discontinuous explosion.",
+      "korean": "마음과는 단절된 폭발이다.",
+      "explanation": "문장은 어떤 현상이나 상태가 마음과는 연결되지 않고 갑작스럽고 분리된 폭발적인 변화를 나타낸다고 설명합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-258/08.mp3",
+      "vocabulary": [
+        {
+          "word": "continuous",
+          "meaning": "지속적인",
+          "note": "지속적이거나 끊어지지 않는 상태를 의미합니다."
+        },
+        {
+          "word": "discontinuous",
+          "meaning": "단절된",
+          "note": "끊어진 상태나 연결되지 않은 상태를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "There are clouds in the sky and the sky cannot be seen, but there is no causal chain.",
+      "korean": "하늘에 구름이 있어도 하늘을 볼 수 없지만, 인과 관계는 없다.",
+      "explanation": "문장은 구름이 하늘을 가리더라도 그 상황에서 인과 관계가 존재하지 않는다는 의미를 전달한다.",
+      "grammar": "「There are」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 are는 be동사의 현재형입니다.",
+      "audio": "audio/1971-258/09.mp3",
+      "vocabulary": [
+        {
+          "word": "clouds",
+          "meaning": "구름",
+          "note": "하늘에 떠 있는 수증기 덩어리를 의미한다."
+        },
+        {
+          "word": "causal",
+          "meaning": "인과의",
+          "note": "어떤 사건이나 현상이 다른 것을 일으키는 원인과 결과의 관계를 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "The clouds have gone and the sky is clear",
+      "korean": "구름이 걷히고 하늘이 맑아졌어요.",
+      "explanation": "구름이 사라지면서 하늘이 맑아진 상황을 설명합니다.",
+      "grammar": "「have gone」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1971-258/10.mp3",
+      "vocabulary": [
+        {
+          "word": "clouds",
+          "meaning": "구름",
+          "note": "하늘에 떠 있는 물방울의 집합체를 의미합니다."
+        },
+        {
+          "word": "clear",
+          "meaning": "맑다",
+          "note": "먼지나 구름이 없이 투명하고 밝은 상태를 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "but there is no cause-and-effect relationship.",
+      "korean": "그러나 인과관계는 없다.",
+      "explanation": "문장은 두 현상 사이에 직접적인 인과 관계가 존재하지 않음을 나타냅니다.",
+      "grammar": "「there is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1971-258/11.mp3",
+      "vocabulary": [
+        {
+          "word": "cause-and-effect",
+          "meaning": "인과관계",
+          "note": "두 사건이나 현상 사이에서 한 가지가 다른 것을 일으키는 직접적인 연결 관계를 의미합니다."
+        },
+        {
+          "word": "relationship",
+          "meaning": "관계",
+          "note": "두 개 이상의 요소 사이의 연결이나 연관성을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "The sky has not even known the clouds!",
+      "korean": "하늘은 아직 구름조차 모르고 있다!",
+      "explanation": "문장은 하늘과 구름 사이에 인과 관계가 없다는 의미를 비유적으로 표현하고 있다.",
+      "grammar": "「has not even known」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1971-258/12.mp3",
+      "vocabulary": [
+        {
+          "word": "known",
+          "meaning": "알다, 인지하다",
+          "note": "여기서는 하늘이 구름을 인식하거나 이해하지 못하고 있다는 의미를 담고 있다."
+        },
+        {
+          "word": "clouds",
+          "meaning": "구름",
+          "note": "비유적인 표현에서 하늘의 상태나 상황을 나타내는 대상으로 사용되었다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "It has not been affected by them in any way whatsoever.",
+      "korean": "전혀 영향을 받지 않았습니다.",
+      "explanation": "문장은 어떤 요소(여기서는 '그들'이 의미하는 것들)에 의해 전혀 변화나 영향을 받지 않았음을 강조합니다.",
+      "grammar": "「has not been affected」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다. be + 과거분사도 이어져 수동의 뜻을 더합니다.",
+      "audio": "audio/1971-258/13.mp3",
+      "vocabulary": [
+        {
+          "word": "affected",
+          "meaning": "영향을 받다",
+          "note": "이 단어는 어떤 상태나 행동이 외부 요인에 의해 변화되었다는 의미를 담고 있습니다. 여기서는 부정적인 맥락에서 사용되어 전혀 영향을 받지 않았음을 나타냅니다."
+        },
+        {
+          "word": "whatsoever",
+          "meaning": "어떠한 것도",
+          "note": "이 표현은 완전한 부정을 나타내며, 어떤 방식이나 정도로도 영향을 받지 않았음을 강조합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "진정한 종교적 경험은 조직화하거나 가르칠 수 없으며 전달될 수도 없다. 체계화하려는 시도는 그것을 죽이는 것이다. 진정한 종교적 경험은 살아 숨 쉬고 역동적이어서 어떤 패턴을 강요하는 것이 불가능하며, 그 경험은 항상 독특하고 개인적이어서 어떤 범주로 분류할 수 없다; 다만 개인이 그러한 상태에 있지 않더라도 그러한 경험은 일어날 수 있다. 따라질 수 없으며, 각자 스스로 발견해야 하는 것이 그 아름다움이고 자유이며 순수함입니다. 이것은 옛 것에 대한 반대가 아니라, 영원함의 의미에서 새롭다. 즉, 영원히 신선하고 순수하다. 마치 모든 꽃이 새롭고 모든 일출이 새롭고 모든 사랑이 새롭듯이. 과거에서 빌려온 것이 아니며, 전통에 기반한 것도 아니고 외부에서 유래된 것도 아니며, 어떠한 인과관계 없이 내면에서 일어나는 것이다. 무조건적으로 일어난다. 마음과는 단절된 폭발이다. 하늘에 구름이 있어도 하늘을 볼 수 없지만, 인과 관계는 없다. 구름이 걷히고 하늘이 맑아졌어요.",
+    "그러나 인과관계는 없다. 하늘은 아직 구름조차 모르고 있다! 전혀 영향을 받지 않았습니다."
+  ],
+  "fullAudio": "audio/1971-258/script_all.mp3",
+  "originalText": "Love.\n\nThe real religious experience\ncannot be organized, taught or transmitted\nTo systematize it is to kill it.\nIt is so living and moving and dynamic\nthat to impose a pattern on it is impossible;\nand the experience is always so unique and individual\nthat it cannot be put into any category -\nalthough it happens when the individual is not.\nIt cannot be followed,\nfor everyone has to find it for himself,\nand that is the beauty of it,\nand also its freedom and virginity.\nIt is not new in the sense of any opposition to the old,\nit is new in the sense of timelessness -\nthat is, eternally fresh and innocent -\nas every flower is new\nand every sunrise is new\nand every love is new.\nIt is not borrowed from the past,\nit is not based on any tradition,\nit is not derived from without,\nit happens within,\nwithout any causality.\nIt happens unconditionally.\nIt is not continuous with the mind,\nit is a discontinuous explosion.\nThere are clouds in the sky\nand the sky cannot be seen,\nbut there is no causal chain.\nThe clouds have gone\nand the sky is clear\n\nbut there is no cause-and-effect relationship.\nThe sky has not even known the clouds!\nIt has not been affected by them in any way whatsoever.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 258,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0876 2.JPG",
+        "side": "right",
+        "printedPage": 203
+      },
+      {
+        "file": "IMG_0877 2.JPG",
+        "side": "left",
+        "printedPage": 204
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

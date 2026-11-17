@@ -1,0 +1,79 @@
+{
+  "key": "letter-361-part-01",
+  "number": 361,
+  "generationId": "01a1e918-9068-7cb6-b900-822c543f4b7d",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-361/01.mp3",
+      "start": 0.0,
+      "end": 0.590862
+    },
+    {
+      "index": 1,
+      "text": "Man is not the end but only the means.",
+      "path": "audio/1971-361/02.mp3",
+      "start": 1.822358,
+      "end": 4.358481
+    },
+    {
+      "index": 2,
+      "text": "Man is not really a being but only a tension between two planes of being.",
+      "path": "audio/1971-361/03.mp3",
+      "start": 5.627778,
+      "end": 9.913922999999999
+    },
+    {
+      "index": 3,
+      "text": "Man is only a bridge, that is why he cannot remain satisfied with himself.",
+      "path": "audio/1971-361/04.mp3",
+      "start": 11.145329,
+      "end": 15.280384999999999
+    },
+    {
+      "index": 4,
+      "text": "His heart is nothing but a continent of discontent and his very being is anguish.",
+      "path": "audio/1971-361/05.mp3",
+      "start": 16.561768999999998,
+      "end": 21.178073
+    },
+    {
+      "index": 5,
+      "text": "Religion is man's wish to pass beyond himself as he now is.",
+      "path": "audio/1971-361/06.mp3",
+      "start": 22.753809999999998,
+      "end": 27.082313000000003
+    },
+    {
+      "index": 6,
+      "text": "That is why I say man can never be irreligious; that is impossible.",
+      "path": "audio/1971-361/07.mp3",
+      "start": 28.408821,
+      "end": 32.271338
+    },
+    {
+      "index": 7,
+      "text": "He can pretend to be but he cannot be.",
+      "path": "audio/1971-361/08.mp3",
+      "start": 33.553333,
+      "end": 36.128594
+    },
+    {
+      "index": 8,
+      "text": "Religion is not something accidental or circumstantial, it is in the very nature of man: man is a religious animal And man is nothing if he is not a desire to transcend himself.",
+      "path": "audio/1971-361/09.mp3",
+      "start": 37.490317000000005,
+      "end": 50.310272
+    },
+    {
+      "index": 9,
+      "text": "He can go below himself, or he can go above, but he cannot remain himself.",
+      "path": "audio/1971-361/10.mp3",
+      "start": 51.8661,
+      "end": 58.17
+    }
+  ]
+}

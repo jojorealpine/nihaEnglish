@@ -1,0 +1,65 @@
+{
+  "key": "letter-179-part-01",
+  "number": 179,
+  "generationId": "01a1e8e6-d540-71b8-aa00-da8a890ed96f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-179/01.mp3",
+      "start": 0.0,
+      "end": 0.676621
+    },
+    {
+      "index": 1,
+      "text": "I have no special doctrine or philosophy, no set of concepts or intellectual formulas, but only certain irrational devices through which I can push you into the unknown.",
+      "path": "audio/1971-179/02.mp3",
+      "start": 2.042789,
+      "end": 13.721995
+    },
+    {
+      "index": 2,
+      "text": "I do not believe in any theories or any systems of thought, but I have faith in certain existential situations through which I can throw you into the unknown.",
+      "path": "audio/1971-179/03.mp3",
+      "start": 15.196009,
+      "end": 25.319728
+    },
+    {
+      "index": 3,
+      "text": "Intellectual understanding is not understanding at all but only a deception.",
+      "path": "audio/1971-179/04.mp3",
+      "start": 26.784375999999998,
+      "end": 31.99771
+    },
+    {
+      "index": 4,
+      "text": "Understanding is always of the total, of the whole being.",
+      "path": "audio/1971-179/05.mp3",
+      "start": 33.310839,
+      "end": 37.012040999999996
+    },
+    {
+      "index": 5,
+      "text": "Intellect is only a part, and that too a minor one, but it acts as the whole and thereby creates all sorts of stupidities.",
+      "path": "audio/1971-179/06.mp3",
+      "start": 38.490295,
+      "end": 47.19322
+    },
+    {
+      "index": 6,
+      "text": "Do not be identified with your intellect.",
+      "path": "audio/1971-179/07.mp3",
+      "start": 48.740317000000005,
+      "end": 51.155102
+    },
+    {
+      "index": 7,
+      "text": "Dissolve it into the whole of your being, and then you will know what understanding is - and the bliss and the ecstasy that follow it inevitably.",
+      "path": "audio/1971-179/08.mp3",
+      "start": 52.527166,
+      "end": 61.52
+    }
+  ]
+}

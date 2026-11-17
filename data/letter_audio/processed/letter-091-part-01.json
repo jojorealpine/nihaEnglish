@@ -1,0 +1,37 @@
+{
+  "key": "letter-091-part-01",
+  "number": 91,
+  "generationId": "01a1e631-2ac2-76e1-a11d-020501ded265",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-91/01.mp3",
+      "start": 0.0,
+      "end": 0.691519
+    },
+    {
+      "index": 1,
+      "text": "How much longer will you go on letting your energy sleep?",
+      "path": "audio/1970-91/02.mp3",
+      "start": 2.071383,
+      "end": 5.613764
+    },
+    {
+      "index": 2,
+      "text": "How much longer are you going to stay oblivious of the immensity of your self?",
+      "path": "audio/1970-91/03.mp3",
+      "start": 7.014875,
+      "end": 11.528481
+    },
+    {
+      "index": 3,
+      "text": "Don't waste time in conflict, lose no time in doubt - time can never be recovered, and if you miss an opportunity it may take many lives before another comes your way again.",
+      "path": "audio/1970-91/04.mp3",
+      "start": 12.934331,
+      "end": 26.04
+    }
+  ]
+}

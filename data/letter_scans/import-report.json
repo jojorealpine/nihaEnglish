@@ -1,0 +1,448 @@
+{
+  "sourceImages": 148,
+  "recognizedPages": 288,
+  "lettersCreated": 358,
+  "firstLetter": 8,
+  "lastLetter": 365,
+  "skippedPages": [
+    {
+      "file": "IMG_0784 2.JPG",
+      "side": "left",
+      "reason": "duplicate scan",
+      "duplicateOf": "IMG_0783 2.JPG"
+    },
+    {
+      "file": "IMG_0784 2.JPG",
+      "side": "right",
+      "reason": "duplicate scan",
+      "duplicateOf": "IMG_0783 2.JPG"
+    },
+    {
+      "file": "IMG_0795 2.JPG",
+      "side": "left",
+      "reason": "duplicate scan",
+      "duplicateOf": "IMG_0794 2.JPG"
+    },
+    {
+      "file": "IMG_0795 2.JPG",
+      "side": "right",
+      "reason": "duplicate scan",
+      "duplicateOf": "IMG_0794 2.JPG"
+    },
+    {
+      "file": "IMG_0918 2.JPG",
+      "side": "left",
+      "reason": "back matter"
+    },
+    {
+      "file": "IMG_0918 2.JPG",
+      "side": "right",
+      "reason": "back matter"
+    },
+    {
+      "file": "IMG_0919 2.JPG",
+      "side": "left",
+      "reason": "back matter"
+    },
+    {
+      "file": "IMG_0919 2.JPG",
+      "side": "right",
+      "reason": "back matter"
+    },
+    {
+      "file": "IMG_0920 2.JPG",
+      "side": "left",
+      "reason": "back matter"
+    },
+    {
+      "file": "IMG_0920 2.JPG",
+      "side": "right",
+      "reason": "back matter"
+    },
+    {
+      "file": "IMG_0921 2.JPG",
+      "side": "left",
+      "reason": "back matter"
+    },
+    {
+      "file": "IMG_0921 2.JPG",
+      "side": "right",
+      "reason": "back matter"
+    }
+  ],
+  "corrections": [
+    {
+      "file": "IMG_0774 2.JPG",
+      "side": "single",
+      "printedPage": 10,
+      "letter": 8,
+      "before": "were canceled",
+      "after": "were canceled."
+    },
+    {
+      "file": "IMG_0774 2.JPG",
+      "side": "single",
+      "printedPage": 10,
+      "letter": 9,
+      "before": "becomes one day the attainment",
+      "after": "becomes one day the attainment."
+    },
+    {
+      "file": "IMG_0774 2.JPG",
+      "side": "single",
+      "printedPage": 10,
+      "letter": 9,
+      "before": "As rivers seck out the ocean",
+      "after": "As rivers seek out the ocean"
+    },
+    {
+      "file": "IMG_0775 2.JPG",
+      "side": "single",
+      "printedPage": 11,
+      "letter": 9,
+      "before": "Truth is where the l is not -",
+      "after": "Truth is where the I is not -"
+    },
+    {
+      "file": "IMG_0779 2.JPG",
+      "side": "single",
+      "printedPage": 15,
+      "letter": 13,
+      "before": "With the attainment of samadbi,",
+      "after": "With the attainment of samadhi,"
+    },
+    {
+      "file": "IMG_0779 2.JPG",
+      "side": "single",
+      "printedPage": 15,
+      "letter": 13,
+      "before": "True sadbana is not just ethical,",
+      "after": "True sadhana is not just ethical,"
+    },
+    {
+      "file": "IMG_0785 2.JPG",
+      "side": "right",
+      "printedPage": 23,
+      "letter": 22,
+      "before": "so l am doing so.",
+      "after": "so I am doing so."
+    },
+    {
+      "file": "IMG_0787 2.JPG",
+      "side": "right",
+      "printedPage": 27,
+      "letter": 29,
+      "before": "so l am hoping you can come.",
+      "after": "so I am hoping you can come."
+    },
+    {
+      "file": "IMG_0792 2.JPG",
+      "side": "right",
+      "printedPage": 37,
+      "letter": 42,
+      "before": "Brabmacharya is a complete science in itself",
+      "after": "Brahmacharya is a complete science in itself"
+    },
+    {
+      "file": "IMG_0793 2.JPG",
+      "side": "left",
+      "printedPage": null,
+      "letter": 43,
+      "before": "1 am glad to know",
+      "after": "I am glad to know"
+    },
+    {
+      "file": "IMG_0800 2.JPG",
+      "side": "left",
+      "printedPage": 50,
+      "letter": 55,
+      "before": "but in sin too l am a partner;",
+      "after": "but in sin too I am a partner;"
+    },
+    {
+      "file": "IMG_0802 2.JPG",
+      "side": "right",
+      "printedPage": 55,
+      "letter": 62,
+      "before": "For in seeking, the secker is present.",
+      "after": "For in seeking, the seeker is present."
+    },
+    {
+      "file": "IMG_0806 2.JPG",
+      "side": "right",
+      "printedPage": 63,
+      "letter": 74,
+      "before": "Livel Isn't living itself enough?",
+      "after": "Live! Isn't living itself enough?"
+    },
+    {
+      "file": "IMG_0807 2.JPG",
+      "side": "right",
+      "printedPage": 65,
+      "letter": 75,
+      "before": "Life is always bere and now",
+      "after": "Life is always here and now"
+    },
+    {
+      "file": "IMG_0807 2.JPG",
+      "side": "right",
+      "printedPage": 65,
+      "letter": 75,
+      "before": "so l do not bother about past and future.",
+      "after": "so I do not bother about past and future."
+    },
+    {
+      "file": "IMG_0808 2.JPG",
+      "side": "left",
+      "printedPage": 66,
+      "letter": 76,
+      "before": "Therefore melodies do not satisty,",
+      "after": "Therefore melodies do not satisfy,"
+    },
+    {
+      "file": "IMG_0812 2.JPG",
+      "side": "right",
+      "printedPage": 75,
+      "letter": 92,
+      "before": "Look, look at lite.",
+      "after": "Look, look at life."
+    },
+    {
+      "file": "IMG_0815 2.JPG",
+      "side": "right",
+      "printedPage": null,
+      "letter": 102,
+      "before": "they do nof affect you",
+      "after": "they do not affect you"
+    },
+    {
+      "file": "IMG_0823 2.JPG",
+      "side": "left",
+      "printedPage": 96,
+      "letter": 123,
+      "before": "remember, then said: Yesterday I knew, but right now l",
+      "after": "remember, then said: Yesterday I knew, but right now I"
+    },
+    {
+      "file": "IMG_0823 2.JPG",
+      "side": "right",
+      "printedPage": 97,
+      "letter": 124,
+      "before": "because l am against any sort of commandment.",
+      "after": "because I am against any sort of commandment."
+    },
+    {
+      "file": "IMG_0828 2.JPG",
+      "side": "right",
+      "printedPage": 107,
+      "letter": 137,
+      "before": "Kabir stands in the marketplace, torch in band.",
+      "after": "Kabir stands in the marketplace, torch in hand."
+    },
+    {
+      "file": "IMG_0848 2.JPG",
+      "side": "left",
+      "printedPage": 146,
+      "letter": 185,
+      "before": "on the contrary, you are the only bindrance.",
+      "after": "on the contrary, you are the only hindrance."
+    },
+    {
+      "file": "IMG_0848 2.JPG",
+      "side": "right",
+      "printedPage": 147,
+      "letter": 186,
+      "before": "but an experience bere and now.",
+      "after": "but an experience here and now."
+    },
+    {
+      "file": "IMG_0861 2.JPG",
+      "side": "right",
+      "printedPage": 173,
+      "letter": 218,
+      "before": "from the shores of the known to the sbores",
+      "after": "from the shores of the known to the shores"
+    },
+    {
+      "file": "IMG_0874 2.JPG",
+      "side": "right",
+      "printedPage": 199,
+      "letter": 252,
+      "before": "and likewise lite.",
+      "after": "and likewise life."
+    },
+    {
+      "file": "IMG_0887 2.JPG",
+      "side": "left",
+      "printedPage": null,
+      "letter": 288,
+      "before": "Thave always been with you",
+      "after": "I have always been with you"
+    },
+    {
+      "file": "IMG_0911 2.JPG",
+      "side": "right",
+      "printedPage": 273,
+      "letter": 346,
+      "before": "Be playlul.",
+      "after": "Be playful."
+    },
+    {
+      "file": "IMG_0917 2.JPG",
+      "side": "left",
+      "printedPage": 284,
+      "letter": 364,
+      "before": "The talse you walks, stands and sits,",
+      "after": "The false you walks, stands and sits,"
+    },
+    {
+      "file": "IMG_0917 2.JPG",
+      "side": "left",
+      "printedPage": 284,
+      "letter": 364,
+      "before": "it is always bere and now.",
+      "after": "it is always here and now."
+    }
+  ],
+  "reviewCandidates": [
+    {
+      "file": "IMG_0774 2.JPG",
+      "side": "single",
+      "printedPage": 10,
+      "letter": 8,
+      "text": "samadhi yoga.",
+      "confidence": 0.5,
+      "reviewStatus": "verified-against-scan"
+    },
+    {
+      "file": "IMG_0777 2.JPG",
+      "side": "single",
+      "printedPage": 13,
+      "letter": 11,
+      "text": "Muni Shri Nathamaljee and others",
+      "confidence": 0.5,
+      "reviewStatus": "verified-against-scan"
+    },
+    {
+      "file": "IMG_0777 2.JPG",
+      "side": "single",
+      "printedPage": 13,
+      "letter": 12,
+      "text": "Burhanpur, Hoshangabad, Chanda",
+      "confidence": 0.5,
+      "reviewStatus": "verified-against-scan"
+    },
+    {
+      "file": "IMG_0841 2.JPG",
+      "side": "right",
+      "printedPage": 133,
+      "letter": 169,
+      "text": "Po-Hun Wu-Jen said:",
+      "confidence": 0.5,
+      "reviewStatus": "verified-against-scan"
+    },
+    {
+      "file": "IMG_0853 2.JPG",
+      "side": "left",
+      "printedPage": 156,
+      "letter": 198,
+      "text": "(no-selfhood).",
+      "confidence": 0.5,
+      "reviewStatus": "verified-against-scan"
+    },
+    {
+      "file": "IMG_0856 2.JPG",
+      "side": "left",
+      "printedPage": 162,
+      "letter": 206,
+      "text": "Ego is a Leibnizian monad",
+      "confidence": 0.5,
+      "reviewStatus": "verified-against-scan"
+    },
+    {
+      "file": "IMG_0857 2.JPG",
+      "side": "right",
+      "printedPage": 165,
+      "letter": 210,
+      "text": "Mulla Nasrudin's tomb",
+      "confidence": 0.5,
+      "reviewStatus": "verified-against-scan"
+    },
+    {
+      "file": "IMG_0867 2.JPG",
+      "side": "left",
+      "printedPage": 184,
+      "letter": 231,
+      "text": "said Sekkyo.",
+      "confidence": 0.5,
+      "reviewStatus": "verified-against-scan"
+    },
+    {
+      "file": "IMG_0868 2.JPG",
+      "side": "left",
+      "printedPage": 186,
+      "letter": 234,
+      "text": "A monk asked Hyakujo Yekai:",
+      "confidence": 0.5,
+      "reviewStatus": "verified-against-scan"
+    },
+    {
+      "file": "IMG_0869 2.JPG",
+      "side": "right",
+      "printedPage": 189,
+      "letter": 239,
+      "text": "with Bahaudin.",
+      "confidence": 0.5,
+      "reviewStatus": "verified-against-scan"
+    },
+    {
+      "file": "IMG_0876 2.JPG",
+      "side": "right",
+      "printedPage": 203,
+      "letter": 257,
+      "text": "said Nasrudin.",
+      "confidence": 0.5,
+      "reviewStatus": "verified-against-scan"
+    },
+    {
+      "file": "IMG_0896 2.JPG",
+      "side": "right",
+      "printedPage": 243,
+      "letter": 315,
+      "text": "Kusunoki Masashige came to a Zen monastery",
+      "confidence": 0.5,
+      "reviewStatus": "verified-against-scan"
+    },
+    {
+      "file": "IMG_0904 2.JPG",
+      "side": "left",
+      "printedPage": 258,
+      "letter": 333,
+      "text": "moksha or nirvana -",
+      "confidence": 0.5,
+      "reviewStatus": "verified-against-scan"
+    },
+    {
+      "file": "IMG_0907 2.JPG",
+      "side": "left",
+      "printedPage": 264,
+      "letter": 338,
+      "text": "the I-am-not-ness.",
+      "confidence": 0.5,
+      "reviewStatus": "verified-against-scan"
+    },
+    {
+      "file": "IMG_0911 2.JPG",
+      "side": "right",
+      "printedPage": 273,
+      "letter": 346,
+      "text": "Be playful.",
+      "confidence": 0.5,
+      "reviewStatus": "verified-against-scan"
+    }
+  ],
+  "unresolvedReviewCandidates": 0,
+  "scope": "English transcription only; no translations, study notes or audio generated",
+  "ocrSHA256": "38b6b9a3b2501c23fbf7b380b6b3cafc071273fa45b07beda92e04decf849abd",
+  "totalSentences": 3899
+}

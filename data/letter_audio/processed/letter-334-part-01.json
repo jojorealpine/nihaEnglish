@@ -1,0 +1,51 @@
+{
+  "key": "letter-334-part-01",
+  "number": 334,
+  "generationId": "01a1e911-e163-78dd-858a-ded46fc124fe",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love",
+      "path": "audio/1971-334/01.mp3",
+      "start": 0.0,
+      "end": 0.663107
+    },
+    {
+      "index": 1,
+      "text": "A life without meditation is like a winter landscape with the sun hidden, the flowers frozen and the wind whispering through the withered leaves.",
+      "path": "audio/1971-334/02.mp3",
+      "start": 2.0264629999999997,
+      "end": 10.859751
+    },
+    {
+      "index": 2,
+      "text": "And everyone knows it because everyone lives it that way, though no one needs to live it that way.",
+      "path": "audio/1971-334/03.mp3",
+      "start": 12.327483,
+      "end": 18.206054
+    },
+    {
+      "index": 3,
+      "text": "But why is this so?",
+      "path": "audio/1971-334/04.mp3",
+      "start": 19.72449,
+      "end": 21.107143
+    },
+    {
+      "index": 4,
+      "text": "This is so because life's needs require an occupied mind and meditation means being unoccupied We train ourselves to be occupied and then forget that one needs to be unoccupied sometimes to know the ecstasy of sheer existence.",
+      "path": "audio/1971-334/05.mp3",
+      "start": 22.627437999999998,
+      "end": 37.257799999999996
+    },
+    {
+      "index": 5,
+      "text": "One is to be totally vacant inside because only then is one a host to the divine guest.",
+      "path": "audio/1971-334/06.mp3",
+      "start": 38.621179000000005,
+      "end": 46.52
+    }
+  ]
+}

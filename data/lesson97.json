@@ -1,0 +1,380 @@
+{
+  "id": "1970-97",
+  "title": "1970 / 97",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "traveling",
+      "meaning": "여행 중",
+      "note": "이 문맥에서는 「여행 중」의 뜻으로 읽습니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "return",
+      "meaning": "돌아오다",
+      "note": "여행 후 원래의 장소로 돌아오는 행동을 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "friends",
+      "meaning": "친구들",
+      "note": "특정 단체나 그룹과 관련된 사람들을 가리킵니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "working",
+      "meaning": "일하기",
+      "note": "특정 조직이나 그룹에서 활동하거나 일하는 것을 의미합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "rules",
+      "meaning": "규칙",
+      "note": "일반적인 상황에서 적용되는 규범이나 절차를 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "revolution",
+      "meaning": "혁명",
+      "note": "기존 질서나 체제에 대한 근본적인 변화나 변혁을 의미합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "awakening",
+      "meaning": "깨달음",
+      "note": "깊은 인식이나 깨달음의 순간을 의미한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "understanding",
+      "meaning": "이해",
+      "note": "어떤 개념이나 상황에 대한 명확한 인식이나 지식을 의미한다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "scientific",
+      "meaning": "과학적인",
+      "note": "체계적인 관찰, 실험, 분석을 통해 얻어진 지식이나 방법론을 나타낸다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "meet",
+      "meaning": "만나다",
+      "note": "이번 방문을 통해 직접적으로 만남을 요청하는 표현",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "time",
+      "meaning": "기회",
+      "note": "특정 상황이나 방문의 적절한 시기를 강조",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fine",
+      "meaning": "괜찮은, 정상적인",
+      "note": "일반적으로 상태나 조건이 문제 없이 좋음을 의미하며, 여기서는 전반적인 상황이나 상태가 문제 없이 잘 유지되고 있음을 나타냅니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "regards",
+      "meaning": "인사나 안부",
+      "note": "이 단어는 주로 편지나 메시지에서 상대방에게 친절하고 정중한 인사를 전달할 때 사용됩니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2,
+      3,
+      4
+    ],
+    [
+      5,
+      6,
+      7
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-97/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "I was traveling, then on my return, there was your letter.",
+      "korean": "여행 중에 돌아왔을 때 네 편지가 있었어.",
+      "explanation": "여행 중에 돌아오면서 받은 편지에 대한 내용을 전달합니다.",
+      "grammar": "「there was」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 was는 be동사의 과거형입니다.",
+      "audio": "audio/1970-97/02.mp3",
+      "vocabulary": [
+        {
+          "word": "traveling",
+          "meaning": "여행 중",
+          "note": "이 문맥에서는 「여행 중」의 뜻으로 읽습니다."
+        },
+        {
+          "word": "return",
+          "meaning": "돌아오다",
+          "note": "여행 후 원래의 장소로 돌아오는 행동을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "You can meet friends of Jeevan Jagruti Kendra and begin working for Yuvak Kranti Dal (Revolutionary Youth Force).",
+      "korean": "jeevan jagruti kendra의 친구들을 만날 수 있고, yuvak kranti dal (혁명적 청년 운동대)에서 일하기 시작할 수 있습니다.",
+      "explanation": "편지 작성자가 Jeevan Jagruti Kendra의 친구들을 만날 기회와 함께 Yuvak Kranti Dal에서 활동을 시작할 수 있음을 제안합니다.",
+      "grammar": "「can meet」에서 조동사 can 뒤에 동사원형 「meet」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1970-97/03.mp3",
+      "vocabulary": [
+        {
+          "word": "friends",
+          "meaning": "친구들",
+          "note": "특정 단체나 그룹과 관련된 사람들을 가리킵니다."
+        },
+        {
+          "word": "working",
+          "meaning": "일하기",
+          "note": "특정 조직이나 그룹에서 활동하거나 일하는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "There are no rules about it - there can never be rules in revolution.",
+      "korean": "혁명에는 규칙이 없어 - 혁명에는 결코 규칙이 생길 수 없어.",
+      "explanation": "혁명 상황에서는 규칙이 적용되지 않으며, 규칙이 존재할 수 없다는 의미를 전달합니다.",
+      "grammar": "「can never be」에서 조동사 can 뒤에 동사원형 「be」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1970-97/04.mp3",
+      "vocabulary": [
+        {
+          "word": "rules",
+          "meaning": "규칙",
+          "note": "일반적인 상황에서 적용되는 규범이나 절차를 의미합니다."
+        },
+        {
+          "word": "revolution",
+          "meaning": "혁명",
+          "note": "기존 질서나 체제에 대한 근본적인 변화나 변혁을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "There needs to be an awakening of understanding among the youth, with scientific studies replacing blind faith - this is all I wish for.",
+      "korean": "젊은이들 사이에 과학적 연구가 맹목적인 믿음을 대체하는 깨달음이 필요하다. 이것이 내가 바라는 전부이다.",
+      "explanation": "젊은이들 사이에서 과학적 방법론을 통한 깨달음과 이해가 맹목적인 믿음을 대체해야 한다는 소망을 표현하고 있다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-97/05.mp3",
+      "vocabulary": [
+        {
+          "word": "awakening",
+          "meaning": "깨달음",
+          "note": "깊은 인식이나 깨달음의 순간을 의미한다."
+        },
+        {
+          "word": "understanding",
+          "meaning": "이해",
+          "note": "어떤 개념이나 상황에 대한 명확한 인식이나 지식을 의미한다."
+        },
+        {
+          "word": "scientific",
+          "meaning": "과학적인",
+          "note": "체계적인 관찰, 실험, 분석을 통해 얻어진 지식이나 방법론을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Do meet me this time when I come to Indore.",
+      "korean": "이번에 인디오르에 가면 꼭 만나요.",
+      "explanation": "이번 방문 기회에 만남을 갖기를 바라는 의미",
+      "grammar": "동사원형 「meet」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-97/06.mp3",
+      "vocabulary": [
+        {
+          "word": "meet",
+          "meaning": "만나다",
+          "note": "이번 방문을 통해 직접적으로 만남을 요청하는 표현"
+        },
+        {
+          "word": "time",
+          "meaning": "기회",
+          "note": "특정 상황이나 방문의 적절한 시기를 강조"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Everything is fine.",
+      "korean": "모든 것이 괜찮아요.",
+      "explanation": "문장의 의미: 상황이나 상태가 문제 없이 정상적임을 나타냄",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-97/07.mp3",
+      "vocabulary": [
+        {
+          "word": "fine",
+          "meaning": "괜찮은, 정상적인",
+          "note": "일반적으로 상태나 조건이 문제 없이 좋음을 의미하며, 여기서는 전반적인 상황이나 상태가 문제 없이 잘 유지되고 있음을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "My regards to everyone there.",
+      "korean": "그곳의 모든 분들께 인사드립니다.",
+      "explanation": "인사나 안부를 전하는 문장으로, 영어의 'My regards to everyone there'를 한국어로 자연스럽게 표현한 것입니다.",
+      "grammar": "명사 「regards」를 중심으로 한 짧은 표현입니다. 완전한 서술문에 필요한 정형동사 없이, 문맥에 기대어 인사·강조·보충 내용을 전합니다.",
+      "audio": "audio/1970-97/08.mp3",
+      "vocabulary": [
+        {
+          "word": "regards",
+          "meaning": "인사나 안부",
+          "note": "이 단어는 주로 편지나 메시지에서 상대방에게 친절하고 정중한 인사를 전달할 때 사용됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "여행 중에 돌아왔을 때 네 편지가 있었어.",
+    "jeevan jagruti kendra의 친구들을 만날 수 있고, yuvak kranti dal (혁명적 청년 운동대)에서 일하기 시작할 수 있습니다. 혁명에는 규칙이 없어 - 혁명에는 결코 규칙이 생길 수 없어. 젊은이들 사이에 과학적 연구가 맹목적인 믿음을 대체하는 깨달음이 필요하다. 이것이 내가 바라는 전부이다.",
+    "이번에 인디오르에 가면 꼭 만나요. 모든 것이 괜찮아요. 그곳의 모든 분들께 인사드립니다."
+  ],
+  "fullAudio": "audio/1970-97/script_all.mp3",
+  "originalText": "Love.\n\nI was traveling, then on my return, there was your letter.\n\nYou can meet friends of Jeevan Jagruti Kendra and begin\nworking for Yuvak Kranti Dal (Revolutionary Youth\nForce).\nThere are no rules about it - there can never be rules in\nrevolution.\nThere needs to be an awakening of understanding among\nthe youth, with scientific studies replacing blind faith -\nthis is all I wish for.\n\nDo meet me this time when I come to Indore.\nEverything is fine.\nMy regards to everyone there.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 97,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0813 2.JPG",
+        "side": "right",
+        "printedPage": 77
+      },
+      {
+        "file": "IMG_0814 2.JPG",
+        "side": "left",
+        "printedPage": 78
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

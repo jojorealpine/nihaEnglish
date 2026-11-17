@@ -1,0 +1,1282 @@
+{
+  "id": "1971-344",
+  "title": "1971 / 344",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Meditation",
+      "meaning": "명상",
+      "note": "마음의 평온을 찾고 정신적 집중을 높이는 행위",
+      "sentenceIds": [
+        2,
+        27
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "master",
+      "meaning": "최고의",
+      "note": "가장 중요하거나 우월한 것을 나타냄",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "infinite",
+      "meaning": "무한한",
+      "note": "여기서는 끝이 없는, 무한한 차원이나 개념을 가리킵니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "mystery",
+      "meaning": "비밀",
+      "note": "알려지지 않은 것, 이해하기 어려운 것을 의미합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "possessing",
+      "meaning": "소유하다",
+      "note": "이 문맥에서는 단순히 소유하는 행위를 강조하며, 실제 활용이나 사용이 필요함을 시사한다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "attained",
+      "meaning": "얻다, 획득하다",
+      "note": "어떠한 성과나 이득을 얻는 것을 의미하며, 여기서는 열쇠를 사용하지 않으면 얻을 수 없다는 점을 나타낸다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Idries",
+      "meaning": "이드리스 (이름)",
+      "note": "이야기를 전하는 인물의 이름입니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "dervish",
+      "meaning": "수행자, 수도사",
+      "note": "이야기의 맥락에서는 특정 종교적 또는 영적 수행을 하는 사람을 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "said",
+      "meaning": "말했다",
+      "note": "직접적인 발화 행위를 나타냄",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "jewelled",
+      "meaning": "보석으로 장식된",
+      "note": "반지가 보석으로 장식되어 있다는 것을 강조함",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "successor",
+      "meaning": "후계자",
+      "note": "특정 지위나 역할을 이어받는 사람을 의미한다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "posterity",
+      "meaning": "후대",
+      "note": "미래 세대나 후손을 가리키며, 장기적으로 유산을 전달하라는 의미를 담고 있다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "appearance",
+      "meaning": "모습",
+      "note": "문장에서 물건의 외형적 아름다움이나 외관을 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "capacity",
+      "meaning": "능력",
+      "note": "여기서는 물건이나 상태가 제공하는 부가적인 가치나 기회를 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "years",
+      "meaning": "년",
+      "note": "시간의 흐름을 나타내며, 얼마나 지났는지를 구체적으로 표현한다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "later",
+      "meaning": "후에",
+      "note": "특정 사건이나 상황이 발생한 시점을 나타내며, 시간적 순서를 명확히 한다.",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "wise",
+      "meaning": "지혜로운",
+      "note": "이 단어는 지혜와 통찰력이 뛰어난 사람을 묘사한다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "advice",
+      "meaning": "조언",
+      "note": "특정 상황에서 도움이 되는 지침이나 추천을 의미한다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thing",
+      "meaning": "일, 사건",
+      "note": "여기서는 특정 사건이나 상황을 가리킵니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "happened",
+      "meaning": "발생했다",
+      "note": "과거에 일어난 사건이나 상황을 나타냅니다.",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "claimed",
+      "meaning": "주장하다",
+      "note": "자신의 권리를 주장하거나 요구하는 행동을 나타냅니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "primacy",
+      "meaning": "최고 지위",
+      "note": "가장 높은 지위나 권위를 의미합니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "possession",
+      "meaning": "소유",
+      "note": "특정 물건이나 권리를 가지고 있음을 나타냅니다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "certain",
+      "meaning": "확실한",
+      "note": "확신이나 확실성을 나타냄",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "valuable",
+      "meaning": "가치 있는",
+      "note": "높은 가치나 중요성을 가짐을 의미함",
+      "sentenceIds": [
+        13
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "adherents",
+      "meaning": "추종자",
+      "note": "특정 인물이나 이념을 따르는 사람들",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "claiming",
+      "meaning": "주장하다",
+      "note": "자신의 의견이나 사실을 강조하거나 주장하는 행위",
+      "sentenceIds": [
+        14
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "remained",
+      "meaning": "계속되었다",
+      "note": "상태나 상황이 변하지 않고 유지되었다는 의미",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "possessors",
+      "meaning": "소유자들",
+      "note": "특정 물건이나 권리를 가지고 있는 사람들",
+      "sentenceIds": [
+        15
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "supporters",
+      "meaning": "지지자들",
+      "note": "특정 인물이나 이념을 지지하고 돕는 사람들",
+      "sentenceIds": [
+        15,
+        23
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "preoccupied",
+      "meaning": "집중하다, 몰두하다",
+      "note": "이 단어는 사람들이 특정 생각이나 문제에 정신적으로 몰입해 있다는 것을 나타낸다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "precedence",
+      "meaning": "우선권, 전례",
+      "note": "여기서는 사회적 지위나 특권을 나타내는 상징물에 대한 경쟁을 의미한다.",
+      "sentenceIds": [
+        16
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "looked",
+      "meaning": "찾아보다, 관심을 갖다",
+      "note": "여기서는 특정 장소로 향하려는 행동이나 의지를 나타냅니다.",
+      "sentenceIds": [
+        17
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "treasury",
+      "meaning": "보물고, 금고",
+      "note": "주로 귀중한 물건이나 보물을 보관하는 장소를 의미합니다.",
+      "sentenceIds": [
+        17,
+        19,
+        21
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "magical",
+      "meaning": "신비로운, 마법 같은",
+      "note": "반지들이 평범하지 않고 특별한 힘이나 매력을 지녔음을 강조합니다.",
+      "sentenceIds": [
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "quality",
+      "meaning": "특성, 질",
+      "note": "반지들이 지닌 독특하고 매력적인 특징을 지칭합니다.",
+      "sentenceIds": [
+        18
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "directly",
+      "meaning": "직접적으로",
+      "note": "보통적인 방법이나 과정을 거치지 않고 바로 행동하는 것을 나타냄.",
+      "sentenceIds": [
+        19
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sufficient",
+      "meaning": "충분한",
+      "note": "여기서는 관찰이나 가치 판단에 있어 충분한 정도를 의미한다.",
+      "sentenceIds": [
+        20
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "producing",
+      "meaning": "제시하다",
+      "note": "여기서는 반지의 윤곽을 보여주는 행위를 의미합니다.",
+      "sentenceIds": [
+        21
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "outline",
+      "meaning": "윤곽",
+      "note": "기본적인 형태나 모양을 나타내는 것을 의미합니다.",
+      "sentenceIds": [
+        21
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "treasuries",
+      "meaning": "금고들",
+      "note": "여기서는 보물이나 자금을 보관하는 장소를 의미한다.",
+      "sentenceIds": [
+        22
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "inexhaustible",
+      "meaning": "무궁무진한",
+      "note": "자원이나 자금이 무한히 남아 있다는 의미로, 고갈되지 않는다는 뉘앙스를 담고 있다.",
+      "sentenceIds": [
+        22
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ancestors",
+      "meaning": "조상들",
+      "note": "이전 세대의 조상들",
+      "sentenceIds": [
+        23
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "different",
+      "meaning": "다른",
+      "note": "각기 다른 방식으로 이야기를 전달함",
+      "sentenceIds": [
+        23
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "community",
+      "meaning": "공동체",
+      "note": "특정 집단이나 모임을 가리킵니다.",
+      "sentenceIds": [
+        24
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "treasure",
+      "meaning": "보물",
+      "note": "가치 있는 물건이나 자원을 의미합니다.",
+      "sentenceIds": [
+        24
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "allegorical",
+      "meaning": "상징적인",
+      "note": "직접적인 의미보다는 비유적이고 상징적인 의미를 지닙니다.",
+      "sentenceIds": [
+        24
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "transferred",
+      "meaning": "넘겨주었다",
+      "note": "현재의 책임이나 기회를 미래로 미루는 의미",
+      "sentenceIds": [
+        25
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "possibility",
+      "meaning": "가능성",
+      "note": "문을 열 수 있는 기회나 가능성",
+      "sentenceIds": [
+        25,
+        26
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "imaginable",
+      "meaning": "상상할 수 있는",
+      "note": "먼 미래라는 추상적이고 상상 속의 시점을 나타냄",
+      "sentenceIds": [
+        25
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "belong",
+      "meaning": "속하다",
+      "note": "특정 그룹이나 범주에 포함되거나 관련되어 있다는 의미입니다.",
+      "sentenceIds": [
+        26
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "communities",
+      "meaning": "공동체",
+      "note": "공동의 가치나 목표를 가진 사람들의 모임을 의미합니다.",
+      "sentenceIds": [
+        26
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "tricks",
+      "meaning": "속임수, 방법",
+      "note": "여기서는 마음이 사용하는 전략이나 방법을 의미한다.",
+      "sentenceIds": [
+        27,
+        28
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "beware",
+      "meaning": "주의하라, 조심하라",
+      "note": "위험이나 잘못된 행동을 경고하는 의미로 사용되었습니다.",
+      "sentenceIds": [
+        28
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "expression": "distant and remotely imaginable future",
+      "meaning": "먼 미래",
+      "explanation": "현재와 멀리 떨어진, 상상 속의 미래 시점을 의미함",
+      "sentenceIds": [
+        25
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      4,
+      5,
+      6,
+      7
+    ],
+    [
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    [
+      16,
+      17,
+      18,
+      19
+    ],
+    [
+      20,
+      21
+    ],
+    [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-344/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "Meditation is the master key.",
+      "korean": "명상은 최고의 열쇠입니다.",
+      "explanation": "명상이 다른 모든 것을 이해하고 통제하는 데 가장 중요한 방법임을 강조합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-344/02.mp3",
+      "vocabulary": [
+        {
+          "word": "Meditation",
+          "meaning": "명상",
+          "note": "마음의 평온을 찾고 정신적 집중을 높이는 행위"
+        },
+        {
+          "word": "master",
+          "meaning": "최고의",
+          "note": "가장 중요하거나 우월한 것을 나타냄"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "It can open the doors of the infinite and it can unlock the mystery of the unknown.",
+      "korean": "무한의 문을 열고 미지의 비밀을 풀 수 있다.",
+      "explanation": "명상이 무한의 세계로의 접근과 알려지지 않은 것들의 비밀을 이해하는 열쇠가 될 수 있다는 의미",
+      "grammar": "「can open」에서 조동사 can 뒤에 동사원형 「open」가 옵니다. can은 문맥에 따라 가능·능력 등을 나타냅니다.",
+      "audio": "audio/1971-344/03.mp3",
+      "vocabulary": [
+        {
+          "word": "infinite",
+          "meaning": "무한한",
+          "note": "여기서는 끝이 없는, 무한한 차원이나 개념을 가리킵니다."
+        },
+        {
+          "word": "mystery",
+          "meaning": "비밀",
+          "note": "알려지지 않은 것, 이해하기 어려운 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "But just by possessing the key nothing is attained, unless one uses it.",
+      "korean": "단지 열쇠를 가지고 있다고 해서 얻는 것이 없고, 사용하지 않는 한 아무것도 얻지 못한다.",
+      "explanation": "열쇠를 소유하더라도 실제로 활용하지 않는 한 어떠한 성과나 이득도 얻지 못한다는 의미",
+      "grammar": "「is attained」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-344/04.mp3",
+      "vocabulary": [
+        {
+          "word": "possessing",
+          "meaning": "소유하다",
+          "note": "이 문맥에서는 단순히 소유하는 행위를 강조하며, 실제 활용이나 사용이 필요함을 시사한다."
+        },
+        {
+          "word": "attained",
+          "meaning": "얻다, 획득하다",
+          "note": "어떠한 성과나 이득을 얻는 것을 의미하며, 여기서는 열쇠를 사용하지 않으면 얻을 수 없다는 점을 나타낸다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "Idries Shah tells a dervish tale: There was once a wise and very rich man who had a son.",
+      "korean": "이드리스 샤는 한 이야기꾼의 이야기를 전합니다: 옛날에 지혜롭고 매우 부유한 남자가 있었는데, 그에게 아들이 있었습니다.",
+      "explanation": "이드리스 샤가 전해주는 한 이야기의 시작 부분으로, 주인공이 지혜롭고 부유한 남성이며 그에게 아들이 있다는 내용을 전달합니다.",
+      "grammar": "「There was」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 was는 be동사의 과거형입니다.",
+      "audio": "audio/1971-344/05.mp3",
+      "vocabulary": [
+        {
+          "word": "Idries",
+          "meaning": "이드리스 (이름)",
+          "note": "이야기를 전하는 인물의 이름입니다."
+        },
+        {
+          "word": "dervish",
+          "meaning": "수행자, 수도사",
+          "note": "이야기의 맥락에서는 특정 종교적 또는 영적 수행을 하는 사람을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "He said to him: My son, here is a jewelled ring.",
+      "korean": "그는 아들에게 말했다: '아들아, 여기 보석 반지가 있다.'",
+      "explanation": "아버지가 아들에게 보석 반지를 주며 말하는 내용을 전달한다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-344/06.mp3",
+      "vocabulary": [
+        {
+          "word": "said",
+          "meaning": "말했다",
+          "note": "직접적인 발화 행위를 나타냄"
+        },
+        {
+          "word": "jewelled",
+          "meaning": "보석으로 장식된",
+          "note": "반지가 보석으로 장식되어 있다는 것을 강조함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Keep it is a sign that you are my successor, and pass it down on for posterity.",
+      "korean": "이것은 네가 나의 후계자임을 나타내는 표시이며, 후대에 전해 내려가게 하라.",
+      "explanation": "문장은 주어진 물건(보석 반지)이 후계자 지정의 상징이며, 그 유산을 미래 세대에 전달하라는 의미를 전달한다.",
+      "grammar": "동사원형 「Keep」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-344/07.mp3",
+      "vocabulary": [
+        {
+          "word": "successor",
+          "meaning": "후계자",
+          "note": "특정 지위나 역할을 이어받는 사람을 의미한다."
+        },
+        {
+          "word": "posterity",
+          "meaning": "후대",
+          "note": "미래 세대나 후손을 가리키며, 장기적으로 유산을 전달하라는 의미를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "It is of value, of fine appearance, and it has the added capacity of opening a certain door to wealth.",
+      "korean": "그 가치가 있으며 훌륭한 모습을 하고 있고, 부를 향한 특정 문을 열어주는 추가적인 능력이 있습니다.",
+      "explanation": "문장은 특정 물건이나 상태가 가치가 있고 아름답게 생겼으며, 그것을 통해 부를 얻을 수 있는 기회가 생긴다는 의미를 전달합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-344/08.mp3",
+      "vocabulary": [
+        {
+          "word": "appearance",
+          "meaning": "모습",
+          "note": "문장에서 물건의 외형적 아름다움이나 외관을 의미합니다."
+        },
+        {
+          "word": "capacity",
+          "meaning": "능력",
+          "note": "여기서는 물건이나 상태가 제공하는 부가적인 가치나 기회를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "Some years later he had another son.",
+      "korean": "몇 년 후에 그는 또 다른 아들을 얻었다.",
+      "explanation": "문장은 특정 시점 이후에 새로운 아들이 태어났음을 나타낸다.",
+      "grammar": "동사 「had」는 have의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-344/09.mp3",
+      "vocabulary": [
+        {
+          "word": "years",
+          "meaning": "년",
+          "note": "시간의 흐름을 나타내며, 얼마나 지났는지를 구체적으로 표현한다."
+        },
+        {
+          "word": "later",
+          "meaning": "후에",
+          "note": "특정 사건이나 상황이 발생한 시점을 나타내며, 시간적 순서를 명확히 한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "When the son was old enough the wise man gave him another ring with the same advice.",
+      "korean": "그 아들이 충분히 자랐을 때 지혜로운 사람이 같은 조언을 담은 또 다른 반지를 주었다.",
+      "explanation": "아들이 성장하여 적절한 시기가 되었을 때 지혜로운 인물이 추가적인 가르침이나 지침을 담은 반지를 선물한다.",
+      "grammar": "동사 「gave」는 give의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-344/10.mp3",
+      "vocabulary": [
+        {
+          "word": "wise",
+          "meaning": "지혜로운",
+          "note": "이 단어는 지혜와 통찰력이 뛰어난 사람을 묘사한다."
+        },
+        {
+          "word": "advice",
+          "meaning": "조언",
+          "note": "특정 상황에서 도움이 되는 지침이나 추천을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "The same thing happened in the case of his third and last son.",
+      "korean": "그의 세 번째이자 마지막 아들에게서도 똑같은 일이 발생했습니다.",
+      "explanation": "세 번째 아들에게도 동일한 상황이나 사건이 일어났음을 나타냅니다.",
+      "grammar": "동사 「happened」는 happen의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-344/11.mp3",
+      "vocabulary": [
+        {
+          "word": "thing",
+          "meaning": "일, 사건",
+          "note": "여기서는 특정 사건이나 상황을 가리킵니다."
+        },
+        {
+          "word": "happened",
+          "meaning": "발생했다",
+          "note": "과거에 일어난 사건이나 상황을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "When the old man had died and the sons grew up one after the other claimed primacy for himself because of his possession of one of the rings.",
+      "korean": "노인이 돌아가신 후, 아들들은 하나씩 성인이 되면서 각자 자신이 최고 지위를 차지해야 한다고 주장했습니다. 그 이유는 그들이 반지 중 하나를 소유하고 있었기 때문입니다.",
+      "explanation": "노인의 죽음 이후 아들들 간에 반지 소유를 이유로 최고 지위를 주장하는 상황을 설명합니다.",
+      "grammar": "「had died」는 had + 과거분사로 만든 과거완료 표현입니다. 과거의 기준 시점보다 앞선 일을 나타냅니다.",
+      "audio": "audio/1971-344/12.mp3",
+      "vocabulary": [
+        {
+          "word": "claimed",
+          "meaning": "주장하다",
+          "note": "자신의 권리를 주장하거나 요구하는 행동을 나타냅니다."
+        },
+        {
+          "word": "primacy",
+          "meaning": "최고 지위",
+          "note": "가장 높은 지위나 권위를 의미합니다."
+        },
+        {
+          "word": "possession",
+          "meaning": "소유",
+          "note": "특정 물건이나 권리를 가지고 있음을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 13,
+      "english": "Nobody could tell for certain which was the most valuable.",
+      "korean": "어느 것이 가장 가치 있는지 확실히 알 수 없었다.",
+      "explanation": "어느 반지가 가장 가치 있는지 확신할 수 없었다는 의미",
+      "grammar": "「could tell」에서 조동사 could 뒤에 동사원형 「tell」가 옵니다. could은 문맥에 따라 과거의 능력·가능성·정중함 등을 나타냅니다.",
+      "audio": "audio/1971-344/13.mp3",
+      "vocabulary": [
+        {
+          "word": "certain",
+          "meaning": "확실한",
+          "note": "확신이나 확실성을 나타냄"
+        },
+        {
+          "word": "valuable",
+          "meaning": "가치 있는",
+          "note": "높은 가치나 중요성을 가짐을 의미함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 14,
+      "english": "Each son had his adherents, all claiming a greater value and more beauty in his own ring.",
+      "korean": "각 아들은 자신의 추종자들이 있었고, 모두 자신의 반지가 더 큰 가치와 아름다움을 지닌다고 주장했다.",
+      "explanation": "각 아들이 지지하는 사람들이 있었으며, 그들은 각자의 반지가 가장 가치 있고 아름답다고 주장했다.",
+      "grammar": "동사 「had」는 have의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-344/14.mp3",
+      "vocabulary": [
+        {
+          "word": "adherents",
+          "meaning": "추종자",
+          "note": "특정 인물이나 이념을 따르는 사람들"
+        },
+        {
+          "word": "claiming",
+          "meaning": "주장하다",
+          "note": "자신의 의견이나 사실을 강조하거나 주장하는 행위"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 15,
+      "english": "But the curious thing was that the door to wealth remained shut for the possessors of the keys and even their closest supporters.",
+      "korean": "흥미로운 점은 부자가 되는 문은 열쇠를 가진 자들과 그들의 가장 가까운 지지자들에게도 여전히 닫혀 있었다는 것이다.",
+      "explanation": "문이 열려 있지 않아 부자가 되는 기회가 제한적이었다는 의미를 전달한다.",
+      "grammar": "「was」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-344/15.mp3",
+      "vocabulary": [
+        {
+          "word": "remained",
+          "meaning": "계속되었다",
+          "note": "상태나 상황이 변하지 않고 유지되었다는 의미"
+        },
+        {
+          "word": "possessors",
+          "meaning": "소유자들",
+          "note": "특정 물건이나 권리를 가지고 있는 사람들"
+        },
+        {
+          "word": "supporters",
+          "meaning": "지지자들",
+          "note": "특정 인물이나 이념을 지지하고 돕는 사람들"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 16,
+      "english": "They were all too preoccupied with the problem of precedence, the possession of the ring, its value and appearance.",
+      "korean": "그들은 모두 우선권 문제, 반지의 소유, 반지의 가치와 외관에 너무 몰두해 있었다.",
+      "explanation": "문장은 사람들이 특정 지위나 특권을 나타내는 상징물(이 경우 반지)에 대한 경쟁과 가치 평가에 집중하고 있다는 것을 설명한다.",
+      "grammar": "「were」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-344/16.mp3",
+      "vocabulary": [
+        {
+          "word": "preoccupied",
+          "meaning": "집중하다, 몰두하다",
+          "note": "이 단어는 사람들이 특정 생각이나 문제에 정신적으로 몰입해 있다는 것을 나타낸다."
+        },
+        {
+          "word": "precedence",
+          "meaning": "우선권, 전례",
+          "note": "여기서는 사회적 지위나 특권을 나타내는 상징물에 대한 경쟁을 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 17,
+      "english": "Only a few looked for the door to the treasury of the old man.",
+      "korean": "몇몇만이 노인의 보물고 문을 찾았다.",
+      "explanation": "문장은 주로 몇몇 사람들만이 특정 장소(노인의 보물고)로 향하려는 의지를 보였음을 나타냅니다.",
+      "grammar": "동사 「looked」는 look의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-344/17.mp3",
+      "vocabulary": [
+        {
+          "word": "looked",
+          "meaning": "찾아보다, 관심을 갖다",
+          "note": "여기서는 특정 장소로 향하려는 행동이나 의지를 나타냅니다."
+        },
+        {
+          "word": "treasury",
+          "meaning": "보물고, 금고",
+          "note": "주로 귀중한 물건이나 보물을 보관하는 장소를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 18,
+      "english": "The rings had a magical quality too.",
+      "korean": "그 반지들은 신비로운 매력도 가지고 있었습니다.",
+      "explanation": "반지들이 신비롭고 매력적인 특성을 지니고 있음을 나타냅니다.",
+      "grammar": "동사 「had」는 have의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-344/18.mp3",
+      "vocabulary": [
+        {
+          "word": "magical",
+          "meaning": "신비로운, 마법 같은",
+          "note": "반지들이 평범하지 않고 특별한 힘이나 매력을 지녔음을 강조합니다."
+        },
+        {
+          "word": "quality",
+          "meaning": "특성, 질",
+          "note": "반지들이 지닌 독특하고 매력적인 특징을 지칭합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 19,
+      "english": "Although they were keys they were not used directly in opening the door to the treasury.",
+      "korean": "그 열쇠들은 직접적으로 보물고 문을 열어젖히는 데 사용되지 않았다.",
+      "explanation": "열쇠들이 보물고 문을 열 때 직접적으로 사용되지 않았음을 나타냄.",
+      "grammar": "「were not used」는 be동사 + 과거분사로 된 수동 표현입니다. 주어가 그 행동을 하는 쪽이 아니라 그 행동의 대상이 됨을 나타냅니다.",
+      "audio": "audio/1971-344/19.mp3",
+      "vocabulary": [
+        {
+          "word": "directly",
+          "meaning": "직접적으로",
+          "note": "보통적인 방법이나 과정을 거치지 않고 바로 행동하는 것을 나타냄."
+        },
+        {
+          "word": "treasury",
+          "meaning": "보물고",
+          "note": "주로 귀중한 물건이나 돈을 보관하는 장소를 의미함."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 20,
+      "english": "It was sufficient to look on them without contention or too much attachment to one or other of their qualities.",
+      "korean": "그들은 충분히 관찰하기에 충분했지만, 직접 문을 열어 보물고에 들어가는 데는 사용되지 않았다.",
+      "explanation": "문장은 특정 물체들이 직접적인 사용보다는 관찰의 가치가 더 크다는 의미를 전달한다.",
+      "grammar": "「was」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-344/20.mp3",
+      "vocabulary": [
+        {
+          "word": "sufficient",
+          "meaning": "충분한",
+          "note": "여기서는 관찰이나 가치 판단에 있어 충분한 정도를 의미한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 21,
+      "english": "When this had been done the people who had looked were able to tell where the treasury was and could open it merely by producing the outline of the ring.",
+      "korean": "그들이 반지의 윤곽을 제시하자마자, 그들은 보물고의 위치를 알 수 있었고, 단순히 그 윤곽을 보여주는 것만으로도 보물고를 열 수 있었다.",
+      "explanation": "반지의 윤곽을 제시함으로써 보물고의 위치를 파악하고, 그 윤곽만으로 보물고를 열 수 있었던 상황을 설명합니다.",
+      "grammar": "「were」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-344/21.mp3",
+      "vocabulary": [
+        {
+          "word": "treasury",
+          "meaning": "보물고",
+          "note": "돈이나 귀중품을 보관하는 장소를 의미합니다."
+        },
+        {
+          "word": "producing",
+          "meaning": "제시하다",
+          "note": "여기서는 반지의 윤곽을 보여주는 행위를 의미합니다."
+        },
+        {
+          "word": "outline",
+          "meaning": "윤곽",
+          "note": "기본적인 형태나 모양을 나타내는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 22,
+      "english": "The treasuries had another quality too: they were inexhaustible.",
+      "korean": "금고들은 또 다른 특징도 가지고 있었는데, 그것은 무궁무진하다는 것이었다.",
+      "explanation": "금고들이 무한한 자원을 가지고 있다는 특징을 설명한다.",
+      "grammar": "「were」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-344/22.mp3",
+      "vocabulary": [
+        {
+          "word": "treasuries",
+          "meaning": "금고들",
+          "note": "여기서는 보물이나 자금을 보관하는 장소를 의미한다."
+        },
+        {
+          "word": "inexhaustible",
+          "meaning": "무궁무진한",
+          "note": "자원이나 자금이 무한히 남아 있다는 의미로, 고갈되지 않는다는 뉘앙스를 담고 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 23,
+      "english": "Meanwhile the supporters of the three brothers, repeated the tales of their ancestors about the merits of the rings, each in a slightly different way.",
+      "korean": "한편 세 형제의 지지자들은 조상들의 이야기를 각기 조금씩 다르게 반복했다. 그들은 반지의 장점에 대해 이야기했다.",
+      "explanation": "문장은 세 형제의 지지자들이 조상들의 이야기를 전하며 반지의 장점을 강조하는 상황을 묘사한다.",
+      "grammar": "동사 「repeated」는 repeat의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-344/23.mp3",
+      "vocabulary": [
+        {
+          "word": "supporters",
+          "meaning": "지지자들",
+          "note": "특정 인물이나 이념을 지지하고 옹호하는 사람들"
+        },
+        {
+          "word": "ancestors",
+          "meaning": "조상들",
+          "note": "이전 세대의 조상들"
+        },
+        {
+          "word": "different",
+          "meaning": "다른",
+          "note": "각기 다른 방식으로 이야기를 전달함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 24,
+      "english": "The first community thought they had already found the treasure because they had the key The second thought that it was allegorical and so consoled themselves.",
+      "korean": "첫 번째 공동체는 이미 보물을 찾았다고 생각했습니다. 왜냐하면 열쇠를 가졌기 때문입니다. 두 번째 공동체는 그것이 상징적인 의미라고 생각하여 위로했습니다.",
+      "explanation": "두 공동체의 반응이 대조적으로 묘사되어 있습니다. 첫 번째는 실질적인 발견으로 해석하고, 두 번째는 상징적인 해석을 통해 위안을 찾습니다.",
+      "grammar": "동사 「thought」는 think의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-344/24.mp3",
+      "vocabulary": [
+        {
+          "word": "community",
+          "meaning": "공동체",
+          "note": "특정 집단이나 모임을 가리킵니다."
+        },
+        {
+          "word": "treasure",
+          "meaning": "보물",
+          "note": "가치 있는 물건이나 자원을 의미합니다."
+        },
+        {
+          "word": "allegorical",
+          "meaning": "상징적인",
+          "note": "직접적인 의미보다는 비유적이고 상징적인 의미를 지닙니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 25,
+      "english": "And the third transferred the possibility of opening the door to a distant and remotely imaginable future and so for them there was nothing to do at present.",
+      "korean": "셋째는 문을 열 수 있는 가능성을 먼 미래로 넘겨주었기에, 그들에게는 현재 할 일이 없었다.",
+      "explanation": "셋째 집단은 문을 열 수 있는 기회를 미래로 미루어 현재 행동을 취할 필요가 없다고 느꼈다.",
+      "grammar": "동사 「transferred」는 transfer의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-344/25.mp3",
+      "vocabulary": [
+        {
+          "word": "transferred",
+          "meaning": "넘겨주었다",
+          "note": "현재의 책임이나 기회를 미래로 미루는 의미"
+        },
+        {
+          "word": "possibility",
+          "meaning": "가능성",
+          "note": "문을 열 수 있는 기회나 가능성"
+        },
+        {
+          "word": "imaginable",
+          "meaning": "상상할 수 있는",
+          "note": "먼 미래라는 추상적이고 상상 속의 시점을 나타냄"
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "distant and remotely imaginable future",
+          "meaning": "먼 미래",
+          "explanation": "현재와 멀리 떨어진, 상상 속의 미래 시점을 의미함"
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 26,
+      "english": "There is every possibility for you too to belong to one of these three communities, because anyone who begins to search is always prone to fall into the trap of any one of the three.",
+      "korean": "당신도 이 세 가지 공동체 중 하나에 속할 가능성이 충분히 있어요. 탐색을 시작하는 누구나 세 가지 중 하나의 함정에 빠질 위험이 있으니까요.",
+      "explanation": "문장은 개인이 특정 세 가지 공동체 중 하나에 속할 가능성을 강조하며, 탐색 과정에서 그러한 공동체의 영향을 받을 수 있음을 경고합니다.",
+      "grammar": "「There is」는 어떤 것의 존재를 나타내는 구문입니다. 여기서 is는 be동사의 현재형입니다.",
+      "audio": "audio/1971-344/26.mp3",
+      "vocabulary": [
+        {
+          "word": "possibility",
+          "meaning": "가능성",
+          "note": "어떤 일이 일어날 수 있는 능력이나 여지를 의미합니다."
+        },
+        {
+          "word": "belong",
+          "meaning": "속하다",
+          "note": "특정 그룹이나 범주에 포함되거나 관련되어 있다는 의미입니다."
+        },
+        {
+          "word": "communities",
+          "meaning": "공동체",
+          "note": "공동의 가치나 목표를 가진 사람들의 모임을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 27,
+      "english": "Really, these are the three basic tricks the mind can play to save itself from meditation.",
+      "korean": "정말로, 이 세 가지는 마음이 명상에서 벗어나기 위해 쓸 수 있는 기본적인 속임수들이야.",
+      "explanation": "마음이 명상의 효과를 피하거나 벗어나기 위해 사용할 수 있는 세 가지 기본적인 방법이나 전략을 강조하고 있다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-344/27.mp3",
+      "vocabulary": [
+        {
+          "word": "tricks",
+          "meaning": "속임수, 방법",
+          "note": "여기서는 마음이 사용하는 전략이나 방법을 의미한다."
+        },
+        {
+          "word": "meditation",
+          "meaning": "명상",
+          "note": "마음이 벗어나려는 상태나 과정을 지칭한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 28,
+      "english": "So beware of these old tricks.",
+      "korean": "이런 오래된 속임수들을 조심하세요.",
+      "explanation": "마음이 명상에서 벗어나기 위해 사용하는 세 가지 기본적인 속임수들을 경계하라는 의미입니다.",
+      "grammar": "동사원형 「beware」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1971-344/28.mp3",
+      "vocabulary": [
+        {
+          "word": "beware",
+          "meaning": "주의하라, 조심하라",
+          "note": "위험이나 잘못된 행동을 경고하는 의미로 사용되었습니다."
+        },
+        {
+          "word": "tricks",
+          "meaning": "속임수",
+          "note": "마음이 사용하는 기만적인 방법이나 전략을 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "명상은 최고의 열쇠입니다. 무한의 문을 열고 미지의 비밀을 풀 수 있다. 단지 열쇠를 가지고 있다고 해서 얻는 것이 없고, 사용하지 않는 한 아무것도 얻지 못한다.",
+    "이드리스 샤는 한 이야기꾼의 이야기를 전합니다: 옛날에 지혜롭고 매우 부유한 남자가 있었는데, 그에게 아들이 있었습니다. 그는 아들에게 말했다: '아들아, 여기 보석 반지가 있다.' 이것은 네가 나의 후계자임을 나타내는 표시이며, 후대에 전해 내려가게 하라. 그 가치가 있으며 훌륭한 모습을 하고 있고, 부를 향한 특정 문을 열어주는 추가적인 능력이 있습니다.",
+    "몇 년 후에 그는 또 다른 아들을 얻었다. 그 아들이 충분히 자랐을 때 지혜로운 사람이 같은 조언을 담은 또 다른 반지를 주었다. 그의 세 번째이자 마지막 아들에게서도 똑같은 일이 발생했습니다.",
+    "노인이 돌아가신 후, 아들들은 하나씩 성인이 되면서 각자 자신이 최고 지위를 차지해야 한다고 주장했습니다. 그 이유는 그들이 반지 중 하나를 소유하고 있었기 때문입니다. 어느 것이 가장 가치 있는지 확실히 알 수 없었다. 각 아들은 자신의 추종자들이 있었고, 모두 자신의 반지가 더 큰 가치와 아름다움을 지닌다고 주장했다. 흥미로운 점은 부자가 되는 문은 열쇠를 가진 자들과 그들의 가장 가까운 지지자들에게도 여전히 닫혀 있었다는 것이다. 그들은 모두 우선권 문제, 반지의 소유, 반지의 가치와 외관에 너무 몰두해 있었다.",
+    "몇몇만이 노인의 보물고 문을 찾았다. 그 반지들은 신비로운 매력도 가지고 있었습니다. 그 열쇠들은 직접적으로 보물고 문을 열어젖히는 데 사용되지 않았다. 그들은 충분히 관찰하기에 충분했지만, 직접 문을 열어 보물고에 들어가는 데는 사용되지 않았다.",
+    "그들이 반지의 윤곽을 제시하자마자, 그들은 보물고의 위치를 알 수 있었고, 단순히 그 윤곽을 보여주는 것만으로도 보물고를 열 수 있었다. 금고들은 또 다른 특징도 가지고 있었는데, 그것은 무궁무진하다는 것이었다.",
+    "한편 세 형제의 지지자들은 조상들의 이야기를 각기 조금씩 다르게 반복했다. 그들은 반지의 장점에 대해 이야기했다. 첫 번째 공동체는 이미 보물을 찾았다고 생각했습니다. 왜냐하면 열쇠를 가졌기 때문입니다. 두 번째 공동체는 그것이 상징적인 의미라고 생각하여 위로했습니다. 셋째는 문을 열 수 있는 가능성을 먼 미래로 넘겨주었기에, 그들에게는 현재 할 일이 없었다. 당신도 이 세 가지 공동체 중 하나에 속할 가능성이 충분히 있어요. 탐색을 시작하는 누구나 세 가지 중 하나의 함정에 빠질 위험이 있으니까요. 정말로, 이 세 가지는 마음이 명상에서 벗어나기 위해 쓸 수 있는 기본적인 속임수들이야. 이런 오래된 속임수들을 조심하세요."
+  ],
+  "fullAudio": "audio/1971-344/script_all.mp3",
+  "originalText": "Love.\n\nMeditation is the master key.\nIt can open the doors of the infinite\nand it can unlock the mystery of the unknown.\nBut just by possessing the key nothing is attained,\nunless one uses it.\n\nIdries Shah tells a dervish tale:\nThere was once a wise and very rich man who had a son.\nHe said to him:\nMy son, here is a jewelled ring.\nKeep it is a sign that you are my successor,\nand pass it down on for posterity.\nIt is of value, of fine appearance,\nand it has the added capacity of opening\na certain door to wealth.\n\nSome years later he had another son.\nWhen the son was old enough\nthe wise man gave him\nanother ring with the same advice.\nThe same thing happened in the case of his third\nand last son.\n\nWhen the old man had died and the sons grew up\none after the other claimed primacy for himself\nbecause of his possession of one of the rings.\nNobody could tell for certain which was\nthe most valuable.\nEach son had his adherents,\nall claiming a greater value\nand more beauty in his own ring.\nBut the curious thing was that\nthe door to wealth remained shut\nfor the possessors of the keys\nand even their closest supporters.\nThey were all too preoccupied with\nthe problem of precedence,\nthe possession of the ring, its value and appearance.\n\nOnly a few looked for the door to the treasury\nof the old man.\nThe rings had a magical quality too.\nAlthough they were keys\nthey were not used directly\nin opening the door to the treasury.\nIt was sufficient to look on them\nwithout contention or too much attachment\nto one or other of their qualities.\n\nWhen this had been done\nthe people who had looked\nwere able to tell where the treasury was\nand could open it merely\nby producing the outline of the ring.\nThe treasuries had another quality too:\nthey were inexhaustible.\n\nMeanwhile the supporters of the three brothers,\nrepeated the tales of their ancestors about\nthe merits of the rings,\neach in a slightly different way.\nThe first community thought they had\nalready found the treasure\nbecause they had the key\nThe second thought that it was allegorical\nand so consoled themselves.\nAnd the third transferred the possibility\nof opening the door\nto a distant and remotely imaginable future\nand so for them there was\nnothing to do at present.\nThere is every possibility\nfor you too to belong to one of these three communities,\nbecause anyone who begins to search\nis always prone to fall into the trap of any one\nof the three.\nReally, these are the three basic tricks the mind can play\nto save itself from meditation.\nSo beware of these old tricks.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 344,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0910 2.JPG",
+        "side": "left",
+        "printedPage": 270
+      },
+      {
+        "file": "IMG_0910 2.JPG",
+        "side": "right",
+        "printedPage": 271
+      },
+      {
+        "file": "IMG_0911 2.JPG",
+        "side": "left",
+        "printedPage": null
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

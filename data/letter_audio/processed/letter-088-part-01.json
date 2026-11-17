@@ -1,0 +1,79 @@
+{
+  "key": "letter-088-part-01",
+  "number": 88,
+  "generationId": "01a1e630-6e86-7957-b762-521d7c74931b",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-88/01.mp3",
+      "start": 0.0,
+      "end": 0.592902
+    },
+    {
+      "index": 1,
+      "text": "Non-attachment is not concerned with things but with thoughts.",
+      "path": "audio/1970-88/02.mp3",
+      "start": 1.869841,
+      "end": 5.5725620000000005
+    },
+    {
+      "index": 2,
+      "text": "Non-attachment is not related to the outside but to the within.",
+      "path": "audio/1970-88/03.mp3",
+      "start": 6.885941,
+      "end": 11.243265
+    },
+    {
+      "index": 3,
+      "text": "Non-attachment is not to do with the world but with oneself.",
+      "path": "audio/1970-88/04.mp3",
+      "start": 12.453469,
+      "end": 16.413583000000003
+    },
+    {
+      "index": 4,
+      "text": "One day a beggar went to see a Sufi fakir and found him seated on a velvet cushion inside a beautiful tent with its ropes tied to golden pegs.",
+      "path": "audio/1970-88/05.mp3",
+      "start": 17.745624,
+      "end": 26.646463
+    },
+    {
+      "index": 5,
+      "text": "Seeing all this the beggar cried: What is this!",
+      "path": "audio/1970-88/06.mp3",
+      "start": 28.160408,
+      "end": 32.320794
+    },
+    {
+      "index": 6,
+      "text": "Honorable Fakir, I have heard much about your spirituality and non-attachment, but I am completely disillusioned by all this ostentation around you.",
+      "path": "audio/1970-88/07.mp3",
+      "start": 34.080295,
+      "end": 44.409704999999995
+    },
+    {
+      "index": 7,
+      "text": "The fakir laughed, replying: I am ready to leave all this behind and come with you.",
+      "path": "audio/1970-88/08.mp3",
+      "start": 45.941202000000004,
+      "end": 51.25873
+    },
+    {
+      "index": 8,
+      "text": "So saying, he immediately got up and walked off with the beggar not even waiting to put his sandals on!",
+      "path": "audio/1970-88/09.mp3",
+      "start": 52.771247,
+      "end": 59.340362999999996
+    },
+    {
+      "index": 9,
+      "text": "After a short while the beggar became distressed.",
+      "path": "audio/1970-88/10.mp3",
+      "start": 60.811224,
+      "end": 63.97
+    }
+  ]
+}

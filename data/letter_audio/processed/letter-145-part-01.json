@@ -1,0 +1,79 @@
+{
+  "key": "letter-145-part-01",
+  "number": 145,
+  "generationId": "01a1e6d6-32d9-737c-994c-5d0448c986bc",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-145/01.mp3",
+      "start": 0.0,
+      "end": 0.664875
+    },
+    {
+      "index": 1,
+      "text": "Atheism is the first step towards theism, and a must.",
+      "path": "audio/1970-145/02.mp3",
+      "start": 2.1251469999999997,
+      "end": 6.0161
+    },
+    {
+      "index": 2,
+      "text": "If you haven't been through the fire of atheism you'll never know the light of theism.",
+      "path": "audio/1970-145/03.mp3",
+      "start": 7.507778,
+      "end": 12.027097999999999
+    },
+    {
+      "index": 3,
+      "text": "If you haven't the true strength to say No your Yes will always be impotent.",
+      "path": "audio/1970-145/04.mp3",
+      "start": 13.482744,
+      "end": 18.37576
+    },
+    {
+      "index": 4,
+      "text": "So I am glad you are an atheist - something that can be said only by a theist.",
+      "path": "audio/1970-145/05.mp3",
+      "start": 19.854308,
+      "end": 24.338594
+    },
+    {
+      "index": 5,
+      "text": "So I say: Go deeper into atheism.",
+      "path": "audio/1970-145/06.mp3",
+      "start": 25.419297,
+      "end": 28.011156
+    },
+    {
+      "index": 6,
+      "text": "Superficiality won't do, so don't just think atheism, live it - and it will ultimately lead you to God.",
+      "path": "audio/1970-145/07.mp3",
+      "start": 29.132585,
+      "end": 34.800498999999995
+    },
+    {
+      "index": 7,
+      "text": "Atheism isn't it, it is just a doubting.",
+      "path": "audio/1970-145/08.mp3",
+      "start": 35.875170000000004,
+      "end": 38.692811999999996
+    },
+    {
+      "index": 8,
+      "text": "Doubt is good but it isn't it.",
+      "path": "audio/1970-145/09.mp3",
+      "start": 40.284286,
+      "end": 42.269478
+    },
+    {
+      "index": 9,
+      "text": "Actually, doubt is a search for trust.",
+      "path": "audio/1970-145/10.mp3",
+      "start": 43.798254,
+      "end": 46.84
+    }
+  ]
+}

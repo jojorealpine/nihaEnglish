@@ -1,0 +1,72 @@
+{
+  "key": "letter-255-part-01",
+  "number": 255,
+  "generationId": "01a1e8fb-a265-768b-91ba-29492134e3e7",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-255/01.mp3",
+      "start": 0.0,
+      "end": 0.572721
+    },
+    {
+      "index": 1,
+      "text": "Mind means consciousness somewhere - centered, focused and tense.",
+      "path": "audio/1971-255/02.mp3",
+      "start": 1.682789,
+      "end": 5.853719
+    },
+    {
+      "index": 2,
+      "text": "Meditation means consciousness nowhere, and when it is nowhere it is everywhere - decentralized Unfocused and non-tense.",
+      "path": "audio/1971-255/03.mp3",
+      "start": 7.021224,
+      "end": 15.483084
+    },
+    {
+      "index": 3,
+      "text": "Mind is agony by its very nature, meditation - ecstasy.",
+      "path": "audio/1971-255/04.mp3",
+      "start": 16.608729999999998,
+      "end": 20.543107000000003
+    },
+    {
+      "index": 4,
+      "text": "Do not treat consciousness like a cat tied to a string.",
+      "path": "audio/1971-255/05.mp3",
+      "start": 21.776372,
+      "end": 24.553288000000002
+    },
+    {
+      "index": 5,
+      "text": "This very treatment - or mistreatment - creates the mind The consciousness must be left to itself, utterly free to move and be according to its nature.",
+      "path": "audio/1971-255/06.mp3",
+      "start": 25.778163,
+      "end": 34.999955
+    },
+    {
+      "index": 6,
+      "text": "Do not localize it.",
+      "path": "audio/1971-255/07.mp3",
+      "start": 36.268254000000006,
+      "end": 37.496779999999994
+    },
+    {
+      "index": 7,
+      "text": "Do not be partial This is the essence of my discipline of no-discipline.",
+      "path": "audio/1971-255/08.mp3",
+      "start": 38.943741,
+      "end": 44.373400999999994
+    },
+    {
+      "index": 8,
+      "text": "Preserve the absolute fluidity of your consciousness and then you will not be, and when you are not and only consciousness is then for the first time the doors of the divine are open to you.",
+      "path": "audio/1971-255/09.mp3",
+      "start": 45.674898000000006,
+      "end": 58.17
+    }
+  ]
+}

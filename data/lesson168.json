@@ -1,0 +1,414 @@
+{
+  "id": "1971-168",
+  "title": "1971 / 168",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "clutched",
+      "meaning": "꼭 쥐다",
+      "note": "소년이 페니를 단단히 쥐고 있다는 것을 강조한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "proprietor",
+      "meaning": "주인, 경영자",
+      "note": "장난감 가게의 주인을 지칭한다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "distraction",
+      "meaning": "혼란, 방해",
+      "note": "소년의 지속적인 요구로 인해 가게 주인이 혼란스러워진다는 의미.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "storekeeper",
+      "meaning": "가게 주인",
+      "note": "가게를 운영하는 사람을 가리킵니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "finally",
+      "meaning": "마침내",
+      "note": "오랜 기다림 끝에 행동을 취하거나 말을 하는 상황을 나타냅니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "penny",
+      "meaning": "페니 (돈의 단위)",
+      "note": "매우 적은 금액을 나타내며, 여기서는 과장된 제안을 강조합니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "world",
+      "meaning": "세상",
+      "note": "전체적인 의미로 사용되어 모든 것을 포괄하는 과장된 표현입니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thought",
+      "meaning": "생각하다",
+      "note": "여기서는 잠시 고민하거나 생각하는 행동을 나타냅니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "replied",
+      "meaning": "대답하다",
+      "note": "소년이 질문이나 제안에 대해 대답하는 행동을 나타냅니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "ordinarily",
+      "meaning": "보통",
+      "note": "일반적인 상황이나 일반적인 사실을 나타낼 때 사용됩니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "different",
+      "meaning": "다른",
+      "note": "두 개체나 상황 간의 차이를 강조할 때 사용됩니다.",
+      "sentenceIds": [
+        6,
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "mature",
+      "meaning": "성숙한",
+      "note": "개인이 성장하고 발전하여 더 복잡한 이해와 책임감을 갖게 되는 상태를 의미합니다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "maturity",
+      "meaning": "성숙함",
+      "note": "개인의 정신적, 도덕적 성장 단계를 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "understanding",
+      "meaning": "이해",
+      "note": "상황이나 개념을 명확히 파악하는 능력을 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "distinction",
+      "meaning": "구분",
+      "note": "두 가지 이상의 개념이나 상태를 명확히 구분하는 능력을 의미합니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      4,
+      5,
+      6,
+      7
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1971-168/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "A small boy with a penny clutched tightly in his hot little hand entered the toyshop and drove the proprietor to distraction asking him to show this and that and everything without ever making up his mind",
+      "korean": "어린 소년이 뜨거운 손에 페니를 꽉 쥐고 장난감 가게에 들어가서 주인을 혼란스럽게 하며 이 장난감 저 장난감 모든 것을 보여달라고 계속 요구했다.",
+      "explanation": "어린 소년이 장난감 가게에 들어가 다양한 장난감을 보여달라고 계속 요청하여 가게 주인을 혼란스럽게 만드는 상황을 묘사한다.",
+      "grammar": "동사 「entered」는 enter의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-168/02.mp3",
+      "vocabulary": [
+        {
+          "word": "clutched",
+          "meaning": "꼭 쥐다",
+          "note": "소년이 페니를 단단히 쥐고 있다는 것을 강조한다."
+        },
+        {
+          "word": "proprietor",
+          "meaning": "주인, 경영자",
+          "note": "장난감 가게의 주인을 지칭한다."
+        },
+        {
+          "word": "distraction",
+          "meaning": "혼란, 방해",
+          "note": "소년의 지속적인 요구로 인해 가게 주인이 혼란스러워진다는 의미."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "Look here, my boy, said the storekeeper finally.",
+      "korean": "저 가게 주인이 마침내 말했어요, '여기 보세요,'",
+      "explanation": "가게 주인이 오랫동안 기다렸던 끝에 소년에게 무언가를 보여주라고 말하는 장면입니다.",
+      "grammar": "동사 「said」는 say의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-168/03.mp3",
+      "vocabulary": [
+        {
+          "word": "storekeeper",
+          "meaning": "가게 주인",
+          "note": "가게를 운영하는 사람을 가리킵니다."
+        },
+        {
+          "word": "finally",
+          "meaning": "마침내",
+          "note": "오랜 기다림 끝에 행동을 취하거나 말을 하는 상황을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "What do you want to buy for a penny - the whole world with a fence around it?",
+      "korean": "돈 한 푼으로 세상 전체를 살 수 있다고 생각하니?",
+      "explanation": "스토어키퍼가 묻는 질문으로, 매우 저렴한 가격으로 모든 것을 살 수 있다는 과장된 제안에 대한 반응을 나타냅니다.",
+      "grammar": "조동사 「do」가 본동사 「want」와 함께 쓰였습니다. 의문문을 만들거나 동작을 강조할 때 do/does/did 뒤의 본동사는 원형을 유지합니다.",
+      "audio": "audio/1971-168/04.mp3",
+      "vocabulary": [
+        {
+          "word": "penny",
+          "meaning": "페니 (돈의 단위)",
+          "note": "매우 적은 금액을 나타내며, 여기서는 과장된 제안을 강조합니다."
+        },
+        {
+          "word": "world",
+          "meaning": "세상",
+          "note": "전체적인 의미로 사용되어 모든 것을 포괄하는 과장된 표현입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "The boy thought for a moment and then replied: Let me see it.",
+      "korean": "소년은 잠시 생각하다가 이렇게 대답했다: 보여줘봐.",
+      "explanation": "소년이 잠시 고민한 후에 제시된 것을 보고 싶다고 말하는 내용입니다.",
+      "grammar": "동사 「thought」는 think의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1971-168/05.mp3",
+      "vocabulary": [
+        {
+          "word": "thought",
+          "meaning": "생각하다",
+          "note": "여기서는 잠시 고민하거나 생각하는 행동을 나타냅니다."
+        },
+        {
+          "word": "replied",
+          "meaning": "대답하다",
+          "note": "소년이 질문이나 제안에 대해 대답하는 행동을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "And I say to you that ordinarily no one in this world is different from that small boy.",
+      "korean": "그리고 나는 네게 말하는데, 보통 이 세상에서 그 작은 소년과 다른 사람은 아무도 없다고 생각해.",
+      "explanation": "문장은 일반적으로 모든 인간이 본질적으로 비슷하다는 메시지를 전달합니다. 작은 소년을 통해 모든 인간의 공통된 본질을 강조하고 있습니다.",
+      "grammar": "동사 「say」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+      "audio": "audio/1971-168/06.mp3",
+      "vocabulary": [
+        {
+          "word": "ordinarily",
+          "meaning": "보통",
+          "note": "일반적인 상황이나 일반적인 사실을 나타낼 때 사용됩니다."
+        },
+        {
+          "word": "different",
+          "meaning": "다른",
+          "note": "두 개체나 상황 간의 차이를 강조할 때 사용됩니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "But unless one is different, one is not mature.",
+      "korean": "다르지 않으면 성숙하지 못하다.",
+      "explanation": "성숙함은 개인이 다른 사람들과 구별되는 특성을 갖는 것과 밀접하게 연관되어 있다는 의미입니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1971-168/07.mp3",
+      "vocabulary": [
+        {
+          "word": "different",
+          "meaning": "다른",
+          "note": "이 문맥에서는 일반적인 사람들과 구별되는 특성을 의미합니다."
+        },
+        {
+          "word": "mature",
+          "meaning": "성숙한",
+          "note": "개인이 성장하고 발전하여 더 복잡한 이해와 책임감을 갖게 되는 상태를 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "And maturity does not come with age alone, maturity comes through understanding the distinction between that which is possible and that which is not possible.",
+      "korean": "성숙함은 단순히 나이가 들면서 오는 것이 아니라, 가능한 것과 불가능한 것 사이의 차이를 이해함으로써 얻어진다.",
+      "explanation": "성숙함은 나이만으로 이루어지는 것이 아니라, 가능성과 불가능성을 구분하는 이해력을 통해 얻어진다는 의미입니다.",
+      "grammar": "동사 「comes」는 come의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1971-168/08.mp3",
+      "vocabulary": [
+        {
+          "word": "maturity",
+          "meaning": "성숙함",
+          "note": "개인의 정신적, 도덕적 성장 단계를 의미합니다."
+        },
+        {
+          "word": "understanding",
+          "meaning": "이해",
+          "note": "상황이나 개념을 명확히 파악하는 능력을 의미합니다."
+        },
+        {
+          "word": "distinction",
+          "meaning": "구분",
+          "note": "두 가지 이상의 개념이나 상태를 명확히 구분하는 능력을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "어린 소년이 뜨거운 손에 페니를 꽉 쥐고 장난감 가게에 들어가서 주인을 혼란스럽게 하며 이 장난감 저 장난감 모든 것을 보여달라고 계속 요구했다.",
+    "저 가게 주인이 마침내 말했어요, '여기 보세요,' 돈 한 푼으로 세상 전체를 살 수 있다고 생각하니?",
+    "소년은 잠시 생각하다가 이렇게 대답했다: 보여줘봐. 그리고 나는 네게 말하는데, 보통 이 세상에서 그 작은 소년과 다른 사람은 아무도 없다고 생각해. 다르지 않으면 성숙하지 못하다. 성숙함은 단순히 나이가 들면서 오는 것이 아니라, 가능한 것과 불가능한 것 사이의 차이를 이해함으로써 얻어진다."
+  ],
+  "fullAudio": "audio/1971-168/script_all.mp3",
+  "originalText": "Love.\n\nA small boy with a penny\nclutched tightly in his hot little hand\nentered the toyshop\nand drove the proprietor to distraction\nasking him to show this and that\nand everything\nwithout ever making up his mind\n\nLook here, my boy, said the storekeeper finally.\nWhat do you want to buy for a penny -\nthe whole world with a fence around it?\n\nThe boy thought for a moment\nand then replied: Let me see it.\nAnd I say to you that ordinarily\nno one in this world is different from that small boy.\nBut unless one is different, one is not mature.\nAnd maturity does not come with age alone,\nmaturity comes through understanding the distinction\nbetween that which is possible\nand that which is not possible.",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 168,
+    "year": 1971,
+    "pages": [
+      {
+        "file": "IMG_0840 2.JPG",
+        "side": "right",
+        "printedPage": 131
+      },
+      {
+        "file": "IMG_0841 2.JPG",
+        "side": "left",
+        "printedPage": 132
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

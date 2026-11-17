@@ -1,0 +1,205 @@
+{
+  "sourceHash": "f2fc0523f8cdb50c00393b5e3281fd333deb0a8c739408fc08a0779326e4bfc3",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "나스레딘은 모스크에 가서 앉았다.",
+        "explanation": "나스레딘이 모스크라는 장소로 이동하여 그곳에 앉았다는 내용입니다.",
+        "grammar": "동사 「went」는 go의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "went",
+            "meaning": "가다",
+            "note": "이 문맥에서는 「가다」의 뜻으로 읽습니다."
+          },
+          {
+            "word": "mosque",
+            "meaning": "모스크 (이슬람 사원)",
+            "note": "이슬람 신자들이 기도하는 장소를 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "7": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "progressive",
+      "notes": {
+        "korean": "앞에 있는 사람이 물었다, '무엇을 하고 있는 거야?'",
+        "explanation": "앞에 있는 사람이 Nasrudin의 행동에 대해 의문을 제기하며 질문하고 있다.",
+        "grammar": "「are you doing」는 be동사 + -ing로 만든 현재진행형 표현입니다. 기준이 되는 시점에 행동이나 변화가 진행 중임을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "asked",
+            "meaning": "질문하다",
+            "note": "다른 사람에게 정보를 요청하거나 이해를 구하는 행동을 나타낸다."
+          },
+          {
+            "word": "man",
+            "meaning": "남자",
+            "note": "이 문맥에서는 앞에 있는 특정 남성을 지칭한다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "6": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "past",
+      "notes": {
+        "korean": "나스트루딘은 앞에 있는 남자의 셔츠를 바로 끌어당겼다.",
+        "explanation": "나스트루딘이 즉시 행동하여 앞에 있는 남자의 셔츠를 내렸다.",
+        "grammar": "동사 「pulled」는 pull의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+        "vocabulary": [
+          {
+            "word": "immediately",
+            "meaning": "즉시",
+            "note": "즉시 행동하거나 일어나는 상황을 나타냄"
+          },
+          {
+            "word": "pulled",
+            "meaning": "끌어당기다",
+            "note": "셔츠를 아래로 내리는 동작을 표현"
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "8": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "나에게 묻지 말고 뒤에 있는 사람에게 물어봐, 그가 시작했다고 나스레딘이 말했다.",
+        "explanation": "나스레딘이 뒤에 있는 사람에게 책임을 전가하며 상황을 설명하고 있다.",
+        "grammar": "「Don't ask」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "started",
+            "meaning": "시작하다",
+            "note": "문장에서 누군가 행동이나 상황을 처음으로 유발했다는 의미를 전달한다."
+          },
+          {
+            "word": "said",
+            "meaning": "말하다",
+            "note": "나스레딘이 직접 말한 내용을 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "그의 셔츠는 꽤 짧아서 뒤에 앉은 남자가 부적절하게 보인다고 생각하며 셔츠를 더 내렸다.",
+        "explanation": "나스레딘의 셔츠가 짧았기 때문에 뒤에 앉은 남자가 이를 부적절하게 여겨 셔츠를 더 내리게 했다는 내용입니다.",
+        "grammar": "「was」는 be동사의 과거형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "thinking",
+            "meaning": "생각하다",
+            "note": "뒤에 앉은 남자가 자신의 행동이 적절한지 판단하며 행동하는 과정을 나타냅니다."
+          },
+          {
+            "word": "unseemly",
+            "meaning": "부적절한, 어울리지 않는",
+            "note": "셔츠의 길이가 사회적 규범에 맞지 않아 부적절하게 보인다는 의미입니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "자신만의 모습을 유지해야 진정한 책임과 진정성을 가질 수 있어요. 하지만 대개 사람들은 타인의 것을 빌려 쓰기 때문에 모든 것이 아름답지 않게 돼요.",
+        "explanation": "자신의 진정한 모습을 유지해야 책임감과 진정성을 갖출 수 있지만, 대부분의 사람들이 타인의 것을 빌려 쓰기 때문에 상황이 아름답지 않다는 의미",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "responsible",
+            "meaning": "책임감 있는",
+            "note": "자신의 행동에 대해 책임지는 태도를 의미합니다."
+          },
+          {
+            "word": "ordinarily",
+            "meaning": "보통",
+            "note": "일반적으로 또는 대부분의 경우를 가리킵니다."
+          },
+          {
+            "word": "secondhand",
+            "meaning": "중고의",
+            "note": "다른 사람의 것을 빌려 쓰거나 모방하는 상황을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "negative-imperative",
+      "notes": {
+        "korean": "누구도 흉내 내지 말고, 누구도 따르지 마세요. 그렇지 않으면 가짜 존재가 될 뿐이고, 그것은 자살보다 나쁘답니다.",
+        "explanation": "문장은 개인의 독창성과 진정한 자아 실현의 중요성을 강조하며, 타인을 모방하거나 따르는 것이 결국은 무의미하고 불행한 삶을 초래할 수 있다는 경고를 담고 있습니다.",
+        "grammar": "「Do not imitate」는 동사원형을 이용한 부정 명령 표현입니다. 주어 you를 따로 쓰지 않고 그 행동을 하지 말라고 말합니다.",
+        "vocabulary": [
+          {
+            "word": "imitate",
+            "meaning": "흉내 내다",
+            "note": "다른 사람의 행동이나 특성을 따라하는 것을 의미합니다."
+          },
+          {
+            "word": "existence",
+            "meaning": "존재",
+            "note": "개인의 삶이나 실체를 가리키며, 여기서는 진정한 자기 자신으로서의 존재를 강조합니다."
+          },
+          {
+            "word": "suicide",
+            "meaning": "자살",
+            "note": "극단적인 선택을 의미하며, 문장에서는 삶의 무의미함을 강조하기 위해 비유적으로 사용되었습니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

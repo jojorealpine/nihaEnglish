@@ -1,0 +1,37 @@
+{
+  "key": "letter-057-part-02",
+  "number": 57,
+  "generationId": "01a1e5b2-5d85-7f49-8e2a-32131a8609c4",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "In it the self dies and the all is born.",
+      "path": "audio/1969-57/11.mp3",
+      "start": 0.0,
+      "end": 3.373243
+    },
+    {
+      "index": 11,
+      "text": "So there is certainly pain - in the birth as well as in the death.",
+      "path": "audio/1969-57/12.mp3",
+      "start": 4.902268,
+      "end": 9.434422
+    },
+    {
+      "index": 12,
+      "text": "Love is the deep anguish of birth as well as death.",
+      "path": "audio/1969-57/13.mp3",
+      "start": 10.851905,
+      "end": 14.907369999999998
+    },
+    {
+      "index": 13,
+      "text": "But the poetry flowering in you shows that you have begun to experience the joy that lies in love's anguish.",
+      "path": "audio/1969-57/14.mp3",
+      "start": 16.455737,
+      "end": 23.72
+    }
+  ]
+}

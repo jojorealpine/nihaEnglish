@@ -1,0 +1,37 @@
+{
+  "key": "letter-306-part-01",
+  "number": 306,
+  "generationId": "01a1e907-addb-79dd-9cc5-d6215654e9db",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-306/01.mp3",
+      "start": 0.0,
+      "end": 0.718866
+    },
+    {
+      "index": 1,
+      "text": "The mind lives in a logical somnambulism, and it feeds on arguments and words You cannot come out of it gradually or logically or rationally.",
+      "path": "audio/1971-306/02.mp3",
+      "start": 2.120272,
+      "end": 11.423311
+    },
+    {
+      "index": 2,
+      "text": "Rather, take the jump, illogical and irrational - and the jump can be nothing else than that.",
+      "path": "audio/1971-306/03.mp3",
+      "start": 12.806961000000001,
+      "end": 19.264898000000002
+    },
+    {
+      "index": 3,
+      "text": "It cannot be calculated or conceptualized or predetermined because it is going into the unknown and the unchartered and the unpredictable, and ultimately not only into the unknown but into the unknowable also.",
+      "path": "audio/1971-306/04.mp3",
+      "start": 20.654875,
+      "end": 37.15
+    }
+  ]
+}

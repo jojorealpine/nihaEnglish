@@ -1,0 +1,37 @@
+{
+  "key": "letter-134-part-02",
+  "number": 134,
+  "generationId": "01a1e6cd-8d9b-7641-9bd1-9e434630e2c1",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "All our mistakes have been burnt to ashes, thank God!",
+      "path": "audio/1970-134/11.mp3",
+      "start": 0.0,
+      "end": 3.108231
+    },
+    {
+      "index": 11,
+      "text": "Now we can begin afresh, all over again!",
+      "path": "audio/1970-134/12.mp3",
+      "start": 4.511587,
+      "end": 7.508231
+    },
+    {
+      "index": 12,
+      "text": "God's grace is endless.",
+      "path": "audio/1970-134/13.mp3",
+      "start": 8.96771,
+      "end": 10.751474
+    },
+    {
+      "index": 13,
+      "text": "We just need the eyes to see it.",
+      "path": "audio/1970-134/14.mp3",
+      "start": 12.234376000000001,
+      "end": 14.29
+    }
+  ]
+}

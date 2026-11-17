@@ -1,0 +1,16 @@
+{
+  "key": "letter-048-part-02",
+  "number": 48,
+  "generationId": "01a1e4f1-19d6-782b-b7f2-b7b51ca2e562",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Regards to everyone there.",
+      "path": "audio/1968-48/11.mp3",
+      "start": 0.0,
+      "end": 1.7
+    }
+  ]
+}

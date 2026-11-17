@@ -1,0 +1,16 @@
+{
+  "key": "letter-209-part-02",
+  "number": 209,
+  "generationId": "01a1e8f0-1e1a-7c30-875a-b179931c45ae",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Grow wings, and do not buy crutches.",
+      "path": "audio/1971-209/11.mp3",
+      "start": 0.0,
+      "end": 2.22
+    }
+  ]
+}

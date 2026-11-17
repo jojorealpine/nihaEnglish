@@ -1,0 +1,123 @@
+{
+  "sourceHash": "fe15e3fe62df3210d574236fbe4041077380e28fa3cd710ca5ffd5773ee70095",
+  "sentences": {
+    "1": {
+      "method": "authored seed",
+      "notes": {
+        "korean": "사랑을 전합니다.",
+        "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+        "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+        "vocabulary": [
+          {
+            "word": "Love",
+            "meaning": "사랑, 애정",
+            "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "Love",
+            "meaning": "사랑을 전하며",
+            "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+          }
+        ]
+      }
+    },
+    "4": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "이것이 두 가지 방법입니다.",
+        "explanation": "문장은 선택지나 행동의 두 가지 경로를 설명하고 있습니다.",
+        "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "ways",
+            "meaning": "방법, 경로",
+            "note": "여기서는 선택지나 행동을 취하는 두 가지 방식을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "5": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "be",
+      "notes": {
+        "korean": "첫 번째는 삼매의 길입니다, 그리고 두 번째는 마음의 길입니다.",
+        "explanation": "문장은 두 가지 경로를 설명하며, 첫 번째 경로는 삼매(명상)을 통해 이르는 길임을, 두 번째 경로는 마음의 작용을 통해 이르는 길임을 나타냅니다.",
+        "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+        "vocabulary": [
+          {
+            "word": "meditation",
+            "meaning": "삼매",
+            "note": "정신을 집중시키고 내면의 평화와 깨달음을 추구하는 수행 방법을 의미합니다."
+          },
+          {
+            "word": "second",
+            "meaning": "두 번째",
+            "note": "순서나 목록에서 두 번째로 언급된 것을 가리킵니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "2": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "present",
+      "notes": {
+        "korean": "자신 안으로 더 깊이 들어갈수록 스스로를 덜 발견하게 되지만, 이것이 바로 네 존재의 핵심이야.",
+        "explanation": "자신의 내면을 깊이 탐구할수록 외부적인 자아 인식보다는 더 깊은 내면의 자아 이해에 도달하게 된다는 의미입니다.",
+        "grammar": "동사 「go」는 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰며, 이 형태에는 3인칭 단수의 -s가 붙지 않습니다.",
+        "vocabulary": [
+          {
+            "word": "deeply",
+            "meaning": "깊이",
+            "note": "여기서는 내면으로의 깊은 탐구나 이해를 의미합니다."
+          },
+          {
+            "word": "heart",
+            "meaning": "심장",
+            "note": "비유적으로 사용되어 '핵심', '본질'을 의미합니다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    },
+    "3": {
+      "method": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+      "grammarMethod": "spaCy en_core_web_sm + construction templates",
+      "grammarPoint": "modal",
+      "notes": {
+        "korean": "반대로 말하면, 외부로 향할수록 자신을 더 많이 발견하게 되는데, 이것이 바로 네가 존재하지 않는 상태의 핵심이다.",
+        "explanation": "문장은 내면으로 향할수록 자신을 덜 발견하게 되는 것과 대비하여, 외부로 더 많이 참여하거나 활동할수록 자신을 더 잘 이해하게 된다는 개념을 제시한다. 이는 존재와 비존재의 본질적인 관계를 설명한다.",
+        "grammar": "「will find」에서 조동사 will 뒤에 동사원형 「find」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+        "vocabulary": [
+          {
+            "word": "vice",
+            "meaning": "반대",
+            "note": "문장에서 '반대로'라는 의미로 사용되어 대조를 이룬다."
+          },
+          {
+            "word": "versa",
+            "meaning": "그 반대의 경우",
+            "note": "문장에서 대조되는 상황을 설명하기 위해 사용되며, '반대의 경우'를 의미한다."
+          },
+          {
+            "word": "heart",
+            "meaning": "핵심",
+            "note": "문장에서 본질적인 의미나 핵심 개념을 지칭하며, 여기서는 '본질'을 나타낸다."
+          }
+        ],
+        "expressions": []
+      },
+      "grammarRevision": "a5d5a538d9a3"
+    }
+  }
+}

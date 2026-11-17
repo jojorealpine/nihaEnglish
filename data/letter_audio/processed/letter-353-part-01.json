@@ -1,0 +1,72 @@
+{
+  "key": "letter-353-part-01",
+  "number": 353,
+  "generationId": "01a1e916-e1b4-75c0-a656-22658d602dfa",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-353/01.mp3",
+      "start": 0.0,
+      "end": 0.569342
+    },
+    {
+      "index": 1,
+      "text": "A monk asked Daishu Ekai, What is nirvana?",
+      "path": "audio/1971-353/02.mp3",
+      "start": 1.736735,
+      "end": 4.70805
+    },
+    {
+      "index": 2,
+      "text": "The master answered: Not to commit oneself to the vicious circle of birth and death or pleasure and pain is great nirvana.",
+      "path": "audio/1971-353/03.mp3",
+      "start": 6.0047619999999995,
+      "end": 12.828254
+    },
+    {
+      "index": 3,
+      "text": "What then is the vicious circle of birth and death and pleasure and pain?",
+      "path": "audio/1971-353/04.mp3",
+      "start": 14.094898,
+      "end": 17.710385000000002
+    },
+    {
+      "index": 4,
+      "text": "The master said: To desire nirvana!",
+      "path": "audio/1971-353/05.mp3",
+      "start": 19.020045,
+      "end": 22.338685
+    },
+    {
+      "index": 5,
+      "text": "Now be silent and feel what is meant by to desire nirvana, and remember that I am not saying think about it because to think is to miss it.",
+      "path": "audio/1971-353/06.mp3",
+      "start": 23.824966,
+      "end": 32.946349
+    },
+    {
+      "index": 6,
+      "text": "Feel it.",
+      "path": "audio/1971-353/07.mp3",
+      "start": 34.34805,
+      "end": 35.197731999999995
+    },
+    {
+      "index": 7,
+      "text": "Feel it.",
+      "path": "audio/1971-353/08.mp3",
+      "start": 36.523878,
+      "end": 37.433468999999995
+    },
+    {
+      "index": 8,
+      "text": "Feel it.",
+      "path": "audio/1971-353/09.mp3",
+      "start": 38.88102,
+      "end": 40.02
+    }
+  ]
+}

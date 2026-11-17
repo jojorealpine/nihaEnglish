@@ -1,0 +1,544 @@
+{
+  "id": "1970-106",
+  "title": "1970 / 106",
+  "lesson": "",
+  "youtubeUrl": "",
+  "vocabulary": [
+    {
+      "word": "Love",
+      "meaning": "사랑, 애정",
+      "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "happiness",
+      "meaning": "행복",
+      "note": "긍정적인 감정 상태를 나타내며, 이 문맥에서는 새로운 변화를 지켜보는 행위로 인한 만족감을 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "witness",
+      "meaning": "목격하다",
+      "note": "어떤 사건이나 변화를 직접 보거나 경험함으로써 그 과정에 참여하거나 관찰하는 것을 의미합니다.",
+      "sentenceIds": [
+        2
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "rightly",
+      "meaning": "바르게",
+      "note": "여기서는 올바른 방향이나 길을 의미합니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "assured",
+      "meaning": "확신하다",
+      "note": "현재 상황에 대한 확실한 믿음이나 확신을 나타냅니다.",
+      "sentenceIds": [
+        3
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "promise",
+      "meaning": "약속",
+      "note": "어떤 일을 이루겠다는 의지나 서약을 의미합니다.",
+      "sentenceIds": [
+        4,
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fulfilled",
+      "meaning": "성취되다",
+      "note": "약속이나 목표가 실제로 이루어지거나 달성되었다는 뜻입니다.",
+      "sentenceIds": [
+        4
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "fulfill",
+      "meaning": "이행하다, 이행",
+      "note": "이 문장에서는 약속의 일부를 이행하는 행동을 의미합니다.",
+      "sentenceIds": [
+        5
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Time",
+      "meaning": "시간",
+      "note": "상황의 긴박함을 나타냅니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "short",
+      "meaning": "짧은",
+      "note": "시간의 제약과 제한된 기회를 강조합니다.",
+      "sentenceIds": [
+        6
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "journey",
+      "meaning": "여정, 여행",
+      "note": "여기서는 영적 또는 내면적 성장의 과정을 의미할 가능성이 높다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "infinite",
+      "meaning": "무한한",
+      "note": "여정이 끝이 없고 계속될 수 있음을 강조한다.",
+      "sentenceIds": [
+        7
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "sitting",
+      "meaning": "앉아 있다",
+      "note": "이 문맥에서는 강가에 앉아 시간을 보내는 상황을 나타냅니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "favorable",
+      "meaning": "유리한",
+      "note": "바람의 방향이 현재 여행이나 여정을 시작하기에 적합하다는 의미입니다.",
+      "sentenceIds": [
+        8
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "pushing",
+      "meaning": "밀어내다",
+      "note": "강하게 행동하거나 누군가를 움직이게 하려는 의지를 나타냄",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "earnestly",
+      "meaning": "간절히",
+      "note": "강한 의지나 열정을 표현하며, 행동의 진지함을 강조함",
+      "sentenceIds": [
+        9
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "grace",
+      "meaning": "은총",
+      "note": "신의 자비로운 선물이나 도움을 의미합니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "showering",
+      "meaning": "쏟아지다",
+      "note": "은총이 끊임없이 내려오는 모습을 비유적으로 표현합니다.",
+      "sentenceIds": [
+        10
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "Dance",
+      "meaning": "춤추다",
+      "note": "활동적으로 즐기거나 표현하는 행위를 나타냄",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "drink",
+      "meaning": "흡수하다",
+      "note": "경험이나 감정을 깊이 받아들이는 것을 비유적으로 표현",
+      "sentenceIds": [
+        11
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "nectar",
+      "meaning": "꿀물, 달콤한 음료",
+      "note": "여기서는 비유적으로 매우 귀중하거나 달콤한 무언가를 의미한다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    },
+    {
+      "word": "thirsty",
+      "meaning": "목마르다",
+      "note": "물리적인 목마름을 의미하며, 이 문장에서는 더 넓은 의미로 갈망이나 부족함을 나타낼 수 있다.",
+      "sentenceIds": [
+        12
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "expressions": [
+    {
+      "expression": "Love",
+      "meaning": "사랑을 전하며",
+      "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다.",
+      "sentenceIds": [
+        1
+      ],
+      "studyGenerated": true
+    }
+  ],
+  "paragraphs": [
+    [
+      0
+    ],
+    [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Love.",
+      "korean": "사랑을 전합니다.",
+      "explanation": "편지의 머리말로, 받는 이에게 애정과 따뜻한 마음을 전하는 인사입니다.",
+      "grammar": "Love라는 명사만 쓴 인사말입니다. 주어와 동사가 갖춰진 완전한 서술문이 아니라, 편지의 문맥에서 뜻이 통하는 짧은 명사구입니다.",
+      "audio": "audio/1970-106/01.mp3",
+      "vocabulary": [
+        {
+          "word": "Love",
+          "meaning": "사랑, 애정",
+          "note": "여기서는 연애 감정에 한정하지 않고 상대에게 전하는 따뜻한 마음을 뜻합니다."
+        }
+      ],
+      "expressions": [
+        {
+          "expression": "Love",
+          "meaning": "사랑을 전하며",
+          "explanation": "이 편지에서는 애정을 담아 말을 시작하는 머리말로 사용합니다."
+        }
+      ],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 2,
+      "english": "It brings me happiness to bear witness to your new birth.",
+      "korean": "당신의 새로운 탄생을 지켜보는 것은 제게 행복을 가져다줍니다.",
+      "explanation": "문장의 의미: 새로운 변화나 성장을 지켜보는 것이 주는 기쁨과 만족감을 표현합니다.",
+      "grammar": "동사 「brings」는 bring의 3인칭 단수 현재형입니다. 현재의 상태나 반복되는 일, 일반적인 사실을 나타낼 때 쓰는 형태입니다.",
+      "audio": "audio/1970-106/02.mp3",
+      "vocabulary": [
+        {
+          "word": "happiness",
+          "meaning": "행복",
+          "note": "긍정적인 감정 상태를 나타내며, 이 문맥에서는 새로운 변화를 지켜보는 행위로 인한 만족감을 의미합니다."
+        },
+        {
+          "word": "witness",
+          "meaning": "목격하다",
+          "note": "어떤 사건이나 변화를 직접 보거나 경험함으로써 그 과정에 참여하거나 관찰하는 것을 의미합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 3,
+      "english": "You have worked for it over many lives and now the boat flows rightly, I can rest assured about you.",
+      "korean": "많은 삶을 거쳐 노력한 결과, 이제 당신은 올바른 길을 걷고 있어 안심할 수 있습니다.",
+      "explanation": "문장은 과거의 지속적인 노력이 현재의 긍정적인 상태로 이어졌음을 강조하며, 그 결과로 인해 현재 상황에 대한 확신을 표현합니다.",
+      "grammar": "「have worked」는 have/has + 과거분사로 만든 현재완료 표현입니다. 과거의 일이 현재와 연결되는 완료·경험·결과·지속을 나타냅니다.",
+      "audio": "audio/1970-106/03.mp3",
+      "vocabulary": [
+        {
+          "word": "rightly",
+          "meaning": "바르게",
+          "note": "여기서는 올바른 방향이나 길을 의미합니다."
+        },
+        {
+          "word": "assured",
+          "meaning": "확신하다",
+          "note": "현재 상황에 대한 확실한 믿음이나 확신을 나타냅니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 4,
+      "english": "Once I made you a promise and this is now fulfilled.",
+      "korean": "약속을 했고, 지금 그 약속이 이루어졌습니다.",
+      "explanation": "약속을 한 후 그 약속이 현재 성취되었다는 의미입니다.",
+      "grammar": "동사 「made」는 make의 과거형입니다. 이 절은 과거에 일어난 일이나 당시의 상태를 말합니다.",
+      "audio": "audio/1970-106/04.mp3",
+      "vocabulary": [
+        {
+          "word": "promise",
+          "meaning": "약속",
+          "note": "어떤 일을 이루겠다는 의지나 서약을 의미합니다."
+        },
+        {
+          "word": "fulfilled",
+          "meaning": "성취되다",
+          "note": "약속이나 목표가 실제로 이루어지거나 달성되었다는 뜻입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 5,
+      "english": "It is your turn to fulfill your part of the promise; make sure you don't miss the chance.",
+      "korean": "약속의 네 부분을 이행할 차례이니 기회를 놓치지 마세요.",
+      "explanation": "약속을 이행하는 것이 상대방의 차례임을 강조하고, 그러한 기회를 소중히 여기라는 의미입니다.",
+      "grammar": "동사원형 「make」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-106/05.mp3",
+      "vocabulary": [
+        {
+          "word": "fulfill",
+          "meaning": "이행하다, 이행",
+          "note": "이 문장에서는 약속의 일부를 이행하는 행동을 의미합니다."
+        },
+        {
+          "word": "promise",
+          "meaning": "약속",
+          "note": "두 당사자 간에 이루어진 약속을 가리킵니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 6,
+      "english": "Time is short and I may not be able to be with you again.",
+      "korean": "시간이 촉박하고 다시 함께할 기회가 없을 수도 있어요.",
+      "explanation": "시간의 제약과 미래의 재회 가능성에 대한 우려를 표현합니다.",
+      "grammar": "「is」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-106/06.mp3",
+      "vocabulary": [
+        {
+          "word": "Time",
+          "meaning": "시간",
+          "note": "상황의 긴박함을 나타냅니다."
+        },
+        {
+          "word": "short",
+          "meaning": "짧은",
+          "note": "시간의 제약과 제한된 기회를 강조합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 7,
+      "english": "Muster your whole will, take the oars in your hands and begin the journey that is infinite.",
+      "korean": "온 힘을 모아 노를 잡고 무한한 여정을 시작하라.",
+      "explanation": "모든 의지를 결집하고 여정을 시작하라는 격려의 메시지",
+      "grammar": "동사원형 「take」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-106/07.mp3",
+      "vocabulary": [
+        {
+          "word": "journey",
+          "meaning": "여정, 여행",
+          "note": "여기서는 영적 또는 내면적 성장의 과정을 의미할 가능성이 높다."
+        },
+        {
+          "word": "infinite",
+          "meaning": "무한한",
+          "note": "여정이 끝이 없고 계속될 수 있음을 강조한다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 8,
+      "english": "You have wasted much time sitting on the banks; now the winds are favorable.",
+      "korean": "강가에 앉아 시간을 낭비했지만, 이제 바람이 유리하게 불고 있으니 움직여야 합니다.",
+      "explanation": "강가에 오랫동안 앉아 있던 상황에서 시간을 낭비했음을 지적하고, 이제 기회가 왔으니 행동을 취해야 함을 강조하는 문장입니다.",
+      "grammar": "「are」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-106/08.mp3",
+      "vocabulary": [
+        {
+          "word": "sitting",
+          "meaning": "앉아 있다",
+          "note": "이 문맥에서는 강가에 앉아 시간을 보내는 상황을 나타냅니다."
+        },
+        {
+          "word": "favorable",
+          "meaning": "유리한",
+          "note": "바람의 방향이 현재 여행이나 여정을 시작하기에 적합하다는 의미입니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 9,
+      "english": "This I know, and that's why I am pushing you off the banks so earnestly.",
+      "korean": "나는 이것을 알고 있기에, 당신을 강가에서 그토록 간절히 밀어내는 것이다.",
+      "explanation": "강가에서 시간을 낭비하지 말고 기회를 잡아야 한다는 강한 권유의 의미",
+      "grammar": "「's」는 be동사의 현재형입니다. 문맥에 따라 주어의 상태·성질·위치 또는 존재를 나타내는 동사입니다.",
+      "audio": "audio/1970-106/09.mp3",
+      "vocabulary": [
+        {
+          "word": "pushing",
+          "meaning": "밀어내다",
+          "note": "강하게 행동하거나 누군가를 움직이게 하려는 의지를 나타냄"
+        },
+        {
+          "word": "earnestly",
+          "meaning": "간절히",
+          "note": "강한 의지나 열정을 표현하며, 행동의 진지함을 강조함"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 10,
+      "english": "God's grace is showering - be open to it and let it in.",
+      "korean": "신의 은총이 쏟아지고 있으니, 그것을 받아들이고 받아들이세요.",
+      "explanation": "신의 은총이 끊임없이 내려오고 있음을 강조하며, 그 은총을 적극적으로 수용하길 권유하는 내용입니다.",
+      "grammar": "동사원형 「be」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-106/10.mp3",
+      "vocabulary": [
+        {
+          "word": "grace",
+          "meaning": "은총",
+          "note": "신의 자비로운 선물이나 도움을 의미합니다."
+        },
+        {
+          "word": "showering",
+          "meaning": "쏟아지다",
+          "note": "은총이 끊임없이 내려오는 모습을 비유적으로 표현합니다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 11,
+      "english": "Dance it and drink it in!",
+      "korean": "춤추고 흡수하라!",
+      "explanation": "움직임으로 즐기고 그 경험을 깊이 받아들이라는 의미",
+      "grammar": "동사원형 「Dance」가 쓰인 부분은 명령문으로 읽습니다. 주어 you를 따로 쓰지 않고 행동을 권하거나 요청하는 형태입니다.",
+      "audio": "audio/1970-106/11.mp3",
+      "vocabulary": [
+        {
+          "word": "Dance",
+          "meaning": "춤추다",
+          "note": "활동적으로 즐기거나 표현하는 행위를 나타냄"
+        },
+        {
+          "word": "drink",
+          "meaning": "흡수하다",
+          "note": "경험이나 감정을 깊이 받아들이는 것을 비유적으로 표현"
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    },
+    {
+      "id": 12,
+      "english": "With such nectar at hand will you still stay thirsty?",
+      "korean": "그런 꿀물이 있는데 여전히 목마르겠니?",
+      "explanation": "주어진 문장은 달콤하고 귀한 무언가(여기서는 비유적으로 꿀물으로 표현)가 있음에도 불구하고 여전히 갈망이나 부족함을 느끼겠냐는 질문을 던지고 있다.",
+      "grammar": "「will you still stay」에서 조동사 will 뒤에 동사원형 「stay」가 옵니다. will은 문맥에 따라 미래의 일이나 의지 등을 나타냅니다.",
+      "audio": "audio/1970-106/12.mp3",
+      "vocabulary": [
+        {
+          "word": "nectar",
+          "meaning": "꿀물, 달콤한 음료",
+          "note": "여기서는 비유적으로 매우 귀중하거나 달콤한 무언가를 의미한다."
+        },
+        {
+          "word": "thirsty",
+          "meaning": "목마르다",
+          "note": "물리적인 목마름을 의미하며, 이 문장에서는 더 넓은 의미로 갈망이나 부족함을 나타낼 수 있다."
+        }
+      ],
+      "expressions": [],
+      "studyStatus": "generated"
+    }
+  ],
+  "translations": [
+    "사랑을 전합니다.",
+    "당신의 새로운 탄생을 지켜보는 것은 제게 행복을 가져다줍니다. 많은 삶을 거쳐 노력한 결과, 이제 당신은 올바른 길을 걷고 있어 안심할 수 있습니다. 약속을 했고, 지금 그 약속이 이루어졌습니다. 약속의 네 부분을 이행할 차례이니 기회를 놓치지 마세요. 시간이 촉박하고 다시 함께할 기회가 없을 수도 있어요. 온 힘을 모아 노를 잡고 무한한 여정을 시작하라. 강가에 앉아 시간을 낭비했지만, 이제 바람이 유리하게 불고 있으니 움직여야 합니다. 나는 이것을 알고 있기에, 당신을 강가에서 그토록 간절히 밀어내는 것이다. 신의 은총이 쏟아지고 있으니, 그것을 받아들이고 받아들이세요. 춤추고 흡수하라! 그런 꿀물이 있는데 여전히 목마르겠니?"
+  ],
+  "fullAudio": "audio/1970-106/script_all.mp3",
+  "originalText": "Love.\n\nIt brings me happiness to bear witness to your new birth.\nYou have worked for it over many lives\nand now the boat flows rightly,\nI can rest assured about you.\nOnce I made you a promise\nand this is now fulfilled.\nIt is your turn to fulfill your part of the promise;\nmake sure you don't miss the chance.\nTime is short\nand I may not be able to be with you again.\nMuster your whole will,\ntake the oars in your hands\nand begin the journey that is infinite.\nYou have wasted much time sitting on the banks;\nnow the winds are favorable.\nThis I know,\nand that's why I am pushing you off\nthe banks so earnestly.\nGod's grace is showering -\nbe open to it and let it in.\nDance it and drink it in!\nWith such nectar at hand will you still stay thirsty?",
+  "contentStatus": {
+    "transcription": "ocr",
+    "translation": "generated",
+    "studyNotes": "generated",
+    "audio": "ready"
+  },
+  "source": {
+    "type": "user-provided scans",
+    "directory": "letter_scan",
+    "letterNumber": 106,
+    "year": 1970,
+    "pages": [
+      {
+        "file": "IMG_0816 2.JPG",
+        "side": "right",
+        "printedPage": 83
+      },
+      {
+        "file": "IMG_0817 2.JPG",
+        "side": "left",
+        "printedPage": 84
+      }
+    ],
+    "ocrEngine": "macOS Vision",
+    "fullManualReview": false
+  },
+  "studyGeneration": {
+    "model": "mlx-community/EXAONE-3.5-7.8B-Instruct-4bit",
+    "review": "automated validation and selected manual samples",
+    "fullManualReview": false,
+    "translationGenerated": true,
+    "grammar": "spaCy en_core_web_sm + construction templates",
+    "grammarRevision": "a5d5a538d9a3"
+  },
+  "audioVoice": "Views"
+}

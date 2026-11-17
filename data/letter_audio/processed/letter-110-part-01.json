@@ -1,0 +1,58 @@
+{
+  "key": "letter-110-part-01",
+  "number": 110,
+  "generationId": "01a1e635-3502-70d2-8154-968199b161b6",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-110/01.mp3",
+      "start": 0.0,
+      "end": 0.689501
+    },
+    {
+      "index": 1,
+      "text": "I am glad to get your letter.",
+      "path": "audio/1970-110/02.mp3",
+      "start": 1.9105439999999998,
+      "end": 3.410113
+    },
+    {
+      "index": 2,
+      "text": "The moment of the inward revolution is near but first you have to go through the birth pangs.",
+      "path": "audio/1970-110/03.mp3",
+      "start": 4.65941,
+      "end": 9.903673
+    },
+    {
+      "index": 3,
+      "text": "Nothing hurts more than this giving birth to oneself but what comes after it is life's greatest bliss.",
+      "path": "audio/1970-110/04.mp3",
+      "start": 11.169252,
+      "end": 17.571973
+    },
+    {
+      "index": 4,
+      "text": "So, longing, waiting, prayer - take these for your sadhana.",
+      "path": "audio/1970-110/05.mp3",
+      "start": 18.878118,
+      "end": 24.723560000000003
+    },
+    {
+      "index": 5,
+      "text": "Everything else is fine.",
+      "path": "audio/1970-110/06.mp3",
+      "start": 26.310045,
+      "end": 28.530998
+    },
+    {
+      "index": 6,
+      "text": "My regards to all.",
+      "path": "audio/1970-110/07.mp3",
+      "start": 29.932085999999998,
+      "end": 31.84
+    }
+  ]
+}

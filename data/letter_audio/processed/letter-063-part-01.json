@@ -1,0 +1,51 @@
+{
+  "key": "letter-063-part-01",
+  "number": 63,
+  "generationId": "01a1e5b8-dd9e-791b-98e6-de50c85f1da9",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-63/01.mp3",
+      "start": 0.0,
+      "end": 0.677483
+    },
+    {
+      "index": 1,
+      "text": "I was happy to receive your letter.",
+      "path": "audio/1969-63/02.mp3",
+      "start": 2.128413,
+      "end": 4.044422
+    },
+    {
+      "index": 2,
+      "text": "The drop doesn't have to become the ocean.",
+      "path": "audio/1969-63/03.mp3",
+      "start": 5.701293,
+      "end": 8.320317
+    },
+    {
+      "index": 3,
+      "text": "It already is the ocean, it just has to know it.",
+      "path": "audio/1969-63/04.mp3",
+      "start": 9.912109000000001,
+      "end": 13.410022999999999
+    },
+    {
+      "index": 4,
+      "text": "What is, however it is - to know it as it is, is truth.",
+      "path": "audio/1969-63/05.mp3",
+      "start": 14.985737,
+      "end": 19.868481000000003
+    },
+    {
+      "index": 5,
+      "text": "And truth liberates.",
+      "path": "audio/1969-63/06.mp3",
+      "start": 21.381429,
+      "end": 23.3
+    }
+  ]
+}

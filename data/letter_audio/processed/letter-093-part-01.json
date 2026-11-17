@@ -1,0 +1,44 @@
+{
+  "key": "letter-093-part-01",
+  "number": 93,
+  "generationId": "01a1e631-a623-7a39-8889-c8c4f334cdbd",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-93/01.mp3",
+      "start": 0.0,
+      "end": 0.66941
+    },
+    {
+      "index": 1,
+      "text": "Search, search and search - so much that finally the seeker vanishes.",
+      "path": "audio/1970-93/02.mp3",
+      "start": 2.1576869999999997,
+      "end": 7.418866
+    },
+    {
+      "index": 2,
+      "text": "There you meet him.",
+      "path": "audio/1970-93/03.mp3",
+      "start": 9.103424,
+      "end": 10.102744
+    },
+    {
+      "index": 3,
+      "text": "Where the I is lost, there he is.",
+      "path": "audio/1970-93/04.mp3",
+      "start": 11.793673,
+      "end": 14.229002
+    },
+    {
+      "index": 4,
+      "text": "There is not, and never has been, any wall between - except for the I",
+      "path": "audio/1970-93/05.mp3",
+      "start": 15.794853000000002,
+      "end": 22.23
+    }
+  ]
+}

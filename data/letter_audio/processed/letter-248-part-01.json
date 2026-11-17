@@ -1,0 +1,51 @@
+{
+  "key": "letter-248-part-01",
+  "number": 248,
+  "generationId": "01a1e8fa-5631-776d-9d32-a47436d36512",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-248/01.mp3",
+      "start": 0.0,
+      "end": 0.581723
+    },
+    {
+      "index": 1,
+      "text": "Logic is not all; nor is consistency; because even madness has its own methods, rationalizations and inner consistencies.",
+      "path": "audio/1971-248/02.mp3",
+      "start": 1.8360539999999999,
+      "end": 9.617483
+    },
+    {
+      "index": 2,
+      "text": "A madman was throwing handfuls of crumbs around his house.",
+      "path": "audio/1971-248/03.mp3",
+      "start": 10.970045,
+      "end": 14.582766
+    },
+    {
+      "index": 3,
+      "text": "What are you doing? someone asked him.",
+      "path": "audio/1971-248/04.mp3",
+      "start": 16.01941,
+      "end": 18.508821
+    },
+    {
+      "index": 4,
+      "text": "Keeping the elephants away, he answered But there are no elephants in these parts, said the enquirer.",
+      "path": "audio/1971-248/05.mp3",
+      "start": 19.824467,
+      "end": 26.274626
+    },
+    {
+      "index": 5,
+      "text": "That's right - my method is effective, isn't it? declared the madman.",
+      "path": "audio/1971-248/06.mp3",
+      "start": 27.876077,
+      "end": 33.1
+    }
+  ]
+}

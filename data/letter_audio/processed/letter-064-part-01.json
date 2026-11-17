@@ -1,0 +1,30 @@
+{
+  "key": "letter-064-part-01",
+  "number": 64,
+  "generationId": "01a1e5b9-04d3-791f-8cd9-87c838152d0f",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1969-64/01.mp3",
+      "start": 0.0,
+      "end": 0.6379589999999999
+    },
+    {
+      "index": 1,
+      "text": "Life is an infinite mystery, therefore those who are filled with knowledge are deprived of life.",
+      "path": "audio/1969-64/02.mp3",
+      "start": 2.124059,
+      "end": 8.829524
+    },
+    {
+      "index": 2,
+      "text": "Life becomes known only to the innocent, to those whose intuition is not covered with the dust of knowledge.",
+      "path": "audio/1969-64/03.mp3",
+      "start": 10.218141000000001,
+      "end": 17.58
+    }
+  ]
+}

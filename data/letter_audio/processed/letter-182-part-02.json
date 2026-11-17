@@ -1,0 +1,30 @@
+{
+  "key": "letter-182-part-02",
+  "number": 182,
+  "generationId": "01a1e8e8-2121-761d-915a-b1fa726089cb",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "And that is God.",
+      "path": "audio/1971-182/11.mp3",
+      "start": 0.0,
+      "end": 1.2329020000000002
+    },
+    {
+      "index": 11,
+      "text": "But it is only when you are not because you are the dust which makes the mirror blind.",
+      "path": "audio/1971-182/12.mp3",
+      "start": 2.744195,
+      "end": 8.414444
+    },
+    {
+      "index": 12,
+      "text": "Because you are the blindness.",
+      "path": "audio/1971-182/13.mp3",
+      "start": 9.988526,
+      "end": 12.2
+    }
+  ]
+}

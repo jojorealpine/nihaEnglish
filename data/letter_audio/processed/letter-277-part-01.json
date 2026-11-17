@@ -1,0 +1,37 @@
+{
+  "key": "letter-277-part-01",
+  "number": 277,
+  "generationId": "01a1e900-68b7-74c3-b65c-bfadaf040ee5",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-277/01.mp3",
+      "start": 0.0,
+      "end": 0.65
+    },
+    {
+      "index": 1,
+      "text": "Nothing great is ever accomplished without going mad, that is, without breaking through the ordinary level of consciousness",
+      "path": "audio/1971-277/02.mp3",
+      "start": 2.077415,
+      "end": 10.412811999999999
+    },
+    {
+      "index": 2,
+      "text": "and letting loose the hidden powers lying further below, and also penetrating to the realm that is further above.",
+      "path": "audio/1971-277/03.mp3",
+      "start": 11.810884000000001,
+      "end": 19.331383000000002
+    },
+    {
+      "index": 3,
+      "text": "And it may not be true for any other great thing, but it is absolutely true as far as meditation is concerned Meditation means madness - of course, with a method!",
+      "path": "audio/1971-277/04.mp3",
+      "start": 20.887166,
+      "end": 32.91
+    }
+  ]
+}

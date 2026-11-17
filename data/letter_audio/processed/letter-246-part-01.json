@@ -1,0 +1,72 @@
+{
+  "key": "letter-246-part-01",
+  "number": 246,
+  "generationId": "01a1e8f9-ce07-714a-b189-2af7b648e0b5",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-246/01.mp3",
+      "start": 0.0,
+      "end": 0.829887
+    },
+    {
+      "index": 1,
+      "text": "The self can never be free - because the self itself is the bondage.",
+      "path": "audio/1971-246/02.mp3",
+      "start": 2.1745799999999997,
+      "end": 6.6054200000000005
+    },
+    {
+      "index": 2,
+      "text": "This is the meaning of the penetrating saying of Jesus: He that saveth his life shall lose it and he that loseth his life shall know life abundant.",
+      "path": "audio/1971-246/03.mp3",
+      "start": 8.064172000000001,
+      "end": 16.998163
+    },
+    {
+      "index": 3,
+      "text": "Or that of Lao Tzu in Tao-te-Ching: He who humbles himself shall be saved, he who bends shall be made straight, and he who empties himself shall be filled.",
+      "path": "audio/1971-246/04.mp3",
+      "start": 18.393243,
+      "end": 29.310522000000002
+    },
+    {
+      "index": 4,
+      "text": "One is not to make the self free; rather on the contrary, one has to be free from the self.",
+      "path": "audio/1971-246/05.mp3",
+      "start": 30.908141,
+      "end": 37.128163
+    },
+    {
+      "index": 5,
+      "text": "The self is nothing but the husk of the seed.",
+      "path": "audio/1971-246/06.mp3",
+      "start": 38.597982,
+      "end": 41.361179
+    },
+    {
+      "index": 6,
+      "text": "Do not cling to it.",
+      "path": "audio/1971-246/07.mp3",
+      "start": 42.683673000000006,
+      "end": 43.994353999999994
+    },
+    {
+      "index": 7,
+      "text": "Sings Wu Ming Fu: The seed that has to grow must lose itself as a seed, and they that creep may be transformed through the chrysalis to wings.",
+      "path": "audio/1971-246/08.mp3",
+      "start": 45.33966,
+      "end": 54.400068
+    },
+    {
+      "index": 8,
+      "text": "Wilt thou then, O mortal, cling to husks which wrongly seem to you to be the self?",
+      "path": "audio/1971-246/09.mp3",
+      "start": 55.738435,
+      "end": 60.63
+    }
+  ]
+}

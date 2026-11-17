@@ -1,0 +1,16 @@
+{
+  "key": "letter-116-part-02",
+  "number": 116,
+  "generationId": "01a1e671-abbc-730f-93a6-3c5d78f3b6f4",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 10,
+      "text": "Blessings to the children and regards to all.",
+      "path": "audio/1970-116/11.mp3",
+      "start": 0.0,
+      "end": 2.53
+    }
+  ]
+}

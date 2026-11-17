@@ -1,0 +1,44 @@
+{
+  "key": "letter-324-part-01",
+  "number": 324,
+  "generationId": "01a1e90d-d9fe-7725-b91e-3d0b900417eb",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1971-324/01.mp3",
+      "start": 0.0,
+      "end": 0.759252
+    },
+    {
+      "index": 1,
+      "text": "Ego plays a subtle role everywhere - not only in men but in mice also!",
+      "path": "audio/1971-324/02.mp3",
+      "start": 2.092313,
+      "end": 7.451247
+    },
+    {
+      "index": 2,
+      "text": "An arrogant elephant looked down contemptuously at a mouse and said: You are just about the skinniest little creature I have ever seen.",
+      "path": "audio/1971-324/03.mp3",
+      "start": 8.916327,
+      "end": 16.267347
+    },
+    {
+      "index": 3,
+      "text": "I am not always like this, squeaked the mouse.",
+      "path": "audio/1971-324/04.mp3",
+      "start": 17.565351,
+      "end": 20.606395000000003
+    },
+    {
+      "index": 4,
+      "text": "I've been sick!",
+      "path": "audio/1971-324/05.mp3",
+      "start": 21.88542,
+      "end": 23.72
+    }
+  ]
+}

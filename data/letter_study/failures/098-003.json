@@ -1,0 +1,5 @@
+{
+  "english": "No other work exists apart from his.",
+  "error": "Expecting ':' delimiter: line 12 column 31 (char 317)",
+  "response": "```json\n{\n  \"korean\": \"다른 일은 그의 것 외에는 존재하지 않는다.\",\n  \"explanation\": \"주어진 문장의 의미를 한국어로 번역한 내용으로, 그의 영역이나 영향 밖에는 다른 일이 없다는 의미를 담고 있다.\",\n  \"vocabulary\": [\n    {\n      \"word\": \"exists\",\n      \"meaning\": \"존재하다\",\n      \"note\": \"문장에서 어떤 것이 실제로 존재하거나 실재한다는 의미를 전달한다.\"\n    },\n    {\n      \"word\": \"apart\",\n      \"meaning\": \"따로따로\", \"분리된\",\n      \"note\": \"여기서는 '그의 영역이나 영향 밖에는'이라는 의미로 사용되어, 다른 일들이 특정 주체(그)의 영역에서 분리되어 있다는 뉘앙스를 나타낸다.\"\n    }\n  ],\n  \"expressions\": []\n}\n```"
+}

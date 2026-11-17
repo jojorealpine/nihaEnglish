@@ -1,0 +1,79 @@
+{
+  "key": "letter-106-part-01",
+  "number": 106,
+  "generationId": "01a1e634-543d-7383-9d2f-691e0ad54eb3",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-106/01.mp3",
+      "start": 0.0,
+      "end": 0.620159
+    },
+    {
+      "index": 1,
+      "text": "It brings me happiness to bear witness to your new birth.",
+      "path": "audio/1970-106/02.mp3",
+      "start": 1.9275509999999998,
+      "end": 5.251633
+    },
+    {
+      "index": 2,
+      "text": "You have worked for it over many lives and now the boat flows rightly, I can rest assured about you.",
+      "path": "audio/1970-106/03.mp3",
+      "start": 6.537483,
+      "end": 12.819569
+    },
+    {
+      "index": 3,
+      "text": "Once I made you a promise and this is now fulfilled.",
+      "path": "audio/1970-106/04.mp3",
+      "start": 14.145601000000001,
+      "end": 17.488095
+    },
+    {
+      "index": 4,
+      "text": "It is your turn to fulfill your part of the promise; make sure you don't miss the chance.",
+      "path": "audio/1970-106/05.mp3",
+      "start": 18.870725999999998,
+      "end": 24.391451
+    },
+    {
+      "index": 5,
+      "text": "Time is short and I may not be able to be with you again.",
+      "path": "audio/1970-106/06.mp3",
+      "start": 25.798503,
+      "end": 29.401293000000003
+    },
+    {
+      "index": 6,
+      "text": "Muster your whole will, take the oars in your hands and begin the journey that is infinite.",
+      "path": "audio/1970-106/07.mp3",
+      "start": 30.776439999999997,
+      "end": 36.965261
+    },
+    {
+      "index": 7,
+      "text": "You have wasted much time sitting on the banks; now the winds are favorable.",
+      "path": "audio/1970-106/08.mp3",
+      "start": 38.398866000000005,
+      "end": 44.039137999999994
+    },
+    {
+      "index": 8,
+      "text": "This I know, and that's why I am pushing you off the banks so earnestly.",
+      "path": "audio/1970-106/09.mp3",
+      "start": 45.635057,
+      "end": 50.605917999999996
+    },
+    {
+      "index": 9,
+      "text": "God's grace is showering - be open to it and let it in.",
+      "path": "audio/1970-106/10.mp3",
+      "start": 52.178277,
+      "end": 57.99
+    }
+  ]
+}

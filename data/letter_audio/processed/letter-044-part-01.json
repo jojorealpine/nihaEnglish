@@ -1,0 +1,79 @@
+{
+  "key": "letter-044-part-01",
+  "number": 44,
+  "generationId": "01a1e4f0-6499-76a6-a1f9-1c13d3fad6bb",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1967-44/01.mp3",
+      "start": 0.0,
+      "end": 0.52288
+    },
+    {
+      "index": 1,
+      "text": "What gift is greater than love?",
+      "path": "audio/1967-44/02.mp3",
+      "start": 1.7893880000000002,
+      "end": 3.490635
+    },
+    {
+      "index": 2,
+      "text": "And still you ask - What have I given?",
+      "path": "audio/1967-44/03.mp3",
+      "start": 4.737211,
+      "end": 7.599365
+    },
+    {
+      "index": 3,
+      "text": "Oh, mad one!",
+      "path": "audio/1967-44/04.mp3",
+      "start": 8.833605,
+      "end": 9.945782
+    },
+    {
+      "index": 4,
+      "text": "When love is given there is nothing left to give, not even the giver, for to give love is to give oneself.",
+      "path": "audio/1967-44/05.mp3",
+      "start": 11.235215,
+      "end": 16.362222000000003
+    },
+    {
+      "index": 5,
+      "text": "You have given yourself, now where are you?",
+      "path": "audio/1967-44/06.mp3",
+      "start": 17.623469,
+      "end": 20.059365
+    },
+    {
+      "index": 6,
+      "text": "Having lost yourself, now you are bound to find the one you have been longing to meet.",
+      "path": "audio/1967-44/07.mp3",
+      "start": 21.285646,
+      "end": 26.467846
+    },
+    {
+      "index": 7,
+      "text": "Now she has been born, and I am a witness to it, I have watched it happen.",
+      "path": "audio/1967-44/08.mp3",
+      "start": 27.837211,
+      "end": 32.926916
+    },
+    {
+      "index": 8,
+      "text": "I can hear the music that you are going to be.",
+      "path": "audio/1967-44/09.mp3",
+      "start": 34.237619,
+      "end": 36.653878
+    },
+    {
+      "index": 9,
+      "text": "The other day, when your heart was close to me, I heard it.",
+      "path": "audio/1967-44/10.mp3",
+      "start": 38.047007,
+      "end": 41.93
+    }
+  ]
+}

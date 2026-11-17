@@ -1,0 +1,79 @@
+{
+  "key": "letter-099-part-01",
+  "number": 99,
+  "generationId": "01a1e632-cf7f-7bf1-a8fe-d0e08b31ce9a",
+  "voice": "Views",
+  "speed": 0.9,
+  "clips": [
+    {
+      "index": 0,
+      "text": "Love.",
+      "path": "audio/1970-99/01.mp3",
+      "start": 0.0,
+      "end": 0.924172
+    },
+    {
+      "index": 1,
+      "text": "The fragrance of sannyas has to be spread around the world Religions, like gaols, have imprisoned the flower of sannyas too within their great walls.",
+      "path": "audio/1970-99/02.mp3",
+      "start": 2.265828,
+      "end": 11.00263
+    },
+    {
+      "index": 2,
+      "text": "Hence the sannyasin has to say now: I belong to no religion - all religions are mine.",
+      "path": "audio/1970-99/03.mp3",
+      "start": 12.581995000000001,
+      "end": 19.186508
+    },
+    {
+      "index": 3,
+      "text": "It was a terrible mistake to tear sannyas away from the world It has become bloodless.",
+      "path": "audio/1970-99/04.mp3",
+      "start": 20.645713999999998,
+      "end": 25.205215000000003
+    },
+    {
+      "index": 4,
+      "text": "And the world without sannyas has lost its life.",
+      "path": "audio/1970-99/05.mp3",
+      "start": 26.413809999999998,
+      "end": 28.894830000000002
+    },
+    {
+      "index": 5,
+      "text": "A new bridge has to be built between the two.",
+      "path": "audio/1970-99/06.mp3",
+      "start": 30.097551,
+      "end": 32.528095
+    },
+    {
+      "index": 6,
+      "text": "Sannyas has to be given back its blood, and the world, its soul.",
+      "path": "audio/1970-99/07.mp3",
+      "start": 33.733537000000005,
+      "end": 38.711791
+    },
+    {
+      "index": 7,
+      "text": "Sannyas has to be returned to samsara, fearless and unattached: in the world yet not of it, in the crowds, yet alone!",
+      "path": "audio/1970-99/08.mp3",
+      "start": 40.04424,
+      "end": 48.498005
+    },
+    {
+      "index": 8,
+      "text": "And the world has to be brought to sannyas too, fearless and unattached Then sannyas will be a real sannyas and not an escape from the world.",
+      "path": "audio/1970-99/09.mp3",
+      "start": 49.922902,
+      "end": 58.886553
+    },
+    {
+      "index": 9,
+      "text": "It will be sannyas and in the world Only then can that bridge of gold be built joining the seen with the unseen, the form with the formless.",
+      "path": "audio/1970-99/10.mp3",
+      "start": 60.333628000000004,
+      "end": 69.83
+    }
+  ]
+}
